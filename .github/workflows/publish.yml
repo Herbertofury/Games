@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json']
+    paths: ['site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','scripts/source_links.py','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json','data/media-completion.json','data/storefront-discovery.json','data/source-editions.json','.github/workflows/publish.yml']
   workflow_run:
     workflows: ['Refresh Steam catalog','Add game recommendation','Install library source','Expand shooter library','Refresh shooter discoveries']
     types: [completed]
@@ -57,6 +57,7 @@ jobs:
         run: |
           python3 tests/browser_qa.py
           python3 tests/multiplatform_qa.py
+          python3 tests/source_completion_qa.py
           cp qa/live-media/*.png qa/
       - name: Publish native wiki
         env:
@@ -89,7 +90,7 @@ jobs:
           git add dist wiki data
           git add -f docs/qa
           if ! git diff --cached --quiet; then
-            git commit -m 'Publish both verified genre hubs, generated native wiki, and runtime QA evidence'
+            git commit -m 'Publish complete shooter media and store coverage, native wiki atlas, and runtime evidence'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
