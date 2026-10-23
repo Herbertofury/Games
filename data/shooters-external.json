@@ -390,10 +390,10 @@
       "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
       "sources": [
         {
-          "provider": "Official media",
+          "provider": "ModDB creator release notes",
           "url": "https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-23"
         },
         {
           "provider": "Ashes project",
@@ -2930,10 +2930,10 @@
           "lastChecked": "2026-10-23T06:35:12.994433+00:00"
         },
         {
-          "provider": "Official media",
+          "provider": "ModDB original Director's Cut",
           "url": "https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-23"
         }
       ],
       "warnings": [],
@@ -3550,5 +3550,5 @@
       "mediaParserVersion": 2
     }
   ],
-  "mediaRefreshedAt": "2026-10-23T07:04:56.149669+00:00"
+  "mediaRefreshedAt": "2026-10-23T07:05:22.715022+00:00"
 }

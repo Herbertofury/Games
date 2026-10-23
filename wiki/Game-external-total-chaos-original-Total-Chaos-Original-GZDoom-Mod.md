@@ -43,6 +43,6 @@ The interactive library plays compatible trailers in-page. GitHub wiki links ope
 ## Sources and evidence
 
 - [ModDB](https://www.moddb.com/mods/total-chaos) · checked 2026-10-23T06:35:12.994433+00:00
-- [Official media](https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140) · checked 2026-10-23T07:04:56.149669+00:00
+- [ModDB original Director's Cut](https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140) · checked 2026-10-23
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

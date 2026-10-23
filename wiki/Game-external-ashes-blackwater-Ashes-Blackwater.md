@@ -43,7 +43,7 @@ The interactive library plays compatible trailers in-page. GitHub wiki links ope
 
 ## Sources and evidence
 
-- [Official media](https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater) · checked 2026-10-23T07:04:56.149669+00:00
+- [ModDB creator release notes](https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater) · checked 2026-10-23
 - [Ashes project](https://www.moddb.com/mods/ashes-2063) · checked 2026-10-23T06:35:12.994433+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

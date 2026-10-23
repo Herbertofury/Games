@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-23T03:54:17.798Z",
+  "exportedAt": "2026-10-23T07:06:01.830Z",
   "favorites": [
     "steam:2218750"
   ],
@@ -20,6 +20,13 @@
     {
       "name": "QA saved view",
       "filters": {
+        "hub": "",
+        "provider": "",
+        "kind": "",
+        "scope": "",
+        "hidden": false,
+        "offSteam": false,
+        "hostRating": 0,
         "q": "",
         "collection": "",
         "tag": "",
@@ -43,6 +50,13 @@
   "theme": "dark",
   "compact": false,
   "filters": {
+    "hub": "",
+    "provider": "",
+    "kind": "",
+    "scope": "",
+    "hidden": false,
+    "offSteam": false,
+    "hostRating": 0,
     "q": "",
     "collection": "",
     "tag": "",

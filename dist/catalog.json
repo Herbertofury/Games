@@ -24,7 +24,7 @@
     "verifiedCount": 318,
     "unresolvedCount": 0,
     "mediaCount": 4753,
-    "datasetHash": "bf31bbd7dce14be8dcd03c2ae9c8b81dd53a5b92fe4e103d14d2431eec4f14a0",
+    "datasetHash": "919144e7d00075537f53ec6edfcb243899e3be58b544ee4258cbc293386c74d9",
     "candidateUnresolved": [],
     "hubCounts": {
       "Boomer shooters": 150,
@@ -4981,10 +4981,10 @@
       "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
       "sources": [
         {
-          "provider": "Official media",
+          "provider": "ModDB creator release notes",
           "url": "https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-23"
         },
         {
           "provider": "Ashes project",
@@ -62514,10 +62514,10 @@
           "lastChecked": "2026-10-23T06:35:12.994433+00:00"
         },
         {
-          "provider": "Official media",
+          "provider": "ModDB original Director's Cut",
           "url": "https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-23"
         }
       ],
       "warnings": [],
