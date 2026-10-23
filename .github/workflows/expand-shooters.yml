@@ -1,0 +1,82 @@
+name: Expand shooter library
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.delivery/shooters-manifest.json']
+permissions:
+  contents: write
+concurrency:
+  group: catalog-refresh
+  cancel-in-progress: false
+jobs:
+  expand:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Install the verified source delta once
+        run: |
+          python3 - <<'PY'
+          import json,pathlib,subprocess,sys
+          root=pathlib.Path.cwd()
+          m=json.loads((root/'.delivery/shooters-manifest.json').read_text())
+          marker=root/'.delivery/installed-shooters.json'
+          installed=json.loads(marker.read_text()) if marker.exists() else {}
+          if installed.get('sha256')!=m['sha256']:
+              subprocess.run([sys.executable,'scripts/install_delivery.py'],check=True)
+              marker.write_text(json.dumps({'sha256':m['sha256'],'version':m['version']},indent=2)+'\n')
+          else:
+              print('Source checkpoint already installed; preserving later provider metadata.')
+          PY
+          node --check site/app.js
+          python3 -m py_compile scripts/*.py tests/*.py
+          python3 scripts/build.py
+          python3 -m unittest discover -s tests -p 'test_*.py'
+      - name: Persist source before external collection
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site scripts tests docs data requirements-dev.txt .delivery/installed-shooters.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Install multi-platform shooter hub, native ratings, source model, and regression tests'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Resolve new Steam identities and official creator media
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          python3 scripts/collect_shooters.py
+          python3 scripts/collect_external_media.py
+          python3 scripts/build.py
+          python3 -m unittest discover -s tests -p 'test_*.py'
+      - name: Validate reconciliation and preserve collected evidence
+        run: |
+          python3 - <<'PY'
+          import json,pathlib
+          r=pathlib.Path.cwd()
+          steam=json.loads((r/'data/shooters-steam.json').read_text())
+          assert not steam['unresolved'],steam['unresolved']
+          d=json.loads((r/'data/catalog.json').read_text())
+          items=d['items']
+          assert len(items)==318,len(items)
+          assert sum('Roguelites' in g['hubs'] for g in items)==170
+          assert sum('Boomer shooters' in g['hubs'] for g in items)==150
+          print('Reconciled: 318 unique games; 170 original recommendations; 150 shooter entries; 2 cross-genre IDs.')
+          PY
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m 'Verify shooter additions and publisher media without dropping earlier recommendations'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: shooters-expanded-snapshot
+          path: |
+            data/
+            docs/EXECUTION.md
+            dist/manifest.json
