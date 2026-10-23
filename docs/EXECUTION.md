@@ -46,7 +46,7 @@ Base: published catalog-14, source `77294d4a9d298377a4d814dde7bdd90219fd3efd`, r
 
 Completed changes: all six missing mod/scene video references resolved; corrected original Total Chaos versus remake confusion; community footage credited; Death Wish adaptation explicitly labelled; 126 Steam shooter titles checked for GOG, itch.io, and official-site alternates. Raw 118 links normalized to 74 direct additional links, with demo/archive editions inspected and preserved as overrides. Manual exact Epic links and the original Total Chaos GOG mod edition added.
 
-Known rejected routes: ModDB video HTML and Modstalgia return challenge pages in both HTTP and normal Chrome; do not loop or bypass them. Exact creator/store/community metadata supplied alternate video provenance. Third-party video `guO_QkSFOTE` was a remake music preview and is excluded from the original mod. Older Playwright video codecs remain unsuitable; use current system Chrome.
+Known rejected routes: ModDB video HTML and Modstalgia return challenge pages in both HTTP and normal Chrome; do not loop or bypass them. Exact creator/store/community metadata supplied alternate video provenance. Third-party video `guO_QkSFTE` was a remake music preview and is excluded from the original mod. Older Playwright video codecs remain unsuitable; use current system Chrome.
 
 ## Verified release, October 23, 2026
 
@@ -78,3 +78,30 @@ The interrupted RTS transfer was recovered from its intact source sections and e
 Restored artwork and credited video sources cover all 130 RTS entries. Demo, prototype, bundle, original-release date, base-game requirement, and tactical-versus-base-building distinctions are retained. The RTS demo shortcut also finds demo editions attached to full games. No scheduled crawler or hidden updater was added. Cancelled and unresolved candidates are recorded separately, not advertised as playable releases.
 
 At this checkpoint 44 unit tests, script compilation, and JavaScript syntax pass. Full current-Chrome interaction/media tests, native wiki synchronization, release publication, and Drive hash verification remain the publication gate. GitHub Pages enablement is a separate user-controlled prerequisite.
+
+## RTS release verified, October 23, 2026
+
+Release: https://github.com/Herbertofury/Games/releases/tag/catalog-16
+Runtime source: f0e8b700401df5561337ff50851be56e90e02b80. Recovery/install run 39985150135 completed successfully after verifying all 13 intact source sections and the test payload. Publication run 39985311098, job 120522821045, passed the complete runtime gate and published the native wiki and release.
+
+Final collection: 448 unique records, preserving all 318 previous identities. Genre counts are 170 roguelites, 150 shooters, and 130 RTS entries; two old games belong to both earlier genres. RTS has 14 collections, 108 Steam identities, and 22 external/community identities. All 130 have source artwork, video-player metadata and direct distribution links. Availability: 111 released, 12 Early Access, 1 playable alpha, and 6 explicitly unreleased watchlist records. Mods expose paid base-game prerequisites. No aggregate score is invented for unrated community releases.
+
+RTS source coverage: 183 links across Steam (108), GOG (32), official sites (10), ModDB (9), itch.io (7), Battle.net (5), EA (4), Gamesplanet (2), Patreon (2), IndieDB (1), Xbox PC (1), FAF community (1), and Epic Games (1). Counts are per-game source references, not a claim of all worldwide storefronts or 183 distinct games. Creator support, demos, prototypes, archives, bundles and full games remain distinct.
+
+QA: 44 unit tests; 26 original browser checks; 26 cross-platform checks; 17 complete-shooter checks; 33 new RTS checks. All four browser suites passed, with no uncaught script errors. The real Chrome run opened all 130 RTS detail panels and verified every published source button, commander brief, player/source link, and required base-game note. All 130 primary artwork images decoded from actual remote bytes. Tempest Rising's official stream and Supreme Commander: Forged Alliance's archived publisher MP4 both advanced with decoded frames. The Zero Hour privacy-enhanced YouTube embed received its exact verified video ID. Original Steam/portable media tests and the shooter media suite also passed. This does not assert that every external video was played end to end.
+
+Desktop, mobile and free-game detail screenshots were inspected. RTS full-render samples were 50.7, 15.8, 12.6, 13.5 and 14.2 ms on the CI runner, with all 130 records present. The unchanged 150-shooter warm samples remained approximately 15-21 ms. No viewport virtualization or result culling was introduced. The demo shortcut now includes genuine demo editions attached to full-game entries.
+
+Native wiki commit: 03b6e5633f4174e861a0f1aef84fed4c55f8b623, verified by authenticated push and remote readback. It contains 463 generated pages, including Real-Time-Strategy, RTS-Media, and Zero-Hour-and-CNC-Mods. Wiki artwork/video links are distinct from the app's embedded players.
+
+Dataset SHA-256: 1cfa7bd103db4d90470225df3c9b34f5bae1fe94d9c9e1817d18972d9d2a71ee.
+HTML: 5,099,573 bytes; SHA-256 72f77b759beb9d08aead0abf61ab33578d443d24101f164cd425e36fab8841ca.
+Source/library ZIP: 4,292,243 bytes; SHA-256 0d4433b037b6403989ea8c39aa2fec34734807c6f1df334a7971c4c1d8fd7ebf.
+GitHub artifact 12515332448: 14,025,909 bytes; SHA-256 e7fa0cbfb93799651167a0eb3fc676d8033825e6d59f675787e00c227b712b81. Local artifact bytes, packaged manifests, and the GitHub release asset API digests match.
+Drive backup 12wRptA5HBFWZALjgM5mBBxqE2-X-yzIR was updated in place to that artifact, downloaded again, and matched its exact size and SHA-256. Prior GitHub releases remain available.
+
+Post-release maintenance commit 073e059629ffd70864bc1ca893c63e852124a928 routes future Refresh RTS discoveries runs through the existing exact-edition enrich_rts.py path and persists all RTS source outputs, rather than letting the initial discovery-only collector discard reconciled IDs. The callable enrichment path is covered by the completed enrichment run and cache/force tests. This workflow-only correction does not change the tested catalog-16 HTML or data; catalog-16 remains an immutable-in-practice release snapshot with its recorded source revision. Current repository workflows are authoritative for subsequent refreshes.
+
+Remaining hosting prerequisite: GitHub Pages is still disabled. Native wiki, release, and portable HTML are published. Enable Settings > Pages > Source: GitHub Actions, then run Publish library to activate the hosted site. Do not claim the Pages URL is live.
+
+Exact next action for later content work: reuse catalog-16, the same stable IDs, source/curation overrides, and games.library.v1 state. Apply requested additions or corrections only; run changed-path tests followed by publication. Preserve the RTS media and original-versus-store date distinctions. Do not restart completed discovery, rerun interrupted bootstrap payloads, or re-upload unchanged release bytes. The only active source-discovery gaps are the explicitly recorded non-promoted candidates, not missing media on any of the 130 published RTS entries.
