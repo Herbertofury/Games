@@ -10,13 +10,13 @@ Filthium Zero is a compact action roguelite experience featuring a mix of vertic
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 7/10 |
-| Community reception | 91.9% / 37 Steam reviews |
+| Community reception | 89.5% / 38 Steam reviews |
 | Release | Mar 12, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
 | Creators | NoiseHum Games |
 | Price snapshot | $1.79 |
-| Verified | 2026-10-23T03:38:48.963323+00:00 |
+| Verified | 2026-10-23T17:33:13.080221+00:00 |
 
 ## Official stores and downloads
 
@@ -58,8 +58,8 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/3514090/) · checked 2026-10-23T03:38:48.963323+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3514090&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3514090%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam](https://store.steampowered.com/app/3514090/) · checked 2026-10-23T17:33:13.080221+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3514090&l=english&cc=us) · checked 2026-10-23T17:33:13.080221+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3514090%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:33:13.080221+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

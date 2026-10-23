@@ -144,15 +144,15 @@ Every genre shares one canonical library.
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
 | [Hades](Game-1145360-Hades) | 10/10 | 98.0% / 310,301 Steam reviews | Sep 17, 2020 · Released | [Steam](https://store.steampowered.com/app/1145360/) |
-| [Tiny Rogues](Game-2088570-Tiny-Rogues) | 10/10 | 96.0% / 10,814 Steam reviews | Sep 23, 2022 · Early Access | [Steam](https://store.steampowered.com/app/2088570/) |
-| [Hades II](Game-1145350-Hades-II) | 9/10 | 95.7% / 124,458 Steam reviews | Sep 25, 2025 · Released | [Steam](https://store.steampowered.com/app/1145350/) |
-| [Shape of Dreams](Game-2444750-Shape-of-Dreams) | 9/10 | 90.0% / 21,424 Steam reviews | Sep 10, 2025 · Released | [Steam](https://store.steampowered.com/app/2444750/) |
-| [Magicraft](Game-2103140-Magicraft) | 9/10 | 92.8% / 17,010 Steam reviews | Nov 1, 2024 · Released | [Steam](https://store.steampowered.com/app/2103140/) |
-| [Sephiria](Game-2436940-Sephiria) | 8/10 | 94.5% / 13,504 Steam reviews | Jul 31, 2026 · Released | [Steam](https://store.steampowered.com/app/2436940/) |
+| [Tiny Rogues](Game-2088570-Tiny-Rogues) | 10/10 | 96.0% / 10,815 Steam reviews | Sep 23, 2022 · Early Access | [Steam](https://store.steampowered.com/app/2088570/) |
+| [Hades II](Game-1145350-Hades-II) | 9/10 | 95.7% / 124,470 Steam reviews | Sep 25, 2025 · Released | [Steam](https://store.steampowered.com/app/1145350/) |
+| [Shape of Dreams](Game-2444750-Shape-of-Dreams) | 9/10 | 90.0% / 21,435 Steam reviews | Sep 10, 2025 · Released | [Steam](https://store.steampowered.com/app/2444750/) |
+| [Magicraft](Game-2103140-Magicraft) | 9/10 | 92.8% / 17,012 Steam reviews | Nov 1, 2024 · Released | [Steam](https://store.steampowered.com/app/2103140/) |
+| [Sephiria](Game-2436940-Sephiria) | 8/10 | 94.5% / 13,517 Steam reviews | Jul 31, 2026 · Released | [Steam](https://store.steampowered.com/app/2436940/) |
 | [KILL KNIGHT](Game-2694420-KILL-KNIGHT) | 8/10 | 93.7% / 2,051 Steam reviews | Oct 2, 2024 · Released | [Steam](https://store.steampowered.com/app/2694420/) |
-| [Ravenswatch](Game-2071280-Ravenswatch) | 7/10 | 79.8% / 23,161 Steam reviews | Sep 26, 2024 · Released | [Steam](https://store.steampowered.com/app/2071280/) |
-| [Garden of Witches](Game-2530470-Garden-of-Witches) | 7/10 | 92.6% / 2,240 Steam reviews | Aug 28, 2026 · Released | [Steam](https://store.steampowered.com/app/2530470/) |
-| [Ascend to ZERO](Game-2697940-Ascend-to-ZERO) | 7/10 | 83.0% / 1,005 Steam reviews | Jul 13, 2026 · Released | [Steam](https://store.steampowered.com/app/2697940/) |
+| [Ravenswatch](Game-2071280-Ravenswatch) | 7/10 | 79.7% / 23,167 Steam reviews | Sep 26, 2024 · Released | [Steam](https://store.steampowered.com/app/2071280/) |
+| [Garden of Witches](Game-2530470-Garden-of-Witches) | 7/10 | 92.6% / 2,241 Steam reviews | Aug 28, 2026 · Released | [Steam](https://store.steampowered.com/app/2530470/) |
+| [Ascend to ZERO](Game-2697940-Ascend-to-ZERO) | 7/10 | 83.0% / 1,006 Steam reviews | Jul 13, 2026 · Released | [Steam](https://store.steampowered.com/app/2697940/) |
 | [Masks of the Void: Origins](Game-2542350-Masks-of-the-Void-Origins) | 7/10 | 97.4% / 117 Steam reviews | Mar 6, 2026 · Released | [Steam](https://store.steampowered.com/app/2542350/) |
 | [Adrenaline Rampage](Game-2419720-Adrenaline-Rampage) | 7/10 | 92.5% / 40 Steam reviews | Oct 18, 2025 · Released | [Steam](https://store.steampowered.com/app/2419720/) |
 
@@ -169,7 +169,7 @@ Every genre shares one canonical library.
 | [Nightmare Reaper](Game-1051690-Nightmare-Reaper) | 9/10 | 93.4% / 3,801 Steam reviews | Mar 28, 2022 · Released | [Steam](https://store.steampowered.com/app/1051690/) · [GOG](https://www.gog.com/en/game/nightmare_reaper) |
 | [Deadlink](Game-1676130-Deadlink) | 9/10 | 88.8% / 3,677 Steam reviews | Jul 27, 2023 · Released | [Steam](https://store.steampowered.com/app/1676130/) · [GOG](https://www.gog.com/en/game/deadlink) |
 | [HYPER DEMON](Game-1743850-HYPER-DEMON) | 9/10 | 94.1% / 3,382 Steam reviews | Sep 19, 2022 · Released | [Steam](https://store.steampowered.com/app/1743850/) |
-| [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,033 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) · [GOG](https://www.gog.com/en/game/bloodshed) · [Epic Games](https://store.epicgames.com/en-US/p/bloodshed-849737) |
+| [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,037 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) · [GOG](https://www.gog.com/en/game/bloodshed) · [Epic Games](https://store.epicgames.com/en-US/p/bloodshed-849737) |
 | [CRUEL](Game-2689470-CRUEL) | 9/10 | 95.2% / 1,910 Steam reviews | Jan 9, 2025 · Released | [Steam](https://store.steampowered.com/app/2689470/) |
 | [ODDCORE](Game-2896260-ODDCORE) | 9/10 | 96.8% / 1,192 Steam reviews | Jan 7, 2026 · Early Access | [Steam](https://store.steampowered.com/app/2896260/) |
 | [Gunfire Reborn](Game-1217060-Gunfire-Reborn) | 8/10 | 93.1% / 103,818 Steam reviews | Nov 17, 2021 · Released | [Steam](https://store.steampowered.com/app/1217060/) |
@@ -192,22 +192,22 @@ Every genre shares one canonical library.
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [Vampire Survivors](Game-1794680-Vampire-Survivors) | 10/10 | 98.3% / 266,668 Steam reviews | Oct 20, 2022 · Released | [Steam](https://store.steampowered.com/app/1794680/) |
-| [Brotato](Game-1942280-Brotato) | 10/10 | 95.9% / 120,049 Steam reviews | Jun 23, 2023 · Released | [Steam](https://store.steampowered.com/app/1942280/) |
-| [Megabonk](Game-3405340-Megabonk) | 9/10 | 94.2% / 107,226 Steam reviews | Sep 18, 2025 · Released | [Steam](https://store.steampowered.com/app/3405340/) |
+| [Vampire Survivors](Game-1794680-Vampire-Survivors) | 10/10 | 98.3% / 266,685 Steam reviews | Oct 20, 2022 · Released | [Steam](https://store.steampowered.com/app/1794680/) |
+| [Brotato](Game-1942280-Brotato) | 10/10 | 95.9% / 120,062 Steam reviews | Jun 23, 2023 · Released | [Steam](https://store.steampowered.com/app/1942280/) |
+| [Megabonk](Game-3405340-Megabonk) | 9/10 | 94.2% / 107,233 Steam reviews | Sep 18, 2025 · Released | [Steam](https://store.steampowered.com/app/3405340/) |
 | [HoloCure - Save the Fans!](Game-2420510-HoloCure-Save-the-Fans) | 9/10 | 99.0% / 40,898 Steam reviews | Aug 16, 2023 · Released | [Steam](https://store.steampowered.com/app/2420510/) |
-| [Noobs Are Coming](Game-2225960-Noobs-Are-Coming) | 9/10 | 81.7% / 1,630 Steam reviews | Nov 27, 2025 · Released | [Steam](https://store.steampowered.com/app/2225960/) |
+| [Noobs Are Coming](Game-2225960-Noobs-Are-Coming) | 9/10 | 81.7% / 1,631 Steam reviews | Nov 27, 2025 · Released | [Steam](https://store.steampowered.com/app/2225960/) |
 | [Bounty of One](Game-1968730-Bounty-of-One) | 8/10 | 87.8% / 3,034 Steam reviews | Sep 8, 2023 · Released | [Steam](https://store.steampowered.com/app/1968730/) |
-| [I Am Legion: Stand Survivors](Game-3109580-I-Am-Legion-Stand-Survivors) | 8/10 | 82.2% / 2,611 Steam reviews | Mar 6, 2025 · Released | [Steam](https://store.steampowered.com/app/3109580/) |
-| [Pathogenic](Game-3808690-Pathogenic) | 7/10 | 93.2% / 4,969 Steam reviews | Jul 16, 2026 · Released | [Steam](https://store.steampowered.com/app/3808690/) |
+| [I Am Legion: Stand Survivors](Game-3109580-I-Am-Legion-Stand-Survivors) | 8/10 | 82.2% / 2,610 Steam reviews | Mar 6, 2025 · Released | [Steam](https://store.steampowered.com/app/3109580/) |
+| [Pathogenic](Game-3808690-Pathogenic) | 7/10 | 93.2% / 4,976 Steam reviews | Jul 16, 2026 · Released | [Steam](https://store.steampowered.com/app/3808690/) |
 | [Temtem: Swarm](Game-2510960-Temtem-Swarm) | 7/10 | 78.5% / 2,771 Steam reviews | Apr 2, 2026 · Released | [Steam](https://store.steampowered.com/app/2510960/) |
-| [Antivirus Survivors 2003 Professional](Game-3832490-Antivirus-Survivors-2003-Professional) | 7/10 | 97.8% / 1,436 Steam reviews | Sep 28, 2026 · Released | [Steam](https://store.steampowered.com/app/3832490/) |
+| [Antivirus Survivors 2003 Professional](Game-3832490-Antivirus-Survivors-2003-Professional) | 7/10 | 97.9% / 1,443 Steam reviews | Sep 28, 2026 · Released | [Steam](https://store.steampowered.com/app/3832490/) |
 | [Funguys Swarm](Game-3371770-Funguys-Swarm) | 7/10 | 89.6% / 1,177 Steam reviews | Aug 25, 2026 · Released | [Steam](https://store.steampowered.com/app/3371770/) |
 | [Shard Squad](Game-3363560-Shard-Squad) | 7/10 | 85.6% / 655 Steam reviews | Nov 10, 2025 · Released | [Steam](https://store.steampowered.com/app/3363560/) |
 | [Power Fantasy](Game-2482190-Power-Fantasy) | 7/10 | 86.2% / 645 Steam reviews | Dec 4, 2025 · Released | [Steam](https://store.steampowered.com/app/2482190/) |
-| [Flock of the Seraphim](Game-4290680-Flock-of-the-Seraphim) | 7/10 | 84.7% / 196 Steam reviews | Aug 13, 2026 · Released | [Steam](https://store.steampowered.com/app/4290680/) |
+| [Flock of the Seraphim](Game-4290680-Flock-of-the-Seraphim) | 7/10 | 84.8% / 197 Steam reviews | Aug 13, 2026 · Released | [Steam](https://store.steampowered.com/app/4290680/) |
 | [Rift Rangers](Game-2172120-Rift-Rangers) | 7/10 | 87.2% / 39 Steam reviews | May 24, 2023 · Released | [Steam](https://store.steampowered.com/app/2172120/) |
-| [Trials Survivors](Game-3762660-Trials-Survivors) | 6/10 | 85.1% / 549 Steam reviews | Jun 8, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3762660/) |
+| [Trials Survivors](Game-3762660-Trials-Survivors) | 6/10 | 85.1% / 550 Steam reviews | Jun 8, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3762660/) |
 
 ## C&C community standalones
 
@@ -341,31 +341,31 @@ Every genre shares one canonical library.
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [Halls of Torment](Game-2218750-Halls-of-Torment) | 10/10 | 95.3% / 31,988 Steam reviews | Sep 24, 2024 · Released | [Steam](https://store.steampowered.com/app/2218750/) |
+| [Halls of Torment](Game-2218750-Halls-of-Torment) | 10/10 | 95.3% / 31,990 Steam reviews | Sep 24, 2024 · Released | [Steam](https://store.steampowered.com/app/2218750/) |
 | [Death Must Die](Game-2334730-Death-Must-Die) | 10/10 | 90.1% / 21,810 Steam reviews | Nov 14, 2023 · Early Access | [Steam](https://store.steampowered.com/app/2334730/) |
 | [Rogue: Genesia](Game-2067920-Rogue-Genesia) | 10/10 | 90.0% / 8,681 Steam reviews | Mar 7, 2025 · Released | [Steam](https://store.steampowered.com/app/2067920/) |
-| [Jotunnslayer: Hordes of Hel](Game-2820820-Jotunnslayer-Hordes-of-Hel) | 10/10 | 82.4% / 7,854 Steam reviews | Sep 3, 2025 · Released | [Steam](https://store.steampowered.com/app/2820820/) |
+| [Jotunnslayer: Hordes of Hel](Game-2820820-Jotunnslayer-Hordes-of-Hel) | 10/10 | 82.4% / 7,855 Steam reviews | Sep 3, 2025 · Released | [Steam](https://store.steampowered.com/app/2820820/) |
 | [Keeper's Toll](Game-2002220-Keeper-s-Toll) | 10/10 | 89.7% / 803 Steam reviews | Oct 28, 2024 · Released | [Steam](https://store.steampowered.com/app/2002220/) |
 | [Boneraiser Minions](Game-1944570-Boneraiser-Minions) | 9/10 | 96.2% / 5,383 Steam reviews | Mar 9, 2023 · Released | [Steam](https://store.steampowered.com/app/1944570/) |
-| [Conquest Dark](Game-3238670-Conquest-Dark) | 9/10 | 89.7% / 2,813 Steam reviews | Apr 30, 2025 · Early Access | [Steam](https://store.steampowered.com/app/3238670/) |
+| [Conquest Dark](Game-3238670-Conquest-Dark) | 9/10 | 89.7% / 2,814 Steam reviews | Apr 30, 2025 · Early Access | [Steam](https://store.steampowered.com/app/3238670/) |
 | [Scarlet Tower](Game-2181720-Scarlet-Tower) | 9/10 | 81.3% / 2,399 Steam reviews | Mar 25, 2024 · Released | [Steam](https://store.steampowered.com/app/2181720/) |
 | [Be My Horde](Game-2499520-Be-My-Horde) | 9/10 | 85.2% / 2,141 Steam reviews | Jun 18, 2024 · Early Access | [Steam](https://store.steampowered.com/app/2499520/) |
 | [Fantasy Survivors](Game-2220870-Fantasy-Survivors) | 9/10 | 86.9% / 259 Steam reviews | May 1, 2024 · Released | [Steam](https://store.steampowered.com/app/2220870/) |
 | [Horde Hunters](Game-2178560-Horde-Hunters) | 9/10 | 87.7% / 106 Steam reviews | Apr 10, 2025 · Released | [Steam](https://store.steampowered.com/app/2178560/) |
-| [Arms of God](Game-3100310-Arms-of-God) | 8/10 | 88.0% / 1,996 Steam reviews | Jun 8, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3100310/) |
+| [Arms of God](Game-3100310-Arms-of-God) | 8/10 | 88.0% / 1,997 Steam reviews | Jun 8, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3100310/) |
 | [Artifact Seeker: Resurrection](Game-3054610-Artifact-Seeker-Resurrection) | 8/10 | 80.8% / 804 Steam reviews | Jul 26, 2024 · Released | [Steam](https://store.steampowered.com/app/3054610/) |
 | [Archons](Game-2779570-Archons) | 8/10 | 92.6% / 443 Steam reviews | Dec 6, 2024 · Released | [Steam](https://store.steampowered.com/app/2779570/) |
 | [Witchcraft Survivors](Game-2443370-Witchcraft-Survivors) | 8/10 | 81.0% / 63 Steam reviews | Apr 13, 2024 · Released | [Steam](https://store.steampowered.com/app/2443370/) |
 | [Bloodmoon Survivors](Game-3115310-Bloodmoon-Survivors) | 8/10 | 100.0% / 37 Steam reviews | Aug 4, 2026 · Released | [Steam](https://store.steampowered.com/app/3115310/) |
-| [Hell Maiden](Game-3372060-Hell-Maiden) | 7/10 | 91.1% / 2,070 Steam reviews | Jul 16, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3372060/) |
-| [Grind Survivors](Game-3816930-Grind-Survivors) | 7/10 | 71.1% / 1,475 Steam reviews | Mar 16, 2026 · Released | [Steam](https://store.steampowered.com/app/3816930/) |
+| [Hell Maiden](Game-3372060-Hell-Maiden) | 7/10 | 91.1% / 2,071 Steam reviews | Jul 16, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3372060/) |
+| [Grind Survivors](Game-3816930-Grind-Survivors) | 7/10 | 71.2% / 1,479 Steam reviews | Mar 16, 2026 · Released | [Steam](https://store.steampowered.com/app/3816930/) |
 | [Sineus Arena Survivors](Game-4227400-Sineus-Arena-Survivors) | 7/10 | 77.5% / 1,345 Steam reviews | Jun 22, 2026 · Released | [Steam](https://store.steampowered.com/app/4227400/) |
 | [Spellbook Demonslayers](Game-2007530-Spellbook-Demonslayers) | 7/10 | 73.4% / 1,329 Steam reviews | Nov 2, 2022 · Early Access | [Steam](https://store.steampowered.com/app/2007530/) |
 | [Night Swarm](Game-3668370-Night-Swarm) | 7/10 | 79.7% / 1,287 Steam reviews | Dec 4, 2025 · Released | [Steam](https://store.steampowered.com/app/3668370/) |
-| [Blood Dungeon](Game-2431080-Blood-Dungeon) | 7/10 | 90.1% / 578 Steam reviews | Aug 25, 2026 · Released | [Steam](https://store.steampowered.com/app/2431080/) |
+| [Blood Dungeon](Game-2431080-Blood-Dungeon) | 7/10 | 90.2% / 579 Steam reviews | Aug 25, 2026 · Released | [Steam](https://store.steampowered.com/app/2431080/) |
 | [Hand of Fate: Hordes](Game-3075410-Hand-of-Fate-Hordes) | 7/10 | 79.0% / 367 Steam reviews | Jul 22, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3075410/) |
 | [Her Name Was Fire](Game-2083840-Her-Name-Was-Fire) | 7/10 | 72.7% / 297 Steam reviews | Oct 11, 2022 · Released | [Steam](https://store.steampowered.com/app/2083840/) |
-| [Hordes of Hunger](Game-2157710-Hordes-of-Hunger) | 7/10 | 74.4% / 270 Steam reviews | Feb 12, 2026 · Released | [Steam](https://store.steampowered.com/app/2157710/) |
+| [Hordes of Hunger](Game-2157710-Hordes-of-Hunger) | 7/10 | 74.2% / 271 Steam reviews | Feb 12, 2026 · Released | [Steam](https://store.steampowered.com/app/2157710/) |
 | [In Woods](Game-2113770-In-Woods) | 7/10 | 86.5% / 245 Steam reviews | Aug 19, 2024 · Released | [Steam](https://store.steampowered.com/app/2113770/) |
 | [Striving for Light: Survival](Game-2286450-Striving-for-Light-Survival) | 7/10 | 77.1% / 170 Steam reviews | Dec 2, 2023 · Released | [Steam](https://store.steampowered.com/app/2286450/) |
 | [Soul Stalker](Game-1714240-Soul-Stalker) | 7/10 | 76.5% / 102 Steam reviews | Oct 24, 2024 · Released | [Steam](https://store.steampowered.com/app/1714240/) |
@@ -385,7 +385,7 @@ Every genre shares one canonical library.
 | [Wanted Shadows: Unchained](Game-3990560-Wanted-Shadows-Unchained) | 7/10 | 100.0% / 11 Steam reviews | Jun 8, 2026 · Released | [Steam](https://store.steampowered.com/app/3990560/) |
 | [Go Forward Survivors](Game-3519700-Go-Forward-Survivors) | 7/10 | 100.0% / 7 Steam reviews | May 6, 2026 · Released | [Steam](https://store.steampowered.com/app/3519700/) |
 | [Alight in the Dark](Game-2019020-Alight-in-the-Dark) | 7/10 | 66.7% / 6 Steam reviews | Jul 7, 2023 · Released | [Steam](https://store.steampowered.com/app/2019020/) |
-| [Tower of Babel: Survivors of Chaos](Game-2665680-Tower-of-Babel-Survivors-of-Chaos) | 6/10 | 68.9% / 6,482 Steam reviews | May 26, 2026 · Released | [Steam](https://store.steampowered.com/app/2665680/) |
+| [Tower of Babel: Survivors of Chaos](Game-2665680-Tower-of-Babel-Survivors-of-Chaos) | 6/10 | 69.0% / 6,484 Steam reviews | May 26, 2026 · Released | [Steam](https://store.steampowered.com/app/2665680/) |
 | [GOD FORSAKEN](Game-3419290-GOD-FORSAKEN) | 6/10 | 67.2% / 1,823 Steam reviews | Feb 3, 2026 · Released | [Steam](https://store.steampowered.com/app/3419290/) |
 | [Berserker Onslaught](Game-4337210-Berserker-Onslaught) | 6/10 | 64.2% / 394 Steam reviews | May 20, 2026 · Released | [Steam](https://store.steampowered.com/app/4337210/) |
 | [Crimson Dawn](Game-1919720-Crimson-Dawn) | 6/10 | 64.4% / 382 Steam reviews | Apr 11, 2023 · Released | [Steam](https://store.steampowered.com/app/1919720/) |
@@ -565,7 +565,7 @@ Every genre shares one canonical library.
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,033 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) · [GOG](https://www.gog.com/en/game/bloodshed) · [Epic Games](https://store.epicgames.com/en-US/p/bloodshed-849737) |
+| [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,037 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) · [GOG](https://www.gog.com/en/game/bloodshed) · [Epic Games](https://store.epicgames.com/en-US/p/bloodshed-849737) |
 | [Vampire Hunters](Game-2206270-Vampire-Hunters) | 8/10 | 89.8% / 2,238 Steam reviews | Oct 30, 2024 · Released | [Steam](https://store.steampowered.com/app/2206270/) |
 
 ## Free & open RTS
@@ -665,7 +665,7 @@ Every genre shares one canonical library.
 | [Chronicon](Game-375480-Chronicon) | 10/10 | 94.0% / 9,778 Steam reviews | Aug 21, 2020 · Released | [Steam](https://store.steampowered.com/app/375480/) |
 | [The Slormancer](Game-1104280-The-Slormancer) | 10/10 | 81.4% / 7,394 Steam reviews | May 13, 2025 · Released | [Steam](https://store.steampowered.com/app/1104280/) |
 | [God Of Weapons](Game-2342950-God-Of-Weapons) | 9/10 | 84.0% / 5,272 Steam reviews | Sep 12, 2023 · Released | [Steam](https://store.steampowered.com/app/2342950/) |
-| [Hell Clock](Game-1782460-Hell-Clock) | 9/10 | 84.1% / 4,509 Steam reviews | Jul 22, 2025 · Released | [Steam](https://store.steampowered.com/app/1782460/) |
+| [Hell Clock](Game-1782460-Hell-Clock) | 9/10 | 84.1% / 4,515 Steam reviews | Jul 22, 2025 · Released | [Steam](https://store.steampowered.com/app/1782460/) |
 | [Dwarven Realms](Game-2015240-Dwarven-Realms) | 9/10 | 81.6% / 3,662 Steam reviews | Sep 27, 2024 · Released | [Steam](https://store.steampowered.com/app/2015240/) |
 | [Bioweaver](Game-3177970-Bioweaver) | 7/10 | 77.8% / 698 Steam reviews | Nov 15, 2024 · Released | [Steam](https://store.steampowered.com/app/3177970/) |
 | [Striving for Light](Game-1646790-Striving-for-Light) | 7/10 | 79.4% / 243 Steam reviews | Jul 11, 2025 · Released | [Steam](https://store.steampowered.com/app/1646790/) |
@@ -714,19 +714,19 @@ Every genre shares one canonical library.
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [Soulstone Survivors](Game-2066020-Soulstone-Survivors) | 10/10 | 91.3% / 26,939 Steam reviews | Jun 17, 2025 · Released | [Steam](https://store.steampowered.com/app/2066020/) |
-| [The Spell Brigade](Game-2904000-The-Spell-Brigade) | 9/10 | 81.6% / 17,136 Steam reviews | Apr 29, 2026 · Released | [Steam](https://store.steampowered.com/app/2904000/) |
+| [Soulstone Survivors](Game-2066020-Soulstone-Survivors) | 10/10 | 91.3% / 26,942 Steam reviews | Jun 17, 2025 · Released | [Steam](https://store.steampowered.com/app/2066020/) |
+| [The Spell Brigade](Game-2904000-The-Spell-Brigade) | 9/10 | 81.6% / 17,140 Steam reviews | Apr 29, 2026 · Released | [Steam](https://store.steampowered.com/app/2904000/) |
 | [Nordic Ashes: Survivors of Ragnarok](Game-2068280-Nordic-Ashes-Survivors-of-Ragnarok) | 9/10 | 88.2% / 6,344 Steam reviews | Apr 26, 2024 · Released | [Steam](https://store.steampowered.com/app/2068280/) |
 | [Army of Ruin](Game-1918040-Army-of-Ruin) | 9/10 | 87.9% / 2,833 Steam reviews | Jun 8, 2023 · Released | [Steam](https://store.steampowered.com/app/1918040/) |
-| [Spell Disk](Game-2292060-Spell-Disk) | 9/10 | 89.1% / 980 Steam reviews | Mar 1, 2024 · Released | [Steam](https://store.steampowered.com/app/2292060/) |
-| [Nomad Survival](Game-1929870-Nomad-Survival) | 8/10 | 83.9% / 2,194 Steam reviews | Oct 8, 2022 · Released | [Steam](https://store.steampowered.com/app/1929870/) |
+| [Spell Disk](Game-2292060-Spell-Disk) | 9/10 | 89.1% / 979 Steam reviews | Mar 1, 2024 · Released | [Steam](https://store.steampowered.com/app/2292060/) |
+| [Nomad Survival](Game-1929870-Nomad-Survival) | 8/10 | 83.8% / 2,195 Steam reviews | Oct 8, 2022 · Released | [Steam](https://store.steampowered.com/app/1929870/) |
 | [Achilles: Survivor](Game-2922410-Achilles-Survivor) | 8/10 | 82.0% / 1,726 Steam reviews | Jul 29, 2025 · Released | [Steam](https://store.steampowered.com/app/2922410/) |
 | [Twilight Survivors](Game-2788310-Twilight-Survivors) | 8/10 | 89.0% / 1,111 Steam reviews | Apr 1, 2024 · Released | [Steam](https://store.steampowered.com/app/2788310/) |
 | [Crafty Survivors](Game-2137760-Crafty-Survivors) | 8/10 | 82.7% / 764 Steam reviews | May 16, 2025 · Released | [Steam](https://store.steampowered.com/app/2137760/) |
 | [Neophyte](Game-1409530-Neophyte) | 8/10 | 90.5% / 682 Steam reviews | May 15, 2026 · Released | [Steam](https://store.steampowered.com/app/1409530/) |
 | [Spirit Hunters: Infinite Horde](Game-1914580-Spirit-Hunters-Infinite-Horde) | 7/10 | 78.9% / 1,590 Steam reviews | Jun 20, 2023 · Released | [Steam](https://store.steampowered.com/app/1914580/) |
-| [Asgard's Fall — Viking Survivors](Game-2780710-Asgard-s-Fall-Viking-Survivors) | 7/10 | 78.8% / 1,524 Steam reviews | Sep 9, 2026 · Released | [Steam](https://store.steampowered.com/app/2780710/) |
-| [Echoes of Mystralia](Game-974480-Echoes-of-Mystralia) | 7/10 | 83.2% / 775 Steam reviews | Aug 11, 2026 · Early Access | [Steam](https://store.steampowered.com/app/974480/) |
+| [Asgard's Fall — Viking Survivors](Game-2780710-Asgard-s-Fall-Viking-Survivors) | 7/10 | 78.8% / 1,525 Steam reviews | Sep 9, 2026 · Released | [Steam](https://store.steampowered.com/app/2780710/) |
+| [Echoes of Mystralia](Game-974480-Echoes-of-Mystralia) | 7/10 | 83.3% / 777 Steam reviews | Aug 11, 2026 · Early Access | [Steam](https://store.steampowered.com/app/974480/) |
 | [Machick 2](Game-3449040-Machick-2) | 7/10 | 89.3% / 681 Steam reviews | Sep 10, 2025 · Released | [Steam](https://store.steampowered.com/app/3449040/) |
 | [Champion Shift](Game-2391900-Champion-Shift) | 7/10 | 77.4% / 230 Steam reviews | Jun 21, 2024 · Released | [Steam](https://store.steampowered.com/app/2391900/) |
 | [Wildkeepers Rising](Game-2995560-Wildkeepers-Rising) | 7/10 | 79.1% / 129 Steam reviews | Oct 23, 2025 · Released | [Steam](https://store.steampowered.com/app/2995560/) |
@@ -735,7 +735,7 @@ Every genre shares one canonical library.
 | [Arcane Tower Survivors](Game-2433850-Arcane-Tower-Survivors) | 7/10 | 76.5% / 98 Steam reviews | Oct 23, 2025 · Released | [Steam](https://store.steampowered.com/app/2433850/) |
 | [GOI Survivors](Game-2723480-GOI-Survivors) | 7/10 | 86.2% / 29 Steam reviews | Dec 25, 2023 · Released | [Steam](https://store.steampowered.com/app/2723480/) |
 | [Alchemy Survivors](Game-4489800-Alchemy-Survivors) | 7/10 | 92.6% / 27 Steam reviews | Apr 6, 2026 · Early Access | [Steam](https://store.steampowered.com/app/4489800/) |
-| [Stolen Realm Survivors](Game-3228580-Stolen-Realm-Survivors) | 6/10 | 63.9% / 166 Steam reviews | May 7, 2026 · Released | [Steam](https://store.steampowered.com/app/3228580/) |
+| [Stolen Realm Survivors](Game-3228580-Stolen-Realm-Survivors) | 6/10 | 63.5% / 167 Steam reviews | May 7, 2026 · Released | [Steam](https://store.steampowered.com/app/3228580/) |
 | [Last Mage](Game-2990040-Last-Mage) | 6/10 | 64.0% / 86 Steam reviews | Feb 24, 2026 · Early Access | [Steam](https://store.steampowered.com/app/2990040/) |
 | [BRUTUS MAXIMUS](Game-2928450-BRUTUS-MAXIMUS) | 6/10 | 66.7% / 33 Steam reviews | Apr 19, 2026 · Released | [Steam](https://store.steampowered.com/app/2928450/) |
 
@@ -743,13 +743,13 @@ Every genre shares one canonical library.
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [BALL x PIT](Game-2062430-BALL-x-PIT) | 9/10 | 95.2% / 27,730 Steam reviews | Oct 15, 2025 · Released | [Steam](https://store.steampowered.com/app/2062430/) |
+| [BALL x PIT](Game-2062430-BALL-x-PIT) | 9/10 | 95.2% / 27,739 Steam reviews | Oct 15, 2025 · Released | [Steam](https://store.steampowered.com/app/2062430/) |
 | [Karate Survivor](Game-3027930-Karate-Survivor) | 8/10 | 85.0% / 3,437 Steam reviews | Oct 30, 2024 · Released | [Steam](https://store.steampowered.com/app/3027930/) |
 | [Pesticide Not Required](Game-2479320-Pesticide-Not-Required) | 8/10 | 93.7% / 951 Steam reviews | Mar 18, 2024 · Released | [Steam](https://store.steampowered.com/app/2479320/) |
 | [Sea of Survivors](Game-2347940-Sea-of-Survivors) | 8/10 | 81.4% / 419 Steam reviews | Oct 18, 2023 · Early Access | [Steam](https://store.steampowered.com/app/2347940/) |
 | [Maze Mice](Game-3385370-Maze-Mice) | 8/10 | 87.9% / 339 Steam reviews | Jul 11, 2025 · Released | [Steam](https://store.steampowered.com/app/3385370/) |
-| [Wanderburg](Game-3624140-Wanderburg) | 7/10 | 77.4% / 3,427 Steam reviews | Sep 8, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3624140/) |
-| [Monsters are Coming!](Game-2934220-Monsters-are-Coming) | 7/10 | 79.8% / 2,933 Steam reviews | Nov 20, 2025 · Released | [Steam](https://store.steampowered.com/app/2934220/) |
+| [Wanderburg](Game-3624140-Wanderburg) | 7/10 | 77.4% / 3,441 Steam reviews | Sep 8, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3624140/) |
+| [Monsters are Coming!](Game-2934220-Monsters-are-Coming) | 7/10 | 79.8% / 2,935 Steam reviews | Nov 20, 2025 · Released | [Steam](https://store.steampowered.com/app/2934220/) |
 | [Slime 3K: Rise Against Despot](Game-2348610-Slime-3K-Rise-Against-Despot) | 7/10 | 79.6% / 1,743 Steam reviews | Oct 31, 2024 · Released | [Steam](https://store.steampowered.com/app/2348610/) |
 | [Desktop Survivors 98](Game-3339780-Desktop-Survivors-98) | 7/10 | 95.2% / 1,425 Steam reviews | May 20, 2025 · Released | [Steam](https://store.steampowered.com/app/3339780/) |
 | [Bang Bang Barrage](Game-3003460-Bang-Bang-Barrage) | 7/10 | 95.8% / 1,078 Steam reviews | Aug 7, 2025 · Released | [Steam](https://store.steampowered.com/app/3003460/) |
@@ -758,7 +758,7 @@ Every genre shares one canonical library.
 | [Rhythm Witch: Beat Death](Game-2951580-Rhythm-Witch-Beat-Death) | 7/10 | 93.6% / 594 Steam reviews | May 8, 2025 · Released | [Steam](https://store.steampowered.com/app/2951580/) |
 | [Net.Attack() - Code or Die!](Game-3047370-Net-Attack-Code-or-Die) | 7/10 | 80.0% / 561 Steam reviews | Mar 12, 2026 · Released | [Steam](https://store.steampowered.com/app/3047370/) |
 | [Wireworks](Game-4206270-Wireworks) | 6/10 | 89.6% / 645 Steam reviews | Mar 9, 2026 · Released | [Steam](https://store.steampowered.com/app/4206270/) |
-| [Pixel Survivors: Defense](Game-3878090-Pixel-Survivors-Defense) | 6/10 | 87.2% / 86 Steam reviews | Oct 13, 2026 · Released | [Steam](https://store.steampowered.com/app/3878090/) |
+| [Pixel Survivors: Defense](Game-3878090-Pixel-Survivors-Defense) | 6/10 | 88.0% / 92 Steam reviews | Oct 13, 2026 · Released | [Steam](https://store.steampowered.com/app/3878090/) |
 | [Deck of Destiny: Battleforge](Game-3167610-Deck-of-Destiny-Battleforge) | 6/10 | 72.7% / 11 Steam reviews | Jan 24, 2026 · Released | [Steam](https://store.steampowered.com/app/3167610/) |
 
 ## Precision & mastery
@@ -975,29 +975,29 @@ Every genre shares one canonical library.
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [Deep Rock Galactic: Survivor](Game-2321470-Deep-Rock-Galactic-Survivor) | 9/10 | 86.2% / 48,601 Steam reviews | Sep 17, 2025 · Released | [Steam](https://store.steampowered.com/app/2321470/) |
-| [Nova Drift](Game-858210-Nova-Drift) | 9/10 | 95.6% / 14,690 Steam reviews | Aug 12, 2024 · Released | [Steam](https://store.steampowered.com/app/858210/) |
-| [Picayune Dreams](Game-2088840-Picayune-Dreams) | 9/10 | 98.9% / 4,718 Steam reviews | Dec 4, 2023 · Released | [Steam](https://store.steampowered.com/app/2088840/) |
+| [Deep Rock Galactic: Survivor](Game-2321470-Deep-Rock-Galactic-Survivor) | 9/10 | 86.2% / 48,606 Steam reviews | Sep 17, 2025 · Released | [Steam](https://store.steampowered.com/app/2321470/) |
+| [Nova Drift](Game-858210-Nova-Drift) | 9/10 | 95.6% / 14,691 Steam reviews | Aug 12, 2024 · Released | [Steam](https://store.steampowered.com/app/858210/) |
+| [Picayune Dreams](Game-2088840-Picayune-Dreams) | 9/10 | 98.9% / 4,719 Steam reviews | Dec 4, 2023 · Released | [Steam](https://store.steampowered.com/app/2088840/) |
 | [NIMRODS](Game-2086430-NIMRODS) | 9/10 | 85.3% / 1,861 Steam reviews | Oct 28, 2024 · Early Access | [Steam](https://store.steampowered.com/app/2086430/) |
 | [Greedland](Game-2218400-Greedland) | 8/10 | 82.8% / 3,422 Steam reviews | Sep 15, 2025 · Released | [Steam](https://store.steampowered.com/app/2218400/) |
 | [Time Wasters](Game-1290330-Time-Wasters) | 8/10 | 88.3% / 2,625 Steam reviews | Sep 25, 2023 · Released | [Steam](https://store.steampowered.com/app/1290330/) |
-| [Vital Shell](Game-3741860-Vital-Shell) | 8/10 | 96.8% / 1,869 Steam reviews | Jan 7, 2026 · Released | [Steam](https://store.steampowered.com/app/3741860/) |
+| [Vital Shell](Game-3741860-Vital-Shell) | 8/10 | 96.8% / 1,870 Steam reviews | Jan 7, 2026 · Released | [Steam](https://store.steampowered.com/app/3741860/) |
 | [Project Lazarus](Game-2024230-Project-Lazarus) | 8/10 | 80.1% / 1,377 Steam reviews | Jun 8, 2023 · Released | [Steam](https://store.steampowered.com/app/2024230/) |
 | [Void Scrappers](Game-2005210-Void-Scrappers) | 8/10 | 88.7% / 626 Steam reviews | Oct 21, 2022 · Released | [Steam](https://store.steampowered.com/app/2005210/) |
-| [Entropy Survivors](Game-2602030-Entropy-Survivors) | 8/10 | 80.4% / 581 Steam reviews | Dec 4, 2024 · Released | [Steam](https://store.steampowered.com/app/2602030/) |
+| [Entropy Survivors](Game-2602030-Entropy-Survivors) | 8/10 | 80.2% / 582 Steam reviews | Dec 4, 2024 · Released | [Steam](https://store.steampowered.com/app/2602030/) |
 | [Let Them Come: Onslaught](Game-2050800-Let-Them-Come-Onslaught) | 8/10 | 90.2% / 246 Steam reviews | Nov 11, 2025 · Released | [Steam](https://store.steampowered.com/app/2050800/) |
-| [R.I.P. - Reincarnation Insurance Program](Game-3985950-R-I-P-Reincarnation-Insurance-Program) | 7/10 | 77.1% / 3,466 Steam reviews | Sep 15, 2026 · Released | [Steam](https://store.steampowered.com/app/3985950/) |
-| [Astro Prospector](Game-3503440-Astro-Prospector) | 7/10 | 91.2% / 3,370 Steam reviews | Jul 14, 2025 · Released | [Steam](https://store.steampowered.com/app/3503440/) |
+| [R.I.P. - Reincarnation Insurance Program](Game-3985950-R-I-P-Reincarnation-Insurance-Program) | 7/10 | 77.1% / 3,469 Steam reviews | Sep 15, 2026 · Released | [Steam](https://store.steampowered.com/app/3985950/) |
+| [Astro Prospector](Game-3503440-Astro-Prospector) | 7/10 | 91.3% / 3,372 Steam reviews | Jul 14, 2025 · Released | [Steam](https://store.steampowered.com/app/3503440/) |
 | [TerraTech Legion](Game-3596700-TerraTech-Legion) | 7/10 | 81.9% / 2,227 Steam reviews | Apr 30, 2026 · Released | [Steam](https://store.steampowered.com/app/3596700/) |
 | [Survivors of the Dawn](Game-2285630-Survivors-of-the-Dawn) | 7/10 | 74.1% / 777 Steam reviews | Nov 6, 2023 · Early Access | [Steam](https://store.steampowered.com/app/2285630/) |
 | [DEFRAG](Game-4028640-DEFRAG) | 7/10 | 94.1% / 575 Steam reviews | Nov 12, 2025 · Released | [Steam](https://store.steampowered.com/app/4028640/) |
-| [Genome Guardian 2](Game-4130120-Genome-Guardian-2) | 7/10 | 94.3% / 526 Steam reviews | Oct 11, 2026 · Released | [Steam](https://store.steampowered.com/app/4130120/) |
+| [Genome Guardian 2](Game-4130120-Genome-Guardian-2) | 7/10 | 93.8% / 530 Steam reviews | Oct 11, 2026 · Released | [Steam](https://store.steampowered.com/app/4130120/) |
 | [Ketz: Galactic Overlords](Game-2542140-Ketz-Galactic-Overlords) | 7/10 | 72.0% / 410 Steam reviews | May 9, 2025 · Early Access | [Steam](https://store.steampowered.com/app/2542140/) |
 | [Dark Light: Survivor](Game-3088070-Dark-Light-Survivor) | 7/10 | 76.0% / 383 Steam reviews | May 14, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3088070/) |
 | [Survivor Mercs](Game-2141520-Survivor-Mercs) | 7/10 | 73.9% / 176 Steam reviews | Apr 30, 2026 · Released | [Steam](https://store.steampowered.com/app/2141520/) |
 | [Core Devourer](Game-2199060-Core-Devourer) | 7/10 | 75.2% / 113 Steam reviews | Jan 25, 2024 · Released | [Steam](https://store.steampowered.com/app/2199060/) |
 | [BloodDome99](Game-2351890-BloodDome99) | 7/10 | 95.9% / 98 Steam reviews | Nov 15, 2024 · Released | [Steam](https://store.steampowered.com/app/2351890/) |
-| [Filthium Zero](Game-3514090-Filthium-Zero) | 7/10 | 91.9% / 37 Steam reviews | Mar 12, 2026 · Released | [Steam](https://store.steampowered.com/app/3514090/) |
+| [Filthium Zero](Game-3514090-Filthium-Zero) | 7/10 | 89.5% / 38 Steam reviews | Mar 12, 2026 · Released | [Steam](https://store.steampowered.com/app/3514090/) |
 
 ## Space & fleet command
 
@@ -1104,8 +1104,8 @@ Every genre shares one canonical library.
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [20 Minutes Till Dawn](Game-1966900-20-Minutes-Till-Dawn) | 9/10 | 90.2% / 29,196 Steam reviews | Jun 8, 2023 · Released | [Steam](https://store.steampowered.com/app/1966900/) |
-| [Yet Another Zombie Survivors](Game-2163330-Yet-Another-Zombie-Survivors) | 9/10 | 91.5% / 15,932 Steam reviews | Aug 20, 2026 · Released | [Steam](https://store.steampowered.com/app/2163330/) |
+| [20 Minutes Till Dawn](Game-1966900-20-Minutes-Till-Dawn) | 9/10 | 90.2% / 29,198 Steam reviews | Jun 8, 2023 · Released | [Steam](https://store.steampowered.com/app/1966900/) |
+| [Yet Another Zombie Survivors](Game-2163330-Yet-Another-Zombie-Survivors) | 9/10 | 91.5% / 15,937 Steam reviews | Aug 20, 2026 · Released | [Steam](https://store.steampowered.com/app/2163330/) |
 | [Deadly Days: Roadtrip](Game-3026450-Deadly-Days-Roadtrip) | 8/10 | 87.7% / 3,074 Steam reviews | Sep 22, 2025 · Early Access | [Steam](https://store.steampowered.com/app/3026450/) |
 | [Echoes of Red](Game-3714400-Echoes-of-Red) | 8/10 | 89.6% / 154 Steam reviews | Mar 3, 2026 · Released | [Steam](https://store.steampowered.com/app/3714400/) |
 | [Renfield: Bring Your Own Blood](Game-2354600-Renfield-Bring-Your-Own-Blood) | 7/10 | 78.4% / 898 Steam reviews | Sep 20, 2023 · Released | [Steam](https://store.steampowered.com/app/2354600/) |

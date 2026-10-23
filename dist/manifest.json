@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "version": "1.3.0",
-  "builtAt": "2026-10-23T17:32:34.601044+00:00",
+  "builtAt": "2026-10-23T17:39:41.683635+00:00",
   "sourceRepository": "https://github.com/Herbertofury/Games",
-  "sourceRevision": "5d9247ffebf1959aa53a52cf2dac58d0cd6a0ccd",
+  "sourceRevision": "fa21e271ae06b12ceb837154aa387ddba0eed4e2",
   "sourceWiki": "https://github.com/Herbertofury/Games/wiki",
-  "datasetHash": "434e66ef47e01f091fc59fb96a5640ae0f84be6375244c8e4dc6dc0bc3b5ef8d",
+  "datasetHash": "c3bbfcc92f2e4b27de744a7f3538159bdd4bcffaeeb9aca4eacf9dbd467ada1e",
   "records": 885,
   "verified": 885,
   "unresolved": 0,
@@ -84,8 +84,8 @@
     "itch.io"
   ],
   "html": {
-    "bytes": 9737147,
-    "sha256": "348e6041c43a72f80d6264dbf189150942897fb552803adeaf46afa10ece62fb"
+    "bytes": 9737696,
+    "sha256": "c9de341dedf7574112855f6aba41e26016810a7aca346e197f954c96bc719433"
   },
   "sourceFiles": {
     "site/platformers.js": "11f3b6a406b4922a0efb2e9d338c5412d46ec8bdae66046d6a5af197834d3a43",
@@ -126,6 +126,7 @@
     "scripts/install_platformers.py": "b22ae79a48fefb8fb5a9fea7ddd9042c636b2b12d56a222af99504408725e0f0",
     "scripts/capture_metroidvania_previews.py": "63573c6447c399b7c7ccf951f90ff3718a98addc7aaf90fff4fe5d625c044211",
     "scripts/wiki_builder.py": "26ab0f359c5ae9f8835a1e541cc65f0d1dd13ff2def8bf35219cbacbe3a082ae",
+    "scripts/finish_metroidvania_sources.py": "1d18d1fbff8f536e1dca6296ebdc04a587e2e7248fa3cabde27fd7903435d591",
     "scripts/collect_rts.py": "ea97c390623596c6eeb3ee6ee62d3f5acc0c4d7e4321e399640f03a74e9baec6",
     "scripts/catalog_model.py": "d1cf3856176feeec203ba96cc8499a966a01a016cc5128791af60bc0b752a63e",
     "tests/test_multiplatform.py": "b5dea3ad4e6f7778fa2cb7f3eb27ec7968c419eb7a9993c13d61367b912c535a",
@@ -158,6 +159,7 @@
     "data/rts-enrichment-report.json": "2d99d1d0040030d11e14198cd650e31050c4c2faf9c52ab4095e8b08566e67ca",
     "data/platformers-editorial.tsv": "52bd93c34587e1a574829e0417833d32486fd40f2dcf3aa09fa2abd7e5fd4745",
     "data/rts-seeds.json": "2dde8ae06231eb02b267a678e4be86eef0b26a11b813c3caba83e99da086fe30",
+    "data/metroidvania-completion-plan.json": "9dbb7db286e46556863a4e6144be73aaa8e76693b6d6a60fa97409601126e43e",
     "data/metroidvania-enrichment-report.json": "30ef8b366e8151e55f7121be1ac0a4b84498b44491f77e5dce445f9e20915ad6",
     "data/platformers-external.json": "b9e1aa45911310552ffa5798a8757787694920d6e8ff91367197d9cfaba68660",
     "data/metroidvania-seeds.txt": "b476423bb6b55a284c9c46bd4780db60c53667dfac0a659a0fc52aa79174833d",
@@ -165,7 +167,7 @@
     "data/platformers-steam.json": "f2519ed23377bea8cf658d2faca259abc579668d999ed0fcdfd1345c570e4ee9",
     "data/seeds.tsv": "1a40e1438cbc5a32c9edef2eb7524fcd1aa4d5858a356ef3d83e0ea7aef33628",
     "data/name-history.json": "8ba4b6e23f9d260335aaa4bd9cca774ed3264529204359811f81da43df66977f",
-    "data/external-media-report.json": "e90b4fd4bc122d5140f8719969406b2d02b4279065d49bae098bc095d4610e51",
+    "data/external-media-report.json": "c333100f56ada20d38b7817a3e9859bc4da77aaa55c50c732080a1ec85076b12",
     "data/platformers-index.csv": "8951a932928e0ea79b4811ad8029bb4bce4640f4045ab845554c94a2037ba021",
     "data/rts-steam.json": "6d65f92e7042e0562ae9ef671c63e699ef788d7abf03e96f7d340b678d4d22a9",
     "data/platformers-external-seeds.json": "094fe162c4dcd109dbcd863a12ec6b01886774a9d9f4012777aef8502de5d904",
@@ -184,8 +186,8 @@
     "data/platformers-external-report.json": "5f4ac742120dbd637d281c13f278025798c5a39c3e0f9ff280c1fd68ae025a05",
     "data/shooters-steam.json": "81975fe9eb6a7ebf8d743b4bed5dfece310689c8fff7d39658b755c55e820155",
     "data/platformers-media-completion-report.json": "c935f4f6c4d156414c2d9cca2cf612ab4f14842febb1e19a977266e6abf398d2",
-    "data/platformers-study-report.json": "1fe32b873cce5fb094beca11d00a82d17536a1ebc7965689279cad05e6521235",
-    "data/catalog.json": "ac775e040e82a963171256a53b2971a01d4c98e04a4942e04ccffa69569fac6d",
-    "data/shooters-external.json": "d7dfa40952e4560f102a5b748573a94a4732a412582c1908a5099989e2b400d7"
+    "data/platformers-study-report.json": "5720d96705921f9f17a53ec679b353cbb02155bef5f6cfe8fd505a11b753e706",
+    "data/catalog.json": "78fef8c1319cc4d3d4d686041d5294f0def631b742d69e5344fea4ba28f60769",
+    "data/shooters-external.json": "41b793ea64573257f5d53cb11e0f79ecceaff12bf8223375242ae1d8021b9329"
   }
 }

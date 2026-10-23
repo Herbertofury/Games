@@ -16,7 +16,7 @@ In Woods is a roguelike survival game set in a forest. Fight monsters, level up,
 | Build type | Standalone game |
 | Creators | Vision Party |
 | Price snapshot | $6.99 |
-| Verified | 2026-10-23T03:38:48.963323+00:00 |
+| Verified | 2026-10-23T17:33:13.080221+00:00 |
 
 ## Official stores and downloads
 
@@ -46,8 +46,8 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/2113770/) · checked 2026-10-23T03:38:48.963323+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2113770&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2113770%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam](https://store.steampowered.com/app/2113770/) · checked 2026-10-23T17:33:13.080221+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2113770&l=english&cc=us) · checked 2026-10-23T17:33:13.080221+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2113770%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:33:13.080221+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

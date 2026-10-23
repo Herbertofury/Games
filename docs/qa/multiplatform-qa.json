@@ -1,6 +1,6 @@
 {
   "checks": [
-    "All 170 original recommendations remain in their genre",
+    "All canonical roguelite recommendations remain in their genre",
     "Shooter hub has every accepted record",
     "Ordinary controls do not activate the body theme attribute as a genre",
     "Provider filter includes exact official alternate stores",
@@ -29,7 +29,7 @@
   ],
   "errors": [],
   "shooterCount": 150,
-  "datasetHash": "1cfa7bd103db4d90470225df3c9b34f5bae1fe94d9c9e1817d18972d9d2a71ee",
-  "fullShooterRenderMs": 60.1,
+  "datasetHash": "c3bbfcc92f2e4b27de744a7f3538159bdd4bcffaeeb9aca4eacf9dbd467ada1e",
+  "fullShooterRenderMs": 74.1,
   "passed": true
 }

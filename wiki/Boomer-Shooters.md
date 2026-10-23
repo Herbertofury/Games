@@ -313,7 +313,7 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | [Nightmare Reaper](Game-1051690-Nightmare-Reaper) | 9/10 | 93.4% / 3,801 Steam reviews | Mar 28, 2022 · Released | [Steam](https://store.steampowered.com/app/1051690/) · [GOG](https://www.gog.com/en/game/nightmare_reaper) |
 | [Deadlink](Game-1676130-Deadlink) | 9/10 | 88.8% / 3,677 Steam reviews | Jul 27, 2023 · Released | [Steam](https://store.steampowered.com/app/1676130/) · [GOG](https://www.gog.com/en/game/deadlink) |
 | [HYPER DEMON](Game-1743850-HYPER-DEMON) | 9/10 | 94.1% / 3,382 Steam reviews | Sep 19, 2022 · Released | [Steam](https://store.steampowered.com/app/1743850/) |
-| [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,033 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) · [GOG](https://www.gog.com/en/game/bloodshed) · [Epic Games](https://store.epicgames.com/en-US/p/bloodshed-849737) |
+| [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,037 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) · [GOG](https://www.gog.com/en/game/bloodshed) · [Epic Games](https://store.epicgames.com/en-US/p/bloodshed-849737) |
 | [CRUEL](Game-2689470-CRUEL) | 9/10 | 95.2% / 1,910 Steam reviews | Jan 9, 2025 · Released | [Steam](https://store.steampowered.com/app/2689470/) |
 | [ODDCORE](Game-2896260-ODDCORE) | 9/10 | 96.8% / 1,192 Steam reviews | Jan 7, 2026 · Early Access | [Steam](https://store.steampowered.com/app/2896260/) |
 | [Gunfire Reborn](Game-1217060-Gunfire-Reborn) | 8/10 | 93.1% / 103,818 Steam reviews | Nov 17, 2021 · Released | [Steam](https://store.steampowered.com/app/1217060/) |
@@ -363,7 +363,7 @@ A playable demo is not a released full game. Support subscriptions are not autom
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,033 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) · [GOG](https://www.gog.com/en/game/bloodshed) · [Epic Games](https://store.epicgames.com/en-US/p/bloodshed-849737) |
+| [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,037 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) · [GOG](https://www.gog.com/en/game/bloodshed) · [Epic Games](https://store.epicgames.com/en-US/p/bloodshed-849737) |
 | [Vampire Hunters](Game-2206270-Vampire-Hunters) | 8/10 | 89.8% / 2,238 Steam reviews | Oct 30, 2024 · Released | [Steam](https://store.steampowered.com/app/2206270/) |
 
 ### Horror & occult FPS

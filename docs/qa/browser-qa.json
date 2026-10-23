@@ -28,8 +28,8 @@
     "No JavaScript runtime errors"
   ],
   "errors": [],
-  "recordCount": 448,
-  "twoSearchesWallMs": 306.03,
-  "durationSeconds": 9.18,
+  "recordCount": 885,
+  "twoSearchesWallMs": 647.46,
+  "durationSeconds": 16.89,
   "passed": true
 }
