@@ -1,0 +1,547 @@
+{
+  "generatedAt": "2026-10-23T22:52:09.995325+00:00",
+  "unresolved": [
+    {
+      "candidate": "Dreadmooring",
+      "seed": {
+        "name": "Dreadmooring",
+        "hub": "Survival",
+        "collection": "Oceans, pirates & floating homes",
+        "fit": 7,
+        "scope": "Survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Withstand: Survival",
+      "seed": {
+        "name": "Withstand: Survival",
+        "hub": "Survival",
+        "collection": "Horror, strange worlds & expeditions",
+        "fit": 6,
+        "scope": "Survival / horror exploration",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Mars Survival",
+      "seed": {
+        "name": "Mars Survival",
+        "hub": "Survival",
+        "collection": "Space, planets & engineering",
+        "fit": 7,
+        "scope": "Sci-fi survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [
+        {
+          "appid": 2608200,
+          "name": "Mars Colonization.Survival Simulator"
+        },
+        {
+          "appid": 3158390,
+          "name": "Scavengers of Mars - Rover Survival Simulator"
+        }
+      ],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "LIGHT OF MOTIRAM",
+      "seed": {
+        "name": "LIGHT OF MOTIRAM",
+        "hub": "Survival",
+        "collection": "Space, planets & engineering",
+        "fit": 8,
+        "scope": "Sci-fi survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Tribes of Ellarian",
+      "seed": {
+        "name": "Tribes of Ellarian",
+        "hub": "Survival",
+        "collection": "Tribes, settlements & historical frontiers",
+        "fit": 8,
+        "scope": "Survival / settlement building",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Force of Nature 3",
+      "seed": {
+        "name": "Force of Nature 3",
+        "hub": "Survival",
+        "collection": "Independent survival discoveries",
+        "fit": 8,
+        "scope": "Survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Realms of Magic 2",
+      "seed": {
+        "name": "Realms of Magic 2",
+        "hub": "Minecraft-like worlds",
+        "collection": "Terraria-like 2D worlds",
+        "fit": 9,
+        "scope": "2D sandbox survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Cavern",
+      "seed": {
+        "name": "Cavern",
+        "hub": "Minecraft-like worlds",
+        "collection": "Terraria-like 2D worlds",
+        "fit": 8,
+        "scope": "2D sandbox survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [
+        {
+          "appid": 2848360,
+          "name": "Cavern Adventurers"
+        },
+        {
+          "appid": 2059660,
+          "name": "Cavern of Dreams"
+        },
+        {
+          "appid": 578660,
+          "name": "Kindled Cavern"
+        },
+        {
+          "appid": 321830,
+          "name": "Cavern Kings"
+        },
+        {
+          "appid": 583060,
+          "name": "The Cavern"
+        },
+        {
+          "appid": 496980,
+          "name": "Cosmic Cavern 3671　　宇宙最大の地底最大の作戦"
+        },
+        {
+          "appid": 5240890,
+          "name": "Cavern Wars"
+        },
+        {
+          "appid": 4707690,
+          "name": "Asylum x Cavern"
+        },
+        {
+          "appid": 546400,
+          "name": "Cavern Escape Extremely Hard game!!!"
+        },
+        {
+          "appid": 578830,
+          "name": "Cavern of Time"
+        }
+      ],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Voxaria",
+      "seed": {
+        "name": "Voxaria",
+        "hub": "Minecraft-like worlds",
+        "collection": "New voxel discoveries & experimental worlds",
+        "fit": 8,
+        "scope": "Voxel / sandbox exploration",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Survive on Raft",
+      "seed": {
+        "name": "Survive on Raft",
+        "hub": "Survival",
+        "collection": "Oceans, pirates & floating homes",
+        "fit": 7,
+        "scope": "Survival crafting",
+        "appid": 1094000,
+        "aliases": []
+      },
+      "error": "Official store did not confirm a standalone game",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Wild West Dynasty",
+      "seed": {
+        "name": "Wild West Dynasty",
+        "hub": "Survival",
+        "collection": "Harsh wilderness & realistic survival",
+        "fit": 6,
+        "scope": "Survival simulation",
+        "appid": 1329880,
+        "aliases": []
+      },
+      "error": "Explicit ID/name mismatch: Wild West Legacy",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "ChunkForge",
+      "seed": {
+        "name": "ChunkForge",
+        "appid": null,
+        "hub": "Minecraft-like worlds",
+        "collection": "New voxel discoveries & experimental worlds",
+        "fit": 8,
+        "scope": "Voxel survival crafting",
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    }
+  ],
+  "dispositions": [
+    {
+      "candidate": "Shipwrecked 64",
+      "state": "excluded",
+      "reason": "Narrative/ARG horror, not the requested survival-crafting loop."
+    },
+    {
+      "candidate": "Survival: The Last Hope",
+      "state": "excluded",
+      "reason": "Unconfirmed ambiguous discovery name, not promoted."
+    },
+    {
+      "candidate": "Subsistence: River Basin",
+      "state": "excluded",
+      "reason": "Unconfirmed separate game identity; not duplicated from Subsistence."
+    },
+    {
+      "candidate": "Dead State: Reanimated",
+      "state": "excluded",
+      "reason": "Turn-based survival RPG, not the requested open-world crafting focus."
+    },
+    {
+      "candidate": "Dead Rising 3 Apocalypse Edition",
+      "state": "excluded",
+      "reason": "Action zombie sandbox without the requested survival-crafting emphasis."
+    },
+    {
+      "candidate": "Dead Age 2",
+      "state": "excluded",
+      "reason": "Turn-based RPG, not the requested survival crafting."
+    },
+    {
+      "candidate": "The Beast Inside",
+      "state": "excluded",
+      "reason": "Narrative horror, not open-world survival crafting."
+    },
+    {
+      "candidate": "Path of Titans",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Planet Crafter: Toxicity",
+      "state": "excluded",
+      "reason": "Expansion/discovery label, not assumed to be a standalone game."
+    },
+    {
+      "candidate": "The Planet Crafter: Eden Crafters",
+      "state": "excluded",
+      "reason": "Two distinct projects accidentally combined; both actual games have their own entries."
+    },
+    {
+      "candidate": "Rokh",
+      "state": "excluded",
+      "reason": "Historical experimental release with weak reception; kept as a research disposition rather than a current recommendation."
+    },
+    {
+      "candidate": "Deadzone: Rogue",
+      "state": "excluded",
+      "reason": "Roguelite shooter, not a survival-crafting world."
+    },
+    {
+      "candidate": "Thea: The Awakening",
+      "state": "excluded",
+      "reason": "Turn-based strategy survival neighbor; omitted to keep the added categories focused."
+    },
+    {
+      "candidate": "Thea 2: The Shattering",
+      "state": "excluded",
+      "reason": "Turn-based strategy survival neighbor; omitted from this collection."
+    },
+    {
+      "candidate": "Haven & Hearth",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Cast n Chill",
+      "state": "excluded",
+      "reason": "Relaxed fishing, not survival crafting."
+    },
+    {
+      "candidate": "Rising Front",
+      "state": "excluded",
+      "reason": "Battle simulator, not the requested survival crafting."
+    },
+    {
+      "candidate": "Dead District: Survival",
+      "state": "excluded",
+      "reason": "Low-confidence discovery retained in the source ledger, not a quality recommendation."
+    },
+    {
+      "candidate": "Survival Fountain",
+      "state": "excluded",
+      "reason": "Ambiguous duplicate-like discovery, not promoted."
+    },
+    {
+      "candidate": "Crash Dive",
+      "state": "excluded",
+      "reason": "Submarine combat, not survival crafting."
+    },
+    {
+      "candidate": "Vintage Story",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Hytale",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Minecraft",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Terra Nil",
+      "state": "excluded",
+      "reason": "Ecological puzzle strategy, not Minecraft-like survival."
+    },
+    {
+      "candidate": "Veloren",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Terasology",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "VoxeLibre",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Mineclonia",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Luanti",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Survivalcraft 2",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Mythruna",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Blockland",
+      "state": "excluded",
+      "reason": "Creative construction sandbox without survival; not promoted into the survival shelf."
+    },
+    {
+      "candidate": "Hytale: Adventure",
+      "state": "excluded",
+      "reason": "An unfinished mode/feature of Hytale, not a separate released game."
+    },
+    {
+      "candidate": "Necesse 2",
+      "state": "excluded",
+      "reason": "Unconfirmed sequel identity, not promoted."
+    },
+    {
+      "candidate": "Muck 2",
+      "state": "excluded",
+      "reason": "Unconfirmed sequel identity, not promoted."
+    },
+    {
+      "candidate": "Minicraft+",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Minicraft",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Minetest Game",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "ClassiCube",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Mine Blocks",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Orion Sandbox Enhanced",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Paper Minecraft",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "WILDRAFT",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Vintage Story Classic",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "FOUNTAINS",
+      "state": "excluded",
+      "reason": "Action RPG, not the requested survival-crafting loop."
+    },
+    {
+      "candidate": "Outlive",
+      "state": "excluded",
+      "reason": "Ambiguous project name; no different-genre substitute promoted."
+    },
+    {
+      "candidate": "Sunderfolk",
+      "state": "excluded",
+      "reason": "Turn-based tactical party game, not survival crafting."
+    },
+    {
+      "candidate": "Voxeland",
+      "state": "excluded",
+      "reason": "Ambiguous game/tool identity, not promoted without exact evidence."
+    },
+    {
+      "candidate": "Boulders",
+      "state": "excluded",
+      "reason": "Ambiguous identity, not promoted by voxel-sounding name alone."
+    },
+    {
+      "candidate": "TUG",
+      "state": "excluded",
+      "reason": "Historical unfinished/delisted project; not a current buy recommendation."
+    },
+    {
+      "candidate": "Verdant Skies",
+      "state": "excluded",
+      "reason": "Farming life simulation, not the survival/crafting focus here."
+    },
+    {
+      "candidate": "Dreadmooring",
+      "state": "unresolved-active",
+      "reason": "No exact official current identity confirmed; not conflated with DREADMOOR."
+    },
+    {
+      "candidate": "Nearly Dead - Live and Let Die",
+      "state": "genre-neighbor-not-promoted",
+      "sourceUrl": "https://store.steampowered.com/app/1901810/",
+      "reason": "Official description identifies a co-op action roguelite with short expedition/defense runs, not the persistent survival world requested."
+    },
+    {
+      "candidate": "Mars Survival",
+      "state": "unresolved-active",
+      "reason": "Ambiguous name; no unrelated Mars simulator silently substituted."
+    },
+    {
+      "candidate": "Survival Machines",
+      "state": "duplicate",
+      "canonical": "steam:1601330",
+      "reason": "The published project now uses the singular Survival Machine; no duplicate title row."
+    },
+    {
+      "candidate": "Tribes of Ellarian",
+      "state": "unresolved-active",
+      "reason": "No exact published identity confirmed."
+    },
+    {
+      "candidate": "Force of Nature 3",
+      "state": "unresolved-active",
+      "reason": "No exact current game identity confirmed."
+    },
+    {
+      "candidate": "Force of Nature 2",
+      "state": "duplicate",
+      "canonical": "steam:1316230",
+      "reason": "Alias of the already accepted Ghost Keeper edition."
+    },
+    {
+      "candidate": "Realms of Magic 2",
+      "state": "unresolved-active",
+      "reason": "No exact current sequel identity confirmed."
+    },
+    {
+      "candidate": "Cavern",
+      "state": "unresolved-active",
+      "reason": "Ambiguous name; unrelated platformers and management games not substituted."
+    },
+    {
+      "candidate": "Voxaria",
+      "state": "unresolved-active",
+      "reason": "No exact current creator or store identity confirmed."
+    }
+  ],
+  "calendarPages": 5,
+  "calendarTerminal": true
+}

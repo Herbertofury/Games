@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T22:47:17.568798+00:00",
+  "generatedAt": "2026-10-23T22:53:46.329600+00:00",
   "overrides": {
     "steam:251570": {
       "checkedAt": "2026-10-23T22:47:17.568798+00:00",
@@ -10363,6 +10363,2781 @@
             "provider": "itch.io",
             "state": "no-confirmed-match",
             "sourceUrl": "https://itch.io/search?q=Zompiercer",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3764710": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Aetheria",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2375790": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Aftergods",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://aftergodsgame.com/",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1336490": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/against_the_storm",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Against%20the%20Storm",
+          "evidence": "Exact title in GOG official catalog: Against the Storm"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Against%20the%20Storm",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://eremitegames.com",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Against the Storm Demo",
+            "url": "https://www.gog.com/en/game/against_the_storm_demo",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1426450": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Age%20of%20Darkness%3A%20Final%20Stand",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://www.ageofdarkness.com/",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3516590": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/cw/Unomelon",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://allumeria.com",
+          "evidence": "Creator support linked from the game website supplied by Steam"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Allumeria",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "matched",
+            "sourceUrl": "https://allumeria.com",
+            "matches": 1
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:325210": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/arctico",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Arctico",
+          "evidence": "Exact title in GOG official catalog: Arctico"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Arctico",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1833210": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Astromine",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:602960": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Barotrauma",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3116730": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=BIG%20LOOT",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://reverieclouds.com/",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:5431210": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Boa%20Survival",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1203180": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Breakwaters%3A%20Crystal%20Tides",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://www.breakwatersgame.com",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1422440": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/cataclismo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Cataclismo",
+          "evidence": "Exact title in GOG official catalog: Cataclismo"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Cataclismo",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2330750": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Cataclysm%3A%20Dark%20Days%20Ahead",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://cataclysmdda.org",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1700870": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Clanfolk",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:829590": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=CryoFall",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1702260": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=DEADCRAFT",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3116870": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Deus%20Mantle",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:635200": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Distrust%3A%20Polar%20Survival",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2135150": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Elin",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1271150": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Elsewhere",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "El Paso, Elsewhere",
+            "url": "https://www.gog.com/en/game/el_paso_elsewhere",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:933820": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/endzone_a_world_apart",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Endzone%20-%20A%20World%20Apart",
+          "evidence": "Exact title in GOG official catalog: Endzone - A World Apart"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Endzone%20-%20A%20World%20Apart",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://gentlymad.org/",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Endzone - A World Apart Save the World Edition",
+            "url": "https://www.gog.com/en/game/endzone_a_world_apart_save_the_world_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2144640": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/endzone_2",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Endzone%202",
+          "evidence": "Exact title in GOG official catalog: Endzone 2"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Endzone%202",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://gentlymad.org/",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Endzone 2: Deluxe Edition",
+            "url": "https://www.gog.com/en/game/endzone_2_deluxe_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Endzone 2 Ultimate Supporter Bundle",
+            "url": "https://www.gog.com/en/game/endzone_2_ultimate_supporter_bundle",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:4981810": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Escape%20the%20Flood%21",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2966240": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Factory%20Survival",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3480890": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Feudal%20Craft",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://anratio.com",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3152110": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Founders",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved",
+            "error": "HTTP Error 404: Not Found"
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Founders' Fortune",
+            "url": "https://www.gog.com/en/game/founders_fortune",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1601580": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/frostpunk_2",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Frostpunk%202",
+          "evidence": "Exact title in GOG official catalog: Frostpunk 2"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Frostpunk%202",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Frostpunk 2: Deluxe Edition",
+            "url": "https://www.gog.com/en/game/frostpunk_2_deluxe_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1029780": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/going_medieval",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Going%20Medieval",
+          "evidence": "Exact title in GOG official catalog: Going Medieval"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Going%20Medieval",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1617120": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Good%20Heavens%21",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://goodheavens.wiki.gg/",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:5379330": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Hazzard%20Hearth",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved",
+            "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)>"
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:4349940": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Hoarders%20Realm",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:632300": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Hobo%3A%20Tough%20Life",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1510440": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Honeycomb%3A%20The%20World%20Beyond",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://honeycomb-game.com/",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "url": "https://store.epicgames.com/en-US/p/honeycomb-the-world-beyond-45501f",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          },
+          {
+            "url": "https://store.epicgames.com/en-US/p/honeycomb-the-world-beyond-45501f",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:5218590": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Hustle",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Hustle Battle: Card Gamers",
+            "url": "https://www.gog.com/en/game/hustle_battle_card_gamers",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:4428380": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "IndieDB",
+          "url": "https://www.indiedb.com/games/infiniterra",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://infiniterra.net",
+          "evidence": "Game-specific official website link with matching destination title"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Infiniterra",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "matched",
+            "sourceUrl": "https://infiniterra.net",
+            "matches": 1
+          }
+        ],
+        "candidates": [
+          {
+            "url": "https://github.com/infiniterra-game",
+            "provider": "GitHub",
+            "reason": "Destination not readable: HTTP Error 410: Gone"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:5187050": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/inkborn",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=INKBORN",
+          "evidence": "Exact title in GOG official catalog: Inkborn"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=INKBORN",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://www.overlkd.com/",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:233860": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/kenshi",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Kenshi",
+          "evidence": "Exact title in GOG official catalog: Kenshi"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Kenshi",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:4018330": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Lord%20of%20Undead",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:4790660": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Moose%20Builders",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:248860": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/neo_scavenger",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=NEO%20Scavenger",
+          "evidence": "Exact title in GOG official catalog: NEO Scavenger"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=NEO%20Scavenger",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://store.steampowered.com/developer/bluebottlegames",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:951240": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Obenseuer",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3177710": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=On%20The%20Train",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://antique-cobra-3f9.notion.site/Contact-Us-4d19f41102aa4922ba4cea4ddfe571ac",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2237970": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Outpath",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2707930": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Palia",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://www.palia.com/",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2254990": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/permafrost",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Permafrost",
+          "evidence": "Exact title in GOG official catalog: Permafrost"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Permafrost",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Permafrost - Companion Edition",
+            "url": "https://www.gog.com/en/game/permafrost_companion_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Permafrost - Ultimate Edition",
+            "url": "https://www.gog.com/en/game/permafrost_ultimate_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2729830": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Pumpkin%20Woods",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://impress.games/press-kit/enchanted-pumpkin-co/pumpkin-woods",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2736900": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Quest%20Industries",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://damaskentertainment.com",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1374490": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=RuneScape%3A%20Dragonwilds",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://dragonwilds.runescape.com/",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:252490": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Rust",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Rustler (Grand Theft Horse)",
+            "url": "https://www.gog.com/en/game/rustler_grand_theft_horse",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Rusty Lake Paradise",
+            "url": "https://www.gog.com/en/game/rusty_lake_paradise",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Rustwater Demo",
+            "url": "https://www.gog.com/en/game/rustwater_demo",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Trust No One",
+            "url": "https://www.gog.com/en/game/trust_no_one",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Rustler: Complete Edition",
+            "url": "https://www.gog.com/en/game/rustler_complete_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1610520": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Serum%3A%20Toxic%20Survival",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://www.toplitz-productions.com/home.html",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:356040": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/sheltered",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Sheltered",
+          "evidence": "Exact title in GOG official catalog: Sheltered"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Sheltered",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Sheltered 2",
+            "url": "https://www.gog.com/en/game/sheltered_2",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Sheltered Double Pack",
+            "url": "https://www.gog.com/en/game/sheltered_double_pack",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1289380": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/sheltered_2",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Sheltered%202",
+          "evidence": "Exact title in GOG official catalog: Sheltered 2"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Sheltered%202",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://www.team17.com/games/sheltered-2",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3335490": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=SkyFab",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:4528040": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Sol%20One",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:5214350": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Soul%20Monsters%3A%20Gael%27s%20Survival",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:979110": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/space_haven",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Space%20Haven",
+          "evidence": "Exact title in GOG official catalog: Space Haven"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Space%20Haven",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1380910": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/stardeus",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Stardeus",
+          "evidence": "Exact title in GOG official catalog: Stardeus"
+        },
+        {
+          "provider": "GitHub",
+          "url": "https://github.com/kodolinija/stardeus-mod-template",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://stardeusgame.com",
+          "evidence": "Game-specific official website link with matching destination title"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Stardeus",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "matched",
+            "sourceUrl": "https://stardeusgame.com",
+            "matches": 1
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2628570": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Stellar%20Settlers%3A%20Space%20Base%20Builder",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://store.steampowered.com/publisher/rogueduck",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2826790": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Stormforge",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://www.playstormforge.com",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3976770": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Stranded%20Deep%202",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://strandeddeep2.com/",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:340050": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "IndieDB",
+          "url": "https://www.indiedb.com/games/survivalist-invisible-strain",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://survivalistgame.blogspot.com/",
+          "evidence": "Game-specific official website link with matching destination title"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Survivalist",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "matched",
+            "sourceUrl": "https://survivalistgame.blogspot.com/",
+            "matches": 1
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:464920": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/surviving_mars",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Surviving%20Mars",
+          "evidence": "Exact title in GOG official catalog: Surviving Mars"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Surviving%20Mars",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Surviving Mars: All New In Bundle",
+            "url": "https://www.gog.com/en/game/surviving_mars_all_new_in_bundle",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Surviving Mars: Starter Bundle",
+            "url": "https://www.gog.com/en/game/surviving_mars_starter_bundle",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Surviving Mars: Space Race Plus",
+            "url": "https://www.gog.com/en/game/surviving_mars_space_race_plus",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Surviving Mars - Digital Deluxe Edition",
+            "url": "https://www.gog.com/en/game/surviving_mars_digital_deluxe_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Surviving Mars - Season Pass",
+            "url": "https://www.gog.com/en/game/surviving_mars_season_pass",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3215050": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Surviving%20Mars%3A%20Relaunched",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://www.paradoxinteractive.com/games/surviving-mars-relaunched/about",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "url": "https://store.epicgames.com/en-US/p/surviving-mars-relaunched-928392",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:684450": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/surviving_the_aftermath",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Surviving%20the%20Aftermath",
+          "evidence": "Exact title in GOG official catalog: Surviving the Aftermath"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Surviving%20the%20Aftermath",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Surviving the Aftermath - Ultimate Colony Edition",
+            "url": "https://www.gog.com/en/game/surviving_the_aftermath_ultimate_colony_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2692740": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Swappy%20World",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved",
+            "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)>"
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:5019800": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=System%20Arrival",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1783560": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=The%20Last%20Caretaker",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://thelastcaretaker.com",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "url": "https://store.epicgames.com/en-US/p/the-last-caretaker-51dfcc",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          },
+          {
+            "url": "https://store.epicgames.com/en-US/p/the-last-caretaker-51dfcc",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:780310": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/the_riftbreaker",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=The%20Riftbreaker",
+          "evidence": "Exact title in GOG official catalog: The Riftbreaker"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=The%20Riftbreaker",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "The Riftbreaker: Deluxe Edition",
+            "url": "https://www.gog.com/en/game/the_riftbreaker_deluxe_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "The Riftbreaker: Prologue",
+            "url": "https://www.gog.com/en/game/the_riftbreaker_prologue",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:644930": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/they_are_billions",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=They%20Are%20Billions",
+          "evidence": "Exact title in GOG official catalog: They Are Billions"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=They%20Are%20Billions",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:282070": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/this_war_of_mine",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=This%20War%20of%20Mine",
+          "evidence": "Exact title in GOG official catalog: This War of Mine"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=This%20War%20of%20Mine",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "This War of Mine: Complete Edition",
+            "url": "https://www.gog.com/en/game/this_war_of_mine_complete_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "This War of Mine: Stories - Season Pass",
+            "url": "https://www.gog.com/en/game/this_war_of_mine_stories_season_pass",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:5035340": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Tidewrack",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://overlkd.com",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1062090": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/timberborn",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://mechanistry.com/",
+          "evidence": "Game-specific official website link with matching destination title"
+        },
+        {
+          "provider": "Humble Store",
+          "url": "https://www.humblebundle.com/store/timberborn",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+          "sourceUrl": "https://mechanistry.com/",
+          "evidence": "Game-specific official website link with matching destination title"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Timberborn",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "matched",
+            "sourceUrl": "https://mechanistry.com/",
+            "matches": 3
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Timberborn + Soundtrack",
+            "url": "https://www.gog.com/en/game/timberborn_and_soundtrack",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:4139890": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=TROLLHEIM%3A%20GNOMES",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2939510": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Under%20Canopies",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://www.undercanopiesgame.com/",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3924020": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Until%20North%20Ends",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:5161180": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Voxel%20Wild",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:4514350": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Voxelantis",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:4468350": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Voxelnova",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:307110": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=We%20Need%20To%20Go%20Deeper",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "We Need To Go Deeper - Complete Edition",
+            "url": "https://www.gog.com/en/game/we_need_to_go_deeper",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3642910": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Wyldheart",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3461270": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=XenoHaven",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": null,
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1782120": {
+      "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T22:53:46.329600+00:00",
+        "checks": [
+          {
+            "provider": "itch.io",
+            "state": "unavailable-search",
+            "reason": "Known creator pages can still be verified independently."
+          },
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=ZERO%20Sievert",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://modernwolf.net/game-for-cabo-studio/zero-sievert",
             "matches": 0
           }
         ],
