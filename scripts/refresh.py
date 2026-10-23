@@ -14,6 +14,28 @@ def get(url):
             delay=2**(attempt+1)
             if isinstance(e,urllib.error.HTTPError) and e.code==429: delay=max(delay,int(e.headers.get('Retry-After','10')))
             time.sleep(min(delay,60))
+def reviews_url(appid):
+    params={'appid':int(appid),'languages':['all'],'purchase_type':1,'review_type':0,'filter':0,'day_range':0,'num_per_page':1,'display_language':'english'}
+    return 'https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?'+urllib.parse.urlencode({'input_json':json.dumps(params,separators=(',',':'))})
+def reviews_query(appid):
+    payload=get(reviews_url(appid));response=payload.get('response',payload)
+    q=response.get('query_summary')
+    if not isinstance(q,dict) or 'total_reviews' not in q:raise ValueError('Steam review summary was not returned')
+    for key in ('total_positive','total_negative','total_reviews'):q[key]=int(q.get(key,0))
+    if q['total_positive']+q['total_negative']!=q['total_reviews']:raise ValueError('Steam review totals do not reconcile')
+    return q
+def repair_reviews(g):
+    if g.get('verification')!='verified':return g
+    try:
+        q=reviews_query(g['appid']);total=q['total_reviews']
+        g.update(rating=round(100*q['total_positive']/total,1) if total else None,reviewCount=total,reviewLabel=q.get('review_score_desc'),reviewError=None,reviewsVerifiedAt=NOW)
+        g['warnings']=[w for w in g.get('warnings',[]) if w not in ('Small review sample','Review refresh unavailable')]
+        if total<100:g['warnings'].append('Small review sample')
+        g['sources']=[x for x in g.get('sources',[]) if x.get('provider')!='Steam reviews API']+[{'provider':'Steam reviews API','url':reviews_url(g['appid']),'verified':True,'lastChecked':NOW}]
+    except Exception as e:
+        g['reviewError']=str(e)
+        g['warnings']=list(dict.fromkeys(g.get('warnings',[])+['Review refresh unavailable']))
+    return g
 def text(s): return html.unescape(re.sub('<[^>]+>',' ',s or '')).strip()
 def norm(s): return re.sub('[^a-z0-9]','',s.lower())
 def match(a,b):
@@ -33,7 +55,7 @@ def resolve(seed,old,force):
         age=dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(prior['verifiedAt'])
         if age.total_seconds()<86400:
             prior.update(collection=seed['collection'],fit=int(seed['fit']))
-            return prior
+            return repair_reviews(prior) if prior.get('reviewError') else prior
     try:
         aid=int(sid); d=details(aid)
         if not d or not match(seed['name'],d.get('name','')):
@@ -45,8 +67,10 @@ def resolve(seed,old,force):
             raise ValueError('Steam identity not confirmed'+(': '+d.get('name','') if d else ''))
         u=f'https://store.steampowered.com/app/{aid}/'; review_error=None
         try:
-            q=get(f'https://store.steampowered.com/appreviews/{aid}?json=1&language=all&purchase_type=all&filter=all&num_per_page=1').get('query_summary',{})
-        except Exception as e: q={};review_error=str(e)
+            q=reviews_query(aid)
+        except Exception as e:
+            q={'total_reviews':prior.get('reviewCount',0),'total_positive':round((prior.get('rating') or 0)*prior.get('reviewCount',0)/100),'review_score_desc':prior.get('reviewLabel')} if prior else {}
+            review_error=str(e)
         total=q.get('total_reviews',0);pos=q.get('total_positive',0)
         cats=[x['description'] for x in d.get('categories',[])];genres=[x['description'] for x in d.get('genres',[])]
         release=d.get('release_date',{});price=d.get('price_overview',{})
@@ -62,7 +86,7 @@ def resolve(seed,old,force):
         if any('co-op' in x.lower() for x in cats):tags.append('Co-op')
         if 'Early Access' in genres:tags.append('Early Access')
         status='Upcoming' if release.get('coming_soon') else 'Early Access' if 'Early Access' in genres else 'Released'
-        return {'id':'steam:'+str(aid),'appid':aid,'seedId':sid,'seedName':seed['name'],'name':d['name'],'collection':seed['collection'],'fit':int(seed['fit']),'summary':text(d.get('short_description','')),'developers':d.get('developers',[]),'publishers':d.get('publishers',[]),'genres':genres,'tags':sorted(set(tags)),'features':cats,'status':status,'releaseDate':date_iso(release.get('date','')),'releaseLabel':release.get('date','Unknown'),'comingSoon':bool(release.get('coming_soon')),'free':bool(d.get('is_free')),'price':price.get('final_formatted'),'priceMinor':price.get('final'),'currency':price.get('currency'),'discount':price.get('discount_percent',0),'platforms':[k for k,v in d.get('platforms',{}).items() if v],'rating':round(100*pos/total,1) if total else None,'reviewCount':total,'reviewLabel':q.get('review_score_desc'),'reviewError':review_error,'metacritic':d.get('metacritic'),'image':d.get('header_image'),'background':d.get('background_raw') or d.get('background'),'screenshots':screenshots,'trailers':movies,'steamUrl':u,'website':d.get('website'),'verifiedAt':NOW,'verification':'verified','sources':[{'provider':'Steam','url':u,'verified':True,'lastChecked':NOW},{'provider':'Steam store API','url':f'https://store.steampowered.com/api/appdetails?appids={aid}&l=english&cc=us','verified':True,'lastChecked':NOW},{'provider':'Steam reviews API','url':f'https://store.steampowered.com/appreviews/{aid}?json=1&language=all&purchase_type=all','verified':not review_error,'lastChecked':NOW}],'warnings':(['Small review sample'] if total<100 else [])+(['Review refresh unavailable'] if review_error else [])}
+        return {'id':'steam:'+str(aid),'appid':aid,'seedId':sid,'seedName':seed['name'],'name':d['name'],'collection':seed['collection'],'fit':int(seed['fit']),'summary':text(d.get('short_description','')),'developers':d.get('developers',[]),'publishers':d.get('publishers',[]),'genres':genres,'tags':sorted(set(tags)),'features':cats,'status':status,'releaseDate':date_iso(release.get('date','')),'releaseLabel':release.get('date','Unknown'),'comingSoon':bool(release.get('coming_soon')),'free':bool(d.get('is_free')),'price':price.get('final_formatted'),'priceMinor':price.get('final'),'currency':price.get('currency'),'discount':price.get('discount_percent',0),'platforms':[k for k,v in d.get('platforms',{}).items() if v],'rating':round(100*pos/total,1) if total else None,'reviewCount':total,'reviewLabel':q.get('review_score_desc'),'reviewError':review_error,'reviewsVerifiedAt':NOW if not review_error else (prior or {}).get('reviewsVerifiedAt'),'metacritic':d.get('metacritic'),'image':d.get('header_image'),'background':d.get('background_raw') or d.get('background'),'screenshots':screenshots,'trailers':movies,'steamUrl':u,'website':d.get('website'),'verifiedAt':NOW,'verification':'verified','sources':[{'provider':'Steam','url':u,'verified':True,'lastChecked':NOW},{'provider':'Steam store API','url':f'https://store.steampowered.com/api/appdetails?appids={aid}&l=english&cc=us','verified':True,'lastChecked':NOW},{'provider':'Steam reviews API','url':reviews_url(aid),'verified':not review_error,'lastChecked':NOW}],'warnings':(['Small review sample'] if total<100 and not review_error else [])+(['Review refresh unavailable'] if review_error else [])}
     except Exception as e:
         if prior and prior.get('verification')=='verified':
             prior['warnings']=list(set(prior.get('warnings',[])+['Refresh failed; retained prior verified snapshot']))
