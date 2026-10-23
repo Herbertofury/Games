@@ -3,9 +3,9 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['site/**','scripts/build.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','tests/**','docs/UPDATING.md','.github/workflows/publish.yml']
+    paths: ['site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json']
   workflow_run:
-    workflows: ['Refresh Steam catalog','Add game recommendation','Install library source']
+    workflows: ['Refresh Steam catalog','Add game recommendation','Install library source','Expand shooter library','Refresh shooter discoveries']
     types: [completed]
 permissions:
   contents: write
@@ -31,7 +31,7 @@ jobs:
           python-version: '3.12'
       - name: Build the canonical snapshot
         run: |
-          test -s data/catalog.json || { echo 'Official metadata refresh has not published its snapshot yet. Rerun after Refresh Steam catalog completes.'; exit 1; }
+          test -s data/catalog.json || { echo 'Official metadata refresh has not published its snapshot yet.'; exit 1; }
           python3 scripts/reconcile.py
           python3 scripts/build.py
           node --check site/app.js
@@ -54,6 +54,7 @@ jobs:
       - name: Real browser acceptance tests
         run: |
           python3 tests/browser_qa.py
+          python3 tests/multiplatform_qa.py
           cp qa/live-media/*.png qa/
       - name: Publish native wiki
         env:
@@ -70,15 +71,14 @@ jobs:
           else
             echo 'ready=false' >> "$GITHUB_OUTPUT"
             python3 -c 'import json;json.dump({"state":"unresolved-active","blocker":"Enable GitHub Pages once in Settings > Pages > Source: GitHub Actions."},open("qa/pages-publication.json","w"),indent=2)'
-            echo 'Pages needs one-time repository enablement. Portable HTML and the verified release remain available.' >> "$GITHUB_STEP_SUMMARY"
+            echo 'Pages needs one-time repository enablement. Portable HTML and native wiki remain available.' >> "$GITHUB_STEP_SUMMARY"
           fi
       - name: Persist source-matched generated artifacts and QA
         run: |
           mkdir -p docs/qa
           cp qa/*.json docs/qa/
-          cp qa/desktop.png docs/qa/desktop.png
-          cp qa/mobile.png docs/qa/mobile.png
-          cp qa/detail.png docs/qa/detail.png
+          cp qa/desktop.png qa/mobile.png qa/detail.png docs/qa/
+          cp qa/shooters-*.png docs/qa/
           TESTED_HTML_SHA=$(sha256sum dist/index.html | cut -d' ' -f1)
           python3 scripts/build.py
           test "$TESTED_HTML_SHA" = "$(sha256sum dist/index.html | cut -d' ' -f1)"
@@ -87,7 +87,7 @@ jobs:
           git add dist wiki data
           git add -f docs/qa
           if ! git diff --cached --quiet; then
-            git commit -m 'Publish the verified library, generated wiki, and runtime QA evidence'
+            git commit -m 'Publish both verified genre hubs, generated native wiki, and runtime QA evidence'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
@@ -110,6 +110,7 @@ jobs:
           path: |
             release/
             qa/
+            data/external-media-report.json
   deploy:
     needs: build
     if: needs.build.outputs.pages-ready == 'true'
