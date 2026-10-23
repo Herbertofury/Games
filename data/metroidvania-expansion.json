@@ -1,0 +1,68 @@
+{
+  "schemaVersion":1,
+  "corrections":{
+    "Lucid":{"appid":1717730},
+    "The Last Case of Benedict Fox":{"appid":2023360,"aliases":["The Last Case of Benedict Fox Definitive Edition"]},
+    "Convergence: A League of Legends Story":{"appid":1276800},
+    "Omega Strike":{"appid":680340},
+    "Strider":{"appid":235210,"aliases":["STRIDER / ストライダー飛竜"]},
+    "Disney Illusion Island":{"appid":2054660,"aliases":["Disney Illusion Island Starring Mickey and Friends"]},
+    "Shantae: Risky's Revenge - Director's Cut":{"appid":277890},
+    "Mystik Belle":{"appid":332610,"aliases":["Mystik Belle: Enchanted Edition"]},
+    "Blade Chimera":{"appid":2671230},
+    "Akurra":{"name":"Isles of Sea and Sky","aliases":["Akurra"]},
+    "Zau":{"name":"Tales of Kenzera: ZAU","appid":2316580},
+    "Star Wars Jedi: Fallen Order":{"appid":1172380},
+    "Star Wars Jedi: Survivor":{"appid":1774580}
+  },
+  "excludeCandidates":{
+    "Magenta Horizon":"Excellent stage-based character-action game, but not a Metroidvania. Retained in the discovery ledger rather than mislabeled.",
+    "Big Hops":"Collectathon platforming rather than a persistent ability-gated Metroidvania.",
+    "Bail Force: Cyberpunk Bounty Hunters":"Run-based action roguelite, not a Metroidvania.",
+    "Mini Knight":"The named candidate is ambiguous; the returned Mini Knight's Journey is not assumed to be the intended game.",
+    "Valley":"A linear first-person adventure; not promoted as a traditional Metroidvania.",
+    "Windswept":"Primarily a level-based platformer rather than a persistent labyrinth.",
+    "Brave Earth: Prologue":"Stage-based Castlevania-style action, not a Metroidvania.",
+    "Lords of Exile":"Stage-based action platformer, not a Metroidvania.",
+    "Saviorless":"Narrative platformer, not a traditional Metroidvania.",
+    "The Spirit of the Samurai":"Narrative action platformer, not a traditional Metroidvania.",
+    "Bionic Bay":"Level-based puzzle platformer, not a persistent-world Metroidvania."
+  },
+  "additionalSteam":[
+    "Frogmonster","Vomitoreum","Psycron","The Aquatic Adventure of the Last Human","Insanely Twisted Shadow Planet","Shadow Man Remastered","Knytt Underground","Knytt Classic","Cave Story+","Bone Appetit","Feudal Alloy","Clunky Hero","Curse of the Sea Rats","Chronicles of 2 Heroes: Amaterasu's Wrath","The Knight Witch","Pharaoh Rebirth+","Rex Rocket","Robot Wants It All","Teslagrad Remastered","Teslagrad 2","Rain World","Wolfhound","Anew: The Distant Light","Biomass","Maseylia: Echoes of the Past","Magical Blush","Sunset Land","Distant Paradise","A Knight of Lothen","Touhou Genso Wanderer -FORESIGHT-","OVERLORD: ESCAPE FROM NAZARICK","Deedlit in Wonder Labyrinth","Cat Girl Without Salad: Amuse-Bouche","Super Panda Adventures","Super Skelemania","Super Metroidvania","Kandria","OUTBUDDIES DX","Sapper - Defuse The Bomb Simulator","Unbound: Worlds Apart","Aeternum Vale","An Untitled Story","Monster Sanctuary","The Vagrant","Rabi-Ribi","Wuppo: Definitive Edition","Elliot Quest","Eagle Island","Sundered: Eldritch Edition","UnEpic","Momodora: Moonlit Farewell","Demon Peak","Axiom Verge 2","Cally's Caves 3","Cally's Caves 4","Mystik Belle: Enchanted Edition","Shinsekai Into the Depths","Kunai","Touhou Double Focus","Rabi-Ribi","Astronite","The Light of the Darkness","The Light of the Darkness: Renascence","Over The Moon","Piko Piko","Itorah","8Doors: Arum's Afterlife Adventure","OUTBUDDIES DX","Escape from the Universe","Beholgar","Beholgar 2","Hunter's Legacy","Hollow Floor","Greak: Memories of Azur","The Fall of Aether Station","Project Delta","Mable & The Wood","Nightkeep","Cathedral","Himno","Kingdom of the Dead","Sakuna: Of Rice and Ruin","Demon's Crest","Quester","The Legend of Tian Ding","Outland","Forma.8","Teslagrad","Unbound: Worlds Apart","Environmental Station Alpha 2"
+  ],
+  "supplementExclusions":["Touhou Genso Wanderer -FORESIGHT-","Cat Girl Without Salad: Amuse-Bouche","Sapper - Defuse The Bomb Simulator","Deedlit in Wonder Labyrinth","Super Metroidvania","Over The Moon","Escape from the Universe","The Fall of Aether Station","Project Delta","Himno","Kingdom of the Dead","Sakuna: Of Rice and Ruin","Quester","The Legend of Tian Ding","Demon's Crest","Shinsekai Into the Depths","Cally's Caves 3","Cally's Caves 4"],
+  "external":[
+    {"slug":"necrowave","name":"Necrowave","url":"https://www.necrowave.com/","extraUrls":["https://www.patreon.com/Necrowave"],"status":"Prototype","free":true,"fit":8,"scope":"Combat-focused Metroidvania","why":"A hand-animated exploration platformer built around lethal, tactical encounters. A creator-supported development project, not a finished commercial release.","requirements":"Use the public build offered by the creator. Patreon support and any paid early-access tiers are separate."},
+    {"slug":"stratum","name":"Stratum","url":"https://machinescreen.itch.io/stratum","free":true,"fit":8,"scope":"3D Metroidvania","why":"A small first-person labyrinth with compact movement upgrades. A short, free discovery rather than a sprawling commercial campaign."},
+    {"slug":"fiends-fall","name":"Fiend's Fall","url":"https://samppamon.itch.io/fiends-fall","free":true,"fit":8,"scope":"Compact Metroidvania","why":"A bite-sized browser Metroidvania with multiple endings and a concentrated exploration loop."},
+    {"slug":"rabbits-quest","name":"Rabbit's Quest","url":"https://directshift.itch.io/rabbits-quest","extraUrls":["https://itch.io/t/420551/rabbits-quest-metroidvania-shoot-em-up"],"free":true,"fit":9,"scope":"Traditional Metroidvania","why":"A substantial free run-and-gun exploration adventure with multiple regions and character upgrades."},
+    {"slug":"mini-falafel-adventure","name":"A Mini Falafel Adventure","url":"https://beadybox.itch.io/a-mini-falafel-adventure","free":true,"fit":9,"youtube":"G3vjGACRU8k","scope":"Compact Metroidvania","why":"A free, compact adventure with inventive bosses and an intentionally silly premise. A strong freeware discovery."},
+    {"slug":"angel-shell","name":"Angel Shell","url":"https://zahranworrell.itch.io/angel-shell","free":true,"fit":8,"scope":"Compact Metroidvania","why":"A short underwater exploration game built around a grappling hook, with a distinctly small-scale indie identity."},
+    {"slug":"reawakening","name":"Reawakening","url":"https://hatbird-games.itch.io/reawakening","free":true,"fit":8,"scope":"Traditional Metroidvania","why":"A free mining-suit exploration adventure, suited to players who like uncovering a world through tools and movement upgrades."},
+    {"slug":"senescence-protocol","name":"Senescence Protocol","url":"https://lui421.itch.io/senescence-protocol","free":true,"fit":7,"scope":"Top-down Metroidvania","why":"A short, top-down jam-scale exploration game. Kept separate from the long-form genre essentials."},
+    {"slug":"spellsought","name":"Spellsought","url":"https://speedrockstrong.itch.io/spellsought","free":true,"fit":7,"scope":"Compact Metroidvania","why":"A small creator-hosted spellcasting exploration game for the deep-cut shelf."},
+    {"slug":"peppermint","name":"Peppermint","url":"https://salmoone.itch.io/peppermint","status":"Prototype","free":true,"fit":7,"scope":"Traditional Metroidvania","why":"A candy-and-horror pixel-art exploration prototype. The available build is not presented as the completed game."},
+    {"slug":"mongrel-story","name":"Mongrel Story","url":"https://mountainstork.itch.io/mongrel-story-demo","status":"Demo","free":true,"fit":7,"scope":"Traditional Metroidvania","why":"A creator-hosted exploration demo. Useful as a discovery, with its demo status visible rather than counted as a full release."},
+    {"slug":"block-neopolis","name":"BLOCK","url":"https://neopolis.itch.io/block","free":true,"fit":8,"scope":"Puzzle / knowledge exploration","why":"A minimalist metroidbrainia where understanding the rules opens new possibilities. A puzzle-led neighbor, not a combat-heavy Metroidvania."},
+    {"slug":"fohh","name":"Fohh","url":"https://ismaelrodriguez.itch.io/fohh","free":true,"status":"Prototype","fit":8,"scope":"Compact Metroidvania","why":"A short gravity-driven dinosaur exploration prototype with a playful visual identity."},
+    {"slug":"momodora-2","name":"Momodora II","url":"https://rdein.itch.io/momodora-ii","free":true,"fit":8,"scope":"Compact Metroidvania","originalReleaseYear":2011,"why":"The early freeware Momodora entry that shifted the series toward interconnected exploration. An archival favorite with older-PC compatibility considerations."},
+    {"slug":"lyle-cube-sector","name":"Lyle in Cube Sector","url":"https://www.bogozone.net/lyle.html","free":true,"fit":9,"scope":"Traditional Metroidvania","originalReleaseYear":2006,"why":"A distinctive freeware classic where throwing cubes and acquiring new abilities unlock a strange interconnected world."},
+    {"slug":"hero-core","name":"Hero Core","url":"https://www.remar.se/daniel/herocore.php","free":true,"fit":9,"scope":"Traditional Metroidvania","originalReleaseYear":2010,"why":"A compact, monochrome shooting-and-exploration classic. The original desktop game is distinct from later fan ports."},
+    {"slug":"castlevania-requiem","name":"Castlevania Requiem: Symphony of the Night & Rondo of Blood","url":"https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001","extraUrls":["https://www.konami.com/games/us/en/topics/1190/"],"free":false,"fit":10,"scope":"Metroidvania collection / mixed formats","platforms":["PlayStation 4","PlayStation 5 backward compatibility"],"originalReleaseYear":1997,"releaseYear":2018,"youtube":"jm9KHCFedAc","aliases":["Castlevania: Symphony of the Night","Symphony of the Night","Castlevania: Rondo of Blood"],"why":"An official modern route to Symphony of the Night, bundled with the stage-based Rondo of Blood. One collection record, with both games searchable.","requirements":"PlayStation edition. Rondo of Blood is a stage-based action game, not a Metroidvania; Symphony of the Night is the exploration recommendation."},
+    {"slug":"metroid-dread","name":"Metroid Dread","url":"https://metroid.nintendo.com/dread/","extraUrls":["https://www.nintendo.com/us/store/products/metroid-dread-switch/"],"free":false,"fit":10,"scope":"Traditional Metroidvania","platforms":["Nintendo Switch"],"releaseYear":2021,"why":"A modern 2D genre benchmark with fluid movement and high-pressure encounters. Kept on an explicitly console-only shelf, not passed off as a Steam game."},
+    {"slug":"metroid-prime-remastered","name":"Metroid Prime Remastered","url":"https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/","free":false,"fit":10,"scope":"3D Metroidvania","platforms":["Nintendo Switch"],"releaseYear":2023,"originalReleaseYear":2002,"why":"First-person exploration, scanning and interconnected alien environments. An official console remaster of a genre cornerstone."},
+    {"slug":"metroid-prime-4","name":"Metroid Prime 4: Beyond","url":"https://metroid.nintendo.com/prime-4-beyond/","free":false,"fit":9,"scope":"3D Metroidvania","platforms":["Nintendo Switch","Nintendo Switch 2"],"why":"The newer first-person Metroid entry, cataloged through Nintendo rather than an invented PC edition."}
+  ],
+  "creatorLinks":[
+    ["PITH","https://keveatscheese.itch.io/pith","demo"],
+    ["Auridia","https://norseboar.itch.io/auridia-demo","demo"],
+    ["DRAGONBOMB","https://ad8xya.itch.io/dragonbomb","project"],
+    ["A Knight of Lothen","https://spiral-lane.itch.io/a-knight-of-lothen-a-metroidvania-game","store"],
+    ["Sunset Land","https://rivet-gun-games.itch.io/sunset-land","store"],
+    ["Distant Paradise","https://dreamnoid.itch.io/distant-paradise","project"],
+    ["Magical Blush","https://dangen-entertainment.itch.io/magical-blush","store"],
+    ["Overbowed","https://klardonics.itch.io/overbowed","store"]
+  ],
+  "coverageNote":"Discovery includes the full 2026 genre index, curated classics and deep cuts, exact Steam metadata, GOG, creator itch.io pages, publisher links and public creator support. No search miss is treated as proof of absence."
+}
