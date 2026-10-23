@@ -5,18 +5,37 @@ on:
     paths: ['.github/workflows/finalize-metroidvania.yml']
 permissions:
   contents: write
+  actions: read
 jobs:
   finalize:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0
       - run: python3 -m pip install -r requirements-dev.txt
-      - name: Apply targeted cross-genre and future-refresh corrections
+      - name: Restore the approved exact public-build preview
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
+          gh api repos/Herbertofury/Games/actions/artifacts/12519782531/zip > /tmp/spellsought-preview.zip
+          echo '779bb395fb78e97a40aa51f33a0f994700e6157d5f2d60289219f96faa440fe2  /tmp/spellsought-preview.zip' | sha256sum -c -
+          mkdir -p qa/approved-spellsought
+          unzip -q /tmp/spellsought-preview.zip -d qa/approved-spellsought
+          python3 - <<'PY'
+          import hashlib,json,pathlib,shutil
+          r=pathlib.Path.cwd();src=r/'qa/approved-spellsought';dest=r/'media/metroidvania';dest.mkdir(parents=True,exist_ok=True)
+          v=src/'spellsought-preview.mp4';assert v.stat().st_size>10000;shutil.copyfile(v,dest/v.name)
+          proof=json.loads((src/'capture.json').read_text());proof.update(approved=True,approval='Menu, start and gameplay frames visually inspected: correct game, moving character, jumping, combat and respawn.',videoSha256=hashlib.sha256(v.read_bytes()).hexdigest(),artifactId=12519782531,artifactSha256='779bb395fb78e97a40aa51f33a0f994700e6157d5f2d60289219f96faa440fe2')
+          p=r/'data/metroidvania-captured-previews.json';d=json.loads(p.read_text()) if p.exists() else {'previews':{}};d['previews']['external:spellsought']=proof;p.write_text(json.dumps(d,indent=2)+'\n')
+          p=r/'data/metroidvania-media.json';d=json.loads(p.read_text());d['overrides'].setdefault('external:spellsought',{}).setdefault('_replace',{})['trailers']=[{'mp4':'https://raw.githubusercontent.com/Herbertofury/Games/main/media/metroidvania/spellsought-preview.mp4','name':'Catalog-recorded public build preview (32 seconds)','official':False,'sourceUrl':'https://speedrockstrong.itch.io/spellsought','credit':'SpeedRockStrong game; Games Library preview capture','editionNote':'Unchanged public v1.0.3 assets run through their matching native Godot runtime. Short preview only, not a full review.'}];p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+          PY
+      - name: Apply the complete coherent implementation and all source tests
+        run: |
+          python3 scripts/install_metroidvania_checkpoint.py
+          python3 scripts/curate_metroidvania.py
           python3 scripts/complete_metroidvania_release.py
           python3 scripts/guard_metroidvania_updates.py
           python3 -m py_compile scripts/*.py tests/*.py
@@ -30,28 +49,29 @@ jobs:
           import collections,json,pathlib
           r=pathlib.Path.cwd();d=json.loads((r/'data/catalog.json').read_text());games=[g for g in d['items'] if 'Metroidvanias' in g.get('hubs',[])];sources=collections.Counter(x['provider'] for g in games for x in g.get('storefronts',[]));statuses=collections.Counter(g['status'] for g in games)
           text='# Games: the Metroidvania exploration atlas\n\n'
-          text+=f'This release adds a dedicated hub with {len(games)} source-grounded Metroidvania and explicitly labelled adjacent entries to the same living library. The complete library now contains {len(d["items"])} unique records across the existing genre hubs. Previous identities and browser storage remain intact.\n\n'
-          text+='Every published Metroidvania entry has real artwork, an exact embedded-video source, and confirmed distribution links. Original creator footage, credited community gameplay, historical alpha footage, and a catalog-recorded public Spellsought preview are labelled distinctly. Two candidate previews that could not be verified remain in the research ledger, not among recommendations.\n\n'
-          text+='The new hub separates traditional Metroidvanias, dark fantasy, parry-focused combat, alien worlds, movement challenges, puzzle-led labyrinths, miniature freeware, top-down/3D neighbors and roguelite hybrids. Recent releases, demos, prototypes, console editions and upcoming games are clearly distinguished. Original Castlevania titles are searchable inside their official collections.\n\n'
+          text+=f'This release adds a dedicated hub with {len(games)} source-grounded Metroidvania and explicitly labelled adjacent entries to the same living library. The complete library now contains {len(d["items"])} unique records. Every previous genre identity and the existing browser-storage key remain intact.\n\n'
+          text+='Every published Metroidvania entry has real artwork, an exact embedded-video source, and confirmed distribution links. Creator trailers, credited community gameplay, historical alpha footage, creator animated gameplay loops, and a catalog-recorded public Spellsought preview are labelled distinctly. Two candidate previews that could not be verified remain in the research ledger, not among recommendations.\n\n'
+          text+='Separate shelves cover traditional Metroidvanias, dark fantasy, parry-focused combat, alien worlds, movement challenges, puzzle-led labyrinths, miniature freeware, top-down/3D neighbors and roguelite hybrids. Recent releases, demos, prototypes, console editions and upcoming games are clearly distinguished. Original Castlevania titles are searchable inside their official collections.\n\n'
           text+='Native wiki: Metroidvanias, Metroidvania-Media and Metroidvania-Underground, plus individual game dossiers. The wiki renders artwork and links videos; the portable HTML supplies the embedded players.\n\n'
           text+='Source coverage is the confirmed set, not a claim to every retailer worldwide. Patreon support is not a full-game license; Nintendo Classics membership access is not freeware. Review scores retain their provider and sample size. Editorial fit is not a claim of hands-on completion.\n\n'
-          text+='The release gate retains all previous browser and unit tests and adds exhaustive new detail/source and artwork checks. Real video-playback probes are distinct from a claim that every external video was watched end to end. GitHub Pages remains a separate hosting setting.\n'
+          text+='The release gate retains all previous browser and unit tests and adds exhaustive new detail/source and artwork checks. Actual video-playback probes are distinct from a claim that every external video was watched end to end. GitHub Pages remains a separate hosting setting.\n'
           (r/'docs/RELEASE.md').write_text(text)
-          (r/'docs/METROIDVANIA.md').write_text(text+'\n## Snapshot counts\n\n```json\n'+json.dumps({'records':len(games),'statuses':dict(statuses),'sourceReferences':sum(sources.values()),'providers':dict(sources),'datasetHash':d['build']['datasetHash']},indent=2)+'\n```\n\n## Updating\n\nUse the existing Refresh Metroidvania discoveries workflow or run `python3 scripts/enrich_metroidvania.py`, then `python3 scripts/build.py`. Canonical IDs are retained across discovery-index changes. Creator metadata caches expire after one day; store-discovery caches after seven days. `--force` invalidates those caches explicitly. Curation, corrected media, reviewed candidates, and captured-preview provenance remain separate source layers. No scheduled crawler is enabled.\n')
+          (r/'docs/METROIDVANIA.md').write_text(text+'\n## Snapshot counts\n\n```json\n'+json.dumps({'records':len(games),'statuses':dict(statuses),'sourceReferences':sum(sources.values()),'providers':dict(sources),'datasetHash':d['build']['datasetHash']},indent=2)+'\n```\n\n## Updating\n\nUse Refresh Metroidvania discoveries or run `python3 scripts/enrich_metroidvania.py`, then `python3 scripts/build.py`. Stable IDs and previously resolved candidates survive discovery-index changes. Creator caches expire after one day; store caches after seven days. `--force` invalidates them explicitly. Curation, corrected media, reviewed candidates and captured-preview provenance remain separate source layers. No scheduled crawler is enabled.\n')
           p=r/'docs/UPDATING.md';s=p.read_text();marker='## Metroidvania source layers'
-          if marker not in s:s+='\n'+marker+'\n\nSee [METROIDVANIA.md](METROIDVANIA.md). Keep `metroidvania-curation.json`, `metroidvania-media.json`, and `metroidvania-review-decisions.json` intact when refreshing raw provider facts. The reusable collector preserves exact accepted identities and source-specific editions. Public preview videos and their provenance are retained under `media/metroidvania/` and `data/metroidvania-captured-previews.json`.\n';p.write_text(s)
-      - name: Persist a coherent source checkpoint before the long browser gate
+          if marker not in s:s+='\n'+marker+'\n\nSee [METROIDVANIA.md](METROIDVANIA.md). Preserve `metroidvania-curation.json`, `metroidvania-media.json`, and `metroidvania-review-decisions.json` when refreshing raw facts. Public preview provenance is retained under `media/metroidvania/` and `data/metroidvania-captured-previews.json`.\n';p.write_text(s)
+      - name: Persist source, then isolate all generated-file changes before rebasing
         run: |
           git config user.name 'Games catalog bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add scripts tests docs/RELEASE.md docs/METROIDVANIA.md docs/UPDATING.md
+          git add site scripts tests docs/RELEASE.md docs/METROIDVANIA.md docs/UPDATING.md data/metroidvania-curation.json data/metroidvania-protected.json data/metroidvania-media.json data/metroidvania-captured-previews.json media/metroidvania
           if ! git diff --cached --quiet; then
-            git commit -m 'Complete Metroidvania source acceptance and preserve every existing genre'
-            git stash push --include-untracked -m 'Generated preview before source checkpoint rebase' -- data/catalog.json data/platformers-study-report.json dist wiki
+            git commit -m 'Complete verified Metroidvania source, media, UI and identity-preserving updates'
+            git stash push --include-untracked -m 'Recoverable generated files before source checkpoint rebase'
+            test -z "$(git status --porcelain --untracked-files=no)"
             git pull --rebase origin main
             git push origin HEAD:main
           fi
-      - name: Package the source-matched checkpoint
+      - name: Package the source-matched checkpoint without repeating collection
         run: python3 scripts/build.py
       - uses: actions/upload-artifact@v4
         if: always()
