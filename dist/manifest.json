@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "version": "1.2.0",
-  "builtAt": "2026-10-23T07:40:23.777256+00:00",
+  "builtAt": "2026-10-23T07:42:52.262527+00:00",
   "sourceRepository": "https://github.com/Herbertofury/Games",
-  "sourceRevision": "7f277ad9389b51586adf0cb9a4d3cd73ecbb3bb9",
+  "sourceRevision": "c2feb351504dc049a3f597a8665753a6de688b90",
   "sourceWiki": "https://github.com/Herbertofury/Games/wiki",
   "datasetHash": "f050a61e9948af7a98d133fb02914faa9da6260c2b62c8ed8c1639fc3b77f8b3",
   "records": 318,
@@ -89,13 +89,13 @@
     "data/media-completion.json": "a905d4d7d6a3629a4dd75ffdf949f1f4b2c7db73324471b90d683512f23022db",
     "data/seeds.tsv": "e281fa7444b93245e032ce93b26f86e8b0be93727dde81b2a22d2b66f0577760",
     "data/name-history.json": "8ba4b6e23f9d260335aaa4bd9cca774ed3264529204359811f81da43df66977f",
-    "data/external-media-report.json": "367cf4e0f0f7b09cb6b02c837b24301956aaa63d794710234a91ab7a2aa21614",
+    "data/external-media-report.json": "bf037f1c703dfa4c870bdd2fcd43d341cf69ec7ba1c3e8ca694ac5159e3d8387",
     "data/storefront-discovery-report.json": "6b2a50dc1b8aa1d0e6bcd0ce258bdf244fa2d5c43a998cbd6e0a489c62037a45",
     "data/storefront-discovery.json": "5f0f3e908e746f3024914822f347a96ff4ff3380b7abc96576bef2c57cf7ed6b",
     "data/shooters-curation.json": "b2d7b30e5dfd064ff7c2ee6f546a6fe595fe41e52bb81b2a46e45d93c4991a89",
     "data/shooters-seeds.json": "178fc6347a919e39caab2c00879658cd360f89748c3547589f4de5b67fbcbadc",
     "data/shooters-steam.json": "81975fe9eb6a7ebf8d743b4bed5dfece310689c8fff7d39658b755c55e820155",
     "data/catalog.json": "6965f7d19831ec0da3d314178d6e972f1cf549b47acfdf2b1167feb516ce7ef7",
-    "data/shooters-external.json": "70a92cc85fdfd7b1e170beca5d451c0824c17fab7f9c1c7020bdb14c7dec39c0"
+    "data/shooters-external.json": "66e45008d2d52addc1f7d6c1fba69698d5cebc275363ad636b36d3c1f8f3a96f"
   }
 }
