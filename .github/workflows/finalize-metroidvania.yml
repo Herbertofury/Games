@@ -1,0 +1,63 @@
+name: Finalize Metroidvania source
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/finalize-metroidvania.yml']
+permissions:
+  contents: write
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Apply targeted cross-genre and future-refresh corrections
+        run: |
+          python3 scripts/complete_metroidvania_release.py
+          python3 scripts/guard_metroidvania_updates.py
+          python3 -m py_compile scripts/*.py tests/*.py
+          node --check site/app.js
+          node --check site/platformers.js
+          python3 scripts/build.py
+          python3 -m unittest discover -s tests -p 'test_*.py'
+      - name: Document the exact collection and reusable update path
+        shell: python
+        run: |
+          import collections,json,pathlib
+          r=pathlib.Path.cwd();d=json.loads((r/'data/catalog.json').read_text());games=[g for g in d['items'] if 'Metroidvanias' in g.get('hubs',[])];sources=collections.Counter(x['provider'] for g in games for x in g.get('storefronts',[]));statuses=collections.Counter(g['status'] for g in games)
+          text='# Games: the Metroidvania exploration atlas\n\n'
+          text+=f'This release adds a dedicated hub with {len(games)} source-grounded Metroidvania and explicitly labelled adjacent entries to the same living library. The complete library now contains {len(d["items"])} unique records across the existing genre hubs. Previous identities and browser storage remain intact.\n\n'
+          text+='Every published Metroidvania entry has real artwork, an exact embedded-video source, and confirmed distribution links. Original creator footage, credited community gameplay, historical alpha footage, and a catalog-recorded public Spellsought preview are labelled distinctly. Two candidate previews that could not be verified remain in the research ledger, not among recommendations.\n\n'
+          text+='The new hub separates traditional Metroidvanias, dark fantasy, parry-focused combat, alien worlds, movement challenges, puzzle-led labyrinths, miniature freeware, top-down/3D neighbors and roguelite hybrids. Recent releases, demos, prototypes, console editions and upcoming games are clearly distinguished. Original Castlevania titles are searchable inside their official collections.\n\n'
+          text+='Native wiki: Metroidvanias, Metroidvania-Media and Metroidvania-Underground, plus individual game dossiers. The wiki renders artwork and links videos; the portable HTML supplies the embedded players.\n\n'
+          text+='Source coverage is the confirmed set, not a claim to every retailer worldwide. Patreon support is not a full-game license; Nintendo Classics membership access is not freeware. Review scores retain their provider and sample size. Editorial fit is not a claim of hands-on completion.\n\n'
+          text+='The release gate retains all previous browser and unit tests and adds exhaustive new detail/source and artwork checks. Real video-playback probes are distinct from a claim that every external video was watched end to end. GitHub Pages remains a separate hosting setting.\n'
+          (r/'docs/RELEASE.md').write_text(text)
+          (r/'docs/METROIDVANIA.md').write_text(text+'\n## Snapshot counts\n\n```json\n'+json.dumps({'records':len(games),'statuses':dict(statuses),'sourceReferences':sum(sources.values()),'providers':dict(sources),'datasetHash':d['build']['datasetHash']},indent=2)+'\n```\n\n## Updating\n\nUse the existing Refresh Metroidvania discoveries workflow or run `python3 scripts/enrich_metroidvania.py`, then `python3 scripts/build.py`. Canonical IDs are retained across discovery-index changes. Creator metadata caches expire after one day; store-discovery caches after seven days. `--force` invalidates those caches explicitly. Curation, corrected media, reviewed candidates, and captured-preview provenance remain separate source layers. No scheduled crawler is enabled.\n')
+          p=r/'docs/UPDATING.md';s=p.read_text();marker='## Metroidvania source layers'
+          if marker not in s:s+='\n'+marker+'\n\nSee [METROIDVANIA.md](METROIDVANIA.md). Keep `metroidvania-curation.json`, `metroidvania-media.json`, and `metroidvania-review-decisions.json` intact when refreshing raw provider facts. The reusable collector preserves exact accepted identities and source-specific editions. Public preview videos and their provenance are retained under `media/metroidvania/` and `data/metroidvania-captured-previews.json`.\n';p.write_text(s)
+      - name: Persist a coherent source checkpoint before the long browser gate
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add scripts tests docs/RELEASE.md docs/METROIDVANIA.md docs/UPDATING.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Complete Metroidvania source acceptance and preserve every existing genre'
+            git stash push --include-untracked -m 'Generated preview before source checkpoint rebase' -- data/catalog.json data/platformers-study-report.json dist wiki
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Package the source-matched checkpoint
+        run: python3 scripts/build.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: metroidvania-final-source
+          path: |
+            release/
+            dist/manifest.json
+            docs/METROIDVANIA.md
