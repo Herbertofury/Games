@@ -30,11 +30,13 @@ A current discovery-led direction for Yoshi: observe and experiment with creatur
 
 Switch 2 required; this is a released 2026 game, not a speculative watchlist item. The official listing describes a single-player experience.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Yoshi™ and the Mysterious Book — official product video](https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/) | Nintendo — exact product gallery
+
+> Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted.
 
 ![Yoshi™ and the Mysterious Book 1](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/74720e9755d3cc39e312e33d6c985a815ed352217cbcdeeaeabb98387767c82f)
 
@@ -54,9 +56,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Nintendo](https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/) · checked 2026-10-23T17:09:08.300141+00:00
-- [Exact-page media completion](https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/) · checked 2026-10-23T17:27:45.963246+00:00
+- [Platformer exact-video verification](https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/) · checked 2026-10-23T18:32:45.493637+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

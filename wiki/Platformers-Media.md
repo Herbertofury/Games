@@ -1542,7 +1542,7 @@ Fluid movement, ability-gated route design and tense encounters make a central c
 
 **Released** · 2021-10-08 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/metroid-dread-switch/) for current videos._
+[Metroid™ Dread — official product video](https://www.nintendo.com/us/store/products/metroid-dread-switch/) | [Metroid Dread - Overview Trailer - Nintendo Switch](https://www.youtube.com/watch?v=AOvefm5U250)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Ametroid-dread) · [Full dossier](Game-external-metroid-dread-Metroid-Dread) · [Official source](https://www.nintendo.com/us/store/products/metroid-dread-switch/)
 
@@ -2276,7 +2276,7 @@ Terrain destruction changes how you read a 3D space: the route can be something 
 
 **Released** · 2025-07-17 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/) for current videos._
+[Donkey Kong™ Bananza — official product video](https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Adonkey-kong-bananza) · [Full dossier](Game-external-donkey-kong-bananza-Donkey-Kong-Bananza) · [Official source](https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/)
 
@@ -2372,7 +2372,7 @@ Accessible 3D stages built around Kirby's changing abilities, with the expanded 
 
 **Released** · 2025-08-28 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/) for current videos._
+[Kirby™ and the Forgotten Land – Nintendo Switch™ 2 Edition + Star-Crossed World — official product video](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Akirby-forgotten-land) · [Full dossier](Game-external-kirby-forgotten-land-Kirby-and-the-Forgotten-Land-Switch-2-Edition-Star-Crossed-World) · [Official source](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/)
 
@@ -2624,7 +2624,7 @@ Gravity, curved surfaces and small planetary stages make this a valuable alterna
 
 **Released** · 2025-10-02 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/) for current videos._
+[Super Mario Galaxy™ + Super Mario Galaxy™ 2 — official product video](https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Asuper-mario-galaxy-collection) · [Full dossier](Game-external-super-mario-galaxy-collection-Super-Mario-Galaxy-Super-Mario-Galaxy-2) · [Official source](https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/)
 
@@ -2636,7 +2636,7 @@ An essential reference for expressive 3D movement, layered secrets and transform
 
 **Released** · 2017-10-27 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/) for current videos._
+[Super Mario Odyssey — Nintendo trailer](https://play.nintendo.com/media/videos/super-mario-odyssey-nintendo-switch-trailer/)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Asuper-mario-odyssey) · [Full dossier](Game-external-super-mario-odyssey-Super-Mario-Odyssey) · [Official source](https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/)
 
@@ -2998,7 +2998,7 @@ Authored stages, readable encounters and the interplay of movement with combat.
 
 **Released** · Sep 4, 2013 · 90.5% / 4,536 Steam reviews
 
-_No independently collected playable stream. [Check the exact official page](https://store.steampowered.com/app/227600/) for current videos._
+[Castle of Illusion: Behind the Scenes - Part 1](https://www.youtube.com/watch?v=Rha2V96pftw)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=steam%3A227600) · [Full dossier](Game-227600-Castle-of-Illusion) · [Official source](https://store.steampowered.com/app/227600/)
 
@@ -3034,7 +3034,7 @@ Barrel routes, mine-cart timing and environmental spectacle make an important cl
 
 **Released** · 2025-01-16 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/) for current videos._
+[Donkey Kong Country™ Returns HD — official product video](https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Adk-country-returns-hd) · [Full dossier](Game-external-dk-country-returns-hd-Donkey-Kong-Country-Returns-HD) · [Official source](https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/)
 
@@ -3046,7 +3046,7 @@ A priority pick for players who enjoy weighty momentum, elaborate moving environ
 
 **Released** · 2018-05-04 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/) for current videos._
+[Donkey Kong Country™: Tropical Freeze — official product video](https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Adk-tropical-freeze) · [Full dossier](Game-external-dk-tropical-freeze-Donkey-Kong-Country-Tropical-Freeze) · [Official source](https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/)
 
@@ -3202,7 +3202,7 @@ Authored stages, readable encounters and the interplay of movement with combat.
 
 **Released** · Jul 7, 2022 · 94.3% / 2,276 Steam reviews
 
-_No independently collected playable stream. [Check the exact official page](https://store.steampowered.com/app/1730680/) for current videos._
+[KLONOA Phantasy Reverie Series – Launch Trailer](https://www.youtube.com/watch?v=yI0gLfsroY0)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=steam%3A1730680) · [Full dossier](Game-1730680-Klonoa-Phantasy-Reverie-Series) · [Official source](https://store.steampowered.com/app/1730680/)
 
@@ -3406,7 +3406,7 @@ Authored stages, readable encounters and the interplay of movement with combat.
 
 **Upcoming** · To be announced · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://store.steampowered.com/app/2661310/) for current videos._
+[Shovel Knight: Shovel of Hope DX – Announcement Trailer – Nintendo Switch](https://www.youtube.com/watch?v=3I4EINa5aJk)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=steam%3A2661310) · [Full dossier](Game-2661310-Shovel-Knight-Shovel-of-Hope-DX) · [Official source](https://store.steampowered.com/app/2661310/)
 
@@ -4538,7 +4538,7 @@ Routes, momentum and expressive movement rather than simply reaching the exit.
 
 **Released** · Nov 19, 2012 · 89.2% / 28,755 Steam reviews
 
-_No independently collected playable stream. [Check the exact official page](https://store.steampowered.com/app/213610/) for current videos._
+[Sonic Adventure 2™ & NiGHTS into dreams..™ Launch Trailer](https://www.youtube.com/watch?v=zQwXwsToHTg)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=steam%3A213610) · [Full dossier](Game-213610-Sonic-Adventure-2) · [Official source](https://store.steampowered.com/app/213610/)
 
@@ -4828,7 +4828,7 @@ A strong modern 2D starting point where level transformations interrupt expectat
 
 **Released** · 2023-10-20 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/) for current videos._
+[Super Mario Bros.™ Wonder — official product video](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Asuper-mario-bros-wonder) · [Full dossier](Game-external-super-mario-bros-wonder-Super-Mario-Bros-Wonder) · [Official source](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/)
 
@@ -4852,7 +4852,7 @@ A current discovery-led direction for Yoshi: observe and experiment with creatur
 
 **Released** · 2026-05-21 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/) for current videos._
+[Yoshi™ and the Mysterious Book — official product video](https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Ayoshi-mysterious-book) · [Full dossier](Game-external-yoshi-mysterious-book-Yoshi-and-the-Mysterious-Book) · [Official source](https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/)
 
@@ -4864,7 +4864,7 @@ Handcrafted-looking dioramas, eggs and hidden-object searching make this a gentl
 
 **Released** · 2019-03-29 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/) for current videos._
+[Yoshi’s Crafted World - Story Trailer - Nintendo Switch](https://www.youtube.com/watch?v=dcndZNVUxFM)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Ayoshi-crafted-world) · [Full dossier](Game-external-yoshi-crafted-world-Yoshi-s-Crafted-World) · [Official source](https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/)
 
@@ -5022,7 +5022,7 @@ A cooperative 2D adventure with copy abilities and an expanded supporting packag
 
 **Released** · 2023-02-24 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/) for current videos._
+[Kirby’s Return to Dream Land™ Deluxe — official product video](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Akirby-return-dreamland-deluxe) · [Full dossier](Game-external-kirby-return-dreamland-deluxe-Kirby-s-Return-to-Dream-Land-Deluxe) · [Official source](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/)
 
@@ -5118,7 +5118,7 @@ Two useful approaches in one edition: tightly authored cooperative 3D courses an
 
 **Released** · 2021-02-12 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) for current videos._
+[Super Mario™ 3D World + Bowser’s Fury — official product video](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Asuper-mario-3d-world-bowsers-fury) · [Full dossier](Game-external-super-mario-3d-world-bowsers-fury-Super-Mario-3D-World-Bowser-s-Fury) · [Official source](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/)
 
@@ -5130,7 +5130,7 @@ The route for players who want to study, create and exchange levels as well as f
 
 **Released** · 2019-06-28 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/) for current videos._
+[Super Mario Maker 2 — Nintendo trailer](https://play.nintendo.com/media/videos/super-mario-maker-2-trailer-nintendo-switch/)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Asuper-mario-maker-2) · [Full dossier](Game-external-super-mario-maker-2-Super-Mario-Maker-2) · [Official source](https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/)
 
@@ -5252,7 +5252,7 @@ A small free 3D experiment that translates Celeste's appetite for movement chall
 
 **Released** · 2024-01-30 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://maddymakesgamesinc.itch.io/celeste64) for current videos._
+[2Dアクションゲーム「Celeste」の開発者が作成した3D版の「Celeste 64」プレイレビュー](https://www.youtube.com/watch?v=7Y9sdg6DDNI)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Aceleste-64) · [Full dossier](Game-external-celeste-64-Celeste-64-Fragments-of-the-Mountain) · [Official source](https://maddymakesgamesinc.itch.io/celeste64)
 
@@ -5264,7 +5264,7 @@ A compact browser-playable look at the original mountain-climbing idea. Its smal
 
 **Released** · Original date not independently recorded · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://maddymakesgamesinc.itch.io/celesteclassic) for current videos._
+[CELESTE Classic — public browser gameplay preview](https://maddymakesgamesinc.itch.io/celesteclassic)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Aceleste-classic) · [Full dossier](Game-external-celeste-classic-CELESTE-Classic) · [Official source](https://maddymakesgamesinc.itch.io/celesteclassic)
 
@@ -5276,7 +5276,7 @@ A concise grappling-focused variation that demonstrates how changing a movement 
 
 **Released** · 2021-01-25 · No aggregate rating
 
-_No independently collected playable stream. [Check the exact official page](https://maddymakesgamesinc.itch.io/celeste-classic-2) for current videos._
+[Celeste Classic 2: Lani's Trek — public browser gameplay preview](https://maddymakesgamesinc.itch.io/celeste-classic-2)
 
 [Open interactive gallery](https://herbertofury.github.io/Games/#game=external%3Aceleste-classic-2) · [Full dossier](Game-external-celeste-classic-2-Celeste-Classic-2-Lani-s-Trek) · [Official source](https://maddymakesgamesinc.itch.io/celeste-classic-2)
 

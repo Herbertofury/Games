@@ -2,7 +2,7 @@
 
 ![SteamWorld Dig 2 official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/header.jpg?t=1726132098)
 
-**[Open official page](https://store.steampowered.com/app/571310/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A571310)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/571310/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A571310)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 SteamWorld Dig is back! Dig deep, gain riches and unearth the terrors of the underworld in this platform mining adventure influenced by classic Metroidvania ...
 
@@ -12,7 +12,7 @@ Ability-gated exploration, spatial memory and routes that change as the movement
 
 | Field | Value |
 |:--|:--|
-| Collection | Exploration & Metroidvanias |
+| Collection | Exploration & Metroidvanias, Hand-drawn, charming & colorful |
 | Recommendation | 9/10 |
 | Community reception | 95.5% / 9,173 Steam reviews |
 | Release | Sep 22, 2017 |
@@ -25,7 +25,8 @@ Ability-gated exploration, spatial memory and routes that change as the movement
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/571310/)
+- [Steam: store](https://store.steampowered.com/app/571310)
+- [GOG: store](https://www.gog.com/en/game/steamworld_dig_2) | Exact title in GOG official catalog: SteamWorld Dig 2
 
 ## Videos and screenshots
 
@@ -61,11 +62,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/571310/) · checked 2026-10-23T17:07:37.068525+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=571310&l=english&cc=us) · checked 2026-10-23T17:07:37.068525+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A571310%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:07:37.068525+00:00
+- [Steam](https://store.steampowered.com/app/571310/) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=571310&l=english&cc=us) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A571310%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:59:37.367270+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Traditional Metroidvania
+
+**Store-described mechanics:** Explore the official gameplay and description for its progression systems.
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

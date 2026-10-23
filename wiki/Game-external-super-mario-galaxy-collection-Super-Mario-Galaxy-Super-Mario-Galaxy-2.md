@@ -30,11 +30,13 @@ Gravity, curved surfaces and small planetary stages make this a valuable alterna
 
 Enhanced collection of older games. The listed 2025 date is this package's release; the constituent games and bundle are not counted again as three discoveries.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Super Mario Galaxy™ + Super Mario Galaxy™ 2 — official product video](https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/) | Nintendo — exact product gallery
+
+> Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted.
 
 ![Super Mario Galaxy™ + Super Mario Galaxy™ 2 1](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/0acaf709e29c57e125e90032853562562843757d238fec2815a52ec0409c6fd1)
 
@@ -54,9 +56,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Nintendo](https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/) · checked 2026-10-23T17:09:08.300141+00:00
-- [Exact-page media completion](https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/) · checked 2026-10-23T17:27:45.963246+00:00
+- [Platformer exact-video verification](https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/) · checked 2026-10-23T18:32:45.493637+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

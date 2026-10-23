@@ -30,11 +30,11 @@ Handcrafted-looking dioramas, eggs and hidden-object searching make this a gentl
 
 The collection hunt and repeated stage perspectives are part of the experience; not the first choice for players seeking relentless precision difficulty.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Yoshi’s Crafted World - Story Trailer - Nintendo Switch](https://www.youtube.com/watch?v=dcndZNVUxFM) | Nintendo of America — official upload
 
 ![Yoshi’s Crafted World™ 1](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/db8a252a84301594bdc4eed1be3dbd8d3de5086bc79f6ee1f8060c9a5630101f)
 
@@ -52,9 +52,8 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Nintendo](https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/) · checked 2026-10-23T17:09:08.300141+00:00
 - [Exact-page media completion](https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/) · checked 2026-10-23T17:27:45.963246+00:00
+- [Platformer exact-video verification](https://www.youtube.com/watch?v=dcndZNVUxFM) · checked 2026-10-23T18:32:45.493637+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

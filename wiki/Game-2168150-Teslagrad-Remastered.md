@@ -2,7 +2,7 @@
 
 ![Teslagrad Remastered official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168150/header.jpg?t=1725489295)
 
-**[Open official page](https://store.steampowered.com/app/2168150/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2168150)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/2168150/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2168150)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Return to the indie classic Teslagrad, recharged to provide the ultimate electromagnetic experience! Escape a tyrant king, master the art of Teslamancy, and uncover ...
 
@@ -12,7 +12,7 @@ Spatial reasoning, environmental storytelling and movement as a problem-solving 
 
 | Field | Value |
 |:--|:--|
-| Collection | Puzzles & cinematic journeys |
+| Collection | Puzzles & cinematic journeys, Indie deep cuts & unusual mechanics |
 | Recommendation | 7/10 |
 | Community reception | 76.8% / 284 Steam reviews |
 | Release | Apr 19, 2023 |
@@ -25,7 +25,7 @@ Spatial reasoning, environmental storytelling and movement as a problem-solving 
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/2168150/)
+- [Steam: store](https://store.steampowered.com/app/2168150)
 
 ## Videos and screenshots
 
@@ -49,11 +49,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/2168150/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2168150&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2168150%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Steam](https://store.steampowered.com/app/2168150/) · checked 2026-10-23T17:11:08.101395+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2168150&l=english&cc=us) · checked 2026-10-23T17:11:08.101395+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2168150%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:11:08.101395+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Traditional Metroidvania
+
+**Store-described mechanics:** Explore the official gameplay and description for its progression systems.
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

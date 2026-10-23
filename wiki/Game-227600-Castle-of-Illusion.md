@@ -27,11 +27,15 @@ Authored stages, readable encounters and the interplay of movement with combat.
 
 - [Steam: store](https://store.steampowered.com/app/227600/)
 
-> No embeddable trailer returned by the official API; use the source page.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Castle of Illusion: Behind the Scenes - Part 1](https://www.youtube.com/watch?v=Rha2V96pftw) | PlayStation — official upload
+
+[Source and provenance](https://blog.playstation.com/2013/05/30/castle-of-illusion-reimagining-a-classic/)
+
+> Official footage for the 2013 re-imagining. A making-of feature can also show the 1990 original for comparison; it is not a separate game entry.
 
 ![Castle of Illusion official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227600/ss_d584cfb80dd56a05b0c948122f99840c307f4638.1920x1080.jpg?t=1763675859)
 
@@ -50,6 +54,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 - [Steam](https://store.steampowered.com/app/227600/) · checked 2026-10-23T17:07:37.068525+00:00
 - [Steam store API](https://store.steampowered.com/api/appdetails?appids=227600&l=english&cc=us) · checked 2026-10-23T17:07:37.068525+00:00
 - [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A227600%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:07:37.068525+00:00
+- [Platformer exact-video verification](https://blog.playstation.com/2013/05/30/castle-of-illusion-reimagining-a-classic/) · checked 2026-10-23T18:32:45.493637+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

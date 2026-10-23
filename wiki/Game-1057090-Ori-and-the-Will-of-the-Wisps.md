@@ -2,7 +2,7 @@
 
 ![Ori and the Will of the Wisps official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749)
 
-**[Open official page](https://store.steampowered.com/app/1057090/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1057090)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/1057090/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1057090)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Play the critically acclaimed masterpiece. Embark on a new journey in a vast, exotic world where you’ll encounter towering enemies and challenging puzzles on ...
 
@@ -12,7 +12,7 @@ A high-priority traversal-led exploration route where movement abilities are a m
 
 | Field | Value |
 |:--|:--|
-| Collection | Exploration & Metroidvanias |
+| Collection | Exploration & Metroidvanias, Genre essentials |
 | Recommendation | 10/10 |
 | Community reception | 96.4% / 152,535 Steam reviews |
 | Release | Mar 10, 2020 |
@@ -25,7 +25,7 @@ A high-priority traversal-led exploration route where movement abilities are a m
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/1057090/)
+- [Steam: store](https://store.steampowered.com/app/1057090)
 
 ## Videos and screenshots
 
@@ -91,11 +91,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/1057090/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1057090&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1057090%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Steam](https://store.steampowered.com/app/1057090/) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1057090&l=english&cc=us) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1057090%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:59:37.367270+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Traditional Metroidvania
+
+**Store-described mechanics:** Explore the official gameplay and description for its progression systems.
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

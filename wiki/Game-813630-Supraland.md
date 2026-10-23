@@ -2,7 +2,7 @@
 
 ![Supraland official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813630/header.jpg?t=1748353298)
 
-**[Open official page](https://store.steampowered.com/app/813630/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A813630)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/813630/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A813630)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Try the demo! A mix between Portal, Zelda and Metroid. Exploration, puzzles, terrible combat, secret upgrades and new abilities that help you reach new ...
 
@@ -12,7 +12,7 @@ First-person environmental puzzles and ability-gated exploration make an excelle
 
 | Field | Value |
 |:--|:--|
-| Collection | 3D worlds & collectathons |
+| Collection | 3D worlds & collectathons, Puzzle & knowledge-led labyrinths |
 | Recommendation | 9/10 |
 | Community reception | 95.2% / 15,509 Steam reviews |
 | Release | Apr 5, 2019 |
@@ -25,7 +25,8 @@ First-person environmental puzzles and ability-gated exploration make an excelle
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/813630/)
+- [Steam: store](https://store.steampowered.com/app/813630)
+- [Steam: demo](https://store.steampowered.com/app/1000560)
 
 ## Videos and screenshots
 
@@ -59,11 +60,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/813630/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=813630&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A813630%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Steam](https://store.steampowered.com/app/813630/) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=813630&l=english&cc=us) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A813630%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:59:37.367270+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** 3D Metroidvania
+
+**Store-described mechanics:** Explore the official gameplay and description for its progression systems.
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

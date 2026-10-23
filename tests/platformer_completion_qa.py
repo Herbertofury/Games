@@ -44,7 +44,7 @@ try:
     page.wait_for_function('document.querySelector("#media-video")?.currentTime>1.2 && document.querySelector("#media-video").videoWidth>0',timeout=40000)
     info=page.locator('#media-video').evaluate('(v)=>({time:v.currentTime,width:v.videoWidth,height:v.videoHeight,duration:v.duration,src:v.currentSrc})');info.update(id=ident,official=v['official'],credit=v['credit']);report['playback'].append(info)
     check(ident+' actual frames advance',info['time']>1.2 and info['width']>0)
-    page.locator('#media-video').evaluate('(v)=>{if(Number.isFinite(v.duration))v.currentTime=Math.min(10,v.duration*.4);}')
+    page.locator('#media-video').evaluate('(v)=>{if(Number.isFinite(v.duration))v.currentTime=Math.min(15,v.duration*.6);}')
     page.wait_for_timeout(900);page.locator('.media-stage').screenshot(path=str(shots/(ident.replace(':','-')+'.png')))
    page.evaluate('closeModal()')
   check('All twenty resolved records tested',len(report['playback'])+len(report['embeds'])==20)

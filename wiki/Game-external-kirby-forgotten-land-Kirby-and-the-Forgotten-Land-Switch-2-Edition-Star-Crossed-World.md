@@ -31,16 +31,17 @@ Accessible 3D stages built around Kirby's changing abilities, with the expanded 
 
 Enhanced edition of the 2022 original. This complete package and the separate upgrade pack are different purchases; the upgrade requires the base game. This edition requires Switch 2.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
+[Kirby™ and the Forgotten Land – Nintendo Switch™ 2 Edition + Star-Crossed World — official product video](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/) | Nintendo — exact product gallery
+
+> Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted.
+
 ## Sources and evidence
 
-- [Nintendo](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/) · checked 2026-10-23T17:09:08.300141+00:00
+- [Platformer exact-video verification](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/) · checked 2026-10-23T18:32:45.493637+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

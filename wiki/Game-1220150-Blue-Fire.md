@@ -2,7 +2,7 @@
 
 ![Blue Fire official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1220150/5e2a7f7607365a71ef2cf295e10f27554a571b2b/header.jpg?t=1756240031)
 
-**[Open official page](https://store.steampowered.com/app/1220150/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1220150)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/1220150/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1220150)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Explore the fallen world of Penumbra in this precision 3D metroidvania platformer. Slash fierce enemies, conquer deadly traps, uncover ancient temples, and master fast, ...
 
@@ -12,7 +12,7 @@ Traversal through readable three-dimensional spaces, secrets and optional collec
 
 | Field | Value |
 |:--|:--|
-| Collection | 3D worlds & collectathons |
+| Collection | 3D worlds & collectathons, 3D & first-person labyrinths |
 | Recommendation | 8/10 |
 | Community reception | 81.4% / 3,127 Steam reviews |
 | Release | Feb 4, 2021 |
@@ -25,7 +25,10 @@ Traversal through readable three-dimensional spaces, secrets and optional collec
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/1220150/)
+- [Steam: store](https://store.steampowered.com/app/1220150)
+- [GOG: store](https://www.gog.com/en/game/blue_fire) | Exact title in GOG official catalog: Blue Fire
+- [itch.io: store](https://graffiti-games.itch.io/blue-fire) | Exact title and creator page links to Steam app 1220150
+- [Steam: demo](https://store.steampowered.com/app/1394220)
 
 ## Videos and screenshots
 
@@ -53,11 +56,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/1220150/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1220150&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1220150%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Steam](https://store.steampowered.com/app/1220150/) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1220150&l=english&cc=us) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1220150%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:59:37.367270+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** 3D exploration / Metroidvania-adjacent
+
+**Store-described mechanics:** Explore the official gameplay and description for its progression systems.
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

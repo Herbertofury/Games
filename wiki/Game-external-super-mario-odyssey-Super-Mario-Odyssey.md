@@ -30,11 +30,11 @@ An essential reference for expressive 3D movement, layered secrets and transform
 
 Original Switch title; current Switch 2 enhancements do not turn its original release into a 2026 game. The second-player role is not a second full Mario campaign.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Super Mario Odyssey — Nintendo trailer](https://play.nintendo.com/media/videos/super-mario-odyssey-nintendo-switch-trailer/) | Play Nintendo — observed featured video
 
 ![Super Mario Odyssey™ 1](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5)
 
@@ -54,9 +54,8 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Nintendo](https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/) · checked 2026-10-23T17:09:08.300141+00:00
 - [Exact-page media completion](https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/) · checked 2026-10-23T17:27:45.963246+00:00
+- [Exact Play Nintendo player](https://play.nintendo.com/media/videos/super-mario-odyssey-nintendo-switch-trailer/) · checked 2026-10-23T18:32:50.808874+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

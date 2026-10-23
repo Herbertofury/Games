@@ -30,11 +30,13 @@ A cooperative 2D adventure with copy abilities and an expanded supporting packag
 
 Deluxe edition of an older campaign. Four-player local play does not imply four-player online campaign co-op; verify the mode you intend to use.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Kirby’s Return to Dream Land™ Deluxe — official product video](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/) | Nintendo — exact product gallery
+
+> Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted.
 
 ![Kirby’s Return to Dream Land™ Deluxe 1](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad)
 
@@ -54,9 +56,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Nintendo](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/) · checked 2026-10-23T17:09:08.300141+00:00
-- [Exact-page media completion](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/) · checked 2026-10-23T17:27:45.963246+00:00
+- [Platformer exact-video verification](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/) · checked 2026-10-23T18:32:45.493637+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

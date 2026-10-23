@@ -30,17 +30,21 @@ A small free 3D experiment that translates Celeste's appetite for movement chall
 
 Short standalone anniversary game. A recent page update is not its original release date; controller recommended by the creator. Sources and available builds are on the exact creator page.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
+[2Dアクションゲーム「Celeste」の開発者が作成した3D版の「Celeste 64」プレイレビュー](https://www.youtube.com/watch?v=7Y9sdg6DDNI) | GIGAZINE（ギガジン） — credited editorial gameplay
+
+[Source and provenance](https://gigazine.net/news/20240131-celeste-64/)
+
+> GIGAZINE editorial gameplay of Celeste 64, not a developer trailer and not a library hands-on review.
+
 ## Sources and evidence
 
-- [itch.io](https://maddymakesgamesinc.itch.io/celeste64) · checked 2026-10-23
-- [Creator release chronology](https://maddymakesgames.com/) · checked 2026-10-23
 - [Exact-page Open Graph artwork](https://maddymakesgamesinc.itch.io/celeste64) · checked 2026-10-23T17:09:08.300141+00:00
+- [Creator release chronology](https://maddymakesgames.com/) · checked 2026-10-23
+- [Platformer exact-video verification](https://gigazine.net/news/20240131-celeste-64/) · checked 2026-10-23T18:32:45.493637+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

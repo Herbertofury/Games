@@ -30,11 +30,13 @@ A priority pick for players who enjoy weighty momentum, elaborate moving environ
 
 This date is the Switch edition of an older game. Its friendly presentation should not be mistaken for uniformly easy late-game challenges.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Donkey Kong Country™: Tropical Freeze — official product video](https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/) | Nintendo — exact product gallery
+
+> Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted.
 
 ![Donkey Kong Country™: Tropical Freeze 1](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/d01cba67eb98fec32ac98027c07fa8d92dd52773565bfadc69f817c860e34b8a)
 
@@ -54,9 +56,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Nintendo](https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/) · checked 2026-10-23T17:09:08.300141+00:00
-- [Exact-page media completion](https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/) · checked 2026-10-23T17:27:45.963246+00:00
+- [Platformer exact-video verification](https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/) · checked 2026-10-23T18:32:45.493637+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

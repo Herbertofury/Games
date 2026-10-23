@@ -1,0 +1,813 @@
+{
+  "schemaVersion": 1,
+  "overrides": {
+    "steam:227600": {
+      "trailers": [
+        {
+          "name": "Castle of Illusion: Behind the Scenes - Part 1",
+          "youtube": "Rha2V96pftw",
+          "poster": "https://i.ytimg.com/vi/Rha2V96pftw/hqdefault.jpg",
+          "sourceUrl": "https://blog.playstation.com/2013/05/30/castle-of-illusion-reimagining-a-classic/",
+          "watchUrl": "https://www.youtube.com/watch?v=Rha2V96pftw",
+          "credit": "PlayStation — official upload",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Official footage for the 2013 re-imagining. A making-of feature can also show the 1990 original for comparison; it is not a separate game entry."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://blog.playstation.com/2013/05/30/castle-of-illusion-reimagining-a-classic/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://blog.playstation.com/2013/05/30/castle-of-illusion-reimagining-a-classic/",
+        "pageEvidence": {
+          "sourceUrl": "https://blog.playstation.com/2013/05/30/castle-of-illusion-reimagining-a-classic/",
+          "resolvedUrl": "https://blog.playstation.com/2013/05/30/castle-of-illusion-reimagining-a-classic/",
+          "pageSha256": "4a0bb43217902a4e507d8e98f17b79697b232fb3fd06d819227fc64179070395",
+          "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+          "pageTitle": "Castle of Illusion: Reimagining a Classic – PlayStation.Blog"
+        },
+        "oembedUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRha2V96pftw&format=json",
+        "title": "Castle of Illusion: Behind the Scenes - Part 1",
+        "author": "PlayStation",
+        "authorUrl": "https://www.youtube.com/@PlayStation",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00"
+      }
+    },
+    "external:celeste-64": {
+      "trailers": [
+        {
+          "name": "2Dアクションゲーム「Celeste」の開発者が作成した3D版の「Celeste 64」プレイレビュー",
+          "youtube": "7Y9sdg6DDNI",
+          "poster": "https://i.ytimg.com/vi/7Y9sdg6DDNI/hqdefault.jpg",
+          "sourceUrl": "https://gigazine.net/news/20240131-celeste-64/",
+          "watchUrl": "https://www.youtube.com/watch?v=7Y9sdg6DDNI",
+          "credit": "GIGAZINE（ギガジン） — credited editorial gameplay",
+          "official": false,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "GIGAZINE editorial gameplay of Celeste 64, not a developer trailer and not a library hands-on review."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://gigazine.net/news/20240131-celeste-64/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://gigazine.net/news/20240131-celeste-64/",
+        "pageEvidence": {
+          "sourceUrl": "https://gigazine.net/news/20240131-celeste-64/",
+          "resolvedUrl": "https://gigazine.net/news/20240131-celeste-64/",
+          "pageSha256": "21b8d138ae1dca0487fd0e67e83eeda06fc2c30ce29a7816729e91fa3111b3c4",
+          "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+          "pageTitle": "2D山登りアクション「Celeste」を3Dにした無料ゲーム「Celeste 64」をやってみたら面白すぎて全クリした - GIGAZINE"
+        },
+        "oembedUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7Y9sdg6DDNI&format=json",
+        "title": "2Dアクションゲーム「Celeste」の開発者が作成した3D版の「Celeste 64」プレイレビュー",
+        "author": "GIGAZINE（ギガジン）",
+        "authorUrl": "https://www.youtube.com/@gigazine",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00"
+      }
+    },
+    "external:donkey-kong-bananza": {
+      "trailers": [
+        {
+          "name": "Donkey Kong™ Bananza — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096809/Video/049f264bfaa0b2f3d8a5fc0774b0a4d6be4a5f4b7fe686df272296b4429efe29.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000096809/3c8219fbdcd3bdd0ebd6239cf32c651fe10f2157aa7730fcc6a7d96cd27460e5",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+        "pageSha256": "48992787d42ebd7833d9ac4a8de0f9e8b2c862b14b45a29d410de9775b6eb9e8",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Donkey Kong Bananza – Nintendo Switch 2 Exclusive - Nintendo Official Site",
+        "productName": "Donkey Kong™ Bananza",
+        "sku": "7100096809",
+        "urlKey": "donkey-kong-bananza-switch-2",
+        "publicId": "/store/software/switch2/70010000096809/Video/049f264bfaa0b2f3d8a5fc0774b0a4d6be4a5f4b7fe686df272296b4429efe29",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096809/Video/049f264bfaa0b2f3d8a5fc0774b0a4d6be4a5f4b7fe686df272296b4429efe29.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096809/Video/049f264bfaa0b2f3d8a5fc0774b0a4d6be4a5f4b7fe686df272296b4429efe29.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/16468707",
+          "headerSha256": "997cd59e918d6f384c18ff3eafc5c23a22a6ab96ad49d25301d5c4ad7e4c7eb3"
+        }
+      }
+    },
+    "external:dk-country-returns-hd": {
+      "trailers": [
+        {
+          "name": "Donkey Kong Country™ Returns HD — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000084604/Video/7f4c876a9331fa96af9a1ae0c5fe3f6451f506fc51698637f0d010548deac281.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000084604/50b3b71a75022699ab39d631df7a6b1571df102f96d5f10e6267cbecadfa4cd6",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+        "pageSha256": "c80d0afeb52f9753bb0ffc92c79f01fb7713427498d88de068b1a61d5e3091ef",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Donkey Kong Country™ Returns HD for Nintendo Switch - Nintendo Official Site",
+        "productName": "Donkey Kong Country™ Returns HD",
+        "sku": "7100084604",
+        "urlKey": "donkey-kong-country-returns-hd-switch",
+        "publicId": "/store/software/switch/70010000084604/Video/7f4c876a9331fa96af9a1ae0c5fe3f6451f506fc51698637f0d010548deac281",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000084604/Video/7f4c876a9331fa96af9a1ae0c5fe3f6451f506fc51698637f0d010548deac281.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000084604/Video/7f4c876a9331fa96af9a1ae0c5fe3f6451f506fc51698637f0d010548deac281.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/19093382",
+          "headerSha256": "4a6f022f07cbe1c0e7f696883ab6bce0b28dfea27d27133a8d86f50efaafd5a2"
+        }
+      }
+    },
+    "external:dk-tropical-freeze": {
+      "trailers": [
+        {
+          "name": "Donkey Kong Country™: Tropical Freeze — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000001339/Video/8c3ae35fb4a2ff26c424d264696a72059c0eed81b9319ed2cb80ee099d6e6e4c.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001339/d01cba67eb98fec32ac98027c07fa8d92dd52773565bfadc69f817c860e34b8a",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+        "pageSha256": "c6a4a66bd9f2075ce507003f1d3d841cd725496d6de128b45eab44a2108e3e90",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Donkey Kong Country™: Tropical Freeze for Nintendo Switch - Nintendo Official Site",
+        "productName": "Donkey Kong Country™: Tropical Freeze",
+        "sku": "7100001339",
+        "urlKey": "donkey-kong-country-tropical-freeze-switch",
+        "publicId": "/store/software/switch/70010000001339/Video/8c3ae35fb4a2ff26c424d264696a72059c0eed81b9319ed2cb80ee099d6e6e4c",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000001339/Video/8c3ae35fb4a2ff26c424d264696a72059c0eed81b9319ed2cb80ee099d6e6e4c.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000001339/Video/8c3ae35fb4a2ff26c424d264696a72059c0eed81b9319ed2cb80ee099d6e6e4c.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/77099230",
+          "headerSha256": "2e6c98d7feb6d73d8ca75f6f826a04e6038220c54acba3b115f196305134c405"
+        }
+      }
+    },
+    "external:kirby-forgotten-land": {
+      "trailers": [
+        {
+          "name": "Kirby™ and the Forgotten Land – Nintendo Switch™ 2 Edition + Star-Crossed World — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000096829/0a06bf277f1eb585fcbb7ddeb4f70014fd1c860d326eb33c8accf4d4827ade72",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+        "pageSha256": "44e18721781fce7dfc7b15b09e9bfb27b5143c05f5517620ebcb032da340c655",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Kirby and the Forgotten Land + Star‑Crossed World – Nintendo Switch 2 Edition - Nintendo Official Site",
+        "productName": "Kirby™ and the Forgotten Land – Nintendo Switch™ 2 Edition + Star-Crossed World",
+        "sku": "7100096829",
+        "urlKey": "kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2",
+        "publicId": "/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/24880991",
+          "headerSha256": "0b7436747926abc20d9919225d5464a828e9124ace51dd42b0906210820c8c49"
+        }
+      }
+    },
+    "external:kirby-return-dreamland-deluxe": {
+      "trailers": [
+        {
+          "name": "Kirby’s Return to Dream Land™ Deluxe — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+        "pageSha256": "3791bebb1ab7461d0ff2c6cd95b9541a13bf8ea16a5d110f7d37d3d576ff74ef",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Kirby’s Return to Dreamland™ Deluxe for the Nintendo Switch system™ – Official Site",
+        "productName": "Kirby’s Return to Dream Land™ Deluxe",
+        "sku": "7100058797",
+        "urlKey": "kirbys-return-to-dream-land-deluxe-switch",
+        "publicId": "/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/131610149",
+          "headerSha256": "d2114676955b54d77d98577db3eb8c1219ba4cc8a8a2a2d53f54d90d2a9cd087"
+        }
+      }
+    },
+    "steam:1730680": {
+      "trailers": [
+        {
+          "name": "KLONOA Phantasy Reverie Series – Launch Trailer",
+          "youtube": "yI0gLfsroY0",
+          "poster": "https://i.ytimg.com/vi/yI0gLfsroY0/hqdefault.jpg",
+          "sourceUrl": "https://www.bandainamcoent.com/news/celebrate-klonoa-25th-anniversary-klonoa-phantasy-reverie-series",
+          "watchUrl": "https://www.youtube.com/watch?v=yI0gLfsroY0",
+          "credit": "Bandai Namco Entertainment America — official upload",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.bandainamcoent.com/news/celebrate-klonoa-25th-anniversary-klonoa-phantasy-reverie-series",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.bandainamcoent.com/news/celebrate-klonoa-25th-anniversary-klonoa-phantasy-reverie-series",
+        "pageEvidence": {
+          "sourceUrl": "https://www.bandainamcoent.com/news/celebrate-klonoa-25th-anniversary-klonoa-phantasy-reverie-series",
+          "resolvedUrl": "https://www.bandainamcoent.com/news/celebrate-klonoa-25th-anniversary-klonoa-phantasy-reverie-series",
+          "pageSha256": "197a60e64288500277c45df78a6abd7110078b523a04131aeaa56f57caeb4cc0",
+          "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+          "pageTitle": "CELEBRATE KLONOA’S 25TH ANNIVERSARY WITH THE GLOBAL LAUNCH OF KLONOA PHANTASY REVERIE SERIES | Bandai Namco Entertainment America Inc."
+        },
+        "oembedUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyI0gLfsroY0&format=json",
+        "title": "KLONOA Phantasy Reverie Series – Launch Trailer",
+        "author": "Bandai Namco Entertainment America",
+        "authorUrl": "https://www.youtube.com/@BandaiNamcoAmerica",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00"
+      }
+    },
+    "external:metroid-dread": {
+      "trailers": [
+        {
+          "name": "Metroid™ Dread — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000042924/Video/f8aade841942297cd19b4d14ad4ec506fd6316813767f3295deb9145a5850702.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+        "pageSha256": "61b9996cfd7d2ae107c1b8b52915038e11ab29c9d055c4f59148893f731849ca",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Metroid™ Dread for Nintendo Switch - Nintendo Official Site",
+        "productName": "Metroid™ Dread",
+        "sku": "7100042924",
+        "urlKey": "metroid-dread-switch",
+        "publicId": "/store/software/switch/70010000042924/Video/f8aade841942297cd19b4d14ad4ec506fd6316813767f3295deb9145a5850702",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000042924/Video/f8aade841942297cd19b4d14ad4ec506fd6316813767f3295deb9145a5850702.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000042924/Video/f8aade841942297cd19b4d14ad4ec506fd6316813767f3295deb9145a5850702.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/83658115",
+          "headerSha256": "b4db218579fac0e9f990d27218269214c220b0b5e701382e198357c56d54e452"
+        }
+      }
+    },
+    "steam:2661310": {
+      "trailers": [
+        {
+          "name": "Shovel Knight: Shovel of Hope DX – Announcement Trailer – Nintendo Switch",
+          "youtube": "3I4EINa5aJk",
+          "poster": "https://i.ytimg.com/vi/3I4EINa5aJk/hqdefault.jpg",
+          "sourceUrl": "https://www.yachtclubgames.com/blog/shovel-knight-shovel-of-hope-dx-launches-in-2025/",
+          "watchUrl": "https://www.youtube.com/watch?v=3I4EINa5aJk",
+          "credit": "Nintendo of America — official upload",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Announcement footage for Shovel of Hope DX. The historical article is not proof of a current release; the catalog retains the current Steam watchlist state."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.yachtclubgames.com/blog/shovel-knight-shovel-of-hope-dx-launches-in-2025/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.yachtclubgames.com/blog/shovel-knight-shovel-of-hope-dx-launches-in-2025/",
+        "pageEvidence": {
+          "sourceUrl": "https://www.yachtclubgames.com/blog/shovel-knight-shovel-of-hope-dx-launches-in-2025/",
+          "resolvedUrl": "https://www.yachtclubgames.com/blog/shovel-knight-shovel-of-hope-dx-launches-in-2025/",
+          "pageSha256": "92fc0135af017c52df45957d704287892563b512ee400fc05c10317b4fc0d45b",
+          "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+          "pageTitle": "Shovel Knight: Shovel of Hope DX Launches in 2025! - Yacht Club Games"
+        },
+        "oembedUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3I4EINa5aJk&format=json",
+        "title": "Shovel Knight: Shovel of Hope DX – Announcement Trailer – Nintendo Switch",
+        "author": "Nintendo of America",
+        "authorUrl": "https://www.youtube.com/@NintendoAmerica",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00"
+      }
+    },
+    "steam:213610": {
+      "trailers": [
+        {
+          "name": "Sonic Adventure 2™ & NiGHTS into dreams..™ Launch Trailer",
+          "youtube": "zQwXwsToHTg",
+          "poster": "https://i.ytimg.com/vi/zQwXwsToHTg/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=zQwXwsToHTg",
+          "watchUrl": "https://www.youtube.com/watch?v=zQwXwsToHTg",
+          "credit": "SEGA Europe — official upload",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Official HD re-release footage. This is not a claim that the footage was captured on PC."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.youtube.com/watch?v=zQwXwsToHTg",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.youtube.com/watch?v=zQwXwsToHTg",
+        "pageEvidence": null,
+        "oembedUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzQwXwsToHTg&format=json",
+        "title": "Sonic Adventure 2™ & NiGHTS into dreams..™ Launch Trailer",
+        "author": "SEGA Europe",
+        "authorUrl": "https://www.youtube.com/@SEGAEurope",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00"
+      }
+    },
+    "external:super-mario-3d-world-bowsers-fury": {
+      "trailers": [
+        {
+          "name": "Super Mario™ 3D World + Bowser’s Fury — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+        "pageSha256": "4a99493f92cadfd3f9d0f1814d52aeaf91597c211ad73cf6694dcb512309cec4",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Super Mario™ 3D World + Bowser’s Fury for Nintendo Switch - Nintendo Official Site",
+        "productName": "Super Mario™ 3D World + Bowser’s Fury",
+        "sku": "7100034439",
+        "urlKey": "super-mario-3d-world-plus-bowsers-fury-switch",
+        "publicId": "/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/24812550",
+          "headerSha256": "1f7789c9dcb568e3d53f7b8f92e5f6a3dd8f06184e35b15814e949a7583780e6"
+        }
+      }
+    },
+    "external:super-mario-bros-wonder": {
+      "trailers": [
+        {
+          "name": "Super Mario Bros.™ Wonder — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+        "pageSha256": "4f7ab918791cc1e5624b833d3fff302833c7477262d8d3e391ff80b4acdbabd0",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Super Mario Bros.™ Wonder for Nintendo Switch - Nintendo Official Site",
+        "productName": "Super Mario Bros.™ Wonder",
+        "sku": "7100068688",
+        "urlKey": "super-mario-bros-wonder-switch",
+        "publicId": "/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/27425195",
+          "headerSha256": "ef78205898067f81e1c135f2b33bc433c57eebefa1e038fb34d5e5ee226dac18"
+        }
+      }
+    },
+    "external:super-mario-galaxy-collection": {
+      "trailers": [
+        {
+          "name": "Super Mario Galaxy™ + Super Mario Galaxy™ 2 — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70070000030770/Video/e9b6edb33bdb011f277c8b970145d048e8a9c4bf96593fd724ede89b0251ebde.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70070000030770/0acaf709e29c57e125e90032853562562843757d238fec2815a52ec0409c6fd1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+        "pageSha256": "fd42d7945e3de73a790bb721401a34c2e077be5b2b57282625ae790add9c7af1",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Super Mario Galaxy + Super Mario Galaxy 2 – Nintendo Switch Exclusive - Nintendo Official Site",
+        "productName": "Super Mario Galaxy™ + Super Mario Galaxy™ 2",
+        "sku": "7700030770",
+        "urlKey": "super-mario-galaxy-plus-super-mario-galaxy-2-switch",
+        "publicId": "/store/software/switch/70070000030770/Video/e9b6edb33bdb011f277c8b970145d048e8a9c4bf96593fd724ede89b0251ebde",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70070000030770/Video/e9b6edb33bdb011f277c8b970145d048e8a9c4bf96593fd724ede89b0251ebde.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70070000030770/Video/e9b6edb33bdb011f277c8b970145d048e8a9c4bf96593fd724ede89b0251ebde.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/43495889",
+          "headerSha256": "b011bee51ea5b049c741e900b95eefc4721aae5c32624f0a123128097f7db21f"
+        }
+      }
+    },
+    "external:yoshi-mysterious-book": {
+      "trailers": [
+        {
+          "name": "Yoshi™ and the Mysterious Book — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000119859/Video/2c89e1c115e8b5dc459e065f73503431b6e845a8c6014cc672614c9c98503b48.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119859/74720e9755d3cc39e312e33d6c985a815ed352217cbcdeeaeabb98387767c82f",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+        "pageSha256": "ed5257a2d953176787c60d4099834c227839fcfacb6c39571ce25c295ee3e6ad",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Yoshi and the Mysterious Book – Nintendo Switch 2 Exclusive - Nintendo Official Site",
+        "productName": "Yoshi™ and the Mysterious Book",
+        "sku": "7100119859",
+        "urlKey": "yoshi-and-the-mysterious-book-switch-2",
+        "publicId": "/store/software/switch2/70010000119859/Video/2c89e1c115e8b5dc459e065f73503431b6e845a8c6014cc672614c9c98503b48",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000119859/Video/2c89e1c115e8b5dc459e065f73503431b6e845a8c6014cc672614c9c98503b48.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000119859/Video/2c89e1c115e8b5dc459e065f73503431b6e845a8c6014cc672614c9c98503b48.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/21082051",
+          "headerSha256": "c95d04adf7ca882ccf6d47686b5f6d95a40e55386f02dd0e093a9b7ae434245f"
+        }
+      }
+    },
+    "external:yoshi-crafted-world": {
+      "trailers": [
+        {
+          "name": "Yoshi’s Crafted World - Story Trailer - Nintendo Switch",
+          "youtube": "dcndZNVUxFM",
+          "poster": "https://i.ytimg.com/vi/dcndZNVUxFM/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=dcndZNVUxFM",
+          "watchUrl": "https://www.youtube.com/watch?v=dcndZNVUxFM",
+          "credit": "Nintendo of America — official upload",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.youtube.com/watch?v=dcndZNVUxFM",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://www.youtube.com/watch?v=dcndZNVUxFM",
+        "pageEvidence": null,
+        "oembedUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdcndZNVUxFM&format=json",
+        "title": "Yoshi’s Crafted World - Story Trailer - Nintendo Switch",
+        "author": "Nintendo of America",
+        "authorUrl": "https://www.youtube.com/@NintendoAmerica",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00"
+      }
+    },
+    "external:super-mario-odyssey": {
+      "trailers": [
+        {
+          "name": "Super Mario Odyssey — Nintendo trailer",
+          "hls": "https://assets.nintendo.com/video/upload/sp_full_hd/v1/Legacy%20Videos/93cmJ5YzE6cjMS7cju4XYYJDOHXutPmc.m3u8?_s=vp-1.9.1",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+          "sourceUrl": "https://play.nintendo.com/media/videos/super-mario-odyssey-nintendo-switch-trailer/",
+          "watchUrl": "https://play.nintendo.com/media/videos/super-mario-odyssey-nintendo-switch-trailer/",
+          "official": true,
+          "credit": "Play Nintendo — observed featured video",
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:50.808874+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Exact Play Nintendo player",
+          "url": "https://play.nintendo.com/media/videos/super-mario-odyssey-nintendo-switch-trailer/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:50.808874+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://play.nintendo.com/media/videos/super-mario-odyssey-nintendo-switch-trailer/",
+        "publicId": "/Legacy Videos/93cmJ5YzE6cjMS7cju4XYYJDOHXutPmc",
+        "pageEvidence": {
+          "sourceUrl": "https://play.nintendo.com/media/videos/super-mario-odyssey-nintendo-switch-trailer/",
+          "resolvedUrl": "https://play.nintendo.com/media/videos/super-mario-odyssey-nintendo-switch-trailer/",
+          "pageSha256": "d9eb9aa47203df1b069f4e5c59e31e36f7a917bc0d0706013a4fdf6f4515ae71",
+          "checkedAt": "2026-10-23T18:32:50.731762+00:00",
+          "pageTitle": "Super Mario Odyssey - Nintendo Switch Trailer - Play Nintendo"
+        },
+        "observedStream": "https://assets.nintendo.com/video/upload/sp_full_hd/v1/Legacy%20Videos/93cmJ5YzE6cjMS7cju4XYYJDOHXutPmc.m3u8?_s=vp-1.9.1",
+        "headerSha256": "73687333cf5a412a807a4fb09c46d4f0f7de6283661a42af0d96bd15e536a663",
+        "checkedAt": "2026-10-23T18:32:50.808874+00:00"
+      }
+    },
+    "external:super-mario-maker-2": {
+      "trailers": [
+        {
+          "name": "Super Mario Maker 2 — Nintendo trailer",
+          "hls": "https://assets.nintendo.com/video/upload/sp_full_hd/v1/Legacy%20Videos/h5dmQ2aTE6unPwA9tksyRuB6i2AJh6D7.m3u8?_s=vp-1.9.1",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000018694/aac100206f1c50349fd2c48595e55603259ae60a4ab4eefc28e71f41efb78b97",
+          "sourceUrl": "https://play.nintendo.com/media/videos/super-mario-maker-2-trailer-nintendo-switch/",
+          "watchUrl": "https://play.nintendo.com/media/videos/super-mario-maker-2-trailer-nintendo-switch/",
+          "official": true,
+          "credit": "Play Nintendo — observed featured video",
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:50.808874+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Exact Play Nintendo player",
+          "url": "https://play.nintendo.com/media/videos/super-mario-maker-2-trailer-nintendo-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:50.808874+00:00"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://play.nintendo.com/media/videos/super-mario-maker-2-trailer-nintendo-switch/",
+        "publicId": "/Legacy Videos/h5dmQ2aTE6unPwA9tksyRuB6i2AJh6D7",
+        "pageEvidence": {
+          "sourceUrl": "https://play.nintendo.com/media/videos/super-mario-maker-2-trailer-nintendo-switch/",
+          "resolvedUrl": "https://play.nintendo.com/media/videos/super-mario-maker-2-trailer-nintendo-switch/",
+          "pageSha256": "e94059fde4a8c742003d668b0ca6543777d4bdd4dd82cb75f9416ef65cce574f",
+          "checkedAt": "2026-10-23T18:32:50.731762+00:00",
+          "pageTitle": "Super Mario Maker 2 - Overview Trailer - Nintendo Switch - Play Nintendo"
+        },
+        "observedStream": "https://assets.nintendo.com/video/upload/sp_full_hd/v1/Legacy%20Videos/h5dmQ2aTE6unPwA9tksyRuB6i2AJh6D7.m3u8?_s=vp-1.9.1",
+        "headerSha256": "074168e2f54f5ef738cc26b48a15400aed78dd909ccb7d8f60d8a09f0d1af06f",
+        "checkedAt": "2026-10-23T18:32:50.808874+00:00"
+      }
+    },
+    "external:celeste-classic": {
+      "trailers": [
+        {
+          "name": "CELESTE Classic — public browser gameplay preview",
+          "webm": "https://raw.githubusercontent.com/Herbertofury/Games/0e7ed0b620180a8111affe058455002c816894a1/site/assets/platformer-previews/celeste-classic.webm",
+          "poster": "https://img.itch.zone/aW1hZ2UvMzEzMTgvMTMzNjQyLmdpZg==/original/vIUIrE.gif",
+          "sourceUrl": "https://maddymakesgamesinc.itch.io/celesteclassic",
+          "watchUrl": "https://maddymakesgamesinc.itch.io/celesteclassic",
+          "credit": "Games library capture of the creator-published PICO-8 browser build; not an official trailer",
+          "official": false,
+          "verified": true,
+          "verifiedAt": "2026-10-23",
+          "captureKind": "Library-captured public browser preview",
+          "capturePath": "site/assets/platformer-previews/celeste-classic.webm",
+          "captureSha256": "a421c4c70cc82a84b63d7c08837501565a544cece2a80df4855ebfb75eb52172",
+          "editionNote": "A short recorded interaction with the exact free browser release. This is not the commercial Celeste game, a full playthrough, or a claim of comprehensive hands-on review."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Creator browser build",
+          "url": "https://maddymakesgamesinc.itch.io/celesteclassic",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact played public build",
+          "url": "https://html-classic.itch.zone/html/235259/Celeste/index.html",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://maddymakesgamesinc.itch.io/celesteclassic",
+        "buildUrl": "https://html-classic.itch.zone/html/235259/Celeste/index.html",
+        "captureSha256": "a421c4c70cc82a84b63d7c08837501565a544cece2a80df4855ebfb75eb52172",
+        "captureRevision": "0e7ed0b620180a8111affe058455002c816894a1",
+        "visualReview": "Title and transition are followed by the real first platforming room. Sampled frames show the character moving and attempting jumps around the snowy ledges. This is the free PICO-8 Classic, not commercial Celeste.",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    "external:celeste-classic-2": {
+      "trailers": [
+        {
+          "name": "Celeste Classic 2: Lani's Trek — public browser gameplay preview",
+          "webm": "https://raw.githubusercontent.com/Herbertofury/Games/0e7ed0b620180a8111affe058455002c816894a1/site/assets/platformer-previews/celeste-classic-2.webm",
+          "poster": "https://img.itch.zone/aW1nLzUwNTA4NDAucG5n/original/5KxkXW.png",
+          "sourceUrl": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+          "watchUrl": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+          "credit": "Games library capture of the creator-published PICO-8 browser build; not an official trailer",
+          "official": false,
+          "verified": true,
+          "verifiedAt": "2026-10-23",
+          "captureKind": "Library-captured public browser preview",
+          "capturePath": "site/assets/platformer-previews/celeste-classic-2.webm",
+          "captureSha256": "6870a3c94dc11d7d68142e981c511275c7909638b9f47f44343c3f8ef14821f5",
+          "editionNote": "A short recorded interaction with the exact free browser release. This is not the commercial Celeste game, a full playthrough, or a claim of comprehensive hands-on review."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Creator browser build",
+          "url": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact played public build",
+          "url": "https://html-classic.itch.zone/html/3276960/index.html",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "mediaEvidence": {
+        "sourceUrl": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+        "buildUrl": "https://html-classic.itch.zone/html/3276960/index.html",
+        "captureSha256": "6870a3c94dc11d7d68142e981c511275c7909638b9f47f44343c3f8ef14821f5",
+        "captureRevision": "0e7ed0b620180a8111affe058455002c816894a1",
+        "visualReview": "The Lani's Trek title transitions into the actual outdoor room. Extracted frames show changing character position and horizontal camera movement around the vehicle and snowy ledges. Clearly labelled as a library-captured public browser preview, not an official trailer.",
+        "reviewedAt": "2026-10-23"
+      }
+    }
+  },
+  "checkedAt": "2026-10-23T18:32:50.808874+00:00",
+  "policy": "Additive, exact-edition media. Official footage and editorial captures retain distinct credits; URL verification is separate from actual playback."
+}

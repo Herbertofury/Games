@@ -2,7 +2,7 @@
 
 ![SHINOBI: Art of Vengeance official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2361770/e9ea86d314aee27fd903e95c626598c09244d468/header.jpg?t=1779224050)
 
-**[Open official page](https://store.steampowered.com/app/2361770/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2361770)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/2361770/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2361770)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 The iconic SHINOBI returns in an all-new 2D action platformer with a unique hand-drawn look created by the team behind the hit brawler Streets ...
 
@@ -12,7 +12,7 @@ A recent action-platformer direction to compare with other authored ninja-action
 
 | Field | Value |
 |:--|:--|
-| Collection | Action & retro adventures |
+| Collection | Action & retro adventures, Fresh discoveries & emerging worlds |
 | Recommendation | 9/10 |
 | Community reception | 82.3% / 5,015 Steam reviews |
 | Release | Aug 28, 2025 |
@@ -25,7 +25,8 @@ A recent action-platformer direction to compare with other authored ninja-action
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/2361770/)
+- [Steam: store](https://store.steampowered.com/app/2361770)
+- [Steam: demo](https://store.steampowered.com/app/3489510)
 
 ## Videos and screenshots
 
@@ -59,11 +60,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/2361770/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2361770&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2361770%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Steam](https://store.steampowered.com/app/2361770/) · checked 2026-10-23T17:11:08.101395+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2361770&l=english&cc=us) · checked 2026-10-23T17:11:08.101395+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2361770%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:11:08.101395+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Traditional Metroidvania
+
+**Store-described mechanics:** Explore the official gameplay and description for its progression systems.
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

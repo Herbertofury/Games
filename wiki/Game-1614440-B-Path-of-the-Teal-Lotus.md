@@ -2,7 +2,7 @@
 
 ![Bō: Path of the Teal Lotus official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1614440/d12640040629098981e7d7c0a418a8e0c553cf47/header_alt_assets_0.jpg?t=1787628184)
 
-**[Open official page](https://store.steampowered.com/app/1614440/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1614440)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/1614440/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1614440)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Flow gracefully through a colorful, hand-drawn 2.5D action platformer inspired by Japanese folklore. Engage in acrobatic aerial combat, unlock powerful mystical abilities, and explore ...
 
@@ -12,7 +12,7 @@ An aerially expressive exploration lead where staying in motion and reading vert
 
 | Field | Value |
 |:--|:--|
-| Collection | Exploration & Metroidvanias |
+| Collection | Exploration & Metroidvanias, Combat, parries & beautiful worlds |
 | Recommendation | 9/10 |
 | Community reception | 83.8% / 1,762 Steam reviews |
 | Release | Jul 17, 2024 |
@@ -25,7 +25,7 @@ An aerially expressive exploration lead where staying in motion and reading vert
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/1614440/)
+- [Steam: store](https://store.steampowered.com/app/1614440)
 
 ## Videos and screenshots
 
@@ -63,11 +63,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/1614440/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1614440&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1614440%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Steam](https://store.steampowered.com/app/1614440/) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1614440&l=english&cc=us) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1614440%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:59:37.367270+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Combat-focused Metroidvania
+
+**Store-described mechanics:** Grappling, Dash movement, Transformation
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

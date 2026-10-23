@@ -2,7 +2,7 @@
 
 ![Castlevania Dominus Collection official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369900/header.jpg?t=1745815495)
 
-**[Open official page](https://store.steampowered.com/app/2369900/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2369900)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/2369900/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2369900)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Three incredible action adventure games from the Castlevania series have finally returned, for the first time! But wait, there's more! Haunted Castle Revisited, a ...
 
@@ -12,7 +12,7 @@ Ability-gated exploration, spatial memory and routes that change as the movement
 
 | Field | Value |
 |:--|:--|
-| Collection | Exploration & Metroidvanias |
+| Collection | Exploration & Metroidvanias, Genre essentials |
 | Recommendation | 9/10 |
 | Community reception | 94.2% / 2,874 Steam reviews |
 | Release | Aug 27, 2024 |
@@ -25,7 +25,7 @@ Ability-gated exploration, spatial memory and routes that change as the movement
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/2369900/)
+- [Steam: store](https://store.steampowered.com/app/2369900)
 
 ## Videos and screenshots
 
@@ -51,11 +51,23 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/2369900/) · checked 2026-10-23T17:07:37.068525+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2369900&l=english&cc=us) · checked 2026-10-23T17:07:37.068525+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2369900%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:07:37.068525+00:00
+- [Steam](https://store.steampowered.com/app/2369900/) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2369900&l=english&cc=us) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2369900%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:59:37.367270+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Metroidvania collection / mixed formats
+
+**Store-described mechanics:** Explore the official gameplay and description for its progression systems.
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
+
+**Also find this entry by:** Castlevania: Dawn of Sorrow, Dawn of Sorrow, Castlevania: Portrait of Ruin, Portrait of Ruin, Castlevania: Order of Ecclesia, Order of Ecclesia, Haunted Castle, Haunted Castle Revisited
 
 ## Platformer field notes
 

@@ -1,0 +1,9 @@
+{
+  "reviewedAt": "2026-10-23",
+  "resolvedRecords": 20,
+  "thirdPartySourceVideos": 18,
+  "libraryCapturedPreviews": 2,
+  "evidenceRun": 40004139539,
+  "evidenceArtifactSha256": "cc3e3fff61c024638e476ee132fc1a75128df31f4bc7e1539e9ab2a9ad5ce9b4",
+  "scope": "Metadata resolution and visual capture approval; actual library playback has a separate browser report."
+}

@@ -27,11 +27,13 @@ Routes, momentum and expressive movement rather than simply reaching the exit.
 
 - [Steam: store](https://store.steampowered.com/app/213610/)
 
-> No embeddable trailer returned by the official API; use the source page.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Sonic Adventure 2™ & NiGHTS into dreams..™ Launch Trailer](https://www.youtube.com/watch?v=zQwXwsToHTg) | SEGA Europe — official upload
+
+> Official HD re-release footage. This is not a claim that the footage was captured on PC.
 
 ![Sonic Adventure 2 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/213610/ss_4be4624b9d7f049129f83113074ebf335e193539.1920x1080.jpg?t=1762751748)
 
@@ -56,6 +58,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 - [Steam](https://store.steampowered.com/app/213610/) · checked 2026-10-23T16:58:22.046289+00:00
 - [Steam store API](https://store.steampowered.com/api/appdetails?appids=213610&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
 - [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A213610%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Platformer exact-video verification](https://www.youtube.com/watch?v=zQwXwsToHTg) · checked 2026-10-23T18:32:45.493637+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

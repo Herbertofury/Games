@@ -105,3 +105,9 @@ Post-release maintenance commit 073e059629ffd70864bc1ca893c63e852124a928 routes 
 Remaining hosting prerequisite: GitHub Pages is still disabled. Native wiki, release, and portable HTML are published. Enable Settings > Pages > Source: GitHub Actions, then run Publish library to activate the hosted site. Do not claim the Pages URL is live.
 
 Exact next action for later content work: reuse catalog-16, the same stable IDs, source/curation overrides, and games.library.v1 state. Apply requested additions or corrections only; run changed-path tests followed by publication. Preserve the RTS media and original-versus-store date distinctions. Do not restart completed discovery, rerun interrupted bootstrap payloads, or re-upload unchanged release bytes. The only active source-discovery gaps are the explicitly recorded non-promoted candidates, not missing media on any of the 130 published RTS entries.
+
+## Platformer completion - exact media and primary-route acceptance
+
+All 439 platformer records now have artwork and supported video metadata. The twenty former video gaps are closed through reviewed sources or two explicitly credited public-browser previews. The production-browser gate played all fourteen added direct streams and verified six consent-first YouTube identities. Ten primary route counts and all installed genre memberships remain intact. Every unit test and installed-genre browser suite passed without skips.
+
+Evidence: `docs/qa/platformers-completion-receipt.json`, `docs/qa/platformers-completion-qa.json`, `data/platformers-study-report.json`, and `docs/PLATFORMERS-COMPLETION.md`. Native Wiki/release publication remains a separate gate.

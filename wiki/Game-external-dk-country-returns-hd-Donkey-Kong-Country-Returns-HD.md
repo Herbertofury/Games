@@ -30,11 +30,13 @@ Barrel routes, mine-cart timing and environmental spectacle make an important cl
 
 HD edition of the earlier Wii game, including additional stages from the 3DS version. The 2025 storefront release does not mean this is a wholly new original campaign.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Donkey Kong Country™ Returns HD — official product video](https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/) | Nintendo — exact product gallery
+
+> Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted.
 
 ![Donkey Kong Country™ Returns HD 1](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/50b3b71a75022699ab39d631df7a6b1571df102f96d5f10e6267cbecadfa4cd6)
 
@@ -54,9 +56,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Nintendo](https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/) · checked 2026-10-23T17:09:08.300141+00:00
-- [Exact-page media completion](https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/) · checked 2026-10-23T17:27:45.963246+00:00
+- [Platformer exact-video verification](https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/) · checked 2026-10-23T18:32:45.493637+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

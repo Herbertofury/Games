@@ -30,11 +30,13 @@ Two useful approaches in one edition: tightly authored cooperative 3D courses an
 
 The two adventures have different multiplayer structures. This is the 2021 enhanced package, not the original Wii U edition; read the mode-specific player requirements.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Super Mario™ 3D World + Bowser’s Fury — official product video](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) | Nintendo — exact product gallery
+
+> Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted.
 
 ![Super Mario™ 3D World + Bowser’s Fury 1](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f)
 
@@ -54,9 +56,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Nintendo](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) · checked 2026-10-23T17:09:08.300141+00:00
-- [Exact-page media completion](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) · checked 2026-10-23T17:27:45.963246+00:00
+- [Platformer exact-video verification](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) · checked 2026-10-23T18:32:45.493637+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
