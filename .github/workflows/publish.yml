@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['site/**','scripts/build.py','scripts/publish_wiki.py','tests/**','docs/UPDATING.md','.github/workflows/publish.yml']
+    paths: ['site/**','scripts/**','tests/**','docs/UPDATING.md','.github/workflows/publish.yml']
   workflow_run:
     workflows: ['Refresh Steam catalog','Add game recommendation','Install library source']
     types: [completed]
@@ -32,6 +32,7 @@ jobs:
       - name: Build the canonical snapshot
         run: |
           test -s data/catalog.json || { echo 'Official metadata refresh has not published its snapshot yet. Rerun after Refresh Steam catalog completes.'; exit 1; }
+          python3 scripts/reconcile.py
           python3 scripts/build.py
           node --check site/app.js
           python3 -m unittest discover -s tests -p 'test_*.py'
@@ -41,6 +42,8 @@ jobs:
           python3 -m playwright install --with-deps chromium
       - name: Real browser acceptance tests
         run: python3 tests/browser_qa.py
+      - name: Verify actual official trailer playback and image decoding
+        run: python3 scripts/media_qa.py
       - name: Publish native wiki
         env:
           GH_TOKEN: ${{ github.token }}
@@ -67,7 +70,8 @@ jobs:
           cp qa/detail.png docs/qa/detail.png
           git config user.name 'Games catalog bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add dist wiki docs/qa
+          git add dist wiki data
+          git add -f docs/qa
           if ! git diff --cached --quiet; then
             git commit -m 'Publish the verified library, generated wiki, and runtime QA evidence'
             git pull --rebase origin main
