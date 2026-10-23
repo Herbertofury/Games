@@ -1,0 +1,28 @@
+name: Diagnose official trailer playback
+on:
+  workflow_dispatch:
+  push:
+    paths: ['scripts/diagnose_media.py','.github/workflows/media-diagnostic.yml']
+permissions:
+  contents: read
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Prepare bounded browser probe
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          if command -v google-chrome >/dev/null; then
+            echo "CHROMIUM_PATH=$(command -v google-chrome)" >> "$GITHUB_ENV"
+          else
+            python3 -m playwright install --with-deps chromium
+          fi
+          python3 scripts/build.py
+      - run: python3 scripts/diagnose_media.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: media-diagnostic
+          path: qa/media-diagnostic.json
