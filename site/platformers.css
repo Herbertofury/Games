@@ -1,0 +1,26 @@
+/* The fourth hub shares the library's spacing, controls and responsive rules. */
+body[data-hub="platformers"]{--accent:#9ce6e2;--accent-rgb:156,230,226;}
+body[data-hub="platformers"] .featured{border-color:rgba(156,230,226,.25);}
+body[data-hub="platformers"] .feature-pill{color:#bff8ed;background:rgba(18,54,58,.82);}
+body[data-hub="platformers"] .intro h1 span{color:#9ce6e2;}
+.platformer-guide{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:22px;padding:26px 28px;margin:24px 0;border:1px solid rgba(156,230,226,.22);border-radius:18px;background:linear-gradient(125deg,rgba(38,89,90,.22),rgba(24,37,44,.3));}
+.platformer-guide[hidden]{display:none!important;}
+.platformer-guide h2{font-size:clamp(23px,2.1vw,31px);letter-spacing:-.7px;margin:8px 0 10px;}
+.platformer-guide p{font-size:13px;line-height:1.7;max-width:560px;opacity:.78;margin:0;}
+.platformer-guide nav{display:flex;flex-wrap:wrap;align-content:center;gap:8px;min-width:0;}
+.platformer-guide nav button{border:1px solid rgba(156,230,226,.24);border-radius:9px;padding:10px 12px;background:rgba(21,40,43,.75);color:#d0efeb;font:inherit;font-size:12px;cursor:pointer;line-height:1.25;min-height:40px;}
+.platformer-guide nav button:hover,.platformer-guide nav button:focus-visible{border-color:#9ce6e2;background:rgba(69,115,117,.35);outline-offset:3px;}
+.platformer-study-link{grid-column:1/-1;justify-self:start;max-width:100%;line-height:1.6;white-space:normal;}
+.platformer-brief{border:1px solid rgba(156,230,226,.23);border-radius:15px;padding:22px;margin-top:22px;background:rgba(52,105,110,.09);}
+.platformer-brief h3{line-height:1.45;margin:9px 0 14px;}
+.platformer-brief p{line-height:1.75;}
+.platformer-brief>small{display:block;opacity:.65;line-height:1.65;}
+.platformer-facts{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:20px 0;}
+.platformer-facts small{display:block;font-size:10px;letter-spacing:1.1px;opacity:.6;margin-bottom:7px;}
+.platformer-facts strong{display:block;font-size:12px;line-height:1.6;font-weight:600;}
+.platformer-brief .recommendation-caution{font-size:12px;opacity:.8;border-left:2px solid rgba(156,230,226,.45);padding-left:13px;}
+body.light .platformer-guide,body.light .platformer-brief{border-color:rgba(27,91,95,.23);background:rgba(83,162,162,.08);}
+body.light .platformer-guide nav button{background:#e6f2ee;color:#224b4b;border-color:#b7d4cc;}
+body.light[data-hub="platformers"] .intro h1 span{color:#267478;}
+@media(max-width:900px){.platformer-guide{grid-template-columns:1fr;padding:20px;gap:18px;}.platformer-guide nav{align-content:start;}.platformer-study-link{font-size:12px;}}
+@media(max-width:480px){.platformer-guide{padding:18px 16px;margin:18px 0;}.platformer-guide nav{gap:6px;}.platformer-guide nav button{font-size:11px;padding:9px 10px;}.platformer-facts{grid-template-columns:1fr;gap:12px;}.platformer-brief{padding:18px 15px;}}
