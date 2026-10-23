@@ -1,0 +1,100 @@
+name: Install survival collection
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/install-survival.yml']
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: survival-install
+  cancel-in-progress: false
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Reuse the exact verified source review without overwriting newer source files
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api repos/Herbertofury/Games/actions/artifacts/12537317795/zip > /tmp/survival-review.zip
+          echo '4880080218c6f909c2c33b908a9cb67e5635ba1b0ca60080278dc4a80e66b2dd  /tmp/survival-review.zip' | sha256sum -c -
+          unzip -q /tmp/survival-review.zip 'qa/survival-source-review/*' -d .
+      - name: Apply reviewed media, editions and source-preserving integration
+        run: |
+          python3 scripts/finish_survival.py
+          python3 scripts/install_survival.py
+          cp scripts/test_survival_contract.py tests/test_survival.py
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('scripts/survival_qa.py')
+          s=p.read_text()
+          old="(R/'release/Games - Explorer.html').as_uri()+'#hub='+urllib_quote(hub) if False else (R/'release/Games - Explorer.html').as_uri()+'#hub='+hub"
+          if old in s:
+              s=s.replace(old,"(R/'release/Games - Explorer.html').as_uri()+'#hub='+hub")
+              p.write_text(s)
+          PY
+          node --check site/app.js
+          node --check site/platformers.js
+          node --check site/survival.js
+          python3 -m py_compile scripts/*.py tests/*.py
+          python3 scripts/build.py
+      - name: Require all original and survival source-contract tests
+        run: |
+          set -o pipefail
+          mkdir -p qa
+          python3 -m unittest discover -s tests -p 'test_*.py' 2>&1 | tee qa/survival-install-unit-tests.log
+      - name: Record the coherent source checkpoint and release scope
+        shell: python
+        run: |
+          import collections,datetime,json,pathlib
+          root=pathlib.Path.cwd()
+          catalog=json.loads((root/'data/catalog.json').read_text())
+          hubs=('Survival','Minecraft-like worlds')
+          rows=[g for g in catalog['items'] if any(h in g['hubs'] for h in hubs)]
+          report={'checkedAt':datetime.datetime.now(datetime.timezone.utc).isoformat(),'records':len(catalog['items']),'studyRecords':len(rows),'hubCounts':{h:sum(h in g['hubs'] for g in rows) for h in hubs},'collections':{h:len({g['survivalCollection'] for g in rows if h in g['hubs']}) for h in hubs},'statuses':dict(collections.Counter(g['status'] for g in rows)),'sourceReferences':sum(len(g['storefronts']) for g in rows),'providers':dict(collections.Counter(x['provider'] for g in rows for x in g['storefronts'])),'artwork':sum(bool(g.get('image')) for g in rows),'video':sum(bool(g.get('trailers')) for g in rows),'datasetHash':catalog['build']['datasetHash']}
+          (root/'data/survival-study-report.json').write_text(json.dumps(report,indent=2)+'\n')
+          body='# Games: Survival and Minecraft-like worlds\n\n'
+          body+=f"This release adds two distinct homes with {len(rows)} unique survival-study entries to the shared library of {len(catalog['items'])} records. All 1,189 previously published identities and all prior genre memberships are preserved.\n\n"
+          body+='Survival centers on Conan Exiles, ARK and Windrose: shared-world adventures, wilderness, oceans, zombies, space and engineering. Minecraft-like worlds has its own navigation, collections, filters and visual theme for Minecraft, Terraria, Hytale, Vintage Story, 2D sandboxes, free voxel games and clearly labelled automation/colony neighbors.\n\n'
+          body+='Every published study entry has real artwork, a supported embedded-video source and confirmed distribution links. Official trailers, credited community gameplay and historical development footage are distinguished. Full games, demos, prototypes, Early Access, upcoming releases, archived listings, support memberships and required engines are not conflated.\n\n'
+          body+='Survival field notes distinguish source-listed solo/co-op, server mentions, modding and terrain systems. A store single-player label does not guarantee offline play; co-op does not guarantee cross-play or any player limit. Editorial recommendation strength is separate from Steam or creator-platform review scores and sample sizes.\n\n'
+          body+='Native wiki pages: Survival, Survival-Media, Minecraft-Like-Worlds, Minecraft-Like-Media and Survival-Field-Guide. The wiki renders images and links exact videos; the portable HTML has embedded players. Browser favorites, ratings, notes and saved views retain games.library.v1. No scheduled crawler, generated artwork or viewport culling is introduced.\n\n'
+          body+='The publication gate retains every previous unit and browser suite and adds exhaustive study detail/source and primary-image checks. Actual playback probes are distinguished from a claim of watching every external video end to end. Confirmed source coverage is not a claim of every retailer worldwide. GitHub Pages enablement remains a separate repository setting.\n'
+          (root/'docs/RELEASE.md').write_text(body)
+          (root/'docs/SURVIVAL.md').write_text(body+'\n## Snapshot\n\n```json\n'+json.dumps(report,indent=2)+'\n```\n\n## Updates\n\nUse Enrich survival collection. Discovery sources, exact edition corrections, reviewed media and editorial curation remain separate layers. Preserve stable IDs and the existing storage key. Source misses stay in the research ledger rather than being promoted as recommendations.\n')
+          p=root/'docs/EXECUTION.md'
+          p.write_text(p.read_text()+'\n\n## Survival source checkpoint, October 23, 2026\n\nTwo requested hubs are integrated: Survival and Minecraft-like worlds. Reviewed source artifact 12537317795 (SHA-256 4880080218c6f909c2c33b908a9cb67e5635ba1b0ca60080278dc4a80e66b2dd) was reused without restarting research. The source-contract gate passed before this checkpoint. Complete runtime validation, native wiki publication, release verification and Drive synchronization remain required before completion. Do not rerun initial collectors or unmodified failed searches; reuse the exact source layers, stable IDs and source/media review. The next action is to run the complete publication gate with scripts/survival_qa.py alongside every prior suite.\n')
+      - name: Persist source before the full real-browser gate
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site scripts tests data docs/EXECUTION.md docs/RELEASE.md docs/SURVIVAL.md dist wiki
+          if ! git diff --cached --quiet; then
+            git commit -m 'Install complete Survival and Minecraft-like hubs with reviewed media and preserved library state'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          echo "Source checkpoint: $(git rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: survival-source-checkpoint
+          path: |
+            site/
+            scripts/
+            tests/
+            data/survival-*
+            docs/SURVIVAL.md
+            docs/RELEASE.md
+            docs/EXECUTION.md
+            dist/manifest.json
+            release/
+            qa/survival-install-unit-tests.log
