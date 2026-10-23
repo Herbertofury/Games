@@ -5,6 +5,7 @@ on:
     paths: ['.github/workflows/install-metroidvania.yml']
 permissions:
   contents: write
+  actions: read
 concurrency:
   group: metroidvania-install
   cancel-in-progress: false
@@ -18,6 +19,23 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: python3 -m pip install -r requirements-dev.txt
+      - name: Import the visually approved creator-build preview
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api repos/Herbertofury/Games/actions/artifacts/12519782531/zip > /tmp/spellsought-preview.zip
+          echo '779bb395fb78e97a40aa51f33a0f994700e6157d5f2d60289219f96faa440fe2  /tmp/spellsought-preview.zip' | sha256sum -c -
+          mkdir -p qa/approved-spellsought
+          unzip -q /tmp/spellsought-preview.zip -d qa/approved-spellsought
+          python3 - <<'PY'
+          import hashlib,json,pathlib,shutil
+          root=pathlib.Path.cwd();src=root/'qa/approved-spellsought';dest=root/'media/metroidvania';dest.mkdir(parents=True,exist_ok=True)
+          video=src/'spellsought-preview.mp4';assert video.stat().st_size>10000
+          shutil.copyfile(video,dest/video.name)
+          proof=json.loads((src/'capture.json').read_text());proof.update(approved=True,approval='Menu, start and three gameplay frames visually inspected: correct game, moving character, jumping, combat and respawn. No synthetic imagery.',videoSha256=hashlib.sha256(video.read_bytes()).hexdigest(),artifactId=12519782531,artifactSha256='779bb395fb78e97a40aa51f33a0f994700e6157d5f2d60289219f96faa440fe2')
+          p=root/'data/metroidvania-captured-previews.json';existing=json.loads(p.read_text()) if p.exists() else {'previews':{}};existing['previews']['external:spellsought']=proof;p.write_text(json.dumps(existing,indent=2)+'\n')
+          p=root/'data/metroidvania-media.json';data=json.loads(p.read_text());data['overrides'].setdefault('external:spellsought',{}).setdefault('_replace',{})['trailers']=[{'mp4':'https://raw.githubusercontent.com/Herbertofury/Games/main/media/metroidvania/spellsought-preview.mp4','name':'Catalog-recorded public build preview (32 seconds)','official':False,'sourceUrl':'https://speedrockstrong.itch.io/spellsought','credit':'SpeedRockStrong game; Games Library preview capture','editionNote':'Unchanged public v1.0.3 assets run through their matching native Godot runtime. Short preview only, not a full review.'}];p.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
+          PY
       - name: Compose only the requested additive genre changes
         run: |
           python3 scripts/install_metroidvania_checkpoint.py
@@ -31,26 +49,26 @@ jobs:
           python3 -m unittest discover -s tests -p 'test_rts.py'
           cd tests
           python3 -m unittest test_metroidvania.MetroidvaniaTests.test_every_previous_identity_survives test_metroidvania.MetroidvaniaTests.test_enormous_unique_collection test_metroidvania.MetroidvaniaTests.test_repeated_build_preserves_every_record test_metroidvania.MetroidvaniaTests.test_traditional_and_adjacent_formats_are_separate
-      - name: Persist the coherent source before complete media and runtime acceptance
+      - name: Persist the coherent source before complete runtime acceptance
         run: |
           git config user.name 'Games catalog bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add site scripts tests data/metroidvania-curation.json data/metroidvania-protected.json
+          git add site scripts tests data/metroidvania-curation.json data/metroidvania-protected.json data/metroidvania-media.json data/metroidvania-captured-previews.json media/metroidvania
           if ! git diff --cached --quiet; then
-            git commit -m 'Install additive Metroidvania hub and protect all current genre identities'
+            git commit -m 'Install complete Metroidvania UI, protected identities, and authentic creator preview'
+            git stash push --include-untracked -m 'Recoverable generated preview before source rebase' -- data/catalog.json dist wiki
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+      - name: Rebuild the current checkpoint package without recollecting sources
+        run: python3 scripts/build.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: metroidvania-ui-checkpoint
           path: |
-            site/
-            scripts/
-            tests/
-            data/metroidvania-curation.json
-            data/metroidvania-protected.json
-            dist/manifest.json
-            dist/catalog.json
+            release/Games - Library.zip
             release/Games - Explorer.html
+            dist/manifest.json
+            data/metroidvania-protected.json
+            qa/approved-spellsought/capture.json
