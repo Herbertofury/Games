@@ -5,21 +5,31 @@ on:
     paths: ['.github/workflows/finish-metroidvania-sources.yml']
 permissions:
   contents: write
-  actions: read
+  actions: write
+concurrency:
+  group: metroidvania-source-completion
+  cancel-in-progress: true
 jobs:
   complete:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Stop only the superseded package-manager wait
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          STATE=$(gh api repos/Herbertofury/Games/actions/runs/39996223440 --jq .status)
+          if [ "$STATE" != completed ]; then gh api -X POST repos/Herbertofury/Games/actions/runs/39996223440/cancel; fi
       - uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0
-      - name: Install source and media dependencies
+      - name: Provision the self-contained encoder without an apt index refresh
         run: |
-          python3 -m pip install -r requirements-dev.txt
-          sudo apt-get update -qq
-          sudo apt-get install -y --no-install-recommends ffmpeg
+          python3 -m pip install -r requirements-dev.txt imageio-ffmpeg==0.6.0
+          mkdir -p "$RUNNER_TEMP/media-bin"
+          ln -s "$(python3 -c 'import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())')" "$RUNNER_TEMP/media-bin/ffmpeg"
+          echo "$RUNNER_TEMP/media-bin" >> "$GITHUB_PATH"
       - name: Reuse the exact validated source-pages artifact
         env:
           GH_TOKEN: ${{ github.token }}
