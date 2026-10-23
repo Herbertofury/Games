@@ -1,0 +1,55 @@
+name: Verify source editions
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/verify-source-editions.yml']
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install beautifulsoup4==4.13.4
+      - name: Read edition metadata and public video identities
+        shell: python
+        run: |
+          import concurrent.futures,html,json,pathlib,re,urllib.request,urllib.parse
+          from bs4 import BeautifulSoup
+          UA='Mozilla/5.0 (compatible; GamesLibrary/1.2; +https://github.com/Herbertofury/Games)'
+          def read(url):
+            with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':UA}),timeout=18) as r:return r.read(6000000).decode('utf-8',errors='replace')
+          def probe(task):
+            kind,ident,url=task
+            try:
+              raw=read(url)
+              if kind=='youtube':return {'kind':kind,'id':ident,'url':url,'metadata':json.loads(raw)}
+              s=BeautifulSoup(raw,'html.parser');body=s.select_one('.formatted_description') or s.select_one('article') or s
+              yt=list(dict.fromkeys(re.findall(r'(?:youtube(?:-nocookie)?\.com/(?:embed/|watch\?v=)|youtu\.be/|i\.ytimg\.com/vi/|img\.youtube\.com/vi/)([A-Za-z0-9_-]{11})',html.unescape(raw.replace('\\/','/')))))
+              data=[]
+              for node in s.select('[data-s9e-mediaembed],[data-src],[data-video-id],video,source,iframe'):
+                a=dict(node.attrs)
+                if node.name in ['video','source','iframe'] or any(k in str(a).lower() for k in ['youtube','video','vimeo']):data.append(a)
+              out={'kind':kind,'id':ident,'url':url,'title':s.title.get_text(' ',strip=True) if s.title else '', 'youtube':yt,'embedNodes':data}
+              if kind=='itch':
+                out.update(description=body.get_text(' ',strip=True),metadata=s.select_one('.game_info_panel_widget').get_text(' ',strip=True) if s.select_one('.game_info_panel_widget') else '',uploads=[x.get_text(' ',strip=True) for x in s.select('.upload_list_widget .upload')],purchase=s.select_one('.buy_row').get_text(' ',strip=True) if s.select_one('.buy_row') else '',price=[dict(x.attrs) for x in s.select('meta[itemprop="price"],meta[property*="price"]')])
+              else:
+                out['relevantParagraphs']=[x.get_text(' ',strip=True) for x in s.select('.message-body,.message-content') if any(w in x.get_text().lower() for w in ['video','youtube','playthrough','trailer'])]
+              return out
+            except Exception as e:return {'kind':kind,'id':ident,'url':url,'error':str(e)}
+          d=json.loads(pathlib.Path('data/storefront-discovery.json').read_text());tasks=[]
+          for ident,o in d['overrides'].items():
+            for l in o.get('storefronts',[]):
+              if l['provider']=='itch.io':tasks.append(('itch',ident,l['url'].split('/devlog/')[0].split('/community')[0]))
+          tasks=list(dict.fromkeys(tasks))
+          for vid in ['Ro6k5xAAknQ','guO_QkSFOTE','eBvWz4KHlEE','PCP0yZtq2OQ']:
+            tasks.append(('youtube',vid,'https://www.youtube.com/oembed?url='+urllib.parse.quote('https://www.youtube.com/watch?v='+vid,safe='')+'&format=json'))
+          tasks += [('forum','external:tremor','https://www.slipseer.com/index.php?threads/tremor.992/page-'+str(n)) for n in range(2,6)]
+          with concurrent.futures.ThreadPoolExecutor(max_workers=5) as p:report=list(p.map(probe,tasks))
+          out=pathlib.Path('qa');out.mkdir(exist_ok=True);(out/'source-editions.json').write_text(json.dumps(report,indent=2)+'\n')
+          print(json.dumps([{k:v for k,v in r.items() if k not in ['description','relevantParagraphs']} for r in report],indent=2))
+      - uses: actions/upload-artifact@v4
+        with:
+          name: source-editions
+          path: qa/source-editions.json
