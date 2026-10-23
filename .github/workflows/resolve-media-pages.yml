@@ -1,0 +1,55 @@
+name: Resolve media pages
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/resolve-media-pages.yml']
+permissions:
+  contents: read
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Read exact public source pages in Chrome
+        shell: python
+        run: |
+          import asyncio,html,json,pathlib,re
+          from playwright.async_api import async_playwright
+          from bs4 import BeautifulSoup
+          pairs=[
+            ('external:arcane-dimensions','https://www.moddb.com/mods/arcane-dimensions/videos/tears-of-the-false-god6'),
+            ('external:arcane-dimensions','https://www.senscritique.com/jeuvideo/Arcane_Dimensions/25702322'),
+            ('external:total-chaos-original','https://www.moddb.com/mods/total-chaos/videos/total-chaos-ng-trailer'),
+            ('external:total-chaos-original','https://www.vgcal.com/game/total-chaos'),
+            ('external:tremor','https://modstalgia.com/quake/mods/tremor'),
+            ('external:tremor','https://modstalgia.com/quake/mods/tremor/videos'),
+            ('external:death-wish','https://www.gematsu.com/2026/03/blood-refreshed-supply-free-expansion-death-wish-announced'),
+            ('external:death-wish','https://www.moddb.com/mods/death-wish-for-blood'),
+          ]
+          async def main():
+            async with async_playwright() as pw:
+              browser=await pw.chromium.launch(executable_path='/usr/bin/google-chrome',headless=True,args=['--no-sandbox'])
+              sem=asyncio.Semaphore(3)
+              async def one(pair):
+                ident,url=pair
+                async with sem:
+                  page=await browser.new_page()
+                  try:
+                    response=await page.goto(url,wait_until='domcontentloaded',timeout=25000)
+                    await page.wait_for_timeout(1000)
+                    raw=await page.content();s=BeautifulSoup(raw,'html.parser')
+                    for x in s.select('#comments,.comments,.comment_list,.community_posts,.post_grid,footer,nav'):x.decompose()
+                    body=str(s);yt=list(dict.fromkeys(re.findall(r'(?:youtube(?:-nocookie)?\.com/(?:embed/|watch\?v=)|youtu\.be/)([A-Za-z0-9_-]{11})',html.unescape(body))))
+                    files=list(dict.fromkeys(re.findall(r'(?:https?:)?//[^\s\"\'<>]+\.(?:mp4|webm|m3u8)(?:\?[^\s\"\'<>]*)?',body.replace('\\/','/'))))
+                    return {'id':ident,'url':url,'status':response.status if response else None,'title':await page.title(),'youtube':yt,'files':files,'videoNodes':[dict(x.attrs) for x in s.select('video,source,iframe')],'videoLinks':[{'label':a.get_text(' ',strip=True),'url':a['href']} for a in s.select('a[href]') if any(k in a['href'] for k in ['youtu','video','trailer'])][:50]}
+                  except Exception as e:return {'id':ident,'url':url,'error':str(e)}
+                  finally:await page.close()
+              report=await asyncio.gather(*(one(p) for p in pairs));await browser.close()
+            p=pathlib.Path('qa');p.mkdir(exist_ok=True);(p/'resolved-media-pages.json').write_text(json.dumps(report,indent=2)+'\n');print(json.dumps(report,indent=2))
+          asyncio.run(main())
+      - uses: actions/upload-artifact@v4
+        with:
+          name: resolved-media-pages
+          path: qa/resolved-media-pages.json
