@@ -1,0 +1,1602 @@
+{
+  "generatedAt": "2026-10-23T17:40:10.781347+00:00",
+  "overrides": {
+    "external:hero-core": {
+      "primaryUrl": "https://www.remargames.se/herocore.php",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "_replace": {
+        "storefronts": [
+          {
+            "url": "https://www.remargames.se/herocore.php",
+            "provider": "Official site",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+          }
+        ],
+        "image": "https://www.remargames.se/games/herocore2.gif",
+        "screenshots": [
+          {
+            "src": "https://www.remargames.se/games/herocore1.jpg",
+            "thumbnail": "https://www.remargames.se/games/herocore1.jpg",
+            "sourceUrl": "https://www.remargames.se/herocore.php",
+            "credit": "Original creator",
+            "alt": "Hero Core official image",
+            "verified": true
+          },
+          {
+            "src": "https://www.remargames.se/games/herocore2.gif",
+            "thumbnail": "https://www.remargames.se/games/herocore2.gif",
+            "sourceUrl": "https://www.remargames.se/herocore.php",
+            "credit": "Original creator",
+            "alt": "Hero Core official image",
+            "verified": true
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.remargames.se/herocore.php",
+          "provider": "Official site",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ]
+    },
+    "external:metroid-dread": {
+      "primaryUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "_replace": {
+        "storefronts": [
+          {
+            "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+            "provider": "Nintendo",
+            "kind": "store",
+            "verified": true,
+            "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2",
+        "trailers": [
+          {
+            "youtube": "AOvefm5U250",
+            "official": true,
+            "credit": "Nintendo of America",
+            "name": "Metroid Dread - Overview Trailer - Nintendo Switch",
+            "watchUrl": "https://www.youtube.com/watch?v=AOvefm5U250",
+            "sourceUrl": "https://metroid.nintendo.com/dread/",
+            "poster": "https://i.ytimg.com/vi/AOvefm5U250/hqdefault.jpg"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "provider": "Nintendo",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "releaseDate": "2021-10-08",
+      "releaseLabel": "2021-10-08",
+      "releaseYear": 2021
+    },
+    "external:metroid-prime-4": {
+      "primaryUrl": "https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "_replace": {
+        "storefronts": [
+          {
+            "url": "https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/",
+            "provider": "Nintendo",
+            "kind": "store",
+            "verified": true,
+            "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000084766/1bcf06d845f9027b4330e8d07658845a2fe3d66882bdaeb70325aeb35c54f1c9",
+        "trailers": [
+          {
+            "youtube": "7mBR0H1F5hs",
+            "official": true,
+            "credit": "Nintendo of America",
+            "name": "Metroid Prime 4: Beyond – Nintendo Switch 2 Edition — Overview Trailer",
+            "watchUrl": "https://www.youtube.com/watch?v=7mBR0H1F5hs",
+            "sourceUrl": "https://metroid.nintendo.com/prime-4-beyond/",
+            "poster": "https://i.ytimg.com/vi/7mBR0H1F5hs/hqdefault.jpg"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/",
+          "provider": "Nintendo",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/",
+          "provider": "Nintendo",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "releaseDate": "2025-12-04",
+      "releaseLabel": "2025-12-04",
+      "releaseYear": 2025
+    },
+    "external:necrowave": {
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "mJdLXD7rb4Y",
+            "official": true,
+            "credit": "GameTrailers / Six One Indie Showcase",
+            "name": "Official trailer, May 2026 showcase",
+            "watchUrl": "https://www.youtube.com/watch?v=mJdLXD7rb4Y",
+            "sourceUrl": "https://www.necrowave.com/",
+            "poster": "https://i.ytimg.com/vi/mJdLXD7rb4Y/hqdefault.jpg"
+          }
+        ]
+      },
+      "storefronts": [
+        {
+          "url": "https://www.patreon.com/Necrowave",
+          "provider": "Patreon",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00",
+          "sourceUrl": "https://www.necrowave.com/",
+          "editionNote": "Creator support linked from the official game website. Membership is not a full-game license."
+        }
+      ]
+    },
+    "external:stratum": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1nLzI0NTc3MzMwLnBuZw==/original/d7FGFv.png",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0OS5wbmc=/original/kX9H7k.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0OS5wbmc=/original/kX9H7k.png",
+            "sourceUrl": "https://machinescreen.itch.io/stratum",
+            "credit": "Creator / itch.io",
+            "alt": "Stratum screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0OS5wbmc=/794x1000/1e0iOs.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0OS5wbmc=/794x1000/1e0iOs.png",
+            "sourceUrl": "https://machinescreen.itch.io/stratum",
+            "credit": "Creator / itch.io",
+            "alt": "Stratum screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0Ny5wbmc=/original/UAU7qc.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0Ny5wbmc=/original/UAU7qc.png",
+            "sourceUrl": "https://machinescreen.itch.io/stratum",
+            "credit": "Creator / itch.io",
+            "alt": "Stratum screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0Ny5wbmc=/794x1000/fdVXp5.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0Ny5wbmc=/794x1000/fdVXp5.png",
+            "sourceUrl": "https://machinescreen.itch.io/stratum",
+            "credit": "Creator / itch.io",
+            "alt": "Stratum screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE1MC5wbmc=/original/wS6VhX.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE1MC5wbmc=/original/wS6VhX.png",
+            "sourceUrl": "https://machinescreen.itch.io/stratum",
+            "credit": "Creator / itch.io",
+            "alt": "Stratum screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE1MC5wbmc=/794x1000/YSH5%2FZ.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE1MC5wbmc=/794x1000/YSH5%2FZ.png",
+            "sourceUrl": "https://machinescreen.itch.io/stratum",
+            "credit": "Creator / itch.io",
+            "alt": "Stratum screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDYwMDc0Mi5wbmc=/original/rN0erx.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDYwMDc0Mi5wbmc=/original/rN0erx.png",
+            "sourceUrl": "https://machinescreen.itch.io/stratum",
+            "credit": "Creator / itch.io",
+            "alt": "Stratum screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDYwMDc0Mi5wbmc=/794x1000/pTiJ95.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDYwMDc0Mi5wbmc=/794x1000/pTiJ95.png",
+            "sourceUrl": "https://machinescreen.itch.io/stratum",
+            "credit": "Creator / itch.io",
+            "alt": "Stratum screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDYwMDc0My5wbmc=/original/wJeUjX.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDYwMDc0My5wbmc=/original/wJeUjX.png",
+            "sourceUrl": "https://machinescreen.itch.io/stratum",
+            "credit": "Creator / itch.io",
+            "alt": "Stratum screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDYwMDc0My5wbmc=/794x1000/xDKRjh.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDYwMDc0My5wbmc=/794x1000/xDKRjh.png",
+            "sourceUrl": "https://machinescreen.itch.io/stratum",
+            "credit": "Creator / itch.io",
+            "alt": "Stratum screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0OC5wbmc=/original/NAYpvM.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0OC5wbmc=/original/NAYpvM.png",
+            "sourceUrl": "https://machinescreen.itch.io/stratum",
+            "credit": "Creator / itch.io",
+            "alt": "Stratum screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0OC5wbmc=/794x1000/79wlK1.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0OC5wbmc=/794x1000/79wlK1.png",
+            "sourceUrl": "https://machinescreen.itch.io/stratum",
+            "credit": "Creator / itch.io",
+            "alt": "Stratum screenshot",
+            "verified": true
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 5.0,
+        "max": 5,
+        "count": 2,
+        "sourceUrl": "https://machinescreen.itch.io/stratum",
+        "checkedAt": "2026-10-23T17:40:10.781347+00:00"
+      },
+      "platforms": [
+        "windows",
+        "Web browser"
+      ]
+    },
+    "external:fiends-fall": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1nLzIyODE5MzExLnBuZw==/original/q8doEV.png",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNS5wbmc=/original/GYKCuI.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNS5wbmc=/original/GYKCuI.png",
+            "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+            "credit": "Creator / itch.io",
+            "alt": "Fiend's Fall screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNS5wbmc=/794x1000/jNHCV4.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNS5wbmc=/794x1000/jNHCV4.png",
+            "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+            "credit": "Creator / itch.io",
+            "alt": "Fiend's Fall screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNy5wbmc=/original/SLNWTk.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNy5wbmc=/original/SLNWTk.png",
+            "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+            "credit": "Creator / itch.io",
+            "alt": "Fiend's Fall screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNy5wbmc=/794x1000/bQXB%2FA.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNy5wbmc=/794x1000/bQXB%2FA.png",
+            "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+            "credit": "Creator / itch.io",
+            "alt": "Fiend's Fall screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNi5wbmc=/original/Oh9Vnr.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNi5wbmc=/original/Oh9Vnr.png",
+            "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+            "credit": "Creator / itch.io",
+            "alt": "Fiend's Fall screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNi5wbmc=/794x1000/9Ba8%2FU.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNi5wbmc=/794x1000/9Ba8%2FU.png",
+            "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+            "credit": "Creator / itch.io",
+            "alt": "Fiend's Fall screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxOC5wbmc=/original/c%2BVS%2BJ.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxOC5wbmc=/original/c%2BVS%2BJ.png",
+            "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+            "credit": "Creator / itch.io",
+            "alt": "Fiend's Fall screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxOC5wbmc=/794x1000/r152YA.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxOC5wbmc=/794x1000/r152YA.png",
+            "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+            "credit": "Creator / itch.io",
+            "alt": "Fiend's Fall screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxOS5wbmc=/original/XnuQ2g.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxOS5wbmc=/original/XnuQ2g.png",
+            "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+            "credit": "Creator / itch.io",
+            "alt": "Fiend's Fall screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxOS5wbmc=/794x1000/OjUoTD.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxOS5wbmc=/794x1000/OjUoTD.png",
+            "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+            "credit": "Creator / itch.io",
+            "alt": "Fiend's Fall screenshot",
+            "verified": true
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 5.0,
+        "max": 5,
+        "count": 4,
+        "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+        "checkedAt": "2026-10-23T17:40:10.781347+00:00"
+      },
+      "platforms": [
+        "Web browser"
+      ]
+    },
+    "external:rabbits-quest": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1nLzE5NDA3MzEucG5n/original/fedTgm.png",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzYucG5n/original/8rOsvo.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzYucG5n/original/8rOsvo.png",
+            "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+            "credit": "Creator / itch.io",
+            "alt": "Rabbit's Quest screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzYucG5n/794x1000/WYbdCx.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzYucG5n/794x1000/WYbdCx.png",
+            "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+            "credit": "Creator / itch.io",
+            "alt": "Rabbit's Quest screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzcucG5n/original/n%2BiWDf.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzcucG5n/original/n%2BiWDf.png",
+            "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+            "credit": "Creator / itch.io",
+            "alt": "Rabbit's Quest screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzcucG5n/794x1000/GFoDz%2B.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzcucG5n/794x1000/GFoDz%2B.png",
+            "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+            "credit": "Creator / itch.io",
+            "alt": "Rabbit's Quest screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1ODAucG5n/original/RLs8i%2B.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1ODAucG5n/original/RLs8i%2B.png",
+            "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+            "credit": "Creator / itch.io",
+            "alt": "Rabbit's Quest screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1ODAucG5n/794x1000/9NE35D.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1ODAucG5n/794x1000/9NE35D.png",
+            "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+            "credit": "Creator / itch.io",
+            "alt": "Rabbit's Quest screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzgucG5n/original/O%2BOK52.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzgucG5n/original/O%2BOK52.png",
+            "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+            "credit": "Creator / itch.io",
+            "alt": "Rabbit's Quest screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzgucG5n/794x1000/twWkyE.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzgucG5n/794x1000/twWkyE.png",
+            "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+            "credit": "Creator / itch.io",
+            "alt": "Rabbit's Quest screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1ODEucG5n/original/llkFK0.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1ODEucG5n/original/llkFK0.png",
+            "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+            "credit": "Creator / itch.io",
+            "alt": "Rabbit's Quest screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1ODEucG5n/794x1000/Zht2TB.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1ODEucG5n/794x1000/Zht2TB.png",
+            "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+            "credit": "Creator / itch.io",
+            "alt": "Rabbit's Quest screenshot",
+            "verified": true
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.8,
+        "max": 5,
+        "count": 17,
+        "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+        "checkedAt": "2026-10-23T17:40:10.781347+00:00"
+      },
+      "platforms": [
+        "windows"
+      ]
+    },
+    "external:mini-falafel-adventure": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NzY4LnBuZw==/original/Wy0Aih.png",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NzcwLmpwZw==/original/SPSu9N.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NzcwLmpwZw==/original/SPSu9N.jpg",
+            "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+            "credit": "Creator / itch.io",
+            "alt": "A Mini Falafel Adventure screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NzcwLmpwZw==/794x1000/NbuoXo.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NzcwLmpwZw==/794x1000/NbuoXo.jpg",
+            "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+            "credit": "Creator / itch.io",
+            "alt": "A Mini Falafel Adventure screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvMzA1ODQ3LnBuZw==/original/4nvTgw.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvMzA1ODQ3LnBuZw==/original/4nvTgw.png",
+            "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+            "credit": "Creator / itch.io",
+            "alt": "A Mini Falafel Adventure screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvMzA1ODQ3LnBuZw==/794x1000/UE%2BvxN.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvMzA1ODQ3LnBuZw==/794x1000/UE%2BvxN.png",
+            "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+            "credit": "Creator / itch.io",
+            "alt": "A Mini Falafel Adventure screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvMzA1ODQ2LnBuZw==/original/fC4Bt5.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvMzA1ODQ2LnBuZw==/original/fC4Bt5.png",
+            "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+            "credit": "Creator / itch.io",
+            "alt": "A Mini Falafel Adventure screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvMzA1ODQ2LnBuZw==/794x1000/zt16ha.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvMzA1ODQ2LnBuZw==/794x1000/zt16ha.png",
+            "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+            "credit": "Creator / itch.io",
+            "alt": "A Mini Falafel Adventure screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NjI3LnBuZw==/original/hl6ogA.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NjI3LnBuZw==/original/hl6ogA.png",
+            "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+            "credit": "Creator / itch.io",
+            "alt": "A Mini Falafel Adventure screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NjI3LnBuZw==/794x1000/RLClCQ.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NjI3LnBuZw==/794x1000/RLClCQ.png",
+            "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+            "credit": "Creator / itch.io",
+            "alt": "A Mini Falafel Adventure screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NTk1LnBuZw==/original/ME9grH.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NTk1LnBuZw==/original/ME9grH.png",
+            "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+            "credit": "Creator / itch.io",
+            "alt": "A Mini Falafel Adventure screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NTk1LnBuZw==/794x1000/1oe1dN.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NTk1LnBuZw==/794x1000/1oe1dN.png",
+            "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+            "credit": "Creator / itch.io",
+            "alt": "A Mini Falafel Adventure screenshot",
+            "verified": true
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.9,
+        "max": 5,
+        "count": 27,
+        "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+        "checkedAt": "2026-10-23T17:40:10.781347+00:00"
+      },
+      "platforms": [
+        "windows"
+      ]
+    },
+    "external:angel-shell": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1nLzI3OTExNjE1LmdpZg==/original/Kkb5pP.gif",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzQ1OS5naWY=/original/WDESxR.gif",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzQ1OS5naWY=/original/WDESxR.gif",
+            "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+            "credit": "Creator / itch.io",
+            "alt": "Angel Shell screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzUzNS5naWY=/original/trqFI6.gif",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzUzNS5naWY=/original/trqFI6.gif",
+            "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+            "credit": "Creator / itch.io",
+            "alt": "Angel Shell screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzU2OC5naWY=/original/rH7enl.gif",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzU2OC5naWY=/original/rH7enl.gif",
+            "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+            "credit": "Creator / itch.io",
+            "alt": "Angel Shell screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzU4Ny5naWY=/original/ZfzasA.gif",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzU4Ny5naWY=/original/ZfzasA.gif",
+            "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+            "credit": "Creator / itch.io",
+            "alt": "Angel Shell screenshot",
+            "verified": true
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.9,
+        "max": 5,
+        "count": 19,
+        "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+        "checkedAt": "2026-10-23T17:40:10.781347+00:00"
+      },
+      "platforms": [
+        "windows",
+        "linux"
+      ]
+    },
+    "external:reawakening": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1nLzI5NDA2MzgzLnBuZw==/original/LzM69M.png",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMS5wbmc=/original/vvwD%2B1.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMS5wbmc=/original/vvwD%2B1.png",
+            "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+            "credit": "Creator / itch.io",
+            "alt": "Reawakening screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMS5wbmc=/794x1000/KDMBr0.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMS5wbmc=/794x1000/KDMBr0.png",
+            "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+            "credit": "Creator / itch.io",
+            "alt": "Reawakening screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjc5OS5wbmc=/original/%2Fg8A6e.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjc5OS5wbmc=/original/%2Fg8A6e.png",
+            "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+            "credit": "Creator / itch.io",
+            "alt": "Reawakening screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjc5OS5wbmc=/794x1000/sYxvim.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjc5OS5wbmc=/794x1000/sYxvim.png",
+            "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+            "credit": "Creator / itch.io",
+            "alt": "Reawakening screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMi5wbmc=/original/8NBwSY.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMi5wbmc=/original/8NBwSY.png",
+            "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+            "credit": "Creator / itch.io",
+            "alt": "Reawakening screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMi5wbmc=/794x1000/MosGiQ.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMi5wbmc=/794x1000/MosGiQ.png",
+            "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+            "credit": "Creator / itch.io",
+            "alt": "Reawakening screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMC5wbmc=/original/FupC6w.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMC5wbmc=/original/FupC6w.png",
+            "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+            "credit": "Creator / itch.io",
+            "alt": "Reawakening screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMC5wbmc=/794x1000/nC7PKL.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMC5wbmc=/794x1000/nC7PKL.png",
+            "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+            "credit": "Creator / itch.io",
+            "alt": "Reawakening screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMy5wbmc=/original/u2YJDo.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMy5wbmc=/original/u2YJDo.png",
+            "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+            "credit": "Creator / itch.io",
+            "alt": "Reawakening screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMy5wbmc=/794x1000/XTFzcm.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMy5wbmc=/794x1000/XTFzcm.png",
+            "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+            "credit": "Creator / itch.io",
+            "alt": "Reawakening screenshot",
+            "verified": true
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 5.0,
+        "max": 5,
+        "count": 1,
+        "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+        "checkedAt": "2026-10-23T17:40:10.781347+00:00"
+      },
+      "platforms": [
+        "windows",
+        "linux"
+      ]
+    },
+    "external:senescence-protocol": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1nLzMwMDI3MjAyLnBuZw==/original/7Fradj.png",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8zMDAyODgxOS5naWY=/original/vgBKCB.gif",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8zMDAyODgxOS5naWY=/original/vgBKCB.gif",
+            "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+            "credit": "Creator / itch.io",
+            "alt": "Senescence Protocol screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4NS5wbmc=/original/Kxa3P0.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4NS5wbmc=/original/Kxa3P0.png",
+            "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+            "credit": "Creator / itch.io",
+            "alt": "Senescence Protocol screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4NS5wbmc=/794x1000/aSpGPI.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4NS5wbmc=/794x1000/aSpGPI.png",
+            "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+            "credit": "Creator / itch.io",
+            "alt": "Senescence Protocol screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4MS5wbmc=/original/HONOF7.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4MS5wbmc=/original/HONOF7.png",
+            "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+            "credit": "Creator / itch.io",
+            "alt": "Senescence Protocol screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4MS5wbmc=/794x1000/kflv9i.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4MS5wbmc=/794x1000/kflv9i.png",
+            "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+            "credit": "Creator / itch.io",
+            "alt": "Senescence Protocol screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4My5wbmc=/original/TORQti.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4My5wbmc=/original/TORQti.png",
+            "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+            "credit": "Creator / itch.io",
+            "alt": "Senescence Protocol screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4My5wbmc=/794x1000/xxdBKe.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4My5wbmc=/794x1000/xxdBKe.png",
+            "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+            "credit": "Creator / itch.io",
+            "alt": "Senescence Protocol screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4Mi5wbmc=/original/5E87ol.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4Mi5wbmc=/original/5E87ol.png",
+            "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+            "credit": "Creator / itch.io",
+            "alt": "Senescence Protocol screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4Mi5wbmc=/794x1000/NnyIIS.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4Mi5wbmc=/794x1000/NnyIIS.png",
+            "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+            "credit": "Creator / itch.io",
+            "alt": "Senescence Protocol screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4NC5wbmc=/original/RdNOAy.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4NC5wbmc=/original/RdNOAy.png",
+            "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+            "credit": "Creator / itch.io",
+            "alt": "Senescence Protocol screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4NC5wbmc=/794x1000/%2Fp2hlV.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDkyNDU3Ny8yOTk4NTY4NC5wbmc=/794x1000/%2Fp2hlV.png",
+            "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+            "credit": "Creator / itch.io",
+            "alt": "Senescence Protocol screenshot",
+            "verified": true
+          }
+        ],
+        "trailers": [
+          {
+            "youtube": "2g3HtwKKVVg",
+            "official": true,
+            "credit": "Looey",
+            "name": "Creator trailer",
+            "watchUrl": "https://www.youtube.com/watch?v=2g3HtwKKVVg",
+            "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+            "poster": "https://i.ytimg.com/vi/2g3HtwKKVVg/hqdefault.jpg"
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.8,
+        "max": 5,
+        "count": 4,
+        "sourceUrl": "https://lui421.itch.io/senescence-protocol",
+        "checkedAt": "2026-10-23T17:40:10.781347+00:00"
+      },
+      "platforms": [
+        "windows",
+        "Web browser"
+      ],
+      "storefronts": [
+        {
+          "url": "https://lui421.itch.io/senescence-protocol",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lui421.itch.io/senescence-protocol",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ]
+    },
+    "external:spellsought": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1nLzMwMDMwNDc1LnBuZw==/original/y86ufV.png",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDMxNS5wbmc=/original/aM%2F%2BoC.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDMxNS5wbmc=/original/aM%2F%2BoC.png",
+            "sourceUrl": "https://speedrockstrong.itch.io/spellsought",
+            "credit": "Creator / itch.io",
+            "alt": "Spellsought screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDMxNS5wbmc=/794x1000/bIQ%2F06.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDMxNS5wbmc=/794x1000/bIQ%2F06.png",
+            "sourceUrl": "https://speedrockstrong.itch.io/spellsought",
+            "credit": "Creator / itch.io",
+            "alt": "Spellsought screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDQxOC5wbmc=/original/Nq50gn.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDQxOC5wbmc=/original/Nq50gn.png",
+            "sourceUrl": "https://speedrockstrong.itch.io/spellsought",
+            "credit": "Creator / itch.io",
+            "alt": "Spellsought screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDQxOC5wbmc=/794x1000/U8cHwI.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDQxOC5wbmc=/794x1000/U8cHwI.png",
+            "sourceUrl": "https://speedrockstrong.itch.io/spellsought",
+            "credit": "Creator / itch.io",
+            "alt": "Spellsought screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDQyNC5wbmc=/original/i%2FNAHc.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDQyNC5wbmc=/original/i%2FNAHc.png",
+            "sourceUrl": "https://speedrockstrong.itch.io/spellsought",
+            "credit": "Creator / itch.io",
+            "alt": "Spellsought screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDQyNC5wbmc=/794x1000/LTpsaL.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDQyNC5wbmc=/794x1000/LTpsaL.png",
+            "sourceUrl": "https://speedrockstrong.itch.io/spellsought",
+            "credit": "Creator / itch.io",
+            "alt": "Spellsought screenshot",
+            "verified": true
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "platforms": [
+        "windows"
+      ]
+    },
+    "external:peppermint": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1nLzI4NDYyMDU3LnBuZw==/original/YgV8Pa.png",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2Ni5wbmc=/original/AqQ9lc.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2Ni5wbmc=/original/AqQ9lc.png",
+            "sourceUrl": "https://salmoone.itch.io/peppermint",
+            "credit": "Creator / itch.io",
+            "alt": "Peppermint screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2Ni5wbmc=/794x1000/BRHrCW.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2Ni5wbmc=/794x1000/BRHrCW.png",
+            "sourceUrl": "https://salmoone.itch.io/peppermint",
+            "credit": "Creator / itch.io",
+            "alt": "Peppermint screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2NS5wbmc=/original/PNS6j4.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2NS5wbmc=/original/PNS6j4.png",
+            "sourceUrl": "https://salmoone.itch.io/peppermint",
+            "credit": "Creator / itch.io",
+            "alt": "Peppermint screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2NS5wbmc=/794x1000/oTYMoM.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2NS5wbmc=/794x1000/oTYMoM.png",
+            "sourceUrl": "https://salmoone.itch.io/peppermint",
+            "credit": "Creator / itch.io",
+            "alt": "Peppermint screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2OC5wbmc=/original/15g0Oo.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2OC5wbmc=/original/15g0Oo.png",
+            "sourceUrl": "https://salmoone.itch.io/peppermint",
+            "credit": "Creator / itch.io",
+            "alt": "Peppermint screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2OC5wbmc=/794x1000/XPSGUz.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2OC5wbmc=/794x1000/XPSGUz.png",
+            "sourceUrl": "https://salmoone.itch.io/peppermint",
+            "credit": "Creator / itch.io",
+            "alt": "Peppermint screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2Ny5wbmc=/original/CqKKui.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2Ny5wbmc=/original/CqKKui.png",
+            "sourceUrl": "https://salmoone.itch.io/peppermint",
+            "credit": "Creator / itch.io",
+            "alt": "Peppermint screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2Ny5wbmc=/794x1000/poCG%2B0.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2Ny5wbmc=/794x1000/poCG%2B0.png",
+            "sourceUrl": "https://salmoone.itch.io/peppermint",
+            "credit": "Creator / itch.io",
+            "alt": "Peppermint screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2OS5wbmc=/original/DQnJLM.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2OS5wbmc=/original/DQnJLM.png",
+            "sourceUrl": "https://salmoone.itch.io/peppermint",
+            "credit": "Creator / itch.io",
+            "alt": "Peppermint screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2OS5wbmc=/794x1000/63NELX.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2OS5wbmc=/794x1000/63NELX.png",
+            "sourceUrl": "https://salmoone.itch.io/peppermint",
+            "credit": "Creator / itch.io",
+            "alt": "Peppermint screenshot",
+            "verified": true
+          }
+        ],
+        "trailers": [
+          {
+            "mp4": "https://raw.githubusercontent.com/Herbertofury/Games/main/media/metroidvania/peppermint-combat.mp4",
+            "name": "Creator combat loop, converted from the original animated GIF",
+            "official": true,
+            "credit": "salmoone; loss-preserving GIF-to-MP4 presentation",
+            "sourceUrl": "https://salmoone.itch.io/peppermint",
+            "originalAssetUrl": "https://file.garden/aFqolA0oZ33wTliE/CombatGif.gif"
+          },
+          {
+            "mp4": "https://raw.githubusercontent.com/Herbertofury/Games/main/media/metroidvania/peppermint-platforming.mp4",
+            "name": "Creator platforming loop, converted from the original animated GIF",
+            "official": true,
+            "credit": "salmoone; loss-preserving GIF-to-MP4 presentation",
+            "sourceUrl": "https://salmoone.itch.io/peppermint",
+            "originalAssetUrl": "https://file.garden/aFqolA0oZ33wTliE/PlatformingGif.gif"
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": []
+    },
+    "external:mongrel-story": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1nLzIxOTExMDg5LnBuZw==/original/OUhyBq.png",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTQ3My5wbmc=/original/rig4B%2B.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTQ3My5wbmc=/original/rig4B%2B.png",
+            "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+            "credit": "Creator / itch.io",
+            "alt": "Mongrel Story screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTQ3My5wbmc=/794x1000/l8GycG.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTQ3My5wbmc=/794x1000/l8GycG.png",
+            "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+            "credit": "Creator / itch.io",
+            "alt": "Mongrel Story screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTkwNjI0Ni5wbmc=/original/FVBwBd.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTkwNjI0Ni5wbmc=/original/FVBwBd.png",
+            "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+            "credit": "Creator / itch.io",
+            "alt": "Mongrel Story screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTkwNjI0Ni5wbmc=/794x1000/kFdXH8.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTkwNjI0Ni5wbmc=/794x1000/kFdXH8.png",
+            "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+            "credit": "Creator / itch.io",
+            "alt": "Mongrel Story screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTU5Ny5wbmc=/original/nfN0i8.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTU5Ny5wbmc=/original/nfN0i8.png",
+            "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+            "credit": "Creator / itch.io",
+            "alt": "Mongrel Story screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTU5Ny5wbmc=/794x1000/qvnCO3.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTU5Ny5wbmc=/794x1000/qvnCO3.png",
+            "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+            "credit": "Creator / itch.io",
+            "alt": "Mongrel Story screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTgyMi5wbmc=/original/%2FE11cz.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTgyMi5wbmc=/original/%2FE11cz.png",
+            "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+            "credit": "Creator / itch.io",
+            "alt": "Mongrel Story screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTgyMi5wbmc=/794x1000/%2FrujUi.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTgyMi5wbmc=/794x1000/%2FrujUi.png",
+            "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+            "credit": "Creator / itch.io",
+            "alt": "Mongrel Story screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTkwNjI3My5wbmc=/original/CEGy8p.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTkwNjI3My5wbmc=/original/CEGy8p.png",
+            "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+            "credit": "Creator / itch.io",
+            "alt": "Mongrel Story screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTkwNjI3My5wbmc=/794x1000/sxlRL1.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTkwNjI3My5wbmc=/794x1000/sxlRL1.png",
+            "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+            "credit": "Creator / itch.io",
+            "alt": "Mongrel Story screenshot",
+            "verified": true
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "platforms": [
+        "windows",
+        "linux",
+        "mac"
+      ]
+    },
+    "external:block-neopolis": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1nLzI0NDQxMjgxLnBuZw==/original/pKvnh2.png",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTQzNS5wbmc=/original/m2qapN.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTQzNS5wbmc=/original/m2qapN.png",
+            "sourceUrl": "https://neopolis.itch.io/block",
+            "credit": "Creator / itch.io",
+            "alt": "BLOCK screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTQzNS5wbmc=/794x1000/0YkgWJ.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTQzNS5wbmc=/794x1000/0YkgWJ.png",
+            "sourceUrl": "https://neopolis.itch.io/block",
+            "credit": "Creator / itch.io",
+            "alt": "BLOCK screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTUzOC5wbmc=/original/ni%2BUhv.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTUzOC5wbmc=/original/ni%2BUhv.png",
+            "sourceUrl": "https://neopolis.itch.io/block",
+            "credit": "Creator / itch.io",
+            "alt": "BLOCK screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTUzOC5wbmc=/794x1000/AR7vM0.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTUzOC5wbmc=/794x1000/AR7vM0.png",
+            "sourceUrl": "https://neopolis.itch.io/block",
+            "credit": "Creator / itch.io",
+            "alt": "BLOCK screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTU0MC5wbmc=/original/DDe37N.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTU0MC5wbmc=/original/DDe37N.png",
+            "sourceUrl": "https://neopolis.itch.io/block",
+            "credit": "Creator / itch.io",
+            "alt": "BLOCK screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTU0MC5wbmc=/794x1000/pPw5r3.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTU0MC5wbmc=/794x1000/pPw5r3.png",
+            "sourceUrl": "https://neopolis.itch.io/block",
+            "credit": "Creator / itch.io",
+            "alt": "BLOCK screenshot",
+            "verified": true
+          }
+        ],
+        "trailers": [
+          {
+            "youtube": "hTzdVJCHTN8",
+            "official": false,
+            "credit": "Mikan Hako",
+            "name": "Community gameplay: knowledge-based BLOCK",
+            "watchUrl": "https://www.youtube.com/watch?v=hTzdVJCHTN8",
+            "sourceUrl": "https://neopolis.itch.io/block",
+            "poster": "https://i.ytimg.com/vi/hTzdVJCHTN8/hqdefault.jpg"
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.8,
+        "max": 5,
+        "count": 66,
+        "sourceUrl": "https://neopolis.itch.io/block",
+        "checkedAt": "2026-10-23T17:40:10.781347+00:00"
+      },
+      "platforms": [
+        "Web browser"
+      ]
+    },
+    "external:fohh": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1nLzE2MTM4NTM0LnBuZw==/original/ZHlmKU.png",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1nLzE2MTM4NTM0LnBuZw==/original/ZHlmKU.png",
+            "thumbnail": "https://img.itch.zone/aW1nLzE2MTM4NTM0LnBuZw==/original/ZHlmKU.png",
+            "sourceUrl": "https://ismaelrodriguez.itch.io/fohh",
+            "credit": "Creator / itch.io",
+            "alt": "Fohh screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1nLzE2MTM4NTM0LnBuZw==/347x500/d7v0YR.png",
+            "thumbnail": "https://img.itch.zone/aW1nLzE2MTM4NTM0LnBuZw==/347x500/d7v0YR.png",
+            "sourceUrl": "https://ismaelrodriguez.itch.io/fohh",
+            "credit": "Creator / itch.io",
+            "alt": "Fohh screenshot",
+            "verified": true
+          }
+        ],
+        "trailers": [
+          {
+            "youtube": "hpjZOLGG3pM",
+            "official": false,
+            "credit": "Overcouch",
+            "name": "Community gameplay: original Fohh",
+            "watchUrl": "https://www.youtube.com/watch?v=hpjZOLGG3pM",
+            "sourceUrl": "https://ismaelrodriguez.itch.io/fohh",
+            "poster": "https://i.ytimg.com/vi/hpjZOLGG3pM/hqdefault.jpg"
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.8,
+        "max": 5,
+        "count": 153,
+        "sourceUrl": "https://ismaelrodriguez.itch.io/fohh",
+        "checkedAt": "2026-10-23T17:40:10.781347+00:00"
+      },
+      "platforms": [
+        "windows",
+        "Web browser"
+      ],
+      "storefronts": [
+        {
+          "url": "https://ismaelrodriguez.itch.io/fohh",
+          "provider": "itch.io",
+          "kind": "prototype",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ismaelrodriguez.itch.io/fohh",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ]
+    },
+    "external:momodora-2": {
+      "_replace": {
+        "image": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4NC5wbmc=/original/6nGksr.png",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4NS5wbmc=/original/B7uJRw.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4NS5wbmc=/original/B7uJRw.png",
+            "sourceUrl": "https://rdein.itch.io/momodora-ii",
+            "credit": "Creator / itch.io",
+            "alt": "Momodora II screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4NS5wbmc=/794x1000/SidnOD.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4NS5wbmc=/794x1000/SidnOD.png",
+            "sourceUrl": "https://rdein.itch.io/momodora-ii",
+            "credit": "Creator / itch.io",
+            "alt": "Momodora II screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4Ni5wbmc=/original/mc7vwI.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4Ni5wbmc=/original/mc7vwI.png",
+            "sourceUrl": "https://rdein.itch.io/momodora-ii",
+            "credit": "Creator / itch.io",
+            "alt": "Momodora II screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4Ni5wbmc=/794x1000/VpHyh1.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4Ni5wbmc=/794x1000/VpHyh1.png",
+            "sourceUrl": "https://rdein.itch.io/momodora-ii",
+            "credit": "Creator / itch.io",
+            "alt": "Momodora II screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4Ny5wbmc=/original/nTsz14.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4Ny5wbmc=/original/nTsz14.png",
+            "sourceUrl": "https://rdein.itch.io/momodora-ii",
+            "credit": "Creator / itch.io",
+            "alt": "Momodora II screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4Ny5wbmc=/794x1000/n8f42G.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4Ny5wbmc=/794x1000/n8f42G.png",
+            "sourceUrl": "https://rdein.itch.io/momodora-ii",
+            "credit": "Creator / itch.io",
+            "alt": "Momodora II screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU5MC5wbmc=/original/wDFXid.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU5MC5wbmc=/original/wDFXid.png",
+            "sourceUrl": "https://rdein.itch.io/momodora-ii",
+            "credit": "Creator / itch.io",
+            "alt": "Momodora II screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU5MC5wbmc=/794x1000/CDgTXJ.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU5MC5wbmc=/794x1000/CDgTXJ.png",
+            "sourceUrl": "https://rdein.itch.io/momodora-ii",
+            "credit": "Creator / itch.io",
+            "alt": "Momodora II screenshot",
+            "verified": true
+          }
+        ],
+        "trailers": [
+          {
+            "youtube": "rE2Z88Q3YYg",
+            "official": false,
+            "credit": "No Games No Life",
+            "name": "Community walkthrough: Momodora II",
+            "watchUrl": "https://www.youtube.com/watch?v=rE2Z88Q3YYg",
+            "sourceUrl": "https://rdein.itch.io/momodora-ii",
+            "poster": "https://i.ytimg.com/vi/rE2Z88Q3YYg/hqdefault.jpg"
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "platforms": [
+        "windows"
+      ]
+    },
+    "external:lyle-cube-sector": {
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "0mXWA-RmF-I",
+            "official": false,
+            "credit": "Metroidvania Review",
+            "name": "Credited review and gameplay: original freeware version",
+            "watchUrl": "https://www.youtube.com/watch?v=0mXWA-RmF-I",
+            "sourceUrl": "https://www.bogozone.net/lyle.html",
+            "poster": "https://i.ytimg.com/vi/0mXWA-RmF-I/hqdefault.jpg"
+          }
+        ],
+        "image": "https://www.bogozone.net/games/lyle.gif",
+        "screenshots": [
+          {
+            "src": "https://www.bogozone.net/games/lyle01.png",
+            "thumbnail": "https://www.bogozone.net/games/lyle01.png",
+            "sourceUrl": "https://www.bogozone.net/lyle.html",
+            "credit": "Original creator",
+            "alt": "Lyle in Cube Sector official image",
+            "verified": true
+          },
+          {
+            "src": "https://www.bogozone.net/games/lyle02.png",
+            "thumbnail": "https://www.bogozone.net/games/lyle02.png",
+            "sourceUrl": "https://www.bogozone.net/lyle.html",
+            "credit": "Original creator",
+            "alt": "Lyle in Cube Sector official image",
+            "verified": true
+          },
+          {
+            "src": "https://www.bogozone.net/games/lyle03.png",
+            "thumbnail": "https://www.bogozone.net/games/lyle03.png",
+            "sourceUrl": "https://www.bogozone.net/lyle.html",
+            "credit": "Original creator",
+            "alt": "Lyle in Cube Sector official image",
+            "verified": true
+          }
+        ]
+      }
+    },
+    "external:castlevania-requiem": {
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "_replace": {
+        "trailers": [
+          {
+            "mp4": "https://apollo2.dl.playstation.net/cdn/UP0101/CUSA13434_00/FREE_CONTENT1f2aASAlV7TtQMj8t7ZM/PREVIEW_GAMEPLAY_VIDEO_169436.mp4",
+            "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+            "name": "Official PlayStation gameplay preview",
+            "official": true,
+            "credit": "Konami / PlayStation"
+          }
+        ]
+      },
+      "releaseDate": "2018-10-26",
+      "releaseLabel": "2018-10-26",
+      "releaseYear": 2018
+    },
+    "external:metroid-prime-remastered": {
+      "_replace": {
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000063709/32b85837beea0eee31220a59e247219662de4011f7a8c18fce61cf99a4933eb7",
+        "trailers": [
+          {
+            "mp4": "https://assets.nintendo.com/video/upload/v1677191478/Microsites/snk28sksna0/assets-7dflFXqT/Switch_MPR_OverviewTRL_YT_H264.mp4",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/",
+            "name": "Official overview trailer",
+            "official": true,
+            "credit": "Nintendo"
+          }
+        ]
+      },
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "mediaErrors": [],
+      "releaseDate": "2023-02-08",
+      "releaseLabel": "2023-02-08",
+      "releaseYear": 2023
+    },
+    "external:super-metroid": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "XKLIhdH_7jM",
+            "official": false,
+            "credit": "ShiryuGL",
+            "name": "Community gameplay: Nintendo Switch Online edition",
+            "watchUrl": "https://www.youtube.com/watch?v=XKLIhdH_7jM",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/",
+            "poster": "https://i.ytimg.com/vi/XKLIhdH_7jM/hqdefault.jpg"
+          }
+        ]
+      }
+    },
+    "external:metroid-fusion": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "8o-1bhvB1qk",
+            "official": true,
+            "credit": "Nintendo of America",
+            "name": "Official Nintendo Switch Online trailer",
+            "watchUrl": "https://www.youtube.com/watch?v=8o-1bhvB1qk",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch/",
+            "poster": "https://i.ytimg.com/vi/8o-1bhvB1qk/hqdefault.jpg"
+          }
+        ],
+        "image": "https://i.ytimg.com/vi/8o-1bhvB1qk/hqdefault.jpg"
+      }
+    },
+    "external:metroid-zero-mission": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "ycEceMUwRfc",
+            "official": true,
+            "credit": "Nintendo of America",
+            "name": "Official Nintendo Switch Online trailer",
+            "watchUrl": "https://www.youtube.com/watch?v=ycEceMUwRfc",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch/",
+            "poster": "https://i.ytimg.com/vi/ycEceMUwRfc/hqdefault.jpg"
+          }
+        ],
+        "image": "https://i.ytimg.com/vi/ycEceMUwRfc/hqdefault.jpg"
+      }
+    },
+    "external:treasure-adventure-game": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "b-YvT2y3_I0",
+            "official": true,
+            "credit": "Stephen / Robit Studios",
+            "name": "Creator final trailer",
+            "watchUrl": "https://www.youtube.com/watch?v=b-YvT2y3_I0",
+            "sourceUrl": "https://www.gog.com/en/game/treasure_adventure_game",
+            "poster": "https://i.ytimg.com/vi/b-YvT2y3_I0/hqdefault.jpg"
+          }
+        ]
+      }
+    },
+    "external:an-untitled-story": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "Vl5h9DgmQCc",
+            "official": false,
+            "credit": "Bros X Maker",
+            "name": "Community playthrough: original desktop game",
+            "watchUrl": "https://www.youtube.com/watch?v=Vl5h9DgmQCc",
+            "sourceUrl": "https://www.maddymakesgames.com/",
+            "poster": "https://i.ytimg.com/vi/Vl5h9DgmQCc/hqdefault.jpg"
+          }
+        ],
+        "image": "https://www.maddymakesgames.com/images/an_untitled_story.png",
+        "screenshots": [
+          {
+            "src": "https://www.maddymakesgames.com/images/an_untitled_story.png",
+            "thumbnail": "https://www.maddymakesgames.com/images/an_untitled_story.png",
+            "sourceUrl": "https://www.maddymakesgames.com/",
+            "credit": "Original creator",
+            "alt": "An Untitled Story official image",
+            "verified": true
+          }
+        ]
+      }
+    },
+    "external:sunset-land": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "Fz6gaLtbsVY",
+            "official": true,
+            "credit": "RivetGunGames",
+            "name": "Creator teaser trailer",
+            "watchUrl": "https://www.youtube.com/watch?v=Fz6gaLtbsVY",
+            "sourceUrl": "https://rivet-gun-games.itch.io/sunset-land",
+            "poster": "https://i.ytimg.com/vi/Fz6gaLtbsVY/hqdefault.jpg"
+          }
+        ]
+      }
+    },
+    "external:metroid-ravenous": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "ku-vSTDNsT8",
+            "official": true,
+            "credit": "Nintendo",
+            "name": "Official announcement trailer",
+            "watchUrl": "https://www.youtube.com/watch?v=ku-vSTDNsT8",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/",
+            "poster": "https://i.ytimg.com/vi/ku-vSTDNsT8/hqdefault.jpg"
+          }
+        ]
+      }
+    },
+    "steam:1439960": {
+      "_replace": {
+        "trailers": [
+          {
+            "vimeo": "454755017",
+            "watchUrl": "https://vimeo.com/454755017",
+            "sourceUrl": "https://vimeo.com/454755017",
+            "name": "Creator early-alpha Old Garden gameplay (2020)",
+            "official": true,
+            "credit": "David Holy / Holysoft",
+            "editionNote": "Historical alpha footage, not evidence that the full game has released."
+          }
+        ]
+      }
+    }
+  }
+}

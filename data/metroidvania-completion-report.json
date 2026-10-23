@@ -1,0 +1,11 @@
+{
+  "steam": 405,
+  "external": 27,
+  "resolvedMediaOverrides": 28,
+  "remainingSourceCandidates": 13,
+  "recordedPreviewsPending": [
+    "external:spellsought",
+    "external:reawakening",
+    "external:mongrel-story"
+  ]
+}

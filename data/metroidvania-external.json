@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T17:11:08.107674+00:00",
+  "generatedAt": "2026-10-23T17:40:10.781347+00:00",
   "items": [
     {
       "id": "external:necrowave",
@@ -2925,6 +2925,446 @@
         }
       ],
       "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:super-metroid",
+      "name": "Super Metroid",
+      "seedName": "Super Metroid",
+      "collection": "Console origins & genre landmarks",
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 10,
+      "summary": "A foundational interconnected-world adventure, still worth exploring for its atmosphere, secrets, and freedom of routing.",
+      "curatorWhy": "A foundational interconnected-world adventure, still worth exploring for its atmosphere, secrets, and freedom of routing.",
+      "genreScope": "Traditional Metroidvania",
+      "provider": "Nintendo",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/",
+      "platforms": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "features": [],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseYear": 1994,
+      "releaseLabel": "1994",
+      "originalReleaseYear": 1994,
+      "kind": "Console game",
+      "confidence": "Established",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/",
+          "provider": "Nintendo",
+          "kind": "subscription",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/super-nintendo-entertainment-system-nintendo-classics-switch/",
+          "provider": "Nintendo",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "screenshots": [],
+      "trailers": [],
+      "requirements": "Official modern access through the SNES Nintendo Classics library requires a paid Nintendo Switch Online membership. The original game dates to 1994; this is not a new 2026 release.",
+      "image": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_2.0/ncom/pt_BR/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/box-super-metroid"
+    },
+    {
+      "id": "external:metroid-fusion",
+      "name": "Metroid Fusion",
+      "seedName": "Metroid Fusion",
+      "collection": "Console origins & genre landmarks",
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 10,
+      "summary": "A tense, more directed Metroid adventure built around an abandoned research station and a dangerous pursuer. A classic rather than a newly released indie.",
+      "curatorWhy": "A tense, more directed Metroid adventure built around an abandoned research station and a dangerous pursuer. A classic rather than a newly released indie.",
+      "genreScope": "Traditional Metroidvania",
+      "provider": "Nintendo",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch/",
+      "platforms": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "features": [],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseYear": 2002,
+      "releaseLabel": "2002",
+      "originalReleaseYear": 2002,
+      "kind": "Console game",
+      "confidence": "Established",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch/",
+          "provider": "Nintendo",
+          "kind": "subscription",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-classics-switch/",
+          "provider": "Nintendo",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "screenshots": [],
+      "trailers": [],
+      "requirements": "Requires Nintendo Switch Online + Expansion Pack for the official GBA Nintendo Classics edition. Not a free standalone PC game."
+    },
+    {
+      "id": "external:metroid-zero-mission",
+      "name": "Metroid: Zero Mission",
+      "seedName": "Metroid: Zero Mission",
+      "collection": "Console origins & genre landmarks",
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 10,
+      "summary": "A compact and highly replayable remake of the original Metroid, with accessible movement and rewarding hidden routes.",
+      "curatorWhy": "A compact and highly replayable remake of the original Metroid, with accessible movement and rewarding hidden routes.",
+      "genreScope": "Traditional Metroidvania",
+      "provider": "Nintendo",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch/",
+      "platforms": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "features": [],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseYear": 2004,
+      "releaseLabel": "2004",
+      "originalReleaseYear": 2004,
+      "kind": "Console game",
+      "confidence": "Established",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch/",
+          "provider": "Nintendo",
+          "kind": "subscription",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-classics-switch/",
+          "provider": "Nintendo",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "screenshots": [],
+      "trailers": [],
+      "requirements": "Requires Nintendo Switch Online + Expansion Pack for the official GBA Nintendo Classics edition. The original game is from 2004."
+    },
+    {
+      "id": "external:metroid-ravenous",
+      "name": "Metroid Ravenous",
+      "seedName": "Metroid Ravenous",
+      "collection": "Console origins & genre landmarks",
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 9,
+      "summary": "Nintendo's announced next 2D Metroid adventure, explicitly kept on the future-release watchlist rather than among playable games.",
+      "curatorWhy": "Nintendo's announced next 2D Metroid adventure, explicitly kept on the future-release watchlist rather than among playable games.",
+      "genreScope": "Traditional Metroidvania",
+      "provider": "Nintendo",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/",
+      "platforms": [
+        "Nintendo Switch 2"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "features": [],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "status": "Upcoming",
+      "comingSoon": true,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": "2027-01-28",
+      "releaseYear": null,
+      "releaseLabel": "2027-01-28",
+      "originalReleaseYear": null,
+      "kind": "Console game",
+      "confidence": "Established",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/",
+          "provider": "Nintendo",
+          "kind": "wishlist",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/",
+          "provider": "Nintendo",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        },
+        {
+          "url": "https://www.nintendo.com/my/news/article/r4YhVFgDRDvAH4AcD9j9r",
+          "provider": "Nintendo",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "screenshots": [],
+      "trailers": [],
+      "requirements": "Nintendo Switch 2. Scheduled for January 28, 2027; not released as of this catalog snapshot.",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135071/f067f6f0cb7770ec655a06f152a9c9513fecc5c3ccb745012bf3167990eb023d"
+    },
+    {
+      "id": "external:treasure-adventure-game",
+      "name": "Treasure Adventure Game",
+      "seedName": "Treasure Adventure Game",
+      "collection": "Freeware & creator-hosted worlds",
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 9,
+      "summary": "A substantial free sailing-and-exploration adventure. This is the original freeware game, not the later Treasure Adventure World remake.",
+      "curatorWhy": "A substantial free sailing-and-exploration adventure. This is the original freeware game, not the later Treasure Adventure World remake.",
+      "genreScope": "Traditional Metroidvania",
+      "provider": "GOG",
+      "primaryUrl": "https://www.gog.com/en/game/treasure_adventure_game",
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "features": [],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": true,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseYear": 2011,
+      "releaseLabel": "2011",
+      "originalReleaseYear": 2011,
+      "kind": "Standalone game",
+      "confidence": "Established",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "storefronts": [
+        {
+          "url": "https://www.gog.com/en/game/treasure_adventure_game",
+          "provider": "GOG",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gog.com/en/game/treasure_adventure_game",
+          "provider": "GOG",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "screenshots": [],
+      "trailers": [],
+      "image": "https://images.gog-statics.com/e966b44b9f146d21bc835a2f0785693116422778e4e112020d3add98046141c9.jpg"
+    },
+    {
+      "id": "external:an-untitled-story",
+      "name": "An Untitled Story",
+      "seedName": "An Untitled Story",
+      "collection": "Freeware & creator-hosted worlds",
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 9,
+      "summary": "Maddy Thorson's freeware exploration classic, with a large world and increasingly demanding platforming. A direct author-hosted download, not an unofficial reupload.",
+      "curatorWhy": "Maddy Thorson's freeware exploration classic, with a large world and increasingly demanding platforming. A direct author-hosted download, not an unofficial reupload.",
+      "genreScope": "Traditional Metroidvania",
+      "provider": "Official site",
+      "primaryUrl": "https://www.maddymakesgames.com/",
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "features": [],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": true,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": "2007-08-26",
+      "releaseYear": null,
+      "releaseLabel": "2007-08-26",
+      "originalReleaseYear": 2007,
+      "kind": "Standalone game",
+      "confidence": "Established",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "storefronts": [
+        {
+          "url": "https://www.maddymakesgames.com/",
+          "provider": "Official site",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        },
+        {
+          "url": "https://www.maddymakesgames.com/games/AnUntitledStory.zip",
+          "provider": "Official site",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.maddymakesgames.com/",
+          "provider": "Official site",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "screenshots": [],
+      "trailers": [],
+      "image": "https://maddymakesgames.com/images/preview.png"
+    },
+    {
+      "id": "external:sunset-land",
+      "name": "Sunset Land",
+      "seedName": "Sunset Land",
+      "collection": "Freeware & creator-hosted worlds",
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 8,
+      "summary": "A recent NES-style adventure available directly from its creator, with a Windows build and a native NES ROM. Do not confuse it with a similarly named Steam listing.",
+      "curatorWhy": "A recent NES-style adventure available directly from its creator, with a Windows build and a native NES ROM. Do not confuse it with a similarly named Steam listing.",
+      "genreScope": "Traditional Metroidvania",
+      "provider": "itch.io",
+      "primaryUrl": "https://rivet-gun-games.itch.io/sunset-land",
+      "platforms": [
+        "windows",
+        "NES ROM"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "features": [],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": "2026-08-07",
+      "releaseYear": null,
+      "releaseLabel": "2026-08-07",
+      "originalReleaseYear": null,
+      "kind": "Standalone game",
+      "confidence": "Established",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:40:10.781347+00:00",
+      "storefronts": [
+        {
+          "url": "https://rivet-gun-games.itch.io/sunset-land",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://rivet-gun-games.itch.io/sunset-land",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.781347+00:00"
+        }
+      ],
+      "screenshots": [],
+      "trailers": [],
+      "image": "https://img.itch.zone/aW1nLzE3MzQ0NTYxLnBuZw==/original/awvQM8.png"
     }
   ]
 }

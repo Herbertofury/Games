@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T17:11:08.107674+00:00",
+  "generatedAt": "2026-10-23T17:40:10.781347+00:00",
   "inputCount": 424,
   "items": [
     {
@@ -25277,6 +25277,225 @@
       }
     },
     {
+      "id": "steam:681110",
+      "appid": 681110,
+      "seedId": "681110",
+      "seedName": "Eagle Island Twist",
+      "name": "Eagle Island Twist",
+      "collection": "Randomized worlds & roguelite hybrids",
+      "fit": 8,
+      "summary": "Eagle Island is a roguelite action-platformer with falconry-inspired combat. Soar into an original story-driven adventure, fighting through procedurally generated levels and challenging boss fights. Includes free TWIST content, with new characters and handcrafted, retro-themed minigames.",
+      "developers": [
+        "Pixelnicks"
+      ],
+      "publishers": [
+        "Retroware"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Boss fights",
+        "Crafting",
+        "Indie",
+        "Metroidvania collection",
+        "Pixel art",
+        "Randomized worlds & roguelite hybrids",
+        "Roguelite",
+        "Roguelite / Metroidvania hybrid"
+      ],
+      "features": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "status": "Released",
+      "releaseDate": "2019-07-10",
+      "releaseLabel": "Jul 10, 2019",
+      "comingSoon": false,
+      "free": false,
+      "price": "$9.99",
+      "priceMinor": 999,
+      "currency": "USD",
+      "discount": 0,
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "rating": 78.6,
+      "reviewCount": 229,
+      "reviewLabel": "Mostly Positive",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T17:40:10.773313+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/header.jpg?t=1709580045",
+      "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/page_bg_raw.jpg?t=1709580045",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_a6bb5194c2733572adfc1eeeaf57c58985a1b94b.1920x1080.jpg?t=1709580045",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_a6bb5194c2733572adfc1eeeaf57c58985a1b94b.600x338.jpg?t=1709580045",
+          "sourceUrl": "https://store.steampowered.com/app/681110/",
+          "alt": "Eagle Island Twist official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_9cd4bde3fe8237474cda0ac884a737947b7bb903.1920x1080.jpg?t=1709580045",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_9cd4bde3fe8237474cda0ac884a737947b7bb903.600x338.jpg?t=1709580045",
+          "sourceUrl": "https://store.steampowered.com/app/681110/",
+          "alt": "Eagle Island Twist official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_102a03425ae28f0e7db55c07229616b9f6f25974.1920x1080.jpg?t=1709580045",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_102a03425ae28f0e7db55c07229616b9f6f25974.600x338.jpg?t=1709580045",
+          "sourceUrl": "https://store.steampowered.com/app/681110/",
+          "alt": "Eagle Island Twist official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_9a4b7b65111dc4a468c2edaa6e58638ad0a6fe8b.1920x1080.jpg?t=1709580045",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_9a4b7b65111dc4a468c2edaa6e58638ad0a6fe8b.600x338.jpg?t=1709580045",
+          "sourceUrl": "https://store.steampowered.com/app/681110/",
+          "alt": "Eagle Island Twist official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_307ca84fa68d92a0625b0adaa037011901c19434.1920x1080.jpg?t=1709580045",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_307ca84fa68d92a0625b0adaa037011901c19434.600x338.jpg?t=1709580045",
+          "sourceUrl": "https://store.steampowered.com/app/681110/",
+          "alt": "Eagle Island Twist official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_57f898a21f35476386304b580f298312a8457695.1920x1080.jpg?t=1709580045",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_57f898a21f35476386304b580f298312a8457695.600x338.jpg?t=1709580045",
+          "sourceUrl": "https://store.steampowered.com/app/681110/",
+          "alt": "Eagle Island Twist official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_4e5bce1995f8045d181224fcc436c18877cfeba8.1920x1080.jpg?t=1709580045",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_4e5bce1995f8045d181224fcc436c18877cfeba8.600x338.jpg?t=1709580045",
+          "sourceUrl": "https://store.steampowered.com/app/681110/",
+          "alt": "Eagle Island Twist official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_2512da3c2380e3cd24788725abfab8c5558ba887.1920x1080.jpg?t=1709580045",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_2512da3c2380e3cd24788725abfab8c5558ba887.600x338.jpg?t=1709580045",
+          "sourceUrl": "https://store.steampowered.com/app/681110/",
+          "alt": "Eagle Island Twist official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_05919491ff08ea0fd9af020b059111974df3ed9b.1920x1080.jpg?t=1709580045",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_05919491ff08ea0fd9af020b059111974df3ed9b.600x338.jpg?t=1709580045",
+          "sourceUrl": "https://store.steampowered.com/app/681110/",
+          "alt": "Eagle Island Twist official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_f16ce10453c51fc00a895555c67bcf015318dd88.1920x1080.jpg?t=1709580045",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681110/ss_f16ce10453c51fc00a895555c67bcf015318dd88.600x338.jpg?t=1709580045",
+          "sourceUrl": "https://store.steampowered.com/app/681110/",
+          "alt": "Eagle Island Twist official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Eagle Island Twist Gameplay Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256942087/movie.293x165.jpg?t=1683144161",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/681110/559446/9c78c2f0805bd40d2d9bc12dee9da3b8d51e8c18/1751130452/hls_264_master.m3u8?t=1683144161",
+          "sourceUrl": "https://store.steampowered.com/app/681110/",
+          "id": 256942087
+        },
+        {
+          "name": "Eagle Island Twist Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256942090/movie.293x165.jpg?t=1683144168",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/681110/559451/bc34b6d2435b6513afede055c445a756c7b65c08/1751130453/hls_264_master.m3u8?t=1683144168",
+          "sourceUrl": "https://store.steampowered.com/app/681110/",
+          "id": 256942090
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/681110/",
+      "website": "https://eagleislandgame.com",
+      "verifiedAt": "2026-10-23T17:40:10.773313+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/681110/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.773313+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=681110&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.773313+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A681110%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.773313+00:00"
+        }
+      ],
+      "warnings": [],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "collections": [
+        "Randomized worlds & roguelite hybrids"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/681110/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "Roguelite / Metroidvania hybrid",
+      "aliases": [
+        "Eagle Island"
+      ],
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/681110/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.773313+00:00"
+        }
+      ],
+      "demoAppids": [],
+      "metroidvaniaEvidence": {
+        "sourceUrl": "https://store.steampowered.com/app/681110/",
+        "description": "The award-winning   Eagle Island   is a roguelite action-platformer that offers a unique blend of falconry-inspired combat mechanics, procedurally generated levels, and challenging boss fights. Players can choose between the narrative-driven story or speed-runner-like rogue mode, mixing and matching 85 abilities to diversify their gameplay.         OVER 85 ABILITIES & PROCEDURALLY-GENERATED LEVELS IN CLASSIC MODE \"Throw\" your owl companion into battle imbued with special abilities! Explore procedurally-generated worlds, set to a beautifully modernized pixel art aesthetic. Levels are also packed with secrets and areas to explore.         EXPLORE MORE IN HANDCRAFTED TWIST MODE In Eagle Island TWIST, you'll experience 45 carefully crafted, retro-themed stages that can be traversed on a 16-bit era world map. TWIST offers even more content to an already well-rounded game, providing a range of mini-games to supplement Classic Mode's roguelite feel.         LOADED WITH ACCESSIBILITY FEATURES There are over 18 accessibility settings that can be easily enabled--Such as: remappable controls, difficulty options, text visibility, high contrast, and toggles for flashing and screen shaking.",
+        "discoverySource": null,
+        "genreClaim": false
+      },
+      "recommendationCaution": "Explicitly labelled genre neighbor or hybrid, not a traditional persistent-world Metroidvania."
+    },
+    {
       "id": "steam:2184080",
       "appid": 2184080,
       "seedId": "2184080",
@@ -42467,6 +42686,253 @@
         "sourceUrl": "https://store.steampowered.com/app/248190/",
         "description": "The legendary Knytt series continues with Nifflas’ latest creation; Knytt Underground.   In this Knytteration; humans have long since abandoned the planet after practically destroying it in a war, five hundred years ago. The remaining population of Sprites, Fairies and various other life forms now live in mysterious tunnels underground – where they are trying to discover the secrets of their origin and the meaning of life.   Mixed up in all of this curiosity is Mi – a mute but extraordinary sprite! She develops special powers as the game progresses and embarks upon many exciting quests on her adventure. Her main goal is to find and ring the six bells of fate before time runs out. If she doesn’t a destructive chain reaction will begin that will obliterate the entire planet!   With an array of thrilling quests to complete, unique zen-like gameplay and plenty of dynamic characters to meet and guide you on your adventure – Knytt Underground delivers a captivating and unparalleled experience that will not disappoint! Explore over 1,800 rooms with the unique tried and tested mechanics that have already got over 1 million fans worldwide excited to run, jump, climb, swing and bounce with unparalleled freedom.   Download today and soon you can begin your journey through this vibrant and enchanted underground world! Key Features    Over 1,800 rooms to explore and multiple story-driven quests to complete     Zen-like gameplay, vibrant environments and dynamic characters     Compelling and thought-provoking storyline     Switch between human and ball form for an unparalleled sense of freedom     Open world, ready to be explored by you (at your own pace)     An ambient and immersive audio experience",
         "discoverySource": "Supplemental classics and creator research",
+        "genreClaim": false
+      }
+    },
+    {
+      "id": "steam:3639650",
+      "appid": 3639650,
+      "seedId": "3639650",
+      "seedName": "Kotama and Academy Citadel",
+      "name": "Kotama and Academy Citadel",
+      "collection": "Fresh discoveries & emerging worlds",
+      "fit": 9,
+      "summary": "In the Academy Citadel, strength reigns supreme: only the most powerful survive and thrive. Fight your way through the high-tech Academy in your quest to get the highest of honors for a student, and uncover secrets that can save it in its direst crisis in this 2.5D side-scrolling Metroidvania.",
+      "developers": [
+        "Atomstring Games"
+      ],
+      "publishers": [
+        "2P Games"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Combat-focused Metroidvania",
+        "Fresh discoveries & emerging worlds",
+        "Indie",
+        "Metroidvania collection",
+        "RPG"
+      ],
+      "features": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Gamepad Recommended",
+        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "status": "Released",
+      "releaseDate": "2026-01-14",
+      "releaseLabel": "Jan 14, 2026",
+      "comingSoon": false,
+      "free": false,
+      "price": "$19.99",
+      "priceMinor": 1999,
+      "currency": "USD",
+      "discount": 0,
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "rating": 80.4,
+      "reviewCount": 3090,
+      "reviewLabel": "Very Positive",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T17:40:10.773313+00:00",
+      "metacritic": {
+        "score": 76,
+        "url": "https://www.metacritic.com/game/pc/kotama-and-academy-citadel?ftag=MCD-06-10aaa1f"
+      },
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/7608a414d4f57849ae36e8ce0c40f947a3935d31/header.jpg?t=1789615095",
+      "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/ae6229328304ab918a5f92286f4abb8ccec543f0/page_bg_raw.jpg?t=1789615095",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/a4a9c4539cff2dda385355f4fc99ecc181be07dc/ss_a4a9c4539cff2dda385355f4fc99ecc181be07dc.1920x1080.jpg?t=1789615095",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/a4a9c4539cff2dda385355f4fc99ecc181be07dc/ss_a4a9c4539cff2dda385355f4fc99ecc181be07dc.600x338.jpg?t=1789615095",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "alt": "Kotama and Academy Citadel official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/80bfffe07e78785b9c3e5d6413a7bd8ec2a1d1b7/ss_80bfffe07e78785b9c3e5d6413a7bd8ec2a1d1b7.1920x1080.jpg?t=1789615095",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/80bfffe07e78785b9c3e5d6413a7bd8ec2a1d1b7/ss_80bfffe07e78785b9c3e5d6413a7bd8ec2a1d1b7.600x338.jpg?t=1789615095",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "alt": "Kotama and Academy Citadel official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/7bb3021037cbe4121629c9f7fbeff9794eb11819/ss_7bb3021037cbe4121629c9f7fbeff9794eb11819.1920x1080.jpg?t=1789615095",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/7bb3021037cbe4121629c9f7fbeff9794eb11819/ss_7bb3021037cbe4121629c9f7fbeff9794eb11819.600x338.jpg?t=1789615095",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "alt": "Kotama and Academy Citadel official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/567a5430528e51215133084191a8045b357e830e/ss_567a5430528e51215133084191a8045b357e830e.1920x1080.jpg?t=1789615095",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/567a5430528e51215133084191a8045b357e830e/ss_567a5430528e51215133084191a8045b357e830e.600x338.jpg?t=1789615095",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "alt": "Kotama and Academy Citadel official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/9b12a240dc856d800b5086b57823b2f6cef60139/ss_9b12a240dc856d800b5086b57823b2f6cef60139.1920x1080.jpg?t=1789615095",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/9b12a240dc856d800b5086b57823b2f6cef60139/ss_9b12a240dc856d800b5086b57823b2f6cef60139.600x338.jpg?t=1789615095",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "alt": "Kotama and Academy Citadel official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/861b5d92813fa974e5999ff70c3808f4d32b484f/ss_861b5d92813fa974e5999ff70c3808f4d32b484f.1920x1080.jpg?t=1789615095",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/861b5d92813fa974e5999ff70c3808f4d32b484f/ss_861b5d92813fa974e5999ff70c3808f4d32b484f.600x338.jpg?t=1789615095",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "alt": "Kotama and Academy Citadel official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/4d1375067d8d7a9982bc496e6bb8262c9558cf6c/ss_4d1375067d8d7a9982bc496e6bb8262c9558cf6c.1920x1080.jpg?t=1789615095",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/4d1375067d8d7a9982bc496e6bb8262c9558cf6c/ss_4d1375067d8d7a9982bc496e6bb8262c9558cf6c.600x338.jpg?t=1789615095",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "alt": "Kotama and Academy Citadel official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/fa966892ccdfe30f14accc2a90c600f338c160a0/ss_fa966892ccdfe30f14accc2a90c600f338c160a0.1920x1080.jpg?t=1789615095",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/fa966892ccdfe30f14accc2a90c600f338c160a0/ss_fa966892ccdfe30f14accc2a90c600f338c160a0.600x338.jpg?t=1789615095",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "alt": "Kotama and Academy Citadel official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/1cf179ec46a4186de0c569b0cfea4109a887c1b4/ss_1cf179ec46a4186de0c569b0cfea4109a887c1b4.1920x1080.jpg?t=1789615095",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/1cf179ec46a4186de0c569b0cfea4109a887c1b4/ss_1cf179ec46a4186de0c569b0cfea4109a887c1b4.600x338.jpg?t=1789615095",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "alt": "Kotama and Academy Citadel official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/d1e57193140ce2fe8b03221d58739f203fa03683/ss_d1e57193140ce2fe8b03221d58739f203fa03683.1920x1080.jpg?t=1789615095",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/d1e57193140ce2fe8b03221d58739f203fa03683/ss_d1e57193140ce2fe8b03221d58739f203fa03683.600x338.jpg?t=1789615095",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "alt": "Kotama and Academy Citadel official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/a5e144687738f8f455c04a7a28808483dd067172/ss_a5e144687738f8f455c04a7a28808483dd067172.1920x1080.jpg?t=1789615095",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/a5e144687738f8f455c04a7a28808483dd067172/ss_a5e144687738f8f455c04a7a28808483dd067172.600x338.jpg?t=1789615095",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "alt": "Kotama and Academy Citadel official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/a3eb97f6d37dd79bc9b14eb312ffab0859370466/ss_a3eb97f6d37dd79bc9b14eb312ffab0859370466.1920x1080.jpg?t=1789615095",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/a3eb97f6d37dd79bc9b14eb312ffab0859370466/ss_a3eb97f6d37dd79bc9b14eb312ffab0859370466.600x338.jpg?t=1789615095",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "alt": "Kotama and Academy Citadel official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "发售宣传片EN",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257264850/5eb26eb890068cb3da531bde379e778e94475b67/movie_600x337.jpg?t=1768442278",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/3639650/1551449955/36e40e2f0afd2349de34337c7cfa57d015e5fc72/1768410106/hls_264_master.m3u8?t=1768442278",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "id": 257264850
+        },
+        {
+          "name": "定档预告片EN",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257260291/b706cd23ebd42a326eb7a31833a08717b8a758d7/movie_600x337.jpg?t=1767680322",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/3639650/2121791882/5e8cda9d8042fa25fd8d90792922700497bd2732/1767668090/hls_264_master.m3u8?t=1767680322",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "id": 257260291
+        },
+        {
+          "name": "Kotama&Academy Citadel Reveal PV",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257170763/87ea9b466c9d129f15b6017297a7218d53cf417c/movie_600x337.jpg?t=1762245289",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/3639650/1020070930/55de1c2ebe979c910812f90cbda68b63cddac104/1752825697/hls_264_master.m3u8?t=1762245289",
+          "sourceUrl": "https://store.steampowered.com/app/3639650/",
+          "id": 257170763
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/3639650/",
+      "website": null,
+      "verifiedAt": "2026-10-23T17:40:10.773313+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/3639650/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.773313+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=3639650&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.773313+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3639650%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.773313+00:00"
+        }
+      ],
+      "warnings": [],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "collections": [
+        "Fresh discoveries & emerging worlds"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/3639650/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "Combat-focused Metroidvania",
+      "aliases": [
+        "Kotama&Academy Citadel"
+      ],
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/3639650/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.773313+00:00"
+        }
+      ],
+      "demoAppids": [],
+      "metroidvaniaEvidence": {
+        "sourceUrl": "https://store.steampowered.com/app/3639650/",
+        "description": "Welcome to Carmel, an Academy Citadel renowned for its cutting-edge technology, where survival of the fittest is the only law and strength reigns supreme.    The \"Carmel Star\" —symbolizing the ultimate honor— is the goal students dream of. As the Centennial Anniversary approaches, a new \"Carmel Star Election\" is about to begin.    You represent a mysterious \"exchange student\" who suddenly appears, determined to join the competition.           To get the Carmel Star you will have to explore the sprawling labyrinth that is the Academy Citadel, a treacherous place where technology can unravel reality itself with mind-bending illusions, impossible machines, and self-contained biomes.          Each area demands mastery of your fluid powers. Use  your special abilities to overcome deadly traps. Return to previous zones with your newfound powers to uncover secrets hidden behind illusory walls and locked gates, revealing shortcuts and unexpected treasures.               In this Academy where \"survival of the fittest\" is the only law, exceptional power is the key to turning ambition into reality.  Master Kotama's unique fluid constitution to weave through hordes of bizarre enemies with blistering speed. Switch weapons seamlessly, combining them with skills and Memocards to chain dazzling combos. When your energy peaks, unleash a Fluid Detonation to wipe the field in a flash.               Different sections of the Academy Citadel are guarded by powerful creatures or robots that will stand in your way to the dreamed Carmel Star. They all have unique attacks and game mechanics, but all are strong enough to destroy you in a heartbeat; it will take all your skills to emerge victorious.          Master your opponent's patterns, parry at the critical moment to neutralize lethal strikes, and break their stance. As you enter bullet time, seize the fleeting openings to deliver a decisive, crushing blow.               You are not completely alone in this adventure – there are other peculiar, captivating students scattered across the Academy Citadel! Aid them during your journey, uncover their stories, and earn their loyalty as allies in your search for the Carmel Star. What might seem like a small choice at the moment could make a real difference and end up saving the Academy and deciding your fate.       The Academy Citadel welcomes challengers of all kinds, offering a range of difficulty settings to suit your style. You can choose to immerse yourself in the rich narrative and the joy of exploration on a laid-back difficulty—checking every nook and cranny for gear, weapons, and upgrades to optimize your build. Or crank up the challenge for intense, skill-focused combat that pushes your mastery to its absolute limit.     VERIFIED ON STEAMDECK",
+        "discoverySource": null,
         "genreClaim": false
       }
     },
@@ -64424,6 +64890,188 @@
         "discoverySource": "Curated genre research",
         "genreClaim": false
       }
+    },
+    {
+      "id": "steam:1093810",
+      "appid": 1093810,
+      "seedId": "1093810",
+      "seedName": "Savior",
+      "name": "Savior",
+      "collection": "Fresh discoveries & emerging worlds",
+      "fit": 9,
+      "summary": "Savior is an action-adventure platformer. Dramatically change a vast open world. Parkour effortlessly with pain-free intuitive platforming. Engage a variety of opponents with strategic, precision melee combat. Discover a rich world full of quests, colorful characters and countless secrets.",
+      "developers": [
+        "Starsoft Entertainment"
+      ],
+      "publishers": [
+        "Starsoft Entertainment"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fresh discoveries & emerging worlds",
+        "Indie",
+        "Metroidvania collection",
+        "RPG",
+        "Traditional Metroidvania"
+      ],
+      "features": [
+        "Single-player",
+        "Full controller support",
+        "Family Sharing"
+      ],
+      "status": "Upcoming",
+      "releaseDate": null,
+      "releaseLabel": "Coming soon",
+      "comingSoon": true,
+      "free": false,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "discount": 0,
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": "No user reviews",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T17:40:10.773313+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/header.jpg?t=1614371728",
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1093810?t=1614371728",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/ss_3d9405f712d1f39f1115ab5d2b6757a49aa737ff.1920x1080.jpg?t=1614371728",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/ss_3d9405f712d1f39f1115ab5d2b6757a49aa737ff.600x338.jpg?t=1614371728",
+          "sourceUrl": "https://store.steampowered.com/app/1093810/",
+          "alt": "Savior official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/ss_ed6458628ec4b68469ff7e06b6dc4dc910b9ba38.1920x1080.jpg?t=1614371728",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/ss_ed6458628ec4b68469ff7e06b6dc4dc910b9ba38.600x338.jpg?t=1614371728",
+          "sourceUrl": "https://store.steampowered.com/app/1093810/",
+          "alt": "Savior official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/ss_5e2f68734fecfade1f8f621253bb60b0ae92cfd7.1920x1080.jpg?t=1614371728",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/ss_5e2f68734fecfade1f8f621253bb60b0ae92cfd7.600x338.jpg?t=1614371728",
+          "sourceUrl": "https://store.steampowered.com/app/1093810/",
+          "alt": "Savior official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/ss_d4aa5deaa44dc346d3ab15a583273c2a744bb516.1920x1080.jpg?t=1614371728",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/ss_d4aa5deaa44dc346d3ab15a583273c2a744bb516.600x338.jpg?t=1614371728",
+          "sourceUrl": "https://store.steampowered.com/app/1093810/",
+          "alt": "Savior official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/ss_6649e6fec192104f1297eb557b060a72a83c462f.1920x1080.jpg?t=1614371728",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/ss_6649e6fec192104f1297eb557b060a72a83c462f.600x338.jpg?t=1614371728",
+          "sourceUrl": "https://store.steampowered.com/app/1093810/",
+          "alt": "Savior official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/ss_b508bf23ff2777b45a686ed0b98cac78cc87260d.1920x1080.jpg?t=1614371728",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093810/ss_b508bf23ff2777b45a686ed0b98cac78cc87260d.600x338.jpg?t=1614371728",
+          "sourceUrl": "https://store.steampowered.com/app/1093810/",
+          "alt": "Savior official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Savior Kickstarter Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256761723/movie.293x165.jpg?t=1614371718",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/1093810/242603/ca58107b5a03e49aa0dc95ae0beae92511dac5b3/1751187521/hls_264_master.m3u8?t=1614371718",
+          "sourceUrl": "https://store.steampowered.com/app/1093810/",
+          "id": 256761723
+        },
+        {
+          "name": "Savior Reveal Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256755780/movie.293x165.jpg?t=1563834675",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/1093810/232387/cd513b5c82c395f49e82cdb7a62052d6836036a9/1751187517/hls_264_master.m3u8?t=1563834675",
+          "sourceUrl": "https://store.steampowered.com/app/1093810/",
+          "id": 256755780
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/1093810/",
+      "website": "http://www.saviorgame.com",
+      "verifiedAt": "2026-10-23T17:40:10.773313+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/1093810/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.773313+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=1093810&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.773313+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1093810%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.773313+00:00"
+        }
+      ],
+      "warnings": [
+        "Small review sample"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "collections": [
+        "Fresh discoveries & emerging worlds"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/1093810/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "Traditional Metroidvania",
+      "aliases": [],
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/1093810/",
+          "kind": "wishlist",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:40:10.773313+00:00"
+        }
+      ],
+      "demoAppids": [],
+      "metroidvaniaEvidence": {
+        "sourceUrl": "https://store.steampowered.com/app/1093810/",
+        "description": "Savior is an action-adventure platformer. Explore an open world that desperately needs your help. Acquire skills, gear and allies to aid you in your quest. Discover the secret origins of the broken society around you as well as yourself.",
+        "discoverySource": null,
+        "genreClaim": false
+      },
+      "recommendationCaution": "Watchlist only: the full game is not released. A listed demo is a separate playable build."
     },
     {
       "id": "steam:2849650",
@@ -90414,54 +91062,6 @@
       "verification": "unresolved"
     },
     {
-      "candidate": "Savior",
-      "collection": "Indie deep cuts & unusual mechanics",
-      "error": "Exact identity needs reconciliation",
-      "matches": [
-        {
-          "appid": 3609080,
-          "name": "StarSavior"
-        },
-        {
-          "appid": 4409740,
-          "name": "SaviorS : Oath of the Blade"
-        },
-        {
-          "appid": 372000,
-          "name": "Tree of Savior (English Ver.)"
-        },
-        {
-          "appid": 3158070,
-          "name": "Deadline Savior"
-        },
-        {
-          "appid": 3282040,
-          "name": "Stray Savior"
-        },
-        {
-          "appid": 3620430,
-          "name": "Astral Savior"
-        },
-        {
-          "appid": 4263440,
-          "name": "Dream Savior"
-        },
-        {
-          "appid": 1290770,
-          "name": "Mushroom Savior"
-        },
-        {
-          "appid": 871310,
-          "name": "Arc Savior"
-        },
-        {
-          "appid": 3173680,
-          "name": "Deadline Savior Demo"
-        }
-      ],
-      "verification": "unresolved"
-    },
-    {
       "candidate": "Sorrow of the Infernal",
       "collection": "Indie deep cuts & unusual mechanics",
       "error": "Exact identity needs reconciliation",
@@ -90506,64 +91106,6 @@
       "collection": "Upcoming & playable demo watchlist",
       "error": "Exact identity needs reconciliation",
       "matches": [],
-      "verification": "unresolved"
-    },
-    {
-      "candidate": "Sunset Land",
-      "collection": "Indie deep cuts & unusual mechanics",
-      "error": "Exact identity needs reconciliation",
-      "matches": [
-        {
-          "appid": 3818920,
-          "name": "The Sunset Land"
-        }
-      ],
-      "verification": "unresolved"
-    },
-    {
-      "candidate": "Distant Paradise",
-      "collection": "Indie deep cuts & unusual mechanics",
-      "error": "Exact identity needs reconciliation",
-      "matches": [],
-      "verification": "unresolved"
-    },
-    {
-      "candidate": "An Untitled Story",
-      "collection": "Indie deep cuts & unusual mechanics",
-      "error": "Exact identity needs reconciliation",
-      "matches": [],
-      "verification": "unresolved"
-    },
-    {
-      "candidate": "Eagle Island",
-      "collection": "Indie deep cuts & unusual mechanics",
-      "error": "Exact identity needs reconciliation",
-      "matches": [
-        {
-          "appid": 681110,
-          "name": "Eagle Island Twist"
-        }
-      ],
-      "verification": "unresolved"
-    },
-    {
-      "candidate": "The Light of the Darkness",
-      "collection": "Indie deep cuts & unusual mechanics",
-      "error": "Exact identity needs reconciliation",
-      "matches": [
-        {
-          "appid": 2490890,
-          "name": "The Light of the Darkness: Origins"
-        },
-        {
-          "appid": 1369430,
-          "name": "The Light of the Darkness: Renascence"
-        },
-        {
-          "appid": 2659260,
-          "name": "The Light of the Darkness: Origins DEMO"
-        }
-      ],
       "verification": "unresolved"
     },
     {
@@ -90619,33 +91161,6 @@
       "collection": "Indie deep cuts & unusual mechanics",
       "error": "Exact identity needs reconciliation",
       "matches": [],
-      "verification": "unresolved"
-    },
-    {
-      "candidate": "Kotama&Academy Citadel",
-      "collection": "Fresh discoveries & emerging worlds",
-      "error": "Exact identity needs reconciliation",
-      "matches": [],
-      "verification": "unresolved"
-    },
-    {
-      "candidate": "Grime 2",
-      "collection": "Fresh discoveries & emerging worlds",
-      "error": "Exact identity needs reconciliation",
-      "matches": [
-        {
-          "appid": 2529790,
-          "name": "GRIME II"
-        },
-        {
-          "appid": 4025170,
-          "name": "GRIME II Demo"
-        },
-        {
-          "appid": 4557290,
-          "name": "GRIME II - Original Soundtrack"
-        }
-      ],
       "verification": "unresolved"
     },
     {

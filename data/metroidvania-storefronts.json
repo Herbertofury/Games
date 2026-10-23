@@ -1354,12 +1354,13 @@
         {
           "provider": "itch.io",
           "url": "https://dimensionomega.itch.io/astra-fading-stars-demo",
-          "kind": "store",
+          "kind": "demo",
           "verified": true,
           "lastChecked": "2026-10-23T17:11:08.105464+00:00",
           "sourceUrl": "https://astrafadingstars.com",
           "evidence": "Game-specific official website link with matching destination title",
-          "descriptionEvidence": "The universe of Astra: Fading Stars is all brought to life by traditional, 2D, hand drawn animations and surroundings that compose the atmospheric look of the game. Engage in this action adventure with classic gameplay, daunting  enemies and ancient riddles. Explore multilayered secrets, discover  hidden truths and gradually reveal the mechanics and the lore of this  world. Game Features Astra Call, an ability springing from your soul.  Utilize it to interact with the environment on a variety of situations  that come across you. Highly responsive controls that permit flow and precision. Traditionally animated characters and world. Clues are scattered around the world. Connect them to unravel the truth. Collect Astra and use it to upgrade your strength. Meet a variety of species, hostile or not, that react according to your actions. Numerous otherworldly enemies block your path. Among them, dangerous bosses and mini bosses. Multiple scores of original, instrumental music. World randomization, gameplay elements can change on every run. A rich story unfolds The past haunts the future. Two opposing forces compete, will your astral soul be strong enough to fight the corruption? The stars are slowly fading one less each time not long until they're gone forever"
+          "descriptionEvidence": "The universe of Astra: Fading Stars is all brought to life by traditional, 2D, hand drawn animations and surroundings that compose the atmospheric look of the game. Engage in this action adventure with classic gameplay, daunting  enemies and ancient riddles. Explore multilayered secrets, discover  hidden truths and gradually reveal the mechanics and the lore of this  world. Game Features Astra Call, an ability springing from your soul.  Utilize it to interact with the environment on a variety of situations  that come across you. Highly responsive controls that permit flow and precision. Traditionally animated characters and world. Clues are scattered around the world. Connect them to unravel the truth. Collect Astra and use it to upgrade your strength. Meet a variety of species, hostile or not, that react according to your actions. Numerous otherworldly enemies block your path. Among them, dangerous bosses and mini bosses. Multiple scores of original, instrumental music. World randomization, gameplay elements can change on every run. A rich story unfolds The past haunts the future. Two opposing forces compete, will your astral soul be strong enough to fight the corruption? The stars are slowly fading one less each time not long until they're gone forever",
+          "editionNote": "Explicit creator demo edition, not a second full game."
         }
       ],
       "storeCoverage": {
@@ -1531,7 +1532,7 @@
           "kind": "demo",
           "verified": true,
           "lastChecked": "2026-10-23T17:11:08.107674+00:00",
-          "editionNote": "Creator edition; demos and prototypes are distinct from the full Steam game."
+          "editionNote": "Explicit creator demo edition, not a second full game."
         }
       ],
       "storeCoverage": {
@@ -1789,7 +1790,7 @@
       "storefronts": [
         {
           "provider": "itch.io",
-          "url": "https://dangen-entertainment.itch.io/batbarian-testament-of-the-primordials?amp%3Butm_content=57717&amp%3Butm_medium=platform&amp%3Butm_source=sitebuilder&amp%3Butm_term=drm-free&amp%3B_xm=14200.207038900231798822",
+          "url": "https://dangen-entertainment.itch.io/batbarian-testament-of-the-primordials?%3Butm_medium=platform&%3Butm_source=sitebuilder&%3Butm_term=drm-free&%3B_xm=14200.207038900231798822",
           "kind": "store",
           "verified": true,
           "lastChecked": "2026-10-23T17:11:08.105464+00:00",
@@ -1799,7 +1800,7 @@
         },
         {
           "provider": "GOG",
-          "url": "https://www.gog.com/en/game/batbarian_testament_of_the_primordials?amp%3Butm_content=57717&amp%3Butm_medium=platform&amp%3Butm_source=sitebuilder&amp%3Butm_term=gog&amp%3B_xm=14200.207038900231798822",
+          "url": "https://www.gog.com/en/game/batbarian_testament_of_the_primordials?%3Butm_medium=platform&%3Butm_source=sitebuilder&%3Butm_term=gog&%3B_xm=14200.207038900231798822",
           "kind": "store",
           "verified": true,
           "lastChecked": "2026-10-23T17:11:08.105464+00:00",
@@ -6548,7 +6549,7 @@
       "storefronts": [
         {
           "provider": "Humble Store",
-          "url": "https://www.humblebundle.com/store/headlander-plus-soundtrack?hmb_source=search_bar",
+          "url": "https://www.humblebundle.com/store/headlander-plus-soundtrack",
           "kind": "store",
           "verified": true,
           "lastChecked": "2026-10-23T17:11:08.105464+00:00",
@@ -8208,16 +8209,6 @@
           "evidence": "Exact title in GOG official catalog: Magical Blush"
         },
         {
-          "provider": "itch.io",
-          "url": "https://dangen-entertainment.itch.io/magical-blush",
-          "kind": "store",
-          "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.105464+00:00",
-          "sourceUrl": "https://itch.io/search?q=Magical%20Blush",
-          "evidence": "Exact title and creator page links to Steam app 3488640",
-          "descriptionEvidence": "Hello everyone! This is our game, MAGICAL BLUSH ~* a metroidvania in topdown view in a magic world. - EXPLORE a magical Metroidvania-style world with branching paths and hidden secrets. - BATTLE enemies and bosses in fast-paced magical combat. - MASTER elemental spells with upgrades. - EQUIP talismans to customize your playstyle. - UNLOCK abilities that open new paths. - UNCOVER hidden lore to reveal the true ending. Elemental System Harness the forces of Fire, Water, Earth, Wind, and Spirit. Each element has strengths, neutrality and weaknesses, so smart spell choices and timing are key to survival. Dynamic Exploration Unlock new, interconnecting stages and hidden paths as you progress, with every exit leading somewhere new, or back to familiar places with fresh possibilities. Charming minigames Step away from the chaos for a spell with minigames that offer fun challenges and worthwhile rewards! When the world unravels, rewrite it with magic. Arnin is a powerful mage and the guardian of the Elemental Lords. After returning from the astral plane, she discovers that her world has been devastated. The Elemental Lords, chaotic magic—have been released by a misterious figure and now threaten the land of Wyn. Arnin must travel across her kingdom, save the survivors, and face the fury of fire, water, wind, stone, and spirit. Chain powerful spells, command elemental forces, and uncover the secrets. The fate of Wyn is in your hands!"
-        },
-        {
           "url": "https://dangen-entertainment.itch.io/magical-blush",
           "provider": "itch.io",
           "kind": "store",
@@ -9518,16 +9509,6 @@
           "sourceUrl": "https://itch.io/search?q=Odallus%3A%20The%20Dark%20Call",
           "evidence": "Exact title and creator page links to Steam app 319480",
           "descriptionEvidence": "The old gods have forgotten this land. No one could save our people when darkness started spreading and collecting human souls for its army. Odallus is a classic exploration/action game, inspired by Ghosts'n Goblins, Demon's Crest and Castlevania. Player takes place of Haggis, a warrior tired of fight who must wield his sword once more to rescue his son from Darkness. Original Sound Track: http://serenati.bandcamp.com/releases Features Eight levels open to exploration Huge bosses Sharp controls Rad 8-bit graphics Thrilling atmosphere 8+ hours of gameplay 50+ types of enemies Veteran Mode"
-        },
-        {
-          "provider": "itch.io",
-          "url": "https://jessygt.itch.io/odallus",
-          "kind": "store",
-          "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.105464+00:00",
-          "sourceUrl": "https://itch.io/search?q=Odallus%3A%20The%20Dark%20Call",
-          "evidence": "Exact title and creator page links to Steam app 319480",
-          "descriptionEvidence": "Localização não-oficial feita em conjunto com Raul Rocha em 2022, para o Supercurso de Tradução de Jogos: Digitais e Analógicos. Jogo original com tradução oficial: JoyMasher . * Unofficial localization made together with Raul Rocha in 2022, for our specialization in Game Localization: Tabletop and Digital. Original game with official translations: JoyMasher ."
         }
       ],
       "storeCoverage": {
@@ -9554,7 +9535,19 @@
         ],
         "candidates": [],
         "scope": "Exact GOG and itch.io catalog matches plus title-matched publisher links. Unmatched stores remain unknown."
-      }
+      },
+      "unconfirmedSources": [
+        {
+          "provider": "itch.io",
+          "url": "https://jessygt.itch.io/odallus",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.105464+00:00",
+          "sourceUrl": "https://itch.io/search?q=Odallus%3A%20The%20Dark%20Call",
+          "evidence": "Exact title and creator page links to Steam app 319480",
+          "descriptionEvidence": "Localização não-oficial feita em conjunto com Raul Rocha em 2022, para o Supercurso de Tradução de Jogos: Digitais e Analógicos. Jogo original com tradução oficial: JoyMasher . * Unofficial localization made together with Raul Rocha in 2022, for our specialization in Game Localization: Tabletop and Digital. Original game with official translations: JoyMasher ."
+        }
+      ]
     },
     "steam:3818520": {
       "storefronts": [],
@@ -10075,22 +10068,12 @@
     "steam:4775660": {
       "storefronts": [
         {
-          "provider": "itch.io",
-          "url": "https://keveatscheese.itch.io/pith",
-          "kind": "store",
-          "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.105464+00:00",
-          "sourceUrl": "https://itch.io/search?q=PITH",
-          "evidence": "Exact title and creator page links to Steam app 4775660",
-          "descriptionEvidence": "PITH IS COMING TO STEAM ON NOVEMBER 6TH! PITH is a whimsical 3D Metroidvania/Puzzle-Platformer set in an atmospheric dreamscape full of secrets. Additional Ramblings join the discord music I listened to If you like the game please give it a rating or review it on Steam!"
-        },
-        {
           "url": "https://keveatscheese.itch.io/pith",
           "provider": "itch.io",
           "kind": "demo",
           "verified": true,
           "lastChecked": "2026-10-23T17:11:08.107674+00:00",
-          "editionNote": "Creator edition; demos and prototypes are distinct from the full Steam game."
+          "editionNote": "Explicit creator demo edition, not a second full game."
         }
       ],
       "storeCoverage": {
@@ -10898,12 +10881,13 @@
         {
           "provider": "itch.io",
           "url": "https://emlise.itch.io/rusted-moss-demo",
-          "kind": "store",
+          "kind": "demo",
           "verified": true,
           "lastChecked": "2026-10-23T17:11:08.105464+00:00",
           "sourceUrl": "https://itch.io/search?q=Rusted%20Moss",
           "evidence": "Exact title and creator page links to Steam app 1772830",
-          "descriptionEvidence": "Steam Page | Leave Feedback Traverse the perilous lands of a dying world in this bullet-hell inspired metroidvania! Strong enemies emerge from distant lands as the iron inventions of men succumb to the decay of rust and time. Use a trusty grappling hook and uncover new powers to battle monstrous machines, powerful witches, and explore a new emerging world. 20+ Trinkets to find! Trinkets are blessings of the Fae that offer unique abilities. Customise your playstyle and find a strategy that suits you! 6+ challenging bosses to defeat. Test your limits with tight combat that will push your gun slinging and grapple hooking abilities to their fullest. Soar through the air with an incredible physics based grappling hook. Fly over hostile terrain while unleashing blasts of bullets upon your foes. Explore a unique high amount of mobility and movement without the classic double jump. Pick up lost weaponry scattered around the map. From a sniper rifle to a hand cannon, easily swap between the variety of guns you find to suit the situation you’re in. Encounter humans and fae folk, inhabitants trying to find their place in the world. Speak to them and learn their stories. Uncover lost shrines and abandoned computer stations to learn about old secrets and forgotten tales. Beautifully melancholic pixel art. A retro vibe with a modern aesthetic, the world of Rusted Moss comes alive with moody pixels and stylish animation."
+          "descriptionEvidence": "Steam Page | Leave Feedback Traverse the perilous lands of a dying world in this bullet-hell inspired metroidvania! Strong enemies emerge from distant lands as the iron inventions of men succumb to the decay of rust and time. Use a trusty grappling hook and uncover new powers to battle monstrous machines, powerful witches, and explore a new emerging world. 20+ Trinkets to find! Trinkets are blessings of the Fae that offer unique abilities. Customise your playstyle and find a strategy that suits you! 6+ challenging bosses to defeat. Test your limits with tight combat that will push your gun slinging and grapple hooking abilities to their fullest. Soar through the air with an incredible physics based grappling hook. Fly over hostile terrain while unleashing blasts of bullets upon your foes. Explore a unique high amount of mobility and movement without the classic double jump. Pick up lost weaponry scattered around the map. From a sniper rifle to a hand cannon, easily swap between the variety of guns you find to suit the situation you’re in. Encounter humans and fae folk, inhabitants trying to find their place in the world. Speak to them and learn their stories. Uncover lost shrines and abandoned computer stations to learn about old secrets and forgotten tales. Beautifully melancholic pixel art. A retro vibe with a modern aesthetic, the world of Rusted Moss comes alive with moody pixels and stylish animation.",
+          "editionNote": "Explicit creator demo edition, not a second full game."
         }
       ],
       "storeCoverage": {

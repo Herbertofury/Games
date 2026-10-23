@@ -1,0 +1,923 @@
+{
+  "generatedAt": "2026-10-23T17:40:10.781347+00:00",
+  "dispositions": [
+    {
+      "candidate": "There Is No Light",
+      "state": "excluded",
+      "reason": "Linear combat-focused action adventure; omitted to keep the exploration selection focused."
+    },
+    {
+      "candidate": "NoseBound",
+      "state": "excluded",
+      "reason": "Point-and-click adventure, not a Metroidvania."
+    },
+    {
+      "candidate": "Nuclear Blaze",
+      "state": "excluded",
+      "reason": "Primarily linear firefighting platformer rather than ability-gated world exploration."
+    },
+    {
+      "candidate": "Shantae and the Seven Sirens Spectacular Superstar Update",
+      "state": "excluded",
+      "reason": "An update, not a separate game identity."
+    },
+    {
+      "candidate": "Doomed to Hell",
+      "state": "excluded",
+      "reason": "Arena roguelite, not a Metroidvania."
+    },
+    {
+      "candidate": "Sunblaze",
+      "state": "excluded",
+      "reason": "Level-based precision platformer, not a Metroidvania."
+    },
+    {
+      "candidate": "Primal Light",
+      "state": "excluded",
+      "reason": "Linear action platformer; not promoted as a Metroidvania."
+    },
+    {
+      "candidate": "Castle of Heart",
+      "state": "excluded",
+      "reason": "Linear action platformer; not promoted as a Metroidvania."
+    },
+    {
+      "candidate": "Mini Healer",
+      "state": "excluded",
+      "reason": "Boss-battle healer simulator, not a Metroidvania."
+    },
+    {
+      "candidate": "Gooma",
+      "state": "excluded",
+      "reason": "Ambiguous candidate; no recommendation promoted from the name alone."
+    },
+    {
+      "candidate": "Doomed Lands",
+      "state": "excluded",
+      "reason": "Survival crafting rather than a Metroidvania."
+    },
+    {
+      "candidate": "Touhou Artificial Dream in Arcadia",
+      "state": "excluded",
+      "reason": "First-person turn-based dungeon RPG, not a Metroidvania."
+    },
+    {
+      "candidate": "Alekon",
+      "state": "excluded",
+      "reason": "Photography adventure, not a Metroidvania."
+    },
+    {
+      "candidate": "Castle of Vania",
+      "state": "excluded",
+      "reason": "Ambiguous candidate; no exact edition promoted."
+    },
+    {
+      "candidate": "Doomsday Hunters",
+      "state": "excluded",
+      "reason": "Twin-stick roguelite, not a Metroidvania."
+    },
+    {
+      "candidate": "FlipWitch - Forbidden Sex Hex",
+      "state": "excluded",
+      "reason": "Explicit adult title excluded from this general-audience game collection."
+    },
+    {
+      "candidate": "Kunado Chronicles",
+      "state": "excluded",
+      "reason": "Visual novel, not a Metroidvania."
+    },
+    {
+      "candidate": "Mystery of Fortune",
+      "state": "excluded",
+      "reason": "Different RPG lineage, not a Metroidvania."
+    },
+    {
+      "candidate": "Plastomorphosis",
+      "state": "excluded",
+      "reason": "Survival horror rather than a Metroidvania."
+    },
+    {
+      "candidate": "Salt 2: Shores of Gold",
+      "state": "excluded",
+      "reason": "Open-world survival rather than a Metroidvania."
+    },
+    {
+      "candidate": "Sotano",
+      "state": "excluded",
+      "reason": "Puzzle escape game, not a Metroidvania."
+    },
+    {
+      "candidate": "Sparks of Hope",
+      "state": "excluded",
+      "reason": "Unresolved ambiguous title; not promoted as a Metroidvania."
+    },
+    {
+      "candidate": "The Tale of Onogoro",
+      "state": "excluded",
+      "reason": "VR puzzle adventure, not a Metroidvania."
+    },
+    {
+      "candidate": "The Witch's House MV",
+      "state": "excluded",
+      "reason": "MV is an engine/edition label here, not the Metroidvania genre."
+    },
+    {
+      "candidate": "Ninja Five-O",
+      "state": "excluded",
+      "reason": "Level-based action platformer, not a Metroidvania."
+    },
+    {
+      "candidate": "Exorcist: Reviewer of Minds",
+      "state": "excluded",
+      "reason": "Ambiguous candidate; not promoted without an exact relevant identity."
+    },
+    {
+      "candidate": "Touhou: New World",
+      "state": "excluded",
+      "reason": "Action RPG without the requested central world-unlocking loop."
+    },
+    {
+      "candidate": "Blade & Bones",
+      "state": "excluded",
+      "reason": "Loose action-RPG neighbor; not promoted into this collection."
+    },
+    {
+      "candidate": "BLADE & BASTARD",
+      "state": "excluded",
+      "reason": "Unresolved genre/identity mismatch."
+    },
+    {
+      "candidate": "Earthblade",
+      "state": "excluded",
+      "reason": "Cancelled project; do not advertise as a playable recommendation."
+    },
+    {
+      "candidate": "Ninja Gaiden: Ragebound",
+      "state": "excluded",
+      "reason": "Level-based action platformer, not a Metroidvania."
+    },
+    {
+      "candidate": "Altered Beast",
+      "state": "excluded",
+      "reason": "Arcade beat-em-up, not a Metroidvania."
+    },
+    {
+      "candidate": "Altheia: The Wrath of Aferi",
+      "state": "excluded",
+      "reason": "Loose adventure neighbor; omitted from the Metroidvania selection."
+    },
+    {
+      "candidate": "Anima: Song from the Abyss",
+      "state": "excluded",
+      "reason": "Loose action-RPG neighbor; not promoted."
+    },
+    {
+      "candidate": "Earthion",
+      "state": "excluded",
+      "reason": "Horizontal shoot-em-up, not a Metroidvania."
+    },
+    {
+      "candidate": "Folly of the Wizards",
+      "state": "excluded",
+      "reason": "Roguelite rather than a persistent-world Metroidvania."
+    },
+    {
+      "candidate": "Forge of the Fae",
+      "state": "excluded",
+      "reason": "Turn-based RPG, not a Metroidvania."
+    },
+    {
+      "candidate": "Haplo",
+      "state": "excluded",
+      "reason": "Ambiguous discovery name; no exact genre identity promoted."
+    },
+    {
+      "candidate": "Hirogami",
+      "state": "excluded",
+      "reason": "Primarily linear 3D platformer, not a Metroidvania."
+    },
+    {
+      "candidate": "Project Anomaly: Urban Supernatural Investigator",
+      "state": "excluded",
+      "reason": "Different adventure format; not promoted."
+    },
+    {
+      "candidate": "Rogue Flight",
+      "state": "excluded",
+      "reason": "Rail shooter, not a Metroidvania."
+    },
+    {
+      "candidate": "The Witch of Fern Island",
+      "state": "excluded",
+      "reason": "Life/farming simulation, not a Metroidvania."
+    },
+    {
+      "candidate": "TrinityS",
+      "state": "excluded",
+      "reason": "Co-op boss-rush game, not a Metroidvania."
+    },
+    {
+      "candidate": "Whisper Mountain Outbreak",
+      "state": "excluded",
+      "reason": "Survival-horror co-op, not a Metroidvania."
+    },
+    {
+      "candidate": "Witchbrook",
+      "state": "excluded",
+      "reason": "Life simulation, not a Metroidvania."
+    },
+    {
+      "candidate": "Yes, Your Grace: Snowfall",
+      "state": "excluded",
+      "reason": "Kingdom-management game, not a Metroidvania."
+    },
+    {
+      "candidate": "Darksiders Genesis",
+      "state": "excluded",
+      "reason": "Level-based isometric action; excluded from the exploration-focused neighbors."
+    },
+    {
+      "candidate": "Haydee",
+      "state": "excluded",
+      "reason": "Adult-styled adjacent puzzle shooter; omitted from the central genre selection."
+    },
+    {
+      "candidate": "Haydee 2",
+      "state": "excluded",
+      "reason": "Adult-styled adjacent puzzle shooter; omitted from the central genre selection."
+    },
+    {
+      "candidate": "Haydee 3",
+      "state": "excluded",
+      "reason": "Adult-styled adjacent puzzle shooter; omitted from the central genre selection."
+    },
+    {
+      "candidate": "A Valley Without Wind 2",
+      "state": "excluded",
+      "reason": "Strategy/platform hybrid rather than the requested exploration loop."
+    },
+    {
+      "candidate": "RogueVania",
+      "state": "excluded",
+      "reason": "Ambiguous identity; not promoted by genre-sounding name alone."
+    },
+    {
+      "candidate": "Fury Unleashed",
+      "state": "excluded",
+      "reason": "Run-and-gun roguelite, not a Metroidvania."
+    },
+    {
+      "candidate": "Doomsday Hunters",
+      "state": "excluded",
+      "reason": "Twin-stick roguelite, not a Metroidvania."
+    },
+    {
+      "candidate": "Oblivion Eagle",
+      "state": "excluded",
+      "reason": "No exact relevant identity established."
+    },
+    {
+      "candidate": "Spiritfall",
+      "state": "excluded",
+      "reason": "Platform-fighter roguelite, not a Metroidvania."
+    },
+    {
+      "candidate": "30XX",
+      "state": "excluded",
+      "reason": "Level-based roguelite; excluded from persistent-world exploration."
+    },
+    {
+      "candidate": "20XX",
+      "state": "excluded",
+      "reason": "Level-based roguelite; excluded from persistent-world exploration."
+    },
+    {
+      "candidate": "Revita",
+      "state": "excluded",
+      "reason": "Room-based roguelite, not a Metroidvania."
+    },
+    {
+      "candidate": "Skul: The Hero Slayer",
+      "state": "excluded",
+      "reason": "Linear-run action roguelite, not a Metroidvania."
+    },
+    {
+      "candidate": "Have a Nice Death",
+      "state": "excluded",
+      "reason": "Run-based action roguelite, not a Metroidvania."
+    },
+    {
+      "candidate": "Oblivion Eagle",
+      "state": "excluded",
+      "reason": "No exact relevant identity established."
+    },
+    {
+      "candidate": "Zoria: Age of Shattering",
+      "state": "excluded",
+      "reason": "Tactical RPG, not a Metroidvania."
+    },
+    {
+      "candidate": "Touhou Genso Wanderer -FORESIGHT-",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Deedlit in Wonder Labyrinth",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Cat Girl Without Salad: Amuse-Bouche",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Super Metroidvania",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Sapper - Defuse The Bomb Simulator",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Cally's Caves 3",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Cally's Caves 4",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Shinsekai Into the Depths",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Over The Moon",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Escape from the Universe",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "The Fall of Aether Station",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Project Delta",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Himno",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Kingdom of the Dead",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Sakuna: Of Rice and Ruin",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Demon's Crest",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Quester",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "The Legend of Tian Ding",
+      "state": "excluded",
+      "reason": "Explicit genre/identity review; not promoted merely to increase the count."
+    },
+    {
+      "candidate": "Mini Knight",
+      "state": "excluded",
+      "reason": "The named candidate is ambiguous; the returned Mini Knight's Journey is not assumed to be the intended game."
+    },
+    {
+      "candidate": "Magenta Horizon",
+      "state": "excluded",
+      "reason": "Excellent stage-based character-action game, but not a Metroidvania. Retained in the discovery ledger rather than mislabeled."
+    },
+    {
+      "candidate": "Saviorless",
+      "state": "excluded",
+      "reason": "Narrative platformer, not a traditional Metroidvania."
+    },
+    {
+      "candidate": "Bionic Bay",
+      "state": "excluded",
+      "reason": "Level-based puzzle platformer, not a persistent-world Metroidvania."
+    },
+    {
+      "candidate": "Big Hops",
+      "state": "excluded",
+      "reason": "Collectathon platforming rather than a persistent ability-gated Metroidvania."
+    },
+    {
+      "candidate": "The Spirit of the Samurai",
+      "state": "excluded",
+      "reason": "Narrative action platformer, not a traditional Metroidvania."
+    },
+    {
+      "candidate": "Windswept",
+      "state": "excluded",
+      "reason": "Primarily a level-based platformer rather than a persistent labyrinth."
+    },
+    {
+      "candidate": "Valley",
+      "state": "excluded",
+      "reason": "A linear first-person adventure; not promoted as a traditional Metroidvania."
+    },
+    {
+      "candidate": "Brave Earth: Prologue",
+      "state": "excluded",
+      "reason": "Stage-based Castlevania-style action, not a Metroidvania."
+    },
+    {
+      "candidate": "Lords of Exile",
+      "state": "excluded",
+      "reason": "Stage-based action platformer, not a Metroidvania."
+    },
+    {
+      "candidate": "Bail Force: Cyberpunk Bounty Hunters",
+      "state": "excluded",
+      "reason": "Run-based action roguelite, not a Metroidvania."
+    },
+    {
+      "candidate": "Super Metroid",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Shinsekai: Into the Depths",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Shantae",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Treasure Adventure Game",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Momodora II",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Lyle in Cube Sector",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Metroid Prime Remastered",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Metroid Prime 4: Beyond",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Savior",
+      "state": "reconciled",
+      "canonical": "Savior"
+    },
+    {
+      "candidate": "Sunset Land",
+      "state": "reconciled",
+      "canonical": "Sunset Land"
+    },
+    {
+      "candidate": "Distant Paradise",
+      "state": "reconciled",
+      "canonical": "Silent Paradise Anthology"
+    },
+    {
+      "candidate": "An Untitled Story",
+      "state": "reconciled",
+      "canonical": "An Untitled Story"
+    },
+    {
+      "candidate": "Eagle Island",
+      "state": "reconciled",
+      "canonical": "Eagle Island"
+    },
+    {
+      "candidate": "The Light of the Darkness",
+      "state": "reconciled",
+      "canonical": "The Light of the Darkness: Renascence"
+    },
+    {
+      "candidate": "Kotama&Academy Citadel",
+      "state": "reconciled",
+      "canonical": "Kotama&Academy Citadel"
+    },
+    {
+      "candidate": "Grime 2",
+      "state": "reconciled",
+      "canonical": "GRIME II"
+    }
+  ],
+  "duplicateCandidates": [
+    {
+      "candidate": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
+      "canonicalCandidate": "Record of Lodoss War-Deedlit in Wonder Labyrinth-"
+    },
+    {
+      "candidate": "REDO!",
+      "canonicalCandidate": "Redo!"
+    },
+    {
+      "candidate": "Bo: Path of the Teal Lotus",
+      "canonicalCandidate": "Bo: Path of the Teal Lotus"
+    },
+    {
+      "candidate": "Bo: Path of the Teal Lotus",
+      "canonicalCandidate": "Bo: Path of the Teal Lotus"
+    },
+    {
+      "candidate": "AWAKEN - Astral Blade",
+      "canonicalCandidate": "Awaken: Astral Blade"
+    },
+    {
+      "candidate": "Rusted Moss",
+      "canonicalCandidate": "Rusted Moss"
+    },
+    {
+      "candidate": "Ultros",
+      "canonicalCandidate": "Ultros"
+    },
+    {
+      "candidate": "9 Years of Shadows",
+      "canonicalCandidate": "Nine Years of Shadows"
+    },
+    {
+      "candidate": "Aestik",
+      "canonicalCandidate": "Aestik"
+    },
+    {
+      "candidate": "BLADE CHIMERA",
+      "canonicalCandidate": "Blade Chimera"
+    },
+    {
+      "candidate": "Bō: Path of the Teal Lotus",
+      "canonicalCandidate": "Bo: Path of the Teal Lotus"
+    },
+    {
+      "candidate": "Gestalt: Steam & Cinder",
+      "canonicalCandidate": "Gestalt: Steam & Cinder"
+    },
+    {
+      "candidate": "Tales of Kenzera: ZAU",
+      "canonicalCandidate": "Zau"
+    },
+    {
+      "candidate": "Mobius Machine",
+      "canonicalCandidate": "The Mobius Machine"
+    },
+    {
+      "candidate": "Biomorph",
+      "canonicalCandidate": "BIOMORPH"
+    },
+    {
+      "candidate": "The Devil Within: Satgat",
+      "canonicalCandidate": "The Devil Within: Satgat"
+    },
+    {
+      "candidate": "Ender Magnolia: Bloom in the Mist",
+      "canonicalCandidate": "ENDER MAGNOLIA: Bloom in the Mist"
+    },
+    {
+      "candidate": "Mandragora: Whispers of the Witch Tree",
+      "canonicalCandidate": "Mandragora: Whispers of the Witch Tree"
+    },
+    {
+      "candidate": "Shadow Labyrinth",
+      "canonicalCandidate": "Shadow Labyrinth"
+    },
+    {
+      "candidate": "Hollow Knight: Silksong",
+      "canonicalCandidate": "Hollow Knight: Silksong"
+    },
+    {
+      "candidate": "Aeterna Lucis",
+      "canonicalCandidate": "Aeterna Lucis"
+    },
+    {
+      "candidate": "A Sister's Journey",
+      "canonicalCandidate": "A Sister's Journey"
+    },
+    {
+      "candidate": "Isles of Sea and Sky",
+      "canonicalCandidate": "Akurra"
+    },
+    {
+      "candidate": "ANIMAL WELL",
+      "canonicalCandidate": "ANIMAL WELL"
+    },
+    {
+      "candidate": "Beyond the Ice Palace II",
+      "canonicalCandidate": "Beyond the Ice Palace 2"
+    },
+    {
+      "candidate": "BioMorph",
+      "canonicalCandidate": "BIOMORPH"
+    },
+    {
+      "candidate": "Deviator",
+      "canonicalCandidate": "Deviator"
+    },
+    {
+      "candidate": "Elderand",
+      "canonicalCandidate": "Elderand"
+    },
+    {
+      "candidate": "Exil",
+      "canonicalCandidate": "Exil"
+    },
+    {
+      "candidate": "Gestalt: Steam & Cinder",
+      "canonicalCandidate": "Gestalt: Steam & Cinder"
+    },
+    {
+      "candidate": "Goo Keeper",
+      "canonicalCandidate": "Goo Keeper"
+    },
+    {
+      "candidate": "Hollow Knight: Silksong",
+      "canonicalCandidate": "Hollow Knight: Silksong"
+    },
+    {
+      "candidate": "Lone Fungus: Melody of Spores",
+      "canonicalCandidate": "Lone Fungus: Melody of Spores"
+    },
+    {
+      "candidate": "LUCID",
+      "canonicalCandidate": "Lucid"
+    },
+    {
+      "candidate": "Mandragora: Whispers of the Witch Tree",
+      "canonicalCandidate": "Mandragora: Whispers of the Witch Tree"
+    },
+    {
+      "candidate": "Moadra",
+      "canonicalCandidate": "Moadra"
+    },
+    {
+      "candidate": "Plague Huntress",
+      "canonicalCandidate": "Plague Huntress"
+    },
+    {
+      "candidate": "Rusted Moss",
+      "canonicalCandidate": "Rusted Moss"
+    },
+    {
+      "candidate": "Rune Fencer Illyia",
+      "canonicalCandidate": "Rune Fencer Illyia"
+    },
+    {
+      "candidate": "Savior",
+      "canonicalCandidate": "Savior"
+    },
+    {
+      "candidate": "The Spirit of the Samurai",
+      "canonicalCandidate": "The Spirit of the Samurai"
+    },
+    {
+      "candidate": "Voidwrought",
+      "canonicalCandidate": "Voidwrought"
+    },
+    {
+      "candidate": "Trinity Fusion",
+      "canonicalCandidate": "Trinity Fusion"
+    },
+    {
+      "candidate": "A Sister's Journey",
+      "canonicalCandidate": "A Sister's Journey"
+    },
+    {
+      "candidate": "Fallen Tear: The Ascension",
+      "canonicalCandidate": "Fallen Tear: The Ascension"
+    },
+    {
+      "candidate": "Crowsworn",
+      "canonicalCandidate": "Crowsworn"
+    },
+    {
+      "candidate": "The Last Faith",
+      "canonicalCandidate": "The Last Faith"
+    },
+    {
+      "candidate": "Bo: Path of the Teal Lotus",
+      "canonicalCandidate": "Bo: Path of the Teal Lotus"
+    },
+    {
+      "candidate": "Timespinner 2: Unwoven Dream",
+      "canonicalCandidate": "Timespinner 2: Unwoven Dream"
+    },
+    {
+      "candidate": "The Doomed Knight",
+      "canonicalCandidate": "Doomed Knight"
+    },
+    {
+      "candidate": "Gestalt: Steam & Cinder",
+      "canonicalCandidate": "Gestalt: Steam & Cinder"
+    },
+    {
+      "candidate": "Constance",
+      "canonicalCandidate": "Constance"
+    },
+    {
+      "candidate": "Lucid",
+      "canonicalCandidate": "Lucid"
+    },
+    {
+      "candidate": "Crowsworn",
+      "canonicalCandidate": "Crowsworn"
+    },
+    {
+      "candidate": "Lone Fungus: Melody of Spores",
+      "canonicalCandidate": "Lone Fungus: Melody of Spores"
+    },
+    {
+      "candidate": "Savior",
+      "canonicalCandidate": "Savior"
+    },
+    {
+      "candidate": "Echo Weaver",
+      "canonicalCandidate": "Echo Weaver"
+    },
+    {
+      "candidate": "Well Dweller",
+      "canonicalCandidate": "Well Dweller"
+    },
+    {
+      "candidate": "Mystik Belle: Enchanted Edition",
+      "id": "steam:332610",
+      "canonicalCandidate": "Mystik Belle: Enchanted Edition"
+    }
+  ],
+  "unresolved": [
+    {
+      "candidate": "Alice in Abyss",
+      "collection": "Combat, parries & beautiful worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Super Zangyura",
+      "collection": "Retro castles & pixel-art adventures",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "XeoDusk",
+      "collection": "Short, sweet & miniature worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Plague Huntress",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Sorrow of the Infernal",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Vigilant: The Lunar Rebellion",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Grim Symphony",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 1407810,
+          "name": "Fantasy Grounds - Pathfinder 2 RPG - Pathfinder Society Scenario #1-25: Grim Symphony"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Silhouette: Animal",
+      "collection": "Upcoming & playable demo watchlist",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Silhouette: Dawn of the Forest",
+      "collection": "Upcoming & playable demo watchlist",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "OVERHORIZON",
+      "collection": "Upcoming & playable demo watchlist",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Outland",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 2073220,
+          "name": "Outland Kingdoms"
+        },
+        {
+          "appid": 1361900,
+          "name": "Outland Rapture"
+        },
+        {
+          "appid": 4228480,
+          "name": "Rustborn - Outland Threat Prologue"
+        },
+        {
+          "appid": 3745430,
+          "name": "Rustborn - Outland Threat"
+        },
+        {
+          "appid": 2402530,
+          "name": "Outland Rogue - A Wicked but Serious RPG"
+        },
+        {
+          "appid": 3294060,
+          "name": "AN OUTLAND VILLAGE"
+        },
+        {
+          "appid": 4199480,
+          "name": "Outlanders - Exiles of Veridion"
+        },
+        {
+          "appid": 1766720,
+          "name": "Outlanders"
+        },
+        {
+          "appid": 862450,
+          "name": "Hand of Fate 2 - Outlands and Outsiders"
+        },
+        {
+          "appid": 4873850,
+          "name": "Outlanders VR"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Environmental Station Alpha 2",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Overon",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    }
+  ]
+}
