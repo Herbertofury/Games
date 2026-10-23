@@ -8,7 +8,7 @@
 
 **Search, filters, sortable ratings, embedded trailers, full galleries, favorites, private notes, and comparison.** All records below use the same source snapshot as the app. The portable HTML works without a web server; the hosted address requires GitHub Pages to be enabled.
 
-**170 unique entries** · [Playable now](https://herbertofury.github.io/Games/#hub=Roguelites&playable=true) · [Newest releases](https://herbertofury.github.io/Games/#hub=Roguelites&playable=true&sort=newest) · [Hidden gems](https://herbertofury.github.io/Games/#hub=Roguelites&hidden=true) · [Beyond Steam](https://herbertofury.github.io/Games/#hub=Roguelites&offSteam=true)
+**198 unique entries** · [Playable now](https://herbertofury.github.io/Games/#hub=Roguelites&playable=true) · [Newest releases](https://herbertofury.github.io/Games/#hub=Roguelites&playable=true&sort=newest) · [Hidden gems](https://herbertofury.github.io/Games/#hub=Roguelites&hidden=true) · [Beyond Steam](https://herbertofury.github.io/Games/#hub=Roguelites&offSteam=true)
 
 Full releases, Early Access, demos, prototypes, mods, and future releases are labelled separately. Recent patches do not replace original launch dates. Recommendations are researched editorial judgments, not claims of hands-on testing.
 
@@ -16,6 +16,19 @@ Full releases, Early Access, demos, prototypes, mods, and future releases are la
 
 <table>
 <tr>
+<td width="33%" valign="top">
+
+[![Hades](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023)](Game-1145360-Hades)
+
+**[Hades](Game-1145360-Hades)**
+
+10/10 recommendation · Released
+
+Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.
+
+[Official page](https://store.steampowered.com/app/1145360/) · [Trailers & gallery](https://herbertofury.github.io/Games/#game=steam%3A1145360)
+
+</td>
 <td width="33%" valign="top">
 
 [![Vampire Survivors](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/2ca07b690dde645771125ed9d9206c4c5fde4dd4/header.jpg?t=1787911678)](Game-1794680-Vampire-Survivors)
@@ -29,6 +42,21 @@ Mow down thousands of night creatures and survive until dawn! Vampire Survivors 
 [Official page](https://store.steampowered.com/app/1794680/) · [Trailers & gallery](https://herbertofury.github.io/Games/#game=steam%3A1794680)
 
 </td>
+<td width="33%" valign="top">
+
+[![Dead Cells](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg?t=1779086887)](Game-588650-Dead-Cells)
+
+**[Dead Cells](Game-588650-Dead-Cells)**
+
+10/10 recommendation · Released
+
+A high-priority action-roguelite crossover where traversal and combat execution work inside repeatable runs.
+
+[Official page](https://store.steampowered.com/app/588650/) · [Trailers & gallery](https://herbertofury.github.io/Games/#game=steam%3A588650)
+
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 [![Brotato](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/f98281910016f8924be37cce3d4b119f5223a358/header.jpg?t=1789029155)](Game-1942280-Brotato)
@@ -55,8 +83,6 @@ Slay hordes of terrifying monsters in this horde survival roguelite. Descend int
 [Official page](https://store.steampowered.com/app/2218750/) · [Trailers & gallery](https://herbertofury.github.io/Games/#game=steam%3A2218750)
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 [![Soulstone Survivors](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066020/5ad29fb819dc6d01f1b239f4b9058b0c0cc445f8/header_alt_assets_2.jpg?t=1789657097)](Game-2066020-Soulstone-Survivors)
@@ -68,6 +94,21 @@ Slay hordes of terrifying monsters in this horde survival roguelite. Descend int
 Face the Lords of the Void and their endless minions, collect their Soulstones and become a god! In this Action Roguelite, unveil secret spells, craft mighty weapons, unlock multiple characters, discover game-breaking synergies and conquer the power of the void.
 
 [Official page](https://store.steampowered.com/app/2066020/) · [Trailers & gallery](https://herbertofury.github.io/Games/#game=steam%3A2066020)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+[![Spelunky 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/header.jpg?t=1663719294)](Game-418530-Spelunky-2)
+
+**[Spelunky 2](Game-418530-Spelunky-2)**
+
+10/10 recommendation · Released
+
+A central procedural-platforming reference: movement judgment, systemic interactions and risk management make knowledge valuable even when a run ends.
+
+[Official page](https://store.steampowered.com/app/418530/) · [Trailers & gallery](https://herbertofury.github.io/Games/#game=steam%3A418530)
 
 </td>
 <td width="33%" valign="top">
@@ -85,56 +126,15 @@ Descend the nether in search of Death himself! Choose from God-given powers to s
 </td>
 <td width="33%" valign="top">
 
-[![Tiny Rogues](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/header.jpg?t=1788537523)](Game-2088570-Tiny-Rogues)
+[![Spelunky](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239350/header.jpg?t=1632912566)](Game-239350-Spelunky)
 
-**[Tiny Rogues](Game-2088570-Tiny-Rogues)**
-
-10/10 recommendation · Early Access
-
-Tiny Rogues is a challenging fantasy rogue-lite bullet-hell dungeon crawler with rpg elements. Build a new unique character each run and fight one monster-infested room after another! Discover unique weapons, collect magical items and level up to become more and more powerful!
-
-[Official page](https://store.steampowered.com/app/2088570/) · [Trailers & gallery](https://herbertofury.github.io/Games/#game=steam%3A2088570)
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-[![Chronicon](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/header.jpg?t=1790762647)](Game-375480-Chronicon)
-
-**[Chronicon](Game-375480-Chronicon)**
+**[Spelunky](Game-239350-Spelunky)**
 
 10/10 recommendation · Released
 
-Use the magical device known as the Chronicon to travel into the souls and memories of fallen heroes to re-live their grand tales! Epic adventures full of loot and monsters await!
+Procedural runs, execution under uncertainty and meaningful build or route decisions.
 
-[Official page](https://store.steampowered.com/app/375480/) · [Trailers & gallery](https://herbertofury.github.io/Games/#game=steam%3A375480)
-
-</td>
-<td width="33%" valign="top">
-
-[![Rogue: Genesia](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/header.jpg?t=1791922734)](Game-2067920-Rogue-Genesia)
-
-**[Rogue: Genesia](Game-2067920-Rogue-Genesia)**
-
-10/10 recommendation · Released
-
-Walk upon a new world and slay foes endangering it. Rogue : Genesia is an action rogue-lite game, where you fight relentless hordes consisting of hundreds and thousands of monsters, make your build, break the balance, defeat bosses and save one of the many worlds.
-
-[Official page](https://store.steampowered.com/app/2067920/) · [Trailers & gallery](https://herbertofury.github.io/Games/#game=steam%3A2067920)
-
-</td>
-<td width="33%" valign="top">
-
-[![Jotunnslayer: Hordes of Hel](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/header.jpg?t=1789633603)](Game-2820820-Jotunnslayer-Hordes-of-Hel)
-
-**[Jotunnslayer: Hordes of Hel](Game-2820820-Jotunnslayer-Hordes-of-Hel)**
-
-10/10 recommendation · Released
-
-Hordes of Hel is a gripping roguelike horde-survivor game set in the dark realms of Norse Mythology. Fight waves of enemies to earn divine blessings of ancient Viking Deities, explore hostile worlds and face powerful bosses. Become a god-like warrior in this ultimate showdown.
-
-[Official page](https://store.steampowered.com/app/2820820/) · [Trailers & gallery](https://herbertofury.github.io/Games/#game=steam%3A2820820)
+[Official page](https://store.steampowered.com/app/239350/) · [Trailers & gallery](https://herbertofury.github.io/Games/#game=steam%3A239350)
 
 </td>
 </tr>
@@ -146,6 +146,7 @@ Hordes of Hel is a gripping roguelike horde-survivor game set in the dark realms
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
+| [Hades](Game-1145360-Hades) | 10/10 | 98.0% / 310,301 Steam reviews | Sep 17, 2020 · Released | [Steam](https://store.steampowered.com/app/1145360/) |
 | [Tiny Rogues](Game-2088570-Tiny-Rogues) | 10/10 | 96.0% / 10,814 Steam reviews | Sep 23, 2022 · Early Access | [Steam](https://store.steampowered.com/app/2088570/) |
 | [Hades II](Game-1145350-Hades-II) | 9/10 | 95.7% / 124,458 Steam reviews | Sep 25, 2025 · Released | [Steam](https://store.steampowered.com/app/1145350/) |
 | [Shape of Dreams](Game-2444750-Shape-of-Dreams) | 9/10 | 90.0% / 21,424 Steam reviews | Sep 10, 2025 · Released | [Steam](https://store.steampowered.com/app/2444750/) |
@@ -323,6 +324,38 @@ Hordes of Hel is a gripping roguelike horde-survivor game set in the dark realms
 | [Wireworks](Game-4206270-Wireworks) | 6/10 | 89.6% / 645 Steam reviews | Mar 9, 2026 · Released | [Steam](https://store.steampowered.com/app/4206270/) |
 | [Pixel Survivors: Defense](Game-3878090-Pixel-Survivors-Defense) | 6/10 | 87.2% / 86 Steam reviews | Oct 13, 2026 · Released | [Steam](https://store.steampowered.com/app/3878090/) |
 | [Deck of Destiny: Battleforge](Game-3167610-Deck-of-Destiny-Battleforge) | 6/10 | 72.7% / 11 Steam reviews | Jan 24, 2026 · Released | [Steam](https://store.steampowered.com/app/3167610/) |
+
+### Roguelite platformers
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Dead Cells](Game-588650-Dead-Cells) | 10/10 | 97.0% / 184,520 Steam reviews | Aug 6, 2018 · Released | [Steam](https://store.steampowered.com/app/588650/) |
+| [Spelunky 2](Game-418530-Spelunky-2) | 10/10 | 92.8% / 22,065 Steam reviews | Sep 29, 2020 · Released | [Steam](https://store.steampowered.com/app/418530/) |
+| [Spelunky](Game-239350-Spelunky) | 10/10 | 92.1% / 16,696 Steam reviews | Aug 8, 2013 · Released | [Steam](https://store.steampowered.com/app/239350/) |
+| [Rogue Legacy 2](Game-1253920-Rogue-Legacy-2) | 10/10 | 90.8% / 15,183 Steam reviews | Apr 28, 2022 · Released | [Steam](https://store.steampowered.com/app/1253920/) |
+| [Noita](Game-881100-Noita) | 9/10 | 95.1% / 89,501 Steam reviews | Oct 15, 2020 · Released | [Steam](https://store.steampowered.com/app/881100/) |
+| [Skul: The Hero Slayer](Game-1147560-Skul-The-Hero-Slayer) | 9/10 | 93.3% / 57,744 Steam reviews | Jan 20, 2021 · Released | [Steam](https://store.steampowered.com/app/1147560/) |
+| [Risk of Rain Returns](Game-1337520-Risk-of-Rain-Returns) | 9/10 | 90.0% / 28,786 Steam reviews | Nov 8, 2023 · Released | [Steam](https://store.steampowered.com/app/1337520/) |
+| [Rogue Legacy](Game-241600-Rogue-Legacy) | 9/10 | 92.3% / 18,875 Steam reviews | Jun 27, 2013 · Released | [Steam](https://store.steampowered.com/app/241600/) |
+| [Astral Ascent](Game-1280930-Astral-Ascent) | 9/10 | 94.5% / 8,702 Steam reviews | Nov 14, 2023 · Released | [Steam](https://store.steampowered.com/app/1280930/) |
+| [30XX](Game-1029210-30XX) | 9/10 | 90.3% / 2,830 Steam reviews | Aug 9, 2023 · Released | [Steam](https://store.steampowered.com/app/1029210/) |
+| [Revita](Game-1175460-Revita) | 9/10 | 81.1% / 2,441 Steam reviews | Apr 21, 2022 · Released | [Steam](https://store.steampowered.com/app/1175460/) |
+| [Spiritfall](Game-1835240-Spiritfall) | 9/10 | 92.7% / 2,008 Steam reviews | Feb 28, 2024 · Released | [Steam](https://store.steampowered.com/app/1835240/) |
+| [Neon Abyss](Game-788100-Neon-Abyss) | 8/10 | 85.8% / 23,641 Steam reviews | Jul 14, 2020 · Released | [Steam](https://store.steampowered.com/app/788100/) |
+| [Have a Nice Death](Game-1740720-Have-a-Nice-Death) | 8/10 | 85.8% / 10,842 Steam reviews | Mar 22, 2023 · Released | [Steam](https://store.steampowered.com/app/1740720/) |
+| [Dungreed](Game-753420-Dungreed) | 8/10 | 93.3% / 9,624 Steam reviews | Feb 14, 2018 · Released | [Steam](https://store.steampowered.com/app/753420/) |
+| [20XX](Game-322110-20XX) | 8/10 | 90.8% / 4,594 Steam reviews | Aug 16, 2017 · Released | [Steam](https://store.steampowered.com/app/322110/) |
+| [ScourgeBringer](Game-1037020-ScourgeBringer) | 8/10 | 86.3% / 3,296 Steam reviews | Oct 21, 2020 · Released | [Steam](https://store.steampowered.com/app/1037020/) |
+| [Fury Unleashed](Game-465200-Fury-Unleashed) | 8/10 | 87.2% / 2,934 Steam reviews | May 8, 2020 · Released | [Steam](https://store.steampowered.com/app/465200/) |
+| [Oblivion Override](Game-1952370-Oblivion-Override) | 8/10 | 91.2% / 2,064 Steam reviews | Jan 24, 2024 · Released | [Steam](https://store.steampowered.com/app/1952370/) |
+| [Trinity Fusion](Game-1911360-Trinity-Fusion) | 8/10 | 85.0% / 919 Steam reviews | Dec 15, 2023 · Released | [Steam](https://store.steampowered.com/app/1911360/) |
+| [Rising Hell](Game-657000-Rising-Hell) | 8/10 | 88.7% / 318 Steam reviews | May 19, 2021 · Released | [Steam](https://store.steampowered.com/app/657000/) |
+| [Metal Unit](Game-1173200-Metal-Unit) | 7/10 | 82.8% / 2,910 Steam reviews | Jan 27, 2021 · Released | [Steam](https://store.steampowered.com/app/1173200/) |
+| [Neon Abyss 2](Game-2235200-Neon-Abyss-2) | 7/10 | 71.0% / 2,644 Steam reviews | Oct 7, 2026 · Released | [Steam](https://store.steampowered.com/app/2235200/) |
+| [Blade Assault](Game-1367300-Blade-Assault) | 7/10 | 73.7% / 2,299 Steam reviews | Jan 17, 2022 · Released | [Steam](https://store.steampowered.com/app/1367300/) |
+| [Flinthook](Game-401710-Flinthook) | 7/10 | 74.1% / 842 Steam reviews | Apr 18, 2017 · Released | [Steam](https://store.steampowered.com/app/401710/) |
+| [Never Grave: The Witch and The Curse](Game-2395770-Never-Grave-The-Witch-and-The-Curse) | 7/10 | 72.5% / 679 Steam reviews | Mar 4, 2026 · Released | [Steam](https://store.steampowered.com/app/2395770/) |
+| [Elsie](Game-1515570-Elsie) | 7/10 | 78.4% / 74 Steam reviews | Sep 10, 2024 · Released | [Steam](https://store.steampowered.com/app/1515570/) |
 
 ### Sci-fi & machines
 

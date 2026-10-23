@@ -97,7 +97,7 @@ def main():
     seeds=list(csv.DictReader((ROOT/'data/seeds.tsv').open(),delimiter='\t'))
     assert len({s['appid'] for s in seeds})==len(seeds),'Duplicate seed IDs'
     target=ROOT/'data/catalog.json';old={}
-    if target.exists():old={str(g['seedId']):g for g in json.loads(target.read_text()).get('items',[])}
+    if target.exists():old={str(g.get('seedId') or g.get('appid')):g for g in json.loads(target.read_text()).get('items',[]) if g.get('seedId') or g.get('appid')}
     out=[]
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
         jobs={pool.submit(resolve,s,old,args.force):s for s in seeds}

@@ -1,0 +1,18 @@
+{
+  "addedOriginalSeeds": [
+    "steam:1145360"
+  ],
+  "reviewedAliases": [
+    {
+      "appid": 411970,
+      "source": "https://store.steampowered.com/app/411970/",
+      "note": "Official description identifies the Bush Rescue remaster."
+    },
+    {
+      "appid": 411980,
+      "source": "https://store.steampowered.com/app/411980/",
+      "note": "Official description identifies the Night of the Quinkan remaster."
+    }
+  ],
+  "originalSeedCount": 171
+}

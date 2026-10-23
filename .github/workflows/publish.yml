@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','scripts/source_links.py','scripts/curate_rts.py','scripts/enrich_rts.py','scripts/collect_rts.py','data/rts-*.json','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json','data/media-completion.json','data/storefront-discovery.json','data/source-editions.json','.github/workflows/publish.yml']
+    paths: ['data/platformers-*','scripts/platformer*.py','scripts/collect_platformers.py','docs/PLATFORMERS-STUDY.md','site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','scripts/source_links.py','scripts/curate_rts.py','scripts/enrich_rts.py','scripts/collect_rts.py','data/rts-*.json','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json','data/media-completion.json','data/storefront-discovery.json','data/source-editions.json','.github/workflows/publish.yml']
   workflow_run:
     workflows: ['Refresh Steam catalog','Add game recommendation','Install library source','Expand shooter library','Refresh shooter discoveries','Refresh RTS discoveries','Enrich RTS collection']
     types: [completed]
@@ -38,6 +38,7 @@ jobs:
           python3 scripts/collect_external_media.py
           python3 scripts/build.py
           node --check site/app.js
+          node --check site/platformers.js
           python3 -m unittest discover -s tests -p 'test_*.py'
       - name: Install browser QA dependencies
         run: |
@@ -59,6 +60,7 @@ jobs:
           python3 tests/multiplatform_qa.py
           python3 tests/source_completion_qa.py
           python3 tests/rts_qa.py
+          python3 tests/platformers_qa.py
           cp qa/live-media/*.png qa/
       - name: Publish native wiki
         env:
@@ -84,6 +86,7 @@ jobs:
           cp qa/desktop.png qa/mobile.png qa/detail.png docs/qa/
           cp qa/shooters-*.png docs/qa/
           cp qa/rts-*.png docs/qa/
+          cp qa/platformers-*.png docs/qa/
           TESTED_HTML_SHA=$(sha256sum dist/index.html | cut -d' ' -f1)
           python3 scripts/build.py
           test "$TESTED_HTML_SHA" = "$(sha256sum dist/index.html | cut -d' ' -f1)"
@@ -92,7 +95,7 @@ jobs:
           git add dist wiki data
           git add -f docs/qa
           if ! git diff --cached --quiet; then
-            git commit -m 'Publish verified RTS command center, complete media atlas, and full-library runtime evidence'
+            git commit -m 'Publish verified platformer study and full-library runtime evidence'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
@@ -101,7 +104,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           TAG="catalog-${GITHUB_RUN_NUMBER}"
-          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title 'Games - Living Library' --notes-file docs/RELEASE.md --target main
+          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title 'Games - Living Library with Platformers' --notes-file docs/RELEASE.md --target main
           gh release upload "$TAG" 'release/Games - Explorer.html' 'release/Games - Library.zip' release/SHA256SUMS.txt --clobber
           gh release view "$TAG" --json url,assets > qa/release-publication.json
       - uses: actions/upload-pages-artifact@v3

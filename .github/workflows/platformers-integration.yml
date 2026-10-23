@@ -1,0 +1,93 @@
+name: Verify platformer integration
+on:
+  workflow_dispatch:
+  push:
+    branches: [platformers-study-2026-10-23]
+    paths:
+      - .github/workflows/platformers-integration.yml
+      - scripts/install_platformers.py
+      - scripts/finalize_platformer_sources.py
+      - scripts/platformer_model.py
+      - scripts/platformer_study.py
+      - site/platformers.*
+      - tests/test_platformers.py
+      - tests/platformers_qa.py
+      - docs/PLATFORMERS-STUDY.md
+permissions:
+  contents: write
+concurrency:
+  group: platformer-integration
+  cancel-in-progress: true
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Preserve current main and apply guarded integration
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git fetch origin main
+          git merge-base --is-ancestor origin/main HEAD || git merge --no-edit origin/main
+          python3 -m pip install -r requirements-dev.txt
+          python3 scripts/install_platformers.py
+          python3 scripts/prepare_parallel_collections.py
+          python3 scripts/finalize_platformer_sources.py
+          python3 scripts/complete_platformer_media.py
+          python3 scripts/build.py
+          node --check site/app.js
+          node --check site/platformers.js
+          python3 -m unittest discover -s tests -p 'test_*.py'
+          git diff --exit-code -- .github/workflows
+      - name: Configure actual Chromium
+        run: |
+          if command -v google-chrome >/dev/null; then
+            echo "CHROMIUM_PATH=$(command -v google-chrome)" >> "$GITHUB_ENV"
+            google-chrome --version
+          else
+            python3 -m playwright install --with-deps chromium
+          fi
+      - name: Verify every platformer and real media
+        run: python3 tests/platformers_qa.py
+      - name: Preserve all earlier collection workflows
+        run: |
+          python3 tests/browser_qa.py
+          python3 tests/multiplatform_qa.py
+          python3 tests/source_completion_qa.py
+          python3 tests/rts_qa.py
+      - name: Persist tested integration and reproducible generated views
+        run: |
+          mkdir -p docs/qa
+          cp qa/platformers-qa.json qa/platformers-source-finalization.json docs/qa/
+          cp qa/platformers-*.png docs/qa/
+          TESTED_HTML_SHA=$(sha256sum dist/index.html | cut -d' ' -f1)
+          python3 scripts/build.py
+          test "$TESTED_HTML_SHA" = "$(sha256sum dist/index.html | cut -d' ' -f1)"
+          git add site scripts tests docs README.md data
+          git add -f dist wiki docs/qa/platformers-*
+          if ! git diff --cached --quiet; then
+            git commit -m 'Integrate the verified platformer study, complete dossiers, media atlas and browser evidence'
+            git fetch origin "${GITHUB_REF_NAME}"
+            git merge --no-edit "origin/${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: platformers-integrated-library-and-qa
+          path: |
+            release/
+            qa/
+            data/platformers-*
+            scripts/platformer*.py
+            scripts/install_platformers.py
+            tests/test_platformers.py
+            tests/platformers_qa.py
+            site/platformers.*
+            docs/PLATFORMERS-STUDY.md

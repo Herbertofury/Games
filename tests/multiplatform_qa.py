@@ -16,7 +16,7 @@ try:
  with sync_playwright() as p:
   b=p.chromium.launch(headless=True,executable_path=os.environ.get('CHROMIUM_PATH') or shutil.which('chromium'),args=['--no-sandbox']);ctx=b.new_context(viewport={'width':1536,'height':1100},accept_downloads=True,reduced_motion='reduce');page=ctx.new_page();page.on('pageerror',lambda e:report['errors'].append(str(e)));page.set_default_timeout(15000)
   url=f'http://127.0.0.1:{port}/';page.goto(url,wait_until='domcontentloaded');page.wait_for_function('window.GamesTest')
-  page.locator('[data-hub="Roguelites"]').click();check('All 170 original recommendations remain in their genre',len(page.evaluate('GamesTest.filtered'))==170)
+  page.locator('[data-hub="Roguelites"]').click();check('All canonical roguelite recommendations remain in their genre',len(page.evaluate('GamesTest.filtered'))==sum('Roguelites' in g.get('hubs',[]) for g in by.values()))
   page.locator('[data-hub="Boomer shooters"]').click();check('Shooter hub has every accepted record',page.locator('.game-card').count()==expected)
   page.locator('[data-action=filters]').click();check('Ordinary controls do not activate the body theme attribute as a genre',page.evaluate("GamesTest.state.hub==='Boomer shooters' && GamesTest.filtered.length==="+str(expected)));page.locator('#f-provider').select_option('itch.io');ids=page.evaluate('GamesTest.filtered');check('Provider filter includes exact official alternate stores',bool(ids) and all(any(s['provider']=='itch.io' for s in by[i]['storefronts']) for i in ids))
   page.locator('#f-rating').select_option('90');ids=page.evaluate('GamesTest.filtered');check('Steam percentage filter does not invent non-Steam scores',all(by[i].get('steamUrl') and by[i]['rating']>=90 for i in ids))

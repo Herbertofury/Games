@@ -117,7 +117,7 @@ def build_wiki(root,catalog):
     for g in games:
         s=f"# {m(g['name'])}\n\n"
         if g.get('image'):s+=f"![{m(g['name'])} official artwork]({g['image']})\n\n"
-        s+=f"**[Open official page]({primary(g)})** · **[Watch trailers and open gallery]({link({'game':g['id']})})** · "+' · '.join('[Real-time strategy](Real-Time-Strategy)' if h=='Real-time strategy' else '[Boomer shooters](Boomer-Shooters)' if h=='Boomer shooters' else '[Roguelites](Roguelites)' for h in g.get('hubs',[]))+'\n\n'
+        s+=f"**[Open official page]({primary(g)})** · **[Watch trailers and open gallery]({link({'game':g['id']})})** · "+' · '.join('[Real-time strategy](Real-Time-Strategy)' if h=='Real-time strategy' else '[Boomer shooters](Boomer-Shooters)' if h=='Boomer shooters' else '[Platformers](Platformers)' if h=='Platformers' else '[Roguelites](Roguelites)' for h in g.get('hubs',[]))+'\n\n'
         s+=m(g.get('summary'))+'\n\n'
         if g.get('curatorWhy'):s+='## Why it is here\n\n'+m(g['curatorWhy'])+'\n\n'
         s+='| Field | Value |\n|:--|:--|\n'

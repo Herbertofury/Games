@@ -1,0 +1,142 @@
+{
+  "checkedAt": "2026-10-23T17:09:08.300141+00:00",
+  "records": 19,
+  "withImages": 18,
+  "withVideos": 0,
+  "gaps": [
+    {
+      "id": "external:astro-bot",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:astros-playroom",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:donkey-kong-bananza",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:super-mario-odyssey",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:super-mario-3d-world-bowsers-fury",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:super-mario-galaxy-collection",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:super-mario-bros-wonder",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:super-mario-maker-2",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:dk-tropical-freeze",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:dk-country-returns-hd",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:yoshi-mysterious-book",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:yoshi-crafted-world",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:kirby-forgotten-land",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:kirby-return-dreamland-deluxe",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:metroid-dread",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:celeste-64",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:celeste-classic",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:celeste-classic-2",
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    },
+    {
+      "id": "external:supertux",
+      "warnings": [
+        "Exact artwork not collected; the official project page remains available.",
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "mediaError": null
+    }
+  ]
+}

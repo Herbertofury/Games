@@ -9,7 +9,7 @@ DISDAIN is a fast-paced, visceral retro-styled first person shooter, inspired by
 | Field | Value |
 |:--|:--|
 | Collection | Retro campaigns |
-| Recommendation | 7/10 |
+| Recommendation | Unrated |
 | Community reception | No aggregate rating |
 | Release | Coming soon |
 | Availability | Upcoming |

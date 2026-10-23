@@ -1,0 +1,2823 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T17:27:45.963246+00:00",
+  "hub": "Platformers",
+  "items": [
+    {
+      "id": "external:astro-bot",
+      "appid": null,
+      "seedId": "external:astro-bot",
+      "seedName": "ASTRO BOT",
+      "name": "ASTRO BOT",
+      "collection": "3D worlds & collectathons",
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "A concentrated tour of tactile 3D stage design: movement toys and power-ups introduce a new physical idea before exhausting the old one. A first stop for the authored-course side of the genre.",
+      "curatorWhy": "A concentrated tour of tactile 3D stage design: movement toys and power-ups introduce a new physical idea before exhausting the old one. A first stop for the authored-course side of the genre.",
+      "recommendationCaution": "PS5 game, not ASTRO's Playroom and not the older VR Rescue Mission. Hardware requirements and accessibility options should be checked on this exact product page.",
+      "requirements": "PS5 game, not ASTRO's Playroom and not the older VR Rescue Mission. Hardware requirements and accessibility options should be checked on this exact product page.",
+      "developers": [],
+      "publishers": [
+        "PlayStation"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "3D worlds & collectathons",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "PlayStation 5"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2024-09-06",
+      "releaseLabel": "2024-09-06",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png",
+      "screenshots": [
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/Astro-Bot-key-features-screenshot-06-en-24may24",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/Astro-Bot-key-features-screenshot-06-en-24may24",
+          "alt": "Astro Bot Screenshot - Astro as Kratos",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astro-bot/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/Astro-Bot-key-features-screenshot-02-en-24may24",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/Astro-Bot-key-features-screenshot-02-en-24may24",
+          "alt": "Astro Bot Screenshot through valley",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astro-bot/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/Astro-Bot-key-features-screenshot-04-en-24may24",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/Astro-Bot-key-features-screenshot-04-en-24may24",
+          "alt": "Astro Bot Screenshot - Powerup",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astro-bot/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/Astro-Bot-key-features-screenshot-05-en-24may24",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/Astro-Bot-key-features-screenshot-05-en-24may24",
+          "alt": "Astro Bot Screenshot - Snake monster",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astro-bot/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/Astro-Bot-key-features-screenshot-07-en-24may24",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/Astro-Bot-key-features-screenshot-07-en-24may24",
+          "alt": "Astro Bot Screenshot - Astro with tree",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astro-bot/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Astro Bot - Launch Trailer | PS5 Games",
+          "youtube": "unYFdcEjV9k",
+          "poster": "https://i.ytimg.com/vi_webp/unYFdcEjV9k/maxresdefault.webp",
+          "watchUrl": "https://www.youtube.com/watch?v=unYFdcEjV9k",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astro-bot/",
+          "credit": "PlayStation official game page",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T17:27:45.963246+00:00"
+        },
+        {
+          "name": "Astro Bot - Announcement Trailer | PS5 Games",
+          "youtube": "wHMNQzLG_Jg",
+          "poster": "https://i.ytimg.com/vi_webp/wHMNQzLG_Jg/maxresdefault.webp",
+          "watchUrl": "https://www.youtube.com/watch?v=wHMNQzLG_Jg",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astro-bot/",
+          "credit": "PlayStation official game page",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "primaryUrl": "https://www.playstation.com/en-us/games/astro-bot/",
+      "steamUrl": null,
+      "website": "https://www.playstation.com/en-us/games/astro-bot/",
+      "provider": "PlayStation",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "PlayStation",
+          "url": "https://www.playstation.com/en-us/games/astro-bot/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "PlayStation",
+          "url": "https://www.playstation.com/en-us/games/astro-bot/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.playstation.com/en-us/games/astro-bot/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.playstation.com/en-us/games/astro-bot/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [],
+      "platformerInfo": {
+        "focus": "3D worlds & collectathons",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "PS5 game, not ASTRO's Playroom and not the older VR Rescue Mission. Hardware requirements and accessibility options should be checked on this exact product page.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "93c6daea8af3d90ce592fee2bbcd584409a3665f628c4a4b63b57d410cc22af1"
+    },
+    {
+      "id": "external:astros-playroom",
+      "appid": null,
+      "seedId": "external:astros-playroom",
+      "seedName": "ASTRO's Playroom",
+      "name": "ASTRO's Playroom",
+      "collection": "3D worlds & collectathons",
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A compact platforming introduction built around the PS5 controller. Especially useful as a low-commitment way to find out whether tactile, playful 3D traversal is your thing.",
+      "curatorWhy": "A compact platforming introduction built around the PS5 controller. Especially useful as a low-commitment way to find out whether tactile, playful 3D traversal is your thing.",
+      "recommendationCaution": "Included for PS5 owners, not a free PC download. A separate, smaller game from ASTRO BOT.",
+      "requirements": "Included for PS5 owners, not a free PC download. A separate, smaller game from ASTRO BOT.",
+      "developers": [],
+      "publishers": [
+        "PlayStation"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "3D worlds & collectathons",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "PlayStation 5"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": true,
+      "releaseDate": "2020-11-12",
+      "releaseLabel": "2020-11-12",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1908/3d17c33239dab88c7e2f24af50140b3f6fa555e6030d5704.png",
+      "screenshots": [
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-15-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-15-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-05-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-05-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-03-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-03-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-14-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-14-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-08-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-08-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-11-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-11-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-09-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-09-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-12-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-12-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-07-ps5-en-03aug20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-07-ps5-en-03aug20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-10-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-10-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-13-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-13-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-10-ps5-en-03aug20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-10-ps5-en-03aug20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-01-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-01-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-04-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-04-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-02-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-02-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        },
+        {
+          "src": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-07-disclaimer-en-06oct20",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/astros-playroom-screenshot-07-disclaimer-en-06oct20",
+          "alt": "astro's playground screenshot",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Astros Playroom - Announcement Trailer | PS5",
+          "youtube": "lu5VXrEqgco",
+          "poster": "https://i.ytimg.com/vi_webp/lu5VXrEqgco/maxresdefault.webp",
+          "watchUrl": "https://www.youtube.com/watch?v=lu5VXrEqgco",
+          "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "credit": "PlayStation official game page",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "primaryUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+      "steamUrl": null,
+      "website": "https://www.playstation.com/en-us/games/astros-playroom/",
+      "provider": "PlayStation",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "PlayStation",
+          "url": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "PlayStation",
+          "url": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [],
+      "platformerInfo": {
+        "focus": "3D worlds & collectathons",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Included for PS5 owners, not a free PC download. A separate, smaller game from ASTRO BOT.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "cf7852e4b45aaf82b6076387155cbc2146297cdbca1c0305ae62a989f62c4c62"
+    },
+    {
+      "id": "external:donkey-kong-bananza",
+      "appid": null,
+      "seedId": "external:donkey-kong-bananza",
+      "seedName": "Donkey Kong Bananza",
+      "name": "Donkey Kong Bananza",
+      "collection": "3D worlds & collectathons",
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "Terrain destruction changes how you read a 3D space: the route can be something you excavate rather than a path you merely follow. A major counterpoint to precision corridor platformers.",
+      "curatorWhy": "Terrain destruction changes how you read a 3D space: the route can be something you excavate rather than a path you merely follow. A major counterpoint to precision corridor platformers.",
+      "recommendationCaution": "Switch 2 required. DK Island & Emerald Rush is additional content, not another full base-game entry or an automatic inclusion with every purchase.",
+      "requirements": "Switch 2 required. DK Island & Emerald Rush is additional content, not another full base-game entry or an automatic inclusion with every purchase.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "3D worlds & collectathons",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch 2"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2025-07-17",
+      "releaseLabel": "2025-07-17",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000096809/3c8219fbdcd3bdd0ebd6239cf32c651fe10f2157aa7730fcc6a7d96cd27460e5",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/3c8219fbdcd3bdd0ebd6239cf32c651fe10f2157aa7730fcc6a7d96cd27460e5",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/3c8219fbdcd3bdd0ebd6239cf32c651fe10f2157aa7730fcc6a7d96cd27460e5",
+          "alt": "Donkey Kong™ Bananza 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/c111819ae2b07f446ab92d64c8d37e9ef8e541e30b687121fa6d5976096b61f9",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/c111819ae2b07f446ab92d64c8d37e9ef8e541e30b687121fa6d5976096b61f9",
+          "alt": "Donkey Kong™ Bananza 4",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/b8ae4b278d62fb9683adf9939c79a3fc5ac71a671d1d644eb8774c4904e34ee2",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/b8ae4b278d62fb9683adf9939c79a3fc5ac71a671d1d644eb8774c4904e34ee2",
+          "alt": "Donkey Kong™ Bananza 5",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/1db3e042985d95332cb7750d9353a343b33415b12fbb82be6bffbcf0848949c3",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/1db3e042985d95332cb7750d9353a343b33415b12fbb82be6bffbcf0848949c3",
+          "alt": "Donkey Kong™ Bananza 6",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/eedd5cf569384e972df7ee8cebb8a84ec86a7ab7f382f3f34b40e2cc4d22b8e1",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/eedd5cf569384e972df7ee8cebb8a84ec86a7ab7f382f3f34b40e2cc4d22b8e1",
+          "alt": "Donkey Kong™ Bananza 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/760dd462413e23f48dd733041689430bf6446b9f88494c4edee7a44fd86ebabf",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/760dd462413e23f48dd733041689430bf6446b9f88494c4edee7a44fd86ebabf",
+          "alt": "Donkey Kong™ Bananza 8",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/2b26c97324f4f252bfafeb75737a50629f53a9b101594fa6ad8d207876053b77",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/2b26c97324f4f252bfafeb75737a50629f53a9b101594fa6ad8d207876053b77",
+          "alt": "Donkey Kong™ Bananza 9",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch2/70010000096809/3c8219fbdcd3bdd0ebd6239cf32c651fe10f2157aa7730fcc6a7d96cd27460e5",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch2/70010000096809/3c8219fbdcd3bdd0ebd6239cf32c651fe10f2157aa7730fcc6a7d96cd27460e5",
+          "alt": "Donkey Kong™ Bananza 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "3D worlds & collectathons",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Switch 2 required. DK Island & Emerald Rush is additional content, not another full base-game entry or an automatic inclusion with every purchase.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "3d1f6cff60560243132dddb5ab0547d52aa8d6b26e479b7c5a0c8bc8c504e188"
+    },
+    {
+      "id": "external:super-mario-odyssey",
+      "appid": null,
+      "seedId": "external:super-mario-odyssey",
+      "seedName": "Super Mario Odyssey",
+      "name": "Super Mario Odyssey",
+      "collection": "3D worlds & collectathons",
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "An essential reference for expressive 3D movement, layered secrets and transformations that reinterpret a familiar landscape. The main route and completionist route serve different appetites.",
+      "curatorWhy": "An essential reference for expressive 3D movement, layered secrets and transformations that reinterpret a familiar landscape. The main route and completionist route serve different appetites.",
+      "recommendationCaution": "Original Switch title; current Switch 2 enhancements do not turn its original release into a 2026 game. The second-player role is not a second full Mario campaign.",
+      "requirements": "Original Switch title; current Switch 2 enhancements do not turn its original release into a 2026 game. The second-player role is not a second full Mario campaign.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "3D worlds & collectathons",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2017-10-27",
+      "releaseLabel": "2017-10-27",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+          "alt": "Super Mario Odyssey™ 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/c497547957d9dd3668e891aa97ff4899a3f40bd1bd430020f8cbdf673f02bdeb",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/c497547957d9dd3668e891aa97ff4899a3f40bd1bd430020f8cbdf673f02bdeb",
+          "alt": "Super Mario Odyssey™ 2",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/1839d571921e3fb19ef48da64c145cb8ce573b07d7390c6350f15291b3905048",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/1839d571921e3fb19ef48da64c145cb8ce573b07d7390c6350f15291b3905048",
+          "alt": "Super Mario Odyssey™ 3",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/d0510e4804381287c64dc3ab374ae9273419e263e9a732e72af3b39cd70f2b5f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/d0510e4804381287c64dc3ab374ae9273419e263e9a732e72af3b39cd70f2b5f",
+          "alt": "Super Mario Odyssey™ 4",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/ab713d841b0f0d9bbce38b589d75dd3bba2aef005418e59d3f0fd95389ae7016",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/ab713d841b0f0d9bbce38b589d75dd3bba2aef005418e59d3f0fd95389ae7016",
+          "alt": "Super Mario Odyssey™ 5",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/abcf9708cc28ef5b7ab412aa17fafe4ad181f0b957456ffd9b83de2561d9f62a",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/abcf9708cc28ef5b7ab412aa17fafe4ad181f0b957456ffd9b83de2561d9f62a",
+          "alt": "Super Mario Odyssey™ 6",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/7db70ecd883f94d935f65b9f4454b8151b6f8be7c4be95543e87488e48e5a6b9",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001130/7db70ecd883f94d935f65b9f4454b8151b6f8be7c4be95543e87488e48e5a6b9",
+          "alt": "Super Mario Odyssey™ 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+          "alt": "Super Mario Odyssey™ 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "3D worlds & collectathons",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Original Switch title; current Switch 2 enhancements do not turn its original release into a 2026 game. The second-player role is not a second full Mario campaign.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "ed72198234b281827f28e22e081671d7fe8afec143f602ff1749b14ea0da0eb1"
+    },
+    {
+      "id": "external:super-mario-3d-world-bowsers-fury",
+      "appid": null,
+      "seedId": "external:super-mario-3d-world-bowsers-fury",
+      "seedName": "Super Mario 3D World + Bowser's Fury",
+      "name": "Super Mario 3D World + Bowser's Fury",
+      "collection": "Co-op & playful chaos",
+      "collections": [
+        "Co-op & playful chaos"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "Two useful approaches in one edition: tightly authored cooperative 3D courses and a smaller connected playground in Bowser's Fury. A particularly strong comparison point for group-friendly level design.",
+      "curatorWhy": "Two useful approaches in one edition: tightly authored cooperative 3D courses and a smaller connected playground in Bowser's Fury. A particularly strong comparison point for group-friendly level design.",
+      "recommendationCaution": "The two adventures have different multiplayer structures. This is the 2021 enhanced package, not the original Wii U edition; read the mode-specific player requirements.",
+      "requirements": "The two adventures have different multiplayer structures. This is the 2021 enhanced package, not the original Wii U edition; read the mode-specific player requirements.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Co-op & playful chaos",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2021-02-12",
+      "releaseLabel": "2021-02-12",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/434169d41e9f15e88d78de0d97d69a2c9bdf35bd7473939efb2d52a6ff090ec4",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/434169d41e9f15e88d78de0d97d69a2c9bdf35bd7473939efb2d52a6ff090ec4",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 3",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/b6aa756dae3b6a79c1a7e727d01eb787b8a50992a929b115f58a7f6ed0167089",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/b6aa756dae3b6a79c1a7e727d01eb787b8a50992a929b115f58a7f6ed0167089",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 4",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/0b819b869d8ef8f8e9f820f100098d75fff7a3d1a5e505e8a9fe06eda01d8f2d",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/0b819b869d8ef8f8e9f820f100098d75fff7a3d1a5e505e8a9fe06eda01d8f2d",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 5",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/e7bd90292baa5a87d94d2a03b2629d49ba6909fc545d4b9639391257681d6b35",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/e7bd90292baa5a87d94d2a03b2629d49ba6909fc545d4b9639391257681d6b35",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 6",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/2b50349c1c2f0d5dac7d30151df76c767228ecdf01357c039a35b65f298edd26",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/2b50349c1c2f0d5dac7d30151df76c767228ecdf01357c039a35b65f298edd26",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/45536e58ea924fcaabc2316aa67afc2bab8ede26379b9f071ceb3435cb05d8ba",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/45536e58ea924fcaabc2316aa67afc2bab8ede26379b9f071ceb3435cb05d8ba",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 8",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Co-op & playful chaos",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "The two adventures have different multiplayer structures. This is the 2021 enhanced package, not the original Wii U edition; read the mode-specific player requirements.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "e6f4ec40c58130853e54c0c61a70a6c85505eadaed0632d21f5c6f37d8dbc142"
+    },
+    {
+      "id": "external:super-mario-galaxy-collection",
+      "appid": null,
+      "seedId": "external:super-mario-galaxy-collection",
+      "seedName": "Super Mario Galaxy + Super Mario Galaxy 2",
+      "name": "Super Mario Galaxy + Super Mario Galaxy 2",
+      "collection": "3D worlds & collectathons",
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "Gravity, curved surfaces and small planetary stages make this a valuable alternative to sprawling collectathons. The package preserves two distinct campaigns rather than pretending a bundle is a newly designed sequel.",
+      "curatorWhy": "Gravity, curved surfaces and small planetary stages make this a valuable alternative to sprawling collectathons. The package preserves two distinct campaigns rather than pretending a bundle is a newly designed sequel.",
+      "recommendationCaution": "Enhanced collection of older games. The listed 2025 date is this package's release; the constituent games and bundle are not counted again as three discoveries.",
+      "requirements": "Enhanced collection of older games. The listed 2025 date is this package's release; the constituent games and bundle are not counted again as three discoveries.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "3D worlds & collectathons",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2025-10-02",
+      "releaseLabel": "2025-10-02",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70070000030770/0acaf709e29c57e125e90032853562562843757d238fec2815a52ec0409c6fd1",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/0acaf709e29c57e125e90032853562562843757d238fec2815a52ec0409c6fd1",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/0acaf709e29c57e125e90032853562562843757d238fec2815a52ec0409c6fd1",
+          "alt": "Super Mario Galaxy™ + Super Mario Galaxy™ 2 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/dd17fbca346376ffe7db5e53b5500dd475f50c610098099fe03e18bff3731d26",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/dd17fbca346376ffe7db5e53b5500dd475f50c610098099fe03e18bff3731d26",
+          "alt": "Super Mario Galaxy™ + Super Mario Galaxy™ 2 5",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/2eafc395d5c6fbbcbccc7e151a2552f15d83d5d881bb074d3bc881a38191e440",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/2eafc395d5c6fbbcbccc7e151a2552f15d83d5d881bb074d3bc881a38191e440",
+          "alt": "Super Mario Galaxy™ + Super Mario Galaxy™ 2 6",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/3504cc11a769b7e29a25148fe5d92a7c0cc308d7889723b11e2c56b02d73400f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/3504cc11a769b7e29a25148fe5d92a7c0cc308d7889723b11e2c56b02d73400f",
+          "alt": "Super Mario Galaxy™ + Super Mario Galaxy™ 2 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/f33b4687628c37c083e6c34f077f5432696ea413048751e8da684ea3b4f1481b",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/f33b4687628c37c083e6c34f077f5432696ea413048751e8da684ea3b4f1481b",
+          "alt": "Super Mario Galaxy™ + Super Mario Galaxy™ 2 8",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/92e54844116c79ebb07e3b4f56c454238d2e777fa61ed84c88b2f79909c51ab7",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/92e54844116c79ebb07e3b4f56c454238d2e777fa61ed84c88b2f79909c51ab7",
+          "alt": "Super Mario Galaxy™ + Super Mario Galaxy™ 2 9",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/076acf13b378125791d6731ed45cbecc825abb448cc0811200ec8233802c644e",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70070000030770/076acf13b378125791d6731ed45cbecc825abb448cc0811200ec8233802c644e",
+          "alt": "Super Mario Galaxy™ + Super Mario Galaxy™ 2 10",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70070000030770/0acaf709e29c57e125e90032853562562843757d238fec2815a52ec0409c6fd1",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70070000030770/0acaf709e29c57e125e90032853562562843757d238fec2815a52ec0409c6fd1",
+          "alt": "Super Mario Galaxy™ + Super Mario Galaxy™ 2 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+      "provider": "Nintendo",
+      "kind": "Classic collection",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "3D worlds & collectathons",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Enhanced collection of older games. The listed 2025 date is this package's release; the constituent games and bundle are not counted again as three discoveries.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "releaseNote": "2025 enhanced package of the two earlier Galaxy games, counted once.",
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "e1e68697128e1da41dbaf7dd4170bb4949976167971fb7cfe96070f35abe056f"
+    },
+    {
+      "id": "external:super-mario-bros-wonder",
+      "appid": null,
+      "seedId": "external:super-mario-bros-wonder",
+      "seedName": "Super Mario Bros. Wonder",
+      "name": "Super Mario Bros. Wonder",
+      "collection": "Colorful & approachable",
+      "collections": [
+        "Colorful & approachable"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "A strong modern 2D starting point where level transformations interrupt expectations and badges change the movement vocabulary. Optional challenges leave room to grow beyond the welcoming first impression.",
+      "curatorWhy": "A strong modern 2D starting point where level transformations interrupt expectations and badges change the movement vocabulary. Optional challenges leave room to grow beyond the welcoming first impression.",
+      "recommendationCaution": "Local cooperative play and online features are not identical. This record is the original Switch game; consult the exact edition before buying any later upgrade or package.",
+      "requirements": "Local cooperative play and online features are not identical. This record is the original Switch game; consult the exact edition before buying any later upgrade or package.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Colorful & approachable",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2023-10-20",
+      "releaseLabel": "2023-10-20",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+          "alt": "Super Mario Bros.™ Wonder 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/7f1845a5e8d8ec895ad188a6b0f46b59036a363db1b2d9b79d23b913b0b9ab8a",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/7f1845a5e8d8ec895ad188a6b0f46b59036a363db1b2d9b79d23b913b0b9ab8a",
+          "alt": "Super Mario Bros.™ Wonder 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/e3024df668cdead60e62865924652c811323b0e7c46f51567fe80907f2637cc4",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/e3024df668cdead60e62865924652c811323b0e7c46f51567fe80907f2637cc4",
+          "alt": "Super Mario Bros.™ Wonder 8",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/e1ee4f690cec788fc2a75e85ddc12f6d7ef69501bbb362ad918e1ffcbc14936f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/e1ee4f690cec788fc2a75e85ddc12f6d7ef69501bbb362ad918e1ffcbc14936f",
+          "alt": "Super Mario Bros.™ Wonder 9",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/c77b1b26934fa04c01bbadcd5081b7a2cbfe787f4cd7d8a8e59445f67beb73c3",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/c77b1b26934fa04c01bbadcd5081b7a2cbfe787f4cd7d8a8e59445f67beb73c3",
+          "alt": "Super Mario Bros.™ Wonder 10",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/9669405e5f3f899993cddbc02bd570d530eb39410ed3b50e6bd102381fbe6916",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/9669405e5f3f899993cddbc02bd570d530eb39410ed3b50e6bd102381fbe6916",
+          "alt": "Super Mario Bros.™ Wonder 11",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/befae68cae3bdd5e0cce98fc224ccdbb4b5885d2df3a642855f2c272fa4e7033",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/befae68cae3bdd5e0cce98fc224ccdbb4b5885d2df3a642855f2c272fa4e7033",
+          "alt": "Super Mario Bros.™ Wonder 12",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+          "alt": "Super Mario Bros.™ Wonder 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Colorful & approachable",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Local cooperative play and online features are not identical. This record is the original Switch game; consult the exact edition before buying any later upgrade or package.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "ad4b6f1cb445e4800cd08fa267663862c019e4ffc9cd7f117f34f09fb1d74473"
+    },
+    {
+      "id": "external:super-mario-maker-2",
+      "appid": null,
+      "seedId": "external:super-mario-maker-2",
+      "seedName": "Super Mario Maker 2",
+      "name": "Super Mario Maker 2",
+      "collection": "Co-op & playful chaos",
+      "collections": [
+        "Co-op & playful chaos"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "The route for players who want to study, create and exchange levels as well as finish them. Built-in courses offer an authored starting point before the quality and difficulty variability of user creations.",
+      "curatorWhy": "The route for players who want to study, create and exchange levels as well as finish them. Built-in courses offer an authored starting point before the quality and difficulty variability of user creations.",
+      "recommendationCaution": "Nintendo Switch Online is required for relevant online sharing and multiplayer features. User-generated courses are not uniformly curated, accessible or balanced.",
+      "requirements": "Nintendo Switch Online is required for relevant online sharing and multiplayer features. User-generated courses are not uniformly curated, accessible or balanced.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Co-op & playful chaos",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2019-06-28",
+      "releaseLabel": "2019-06-28",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000018694/aac100206f1c50349fd2c48595e55603259ae60a4ab4eefc28e71f41efb78b97",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/aac100206f1c50349fd2c48595e55603259ae60a4ab4eefc28e71f41efb78b97",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/aac100206f1c50349fd2c48595e55603259ae60a4ab4eefc28e71f41efb78b97",
+          "alt": "Super Mario Maker™ 2 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/ae7e1c2764074f1b5af56454cd5c75f150474aa9a4a87b73aeff2996ffad0bee",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/ae7e1c2764074f1b5af56454cd5c75f150474aa9a4a87b73aeff2996ffad0bee",
+          "alt": "Super Mario Maker™ 2 2",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/1500395a0a6e241f071e902759525e7442434babd3726f25d5ae1d5d232e38b7",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/1500395a0a6e241f071e902759525e7442434babd3726f25d5ae1d5d232e38b7",
+          "alt": "Super Mario Maker™ 2 3",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/b4373e8d3b216aaaf30fb58409df7dbf27d0d8b6541ff9ac266b70d0624126e5",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/b4373e8d3b216aaaf30fb58409df7dbf27d0d8b6541ff9ac266b70d0624126e5",
+          "alt": "Super Mario Maker™ 2 4",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/418a5ff35c577213f0cf54cc4284c5b6ed8416b5975887820ca7d23ee7b26f00",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/418a5ff35c577213f0cf54cc4284c5b6ed8416b5975887820ca7d23ee7b26f00",
+          "alt": "Super Mario Maker™ 2 5",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/98490533e202bc70836a35c2ea4e29723ab25a1d7a3b5d35397dbd3f0421eeb3",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/98490533e202bc70836a35c2ea4e29723ab25a1d7a3b5d35397dbd3f0421eeb3",
+          "alt": "Super Mario Maker™ 2 6",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/1168275fd196fd6e28cd1474b1a63515d3af726d6bb38ba407376d8e2032f53a",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/1168275fd196fd6e28cd1474b1a63515d3af726d6bb38ba407376d8e2032f53a",
+          "alt": "Super Mario Maker™ 2 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000018694/aac100206f1c50349fd2c48595e55603259ae60a4ab4eefc28e71f41efb78b97",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000018694/aac100206f1c50349fd2c48595e55603259ae60a4ab4eefc28e71f41efb78b97",
+          "alt": "Super Mario Maker™ 2 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Co-op & playful chaos",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Nintendo Switch Online is required for relevant online sharing and multiplayer features. User-generated courses are not uniformly curated, accessible or balanced.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "66874c3c07ec287e34f831a2423de73f08849fea6c33b061c64b177fc61b35b8"
+    },
+    {
+      "id": "external:dk-tropical-freeze",
+      "appid": null,
+      "seedId": "external:dk-tropical-freeze",
+      "seedName": "Donkey Kong Country: Tropical Freeze",
+      "name": "Donkey Kong Country: Tropical Freeze",
+      "collection": "Action & retro adventures",
+      "collections": [
+        "Action & retro adventures"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "A priority pick for players who enjoy weighty momentum, elaborate moving environments and secrets that reward committing to a line. A good bridge from colorful presentation to demanding 2D execution.",
+      "curatorWhy": "A priority pick for players who enjoy weighty momentum, elaborate moving environments and secrets that reward committing to a line. A good bridge from colorful presentation to demanding 2D execution.",
+      "recommendationCaution": "This date is the Switch edition of an older game. Its friendly presentation should not be mistaken for uniformly easy late-game challenges.",
+      "requirements": "This date is the Switch edition of an older game. Its friendly presentation should not be mistaken for uniformly easy late-game challenges.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Action & retro adventures",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2018-05-04",
+      "releaseLabel": "2018-05-04",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001339/d01cba67eb98fec32ac98027c07fa8d92dd52773565bfadc69f817c860e34b8a",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/d01cba67eb98fec32ac98027c07fa8d92dd52773565bfadc69f817c860e34b8a",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/d01cba67eb98fec32ac98027c07fa8d92dd52773565bfadc69f817c860e34b8a",
+          "alt": "Donkey Kong Country™: Tropical Freeze 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/9d4b389a867dbe52cada3d0604f10bf57bd4a56d99f1d8d68713929199314768",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/9d4b389a867dbe52cada3d0604f10bf57bd4a56d99f1d8d68713929199314768",
+          "alt": "Donkey Kong Country™: Tropical Freeze 5",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/ae28d4f496c6772a581c72dc7c4156b31a10644179edffbaf3ebea894944e638",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/ae28d4f496c6772a581c72dc7c4156b31a10644179edffbaf3ebea894944e638",
+          "alt": "Donkey Kong Country™: Tropical Freeze 6",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/a8312d774560a21622cd00ffd607f02d0465ba66ec187432bdf4b2c51b75d781",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/a8312d774560a21622cd00ffd607f02d0465ba66ec187432bdf4b2c51b75d781",
+          "alt": "Donkey Kong Country™: Tropical Freeze 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/392412c45bc921523a0aa3f5ba11a90fb93f82e24233feb2fdf981522f96f09c",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/392412c45bc921523a0aa3f5ba11a90fb93f82e24233feb2fdf981522f96f09c",
+          "alt": "Donkey Kong Country™: Tropical Freeze 8",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/8eb183209b6b81f03304101d512e152d09d9736208d17841d5be00cd62641f38",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/8eb183209b6b81f03304101d512e152d09d9736208d17841d5be00cd62641f38",
+          "alt": "Donkey Kong Country™: Tropical Freeze 9",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/6a0dc6e35174823113da5906d35f4324891f5b2b497f638f58330b2a478d6930",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000001339/6a0dc6e35174823113da5906d35f4324891f5b2b497f638f58330b2a478d6930",
+          "alt": "Donkey Kong Country™: Tropical Freeze 10",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000001339/d01cba67eb98fec32ac98027c07fa8d92dd52773565bfadc69f817c860e34b8a",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000001339/d01cba67eb98fec32ac98027c07fa8d92dd52773565bfadc69f817c860e34b8a",
+          "alt": "Donkey Kong Country™: Tropical Freeze 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Action & retro adventures",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "This date is the Switch edition of an older game. Its friendly presentation should not be mistaken for uniformly easy late-game challenges.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "ac334375c3eaf612196099ec38fd361ed5f05f87c2ffc82315c407aa044682b3"
+    },
+    {
+      "id": "external:dk-country-returns-hd",
+      "appid": null,
+      "seedId": "external:dk-country-returns-hd",
+      "seedName": "Donkey Kong Country Returns HD",
+      "name": "Donkey Kong Country Returns HD",
+      "collection": "Action & retro adventures",
+      "collections": [
+        "Action & retro adventures"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "Barrel routes, mine-cart timing and environmental spectacle make an important classic campaign available in a newer edition. Best considered alongside Tropical Freeze, not confused with Bananza's 3D destruction.",
+      "curatorWhy": "Barrel routes, mine-cart timing and environmental spectacle make an important classic campaign available in a newer edition. Best considered alongside Tropical Freeze, not confused with Bananza's 3D destruction.",
+      "recommendationCaution": "HD edition of the earlier Wii game, including additional stages from the 3DS version. The 2025 storefront release does not mean this is a wholly new original campaign.",
+      "requirements": "HD edition of the earlier Wii game, including additional stages from the 3DS version. The 2025 storefront release does not mean this is a wholly new original campaign.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Action & retro adventures",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2025-01-16",
+      "releaseLabel": "2025-01-16",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000084604/50b3b71a75022699ab39d631df7a6b1571df102f96d5f10e6267cbecadfa4cd6",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/50b3b71a75022699ab39d631df7a6b1571df102f96d5f10e6267cbecadfa4cd6",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/50b3b71a75022699ab39d631df7a6b1571df102f96d5f10e6267cbecadfa4cd6",
+          "alt": "Donkey Kong Country™ Returns HD 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/003165ce519ad10a971134a4502dbef4f35df9ee264306be497acf8ac1648bab",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/003165ce519ad10a971134a4502dbef4f35df9ee264306be497acf8ac1648bab",
+          "alt": "Donkey Kong Country™ Returns HD 6",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/d8fb667b3614de19d5ef3baa014b06ecc7a4f3b988a82da574db3e19d9a33632",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/d8fb667b3614de19d5ef3baa014b06ecc7a4f3b988a82da574db3e19d9a33632",
+          "alt": "Donkey Kong Country™ Returns HD 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/570d37f3de49fa3501a285227dac92094ed679b2e55b9d754684a6543e41cd2f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/570d37f3de49fa3501a285227dac92094ed679b2e55b9d754684a6543e41cd2f",
+          "alt": "Donkey Kong Country™ Returns HD 8",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/716f0d59b830b15a188df8c9fc93c36a726d9b2102a7a012f81386e367e6c55f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/716f0d59b830b15a188df8c9fc93c36a726d9b2102a7a012f81386e367e6c55f",
+          "alt": "Donkey Kong Country™ Returns HD 9",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/bd37d4d7a5064b24ef390df3ba6cc516075eb0087894d4f8f54e3acc33d113a0",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/bd37d4d7a5064b24ef390df3ba6cc516075eb0087894d4f8f54e3acc33d113a0",
+          "alt": "Donkey Kong Country™ Returns HD 10",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/03af311d9cce1c145db1cd613095ac02df0134adf44108a9718178dc61b209f8",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000084604/03af311d9cce1c145db1cd613095ac02df0134adf44108a9718178dc61b209f8",
+          "alt": "Donkey Kong Country™ Returns HD 11",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000084604/50b3b71a75022699ab39d631df7a6b1571df102f96d5f10e6267cbecadfa4cd6",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000084604/50b3b71a75022699ab39d631df7a6b1571df102f96d5f10e6267cbecadfa4cd6",
+          "alt": "Donkey Kong Country™ Returns HD 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Action & retro adventures",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "HD edition of the earlier Wii game, including additional stages from the 3DS version. The 2025 storefront release does not mean this is a wholly new original campaign.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "b25667d2d1c909541c7073e5ec02fd83070c8445587adb6f43170173614d1c3c"
+    },
+    {
+      "id": "external:yoshi-mysterious-book",
+      "appid": null,
+      "seedId": "external:yoshi-mysterious-book",
+      "seedName": "Yoshi and the Mysterious Book",
+      "name": "Yoshi and the Mysterious Book",
+      "collection": "Colorful & approachable",
+      "collections": [
+        "Colorful & approachable"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A current discovery-led direction for Yoshi: observe and experiment with creatures inside a storybook rather than approaching every screen as a pure speed test.",
+      "curatorWhy": "A current discovery-led direction for Yoshi: observe and experiment with creatures inside a storybook rather than approaching every screen as a pure speed test.",
+      "recommendationCaution": "Switch 2 required; this is a released 2026 game, not a speculative watchlist item. The official listing describes a single-player experience.",
+      "requirements": "Switch 2 required; this is a released 2026 game, not a speculative watchlist item. The official listing describes a single-player experience.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Colorful & approachable",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch 2"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2026-05-21",
+      "releaseLabel": "2026-05-21",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119859/74720e9755d3cc39e312e33d6c985a815ed352217cbcdeeaeabb98387767c82f",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/74720e9755d3cc39e312e33d6c985a815ed352217cbcdeeaeabb98387767c82f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/74720e9755d3cc39e312e33d6c985a815ed352217cbcdeeaeabb98387767c82f",
+          "alt": "Yoshi™ and the Mysterious Book 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/b85301d5f8074b6db36ba928328807c7467ddde8badc7ed51aa311a430d567ee",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/b85301d5f8074b6db36ba928328807c7467ddde8badc7ed51aa311a430d567ee",
+          "alt": "Yoshi™ and the Mysterious Book 5",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/7f0de9f8889db511aa981af5d4178ff45f699b9300d25da9bc159c75d02e1ac2",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/7f0de9f8889db511aa981af5d4178ff45f699b9300d25da9bc159c75d02e1ac2",
+          "alt": "Yoshi™ and the Mysterious Book 6",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/2311b4f5d1677216b43119f5a93401106bb7bb54f79a410d49bd19db26e04a91",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/2311b4f5d1677216b43119f5a93401106bb7bb54f79a410d49bd19db26e04a91",
+          "alt": "Yoshi™ and the Mysterious Book 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/3cd2c76cb77f84961ed3b06715cdf146699567bfbdd70e2642c6d3a6067fca3c",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/3cd2c76cb77f84961ed3b06715cdf146699567bfbdd70e2642c6d3a6067fca3c",
+          "alt": "Yoshi™ and the Mysterious Book 8",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/333f60ea97cad95f4b10315037e35bb0ad92202f34117fe965857cc55f07083f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/333f60ea97cad95f4b10315037e35bb0ad92202f34117fe965857cc55f07083f",
+          "alt": "Yoshi™ and the Mysterious Book 9",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/832b9b2dc9a5fda1252d9247c9aa7b3db28ba7712dd2f4b3a226bc9eba54e717",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000119859/832b9b2dc9a5fda1252d9247c9aa7b3db28ba7712dd2f4b3a226bc9eba54e717",
+          "alt": "Yoshi™ and the Mysterious Book 10",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch2/70010000119859/74720e9755d3cc39e312e33d6c985a815ed352217cbcdeeaeabb98387767c82f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch2/70010000119859/74720e9755d3cc39e312e33d6c985a815ed352217cbcdeeaeabb98387767c82f",
+          "alt": "Yoshi™ and the Mysterious Book 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Colorful & approachable",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Switch 2 required; this is a released 2026 game, not a speculative watchlist item. The official listing describes a single-player experience.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "698fcfc97b909ad3a48f426e291aa09010beafaea50b507565cc7be2e3d1836c"
+    },
+    {
+      "id": "external:yoshi-crafted-world",
+      "appid": null,
+      "seedId": "external:yoshi-crafted-world",
+      "seedName": "Yoshi's Crafted World",
+      "name": "Yoshi's Crafted World",
+      "collection": "Colorful & approachable",
+      "collections": [
+        "Colorful & approachable"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 8,
+      "editorialFit": 8,
+      "summary": "Handcrafted-looking dioramas, eggs and hidden-object searching make this a gentler exploration route. Useful for players who enjoy noticing details more than optimizing a movement combo.",
+      "curatorWhy": "Handcrafted-looking dioramas, eggs and hidden-object searching make this a gentler exploration route. Useful for players who enjoy noticing details more than optimizing a movement combo.",
+      "recommendationCaution": "The collection hunt and repeated stage perspectives are part of the experience; not the first choice for players seeking relentless precision difficulty.",
+      "requirements": "The collection hunt and repeated stage perspectives are part of the experience; not the first choice for players seeking relentless precision difficulty.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Colorful & approachable",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2019-03-29",
+      "releaseLabel": "2019-03-29",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000734/db8a252a84301594bdc4eed1be3dbd8d3de5086bc79f6ee1f8060c9a5630101f",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/db8a252a84301594bdc4eed1be3dbd8d3de5086bc79f6ee1f8060c9a5630101f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/db8a252a84301594bdc4eed1be3dbd8d3de5086bc79f6ee1f8060c9a5630101f",
+          "alt": "Yoshi’s Crafted World™ 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/9aa9468e9adeb140d52ba44f3646a8b202a38bd4bb0a5e752b5feb2b51046495",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/9aa9468e9adeb140d52ba44f3646a8b202a38bd4bb0a5e752b5feb2b51046495",
+          "alt": "Yoshi’s Crafted World™ 2",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/cb50f4bade1f501323f9397063f22356ae6e874d39a6c5947c0fac1fc2a74ec7",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/cb50f4bade1f501323f9397063f22356ae6e874d39a6c5947c0fac1fc2a74ec7",
+          "alt": "Yoshi’s Crafted World™ 3",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/0369ede6ebf36644e53e9d5aac826f5175d1688a43a3436cf2287cf3b8943a60",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/0369ede6ebf36644e53e9d5aac826f5175d1688a43a3436cf2287cf3b8943a60",
+          "alt": "Yoshi’s Crafted World™ 4",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/1cd3a1127f4d34e03914f2d0e3484813bf3216afb36b59d62e7dbc8c2300e3f8",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/1cd3a1127f4d34e03914f2d0e3484813bf3216afb36b59d62e7dbc8c2300e3f8",
+          "alt": "Yoshi’s Crafted World™ 5",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/ed06a0cf6319158906704d60be28b94bb4a9bdeeb8bc89679ab0bb72d0dcc570",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000000734/ed06a0cf6319158906704d60be28b94bb4a9bdeeb8bc89679ab0bb72d0dcc570",
+          "alt": "Yoshi’s Crafted World™ 6",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000000734/db8a252a84301594bdc4eed1be3dbd8d3de5086bc79f6ee1f8060c9a5630101f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000000734/db8a252a84301594bdc4eed1be3dbd8d3de5086bc79f6ee1f8060c9a5630101f",
+          "alt": "Yoshi’s Crafted World™ 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Colorful & approachable",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "The collection hunt and repeated stage perspectives are part of the experience; not the first choice for players seeking relentless precision difficulty.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "f96ec122752e4783687bc4f5d56a14d6b071d4d52ef7646233dbd997f0770d9f"
+    },
+    {
+      "id": "external:kirby-forgotten-land",
+      "appid": null,
+      "seedId": "external:kirby-forgotten-land",
+      "seedName": "Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World",
+      "name": "Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World",
+      "collection": "3D worlds & collectathons",
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "Accessible 3D stages built around Kirby's changing abilities, with the expanded edition providing another reason to revisit its playful spaces. A good alternative to camera-demanding or punishing collectathons.",
+      "curatorWhy": "Accessible 3D stages built around Kirby's changing abilities, with the expanded edition providing another reason to revisit its playful spaces. A good alternative to camera-demanding or punishing collectathons.",
+      "recommendationCaution": "Enhanced edition of the 2022 original. This complete package and the separate upgrade pack are different purchases; the upgrade requires the base game. This edition requires Switch 2.",
+      "requirements": "Enhanced edition of the 2022 original. This complete package and the separate upgrade pack are different purchases; the upgrade requires the base game. This edition requires Switch 2.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "3D worlds & collectathons",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch 2"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2025-08-28",
+      "releaseLabel": "2025-08-28",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000096829/0a06bf277f1eb585fcbb7ddeb4f70014fd1c860d326eb33c8accf4d4827ade72",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "3D worlds & collectathons",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Enhanced edition of the 2022 original. This complete package and the separate upgrade pack are different purchases; the upgrade requires the base game. This edition requires Switch 2.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "originalReleaseYear": 2022,
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "dcb817fd9f43b1238045d89676023fab222d194534939e67642a87b63f5b1e22"
+    },
+    {
+      "id": "external:kirby-return-dreamland-deluxe",
+      "appid": null,
+      "seedId": "external:kirby-return-dreamland-deluxe",
+      "seedName": "Kirby's Return to Dream Land Deluxe",
+      "name": "Kirby's Return to Dream Land Deluxe",
+      "collection": "Co-op & playful chaos",
+      "collections": [
+        "Co-op & playful chaos"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A cooperative 2D adventure with copy abilities and an expanded supporting package. A sensible group choice when playful experimentation matters more than everyone performing perfectly.",
+      "curatorWhy": "A cooperative 2D adventure with copy abilities and an expanded supporting package. A sensible group choice when playful experimentation matters more than everyone performing perfectly.",
+      "recommendationCaution": "Deluxe edition of an older campaign. Four-player local play does not imply four-player online campaign co-op; verify the mode you intend to use.",
+      "requirements": "Deluxe edition of an older campaign. Four-player local play does not imply four-player online campaign co-op; verify the mode you intend to use.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Co-op & playful chaos",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2023-02-24",
+      "releaseLabel": "2023-02-24",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/1871a94ac8e37ee94833d1e5054d9e1c9d861dfe50d32bd0a7cb4b6f1de484ce",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/1871a94ac8e37ee94833d1e5054d9e1c9d861dfe50d32bd0a7cb4b6f1de484ce",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/cc9c7b0d181d17f0c0a126b952d05ae176932a2078782d030334bc683a7d9944",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/cc9c7b0d181d17f0c0a126b952d05ae176932a2078782d030334bc683a7d9944",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 8",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/c418ea986505c967b730bfc47599ded605530501169fff245d94c675500a5c5c",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/c418ea986505c967b730bfc47599ded605530501169fff245d94c675500a5c5c",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 9",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/f0907a20d2b972a42dc35747d21e10aea729eecfdc8d607bc66e99a33af312e6",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/f0907a20d2b972a42dc35747d21e10aea729eecfdc8d607bc66e99a33af312e6",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 10",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/c18c16e12c4aed453ed7235751601358df08a4bcd73e0b61a78d3775b4755f8d",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/c18c16e12c4aed453ed7235751601358df08a4bcd73e0b61a78d3775b4755f8d",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 11",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/b7a4135edf2401d60c908c7ea0b9cd2c492612a46f728dfe50024e6004004d42",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/b7a4135edf2401d60c908c7ea0b9cd2c492612a46f728dfe50024e6004004d42",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 12",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Co-op & playful chaos",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Deluxe edition of an older campaign. Four-player local play does not imply four-player online campaign co-op; verify the mode you intend to use.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "ccaa5234a8fbba48ba667af2a285fbfa26a48567593bfaa3cb8b95666d307e7d"
+    },
+    {
+      "id": "external:metroid-dread",
+      "appid": null,
+      "seedId": "external:metroid-dread",
+      "seedName": "Metroid Dread",
+      "name": "Metroid Dread",
+      "collection": "Exploration & Metroidvanias",
+      "collections": [
+        "Exploration & Metroidvanias"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "Fluid movement, ability-gated route design and tense encounters make a central console reference for the exploration-platformer branch. Best for players who want traversal and combat to reinforce each other.",
+      "curatorWhy": "Fluid movement, ability-gated route design and tense encounters make a central console reference for the exploration-platformer branch. Best for players who want traversal and combat to reinforce each other.",
+      "recommendationCaution": "Single-player, combat-heavy and not a gentle exploration walk. This is an action-exploration game, not a stage-by-stage Mario-style platformer.",
+      "requirements": "Single-player, combat-heavy and not a gentle exploration walk. This is an action-exploration game, not a stage-by-stage Mario-style platformer.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Exploration & Metroidvanias",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2021-10-08",
+      "releaseLabel": "2021-10-08",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2",
+          "alt": "Metroid™ Dread 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/afd6050096ab1d1bf3cdc536526f632cd401e64f419ac8d0ed55bd96debd7452",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/afd6050096ab1d1bf3cdc536526f632cd401e64f419ac8d0ed55bd96debd7452",
+          "alt": "Metroid™ Dread 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/be72265a9fe9acc84abb3d97d79e6d638c479485d06548d49390e2f5046d305b",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/be72265a9fe9acc84abb3d97d79e6d638c479485d06548d49390e2f5046d305b",
+          "alt": "Metroid™ Dread 8",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/d455074ebe87ba989306dc1c66135374cbe299ef6dc05da90dccb2dfd08e8e35",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/d455074ebe87ba989306dc1c66135374cbe299ef6dc05da90dccb2dfd08e8e35",
+          "alt": "Metroid™ Dread 9",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/bdc2640a9a0f85bb3fc730e3c26cf97bcb0890b009eab91a0b39ce7ebb672f9d",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/bdc2640a9a0f85bb3fc730e3c26cf97bcb0890b009eab91a0b39ce7ebb672f9d",
+          "alt": "Metroid™ Dread 10",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/e7cbc2ef35d7d782f0570c9a506c6432eaac258187cb4fa539b155d1fe54f00e",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/e7cbc2ef35d7d782f0570c9a506c6432eaac258187cb4fa539b155d1fe54f00e",
+          "alt": "Metroid™ Dread 11",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/4ffb6e6db4487a1b4c923993b6e16d1d07674c95f0d84036b3415dd1c61adf49",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/4ffb6e6db4487a1b4c923993b6e16d1d07674c95f0d84036b3415dd1c61adf49",
+          "alt": "Metroid™ Dread 12",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2",
+          "alt": "Metroid™ Dread 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Exploration & Metroidvanias",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Single-player, combat-heavy and not a gentle exploration walk. This is an action-exploration game, not a stage-by-stage Mario-style platformer.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "61b9996cfd7d2ae107c1b8b52915038e11ab29c9d055c4f59148893f731849ca"
+    },
+    {
+      "id": "external:celeste-64",
+      "appid": null,
+      "seedId": "external:celeste-64",
+      "seedName": "Celeste 64: Fragments of the Mountain",
+      "name": "Celeste 64: Fragments of the Mountain",
+      "collection": "Free creator releases",
+      "collections": [
+        "Free creator releases"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A small free 3D experiment that translates Celeste's appetite for movement challenges into a compact anniversary playground. Worth trying for its concentrated traversal ideas rather than expecting a full commercial sequel.",
+      "curatorWhy": "A small free 3D experiment that translates Celeste's appetite for movement challenges into a compact anniversary playground. Worth trying for its concentrated traversal ideas rather than expecting a full commercial sequel.",
+      "recommendationCaution": "Short standalone anniversary game. A recent page update is not its original release date; controller recommended by the creator. Sources and available builds are on the exact creator page.",
+      "requirements": "Short standalone anniversary game. A recent page update is not its original release date; controller recommended by the creator. Sources and available builds are on the exact creator page.",
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Free creator releases",
+        "Free creator release"
+      ],
+      "features": [],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": true,
+      "releaseDate": "2024-01-30",
+      "releaseLabel": "2024-01-30",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://img.itch.zone/aW1nLzE0ODYxNjEyLnBuZw==/original/kGrp4c.png",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://maddymakesgamesinc.itch.io/celeste64",
+      "steamUrl": null,
+      "website": "https://maddymakesgamesinc.itch.io/celeste64",
+      "provider": "itch.io",
+      "kind": "Standalone game",
+      "genreScope": "Free creator platformer",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://maddymakesgamesinc.itch.io/celeste64",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://maddymakesgamesinc.itch.io/celeste64",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Creator release chronology",
+          "url": "https://maddymakesgames.com/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://maddymakesgamesinc.itch.io/celeste64",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Free creator releases",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Short standalone anniversary game. A recent page update is not its original release date; controller recommended by the creator. Sources and available builds are on the exact creator page.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "ec3f5aef0dbb469374723cc96f977f28fc9e9cc836223b5f4aaf2885b40be722"
+    },
+    {
+      "id": "external:celeste-classic",
+      "appid": null,
+      "seedId": "external:celeste-classic",
+      "seedName": "CELESTE Classic",
+      "name": "CELESTE Classic",
+      "collection": "Free creator releases",
+      "collections": [
+        "Free creator releases"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A compact browser-playable look at the original mountain-climbing idea. Its small scale makes the movement loop easy to inspect without suggesting it replaces the later commercial Celeste.",
+      "curatorWhy": "A compact browser-playable look at the original mountain-climbing idea. Its small scale makes the movement loop easy to inspect without suggesting it replaces the later commercial Celeste.",
+      "recommendationCaution": "PICO-8 original, not a free download of the full 2018 commercial game. Original date is left unspecified here rather than copied from a recent page update.",
+      "requirements": "PICO-8 original, not a free download of the full 2018 commercial game. Original date is left unspecified here rather than copied from a recent page update.",
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Free creator releases",
+        "Free creator release"
+      ],
+      "features": [],
+      "platforms": [
+        "Browser"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": true,
+      "releaseDate": null,
+      "releaseLabel": "Original date not independently recorded",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://img.itch.zone/aW1hZ2UvMzEzMTgvMTMzNjQyLmdpZg==/original/vIUIrE.gif",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://maddymakesgamesinc.itch.io/celesteclassic",
+      "steamUrl": null,
+      "website": "https://maddymakesgamesinc.itch.io/celesteclassic",
+      "provider": "itch.io",
+      "kind": "Standalone game",
+      "genreScope": "Free creator platformer",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://maddymakesgamesinc.itch.io/celesteclassic",
+          "kind": "browser",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://maddymakesgamesinc.itch.io/celesteclassic",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://maddymakesgamesinc.itch.io/celesteclassic",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Free creator releases",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "PICO-8 original, not a free download of the full 2018 commercial game. Original date is left unspecified here rather than copied from a recent page update.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "e9a4c7a74a5a30e8f4d6cfa981e456f4137f5fcc5a0a52f9f962ec12292b882c"
+    },
+    {
+      "id": "external:celeste-classic-2",
+      "appid": null,
+      "seedId": "external:celeste-classic-2",
+      "seedName": "Celeste Classic 2: Lani's Trek",
+      "name": "Celeste Classic 2: Lani's Trek",
+      "collection": "Free creator releases",
+      "collections": [
+        "Free creator releases"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A concise grappling-focused variation that demonstrates how changing a movement tool can produce a different platforming language inside a tiny game.",
+      "curatorWhy": "A concise grappling-focused variation that demonstrates how changing a movement tool can produce a different platforming language inside a tiny game.",
+      "recommendationCaution": "Free PICO-8 anniversary game, not a numbered commercial Celeste sequel. Native host ratings, when available, retain their original five-point scale.",
+      "requirements": "Free PICO-8 anniversary game, not a numbered commercial Celeste sequel. Native host ratings, when available, retain their original five-point scale.",
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Free creator releases",
+        "Free creator release"
+      ],
+      "features": [],
+      "platforms": [
+        "Browser",
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": true,
+      "releaseDate": "2021-01-25",
+      "releaseLabel": "2021-01-25",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://img.itch.zone/aW1nLzUwNTA4NDAucG5n/original/5KxkXW.png",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+      "steamUrl": null,
+      "website": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+      "provider": "itch.io",
+      "kind": "Standalone game",
+      "genreScope": "Free creator platformer",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+          "kind": "browser",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Creator release chronology",
+          "url": "https://maddymakesgames.com/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Free creator releases",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Free PICO-8 anniversary game, not a numbered commercial Celeste sequel. Native host ratings, when available, retain their original five-point scale.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "39ee4048ea4de6a99ddbeeceef5093f4d36953fa4c1e7b32b3b6488666cc011f"
+    },
+    {
+      "id": "external:supertux",
+      "appid": null,
+      "seedId": "external:supertux",
+      "seedName": "SuperTux",
+      "name": "SuperTux",
+      "collection": "Free creator releases",
+      "collections": [
+        "Free creator releases"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 8,
+      "editorialFit": 8,
+      "summary": "A free, open-source traditional platformer with a long-lived community and an included route into custom levels. A useful choice for exploring platforming without a store purchase.",
+      "curatorWhy": "A free, open-source traditional platformer with a long-lived community and an included route into custom levels. A useful choice for exploring platforming without a store purchase.",
+      "recommendationCaution": "Choose a stable build from the official download page; nightly builds and older ports have different compatibility. A new version number is not an original release date.",
+      "requirements": "Choose a stable build from the official download page; nightly builds and older ports have different compatibility. A new version number is not an original release date.",
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Free creator releases",
+        "Free creator release"
+      ],
+      "features": [],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": true,
+      "releaseDate": null,
+      "releaseLabel": "Original date not independently recorded",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://i.ytimg.com/vi/PQedJ3SX8s0/hqdefault.jpg",
+      "screenshots": [],
+      "trailers": [
+        {
+          "name": "SuperTux 0.7.0 official trailer",
+          "youtube": "PQedJ3SX8s0",
+          "poster": "https://i.ytimg.com/vi/PQedJ3SX8s0/hqdefault.jpg",
+          "watchUrl": "https://www.youtube.com/watch?v=PQedJ3SX8s0",
+          "sourceUrl": "https://www.supertux.org/",
+          "credit": "The SuperTux Team",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "primaryUrl": "https://www.supertux.org/",
+      "steamUrl": null,
+      "website": "https://www.supertux.org/",
+      "provider": "Official site",
+      "kind": "Standalone game",
+      "genreScope": "Free creator platformer",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Official site",
+          "url": "https://www.supertux.org/",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Official downloads",
+          "url": "https://www.supertux.org/download.html",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Official site",
+          "url": "https://www.supertux.org/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page media completion",
+          "url": "https://www.supertux.org/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:45.963246+00:00"
+        }
+      ],
+      "warnings": [],
+      "platformerInfo": {
+        "focus": "Free creator releases",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Choose a stable build from the official download page; nightly builds and older ports have different compatibility. A new version number is not an original release date.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "b11fc9a5828d23cfee10ab7ae71e5c3c464623b052a390461de5f620d2ad66f0",
+      "imageCredit": "Official SuperTux 0.7.0 trailer poster"
+    }
+  ]
+}

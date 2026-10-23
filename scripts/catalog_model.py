@@ -1,13 +1,14 @@
 """Merge genre sources without replacing original identities or user-facing provenance."""
 import copy,csv,hashlib,json,pathlib,urllib.parse
 from source_links import normalized_links
+from platformer_model import merge_platformers,complete_platformer_metadata
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 def load(path,default):
     p=ROOT/path
     return json.loads(p.read_text()) if p.exists() else default
 
 def score(g):
-    if g.get('verification')!='verified' or g.get('fit') is None:return None
+    if g.get('verification')!='verified' or g.get('fit') is None or g.get('comingSoon'):return None
     n=int(g['fit']);r=g.get('rating');count=g.get('reviewCount',0)
     if not g.get('steamUrl'):
         return min(n,7) if g.get('confidence')=='Exploratory' else n
@@ -82,6 +83,7 @@ def assemble(catalog):
                     g[k]=list({media_key(x):x for x in g.get(k,[])+v}.values())
                 elif k=='tags':g[k]=sorted(set(g.get(k,[])+v))
                 else:g[k]=v
+    games=merge_platformers(games,ROOT)
     out=sorted(games.values(),key=lambda g:g['name'].casefold())
     for g in out:
         g.setdefault("appid",None)
@@ -96,4 +98,4 @@ def assemble(catalog):
     b=c.setdefault('build',{});b.update(generator='games-catalog/1.3.0',inputCount=len(out),verifiedCount=sum(g.get('verification')=='verified' for g in out),unresolvedCount=sum(g.get('verification')!='verified' for g in out),candidateUnresolved=shooters.get('unresolved',[])+rts.get('unresolved',[]),candidateDispositions=rts.get('dispositions',[]),mediaCount=sum(bool(g.get('image'))+len(g.get('screenshots',[]))+len(g.get('trailers',[])) for g in out))
     b['hubCounts']={hub:sum(hub in g.get('hubs',[]) for g in out) for hub in sorted({h for g in out for h in g.get('hubs',[])})}
     b['datasetHash']=hashlib.sha256(json.dumps(out,sort_keys=True,ensure_ascii=False).encode()).hexdigest()
-    return c
+    return complete_platformer_metadata(c,ROOT)

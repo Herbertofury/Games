@@ -7,7 +7,7 @@ class MultiPlatformTests(unittest.TestCase):
     def test_originals_preserved(self):
         seeds=list(csv.DictReader((ROOT/'data/seeds.tsv').read_text().splitlines(),delimiter='\t'))
         byseed={str(g.get('seedId')):g for g in self.by.values()}
-        self.assertEqual(len(seeds),170)
+        self.assertGreaterEqual(len(seeds),170);self.assertEqual(len(seeds),len({s["appid"] for s in seeds}))
         for seed in seeds:self.assertIn(seed['appid'],byseed);self.assertIn('Roguelites',byseed[seed['appid']]['hubs'])
     def test_cross_genre_deduplication(self):
         for ident in ['steam:2206270','steam:2747550']:

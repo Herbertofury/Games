@@ -184,6 +184,30 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 |:--|:--:|:--|:--|:--|
 | [POOM](Game-external-poom-POOM) | 8/10 | 4.8/5 / 1045 itch.io ratings | 2020-12-13 · Released | [itch.io](https://freds72.itch.io/poom) · [Newgrounds](https://www.newgrounds.com/portal/view/774331) |
 
+## Nintendo
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Donkey Kong Bananza](Game-external-donkey-kong-bananza-Donkey-Kong-Bananza) | 10/10 | No aggregate rating | 2025-07-17 · Released | [Nintendo](https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/) |
+| [Donkey Kong Country: Tropical Freeze](Game-external-dk-tropical-freeze-Donkey-Kong-Country-Tropical-Freeze) | 10/10 | No aggregate rating | 2018-05-04 · Released | [Nintendo](https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/) |
+| [Metroid Dread](Game-external-metroid-dread-Metroid-Dread) | 10/10 | No aggregate rating | 2021-10-08 · Released | [Nintendo](https://www.nintendo.com/us/store/products/metroid-dread-switch/) |
+| [Super Mario 3D World + Bowser's Fury](Game-external-super-mario-3d-world-bowsers-fury-Super-Mario-3D-World-Bowser-s-Fury) | 10/10 | No aggregate rating | 2021-02-12 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) |
+| [Super Mario Bros. Wonder](Game-external-super-mario-bros-wonder-Super-Mario-Bros-Wonder) | 10/10 | No aggregate rating | 2023-10-20 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/) |
+| [Super Mario Galaxy + Super Mario Galaxy 2](Game-external-super-mario-galaxy-collection-Super-Mario-Galaxy-Super-Mario-Galaxy-2) | 10/10 | No aggregate rating | 2025-10-02 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/) |
+| [Super Mario Odyssey](Game-external-super-mario-odyssey-Super-Mario-Odyssey) | 10/10 | No aggregate rating | 2017-10-27 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/) |
+| [Donkey Kong Country Returns HD](Game-external-dk-country-returns-hd-Donkey-Kong-Country-Returns-HD) | 9/10 | No aggregate rating | 2025-01-16 · Released | [Nintendo](https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/) |
+| [Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World](Game-external-kirby-forgotten-land-Kirby-and-the-Forgotten-Land-Switch-2-Edition-Star-Crossed-World) | 9/10 | No aggregate rating | 2025-08-28 · Released | [Nintendo](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/) |
+| [Kirby's Return to Dream Land Deluxe](Game-external-kirby-return-dreamland-deluxe-Kirby-s-Return-to-Dream-Land-Deluxe) | 9/10 | No aggregate rating | 2023-02-24 · Released | [Nintendo](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/) |
+| [Super Mario Maker 2](Game-external-super-mario-maker-2-Super-Mario-Maker-2) | 9/10 | No aggregate rating | 2019-06-28 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/) |
+| [Yoshi and the Mysterious Book](Game-external-yoshi-mysterious-book-Yoshi-and-the-Mysterious-Book) | 9/10 | No aggregate rating | 2026-05-21 · Released | [Nintendo](https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/) |
+| [Yoshi's Crafted World](Game-external-yoshi-crafted-world-Yoshi-s-Crafted-World) | 8/10 | No aggregate rating | 2019-03-29 · Released | [Nintendo](https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/) |
+
+## Official downloads
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [SuperTux](Game-external-supertux-SuperTux) | 8/10 | No aggregate rating | Original date not independently recorded · Released | [Official site](https://www.supertux.org/) · [Official downloads](https://www.supertux.org/download.html) |
+
 ## Official site
 
 | Game | Recommend | Community reception | Release / build | Where |
@@ -196,6 +220,14 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Wolfenstein: Blade of Agony](Game-external-blade-of-agony-Wolfenstein-Blade-of-Agony) | 9/10 | No aggregate rating | 2021 (year only) · Released | [Official site](https://boa.realm667.com/) · [ModDB](https://www.moddb.com/mods/wolfendoom-blade-of-agony) |
 | [Littlewargame](Game-external-littlewargame-Littlewargame) | 8/10 | No aggregate rating | Community release; see project · Released | [Official site](https://littlewargame.com/) |
 | [OpenHV](Game-external-openhv-OpenHV) | 8/10 | No aggregate rating | Community release; see project · Released | [Official site](https://www.openhv.net/) · [itch.io](https://openhv.itch.io/openhv) |
+| [SuperTux](Game-external-supertux-SuperTux) | 8/10 | No aggregate rating | Original date not independently recorded · Released | [Official site](https://www.supertux.org/) · [Official downloads](https://www.supertux.org/download.html) |
+
+## PlayStation
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [ASTRO BOT](Game-external-astro-bot-ASTRO-BOT) | 10/10 | No aggregate rating | 2024-09-06 · Released | [PlayStation](https://www.playstation.com/en-us/games/astro-bot/) |
+| [ASTRO's Playroom](Game-external-astros-playroom-ASTRO-s-Playroom) | 9/10 | No aggregate rating | 2020-11-12 · Released | [PlayStation](https://www.playstation.com/en-us/games/astros-playroom/) |
 
 ## Slipseer
 
@@ -222,6 +254,9 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Zortch](Game-2443360-Zortch) | 9/10 | 98.3% / 1,409 Steam reviews | Jun 8, 2023 · Released | [Steam](https://store.steampowered.com/app/2443360/) · [itch.io](https://mutantleg.itch.io/zortch) |
 | [ADACA](Game-1765780-ADACA) | 9/10 | 91.6% / 902 Steam reviews | Jul 25, 2022 · Released | [Steam](https://store.steampowered.com/app/1765780/) · [itch.io](https://siris-pendrake.itch.io/adaca) |
 | [ENCHAIN](Game-1396870-ENCHAIN) | 9/10 | 97.1% / 102 Steam reviews | Feb 13, 2026 · Early Access | [Steam](https://store.steampowered.com/app/1396870/) · [itch.io](https://mattlawr.itch.io/enchain) |
+| [Celeste 64: Fragments of the Mountain](Game-external-celeste-64-Celeste-64-Fragments-of-the-Mountain) | 9/10 | No aggregate rating | 2024-01-30 · Released | [itch.io](https://maddymakesgamesinc.itch.io/celeste64) |
+| [CELESTE Classic](Game-external-celeste-classic-CELESTE-Classic) | 9/10 | No aggregate rating | Original date not independently recorded · Released | [itch.io](https://maddymakesgamesinc.itch.io/celesteclassic) |
+| [Celeste Classic 2: Lani's Trek](Game-external-celeste-classic-2-Celeste-Classic-2-Lani-s-Trek) | 9/10 | No aggregate rating | 2021-01-25 · Released | [itch.io](https://maddymakesgamesinc.itch.io/celeste-classic-2) |
 | [Doom: The Golden Souls 2](Game-external-golden-souls-2-Doom-The-Golden-Souls-2) | 9/10 | 4.9/5 / 51 itch.io ratings | 2018 (year only) · Released | [itch.io](https://batandy.itch.io/goldensouls2) |
 | [Peripeteia](Game-1437760-Peripeteia) | 8/10 | 86.2% / 3,532 Steam reviews | Feb 21, 2025 · Early Access | [Steam](https://store.steampowered.com/app/1437760/) · [itch.io](https://9thexodus.itch.io/peripeteia) · [IndieDB](https://www.indiedb.com/games/peripeteia) |
 | [Project Warlock II](Game-1640300-Project-Warlock-II) | 8/10 | 81.1% / 1,381 Steam reviews | May 28, 2025 · Released | [Steam](https://store.steampowered.com/app/1640300/) · [GOG](https://www.gog.com/en/game/project_warlock_2) · [itch.io](https://retrovibe.itch.io/project-warlock-ii) |
@@ -250,7 +285,7 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Dead Trash: Operation Yellow Snow - itch.io Standalone](Game-external-dead-trash-yellow-snow-Dead-Trash-Operation-Yellow-Snow-itch-io-Standalone) | 7/10 | 5/5 / 4 itch.io ratings | Original date unlisted · Released | [itch.io](https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow) |
 | [Doom: The Golden Souls 3 - Public Demo](Game-external-golden-souls-3-Doom-The-Golden-Souls-3-Public-Demo) | 7/10 | 4.9/5 / 37 itch.io ratings | Original date unlisted · Demo | [itch.io](https://batandy.itch.io/goldensouls3) |
 | [KAUNA - Creator Prototype](Game-external-kauna-prototype-KAUNA-Creator-Prototype) | 7/10 | 4.2/5 / 4 itch.io ratings | Original date unlisted · Prototype | [itch.io](https://anttironkkagames.itch.io/kauna) |
-| [The Age of Hell](Game-1779060-The-Age-of-Hell) | 7/10 | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/1779060/) · [itch.io](https://hellforge-studios.itch.io/the-age-of-hell) |
 | [Wanted 3D: Dead or Alive - Demo](Game-external-wanted3d-demo-Wanted-3D-Dead-or-Alive-Demo) | 7/10 | 5/5 / 2 itch.io ratings | Original date unlisted · Demo | [itch.io](https://pavoent.itch.io/wanted-3d-dead-or-alive) |
 | [HYPERVIOLENT](Game-1409200-HYPERVIOLENT) | 6/10 | 58.0% / 524 Steam reviews | Sep 23, 2025 · Released | [Steam](https://store.steampowered.com/app/1409200/) · [GOG](https://www.gog.com/en/game/hyperviolent) · [itch.io](https://fulqrumpublishing.itch.io/hv) |
+| [The Age of Hell](Game-1779060-The-Age-of-Hell) | Unrated | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/1779060/) · [itch.io](https://hellforge-studios.itch.io/the-age-of-hell) |
 

@@ -1188,24 +1188,6 @@ A small paid curiosity for fans of the base game's grimy tone. The itch.io versi
 </td>
 <td width="33%" valign="top">
 
-[![The Age of Hell](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779060/header.jpg?t=1700857520)](Game-1779060-The-Age-of-Hell)
-
-**[The Age of Hell](Game-1779060-The-Age-of-Hell)**
-
-7/10 recommendation | Upcoming | Coming soon
-
-Take up thy hammer and lay waste to the hordes of hell. Hold fast against the legions of the damned, and smite them into oblivion. Because a new age is coming … an Age of Hell
-
-[Watch: Realms Deep 2023 Trailer](https://store.steampowered.com/app/1779060/)  
-[Watch: Realms Deep 2022 Trailer](https://store.steampowered.com/app/1779060/)  
-
-[Steam](https://store.steampowered.com/app/1779060/) | [itch.io - demo (demo)](https://hellforge-studios.itch.io/the-age-of-hell)
-
-[Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=steam%3A1779060)
-
-</td>
-<td width="33%" valign="top">
-
 [![HYPERVIOLENT](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409200/1bdb9648b818f49c0b2d059ac0d10d60f3b9721d/header.jpg?t=1761836810)](Game-1409200-HYPERVIOLENT)
 
 **[HYPERVIOLENT](Game-1409200-HYPERVIOLENT)**
@@ -1223,6 +1205,24 @@ A niche horror-FPS curiosity with mixed player reception. Keep it in the deep-cu
 [Steam](https://store.steampowered.com/app/1409200/) | [GOG](https://www.gog.com/en/game/hyperviolent) | [itch.io - demo (demo)](https://fulqrumpublishing.itch.io/hv)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=steam%3A1409200)
+
+</td>
+<td width="33%" valign="top">
+
+[![The Age of Hell](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779060/header.jpg?t=1700857520)](Game-1779060-The-Age-of-Hell)
+
+**[The Age of Hell](Game-1779060-The-Age-of-Hell)**
+
+None/10 recommendation | Upcoming | Coming soon
+
+Take up thy hammer and lay waste to the hordes of hell. Hold fast against the legions of the damned, and smite them into oblivion. Because a new age is coming … an Age of Hell
+
+[Watch: Realms Deep 2023 Trailer](https://store.steampowered.com/app/1779060/)  
+[Watch: Realms Deep 2022 Trailer](https://store.steampowered.com/app/1779060/)  
+
+[Steam](https://store.steampowered.com/app/1779060/) | [itch.io - demo (demo)](https://hellforge-studios.itch.io/the-age-of-hell)
+
+[Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=steam%3A1779060)
 
 </td>
 </tr>
@@ -2465,23 +2465,6 @@ An unique blend of retro-fps, metroidvania and adventure. Escape the cyber after
 <tr>
 <td width="33%" valign="top">
 
-[![DISDAIN](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113270/header.jpg?t=1672191592)](Game-2113270-DISDAIN)
-
-**[DISDAIN](Game-2113270-DISDAIN)**
-
-7/10 recommendation | Upcoming | Coming soon
-
-DISDAIN is a fast-paced, visceral retro-styled first person shooter, inspired by the legendary FPS games of yesteryear.
-
-[Watch: Disdain Announcement Trailer](https://store.steampowered.com/app/2113270/)  
-
-[Steam](https://store.steampowered.com/app/2113270/)
-
-[Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=steam%3A2113270)
-
-</td>
-<td width="33%" valign="top">
-
 [![Hellbound](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753590/header.jpg?t=1727046815)](Game-753590-Hellbound)
 
 **[Hellbound](Game-753590-Hellbound)**
@@ -2515,6 +2498,23 @@ Diluvian Ultra is a single-player, first-person shooter focusing on a retro aest
 [Steam](https://store.steampowered.com/app/1306970/) | [GOG](https://www.gog.com/en/game/diluvian_ultra) | [Patreon (support)](https://www.patreon.com/diluvian) | [Epic Games](https://store.epicgames.com/en-US/p/diluvian-ultra-a5ad8c)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=steam%3A1306970)
+
+</td>
+<td width="33%" valign="top">
+
+[![DISDAIN](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113270/header.jpg?t=1672191592)](Game-2113270-DISDAIN)
+
+**[DISDAIN](Game-2113270-DISDAIN)**
+
+None/10 recommendation | Upcoming | Coming soon
+
+DISDAIN is a fast-paced, visceral retro-styled first person shooter, inspired by the legendary FPS games of yesteryear.
+
+[Watch: Disdain Announcement Trailer](https://store.steampowered.com/app/2113270/)  
+
+[Steam](https://store.steampowered.com/app/2113270/)
+
+[Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=steam%3A2113270)
 
 </td>
 </tr>

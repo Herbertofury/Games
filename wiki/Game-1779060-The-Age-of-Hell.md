@@ -9,7 +9,7 @@ Take up thy hammer and lay waste to the hordes of hell. Hold fast against the le
 | Field | Value |
 |:--|:--|
 | Collection | Horror & occult FPS |
-| Recommendation | 7/10 |
+| Recommendation | Unrated |
 | Community reception | No aggregate rating |
 | Release | Coming soon |
 | Availability | Upcoming |

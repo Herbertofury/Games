@@ -2,7 +2,7 @@
 
 ![Echo Point Nova official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/80d80e7510d9df1659801115516cf0100bc85cf2/header.jpg?t=1775572906)
 
-**[Open official page](https://store.steampowered.com/app/1836730/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1836730)** · [Boomer shooters](Boomer-Shooters)
+**[Open official page](https://store.steampowered.com/app/1836730/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1836730)** · [Boomer shooters](Boomer-Shooters) · [Platformers](Platformers)
 
 Echo Point Nova is an open-world FPS that offers unparalleled freedom and thrilling speed. Designed for both singleplayer and coop. From the creators of Severed Steel.
 
@@ -12,7 +12,7 @@ A standout adjacent recommendation for expressive traversal and large spaces. Th
 
 | Field | Value |
 |:--|:--|
-| Collection | Movement shooters |
+| Collection | Movement shooters, Speed & expressive movement |
 | Recommendation | 10/10 |
 | Community reception | 96.5% / 8,099 Steam reviews |
 | Release | Sep 24, 2024 |
@@ -64,3 +64,20 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 - [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1836730%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T06:23:54.178310+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+## Platformer field notes
+
+**Movement focus:** Open-world shooter / traversal hybrid
+
+**Scope:** Explicit hybrid / adjacent route
+
+**Verified hardware / builds:** windows
+
+Routes, momentum and expressive movement rather than simply reaching the exit.
+
+**Before choosing:** Speed, combat and input demands vary; these are not all gentle traditional platformers.
+
+**Evidence depth:** Subgenre study lens; see official description and verified facts. Source-grounded editorial analysis, not a claim of hands-on playtesting. PC operating systems from Steam only; absence here does not imply console exclusivity.
+
+[Platformer hub](Platformers) | [Comparative study](Platformers-Study) | [Gem shortlist](Platformers-Gems) | [New and upcoming](Platformers-New-and-Upcoming) | [Media atlas](Platformers-Media) | [Source and coverage audit](Platformers-Sources)
+

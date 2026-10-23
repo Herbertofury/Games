@@ -1,0 +1,73 @@
+# Momodora: Moonlit Farewell
+
+![Momodora: Moonlit Farewell official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1747760/header.jpg?t=1750039435)
+
+**[Open official page](https://store.steampowered.com/app/1747760/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1747760)** · [Platformers](Platformers)
+
+"Momodora: Moonlit Farewell" is the latest installment in the Momodora series. Join Momo, High Priestess of the village of Koho, as she embarks on ...
+
+## Why it is here
+
+Ability-gated exploration, spatial memory and routes that change as the movement kit grows.
+
+| Field | Value |
+|:--|:--|
+| Collection | Exploration & Metroidvanias |
+| Recommendation | 9/10 |
+| Community reception | 92.0% / 3,321 Steam reviews |
+| Release | Jan 11, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Play style | Exploration platformer / adjacent Metroidvania |
+| Creators | Bombservice |
+| Price snapshot | $16.99 |
+| Verified | 2026-10-23T16:58:22.046289+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/1747760/)
+
+## Videos and screenshots
+
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Momodora: Moonlit Farewell](https://store.steampowered.com/app/1747760/) | Creator / publisher
+
+![Momodora: Moonlit Farewell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1747760/ss_8f70599e59612aecec0633a780f1fa2b5ba36624.1920x1080.jpg?t=1750039435)
+
+![Momodora: Moonlit Farewell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1747760/ss_72787f203f5d33923eac90debdac21f947a10aca.1920x1080.jpg?t=1750039435)
+
+![Momodora: Moonlit Farewell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1747760/ss_0e2c8e352593cc8595084cb0a711d47c6955c314.1920x1080.jpg?t=1750039435)
+
+![Momodora: Moonlit Farewell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1747760/ss_0c39926655bc021632a14679e05e770212819208.1920x1080.jpg?t=1750039435)
+
+![Momodora: Moonlit Farewell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1747760/ss_1a32a8d1ca47651b909d01e4ab7eb48c4eca2e62.1920x1080.jpg?t=1750039435)
+
+![Momodora: Moonlit Farewell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1747760/ss_20e3ef25b45d4559de7fb58886dcd41e4a820abc.1920x1080.jpg?t=1750039435)
+
+![Momodora: Moonlit Farewell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1747760/ss_1fc19c379cebc92fa65b30d5fc0da133e28cafd1.1920x1080.jpg?t=1750039435)
+
+## Sources and evidence
+
+- [Steam](https://store.steampowered.com/app/1747760/) · checked 2026-10-23T16:58:22.046289+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1747760&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1747760%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+## Platformer field notes
+
+**Movement focus:** Exploration platformer / adjacent Metroidvania
+
+**Scope:** Core platformer or platforming-led exploration
+
+**Verified hardware / builds:** windows
+
+Ability-gated exploration, spatial memory and routes that change as the movement kit grows.
+
+**Before choosing:** Combat-heavy, top-down and unusual traversal hybrids are identified in the study; not every entry is a pure jumping game.
+
+**Evidence depth:** Subgenre study lens; see official description and verified facts. Source-grounded editorial analysis, not a claim of hands-on playtesting. PC operating systems from Steam only; absence here does not imply console exclusivity.
+
+[Platformer hub](Platformers) | [Comparative study](Platformers-Study) | [Gem shortlist](Platformers-Gems) | [New and upcoming](Platformers-New-and-Upcoming) | [Media atlas](Platformers-Media) | [Source and coverage audit](Platformers-Sources)
+

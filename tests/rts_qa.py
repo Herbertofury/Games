@@ -17,7 +17,7 @@ try:
   browser=pw.chromium.launch(headless=True,executable_path=os.environ.get('CHROMIUM_PATH') or shutil.which('chromium'),args=['--no-sandbox'])
   ctx=browser.new_context(viewport={'width':1536,'height':1100},accept_downloads=True,reduced_motion='reduce');page=ctx.new_page();page.set_default_timeout(15000);page.on('pageerror',lambda e:report['errors'].append(str(e)))
   url=f'http://127.0.0.1:{port}/';page.goto(url,wait_until='domcontentloaded');page.wait_for_function('window.GamesTest')
-  for hub,count in [('Roguelites',170),('Boomer shooters',150),('Real-time strategy',130)]:
+  for hub,count in [(h,catalog['build']['hubCounts'][h]) for h in ['Roguelites','Boomer shooters','Real-time strategy']]:
    page.locator('[data-hub="'+hub+'"]').click();check(hub+' count preserved',page.locator('.game-card').count()==count)
   check('Distinct command-center theme',page.locator('body').get_attribute('data-hub')=='rts')
   for preset in ['torment','generals','skirmish','free-rts','watchlist','new','demos']:
