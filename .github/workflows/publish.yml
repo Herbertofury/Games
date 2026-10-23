@@ -1,0 +1,105 @@
+name: Publish library
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['site/**','scripts/build.py','scripts/publish_wiki.py','tests/**','docs/UPDATING.md','.github/workflows/publish.yml']
+  workflow_run:
+    workflows: ['Refresh Steam catalog','Add game recommendation','Install library source']
+    types: [completed]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: library-publish
+  cancel-in-progress: false
+jobs:
+  build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    outputs:
+      pages-ready: ${{ steps.pages-probe.outputs.ready }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build the canonical snapshot
+        run: |
+          test -s data/catalog.json || { echo 'Official metadata refresh has not published its snapshot yet. Rerun after Refresh Steam catalog completes.'; exit 1; }
+          python3 scripts/build.py
+          node --check site/app.js
+          python3 -m unittest discover -s tests -p 'test_*.py'
+      - name: Install browser QA dependencies
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          python3 -m playwright install --with-deps chromium
+      - name: Real browser acceptance tests
+        run: python3 tests/browser_qa.py
+      - name: Publish native wiki
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/publish_wiki.py
+      - name: Check Pages publishing prerequisites
+        id: pages-probe
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p qa
+          if gh api repos/$GITHUB_REPOSITORY/pages > qa/pages-publication.json 2> qa/pages-error.txt; then
+            echo 'ready=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'ready=false' >> "$GITHUB_OUTPUT"
+            python3 -c 'import json;json.dump({"state":"unresolved-active","blocker":"Enable GitHub Pages once in Settings > Pages > Source: GitHub Actions."},open("qa/pages-publication.json","w"),indent=2)'
+            echo 'Pages needs one-time repository enablement. Portable HTML and the verified release remain available.' >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - name: Persist source-matched generated artifacts and QA
+        run: |
+          mkdir -p docs/qa
+          cp qa/*.json docs/qa/
+          cp qa/desktop.png docs/qa/desktop.png
+          cp qa/mobile.png docs/qa/mobile.png
+          cp qa/detail.png docs/qa/detail.png
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dist wiki docs/qa
+          if ! git diff --cached --quiet; then
+            git commit -m 'Publish the verified library, generated wiki, and runtime QA evidence'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Publish downloadable release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="catalog-${GITHUB_RUN_NUMBER}"
+          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title 'Games - Living Library' --notes-file docs/RELEASE.md --target main
+          gh release upload "$TAG" 'release/Games - Explorer.html' 'release/Games - Library.zip' release/SHA256SUMS.txt --clobber
+          gh release view "$TAG" --json url,assets > qa/release-publication.json
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.pages-probe.outputs.ready == 'true'
+        with:
+          path: dist
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: games-release-and-verification
+          path: |
+            release/
+            qa/
+  deploy:
+    needs: build
+    if: needs.build.outputs.pages-ready == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy the interactive collection
+        id: deployment
+        uses: actions/deploy-pages@v4
