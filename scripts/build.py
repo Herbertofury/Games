@@ -3,6 +3,7 @@
 import argparse,csv,datetime as dt,hashlib,html,json,pathlib,re,shutil,zipfile
 from catalog_model import assemble,score,validate
 from wiki_builder import build_wiki
+from platformer_study import build_platformer_wiki
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 REPO='https://github.com/Herbertofury/Games'
 SITE='https://herbertofury.github.io/Games/'
@@ -17,13 +18,14 @@ def main():
     out=ROOT/'dist';out.mkdir(exist_ok=True);wiki=ROOT/'wiki';wiki.mkdir(exist_ok=True);assets=out/'assets';assets.mkdir(exist_ok=True)
     def source(name):return (ROOT/'site'/name).read_text()
     data=json.dumps(catalog,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c').replace('\u2028','\\u2028').replace('\u2029','\\u2029')
-    app=source('app.js').replace('</script','<\\/script')
-    page=source('index.html').replace('/*__CSS__*/',source('styles.css')).replace('/*__DATA__*/','window.GAMES_CATALOG='+data+';').replace('/*__APP__*/',app)
+    app=(source('app.js')+'\n'+source('platformers.js')).replace('</script','<\\/script')
+    page=source('index.html').replace('/*__CSS__*/',source('styles.css')+'\n'+source('platformers.css')).replace('/*__DATA__*/','window.GAMES_CATALOG='+data+';').replace('/*__APP__*/',app)
     assert not any(x in page for x in ['/*__CSS__*/','/*__DATA__*/','/*__APP__*/'])
     (out/'index.html').write_text(page);(out/'.nojekyll').write_text('');shutil.copyfile(ROOT/'site/sw.js',out/'sw.js');shutil.copyfile(path,out/'catalog.json')
     verified=[g for g in games if g.get('verification')=='verified'];unresolved=[g for g in games if g.get('verification')!='verified'];collections=sorted({g['collection'] for g in games})
     trailer_count=sum(any(t.get('mp4') or t.get('webm') or t.get('hls') or t.get('youtube') for t in g.get('trailers',[])) for g in games)
     build_wiki(ROOT,catalog)
+    build_platformer_wiki(ROOT,catalog)
     manifest={'schemaVersion':1,'version':'1.3.0','builtAt':dt.datetime.now(dt.timezone.utc).isoformat(),'sourceRepository':REPO,'sourceRevision':__import__('os').environ.get('GITHUB_SHA'),'sourceWiki':REPO+'/wiki','datasetHash':catalog.get('build',{}).get('datasetHash'),'records':len(games),'verified':len(verified),'unresolved':len(unresolved),'trailers':trailer_count,'collections':collections,'hubs':catalog['build']['hubCounts'],'platforms':sorted({x['provider'] for g in games for x in g.get('storefronts',[])}),'html':{'bytes':(out/'index.html').stat().st_size,'sha256':digest(out/'index.html')},'sourceFiles':{str(p.relative_to(ROOT)):digest(p) for d in ['site','scripts','tests','data'] for p in (ROOT/d).rglob('*') if p.is_file() and '__pycache__' not in str(p) and p.suffix not in ['.png','.jpg']}}
     (out/'manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
     release=ROOT/'release';release.mkdir(exist_ok=True);shutil.copyfile(out/'index.html',release/'Games - Explorer.html')

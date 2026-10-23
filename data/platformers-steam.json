@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hub": "Platformers",
-  "generatedAt": "2026-10-23T17:07:37.068604+00:00",
+  "generatedAt": "2026-10-23T17:27:43.713852+00:00",
   "scope": "Broad curated discovery, not an exhaustive inventory or hands-on playtest.",
   "items": [
     {
@@ -93944,6 +93944,522 @@
       ]
     },
     {
+      "id": "steam:411970",
+      "appid": 411970,
+      "seedId": "411970",
+      "seedName": "TY the Tasmanian Tiger 2: Bush Rescue",
+      "name": "TY the Tasmanian Tiger 2",
+      "collection": "3D worlds & collectathons",
+      "fit": 8,
+      "summary": "STREWTH! It's time to go back Down Under with this fully remastered version of TY the Tasmanian Tiger 2: Bush Rescue. Rang, bite, smash ...",
+      "developers": [
+        "Krome Studios"
+      ],
+      "publishers": [
+        "Krome Studios"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "tags": [
+        "3D exploration platformer",
+        "3D worlds & collectathons",
+        "Action",
+        "Adventure",
+        "Boss fights",
+        "Editorial gem candidate",
+        "Indie",
+        "Platformer"
+      ],
+      "features": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "status": "Released",
+      "releaseDate": "2017-12-12",
+      "releaseLabel": "Dec 12, 2017",
+      "comingSoon": false,
+      "free": false,
+      "price": "$14.99",
+      "priceMinor": 1499,
+      "currency": "USD",
+      "discount": 0,
+      "platforms": [
+        "windows"
+      ],
+      "rating": 94.4,
+      "reviewCount": 808,
+      "reviewLabel": "Very Positive",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T17:27:43.713756+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/header.jpg?t=1732762479",
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/411970?t=1732762479",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_3db8a30c487ab25fc489c889b5f9cc9d67a1fda4.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_3db8a30c487ab25fc489c889b5f9cc9d67a1fda4.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_a788ee0fa1337b4562ac8843c94fda83acf63da0.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_a788ee0fa1337b4562ac8843c94fda83acf63da0.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_80a9151c35c814c53e31fffecfdaabbdb6319a62.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_80a9151c35c814c53e31fffecfdaabbdb6319a62.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_8240ee5eed11b964e205710f0b8edfebe2662ebc.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_8240ee5eed11b964e205710f0b8edfebe2662ebc.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_345fb78064ba3c7154bab626eb3ec3c6585d69ed.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_345fb78064ba3c7154bab626eb3ec3c6585d69ed.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_0f5bff32883266ac58457be6a4d6223a8b2afcc1.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_0f5bff32883266ac58457be6a4d6223a8b2afcc1.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_2ba7ccd667ddf42d98a8de42436620be81d5542c.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_2ba7ccd667ddf42d98a8de42436620be81d5542c.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_e597aa9e5f0b549b968f1028d25a39e186a3326a.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_e597aa9e5f0b549b968f1028d25a39e186a3326a.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_7e090593245aa89a8b707d5c9298a61c3eb43b73.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_7e090593245aa89a8b707d5c9298a61c3eb43b73.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_378b92f95d4365db8da93dec82243431865eba4f.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_378b92f95d4365db8da93dec82243431865eba4f.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_4c01e7ef7857cdefe639e29e4f95694397c8c752.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_4c01e7ef7857cdefe639e29e4f95694397c8c752.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_c09c36505b64af62c99e0740284ee06a1fa844b0.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_c09c36505b64af62c99e0740284ee06a1fa844b0.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_ba307ef6443fad34758c017bddab857c23195541.1920x1080.jpg?t=1732762479",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411970/ss_ba307ef6443fad34758c017bddab857c23195541.600x338.jpg?t=1732762479",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "alt": "TY the Tasmanian Tiger 2 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "TY2 Steam Release Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256703346/movie.293x165.jpg?t=1513054825",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/411970/137332/56b517a96d43affed06249f38660765ea5d9f59b/1751279844/hls_264_master.m3u8?t=1513054825",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "id": 256703346
+        },
+        {
+          "name": "TY2 Steam Teaser",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256680008/movie.293x165.jpg?t=1488508232",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/411970/91401/70c22565218d9a834abdaf1762122b30db935244/1751279840/hls_264_master.m3u8?t=1488508232",
+          "sourceUrl": "https://store.steampowered.com/app/411970/",
+          "id": 256680008
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/411970/",
+      "website": "http://www.kromestudios.com/TY/",
+      "verifiedAt": "2026-10-23T17:27:43.713756+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/411970/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:43.713756+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=411970&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:43.713756+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A411970%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:43.713756+00:00"
+        }
+      ],
+      "warnings": [],
+      "hubs": [
+        "Platformers"
+      ],
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/411970/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "3D exploration platformer",
+      "curatorWhy": "Traversal through readable three-dimensional spaces, secrets and optional collection.",
+      "recommendationCaution": "Camera behaviour and completionist demands matter as much as raw level count.",
+      "editorialFit": 8,
+      "hiddenGem": true,
+      "confidence": "Source-grounded editorial selection",
+      "discoveryEvidence": [],
+      "researchCheckedAt": "2026-10-23T17:27:43.713852+00:00",
+      "demoAppids": [],
+      "platformerInfo": {
+        "focus": "3D exploration platformer",
+        "studyLens": "Traversal through readable three-dimensional spaces, secrets and optional collection.",
+        "reviewBasis": "Official Steam review API; exact query and collection time are retained with the sources.",
+        "platformScope": "PC operating systems from Steam only; absence here does not imply console exclusivity.",
+        "editionNote": "This record describes the exact listed store edition; its store date need not be the original game release."
+      },
+      "availability": "Available in the checked US Steam snapshot",
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/411970/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:43.713852+00:00",
+          "availabilityNote": "Available in the checked US Steam snapshot"
+        }
+      ]
+    },
+    {
+      "id": "steam:411980",
+      "appid": 411980,
+      "seedId": "411980",
+      "seedName": "TY the Tasmanian Tiger 3: Night of the Quinkan",
+      "name": "TY the Tasmanian Tiger 3",
+      "collection": "3D worlds & collectathons",
+      "fit": 7,
+      "summary": "CRIKEY! TY is back with a brand new adventure, in this fully remastered version of TY the Tasmanian Tiger 3: Night of the Quinkan. ...",
+      "developers": [
+        "Krome Studios"
+      ],
+      "publishers": [
+        "Krome Studios"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "tags": [
+        "3D exploration platformer",
+        "3D worlds & collectathons",
+        "Action",
+        "Adventure",
+        "Boss fights",
+        "Editorial gem candidate",
+        "Indie",
+        "Platformer"
+      ],
+      "features": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "status": "Released",
+      "releaseDate": "2018-12-17",
+      "releaseLabel": "Dec 17, 2018",
+      "comingSoon": false,
+      "free": false,
+      "price": "$14.99",
+      "priceMinor": 1499,
+      "currency": "USD",
+      "discount": 0,
+      "platforms": [
+        "windows"
+      ],
+      "rating": 79.3,
+      "reviewCount": 261,
+      "reviewLabel": "Mostly Positive",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T17:27:43.713756+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/header.jpg?t=1732762521",
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/411980?t=1732762521",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_8a4b304920a645213dabba913067284cef3f18a4.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_8a4b304920a645213dabba913067284cef3f18a4.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_5127a9945d33a8deedf11877c1d76ac658c7dddc.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_5127a9945d33a8deedf11877c1d76ac658c7dddc.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_201e3b2fb34d67dfa943fc384f263ca2df4794e9.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_201e3b2fb34d67dfa943fc384f263ca2df4794e9.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_7fd6af15937545e9dcdca119abbe82c9ef9dffce.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_7fd6af15937545e9dcdca119abbe82c9ef9dffce.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_183143469e86b52fd56e39c5be4ac467e8918fde.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_183143469e86b52fd56e39c5be4ac467e8918fde.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_a2d87ae969c7cbe6cfd7c85d576f2a7e38c3c277.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_a2d87ae969c7cbe6cfd7c85d576f2a7e38c3c277.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_329d59cb31f56b742670729e6cde7469cdbc68a3.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_329d59cb31f56b742670729e6cde7469cdbc68a3.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_1bbffd2676c5861f3392af853a4e2d9bf62b831f.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_1bbffd2676c5861f3392af853a4e2d9bf62b831f.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_df7b4b8459d1f8a6da6842e6b86f57899b5d6fde.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_df7b4b8459d1f8a6da6842e6b86f57899b5d6fde.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_d626a5fdf64091b1a85d99d722ef4310ec252560.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_d626a5fdf64091b1a85d99d722ef4310ec252560.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_b415b9d4245303002bb1bbf8e0f5dd37fe2b71ca.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_b415b9d4245303002bb1bbf8e0f5dd37fe2b71ca.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_dab5dca90c506af710371f921c5aa5d6994c3b58.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_dab5dca90c506af710371f921c5aa5d6994c3b58.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_7dd4526e4cc0aa1ae143307e4c521223dedc1bca.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_7dd4526e4cc0aa1ae143307e4c521223dedc1bca.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_add268e0f4bc0c4eaaa5c21fcc33eb064c12f8d2.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_add268e0f4bc0c4eaaa5c21fcc33eb064c12f8d2.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_9c145818faba2c6cb96d9fb2dd5335bee9ad8d56.1920x1080.jpg?t=1732762521",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411980/ss_9c145818faba2c6cb96d9fb2dd5335bee9ad8d56.600x338.jpg?t=1732762521",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "alt": "TY the Tasmanian Tiger 3 official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "TY 3 Release Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256737994/movie.293x165.jpg?t=1545087993",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/411980/200209/457203dc2d84738f25a4f0789f531317990523ad/1751279846/hls_264_master.m3u8?t=1545087993",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "id": 256737994
+        },
+        {
+          "name": "Original TY 3 Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256707617/movie.293x165.jpg?t=1519085917",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/411980/145028/528d29c2927af72dc72cbf77d84b671182ed2a71/1751279845/hls_264_master.m3u8?t=1519085917",
+          "sourceUrl": "https://store.steampowered.com/app/411980/",
+          "id": 256707617
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/411980/",
+      "website": "http://www.kromestudios.com/TY/",
+      "verifiedAt": "2026-10-23T17:27:43.713756+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/411980/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:43.713756+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=411980&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:43.713756+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A411980%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:43.713756+00:00"
+        }
+      ],
+      "warnings": [],
+      "hubs": [
+        "Platformers"
+      ],
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/411980/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "3D exploration platformer",
+      "curatorWhy": "Traversal through readable three-dimensional spaces, secrets and optional collection.",
+      "recommendationCaution": "Camera behaviour and completionist demands matter as much as raw level count.",
+      "editorialFit": 7,
+      "hiddenGem": true,
+      "confidence": "Source-grounded editorial selection",
+      "discoveryEvidence": [],
+      "researchCheckedAt": "2026-10-23T17:27:43.713852+00:00",
+      "demoAppids": [],
+      "platformerInfo": {
+        "focus": "3D exploration platformer",
+        "studyLens": "Traversal through readable three-dimensional spaces, secrets and optional collection.",
+        "reviewBasis": "Official Steam review API; exact query and collection time are retained with the sources.",
+        "platformScope": "PC operating systems from Steam only; absence here does not imply console exclusivity.",
+        "editionNote": "This record describes the exact listed store edition; its store date need not be the original game release."
+      },
+      "availability": "Available in the checked US Steam snapshot",
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/411980/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:27:43.713852+00:00",
+          "availabilityNote": "Available in the checked US Steam snapshot"
+        }
+      ]
+    },
+    {
       "id": "steam:2685090",
       "appid": 2685090,
       "seedId": "2685090",
@@ -100484,20 +101000,5 @@
       ]
     }
   ],
-  "unresolved": [
-    {
-      "candidate": "TY the Tasmanian Tiger 2: Bush Rescue",
-      "collection": "3D worlds & collectathons",
-      "state": "unresolved-active",
-      "reason": "Exact identity unresolved or ambiguous; candidates=[]; rejected hints=[{'hintAppid': 411970, 'returnedName': 'TY the Tasmanian Tiger 2', 'decision': 'Rejected mismatched or unavailable discovery hint'}]",
-      "checkedAt": "2026-10-23T17:07:37.068604+00:00"
-    },
-    {
-      "candidate": "TY the Tasmanian Tiger 3: Night of the Quinkan",
-      "collection": "3D worlds & collectathons",
-      "state": "unresolved-active",
-      "reason": "Exact identity unresolved or ambiguous; candidates=[]; rejected hints=[{'hintAppid': 411980, 'returnedName': 'TY the Tasmanian Tiger 3', 'decision': 'Rejected mismatched or unavailable discovery hint'}]",
-      "checkedAt": "2026-10-23T17:07:37.068604+00:00"
-    }
-  ]
+  "unresolved": []
 }

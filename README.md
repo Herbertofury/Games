@@ -4,9 +4,9 @@
 
 ## A home for every great discovery.
 
-[Real-time strategy](https://github.com/Herbertofury/Games/wiki/Real-Time-Strategy) | [RTS media atlas](https://github.com/Herbertofury/Games/wiki/RTS-Media) | [Boomer shooters](https://github.com/Herbertofury/Games/wiki/Boomer-Shooters) | [Roguelites](https://github.com/Herbertofury/Games/wiki/Roguelites) | [Download the interactive library](https://github.com/Herbertofury/Games/releases/latest)
+[Platformers](https://github.com/Herbertofury/Games/wiki/Platformers) | [Platformer study](https://github.com/Herbertofury/Games/wiki/Platformers-Study) | [Real-time strategy](https://github.com/Herbertofury/Games/wiki/Real-Time-Strategy) | [RTS media atlas](https://github.com/Herbertofury/Games/wiki/RTS-Media) | [Boomer shooters](https://github.com/Herbertofury/Games/wiki/Boomer-Shooters) | [Roguelites](https://github.com/Herbertofury/Games/wiki/Roguelites) | [Download the interactive library](https://github.com/Herbertofury/Games/releases/latest)
 
-A local-first collection built around actual recommendations, exact game identities, and source-grounded media. The current source contains 448 unique games: 170 roguelite entries, 150 shooter entries with two cross-genre overlaps, and 130 RTS entries. A store appearing twice does not create another game.
+A local-first collection built around actual recommendations, exact game identities, and source-grounded media. The canonical source spans roguelites, shooters, real-time strategy and the researched platformer collection. Counts, overlaps and source coverage are generated from the current snapshot rather than frozen in this introduction. A store appearing twice does not create another game.
 
 The RTS command center focuses on Command & Conquer: Generals - Zero Hour: base building, asymmetric factions, combined arms, AI skirmish, and major community overhauls. Conventional RTS, tactical-only games, fleet command, survival defense, prototypes, and upcoming projects remain distinct. Classic original release years are shown separately from later storefront editions.
 
@@ -24,6 +24,8 @@ Steam reception, recommendation fit, and personal rating are separate. A high th
 - `data/rts-steam.json`, `data/rts-external.json`, and `data/rts-storefronts.json`: official provider snapshots and checked alternate destinations.
 - `data/rts-curation.json`: why a game belongs, base-building/skirmish distinctions, cautions, and original release years.
 - `data/rts-media-completion.json`: audited media/edition corrections. Never substitute a different game, remake, or generic franchise image.
+- `data/platformers-seeds.tsv`, `data/platformers-steam.json`, `data/platformers-external*.json`, and `data/platformers-editorial.tsv`: exact platformer identities, current source snapshots, console/creator editions, and individual editorial notes.
+- `docs/PLATFORMERS-STUDY.md`: the comparative study and discovery methodology.
 - `data/catalog.json`: the assembled canonical snapshot used by both app and wiki.
 - `site/`, `scripts/`, `tests/`: application, build/update logic, and acceptance tests.
 - `wiki/`, `dist/`, `release/`: generated wiki, portable website, and reproducible source/release ZIP.

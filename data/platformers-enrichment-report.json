@@ -1,28 +1,13 @@
 {
-  "checkedAt": "2026-10-23T17:07:37.068604+00:00",
+  "checkedAt": "2026-10-23T17:27:43.713852+00:00",
   "candidates": 420,
-  "verified": 418,
-  "unresolved": [
-    {
-      "candidate": "TY the Tasmanian Tiger 2: Bush Rescue",
-      "collection": "3D worlds & collectathons",
-      "state": "unresolved-active",
-      "reason": "Exact identity unresolved or ambiguous; candidates=[]; rejected hints=[{'hintAppid': 411970, 'returnedName': 'TY the Tasmanian Tiger 2', 'decision': 'Rejected mismatched or unavailable discovery hint'}]",
-      "checkedAt": "2026-10-23T17:07:37.068604+00:00"
-    },
-    {
-      "candidate": "TY the Tasmanian Tiger 3: Night of the Quinkan",
-      "collection": "3D worlds & collectathons",
-      "state": "unresolved-active",
-      "reason": "Exact identity unresolved or ambiguous; candidates=[]; rejected hints=[{'hintAppid': 411980, 'returnedName': 'TY the Tasmanian Tiger 3', 'decision': 'Rejected mismatched or unavailable discovery hint'}]",
-      "checkedAt": "2026-10-23T17:07:37.068604+00:00"
-    }
-  ],
-  "released": 411,
+  "verified": 420,
+  "unresolved": [],
+  "released": 413,
   "earlyAccess": 1,
   "upcoming": 6,
-  "withImages": 418,
-  "withVideos": 414,
+  "withImages": 420,
+  "withVideos": 416,
   "reviewErrors": [],
-  "sha256": "b1225958ee39823fce43b0a47c01d66334a72d85035d0e26a9bbf5ff3727a1e3"
+  "sha256": "f2519ed23377bea8cf658d2faca259abc579668d999ed0fcdfd1345c570e4ee9"
 }

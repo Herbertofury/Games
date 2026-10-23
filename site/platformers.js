@@ -3,6 +3,7 @@
 (function installPlatformerHub(){
  const hub='Platformers';
  const wiki='https://github.com/Herbertofury/Games/wiki/Platformers';
+ const originalBestLabel=$('[data-preset="best"] small').textContent,originalNewLabel=$('[data-preset="new"] small').textContent;
  const featuredBefore=featuredGame,heroBefore=hero,renderHubBefore=renderHub,presetBefore=preset,sourceBefore=sourcePanel;
  if(!document.querySelector('[data-hub="Platformers"]'))document.querySelector('.genre-hubs').insertAdjacentHTML('beforeend','<button class="nav-item" data-hub="Platformers">Platformers <span class="new-pill">NEW</span></button>');
  document.querySelector('.featured').insertAdjacentHTML('afterend',`<section class="platformer-guide" hidden aria-label="Platformer study routes"><div><span class="eyebrow">MOVEMENT IS THE POINT / 04</span><h2>Find your kind of leap.</h2><p>Precision, playful worlds, impossible routes. Core platformers and clearly labelled hybrids, from established classics to the newest checked releases.</p></div><nav aria-label="Platformer routes"><button data-platformer-route="precision">Precision & mastery</button><button data-platformer-route="3d">3D worlds</button><button data-platformer-route="exploration">Exploration</button><button data-platformer-route="puzzles">Puzzles & atmosphere</button><button data-platformer-route="coop">Bring a friend</button><button data-platformer-route="gems">Gem shortlist</button><button data-platformer-route="free">Free creator games</button><button data-platformer-route="upcoming">Upcoming, not yet rated</button></nav><a class="quiet platformer-study-link" href="${wiki}" target="_blank" rel="noopener">Read the full study, source notes and illustrated dossiers ${icon('external')}</a></section>`);
@@ -11,7 +12,7 @@
  renderHub=function(){
   renderHubBefore();const active=state.hub===hub;
   $('.platformer-guide').hidden=!active;
-  if(!active)return;
+  if(!active){$('[data-preset="best"] small').textContent=originalBestLabel;$('[data-preset="new"] small').textContent=originalNewLabel;return;}
   document.body.dataset.hub='platformers';
   $('.intro h1').innerHTML='Make the leap<span>.</span>';
   $('.intro p').textContent='The platformer study. Precision classics, expressive 3D worlds, cinematic puzzles, co-op discoveries and the gems between them.';

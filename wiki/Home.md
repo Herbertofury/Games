@@ -2,9 +2,11 @@
 
 # A home for every great discovery
 
+[Platformers](Platformers) · [Platformer study](Platformers-Study) · [Platformer media atlas](Platformers-Media)
+
 **[Open your interactive library](https://herbertofury.github.io/Games/)** · [Real-time strategy](Real-Time-Strategy) · [Roguelites](Roguelites) · [Boomer shooters](Boomer-Shooters) · [Beyond Steam](Beyond-Steam) · [Creator support](Creator-Support)
 
-**448 unique recommendations.** 170 in Roguelites; 150 in Boomer shooters; 130 in Real-time strategy. Cross-genre games appear in both hubs but exist only once in the master catalog.
+**885 unique recommendations.** 198 in Roguelites; 150 in Boomer shooters; 130 in Real-time strategy. 439 in Platformers. Cross-genre games appear in both hubs but exist only once in the master catalog.
 
 | Start exploring | What you will find |
 |:--|:--|

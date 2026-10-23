@@ -1,6 +1,6 @@
 # Discovery reconciliation
 
-Published catalog: 448 unique records. Unresolved new candidates: 4. Unresolved does not mean nonexistent.
+Published catalog: 885 unique records. Unresolved new candidates: 4. Unresolved does not mean nonexistent.
 
 - **Armor Clash 4**: No exact published identity confirmed. Not silently replaced with another game.
 - **Rise of Legends**: No current official digital edition confirmed. Do not link an unrelated title or unofficial download.

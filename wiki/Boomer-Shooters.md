@@ -291,12 +291,12 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
 | [Siren](Game-external-siren-Siren) | 8/10 | 4.8/5 / 29 itch.io ratings | Original date unlisted · Prototype | [itch.io](https://dithered-output.itch.io/siren-doom-ii-mod) |
-| [DISDAIN](Game-2113270-DISDAIN) | 7/10 | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/2113270/) |
 | [Doom: The Golden Souls 3 - Public Demo](Game-external-golden-souls-3-Doom-The-Golden-Souls-3-Public-Demo) | 7/10 | 4.9/5 / 37 itch.io ratings | Original date unlisted · Demo | [itch.io](https://batandy.itch.io/goldensouls3) |
 | [KAUNA - Creator Prototype](Game-external-kauna-prototype-KAUNA-Creator-Prototype) | 7/10 | 4.2/5 / 4 itch.io ratings | Original date unlisted · Prototype | [itch.io](https://anttironkkagames.itch.io/kauna) |
-| [The Age of Hell](Game-1779060-The-Age-of-Hell) | 7/10 | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/1779060/) · [itch.io](https://hellforge-studios.itch.io/the-age-of-hell) |
 | [VietDoom - Public Alpha](Game-external-vietdoom-VietDoom-Public-Alpha) | 7/10 | No aggregate rating | 2019 (year only) · Prototype | [ModDB](https://www.moddb.com/mods/vietdoom) |
 | [Wanted 3D: Dead or Alive - Demo](Game-external-wanted3d-demo-Wanted-3D-Dead-or-Alive-Demo) | 7/10 | 5/5 / 2 itch.io ratings | Original date unlisted · Demo | [itch.io](https://pavoent.itch.io/wanted-3d-dead-or-alive) |
+| [DISDAIN](Game-2113270-DISDAIN) | Unrated | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/2113270/) |
+| [The Age of Hell](Game-1779060-The-Age-of-Hell) | Unrated | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/1779060/) · [itch.io](https://hellforge-studios.itch.io/the-age-of-hell) |
 
 ## The complete collection
 
@@ -386,8 +386,8 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | [SUFFER](Game-950210-SUFFER) | 7/10 | 72.6% / 73 Steam reviews | Dec 10, 2018 · Released | [Steam](https://store.steampowered.com/app/950210/) |
 | [MALEDICTOR](Game-2723250-MALEDICTOR) | 7/10 | 100.0% / 16 Steam reviews | Jul 14, 2026 · Early Access | [Steam](https://store.steampowered.com/app/2723250/) |
 | [Dead Trash: Operation Yellow Snow - itch.io Standalone](Game-external-dead-trash-yellow-snow-Dead-Trash-Operation-Yellow-Snow-itch-io-Standalone) | 7/10 | 5/5 / 4 itch.io ratings | Original date unlisted · Released | [itch.io](https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow) |
-| [The Age of Hell](Game-1779060-The-Age-of-Hell) | 7/10 | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/1779060/) · [itch.io](https://hellforge-studios.itch.io/the-age-of-hell) |
 | [HYPERVIOLENT](Game-1409200-HYPERVIOLENT) | 6/10 | 58.0% / 524 Steam reviews | Sep 23, 2025 · Released | [Steam](https://store.steampowered.com/app/1409200/) · [GOG](https://www.gog.com/en/game/hyperviolent) · [itch.io](https://fulqrumpublishing.itch.io/hv) |
+| [The Age of Hell](Game-1779060-The-Age-of-Hell) | Unrated | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/1779060/) · [itch.io](https://hellforge-studios.itch.io/the-age-of-hell) |
 
 ### Immersive & tactical FPS
 
@@ -431,6 +431,12 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | [TEXNOPLAZM](Game-2527710-TEXNOPLAZM) | 8/10 | 98.6% / 74 Steam reviews | Aug 4, 2025 · Early Access | [Steam](https://store.steampowered.com/app/2527710/) |
 | [Machinicide](Game-1897010-Machinicide) | 7/10 | 90.9% / 11 Steam reviews | Feb 17, 2025 · Released | [Steam](https://store.steampowered.com/app/1897010/) · [itch.io](https://meister351.itch.io/machinicide) |
 
+### Puzzles & cinematic journeys
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Luna Abyss](Game-1933000-Luna-Abyss) | 8/10 | 87.4% / 1,079 Steam reviews | May 21, 2026 · Released | [Steam](https://store.steampowered.com/app/1933000/) |
+
 ### Quake worlds
 
 | Game | Recommend | Community reception | Release / build | Where |
@@ -471,9 +477,9 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | [Hellscreen](Game-1410090-Hellscreen) | 8/10 | 81.6% / 49 Steam reviews | Feb 13, 2026 · Released | [Steam](https://store.steampowered.com/app/1410090/) |
 | [WRATH: Aeon of Ruin](Game-1000410-WRATH-Aeon-of-Ruin) | 7/10 | 71.8% / 2,995 Steam reviews | Feb 27, 2024 · Released | [Steam](https://store.steampowered.com/app/1000410/) |
 | [GHOSTWARE: Arena of the Dead](Game-1893370-GHOSTWARE-Arena-of-the-Dead) | 7/10 | 74.9% / 195 Steam reviews | Jun 10, 2024 · Released | [Steam](https://store.steampowered.com/app/1893370/) |
-| [DISDAIN](Game-2113270-DISDAIN) | 7/10 | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/2113270/) |
 | [Hellbound](Game-753590-Hellbound) | 6/10 | 64.2% / 1,530 Steam reviews | Aug 4, 2020 · Released | [Steam](https://store.steampowered.com/app/753590/) |
 | [Diluvian Ultra](Game-1306970-Diluvian-Ultra) | 6/10 | 58.4% / 428 Steam reviews | Sep 28, 2023 · Released | [Steam](https://store.steampowered.com/app/1306970/) · [GOG](https://www.gog.com/en/game/diluvian_ultra) · [Epic Games](https://store.epicgames.com/en-US/p/diluvian-ultra-a5ad8c) |
+| [DISDAIN](Game-2113270-DISDAIN) | Unrated | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/2113270/) |
 
 ### Retro revivals
 
@@ -489,6 +495,13 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | [Chasm: The Rift](Game-2061230-Chasm-The-Rift) | 8/10 | 81.5% / 525 Steam reviews | Oct 10, 2022 · Released | [Steam](https://store.steampowered.com/app/2061230/) |
 | [Blood: Refreshed Supply™](Game-3884520-Blood-Refreshed-Supply) | 7/10 | 72.9% / 752 Steam reviews | Dec 4, 2025 · Released | [Steam](https://store.steampowered.com/app/3884520/) · [Epic Games](https://store.epicgames.com/it/p/blood-refreshed-supply-f8bb7c) |
 | [PO'ed: Definitive Edition](Game-2697470-PO-ed-Definitive-Edition) | 6/10 | 68.8% / 138 Steam reviews | May 16, 2024 · Released | [Steam](https://store.steampowered.com/app/2697470/) |
+
+### Speed & expressive movement
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Echo Point Nova](Game-1836730-Echo-Point-Nova) | 10/10 | 96.5% / 8,099 Steam reviews | Sep 24, 2024 · Released | [Steam](https://store.steampowered.com/app/1836730/) |
+| [Boomerang X](Game-1170060-Boomerang-X) | 9/10 | 95.2% / 1,388 Steam reviews | Jul 8, 2021 · Released | [Steam](https://store.steampowered.com/app/1170060/) · [GOG](https://www.gog.com/en/game/boomerang_x) |
 
 ### Total conversions
 

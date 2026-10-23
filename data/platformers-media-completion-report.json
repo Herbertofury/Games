@@ -1,0 +1,123 @@
+{
+  "checkedAt": "2026-10-23T17:27:45.963246+00:00",
+  "results": [
+    {
+      "id": "external:astro-bot",
+      "source": "https://www.playstation.com/en-us/games/astro-bot/",
+      "addedScreenshots": 5,
+      "addedVideos": 2
+    },
+    {
+      "id": "external:astros-playroom",
+      "source": "https://www.playstation.com/en-us/games/astros-playroom/",
+      "addedScreenshots": 16,
+      "addedVideos": 1
+    },
+    {
+      "id": "external:donkey-kong-bananza",
+      "source": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+      "addedScreenshots": 8,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:super-mario-odyssey",
+      "source": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+      "addedScreenshots": 8,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:super-mario-3d-world-bowsers-fury",
+      "source": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+      "addedScreenshots": 8,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:super-mario-galaxy-collection",
+      "source": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+      "addedScreenshots": 8,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:super-mario-bros-wonder",
+      "source": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+      "addedScreenshots": 8,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:super-mario-maker-2",
+      "source": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+      "addedScreenshots": 8,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:dk-tropical-freeze",
+      "source": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+      "addedScreenshots": 8,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:dk-country-returns-hd",
+      "source": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+      "addedScreenshots": 8,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:yoshi-mysterious-book",
+      "source": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+      "addedScreenshots": 8,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:yoshi-crafted-world",
+      "source": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+      "addedScreenshots": 7,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:kirby-forgotten-land",
+      "source": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+      "addedScreenshots": 0,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:kirby-return-dreamland-deluxe",
+      "source": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+      "addedScreenshots": 8,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:metroid-dread",
+      "source": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+      "addedScreenshots": 8,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:celeste-64",
+      "source": "https://maddymakesgamesinc.itch.io/celeste64",
+      "addedScreenshots": 0,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:celeste-classic",
+      "source": "https://maddymakesgamesinc.itch.io/celesteclassic",
+      "addedScreenshots": 0,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:celeste-classic-2",
+      "source": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+      "addedScreenshots": 0,
+      "addedVideos": 0
+    },
+    {
+      "id": "external:supertux",
+      "source": "https://www.supertux.org/",
+      "addedScreenshots": 0,
+      "addedVideos": 1
+    }
+  ],
+  "records": 19,
+  "withImages": 19,
+  "withVideos": 3,
+  "withScreenshots": 14
+}

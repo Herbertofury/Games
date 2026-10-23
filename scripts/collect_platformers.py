@@ -12,6 +12,8 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 HUB = 'Platformers'
 NOW = dt.datetime.now(dt.timezone.utc).isoformat()
 ALIASES = {
+    'TY the Tasmanian Tiger 2: Bush Rescue': ['TY the Tasmanian Tiger 2'],
+    'TY the Tasmanian Tiger 3: Night of the Quinkan': ['TY the Tasmanian Tiger 3'],
     'N++': ['N++ (NPLUSPLUS)'],
     'Flashback': ['Flashback Classic'],
     'DARQ: Complete Edition': ['DARQ'],

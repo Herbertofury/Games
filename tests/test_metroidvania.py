@@ -1,6 +1,7 @@
 import json,pathlib,re,sys,unittest
 R=pathlib.Path(__file__).resolve().parents[1];sys.path.insert(0,str(R/'scripts'))
 from catalog_model import assemble,game_key,score
+@unittest.skipUnless((R/'data/metroidvania-protected.json').exists(), 'Metroidvania source research is present, but its hub installer has not run yet.')
 class MetroidvaniaTests(unittest.TestCase):
  @classmethod
  def setUpClass(cls):

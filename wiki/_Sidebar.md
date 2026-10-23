@@ -3,6 +3,11 @@
 [Open interactive library](https://herbertofury.github.io/Games/)
 
 - [Home](Home)
+- [Platformers](Platformers)
+- [Platformer study](Platformers-Study)
+- [Platformer gems](Platformers-Gems)
+- [Platformer new / upcoming](Platformers-New-and-Upcoming)
+- [Every platformer: media atlas](Platformers-Media)
 - [Real-time strategy](Real-Time-Strategy)
 - [Every RTS: media atlas](RTS-Media)
 - [Zero Hour and C&C mods](Zero-Hour-and-CNC-Mods)
