@@ -19,6 +19,7 @@
  featuredGame=function(){if(!active())return before.feature();const id=config[state.hub].anchor;return games.find(g=>(typeof id==='string'?g.id===id:g.appid===id)&&g.verification==='verified')||games.find(g=>g.hubs.includes(state.hub));};
  hero=function(){before.hero();if(active())$('#hero-summary').textContent=config[state.hub].hero;};
  renderHub=function(){
+  const baseInvalidated=renderedHub!==state.hub+'|'+(CATALOG.build?.datasetHash||games.length);
   before.hub();$('.survival-guide').hidden=!active();
   if(!active()){routeKey=null;return;}
   const c=config[state.hub],isVoxel=state.hub===hubs[1];document.body.dataset.hub=c.theme;
@@ -33,7 +34,7 @@
   $('[data-preset="new"] small').textContent='Recent first releases; old editions stay labelled.';
   $('[data-preset="mods"]').hidden=true;
   const key=state.hub+'|'+CATALOG.build.datasetHash;
-  if(routeKey!==key){
+  if(routeKey!==key||baseInvalidated){
    const scoped=games.filter(g=>g.hubs.includes(state.hub)),counts=new Map();for(const g of scoped){const col=activeGameCollection(g);counts.set(col,(counts.get(col)||0)+1);}
    $('#stat-collections').textContent=counts.size;
    $('#collections').innerHTML=[...counts].sort((a,b)=>a[0].localeCompare(b[0])).map(([col,n])=>`<button class="nav-item collection-link" data-collection="${esc(col)}"><span class="collection-dot"></span>${esc(col)}<b>${n}</b></button>`).join('');routeKey=key;

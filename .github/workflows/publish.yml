@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['data/platformers-*','scripts/platformer*.py','scripts/collect_platformers.py','docs/PLATFORMERS-STUDY.md','site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','scripts/source_links.py','scripts/curate_rts.py','scripts/enrich_rts.py','scripts/collect_rts.py','data/rts-*.json','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json','data/media-completion.json','data/storefront-discovery.json','data/source-editions.json','scripts/metroidvania_model.py','scripts/metroidvania_wiki.py','scripts/metroidvania_qa.py','data/metroidvania-curation.json','data/metroidvania-media.json','data/metroidvania-review-decisions.json','data/metroidvania-storefronts.json','scripts/survival_model.py','scripts/survival_wiki.py','scripts/survival_qa.py','scripts/survival_release_notes.py','data/survival-steam.json','data/survival-external.json','data/survival-curation.json','data/survival-media.json','data/survival-storefronts.json','.github/workflows/publish.yml']
+    paths: ['data/platformers-*','scripts/platformer*.py','scripts/collect_platformers.py','docs/PLATFORMERS-STUDY.md','site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','scripts/source_links.py','scripts/curate_rts.py','scripts/enrich_rts.py','scripts/collect_rts.py','data/rts-*.json','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json','data/media-completion.json','data/storefront-discovery.json','data/source-editions.json','scripts/metroidvania_model.py','scripts/metroidvania_wiki.py','scripts/metroidvania_qa.py','data/metroidvania-curation.json','data/metroidvania-media.json','data/metroidvania-review-decisions.json','data/metroidvania-storefronts.json','scripts/survival_model.py','scripts/survival_wiki.py','scripts/survival_qa.py','scripts/survival_release_notes.py','scripts/hub_bootstrap_qa.py','data/survival-steam.json','data/survival-external.json','data/survival-curation.json','data/survival-media.json','data/survival-storefronts.json','.github/workflows/publish.yml']
   workflow_run:
     workflows: ['Refresh Steam catalog','Add game recommendation','Install library source','Expand shooter library','Refresh shooter discoveries','Refresh RTS discoveries','Enrich RTS collection','Refresh Metroidvania discoveries','Enrich Metroidvania collection','Finalize Metroidvania source','Collect survival sources','Enrich survival collection']
     types: [completed]
@@ -55,13 +55,17 @@ jobs:
           else
             python3 -m playwright install --with-deps chromium
           fi
+      - name: Verify changed startup, survival media and complete new user paths
+        run: |
+          python3 scripts/hub_bootstrap_qa.py
+          python3 scripts/survival_qa.py
       - name: Verify actual official trailer playback and image decoding
         timeout-minutes: 6
         run: |
           python3 scripts/media_qa.py
           mkdir -p qa/live-media
           cp qa/desktop.png qa/mobile.png qa/detail.png qa/live-media/
-      - name: Real browser acceptance for every genre and complete survival media
+      - name: Real browser acceptance for every existing genre
         run: |
           python3 tests/browser_qa.py
           python3 tests/multiplatform_qa.py
@@ -70,7 +74,6 @@ jobs:
           python3 tests/platformers_qa.py
           python3 tests/platformer_completion_qa.py
           python3 scripts/metroidvania_qa.py
-          python3 scripts/survival_qa.py
           cp qa/live-media/*.png qa/
       - name: Publish native wiki
         env:
