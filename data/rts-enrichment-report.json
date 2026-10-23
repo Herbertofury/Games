@@ -1,0 +1,147 @@
+{
+  "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+  "steam": 108,
+  "external": 22,
+  "missingArtwork": [],
+  "missingVideo": [
+    {
+      "id": "steam:318020",
+      "name": "Act of Aggression - Reboot Edition"
+    },
+    {
+      "id": "steam:2710",
+      "name": "Act of War: Direct Action"
+    },
+    {
+      "id": "steam:9760",
+      "name": "Act of War: High Treason"
+    },
+    {
+      "id": "steam:2732960",
+      "name": "Command & Conquer\u2122 Generals Zero Hour"
+    },
+    {
+      "id": "steam:2229870",
+      "name": "Command & Conquer\u2122 Generals"
+    },
+    {
+      "id": "steam:2229850",
+      "name": "Command & Conquer Red Alert\u2122 2 and Yuri\u2019s Revenge\u2122"
+    },
+    {
+      "id": "steam:2229880",
+      "name": "Command & Conquer\u2122 Tiberian Sun\u2122 and Firestorm\u2122"
+    },
+    {
+      "id": "steam:9420",
+      "name": "Supreme Commander: Forged Alliance"
+    },
+    {
+      "id": "steam:251060",
+      "name": "Wargame: Red Dragon"
+    },
+    {
+      "id": "external:openhv",
+      "name": "OpenHV"
+    },
+    {
+      "id": "external:twisted-insurrection",
+      "name": "Twisted Insurrection"
+    },
+    {
+      "id": "external:contra-x",
+      "name": "Contra X"
+    },
+    {
+      "id": "external:cc-shockwave",
+      "name": "C&C: ShockWave"
+    },
+    {
+      "id": "external:end-of-days-zh",
+      "name": "The End of Days"
+    },
+    {
+      "id": "external:starcraft-2",
+      "name": "StarCraft II"
+    },
+    {
+      "id": "external:starcraft-remastered",
+      "name": "StarCraft: Remastered"
+    },
+    {
+      "id": "external:warcraft-3-reforged",
+      "name": "Warcraft III: Reforged"
+    },
+    {
+      "id": "external:empires-dawn-modern-world",
+      "name": "Empires: Dawn of the Modern World"
+    },
+    {
+      "id": "external:world-in-conflict",
+      "name": "World in Conflict: Complete Edition"
+    },
+    {
+      "id": "external:warlords-battlecry-2",
+      "name": "Warlords Battlecry II"
+    },
+    {
+      "id": "external:littlewargame",
+      "name": "Littlewargame"
+    }
+  ],
+  "unresolved": [],
+  "dispositions": [
+    {
+      "candidate": "Armor Clash 4",
+      "state": "unresolved-active",
+      "reason": "No exact published identity confirmed. Not silently replaced with another game."
+    },
+    {
+      "candidate": "Rise of Legends",
+      "state": "unresolved-active",
+      "reason": "No current official digital edition confirmed. Do not link an unrelated title or unofficial download."
+    },
+    {
+      "candidate": "Empires: Dawn of the Modern World",
+      "state": "external",
+      "id": "external:empires-dawn-modern-world"
+    },
+    {
+      "candidate": "Warlords Battlecry II",
+      "state": "external",
+      "id": "external:warlords-battlecry-2"
+    },
+    {
+      "candidate": "Warcraft I: Remastered",
+      "state": "external",
+      "id": "external:warcraft-1-remastered"
+    },
+    {
+      "candidate": "Warcraft II: Remastered",
+      "state": "external",
+      "id": "external:warcraft-2-remastered"
+    },
+    {
+      "candidate": "Battle Aces",
+      "state": "excluded",
+      "reason": "Development ended; do not advertise as an available recommendation.",
+      "sourceUrl": "https://www.playbattleaces.com/news"
+    },
+    {
+      "candidate": "World in Conflict: Complete Edition",
+      "state": "external",
+      "id": "external:world-in-conflict"
+    },
+    {
+      "candidate": "Warfare Incorporated",
+      "state": "unresolved-active",
+      "reason": "Non-Steam project requires a separate current desktop distribution and media check."
+    },
+    {
+      "candidate": "Littlewargame",
+      "state": "external",
+      "id": "external:littlewargame"
+    }
+  ],
+  "alternateLinks": 33
+}

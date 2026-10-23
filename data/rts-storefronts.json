@@ -1,0 +1,3596 @@
+{
+  "generatedAt": "2026-10-23T08:04:56.549239+00:00",
+  "overrides": {
+    "steam:1486920": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Tempest%20Rising",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Tempest%20Rising",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://tempestrising.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:318020": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Act%20of%20Aggression%20-%20Reboot%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Act%20of%20Aggression%20-%20Reboot%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1439750": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=9-Bit%20Armies%3A%20A%20Bit%20Too%20Far",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=9-Bit%20Armies%3A%20A%20Bit%20Too%20Far",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:427250": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/8bit_armies",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=8-Bit%20Armies",
+          "evidence": "Exact title in GOG official catalog: 8-bit Armies"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=8-Bit%20Armies",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=8-Bit%20Armies",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:497850": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/8bit_hordes",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=8-Bit%20Hordes",
+          "evidence": "Exact title in GOG official catalog: 8-bit Hordes"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=8-Bit%20Hordes",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=8-Bit%20Hordes",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:531680": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/8bit_invaders",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=8-Bit%20Invaders%21",
+          "evidence": "Exact title in GOG official catalog: 8-bit Invaders"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=8-Bit%20Invaders%21",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=8-Bit%20Invaders%21",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1565670": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Five%20Nations",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Five%20Nations",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1934720": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Red%20Chaos%20-%20The%20Strict%20Order",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Red%20Chaos%20-%20The%20Strict%20Order",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://redchaos.net",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1031730": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Battlefall%3A%20State%20of%20Conflict",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Battlefall%3A%20State%20of%20Conflict",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://discord.com/invite/tQK34Ucy4H",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2088550": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://sarnayer.itch.io/dying-breed",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://itch.io/search?q=Dying%20Breed",
+          "evidence": "Exact title and creator page links to Steam app 2088550",
+          "descriptionEvidence": "Dying Breed, A first generation Pixel-Art Real Time Strategy Game set in an alternative time-line. Where World War 2 ends in 1951 with Nuclear Holocaust. After 40 years of relative peace a New Powerful source of Energy start emerging from Underground. An evil MasterMind called Ubik is the first to understand the True power of this new source named Substance D. Two factions and neutrals will fight for Power and Control of Energy resources! Fight as a Human or a Mutant-Cyborg in this thrilling new Old School RTS Game! Wishlist now! https://store.steampowered.com/app/2088550/Dying_Breed/"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Dying%20Breed",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Dying%20Breed",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://playdyingbreed.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2583660": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Fractured%20Alliance",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Fractured%20Alliance",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.fracturedalliancerts.com",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:908770": {
+      "storefronts": [
+        {
+          "provider": "IndieDB",
+          "url": "https://www.indiedb.com/games/global-conflagration",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://www.indiedb.com/games/global-conflagration",
+          "evidence": "Game-specific official website link with matching destination title"
+        },
+        {
+          "provider": "IndieDB",
+          "url": "https://rss.indiedb.com/games/global-conflagration/articles/feed/rss.xml",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://www.indiedb.com/games/global-conflagration",
+          "evidence": "Game-specific official website link with matching destination title"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Global%20Conflagration",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Global%20Conflagration",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.indiedb.com/games/global-conflagration",
+            "state": "matched",
+            "matches": 99
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2388620": {
+      "storefronts": [
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/dorfRTS",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://www.dorf-rts.com/",
+          "evidence": "Creator support linked from the game website supplied by Steam"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=D.O.R.F.%20Real-Time%20Strategic%20Conflict",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=D.O.R.F.%20Real-Time%20Strategic%20Conflict",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.dorf-rts.com/",
+            "state": "matched",
+            "matches": 1
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2610770": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Dust%20Front%20RTS",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Dust%20Front%20RTS",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:5265230": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Teryon%20Crisis",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Teryon%20Crisis",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://dimetrisgame.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1072190": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Crossfire%3A%20Legion",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Crossfire%3A%20Legion",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:686260": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Forged%20Battalion",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Forged%20Battalion",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://petroglyphgames.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:290790": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Grey%20Goo",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Grey%20Goo",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Grey goo",
+            "url": "https://willbl3pic.itch.io/grey-goo",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Grey Goo",
+            "url": "https://kleinzach.itch.io/grey-goo",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:245370": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Etherium",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Etherium",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Etherium",
+            "url": "https://kianbennett.itch.io/etherium",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Etherium",
+            "url": "https://gil4.itch.io/etherium",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Etherium",
+            "url": "https://etheriumworld.itch.io/etherium",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Etherium",
+            "url": "https://josiahhammer.itch.io/etherium",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2710": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Act%20of%20War%3A%20Direct%20Action",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Act%20of%20War%3A%20Direct%20Action",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:9760": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Act%20of%20War%3A%20High%20Treason",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Act%20of%20War%3A%20High%20Treason",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:530040": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=reconquest",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=reconquest",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "RECONQUEST",
+            "url": "https://afonso-marques.itch.io/reconquest",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "RE:Conquest",
+            "url": "https://rrads-games.itch.io/reconquest",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1841630": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Armor%20Clash%202022%20%20%5BRTS%5D",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Armor%20Clash%202022%20%20%5BRTS%5D",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1114830": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Armor%20Clash%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Armor%20Clash%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2732960": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Command%20%26%20Conquer%E2%84%A2%20Generals%20Zero%20Hour",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Command%20%26%20Conquer%E2%84%A2%20Generals%20Zero%20Hour",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.ea.com/games/command-and-conquer",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2229870": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Command%20%26%20Conquer%E2%84%A2%20Generals",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Command%20%26%20Conquer%E2%84%A2%20Generals",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.ea.com/games/command-and-conquer",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2229850": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Command%20%26%20Conquer%20Red%20Alert%E2%84%A2%202%20and%20Yuri%E2%80%99s%20Revenge%E2%84%A2",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Command%20%26%20Conquer%20Red%20Alert%E2%84%A2%202%20and%20Yuri%E2%80%99s%20Revenge%E2%84%A2",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.ea.com/games/command-and-conquer",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:17480": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Command%20%26%20Conquer%E2%84%A2%20Red%20Alert%E2%84%A2%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Command%20%26%20Conquer%E2%84%A2%20Red%20Alert%E2%84%A2%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.ea.com/games/command-and-conquer/command-and-conquer-remastered/news/steam-workshop-support",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:24800": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Command%20%26%20Conquer%3A%20Red%20Alert%203%20-%20Uprising",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Command%20%26%20Conquer%3A%20Red%20Alert%203%20-%20Uprising",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:24790": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Command%20%26%20Conquer%203%20Tiberium%20Wars%E2%84%A2",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Command%20%26%20Conquer%203%20Tiberium%20Wars%E2%84%A2",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:24810": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Command%20%26%20Conquer%E2%84%A2%203%3A%20Kane%E2%80%99s%20Wrath",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Command%20%26%20Conquer%E2%84%A2%203%3A%20Kane%E2%80%99s%20Wrath",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1213210": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Command%20%26%20Conquer%E2%84%A2%20Remastered%20Collection",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Command%20%26%20Conquer%E2%84%A2%20Remastered%20Collection",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.ea.com/games/command-and-conquer",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2229880": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Command%20%26%20Conquer%E2%84%A2%20Tiberian%20Sun%E2%84%A2%20and%20Firestorm%E2%84%A2",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Command%20%26%20Conquer%E2%84%A2%20Tiberian%20Sun%E2%84%A2%20and%20Firestorm%E2%84%A2",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:9420": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Supreme%20Commander%3A%20Forged%20Alliance",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Supreme%20Commander%3A%20Forged%20Alliance",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:40100": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/supreme_commander_2",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Supreme%20Commander%202",
+          "evidence": "Exact title in GOG official catalog: Supreme Commander 2"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Supreme%20Commander%202",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Supreme%20Commander%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:298030": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Total%20Annihilation",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Total%20Annihilation",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Total Annihilation: Commander Pack",
+            "url": "https://www.gog.com/en/game/total_annihilation_commander_pack",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Total Annihilation: Kingdoms + Iron Plague",
+            "url": "https://www.gog.com/en/game/total_annihilation_kingdoms",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Total Annihilation",
+            "url": "https://aizadams.itch.io/total-annihilation",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:386070": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Planetary%20Annihilation%3A%20TITANS",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Planetary%20Annihilation%3A%20TITANS",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://planetaryannihilation.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:507490": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Ashes%20of%20the%20Singularity%3A%20Escalation",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Ashes%20of%20the%20Singularity%3A%20Escalation",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved",
+            "error": "HTTP Error 403: Forbidden"
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1796720": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Industrial%20Annihilation",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Industrial%20Annihilation",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1699050": {
+      "storefronts": [
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/sanctuaryshatteredsun",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://www.sanctuaryshatteredsun.com/",
+          "evidence": "Creator support linked from the game website supplied by Steam"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Sanctuary%3A%20Shattered%20Sun",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Sanctuary%3A%20Shattered%20Sun",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.sanctuaryshatteredsun.com/",
+            "state": "matched",
+            "matches": 1
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:334920": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Zero-K",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Zero-K",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://zero-k.info",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Zero-K",
+            "url": "https://zerok.itch.io/zero-k",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:647960": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Rusted%20Warfare%20-%20RTS",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Rusted%20Warfare%20-%20RTS",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:303860": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Machines%20At%20War%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Machines%20At%20War%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:3213120": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://machinefall.itch.io/machinefall",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://itch.io/search?q=Machinefall",
+          "evidence": "Exact title and creator page links to Steam app 3213120",
+          "descriptionEvidence": "Post-apocalyptic real time strategy with base building, resource management and massive scale battles. Feedback I will be happy to hear from you what you think. I will regularly publish the newest versions. For now on itch.io, later when I have more content there will be Steam page with demo. Follow the game on Discord https://discord.com/channels/886886105704693801/1198386774842544261"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Machinefall",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Machinefall",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1241950": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Warzone%202100",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Warzone%202100",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Warzone 2100",
+            "url": "https://warzone-2100.itch.io/warzone2100",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:253880": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/earth_2150_trilogy",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Earth%202150%20Trilogy",
+          "evidence": "Exact title in GOG official catalog: Earth 2150 Trilogy"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Earth%202150%20Trilogy",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Earth%202150%20Trilogy",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1900": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/earth_2160",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Earth%202160",
+          "evidence": "Exact title in GOG official catalog: Earth 2160"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Earth%202160",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Earth%202160",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1292180": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Krush%20Kill%20%E2%80%98N%20Destroy%202%3A%20Krossfire",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Krush%20Kill%20%E2%80%98N%20Destroy%202%3A%20Krossfire",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1292170": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/krush_kill_n_destroy_xtreme",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Krush%20Kill%20%27N%20Destroy%20Xtreme",
+          "evidence": "Exact title in GOG official catalog: Krush Kill 'N Destroy Xtreme"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Krush%20Kill%20%27N%20Destroy%20Xtreme",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Krush%20Kill%20%27N%20Destroy%20Xtreme",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:289440": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/perimeter",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Perimeter",
+          "evidence": "Exact title in GOG official catalog: Perimeter"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Perimeter",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Perimeter",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Perimeter: Emperor's Testament",
+            "url": "https://www.gog.com/en/game/perimeter_emperors_testament",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "PERIMETER",
+            "url": "https://navoo1060.itch.io/perimeter",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Perimeter",
+            "url": "https://zunil.itch.io/perimeter",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Perimeter",
+            "url": "https://gamefanstudio.itch.io/perimeter",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Perimeter",
+            "url": "https://spontaneousbeast.itch.io/perimeter",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Perimeter",
+            "url": "https://studentaidyn.itch.io/perimeter",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "perimeter",
+            "url": "https://beneskildsen.itch.io/perimeter",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:3556750": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Warhammer%2040%2C000%3A%20Dawn%20of%20War%20-%20Definitive%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Warhammer%2040%2C000%3A%20Dawn%20of%20War%20-%20Definitive%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:826630": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/iron_harvest",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Iron%20Harvest",
+          "evidence": "Exact title in GOG official catalog: Iron Harvest"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Iron%20Harvest",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Iron%20Harvest",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Iron Harvest Deluxe Edition",
+            "url": "https://www.gog.com/en/game/iron_harvest_deluxe_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Iron Harvest",
+            "url": "https://ben-yazi.itch.io/iron-harvest",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1202130": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Starship%20Troopers%3A%20Terran%20Command",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Starship%20Troopers%3A%20Terran%20Command",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:459220": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Halo%20Wars%3A%20Definitive%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Halo%20Wars%3A%20Definitive%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved",
+            "error": "HTTP Error 500: Internal Server Error"
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:777770": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=WAR%20PARTY",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=WAR%20PARTY",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:896250": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Liquidation%20RTS",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Liquidation%20RTS",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.microprose.com/landing/liquidation/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1328990": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Godsworn",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Godsworn",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.Thunderoakinteractive.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1466860": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Age%20of%20Empires%20IV%3A%20Anniversary%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Age%20of%20Empires%20IV%3A%20Anniversary%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.ageofempires.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:813780": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Age%20of%20Empires%20II%3A%20Definitive%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Age%20of%20Empires%20II%3A%20Definitive%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.ageofempires.com/games/aoeiide/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:933110": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Age%20of%20Empires%20III%3A%20Definitive%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Age%20of%20Empires%20III%3A%20Definitive%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.ageofempires.com/games/aoeiiide/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1934680": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Age%20of%20Mythology%3A%20Retold",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Age%20of%20Mythology%3A%20Retold",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.ageofempires.com/games/age-of-mythology-retold/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:287450": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Rise%20of%20Nations%3A%20Extended%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Rise%20of%20Nations%3A%20Extended%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:254760": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Empire%20Earth%3A%20Gold%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Empire%20Earth%3A%20Gold%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://rebellion.com/games/empire-earth-gold-edition-steam/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:254780": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Empire%20Earth%20II%3A%20Gold%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Empire%20Earth%20II%3A%20Gold%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://rebellion.com/games/empire-earth-2-gold-edition-steam/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:311290": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/spellforce_3_reforced",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=SpellForce%203%20Reforced",
+          "evidence": "Exact title in GOG official catalog: SpellForce 3 Reforced"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=SpellForce%203%20Reforced",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=SpellForce%203%20Reforced",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:817540": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/spellforce_3_soul_harvest",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=SpellForce%203%20Soul%20Harvest",
+          "evidence": "Exact title in GOG official catalog: SpellForce 3: Soul Harvest"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=SpellForce%203%20Soul%20Harvest",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=SpellForce%203%20Soul%20Harvest",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1154040": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/spellforce_3_fallen_god",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=SpellForce%203%20Fallen%20God",
+          "evidence": "Exact title in GOG official catalog: SpellForce 3: Fallen God"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=SpellForce%203%20Fallen%20God",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=SpellForce%203%20Fallen%20God",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:946660": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/loria",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Loria",
+          "evidence": "Exact title in GOG official catalog: Loria"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Loria",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Loria",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Siege Survival: Gloria Victis",
+            "url": "https://www.gog.com/en/game/siege_survival_gloria_victis",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Siege Survival: Gloria Victis Prologue",
+            "url": "https://www.gog.com/en/game/siege_survival_gloria_victis_prologue",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Loria Demo",
+            "url": "https://www.gog.com/en/game/loria_demo",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Loria",
+            "url": "https://thatlori.itch.io/loria",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Loria",
+            "url": "https://jerga99.itch.io/loria",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:433280": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Warlords%20Battlecry%20III",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Warlords%20Battlecry%20III",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:333420": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/cossacks_3",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Cossacks%203",
+          "evidence": "Exact title in GOG official catalog: Cossacks 3"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Cossacks%203",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Cossacks%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2012510": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Stormgate",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Stormgate",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2921580": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=IMMORTAL%3A%20Gates%20of%20Pyre",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=IMMORTAL%3A%20Gates%20of%20Pyre",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://sunspeargames.com",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1762570": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Space%20Reign",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Space%20Reign",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "SpaceReign",
+            "url": "https://s3dentaryr0gue.itch.io/spacereign-1",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:244160": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/homeworld_remastered_collection",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Homeworld%20Remastered%20Collection",
+          "evidence": "Exact title in GOG official catalog: Homeworld® Remastered Collection"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Homeworld%20Remastered%20Collection",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Homeworld%20Remastered%20Collection",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:281610": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Homeworld%3A%20Deserts%20of%20Kharak",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Homeworld%3A%20Deserts%20of%20Kharak",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1840080": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Homeworld%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Homeworld%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.homeworlduniverse.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "url": "https://store.epicgames.com/en-US/p/homeworld-3",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1575940": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Sins%20of%20a%20Solar%20Empire%20II",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Sins%20of%20a%20Solar%20Empire%20II",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved",
+            "error": "HTTP Error 403: Forbidden"
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:204880": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Sins%20of%20a%20Solar%20Empire%C2%AE%3A%20Rebellion",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Sins%20of%20a%20Solar%20Empire%C2%AE%3A%20Rebellion",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved",
+            "error": "HTTP Error 403: Forbidden"
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:32470": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/star_wars_empire_at_war_gold_pack",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=STAR%20WARS%E2%84%A2%20Empire%20at%20War%20-%20Gold%20Pack",
+          "evidence": "Exact title in GOG official catalog: STAR WARS™ Empire at War: Gold Pack"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=STAR%20WARS%E2%84%A2%20Empire%20at%20War%20-%20Gold%20Pack",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=STAR%20WARS%E2%84%A2%20Empire%20at%20War%20-%20Gold%20Pack",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:573410": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=AI%20War%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=AI%20War%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://wiki.arcengames.com/index.php?title=AI_War_2:AI_War_2",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:40400": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=AI%20War%3A%20Fleet%20Command",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=AI%20War%3A%20Fleet%20Command",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1113030": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/stellar_warfare",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Stellar%20Warfare",
+          "evidence": "Exact title in GOG official catalog: Stellar Warfare"
+        },
+        {
+          "provider": "itch.io",
+          "url": "https://tensegames.itch.io/stellar-warfare",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://itch.io/search?q=Stellar%20Warfare",
+          "evidence": "Exact title and creator page links to Steam app 1113030",
+          "descriptionEvidence": "The game Stellar Warfare is a space-based real-time strategy game developed by Tense Games. The game features base building, ship customization, and a variety of single and multiplayer game modes. The player can choose from over 200 available ships, weapons, and modules to design their fleet with. The game also includes a small campaign, several single and multiplayer game modes, and a co-op game mode. Lore The game is set in the far future where humanity has colonized the local galaxy, and the player must control their fleet of spaceships to return order to the galaxy. The game is available on Steam and is currently in early access. Community & updates The game has received positive reviews from players, with many praising the game’s unique sci-fi experience and the ability to customize their fleet. The game has also received updates that have added new features such as 3D fleet maneuvers, superweapons, and more."
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Stellar%20Warfare",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Stellar%20Warfare",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Stellar Warfare",
+            "url": "https://abdelrahmn.itch.io/stellar-warfare",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:887570": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=NEBULOUS%3A%20Fleet%20Command",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=NEBULOUS%3A%20Fleet%20Command",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1677280": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Company%20of%20Heroes%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Company%20of%20Heroes%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.companyofheroes.com/en-US",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:231430": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Company%20of%20Heroes%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Company%20of%20Heroes%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1611600": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/warno",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=WARNO",
+          "evidence": "Exact title in GOG official catalog: WARNO"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=WARNO",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=WARNO",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://eugensystems.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "WARNO - Expansion Pass",
+            "url": "https://www.gog.com/en/game/warno_expansion_pass",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "WARNO - Gold Edition",
+            "url": "https://www.gog.com/en/game/warno_gold_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1604270": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Broken%20Arrow",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Broken%20Arrow",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:251060": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Wargame%3A%20Red%20Dragon",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Wargame%3A%20Red%20Dragon",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://eugensystems.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1109680": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/regiments",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Regiments",
+          "evidence": "Exact title in GOG official catalog: Regiments"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Regiments",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Regiments",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.microprose.com/games/regiments/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Regiments",
+            "url": "https://rsk8262.itch.io/regiments",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Regiments",
+            "url": "https://pummy.itch.io/regiments",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "REGIMENTS",
+            "url": "https://splattiez.itch.io/regiments",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1839950": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Terminator%3A%20Dark%20Fate%20-%20Defiance",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Terminator%3A%20Dark%20Fate%20-%20Defiance",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www6.slitherine.com/steam",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1128860": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Men%20of%20War%20II",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Men%20of%20War%20II",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:400750": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Call%20to%20Arms%20-%20Gates%20of%20Hell%3A%20Ostfront",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Call%20to%20Arms%20-%20Gates%20of%20Hell%3A%20Ostfront",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.barbed-wire.eu/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:463530": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/empires_of_the_undergrowth",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Empires%20of%20the%20Undergrowth",
+          "evidence": "Exact title in GOG official catalog: Empires of the Undergrowth"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Empires%20of%20the%20Undergrowth",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Empires%20of%20the%20Undergrowth",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:923100": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Moduwar",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Moduwar",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://moduwar.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1309610": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Line%20War",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Line%20War",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Line war",
+            "url": "https://le-petit-tomme.itch.io/linewar",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2239150": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Thronefall",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Thronefall",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1272320": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/diplomacy_is_not_an_option",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Diplomacy%20is%20Not%20an%20Option",
+          "evidence": "Exact title in GOG official catalog: Diplomacy is Not an Option"
+        },
+        {
+          "provider": "itch.io",
+          "url": "https://door407.itch.io/diplomacy-is-not-an-option",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://itch.io/search?q=Diplomacy%20is%20Not%20an%20Option",
+          "evidence": "Exact title and creator page links to Steam app 1272320",
+          "descriptionEvidence": "Diplomacy is Not an Option is a base-building RTS where your task is to fight against vast hordes of enemies. Over 25 THOUSAND of them will storm your castle on procedurally generated maps. To survive, you must build fortifications, raise armies, master engineering, economy, and even magic (the active pause spell included). Experience warfare on an entirely new scale in the 4 game modes: Endless Mode, Story Campaign, Challenge Mode, and Sandbox Mode. Additionally, you've got the Map Editor to create your own scenarios in the medieval fantasy world of Diplomacy is Not an Option. Your king is an egocentric pig who has driven the country into an economic crisis with his mindless money-spending. This problem, however, is mostly yours. After all, this is your feud, where peasants are revolting because of unfair taxes. You can suppress the rebellion, or you can join it. But it's a long road to the end goal. A road on which you will encounter the mysterious tribe of Sarranga and the Undead who worship hard-rock music. No matter which faction you join, casualties will number in the thousands. And siege weapons will mercilessly blast crowds of your enemies. And legions of loyal troops will give their lives for the success of your mission. While admittedly tongue-in-cheek, the laws of physics are still deadly serious in Diplomacy Is Not An Option. Every arrow, catapult stone and enemy launched skywards is physically modeled, making for a tactile and coherent battlefield. Just make sure your troops have towers to shoot from and clear lines of sight, or you might find your best-laid plans embarrassingly blunted by your own fortifications. Consider your gates, your lines of advancement and retreat. Create kill-zones and fall-back positions. You will need to take an active role in combat to get the best from your men. Even under siege, never forget your castle was built on the backs of the peasantry. Defend your people, and they’ll serve you well. Engage in agriculture and farming, or food can become scarce, and your soldiers can starve on the battlefield. Build houses, bury fallen soldiers and peasants to prevent plague, and treat the infected when death comes knocking. If you do not care for your people you may soon find yourself overrun with the most unpleasant troubles. Like empty stockpiles, unrepaired walls and running dry barracks… or be overrun literally with swarms of zombies. And no lord wishes to see zombie apocalypse in the backyard of his castle, right? A functional army requires a functional economy to support and feed it. Food, Wood, Stone, Iron, and Gold are the foundations of your city’s economy, and you will need to watch your supplies carefully if you are to meet the advancing foe in a timely manner. Gather resources, choose your storage locations, plan your expansions and upgrades with care. The enemy will not cede their lands willingly, and unprotected civilian expansions will have consequences of falling prey to the hostile incursion. Trade, via the impressive merchant dirigible, bringing emergency supplies of food to feed the men, or stone to rebuild the walls. Can you strike the balance between greedy expansion and security? If life gives you lemons, make lemonade. If you’ve inherited a cursed kingdom, why not master the dark arts ? Sturdy castle walls will protect you from most ordinary threats, but in Diplomacy Is Not An Option you're also be battling undeads. So why give them a monopoly on magic ? There is a dark history of tainted power that stirs zombies and traps wayward souls. On the lighter side: it can also be used to call down really very big fireballs onto your enemies. So enjoy that too. Build magical monuments, harvest soul crystals and give a try to a maniacal laugh as searing magical beams tear through your foes and summoned ghosts to chase down the stragglers. The game has been designed with freedom as a core concept. Go beyond the campaign and crush your foes as you see fit in Endless Mode, Sandbox Mode or Challenge Mode. Develop your own personal strategies on procedurally generated maps. Go heavy on walls early, build large armies of cannon-fodder, or pursue the macro game of greedy growth and costly investments. Play battles in real-time or use pause constantly to keep everything in your hands. Will you be able to stand on a par with the most acclaimed generals in the world, like Joan of Arc and Genghis Khan? Finding which style grants you the most success is up to you. As in real life, stupidity and greed lie behind most problems, but here it is far too late to talk it through. You have no recourse to resolve this peacefully. At this stage: Diplomacy Is Not an Option! Mature Content Description The developers describe the content like this: Massive cartoon violence."
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Diplomacy%20is%20Not%20an%20Option",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Diplomacy%20is%20Not%20an%20Option",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.door407.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1422440": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/cataclismo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Cataclismo",
+          "evidence": "Exact title in GOG official catalog: Cataclismo"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Cataclismo",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Cataclismo",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:644930": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/they_are_billions",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=They%20Are%20Billions",
+          "evidence": "Exact title in GOG official catalog: They Are Billions"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=They%20Are%20Billions",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=They%20Are%20Billions",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1426450": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Age%20of%20Darkness%3A%20Final%20Stand",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Age%20of%20Darkness%3A%20Final%20Stand",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.ageofdarkness.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:3052730": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Here%20Comes%20The%20Swarm",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Here%20Comes%20The%20Swarm",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://herecomestheswarm.com",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:3010280": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Powerplay",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "state": "unresolved",
+            "error": "HTTP Error 429: Too Many Requests"
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://powerplayrts.com",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1996600": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Byte%20Lynx",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Byte%20Lynx",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:286000": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/tooth_and_tail",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Tooth%20and%20Tail",
+          "evidence": "Exact title in GOG official catalog: Tooth and Tail"
+        },
+        {
+          "provider": "itch.io",
+          "url": "https://pocketwatch.itch.io/tooth-and-tail",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "sourceUrl": "https://itch.io/search?q=Tooth%20and%20Tail",
+          "evidence": "Exact title and creator page links to Steam app 286000",
+          "descriptionEvidence": "Real-Time Strategy Distilled Lead the revolution with an army of flamethrowing Boars, mustard gas-lobbing Skunks, and paratrooper-puking Owls. Tooth and Tail is a Real-Time-Strategy game featuring Single Player, Online Competitive Play, Split Screen, Replays, and more. Build a base, lead your army, eat your enemies! The War for Meat The Longcoats, the Commonfolk, the KSR, and the Civilized are in the midst of a Civil War over who gets to eat, and who has to be the meat. A darkly humorous tale of riots and revolution is told through an extensive Single Player campaign. Endless Replayability With procedurally generated maps and customizable factions, no two conflicts will be the same, forcing players to strategize rather than memorize. Pick-up-and-Play With matches lasting from 5-12 minutes, controls designed specifically for the gamepad, and split-screen couch play, Tooth and Tail is a popcorn RTS for veterans and newcomers alike."
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Tooth%20and%20Tail",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Tooth%20and%20Tail",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2745870": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Warfare%20Legacy%20Collection",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Warfare%20Legacy%20Collection",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://armorgamesstudios.com/games/warfare-legacy-collection",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:2599770": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Tactical%20Warfare",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Tactical%20Warfare",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved",
+            "error": "HTTP Error 404: Not Found"
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Tactical Warfare Bundle",
+            "url": "https://www.gog.com/en/game/tactical_warfare_bundle",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Tactical Warfare",
+            "url": "https://shadowgaming5807.itch.io/tactical-warfare",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:1527070": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Commanding%20Nations",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Commanding%20Nations",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved",
+            "error": "HTTP Error 404: Not Found"
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    },
+    "steam:21970": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T08:04:56.549239+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=R.U.S.E.%E2%84%A2",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=R.U.S.E.%E2%84%A2",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://eugensystems.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence."
+      }
+    }
+  }
+}
