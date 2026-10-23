@@ -1,6 +1,7 @@
 """Platformer integration, editorial overlays and reproducible coverage metadata."""
 from __future__ import annotations
 import copy, csv, json, pathlib
+from platformer_media import apply_reviewed_media
 HUB='Platformers'
 ADJACENT={
  'Crypt Custodian':'Top-down exploration with platforming elements',
@@ -40,11 +41,16 @@ def read(root,path,default):
  return json.loads(p.read_text()) if p.exists() else default
 
 def source_sets(root):
- return [read(root,'data/platformers-steam.json',{'items':[],'unresolved':[]}),read(root,'data/platformers-external.json',{'items':[]})]
+ sources=[read(root,'data/platformers-steam.json',{'items':[],'unresolved':[]}),read(root,'data/platformers-external.json',{'items':[]})]
+ media=read(root,'data/platformers-media-reviewed.json',{'overrides':{}})
+ for source in sources:
+  source['items']=[apply_reviewed_media(g,media['overrides'].get(g['id'])) for g in source['items']]
+  if media.get('checkedAt'):source['generatedAt']=max(source.get('generatedAt') or '',media['checkedAt'])
+ return sources
 
 def notes(root):
  p=root/'data/platformers-editorial.tsv'
- return {r['name']:r for r in csv.DictReader(p.open(),delimiter='\t')} if p.exists() else {}
+ return {r['name']:r for r in csv.DictReader(p.read_text(encoding='utf-8').splitlines(),delimiter='\t')} if p.exists() else {}
 
 def merge_platformers(games,root):
  """One stable record per game. Existing shooter/RTS facts win on overlap."""
