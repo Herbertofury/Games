@@ -1,0 +1,41 @@
+name: Resolve platformer video sources
+on:
+  workflow_dispatch:
+  push:
+    branches: [platformers-completion-2026-10-23]
+    paths: [scripts/resolve_platformer_videos.py, scripts/capture_platformer_classics.py, .github/workflows/platformer-video-resolution.yml]
+permissions:
+  contents: read
+concurrency:
+  group: platformer-video-resolution
+  cancel-in-progress: true
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Inspect exact official pages and real media headers
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          python3 scripts/resolve_platformer_videos.py
+      - name: Configure the actual browser
+        run: |
+          if command -v google-chrome >/dev/null; then
+            echo "CHROMIUM_PATH=$(command -v google-chrome)" >> "$GITHUB_ENV"
+          else
+            python3 -m playwright install --with-deps chromium
+          fi
+      - name: Capture public creator builds with explicit attribution
+        run: python3 scripts/capture_platformer_classics.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: platformer-resolved-media-and-preview-review
+          path: |
+            data/platformers-media-reviewed.json
+            qa/platformer-video-resolution/
+            site/assets/platformer-previews/
