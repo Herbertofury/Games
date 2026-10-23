@@ -1,0 +1,80 @@
+name: Checkpoint survival collection
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/checkpoint-survival.yml']
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: survival-install
+  cancel-in-progress: false
+jobs:
+  checkpoint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Restore successful source mutations, not repeated provider requests
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api repos/Herbertofury/Games/actions/artifacts/12538271115/zip > /tmp/survival-checkpoint.zip
+          echo '73d536a3d65ea3193204a1f1139705061c013446ffdd598330d5d98042202302  /tmp/survival-checkpoint.zip' | sha256sum -c -
+          python3 - <<'PY'
+          import pathlib,zipfile
+          root=pathlib.Path.cwd()
+          with zipfile.ZipFile('/tmp/survival-checkpoint.zip') as z:
+              for name in z.namelist():
+                  if not name.startswith(('site/','scripts/','tests/','data/survival-')) or '__pycache__' in name: continue
+                  p=pathlib.PurePosixPath(name)
+                  assert not p.is_absolute() and '..' not in p.parts
+                  z.extract(name,root)
+          PY
+      - name: Repair the two exact source-contract findings and close only new store rows
+        run: |
+          python3 scripts/repair_survival_checkpoint.py
+          python3 scripts/complete_survival_delta.py
+          node --check site/app.js
+          node --check site/platformers.js
+          node --check site/survival.js
+          python3 -m py_compile scripts/*.py tests/*.py
+          python3 scripts/build.py
+      - name: Preserve the full original regression gate
+        run: |
+          set -o pipefail
+          mkdir -p qa
+          python3 -m unittest discover -s tests -p 'test_*.py' 2>&1 | tee qa/survival-checkpoint-unit-tests.log
+      - name: Generate source-matched release scope and persist the coherent checkpoint
+        run: |
+          python3 scripts/survival_release_notes.py
+          python3 scripts/build.py
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site scripts tests data docs/EXECUTION.md docs/RELEASE.md docs/SURVIVAL.md dist wiki
+          if ! git diff --cached --quiet; then
+            git commit -m 'Checkpoint complete Survival and Minecraft-like libraries after all original and new source tests'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          echo "Tested source checkpoint: $(git rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: survival-tested-checkpoint
+          path: |
+            site/
+            scripts/
+            tests/
+            data/survival-*
+            docs/SURVIVAL.md
+            docs/RELEASE.md
+            docs/EXECUTION.md
+            dist/manifest.json
+            release/
+            qa/survival-checkpoint-unit-tests.log
