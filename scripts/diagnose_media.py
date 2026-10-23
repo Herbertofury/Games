@@ -25,7 +25,7 @@ async def main():
                 await page.add_script_tag(url=f'https://cdn.jsdelivr.net/npm/hls.js@{version}/dist/hls.min.js')
                 await page.evaluate('''({url,config,order})=>{
                   const v=document.querySelector('video');window.events=[];window.player=new Hls({...config,debug:true});
-                  for(const event of [Hls.Events.MEDIA_ATTACHED,Hls.Events.MANIFEST_LOADED,Hls.Events.MANIFEST_PARSED,Hls.Events.LEVEL_LOADED,Hls.Events.ERROR]) player.on(event,(_,e)=>events.push({event,details:e.details,type:e.type,fatal:e.fatal,error:String(e.error||''),levels:e.levels?.length}));
+                  for(const event of [Hls.Events.MEDIA_ATTACHED,Hls.Events.MANIFEST_LOADED,Hls.Events.MANIFEST_PARSED,Hls.Events.LEVEL_LOADED,Hls.Events.ERROR]) player.on(event,(_,e)=>events.push({event,details:typeof e.details==='string'?e.details:undefined,type:e.type,fatal:e.fatal,error:String(e.error||''),levels:e.levels?.length}));
                   if(order==='attached'){player.on(Hls.Events.MEDIA_ATTACHED,()=>player.loadSource(url));player.attachMedia(v);}
                   else {player.loadSource(url);player.attachMedia(v);}
                   v.play().catch(e=>events.push({playError:String(e)}));
@@ -36,7 +36,7 @@ async def main():
                 except Exception as e:result['played']=False;result['error']=str(e)
                 result['state']=await page.evaluate('''()=>({events:window.events,time:document.querySelector('video').currentTime,ready:document.querySelector('video').readyState,levelCount:player.levels.length,loading:player.loadingEnabled,mediaSource:player.mediaSource?.readyState,capabilities:typeof navigator.mediaCapabilities?.decodingInfo})''')
                 result['console']=events;result['networkFailures']=network
-                report['cases'].append(result);await page.close()
+                report['cases'].append(result);print(name,result['played'],flush=True);await page.close()
             await asyncio.gather(case('current','1.7.3',{},'source-first'),case('attached-first','1.7.3',{},'attached'),case('bounded-capabilities','1.7.3',{'useMediaCapabilities':False},'attached'),case('prior-stable-control','1.6.19',{},'attached'))
             await browser.close()
     finally:
