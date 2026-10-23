@@ -38,11 +38,13 @@ Public Alpha 3 is dated November 5, 2020. Later creator discussions about a stan
 
 > Exploratory recommendation; limited independent reception
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=nZgowdanpIA)
+[Creator-published video](https://www.youtube.com/watch?v=nZgowdanpIA) | Creator / publisher
+
+[Source and provenance](https://www.moddb.com/mods/vietdoom)
 
 ![VietDoom - Public Alpha - creator-published image](https://media.moddb.com/images/mods/1/44/43432/2019-12-04_20_37_01-ZANDRONUM_3.0_170901-1140.png)
 

@@ -23,13 +23,15 @@ Use a rearview mirror to fight through a horror-filled hellscape in this Doom-in
 
 - [Steam: store](https://store.steampowered.com/app/1410090/)
 
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
+
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1410090/1504688008/0b0a0b7d7f61d5be16bbbcfe74a735f19d43565f/1770911114/hls_264_master.m3u8?t=1770913524)
+[1.0 Launch Trailer](https://store.steampowered.com/app/1410090/) | Creator / publisher
 
 ![Hellscreen official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1410090/ss_45ab6f5a7232088dca21b3471f49634034163d90.1920x1080.jpg?t=1771002177)
 

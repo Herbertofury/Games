@@ -22,11 +22,11 @@ Archons is a Roguelite/Survivor game where you control two characters, the Archo
 
 - [Steam: store](https://store.steampowered.com/app/2779570/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2779570/850596/4951e3629c540ba00ded692d6a6c5a0c7db6bd63/1750899341/hls_264_master.m3u8?t=1742304109)
+[Gameplay Trailer](https://store.steampowered.com/app/2779570/) | Creator / publisher
 
 ![Archons official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_0e6bdfa1069866531df563284b6f8af1d2f55be1.1920x1080.jpg?t=1787825311)
 

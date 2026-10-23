@@ -22,17 +22,17 @@ Shape of Dreams delivers fast-paced top-down roguelite action with chaotic proje
 
 - [Steam: store](https://store.steampowered.com/app/2444750/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Shape of Dreams](https://video.akamai.steamstatic.com/store_trailers/2444750/1164321452/d706a065f26626966d2101b1af288afc4e071dad/1789375458/hls_264_master.m3u8?t=1789643421)
+[Shape of Dreams](https://store.steampowered.com/app/2444750/) | Creator / publisher
 
-[Shape of Dreams](https://video.akamai.steamstatic.com/store_trailers/2444750/1799289093/f3e4df274d0fd2243fad6ce423aa4087e66b006f/1757558203/hls_264_master.m3u8?t=1757559761)
+[Shape of Dreams](https://store.steampowered.com/app/2444750/) | Creator / publisher
 
-[Shape of Dreams](https://video.akamai.steamstatic.com/store_trailers/2444750/1190012828/03c8f0ee9d1348d4eea360dd0bd1609add54ceba/1755675873/hls_264_master.m3u8?t=1755842064)
+[Shape of Dreams](https://store.steampowered.com/app/2444750/) | Creator / publisher
 
-[Shape of Dreams](https://video.akamai.steamstatic.com/store_trailers/2444750/791193/c73b9ef36819164fac28ada1c7897207277bb0c2/1750919781/hls_264_master.m3u8?t=1732608782)
+[Shape of Dreams](https://store.steampowered.com/app/2444750/) | Creator / publisher
 
 ![Shape of Dreams official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/fe30277750c2539069d33e99f23d601525527821/ss_fe30277750c2539069d33e99f23d601525527821.1920x1080.jpg?t=1790918045)
 

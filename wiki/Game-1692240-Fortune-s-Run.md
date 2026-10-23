@@ -22,16 +22,20 @@ Explore a decaying industrial world left behind in humanity's never-ending race 
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1692240/)
+- [GOG: store](https://www.gog.com/en/game/fortunes_run) | Exact title in GOG official catalog: Fortune's Run
+- [Patreon: support](https://www.patreon.com/TeamFortune) | Creator support linked from the game website supplied by Steam
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[EA Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/1692240/619959/1ac088a0874fc6f386b32bcc60e0384dc3b6a5f3/1751020327/hls_264_master.m3u8?t=1697635023)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/1692240/550082/82089bc347902744c9ed02ccc9d2f5ba6bd1a8be/1751020322/hls_264_master.m3u8?t=1684818066)
+[EA Gameplay Trailer](https://store.steampowered.com/app/1692240/) | Creator / publisher
 
-[Fortune's Run Cinematic Trailer (PCGS '23)](https://video.akamai.steamstatic.com/store_trailers/1692240/577081/c8e07c2d42adc3def98912e656b6865e6fa65bf1/1751020327/hls_264_master.m3u8?t=1686520952)
+[Early Access Trailer](https://store.steampowered.com/app/1692240/) | Creator / publisher
+
+[Fortune's Run Cinematic Trailer (PCGS '23)](https://store.steampowered.com/app/1692240/) | Creator / publisher
 
 ![Fortune's Run official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1692240/ss_321a047bebf7afd3abc15e59f6c11f2bb8726ce5.1920x1080.jpg?t=1787765329)
 

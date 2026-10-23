@@ -27,13 +27,15 @@ A very small-audience July 2026 discovery. Treat it as an exploratory pick and i
 
 - [Steam: store](https://store.steampowered.com/app/2723250/)
 
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
+
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/2723250/1897153599/888a7b3c73054daaed7413ec61432a8d787a547e/1780447189/hls_264_master.m3u8?t=1780462427)
+[Early Access Trailer](https://store.steampowered.com/app/2723250/) | Creator / publisher
 
 ![MALEDICTOR official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/c8afa90265e04cbfe7104ae9d710f75ceed2fb2a/ss_c8afa90265e04cbfe7104ae9d710f75ceed2fb2a.1920x1080.jpg?t=1790706194)
 

@@ -22,15 +22,15 @@ Traverse the depths of Hell and beat its toughest demons on your way to Heaven i
 
 - [Steam: store](https://store.steampowered.com/app/3372060/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Hell Maiden Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3372060/1312630063/8a567208076b20034c14772bccecd40cbe0a2d3c/1784720026/hls_264_master.m3u8?t=1784721826)
+[Hell Maiden Early Access Launch Trailer](https://store.steampowered.com/app/3372060/) | Creator / publisher
 
-[Hell Maiden Release Date Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/3372060/326073627/2d98cd14e9b4d9ba18a2529cee8588fe8ae6fa15/1782214702/hls_264_master.m3u8?t=1782216102)
+[Hell Maiden Release Date Announcement Trailer](https://store.steampowered.com/app/3372060/) | Creator / publisher
 
-[Hell Maiden Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3372060/359807004/89e06cb0b4f41ac584e9cae77d821e0760b28eec/1750844912/hls_264_master.m3u8?t=1747997753)
+[Hell Maiden Gameplay Trailer](https://store.steampowered.com/app/3372060/) | Creator / publisher
 
 ![Hell Maiden official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372060/d0aec84bbf3e509a502be649a0531126e0c8489d/ss_d0aec84bbf3e509a502be649a0531126e0c8489d.1920x1080.jpg?t=1787047104)
 

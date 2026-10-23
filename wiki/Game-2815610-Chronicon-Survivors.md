@@ -22,13 +22,13 @@ Fight a mix of familiar and new dangerous foes in this fast paced horde survival
 
 - [Steam: store](https://store.steampowered.com/app/2815610/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Chronicon: Survivors 1.3](https://video.akamai.steamstatic.com/store_trailers/2815610/884666/171edf571ebcd323fb52091754f60a4fcea8dd14/1750944113/hls_264_master.m3u8?t=1746609592)
+[Chronicon: Survivors 1.3](https://store.steampowered.com/app/2815610/) | Creator / publisher
 
-[Chronicon: Survivors Release Trailer (2024 1.0)](https://video.akamai.steamstatic.com/store_trailers/2815610/736421/69f1d66d5584a36344cfb7bbf1771b180bcaa912/1750944107/hls_264_master.m3u8?t=1746609595)
+[Chronicon: Survivors Release Trailer (2024 1.0)](https://store.steampowered.com/app/2815610/) | Creator / publisher
 
 ![Chronicon: Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2815610/1f6068c7e10c8a85522339f27c43739041146a29/ss_1f6068c7e10c8a85522339f27c43739041146a29.1920x1080.jpg?t=1763652646)
 

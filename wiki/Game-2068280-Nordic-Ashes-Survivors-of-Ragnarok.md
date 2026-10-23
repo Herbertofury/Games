@@ -22,11 +22,11 @@ Nordic Ashes: Survivors of Ragnarok, is a challenging Norse inspired roguelite-s
 
 - [Steam: store](https://store.steampowered.com/app/2068280/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Nordic Ashes 1.1 Trailer](https://video.akamai.steamstatic.com/store_trailers/2068280/710298/0d44348645111001b8b2cefbbdd9fa5028ee2abd/1750745875/hls_264_master.m3u8?t=1717774628)
+[Nordic Ashes 1.1 Trailer](https://store.steampowered.com/app/2068280/) | Creator / publisher
 
 ![Nordic Ashes: Survivors of Ragnarok official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2068280/ss_c7a95b701b6396e8f546dca1117758c61dd00e2a.1920x1080.jpg?t=1780908930)
 

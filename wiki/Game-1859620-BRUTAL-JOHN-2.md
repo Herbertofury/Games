@@ -23,13 +23,15 @@ Join BRUTAL JOHN and BRUTAL DOG in a ultraviolent old-school FPS set in a world 
 
 - [Steam: store](https://store.steampowered.com/app/1859620/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[BRUTAL JOHN 2 Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1859620/841774247/76bb7780a24c6feccd1adf774e9fc8f5cef90b7d/1753024448/hls_264_master.m3u8?t=1753188966)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[BRUTAL JOHN 2 Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/1859620/1256320960/d55b3ffcae045f66fa793092bd08fd5f9c86f638/1751039467/hls_264_master.m3u8?t=1749611192)
+[BRUTAL JOHN 2 Early Access Launch Trailer](https://store.steampowered.com/app/1859620/) | Creator / publisher
+
+[BRUTAL JOHN 2 Gameplay Trailer](https://store.steampowered.com/app/1859620/) | Creator / publisher
 
 ![BRUTAL JOHN 2 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859620/31dbe26a00e816ca12033dc657d3a81be12b827c/ss_31dbe26a00e816ca12033dc657d3a81be12b827c.1920x1080.jpg?t=1789664393)
 

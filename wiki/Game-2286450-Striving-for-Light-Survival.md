@@ -22,11 +22,11 @@ Striving for Light: Survival brings the exploration of infinite expanding skill 
 
 - [Steam: store](https://store.steampowered.com/app/2286450/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2286450/635499/3ededeaff109658890c4241d0ab0faa7dce362bb/1750980448/hls_264_master.m3u8?t=1701514947)
+[Release Trailer](https://store.steampowered.com/app/2286450/) | Creator / publisher
 
 ![Striving for Light: Survival official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2286450/ss_51682eadc5344f54d9135a765bac65183e3c8cbb.1920x1080.jpg?t=1739049775)
 

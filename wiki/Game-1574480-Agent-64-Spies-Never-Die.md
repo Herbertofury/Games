@@ -23,13 +23,15 @@ A retro spy FPS inspired by the N64 era. Go guns-blazing in action-packed shooto
 
 - [Steam: store](https://store.steampowered.com/app/1574480/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1574480/1696872667/1421ab83397abeea5814c2e8053f1dcb88b001cc/1786413202/hls_264_master.m3u8?t=1786459632)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Features Trailer](https://video.akamai.steamstatic.com/store_trailers/1574480/4552168/f59530b5621f4f23c746acf37aea226f56c94ad0/1786451212/hls_264_master.m3u8?t=1786459633)
+[Release Trailer](https://store.steampowered.com/app/1574480/) | Creator / publisher
+
+[Features Trailer](https://store.steampowered.com/app/1574480/) | Creator / publisher
 
 ![Agent 64: Spies Never Die official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574480/f0b7f07a871ecc449e5b7a4434b417d7032d5382/ss_f0b7f07a871ecc449e5b7a4434b417d7032d5382.1920x1080.jpg?t=1786538539)
 

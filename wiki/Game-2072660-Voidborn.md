@@ -23,13 +23,15 @@ Slay demons and demigods in this fast-paced roguelite FPS. Create devastating we
 
 - [Steam: store](https://store.steampowered.com/app/2072660/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Voidborn 1.0 Steam Trailer](https://video.akamai.steamstatic.com/store_trailers/2072660/863839/bc2323eb0995d933abd2532f3282d0f1ef9c8abf/1751071748/hls_264_master.m3u8?t=1744034210)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Voidborn 1.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/2072660/863841/552921c357b788264ac554c844c85d76bc1286e4/1751071750/hls_264_master.m3u8?t=1744034212)
+[Voidborn 1.0 Steam Trailer](https://store.steampowered.com/app/2072660/) | Creator / publisher
+
+[Voidborn 1.0 Trailer](https://store.steampowered.com/app/2072660/) | Creator / publisher
 
 ![Voidborn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2072660/79793ebed991d86ca810e9c783053019f6bf511b/ss_79793ebed991d86ca810e9c783053019f6bf511b.1920x1080.jpg?t=1744034416)
 

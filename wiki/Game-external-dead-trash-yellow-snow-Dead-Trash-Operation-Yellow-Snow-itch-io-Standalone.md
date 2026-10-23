@@ -33,11 +33,13 @@ This record refers to the standalone itch.io purchase. The separate Steam DLC re
 
 > Exploratory recommendation; limited independent reception; Community rating has a small sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=MmuTnblLduQ)
+[Creator-published video](https://www.youtube.com/watch?v=MmuTnblLduQ) | Creator / publisher
+
+[Source and provenance](https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow)
 
 ![Dead Trash: Operation Yellow Snow - itch.io Standalone - creator-published image](https://img.itch.zone/aW1hZ2UvNDEzMjkxOS8yNDYzMjc2My5wbmc=/347x500/xrr73N.png)
 

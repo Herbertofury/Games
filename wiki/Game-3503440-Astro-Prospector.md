@@ -22,13 +22,13 @@ Endless Coffee is out! Build your ship, survive 21 Days and break the Universe- 
 
 - [Steam: store](https://store.steampowered.com/app/3503440/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Trailer - Astro Prospector: Endless Coffee [Launch Date]](https://video.akamai.steamstatic.com/store_trailers/3503440/859703090/05e16371d1801ad537f391c0ad1dc9cab638f1ec/1763370460/hls_264_master.m3u8?t=1763370973)
+[Trailer - Astro Prospector: Endless Coffee [Launch Date]](https://store.steampowered.com/app/3503440/) | Creator / publisher
 
-[Trailer - Astro Prospector [Launch Date]](https://video.akamai.steamstatic.com/store_trailers/3503440/1941618237/4d24c7ab78f5d85f95d477cc6d62b56e280e46e2/1751538392/hls_264_master.m3u8?t=1751542408)
+[Trailer - Astro Prospector [Launch Date]](https://store.steampowered.com/app/3503440/) | Creator / publisher
 
 ![Astro Prospector official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503440/22cf55234c77ddc7cde5d041daadb56afb651def/ss_22cf55234c77ddc7cde5d041daadb56afb651def.1920x1080.jpg?t=1791528988)
 

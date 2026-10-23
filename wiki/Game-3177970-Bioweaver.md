@@ -22,13 +22,13 @@ Bioweaver is an RPG game with the main content of treasure hunting and character
 
 - [Steam: store](https://store.steampowered.com/app/3177970/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[pvy2](https://video.akamai.steamstatic.com/store_trailers/3177970/750302/a7176550df4e66d466a4c0c3450cf051accba0a6/1750824550/hls_264_master.m3u8?t=1727930310)
+[pvy2](https://store.steampowered.com/app/3177970/) | Creator / publisher
 
-[pvy](https://video.akamai.steamstatic.com/store_trailers/3177970/750272/edf9f74fd40816ba76213c6d8e56c8365f67c424/1750824548/hls_264_master.m3u8?t=1727930315)
+[pvy](https://store.steampowered.com/app/3177970/) | Creator / publisher
 
 ![Bioweaver official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3177970/ss_8d323e870c6c4ab30d2a1c703b4193b81ee025e5.1920x1080.jpg?t=1789998498)
 

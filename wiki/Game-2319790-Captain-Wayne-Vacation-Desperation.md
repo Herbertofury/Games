@@ -27,17 +27,19 @@ A colorful, exuberant campaign and a strong late-2025 alternative to grim indust
 
 - [Steam: store](https://store.steampowered.com/app/2319790/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Captain Wayne OUT NOW](https://video.akamai.steamstatic.com/store_trailers/2319790/254000150/f9a61a03590f84ce1b7ab98ab3a3418f8544d140/1763640345/hls_264_master.m3u8?t=1764083563)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Captain Wayne: Vacation Desperation \| Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2319790/1447022689/710dbf459840c6301c9e5bc344e59cc6142311bd/1758213394/hls_264_master.m3u8?t=1758646387)
+[Captain Wayne OUT NOW](https://store.steampowered.com/app/2319790/) | Creator / publisher
 
-[Captain Wayne \| Arsenal weapon Showcase](https://video.akamai.steamstatic.com/store_trailers/2319790/1497509874/2c68b7b159e524dc4e67b8f8506d1581596651bf/1756458898/hls_264_master.m3u8?t=1758646391)
+[Captain Wayne: Vacation Desperation \| Release Date Trailer](https://store.steampowered.com/app/2319790/) | Creator / publisher
 
-[Captain Wayne - Cinematic Trailer](https://video.akamai.steamstatic.com/store_trailers/2319790/1370986673/75c0465d7c5d084a45cf24f9fdeb4f9d02be1c66/1750906016/hls_264_master.m3u8?t=1752032553)
+[Captain Wayne \| Arsenal weapon Showcase](https://store.steampowered.com/app/2319790/) | Creator / publisher
+
+[Captain Wayne - Cinematic Trailer](https://store.steampowered.com/app/2319790/) | Creator / publisher
 
 ![Captain Wayne - Vacation Desperation official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/950493730f07cd4f15f1478e09535bfbab34d80e/ss_950493730f07cd4f15f1478e09535bfbab34d80e.1920x1080.jpg?t=1781199423)
 

@@ -24,11 +24,11 @@
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Deck of Destiny: Battleforge - Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3167610/1801783572/c627d1db305c61fc1fb64e0378d85c36155da446/1755011922/hls_264_master.m3u8?t=1755013751)
+[Deck of Destiny: Battleforge - Gameplay Trailer](https://store.steampowered.com/app/3167610/) | Creator / publisher
 
 ![Deck of Destiny: Battleforge official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167610/9be9de3a7e95892979c29d48b642c49d98b5f180/ss_9be9de3a7e95892979c29d48b642c49d98b5f180.1920x1080.jpg?t=1769264716)
 

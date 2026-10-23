@@ -23,11 +23,13 @@ The HUNT Returns... AGAIN! Play the original Cult Classic '90s FPS remastered in
 
 - [Steam: store](https://store.steampowered.com/app/1421490/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[ROTT Ludicrous Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1421490/592445/551f92345df7fa5e9cd08bfa036816821e2d83ab/1751235874/hls_264_master.m3u8?t=1690878384)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[ROTT Ludicrous Launch Trailer](https://store.steampowered.com/app/1421490/) | Creator / publisher
 
 ![Rise of the Triad: Ludicrous Edition official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1421490/ss_866ff61a487e48fdbae0637275e31a022b6fc1ca.1920x1080.jpg?t=1774275416)
 

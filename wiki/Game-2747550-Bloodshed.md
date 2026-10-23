@@ -21,20 +21,24 @@ Bloodshed is a Roguelite Survivors FPS; an exhilarating fusion of Roguelite elem
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/2747550/)
+- [GOG: store](https://www.gog.com/en/game/bloodshed) | Exact title in GOG official catalog: Bloodshed
+- [Epic Games: store](https://store.epicgames.com/en-US/p/bloodshed-849737) | Exact game-specific listing confirmed by the official Epic store or linked publisher website.
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Full Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/232139185/ed4bf327c6cc9e09050453d1bee1a70fb921301e/1750819497/hls_264_master.m3u8?t=1747925560)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Full Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/861466/6fd266d24aca0197b6c56aa833738f9f9d1cc6de/1750819496/hls_264_master.m3u8?t=1743491313)
+[Full Release Trailer](https://store.steampowered.com/app/2747550/) | Creator / publisher
 
-[Bloodshed Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/799053/25530d77e9536e674c6149018e54a990fb17088e/1750819495/hls_264_master.m3u8?t=1734019019)
+[Full Release Date Trailer](https://store.steampowered.com/app/2747550/) | Creator / publisher
 
-[Bloodshed Release Date Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/788043/5fc51d894c3ad35fd95a74c855cbd4ed999378db/1750819495/hls_264_master.m3u8?t=1732024990)
+[Bloodshed Early Access Launch Trailer](https://store.steampowered.com/app/2747550/) | Creator / publisher
 
-[Bloodshed Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/768283/900ecfa21c1da58c7db280ebea9242f79394aa1f/1750819494/hls_264_master.m3u8?t=1728394485)
+[Bloodshed Release Date Announcement Trailer](https://store.steampowered.com/app/2747550/) | Creator / publisher
+
+[Bloodshed Announcement Trailer](https://store.steampowered.com/app/2747550/) | Creator / publisher
 
 ![Bloodshed official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747550/ss_ca7c0bea0d667298d85fc183f3e94dc73dcb6f8f.1920x1080.jpg?t=1772456013)
 

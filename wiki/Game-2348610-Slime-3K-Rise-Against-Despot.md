@@ -22,15 +22,15 @@ Welcome to Slime 3K, an unhinged roguelite bullet-heaven set in the Despot’s G
 
 - [Steam: store](https://store.steampowered.com/app/2348610/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2348610/778239/60a5a4f901e95c7fd778bc37c807b0e5123c80a7/1750909745/hls_264_master.m3u8?t=1730390291)
+[1.0 Launch Trailer](https://store.steampowered.com/app/2348610/) | Creator / publisher
 
-[Out Now in Early Access](https://video.akamai.steamstatic.com/store_trailers/2348610/625213/f2348929682a4ef867ae5e7c80c6aee5d85ccd9f/1750909744/hls_264_master.m3u8?t=1698942953)
+[Out Now in Early Access](https://store.steampowered.com/app/2348610/) | Creator / publisher
 
-[Gameplay Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2348610/574128/355a2567e8714edf071c532830fd9408de8948bf/1750909741/hls_264_master.m3u8?t=1686220829)
+[Gameplay Reveal Trailer](https://store.steampowered.com/app/2348610/) | Creator / publisher
 
 ![Slime 3K: Rise Against Despot official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_8fcfd2262199bce0af3be308693cc25111070dc7.1920x1080.jpg?t=1781544012)
 

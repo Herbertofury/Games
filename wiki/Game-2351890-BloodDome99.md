@@ -24,13 +24,13 @@ BloodDome99 is a game about nostalgia, capitalism, violence, and over-the-top ab
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/2351890/747363/6c864f839bbf364c4d74033499d7c78f3f938d12/1750910149/hls_264_master.m3u8?t=1735622324)
+[1.0 Trailer](https://store.steampowered.com/app/2351890/) | Creator / publisher
 
-[Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/2351890/653208/5635b4d381892778256d1b52fb13bb5fb85f8d8e/1750910146/hls_264_master.m3u8?t=1724846466)
+[Early Access Trailer](https://store.steampowered.com/app/2351890/) | Creator / publisher
 
 ![BloodDome99 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2351890/ss_364b368d96b66dbfdc87242698813e2636e00b30.1920x1080.jpg?t=1776974941)
 

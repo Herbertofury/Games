@@ -24,11 +24,11 @@ Prepare to face the relentless onslaught of the undead! Clear the undead realm e
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/2944350/699657/1abd0e9d3d17f9dfb626380bfecbb74cee07b037/1750891047/hls_264_master.m3u8?t=1717964260)
+[Demo Trailer](https://store.steampowered.com/app/2944350/) | Creator / publisher
 
 ![Undead Kingdom Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944350/ss_bb9fc89f0632dd31051369a3f2c0f1e5a73de722.1920x1080.jpg?t=1761328812)
 

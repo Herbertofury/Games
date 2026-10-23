@@ -22,14 +22,17 @@ Harness the power of a mystical boomerang to fling yourself through the air in t
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1170060/)
+- [GOG: store](https://www.gog.com/en/game/boomerang_x) | Exact title in GOG official catalog: Boomerang X
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Endless Mode Trailer](https://video.akamai.steamstatic.com/store_trailers/1170060/514867/babffc3a429bfcbd64d2961006acd7087a5636df/1751198374/hls_264_master.m3u8?t=1668732031)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/1170060/378457/d023f432ea7ca70c4a85a6dde168cf4267756b9e/1751198374/hls_264_master.m3u8?t=1668732112)
+[Endless Mode Trailer](https://store.steampowered.com/app/1170060/) | Creator / publisher
+
+[Release Date Trailer](https://store.steampowered.com/app/1170060/) | Creator / publisher
 
 ![Boomerang X official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170060/ss_406000e9d46a1df6a91b171b35f4bdfa90be3270.1920x1080.jpg?t=1771215986)
 

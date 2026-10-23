@@ -22,11 +22,11 @@ Smash your way through endless waves of enemies and grow absurdly powerful! Grab
 
 - [Steam: store](https://store.steampowered.com/app/3405340/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Megabonk Trailer Launch](https://video.akamai.steamstatic.com/store_trailers/3405340/812784606/5b46f6fdaa53e5fbc456785234d21932a94fdd14/1758154057/hls_264_master.m3u8?t=1758158530)
+[Megabonk Trailer Launch](https://store.steampowered.com/app/3405340/) | Creator / publisher
 
 ![Megabonk official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/ce4d8d24a3731a91490ab92b8687f07314c600b9/ss_ce4d8d24a3731a91490ab92b8687f07314c600b9.1920x1080.jpg?t=1760445338)
 

@@ -22,11 +22,11 @@ Face massive hordes of mobs and unleash chaotic abilities that paint the screen 
 
 - [Steam: store](https://store.steampowered.com/app/2015240/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Dwarven Realms Gameplay Trailer Launch](https://video.akamai.steamstatic.com/store_trailers/2015240/762264/ddabdcc5babecd239613a67c7a46e6e2199d19e3/1751067658/hls_264_master.m3u8?t=1727386629)
+[Dwarven Realms Gameplay Trailer Launch](https://store.steampowered.com/app/2015240/) | Creator / publisher
 
 ![Dwarven Realms official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015240/ss_cb1e1e63c21efe1be18e625b70630034e7528c10.1920x1080.jpg?t=1738315434)
 

@@ -23,13 +23,15 @@ So.... got what it takes to be a X Slayer?!?... 7 weapons, blood and gore, twist
 
 - [Steam: store](https://store.steampowered.com/app/1931020/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1931020/573357/6ca7a079258bd20105f8a5f732d61addb99250cc/1750741360/hls_264_master.m3u8?t=1685637739)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Slayers X Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/1931020/568856/9d75f85c2d1017ba91b4e85892fa1075bccd1666/1750741360/hls_264_master.m3u8?t=1684421734)
+[Launch Trailer](https://store.steampowered.com/app/1931020/) | Creator / publisher
+
+[Slayers X Announcement Trailer](https://store.steampowered.com/app/1931020/) | Creator / publisher
 
 ![Slayers X: Terminal Aftermath: Vengance of the Slayer official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931020/ss_0ed53648dba148bb8db667b101c96ec65f92e88d.1920x1080.jpg?t=1755257968)
 

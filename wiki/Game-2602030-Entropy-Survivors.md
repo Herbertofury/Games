@@ -22,21 +22,21 @@ Entropy Survivors is a bullet hell roguelike where you simultaneously control a 
 
 - [Steam: store](https://store.steampowered.com/app/2602030/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/790770/7372546eed30b484e815b9bc29ad456c32fda42f/1750817364/hls_264_master.m3u8?t=1733343528)
+[Launch Trailer](https://store.steampowered.com/app/2602030/) | Creator / publisher
 
-[Abilities Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/789269/0a803042ccfbc49bcb9beea2e79d2615f6fbe88a/1750817364/hls_264_master.m3u8?t=1732203027)
+[Abilities Trailer](https://store.steampowered.com/app/2602030/) | Creator / publisher
 
-[Class System Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/775599/c0d5eb28f6063b3a5ce45c28ed6f0c183afa618c/1750817364/hls_264_master.m3u8?t=1729683277)
+[Class System Trailer](https://store.steampowered.com/app/2602030/) | Creator / publisher
 
-[Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/762313/9e6d0ffd84d30d42ec0d2a6c49f1f84317d94e70/1750817363/hls_264_master.m3u8?t=1727432977)
+[Release Date Trailer](https://store.steampowered.com/app/2602030/) | Creator / publisher
 
-[Entropy Survivors 101](https://video.akamai.steamstatic.com/store_trailers/2602030/754165/6fca40bfd83b3228ae924cfbe8a774e4bb717e4f/1750817362/hls_264_master.m3u8?t=1726064392)
+[Entropy Survivors 101](https://store.steampowered.com/app/2602030/) | Creator / publisher
 
-[Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/647167/4bd83092f1098c0040b3a78710a6766726378396/1750817360/hls_264_master.m3u8?t=1704564917)
+[Reveal Trailer](https://store.steampowered.com/app/2602030/) | Creator / publisher
 
 ![Entropy Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_f0bc5c2215efb606ba50aaed2c55d37991b3c214.1920x1080.jpg?t=1768937525)
 

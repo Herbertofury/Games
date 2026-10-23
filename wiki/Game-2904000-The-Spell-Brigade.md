@@ -22,17 +22,17 @@ Survivors-like with ONLINE CO-OP for 1-4 players. Team up with your wizard frien
 
 - [Steam: store](https://store.steampowered.com/app/2904000/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2904000/1813797235/1d6c8456e2c57cd6dc7f01e60027cedfafe1e76f/1777385274/hls_264_master.m3u8?t=1777470610)
+[1.0 Launch Trailer](https://store.steampowered.com/app/2904000/) | Creator / publisher
 
-[1.0 Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2904000/1950446536/9e89e127071f880291c493b0057efba554ad7e87/1774874999/hls_264_master.m3u8?t=1774965666)
+[1.0 Release Date Trailer](https://store.steampowered.com/app/2904000/) | Creator / publisher
 
-[Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/2904000/1374133433/3a552e81329338bf05e692b128cdd362be182719/1758126843/hls_264_master.m3u8?t=1758721826)
+[Early Access Trailer](https://store.steampowered.com/app/2904000/) | Creator / publisher
 
-[Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/2904000/736438/0e5a391ccf5605da06ca6e86a3a3bb020128ab5c/1750821269/hls_264_master.m3u8?t=1758721829)
+[Demo Trailer](https://store.steampowered.com/app/2904000/) | Creator / publisher
 
 ![The Spell Brigade official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/7e2b8a8f40ca96ac2b758556db09b3d4ce1d4d71/ss_7e2b8a8f40ca96ac2b758556db09b3d4ce1d4d71.1920x1080.jpg?t=1792678213)
 

@@ -23,13 +23,15 @@ DISDAIN is a fast-paced, visceral retro-styled first person shooter, inspired by
 
 - [Steam: store](https://store.steampowered.com/app/2113270/)
 
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
+
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Disdain Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2113270/496818/6f55b63c541ac36145f00e6b1ec8cbc2fc51e47c/1751077724/hls_264_master.m3u8?t=1663608403)
+[Disdain Announcement Trailer](https://store.steampowered.com/app/2113270/) | Creator / publisher
 
 ![DISDAIN official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113270/ss_5d338ee1e132dd69f2db86af5facd6f1b716377c.1920x1080.jpg?t=1672191592)
 

@@ -22,15 +22,15 @@ Brotato is a top-down arena shooter roguelite where you play a potato wielding u
 
 - [Steam: store](https://store.steampowered.com/app/1942280/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Full Release Trailer - Local Co-Op Update](https://video.akamai.steamstatic.com/store_trailers/1942280/776977/3c3b725174c83d8d873735bd5e80af3220010ed7/1750742089/hls_264_master.m3u8?t=1729849696)
+[Full Release Trailer - Local Co-Op Update](https://store.steampowered.com/app/1942280/) | Creator / publisher
 
-[Full Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1942280/580841/a3b1b3b49345b7db0fb0206aea5df33819234f82/1750742088/hls_264_master.m3u8?t=1687427491)
+[Full Release Trailer](https://store.steampowered.com/app/1942280/) | Creator / publisher
 
-[Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/1942280/456556/a4377737e38265495fbff53dc581e0e839d1d940/1750742087/hls_264_master.m3u8?t=1687427495)
+[Early Access Trailer](https://store.steampowered.com/app/1942280/) | Creator / publisher
 
 ![Brotato official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/ss_79be0eea0299da76bc50cef160fb669509f74e0b.1920x1080.jpg?t=1789029155)
 

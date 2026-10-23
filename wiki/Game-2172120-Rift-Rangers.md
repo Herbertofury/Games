@@ -24,11 +24,11 @@ Can you survive 20 minutes? Rift Rangers is roguelite, sentai-heavy, and bullet-
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[RR_Now_Available_60sec](https://video.akamai.steamstatic.com/store_trailers/2172120/573094/9482ccc21068ac30c08324936c8e003801e4eda2/1751085196/hls_264_master.m3u8?t=1685464167)
+[RR_Now_Available_60sec](https://store.steampowered.com/app/2172120/) | Creator / publisher
 
 ![Rift Rangers official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172120/ss_65b629ef1d6b5d07b6e4971397317b370bb94951.1920x1080.jpg?t=1711227233)
 

@@ -23,13 +23,15 @@ Kvark is an FPS game set in a fictional version of the 80s Czech Republic. The p
 
 - [Steam: store](https://store.steampowered.com/app/2319390/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Chapter 3 release date trailer](https://video.akamai.steamstatic.com/store_trailers/2319390/758744/cb7a47ae8de6d498a06a8a9415d5597eac9a6417/1750905972/hls_264_master.m3u8?t=1726831707)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Chapter 2 launch trailer](https://video.akamai.steamstatic.com/store_trailers/2319390/654374/667ed130ad9c1b530ad39bb2e684b886d3ef53d1/1750905971/hls_264_master.m3u8?t=1706176310)
+[Chapter 3 release date trailer](https://store.steampowered.com/app/2319390/) | Creator / publisher
+
+[Chapter 2 launch trailer](https://store.steampowered.com/app/2319390/) | Creator / publisher
 
 ![Kvark official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319390/ss_e24896c3e3ff5d5d07893454eba8b384d2231e55.1920x1080.jpg?t=1729690677)
 

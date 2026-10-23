@@ -23,15 +23,17 @@ Classic First Person Shooter style game. Like the good old days. An action game 
 
 - [Steam: store](https://store.steampowered.com/app/753590/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Hellbound: Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/753590/302323/be263703b7f78b636f660c97c5d11b7db1bd5e1c/1751140229/hls_264_master.m3u8?t=1683689337)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Hellbound: Ran Gameplay Footage](https://video.akamai.steamstatic.com/store_trailers/753590/298645/744a01d5c7a1a6ddadd89a2cbaab60e87bb78fbb/1751140227/hls_264_master.m3u8?t=1683689341)
+[Hellbound: Launch Trailer](https://store.steampowered.com/app/753590/) | Creator / publisher
 
-[Hellbound: Teaser Trailer - They call me Hellgore](https://video.akamai.steamstatic.com/store_trailers/753590/132846/4f58a96577f7b25d1a97e8d83c6ca754d5723dcc/1751140227/hls_264_master.m3u8?t=1683689345)
+[Hellbound: Ran Gameplay Footage](https://store.steampowered.com/app/753590/) | Creator / publisher
+
+[Hellbound: Teaser Trailer - They call me Hellgore](https://store.steampowered.com/app/753590/) | Creator / publisher
 
 ![Hellbound official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753590/ss_8bb0281d92696a90ba80fa9d197b6767908bea4a.1920x1080.jpg?t=1727046815)
 

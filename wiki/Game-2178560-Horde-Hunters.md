@@ -22,11 +22,11 @@ Horde Hunters is an objective-driven bullet heaven roguelite where you build pow
 
 - [Steam: store](https://store.steampowered.com/app/2178560/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2178560/861478/c323c9f41e4d340a0ae49ab0f7692628b3e362ab/1751086089/hls_264_master.m3u8?t=1743493313)
+[Release Trailer](https://store.steampowered.com/app/2178560/) | Creator / publisher
 
 ![Horde Hunters official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178560/d366b295d90ddd8674c331e56478fd831d95ced1/ss_d366b295d90ddd8674c331e56478fd831d95ced1.1920x1080.jpg?t=1781786572)
 

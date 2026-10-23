@@ -22,13 +22,13 @@ Wreak havoc on countless foes with mighty weapons and deadly spells! Enhance you
 
 - [Steam: store](https://store.steampowered.com/app/1918040/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1918040/574904/705eb2b3b5a2484d43561770924a9acdeb3cea9d/1750741043/hls_264_master.m3u8?t=1686239219)
+[Release Trailer](https://store.steampowered.com/app/1918040/) | Creator / publisher
 
-[Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/1918040/500677/cd27bbb2c905fb5acabdef093ac531324f8a5e49/1750741040/hls_264_master.m3u8?t=1683110188)
+[Early Access Trailer](https://store.steampowered.com/app/1918040/) | Creator / publisher
 
 ![Army of Ruin official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1918040/ss_c0e7140911ad3f5a8787b051b0fdbfefb433a23c.1920x1080.jpg?t=1791990944)
 

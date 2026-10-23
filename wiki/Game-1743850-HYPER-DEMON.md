@@ -23,13 +23,15 @@ HYPER DEMON is an FPS like no other. a pearl of lightning. a dream from the futu
 
 - [Steam: store](https://store.steampowered.com/app/1743850/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1743850/495658/4ed8d54bd8697a0e8d3971bb3c95d1d5c3062634/1750731634/hls_264_master.m3u8?t=1663598897)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Official Gameplay](https://video.akamai.steamstatic.com/store_trailers/1743850/497690/0651e24dc23a9667ed2049963caade40c5b2ee18/1750731637/hls_264_master.m3u8?t=1663598902)
+[Launch Trailer](https://store.steampowered.com/app/1743850/) | Creator / publisher
+
+[Official Gameplay](https://store.steampowered.com/app/1743850/) | Creator / publisher
 
 ![HYPER DEMON official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1743850/ss_238ac888e000b7196ec444d7edf41f726b636ff2.1920x1080.jpg?t=1726872838)
 

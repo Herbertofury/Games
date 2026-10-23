@@ -22,11 +22,11 @@ Fight To The Death is a roguelite game where you enter an arena filled with hund
 
 - [Steam: store](https://store.steampowered.com/app/2620200/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[21/4/24](https://video.akamai.steamstatic.com/store_trailers/2620200/689971/c7346c4f4da8184d6e7425ee934fea19a910153f/1750936950/hls_264_master.m3u8?t=1713665909)
+[21/4/24](https://store.steampowered.com/app/2620200/) | Creator / publisher
 
 ![Fight To The Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620200/ss_a7bc56da2559cd52c974545e7628e0cfad8111fc.1920x1080.jpg?t=1759237713)
 

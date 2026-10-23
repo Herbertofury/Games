@@ -22,16 +22,19 @@ Prodeus is a first-person shooter of old, re-imagined using modern rendering tec
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/964800/)
+- [GOG: store](https://www.gog.com/en/game/prodeus) | Exact title in GOG official catalog: Prodeus
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Prodeus - Launch Date](https://video.akamai.steamstatic.com/store_trailers/964800/497149/092248474491c3fb73a25fc3c8c9c4e3b9fe79c9/1750602049/hls_264_master.m3u8?t=1663375574)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Prodeus - Gamescom 2020](https://video.akamai.steamstatic.com/store_trailers/964800/309291/0feb19129c442c5802beb28eec40a5f45c954949/1750601998/hls_264_master.m3u8?t=1641191548)
+[Prodeus - Launch Date](https://store.steampowered.com/app/964800/) | Creator / publisher
 
-[Prodeus - Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/964800/324817/7fe621e5a5d7253c5673f2c9e1e990988430ab86/1750602015/hls_264_master.m3u8?t=1604945747)
+[Prodeus - Gamescom 2020](https://store.steampowered.com/app/964800/) | Creator / publisher
+
+[Prodeus - Launch Trailer](https://store.steampowered.com/app/964800/) | Creator / publisher
 
 ![Prodeus official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_b4c230a9a6a3244a29ad8b1642029d5d560cba5d.1920x1080.jpg?t=1773695587)
 

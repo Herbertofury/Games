@@ -22,12 +22,15 @@ Developed by the award-winning id Software, Quake® is the ground-breaking, orig
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/2310/)
+- [GOG: store](https://www.gog.com/en/game/quake_the_offering) | Exact title in GOG official catalog: Quake
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Quake Launch Trailer EN](https://video.akamai.steamstatic.com/store_trailers/2310/394086/b409462c3d57b8edad02587f02f1a7792153c736/1750480948/hls_264_master.m3u8?t=1629396065)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Quake Launch Trailer EN](https://store.steampowered.com/app/2310/) | Creator / publisher
 
 ![Quake official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310/ss_b7d9bbc1036fe011e076eb70d57cfc6251863a4c.1920x1080.jpg?t=1786035741)
 

@@ -24,11 +24,11 @@ Survivors of Mayhem - a fast paced fantasy survivor game. Embark on a heart-poun
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Trailer](https://video.akamai.steamstatic.com/store_trailers/2559500/774666/fc3bcda78963da09e36daa4e5f23788dbec83111/1750931346/hls_264_master.m3u8?t=1729449397)
+[Trailer](https://store.steampowered.com/app/2559500/) | Creator / publisher
 
 ![Survivors of Mayhem official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2559500/ss_dec2fd3eb268acc98a8563f94699e7568591eca9.1920x1080.jpg?t=1781112295)
 

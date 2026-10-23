@@ -22,12 +22,15 @@ Extraneum is an old-school, sci-fi single-player first person shooter with an em
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1999140/)
+- [itch.io: store](https://davidjalbert.itch.io/extraneum) | Creator listing shows Buy Now and full game files: Extraneum - Linux 114 MB; Extraneum - Windows 113 MB
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[1.0 Official Trailer](https://video.akamai.steamstatic.com/store_trailers/1999140/757198/67a5941328cb363c35c63ab5b5de5473a1095728/1751065813/hls_264_master.m3u8?t=1772807075)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[1.0 Official Trailer](https://store.steampowered.com/app/1999140/) | Creator / publisher
 
 ![Extraneum official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1999140/ss_02fcf0727f08d6bdd8dc3ad9ff3db4dc8d8ccfa2.1920x1080.jpg?t=1790778934)
 

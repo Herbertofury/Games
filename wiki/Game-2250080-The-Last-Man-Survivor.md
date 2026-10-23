@@ -22,13 +22,13 @@ The Last Man Survivor is a gloomy roguelike in which you have to fight tons of e
 
 - [Steam: store](https://store.steampowered.com/app/2250080/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay-2](https://video.akamai.steamstatic.com/store_trailers/2250080/704147/e0cb66d0303f17478f465ae06012aa82f40f7690/1751095453/hls_264_master.m3u8?t=1727869923)
+[Gameplay-2](https://store.steampowered.com/app/2250080/) | Creator / publisher
 
-[Story-1](https://video.akamai.steamstatic.com/store_trailers/2250080/689117/1d9fb5e1071ce5fcd9b0d354b55c43deff66e92d/1751095448/hls_264_master.m3u8?t=1713447231)
+[Story-1](https://store.steampowered.com/app/2250080/) | Creator / publisher
 
 ![The Last Man Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2250080/ss_7cfbc1f71c222885f2cc26cdd12aaaa64130a81b.1920x1080.jpg?t=1765442239)
 

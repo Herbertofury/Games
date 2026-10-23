@@ -32,11 +32,13 @@ A creative change of pace when you want secrets, jumping challenges, and whimsic
 
 Requires DOOM2.WAD and compatible GZDoom. This is not a standalone commercial Doom replacement.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=KuB89FTcpps)
+[Creator-published video](https://www.youtube.com/watch?v=KuB89FTcpps) | Creator / publisher
+
+[Source and provenance](https://batandy.itch.io/goldensouls)
 
 ![Doom: The Golden Souls Remastered - creator-published image](https://img.itch.zone/aW1nLzcyMTY1MjkucG5n/original/YzEmgN.png)
 

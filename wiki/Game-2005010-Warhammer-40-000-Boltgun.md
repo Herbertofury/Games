@@ -22,22 +22,25 @@ Load up your Boltgun and unleash the awesome Space Marine arsenal to blast your 
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/2005010/)
+- [Epic Games: store](https://store.epicgames.com/en-US/p/boltgun-b1cb36) | Exact game-specific listing confirmed by the official Epic store or linked publisher website.
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Warhammer 40,000: Boltgun - Forges Of Corruption DLC Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2005010/714917/84dba54b59fa9907ea93dce84e47eeac4bd84a54/1750744378/hls_264_master.m3u8?t=1718701363)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Boltgun - Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2005010/570634/d2c7ba0ce48a8d0899ac03b482ac95abd69211de/1750744376/hls_264_master.m3u8?t=1684858500)
+[Warhammer 40,000: Boltgun - Forges Of Corruption DLC Launch Trailer](https://store.steampowered.com/app/2005010/) | Creator / publisher
 
-[Boltgun - Extended Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2005010/569507/22eb8ae25045bf8b3ca00051d0385d191f30eaa7/1750837073/hls_264_master.m3u8?t=1684504864)
+[Boltgun - Launch Trailer](https://store.steampowered.com/app/2005010/) | Creator / publisher
 
-[Boltgun - Boomer Shooter Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2005010/566534/5c923cf8d59e41b044e0581af97908cefbbc7a00/1750744371/hls_264_master.m3u8?t=1683724305)
+[Boltgun - Extended Gameplay Trailer](https://store.steampowered.com/app/2005010/) | Creator / publisher
 
-[Boltgun - Release Date Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2005010/556920/29717d96bced05799cb9d4c3b41a14bb6a30b9e3/1750744367/hls_264_master.m3u8?t=1681221928)
+[Boltgun - Boomer Shooter Gameplay Trailer](https://store.steampowered.com/app/2005010/) | Creator / publisher
 
-[Boltgun - Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2005010/468092/83182b8b0e5c97deab5d48e5ade1bca21f2384ea/1750744366/hls_264_master.m3u8?t=1654104529)
+[Boltgun - Release Date Reveal Trailer](https://store.steampowered.com/app/2005010/) | Creator / publisher
+
+[Boltgun - Reveal Trailer](https://store.steampowered.com/app/2005010/) | Creator / publisher
 
 ![Warhammer 40,000: Boltgun official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005010/ss_4e79103eca834634c7b25ca1b142f3147cfbbca5.1920x1080.jpg?t=1791993717)
 

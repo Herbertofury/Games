@@ -27,27 +27,29 @@ A new retro-space exploration pick. Its immersive-sim emphasis makes it adjacent
 
 - [Steam: store](https://store.steampowered.com/app/2067820/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2067820/697009784/4e37f10280c7bb18e192339655170b65646cad23/1790686878/hls_264_master.m3u8?t=1790866106)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Date Reveal Trailer ](https://video.akamai.steamstatic.com/store_trailers/2067820/1787581718/d2072d35caf87657ebc9e7cd1f98d3f5f7e08cf7/1786717767/hls_264_master.m3u8?t=1787064998)
+[Launch Trailer](https://store.steampowered.com/app/2067820/) | Creator / publisher
 
-[RetroSpace - Things you can do ](https://video.akamai.steamstatic.com/store_trailers/2067820/67819120/987c71e0cd14794292ef71b3b2f2bf02e3fdef18/1783954123/hls_264_master.m3u8?t=1784228641)
+[Release Date Reveal Trailer ](https://store.steampowered.com/app/2067820/) | Creator / publisher
 
-[Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/2067820/561704065/beb57c78ea0dc8ceaa99e1233d3ca595f421e053/1780324577/hls_264_master.m3u8?t=1781191984)
+[RetroSpace - Things you can do ](https://store.steampowered.com/app/2067820/) | Creator / publisher
 
-[Console Announcement Trailer ](https://video.akamai.steamstatic.com/store_trailers/2067820/721882891/555fe2ad2d0354a78f99387e64b3237a9401e64a/1776696401/hls_264_master.m3u8?t=1777061726)
+[Demo Trailer](https://store.steampowered.com/app/2067820/) | Creator / publisher
 
-[RUN, SHOOT, SNEAK, LOOT - Official Release Window Trailer](https://video.akamai.steamstatic.com/store_trailers/2067820/1194587451/200051ef84ce9e65465caa8ad7bf8887dcbf2ee0/1763892600/hls_264_master.m3u8?t=1763893815)
+[Console Announcement Trailer ](https://store.steampowered.com/app/2067820/) | Creator / publisher
 
-[RetroSpace - Join the janitors!](https://video.akamai.steamstatic.com/store_trailers/2067820/687765/5e71e13c0a2346a74b95f7c2477476cc84835aea/1751071052/hls_264_master.m3u8?t=1713199049)
+[RUN, SHOOT, SNEAK, LOOT - Official Release Window Trailer](https://store.steampowered.com/app/2067820/) | Creator / publisher
 
-[RetroSpace - Fear Fest Trailer](https://video.akamai.steamstatic.com/store_trailers/2067820/649527/8584ad3e059dad06c89115bd4e58c02d5d0a3664/1751071052/hls_264_master.m3u8?t=1705138197)
+[RetroSpace - Join the janitors!](https://store.steampowered.com/app/2067820/) | Creator / publisher
 
-[RetroSpace - Reveal Teaser](https://video.akamai.steamstatic.com/store_trailers/2067820/527332/9d5b2ad7dadbb7e97b93c1f69167fbf2ffcd4bd2/1751071051/hls_264_master.m3u8?t=1703970962)
+[RetroSpace - Fear Fest Trailer](https://store.steampowered.com/app/2067820/) | Creator / publisher
+
+[RetroSpace - Reveal Teaser](https://store.steampowered.com/app/2067820/) | Creator / publisher
 
 ![RetroSpace official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067820/444448a84f3bd1178df688d3862f5811ddff1b12/ss_444448a84f3bd1178df688d3862f5811ddff1b12.1920x1080.jpg?t=1792576612)
 

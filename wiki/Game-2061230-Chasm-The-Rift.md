@@ -23,11 +23,13 @@ Prepare for terror in this ground-breaking classic old-school FPS. Following the
 
 - [Steam: store](https://store.steampowered.com/app/2061230/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/2061230/564426/834e282b194af2e76fb3f40bf2f5d48004533312/1750745673/hls_264_master.m3u8?t=1683562252)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Gameplay trailer](https://store.steampowered.com/app/2061230/) | Creator / publisher
 
 ![Chasm: The Rift official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2061230/ss_6aec1abb89652a72c3a737b921fe9d0c34efd7ca.1920x1080.jpg?t=1779995319)
 

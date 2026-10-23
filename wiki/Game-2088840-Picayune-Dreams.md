@@ -22,15 +22,15 @@ Picayune Dreams is a roguelike blend of bullet heaven horde survival, and bullet
 
 - [Steam: store](https://store.steampowered.com/app/2088840/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Contamination Trailer](https://video.akamai.steamstatic.com/store_trailers/2088840/832543/129e22b99960f458347640f2a949435a8115733c/1750746326/hls_264_master.m3u8?t=1740076407)
+[Contamination Trailer](https://store.steampowered.com/app/2088840/) | Creator / publisher
 
-[Animated Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2088840/636643/b28bc5987b3581da17f1f09c3ab17371e9b8e863/1750746326/hls_264_master.m3u8?t=1701714609)
+[Animated Launch Trailer](https://store.steampowered.com/app/2088840/) | Creator / publisher
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2088840/636401/7c6942a79e6b3dd5ce8ab0041394b0ee859d114c/1750746325/hls_264_master.m3u8?t=1701675101)
+[Gameplay Trailer](https://store.steampowered.com/app/2088840/) | Creator / publisher
 
 ![Picayune Dreams official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_1c9a3adb890c114e9c09019b86f2628addde9980.1920x1080.jpg?t=1791835894)
 

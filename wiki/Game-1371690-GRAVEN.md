@@ -26,16 +26,19 @@ A fantasy exploration/action hybrid with substantial caveats. More suitable for 
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1371690/)
+- [GOG: store](https://www.gog.com/en/game/graven) | Exact title in GOG official catalog: GRAVEN
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[GRAVEN - Full release Trailer](https://video.akamai.steamstatic.com/store_trailers/1371690/653472/33829d83f8542243979beeb0116cdfcc4168e872/1751228605/hls_264_master.m3u8?t=1706032285)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Graven Release date trailer](https://video.akamai.steamstatic.com/store_trailers/1371690/613083/08a50486d2187383b20b84c2d86b50c2a09c3262/1751228603/hls_264_master.m3u8?t=1696106521)
+[GRAVEN - Full release Trailer](https://store.steampowered.com/app/1371690/) | Creator / publisher
 
-[GRAVEN Reveal trailer](https://video.akamai.steamstatic.com/store_trailers/1371690/306715/bcb13ce7fd4749d602b2cee28437545d417d709c/1751228602/hls_264_master.m3u8?t=1706032437)
+[Graven Release date trailer](https://store.steampowered.com/app/1371690/) | Creator / publisher
+
+[GRAVEN Reveal trailer](https://store.steampowered.com/app/1371690/) | Creator / publisher
 
 ![GRAVEN official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371690/ss_c93f6adaf79e1fd45fe8d855bda95c71fcd10c74.1920x1080.jpg?t=1760108537)
 

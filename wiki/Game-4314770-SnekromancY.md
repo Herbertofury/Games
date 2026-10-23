@@ -24,11 +24,11 @@ Slither, devour, and raise an undead army in a snake-meets-bullet-heaven action 
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/4314770/823827205/caffc48c7c3d7eb1c1ce2461ee29a1632d3765c0/1780911447/hls_264_master.m3u8?t=1784201205)
+[Gameplay Trailer](https://store.steampowered.com/app/4314770/) | Creator / publisher
 
 ![SnekromancY official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314770/25e1d226142aafc5d2176ebda128173c93a7ad1b/ss_25e1d226142aafc5d2176ebda128173c93a7ad1b.1920x1080.jpg?t=1785598198)
 

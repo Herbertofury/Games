@@ -22,11 +22,11 @@ ECHOES OF RED is a fast-paced roguelite shooter where you can carry unlimited we
 
 - [Steam: store](https://store.steampowered.com/app/3714400/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Trailer - Full Release](https://video.akamai.steamstatic.com/store_trailers/3714400/587208524/9714016698760bfd61d957a158933867e105aeb1/1772460956/hls_264_master.m3u8?t=1772462294)
+[Trailer - Full Release](https://store.steampowered.com/app/3714400/) | Creator / publisher
 
 ![Echoes of Red official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714400/f7b3e13517e1afae07f81e5b85a78276aca33ecc/ss_f7b3e13517e1afae07f81e5b85a78276aca33ecc.1920x1080.jpg?t=1788531558)
 

@@ -22,15 +22,15 @@ Thousands of enemies. One survivor. Fight like a demigod, build deadly defenses,
 
 - [Steam: store](https://store.steampowered.com/app/2922410/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Achilles: Survivor \| Full release - announcement trailer](https://video.akamai.steamstatic.com/store_trailers/2922410/28747768/f10b3e4b8576b607254b44637a04d2eca481c50a/1752484555/hls_264_master.m3u8?t=1752495174)
+[Achilles: Survivor \| Full release - announcement trailer](https://store.steampowered.com/app/2922410/) | Creator / publisher
 
-[Achilles: Survivor \| Gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/2922410/695006936/b384ac19112e10dce5999dad955e87c46d9135ef/1752486957/hls_264_master.m3u8?t=1752495176)
+[Achilles: Survivor \| Gameplay trailer](https://store.steampowered.com/app/2922410/) | Creator / publisher
 
-[Date Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2922410/813249/fe7d1a5b6232add33b797b47736b7608419c99ae/1750821477/hls_264_master.m3u8?t=1752495179)
+[Date Reveal Trailer](https://store.steampowered.com/app/2922410/) | Creator / publisher
 
 ![Achilles: Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2922410/7ef90540f1e16df36f53d4bd493aa9c68e32206d/ss_7ef90540f1e16df36f53d4bd493aa9c68e32206d.1920x1080.jpg?t=1791467973)
 

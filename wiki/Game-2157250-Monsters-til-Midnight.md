@@ -24,13 +24,13 @@ Use steampunk weaponry to vanquish the legions of evil and survive until the clo
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[MtM Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2157250/570131/96a69781c6badcb395045c3a7adeea9daa2693d2/1751083304/hls_264_master.m3u8?t=1684727927)
+[MtM Gameplay Trailer](https://store.steampowered.com/app/2157250/) | Creator / publisher
 
-[MtM Steam Trailer](https://video.akamai.steamstatic.com/store_trailers/2157250/513876/fd3f346b7fe532f966413de9a32b66ae90c0b672/1751083301/hls_264_master.m3u8?t=1684727930)
+[MtM Steam Trailer](https://store.steampowered.com/app/2157250/) | Creator / publisher
 
 ![Monsters 'til Midnight official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157250/ss_7abb07613e0dd26a5e671b004eea33394fe93591.1920x1080.jpg?t=1698878918)
 

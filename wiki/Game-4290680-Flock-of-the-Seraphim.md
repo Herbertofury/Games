@@ -22,11 +22,11 @@ Exorcise hordes of demons using gun-wielding nuns and angels in this survivors-l
 
 - [Steam: store](https://store.steampowered.com/app/4290680/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Flock of the Seraphim - Announce Trailer (updated)](https://video.akamai.steamstatic.com/store_trailers/4290680/1312111495/991f125082e9fe46aebc7849a54802074842e861/1786350651/hls_264_master.m3u8?t=1786351173)
+[Flock of the Seraphim - Announce Trailer (updated)](https://store.steampowered.com/app/4290680/) | Creator / publisher
 
 ![Flock of the Seraphim official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290680/98013b0d73ec20ad930b72be2c900321b2189451/ss_98013b0d73ec20ad930b72be2c900321b2189451.1920x1080.jpg?t=1790669671)
 

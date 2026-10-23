@@ -22,14 +22,17 @@ Devil Daggers is a fast-paced shooter that places you in an abyssal arena to fac
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/422970/)
+- [GOG: store](https://www.gog.com/en/game/devil_daggers) | Exact title in GOG official catalog: Devil Daggers
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Trailer](https://video.akamai.steamstatic.com/store_trailers/422970/51563/379b941a29effb3cbddb0d4b6c1d5757a3a39738/1750528878/hls_264_master.m3u8?t=1454561741)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay Teaser](https://video.akamai.steamstatic.com/store_trailers/422970/49553/0b1e88bb332153f5920e78d35209004bb6738dae/1750528841/hls_264_master.m3u8?t=1454476209)
+[Trailer](https://store.steampowered.com/app/422970/) | Creator / publisher
+
+[Gameplay Teaser](https://store.steampowered.com/app/422970/) | Creator / publisher
 
 ![Devil Daggers official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/422970/ss_27ebb40c8186b926befe4cb95d73904471427636.1920x1080.jpg?t=1724973461)
 

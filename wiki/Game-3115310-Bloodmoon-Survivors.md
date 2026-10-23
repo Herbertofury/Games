@@ -24,11 +24,11 @@ You are a Lunar Knight of the blood moon, and tonight is your night. It's time f
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Bloodmoon Survivors Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3115310/44720574/129ce7090962e4266e9dde7b10e3f71cf639f922/1770080211/hls_264_master.m3u8?t=1770084066)
+[Bloodmoon Survivors Gameplay Trailer](https://store.steampowered.com/app/3115310/) | Creator / publisher
 
 ![Bloodmoon Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115310/14185abd729dfcbe425a32833ed2a060528c1ab5/ss_14185abd729dfcbe425a32833ed2a060528c1ab5.1920x1080.jpg?t=1785859214)
 

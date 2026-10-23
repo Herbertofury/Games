@@ -22,13 +22,13 @@ Vital Shell is a single player top-down arena shooter that puts you in control o
 
 - [Steam: store](https://store.steampowered.com/app/3741860/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3741860/651127005/63dcd5a57aed312b5321c4b989f4e57a5c4c277c/1767820849/hls_264_master.m3u8?t=1767822620)
+[Launch Trailer](https://store.steampowered.com/app/3741860/) | Creator / publisher
 
-[Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/3741860/1533566610/b60a45fb333920301428bc8a5df304012aa40808/1752325132/hls_264_master.m3u8?t=1752326590)
+[Announcement Trailer](https://store.steampowered.com/app/3741860/) | Creator / publisher
 
 ![Vital Shell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3741860/15a72f8a9fb708e82004c691e49f89a85d08bddb/ss_15a72f8a9fb708e82004c691e49f89a85d08bddb.1920x1080.jpg?t=1790608345)
 

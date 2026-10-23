@@ -23,13 +23,15 @@ Punch enemies, take their weapons, and switch combat styles on the fly. Blend co
 
 - [Steam: store](https://store.steampowered.com/app/2527710/)
 
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
+
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Texnoplazm Episode 2 trailer](https://video.akamai.steamstatic.com/store_trailers/2527710/1471757268/735f906be58f42b777995b19aa379ef099281af8/1782396385/hls_264_master.m3u8?t=1782406069)
+[Texnoplazm Episode 2 trailer](https://store.steampowered.com/app/2527710/) | Creator / publisher
 
 ![TEXNOPLAZM official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527710/1f35ba5e8aeef747326b7a69f8467611e5ffbcb6/ss_1f35ba5e8aeef747326b7a69f8467611e5ffbcb6.1920x1080.jpg?t=1782406915)
 

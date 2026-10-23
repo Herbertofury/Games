@@ -24,13 +24,13 @@ A dark roguelite action experience where you fight through endless hordes of cor
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Huntsman Against Darkness short gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/4698720/1368910997/7dd6a09ed0b43d91a31b38857c0b24b4d798f985/1781363616/hls_264_master.m3u8?t=1781364173)
+[Huntsman Against Darkness short gameplay trailer](https://store.steampowered.com/app/4698720/) | Creator / publisher
 
-[Huntsman Against Darkness Story Trailer](https://video.akamai.steamstatic.com/store_trailers/4698720/1882223636/cdef89dcc697c92752fd97685b13768229fff93a/1785266546/hls_264_master.m3u8?t=1785267067)
+[Huntsman Against Darkness Story Trailer](https://store.steampowered.com/app/4698720/) | Creator / publisher
 
 ![Huntsman Against Darkness official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698720/34f650533ba1a436b71dc5309e23bfbba7f28f89/ss_34f650533ba1a436b71dc5309e23bfbba7f28f89.1920x1080.jpg?t=1785267068)
 

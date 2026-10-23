@@ -23,17 +23,19 @@ STRAFE® is the worlds bloodiest roguelike first-person shooter! Featuring mind 
 
 - [Steam: store](https://store.steampowered.com/app/442780/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[STRAFE®: Gold Edition Trailer](https://video.akamai.steamstatic.com/store_trailers/442780/283787/e1a652cc05b3f3641e30f8fbac0272ccd8fee75c/1751285828/hls_264_master.m3u8?t=1589039557)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[STRAFE® Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/442780/100438/1f313573bea7bc6983168e753a620a9b40ab4dc6/1751285827/hls_264_master.m3u8?t=1506959476)
+[STRAFE®: Gold Edition Trailer](https://store.steampowered.com/app/442780/) | Creator / publisher
 
-[STRAFE® commercial](https://video.akamai.steamstatic.com/store_trailers/442780/51786/2b59603e8519dbf1091f6580f0cb757ee7dbfeb7/1751285824/hls_264_master.m3u8?t=1457013637)
+[STRAFE® Launch Trailer](https://store.steampowered.com/app/442780/) | Creator / publisher
 
-[STRAFE® ICARUS (Zone 1) Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/442780/53517/80d8ac22dc59477b3fbc67407c643561184767a4/1751285826/hls_264_master.m3u8?t=1457013647)
+[STRAFE® commercial](https://store.steampowered.com/app/442780/) | Creator / publisher
+
+[STRAFE® ICARUS (Zone 1) Gameplay Trailer](https://store.steampowered.com/app/442780/) | Creator / publisher
 
 ![STRAFE: Gold Edition official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442780/ss_ba3e6a534b681ab68dcc97fde986a02080cbd03b.1920x1080.jpg?t=1659053915)
 

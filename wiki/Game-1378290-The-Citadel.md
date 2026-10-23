@@ -22,12 +22,15 @@ The Citadel is a brutal first person shooter, and a love letter to classic games
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1378290/)
+- [GOG: store](https://www.gog.com/en/game/the_citadel) | Exact title in GOG official catalog: The Citadel
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[The Citadel](https://video.akamai.steamstatic.com/store_trailers/1378290/299851/c94414ad99d7a95b1f7cec967689abc447cec530/1750681282/hls_264_master.m3u8?t=1595478266)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[The Citadel](https://store.steampowered.com/app/1378290/) | Creator / publisher
 
 ![The Citadel official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1378290/ss_30a19cf79f20707b7ca67a08954490b71c4eacbd.1920x1080.jpg?t=1597695900)
 

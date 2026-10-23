@@ -22,11 +22,11 @@
 
 - [Steam: store](https://store.steampowered.com/app/4337210/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/4337210/481608377/5e4f125ae03479717ec274ecc03f0fbca326a666/1778153795/hls_264_master.m3u8?t=1778294402)
+[Launch Trailer](https://store.steampowered.com/app/4337210/) | Creator / publisher
 
 ![Berserker Onslaught official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337210/eb7bcd76e8d45a1cb68cd54ce8cc102f6ec4bb4d/ss_eb7bcd76e8d45a1cb68cd54ce8cc102f6ec4bb4d.1920x1080.jpg?t=1779346601)
 

@@ -22,11 +22,11 @@ COMBINE WEAPONS in the microscopic shooter with macroscopic depth. BUILD YOUR NA
 
 - [Steam: store](https://store.steampowered.com/app/4130120/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Trailer](https://video.akamai.steamstatic.com/store_trailers/4130120/1923066418/61f233cd0e5e770f1a5c2d5f248eba397dff382e/1768541476/hls_264_master.m3u8?t=1770323986)
+[Trailer](https://store.steampowered.com/app/4130120/) | Creator / publisher
 
 ![Genome Guardian 2 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4130120/d2808d3daca1029329f702ec71746a36323f23b2/ss_d2808d3daca1029329f702ec71746a36323f23b2.1920x1080.jpg?t=1792245431)
 

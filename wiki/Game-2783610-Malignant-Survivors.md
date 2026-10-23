@@ -22,17 +22,17 @@
 
 - [Steam: store](https://store.steampowered.com/app/2783610/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Skeleton King](https://video.akamai.steamstatic.com/store_trailers/2783610/683515/262759aaef25c8842ee27ad10f6a0ebec55358ea/1750899708/hls_264_master.m3u8?t=1712366240)
+[Skeleton King](https://store.steampowered.com/app/2783610/) | Creator / publisher
 
-[Almost Endgame](https://video.akamai.steamstatic.com/store_trailers/2783610/655973/f1d41fcdd95833781b524ed9805d7c5064610d25/1750899708/hls_264_master.m3u8?t=1709504841)
+[Almost Endgame](https://store.steampowered.com/app/2783610/) | Creator / publisher
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2783610/652973/2dd0d354e5e487933c4ec0a343d229cc7c6baf61/1750899707/hls_264_master.m3u8?t=1706519300)
+[Gameplay Trailer](https://store.steampowered.com/app/2783610/) | Creator / publisher
 
-[Conjurer Patch](https://video.akamai.steamstatic.com/store_trailers/2783610/669269/f29d3ed46a81c9ed6aa3a07caa694c87e297c865/1750899708/hls_264_master.m3u8?t=1709388277)
+[Conjurer Patch](https://store.steampowered.com/app/2783610/) | Creator / publisher
 
 ![Malignant Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783610/ss_f201f50c366c6c063d617c0fa308f3ec796d6c04.1920x1080.jpg?t=1745916343)
 

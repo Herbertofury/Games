@@ -24,13 +24,13 @@ Adrenaline Rampage is a platformer roguelite where you play as a soldier with up
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Adrenaline Rampage - Hardcore gameplay](https://video.akamai.steamstatic.com/store_trailers/2419720/761845/25f530143557ddc12753dee75f846c593fb2ff29/1750917048/hls_264_master.m3u8?t=1733325006)
+[Adrenaline Rampage - Hardcore gameplay](https://store.steampowered.com/app/2419720/) | Creator / publisher
 
-[Adrenaline Rampage Gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/2419720/794973/74515f803bfc36c894579aac88d05117e903ecee/1750917048/hls_264_master.m3u8?t=1733325001)
+[Adrenaline Rampage Gameplay trailer](https://store.steampowered.com/app/2419720/) | Creator / publisher
 
 ![Adrenaline Rampage official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2419720/ss_062d6573fa1421c2d184ce1ee2e48d00bc20dc29.1920x1080.jpg?t=1788503810)
 

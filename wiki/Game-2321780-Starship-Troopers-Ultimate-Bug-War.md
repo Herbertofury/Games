@@ -23,19 +23,21 @@ Lock and load into the Starship Troopers universe and join the Mobile Infantry i
 
 - [Steam: store](https://store.steampowered.com/app/2321780/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer - ENG](https://video.akamai.steamstatic.com/store_trailers/2321780/1193389239/0f061599161b0690897b8176ad3ec9230d26a083/1773421559/hls_264_master.m3u8?t=1773676267)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Bug Mode Trailer](https://video.akamai.steamstatic.com/store_trailers/2321780/1679321578/1f7ab248a8062438196792d61120c18d09467721/1772549803/hls_264_master.m3u8?t=1772554077)
+[Launch Trailer - ENG](https://store.steampowered.com/app/2321780/) | Creator / publisher
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2321780/447284673/71a55a3218eb2fc883ccb0fb66fdc15b93bd6baa/1770817375/hls_264_master.m3u8?t=1770823300)
+[Bug Mode Trailer](https://store.steampowered.com/app/2321780/) | Creator / publisher
 
-[Meet Sammy](https://video.akamai.steamstatic.com/store_trailers/2321780/1342075498/1468cd2e26191f820142b6e762d41ae82636de5a/1769607437/hls_264_master.m3u8?t=1769612443)
+[Gameplay Trailer](https://store.steampowered.com/app/2321780/) | Creator / publisher
 
-[Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2321780/234372971/c5d7e7399e6a6ac09e0b1fc112150f323053a498/1764582394/hls_264_master.m3u8?t=1764880741)
+[Meet Sammy](https://store.steampowered.com/app/2321780/) | Creator / publisher
+
+[Reveal Trailer](https://store.steampowered.com/app/2321780/) | Creator / publisher
 
 ![Starship Troopers: Ultimate Bug War! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321780/61d384f4f8b09d4765538ab663195c39e3b09a91/ss_61d384f4f8b09d4765538ab663195c39e3b09a91.1920x1080.jpg?t=1785320934)
 

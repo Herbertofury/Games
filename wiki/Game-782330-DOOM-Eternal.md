@@ -22,16 +22,19 @@ Hell’s armies have invaded Earth. Become the Slayer in an epic single-player c
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/782330/)
+- [GOG: store](https://www.gog.com/en/game/doom_eternal) | Exact title in GOG official catalog: DOOM Eternal
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Mods Trailer](https://video.akamai.steamstatic.com/store_trailers/782330/1058653592/9f0464e095deedf33609b7717ae0390d6fa20ffb/1755007462/hls_264_master.m3u8?t=1755109909)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Update 6.66 Trailer](https://video.akamai.steamstatic.com/store_trailers/782330/412133/b97ddfc8328609c79a7087b876f47fd735d012c3/1750583508/hls_264_master.m3u8?t=1635282017)
+[Mods Trailer](https://store.steampowered.com/app/782330/) | Creator / publisher
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/782330/273075/6b52a62c4573149e559d270cbe6b62f1df917914/1750583414/hls_264_master.m3u8?t=1586386363)
+[Update 6.66 Trailer](https://store.steampowered.com/app/782330/) | Creator / publisher
+
+[Launch Trailer](https://store.steampowered.com/app/782330/) | Creator / publisher
 
 ![DOOM Eternal official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/ss_4f93a7c5003d49cb32f6c0c6e547452b284580a0.1920x1080.jpg?t=1783432602)
 

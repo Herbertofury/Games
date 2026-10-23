@@ -22,14 +22,17 @@ Devilated is an ultraviolent RPG old-school shooter where you brutalize and cann
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/570950/)
+- [GOG: store](https://www.gog.com/en/game/devilated) | Exact title in GOG official catalog: Devilated
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Devilated_1.0_Out Now](https://video.akamai.steamstatic.com/store_trailers/570950/776970/ad89ce34217780acf3231eb91a867902a23b7fbe/1751303326/hls_264_master.m3u8?t=1730136633)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Devilated_095_1](https://video.akamai.steamstatic.com/store_trailers/570950/712785/e1b4a355d5b9ba28362ed593b02c2d878ec2ec3c/1751303325/hls_264_master.m3u8?t=1718286920)
+[Devilated_1.0_Out Now](https://store.steampowered.com/app/570950/) | Creator / publisher
+
+[Devilated_095_1](https://store.steampowered.com/app/570950/) | Creator / publisher
 
 ![Devilated official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570950/ss_ca6597707a79e34a6dc4aa0e573e0d50b192588c.1920x1080.jpg?t=1779870143)
 

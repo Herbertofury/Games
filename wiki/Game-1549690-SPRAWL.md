@@ -22,14 +22,18 @@ SPRAWL is a hardcore retro FPS set in an endless cyberpunk megalopolis. Escape t
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1549690/)
+- [GOG: store](https://www.gog.com/en/game/sprawl) | Exact title in GOG official catalog: SPRAWL
+- [Epic Games: store](https://store.epicgames.com/p/sprawl-db4324) | Exact game-specific listing confirmed by the official Epic store or linked publisher website.
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Accolades](https://video.akamai.steamstatic.com/store_trailers/1549690/666083/ce57b90cfa6794d804e621eae9185b5a26805f54/1751001889/hls_264_master.m3u8?t=1708717606)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[SPRAWL Gameplay Clip](https://video.akamai.steamstatic.com/store_trailers/1549690/600913/841f8d2713b439e28e76841cc48586aee7de013d/1751001888/hls_264_master.m3u8?t=1692919949)
+[Accolades](https://store.steampowered.com/app/1549690/) | Creator / publisher
+
+[SPRAWL Gameplay Clip](https://store.steampowered.com/app/1549690/) | Creator / publisher
 
 ![SPRAWL official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549690/ss_584870cf25d5ec17f6496d841b5eec72c54dc58c.1920x1080.jpg?t=1781252199)
 

@@ -22,13 +22,13 @@ Fight through endless hordes in trials bestowed by constellation patrons. Upgrad
 
 - [Steam: store](https://store.steampowered.com/app/3762660/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer - Trials Survivors](https://video.akamai.steamstatic.com/store_trailers/3762660/541577939/a7908384f431b7a4665559b05f896af40f884cec/1780681313/hls_264_master.m3u8?t=1780681820)
+[Launch Trailer - Trials Survivors](https://store.steampowered.com/app/3762660/) | Creator / publisher
 
-[Release Date Trailer - Trials Survivors](https://video.akamai.steamstatic.com/store_trailers/3762660/326354804/56fe5972f7e79f75f44438579c18fa117cf84b7a/1777327853/hls_264_master.m3u8?t=1777328813)
+[Release Date Trailer - Trials Survivors](https://store.steampowered.com/app/3762660/) | Creator / publisher
 
 ![Trials Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3762660/40de32157cdfae5bcd446f688f6ab6bf74137617/ss_40de32157cdfae5bcd446f688f6ab6bf74137617.1920x1080.jpg?t=1781315037)
 

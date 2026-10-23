@@ -22,21 +22,21 @@ Plough through hordes of deadly monsters and defeat vicious bosses in an intense
 
 - [Steam: store](https://store.steampowered.com/app/1553710/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Dreadhunter - Act IV](https://video.akamai.steamstatic.com/store_trailers/1553710/347962679/2ef37f5908723d5e5250c2f98d7727f939f587e1/1789845327/hls_264_master.m3u8?t=1790009889)
+[Dreadhunter - Act IV](https://store.steampowered.com/app/1553710/) | Creator / publisher
 
-[Dreadhunter - Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/1553710/608580/c038640d112c2529fa49d2ab7a4838ed2ad8126e/1750700799/hls_264_master.m3u8?t=1739959460)
+[Dreadhunter - Early Access Trailer](https://store.steampowered.com/app/1553710/) | Creator / publisher
 
-[Dreadhunter - Act III](https://video.akamai.steamstatic.com/store_trailers/1553710/831022/7c9e98878f5b63be8968407b7b2f2dacd1758551/1750700810/hls_264_master.m3u8?t=1739959457)
+[Dreadhunter - Act III](https://store.steampowered.com/app/1553710/) | Creator / publisher
 
-[Dreadhunter - Act II](https://video.akamai.steamstatic.com/store_trailers/1553710/696252/fd72d95820251cebb932ab0f2512bc00e97a127c/1750700802/hls_264_master.m3u8?t=1739959462)
+[Dreadhunter - Act II](https://store.steampowered.com/app/1553710/) | Creator / publisher
 
-[Dreadhunter - Gameplay - Electro Sets](https://video.akamai.steamstatic.com/store_trailers/1553710/789227/aa97f7ca94c2f5989e119a106d57377e53f234e4/1750700810/hls_264_master.m3u8?t=1732211961)
+[Dreadhunter - Gameplay - Electro Sets](https://store.steampowered.com/app/1553710/) | Creator / publisher
 
-[Dreadhunter - Gameplay - Thunderhawk](https://video.akamai.steamstatic.com/store_trailers/1553710/639740/e562181ef0d60987be26e1bfa4ed4660682cd9d9/1750837071/hls_264_master.m3u8?t=1702408437)
+[Dreadhunter - Gameplay - Thunderhawk](https://store.steampowered.com/app/1553710/) | Creator / publisher
 
 ![Dreadhunter official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553710/9330c5a89718341989f9c4e340eb12d74b4440e8/ss_9330c5a89718341989f9c4e340eb12d74b4440e8.1920x1080.jpg?t=1790714447)
 

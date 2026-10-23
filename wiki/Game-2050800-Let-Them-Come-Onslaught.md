@@ -22,13 +22,13 @@ Survive the relentless offensive of the alien horde in Let Them Come: Onslaught,
 
 - [Steam: store](https://store.steampowered.com/app/2050800/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Let Them Come : Onslaught - Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2050800/1131618885/164aea22d5712f1e41b53732eb16778c15088dd3/1761670894/hls_264_master.m3u8?t=1762874720)
+[Let Them Come : Onslaught - Launch Trailer](https://store.steampowered.com/app/2050800/) | Creator / publisher
 
-[Let Them Come : Onslaught - Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2050800/2083622453/f56a3b9ff3316387c04d6dbf0f3f421ead03e3c1/1755121437/hls_264_master.m3u8?t=1762543570)
+[Let Them Come : Onslaught - Gameplay Trailer](https://store.steampowered.com/app/2050800/) | Creator / publisher
 
 ![Let Them Come: Onslaught official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050800/8501660a7ebf5764b9eb6e003a89865f779bac3d/ss_8501660a7ebf5764b9eb6e003a89865f779bac3d.1920x1080.jpg?t=1782985715)
 

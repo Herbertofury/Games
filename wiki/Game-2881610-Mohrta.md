@@ -27,12 +27,15 @@ A particularly interesting dark-fantasy exploration FPS for your taste in atmosp
 
 - [Steam: store](https://store.steampowered.com/app/2881610/)
 - [Patreon: support](https://www.patreon.com/scumhead)
+- [GOG: store](https://www.gog.com/en/game/mohrta) | Exact title in GOG official catalog: Mohrta
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Mohrta Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/hls_264_master.m3u8?t=1759386718)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Mohrta Release Trailer](https://store.steampowered.com/app/2881610/) | Creator / publisher
 
 ![Mohrta official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881610/b6db8b4963fbcb787afcff0238d19674975697fa/ss_b6db8b4963fbcb787afcff0238d19674975697fa.1920x1080.jpg?t=1760457551)
 

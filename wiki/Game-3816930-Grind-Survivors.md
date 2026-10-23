@@ -22,13 +22,13 @@ Grind Survivors is a fast-paced action roguelike where demon hunters face endles
 
 - [Steam: store](https://store.steampowered.com/app/3816930/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3816930/1622846490/6b92a3cc0a1296ee44fb8f21d920538936620393/1773658661/hls_264_master.m3u8?t=1773662413)
+[Release Trailer](https://store.steampowered.com/app/3816930/) | Creator / publisher
 
-[Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3816930/1406689881/3849adcd47cee1f7740a99564bc5af2112f68ac0/1772714716/hls_264_master.m3u8?t=1772724628)
+[Release Date Trailer](https://store.steampowered.com/app/3816930/) | Creator / publisher
 
 ![Grind Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816930/86906239ba8694965eba96cd3247151c57083a3a/ss_86906239ba8694965eba96cd3247151c57083a3a.1920x1080.jpg?t=1791969229)
 

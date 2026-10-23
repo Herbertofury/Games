@@ -8,6 +8,27 @@ def rating(g):
     if g.get('rating') is not None:return f"{g['rating']}% / {g.get('reviewCount',0):,} Steam reviews"
     r=g.get('externalRating');return f"{r['value']}/{r['max']} / {r['count']} {r['provider']} ratings" if r else 'No aggregate rating'
 def rank(g):return (-(score(g) or -1),-g.get('reviewCount',0),g['name'].casefold())
+def video_url(t,g):
+    return t.get('watchUrl') or ('https://www.youtube.com/watch?v='+t['youtube'] if t.get('youtube') else t.get('sourceUrl') or t.get('mp4') or t.get('webm') or primary(g))
+def media_atlas(rows):
+    text=''
+    for col in sorted({g['collection'] for g in rows}):
+        text+='## '+m(col)+'\n\n<table>\n'
+        members=sorted([g for g in rows if g['collection']==col],key=rank)
+        for i in range(0,len(members),3):
+            text+='<tr>\n'
+            for g in members[i:i+3]:
+                text+='<td width="33%" valign="top">\n\n'
+                text+=f"[![{m(g['name'])}]({g['image']})]({game_key(g)})\n\n**[{m(g['name'])}]({game_key(g)})**\n\n"
+                text+=f"{score(g)}/10 recommendation | {m(g.get('status'))} | {m(g.get('releaseLabel'))}\n\n"
+                text+=m(g.get('curatorWhy') or g.get('summary'))+'\n\n'
+                for t in g.get('trailers',[]):
+                    text+=f"[Watch: {m(t.get('name','Video'))}]({video_url(t,g)})  \n"
+                text+='\n'+' | '.join(f"[{m(x.get('label') or x['provider'])}{' (support)' if x.get('kind')=='support' else ' ('+m(x['kind'])+')' if x.get('kind') in ['demo','project'] else ''}]({x['url']})" for x in g.get('storefronts',[]))+'\n\n'
+                text+=f"[Embedded player and gallery]({link({'hub':'Boomer shooters','game':g['id']})})\n\n</td>\n"
+            text+='</tr>\n'
+        text+='</table>\n\n'
+    return text
 def table(rows):
     out='| Game | Recommend | Community reception | Release / build | Where |\n|:--|:--:|:--|:--|:--|\n'
     for g in rows:
@@ -23,7 +44,7 @@ def build_wiki(root,catalog):
         (assets/file).write_text(svg)
     def head(hub):
         return f"![{hub} collection]({REPO}/raw/main/dist/assets/{'shooters-banner.svg' if hub=='Boomer shooters' else 'collection-banner.svg'})\n\n"
-    def intro(hub):return head(hub)+f"# {hub}\n\n### [Open the interactive {hub.lower()} library]({link({'hub':hub})})\n\n**Search, filters, sortable ratings, embedded trailers, full galleries, favorites, private notes, and comparison.** All records below use the same source snapshot as the app.\n\n"
+    def intro(hub):return head(hub)+f"# {hub}\n\n### [Open the interactive {hub.lower()} library]({link({'hub':hub})})\n\n[Download the portable interactive library]({REPO}/releases/latest) | [Every shooter: artwork, videos, stores](Boomer-Shooters-Media)\n\n**Search, filters, sortable ratings, embedded trailers, full galleries, favorites, private notes, and comparison.** All records below use the same source snapshot as the app. The portable HTML works without a web server; the hosted address requires GitHub Pages to be enabled.\n\n"
     def cards(rows):
         text='<table>\n'
         for i in range(0,len(rows),3):
@@ -35,9 +56,11 @@ def build_wiki(root,catalog):
             text+='</tr>\n'
         return text+'</table>\n\n'
     rog=hubs['Roguelites'];shoot=hubs['Boomer shooters'];total=len(games)
+    atlas=head('Boomer shooters')+'# The Boomer Shooter Media Atlas\n\n'+f"**{len(shoot)} games. Every entry has embedded artwork, exact video sources, and all confirmed distribution/support links.**\n\n[Interactive video players]({link({'hub':'Boomer shooters'})}) | [Portable HTML download]({REPO}/releases/latest) | [Recommendations and filters](Boomer-Shooters)\n\nGitHub wiki renders images but does not run arbitrary video players. Open a Watch link for its exact source, or use the interactive library for in-page playback. Community footage is credited separately from official trailers. Store links are confirmed direct destinations, not a claim of exhaustive worldwide retailer coverage.\n\n"+media_atlas(shoot)
+    (out/'Boomer-Shooters-Media.md').write_text(atlas)
     home=head('Boomer shooters')+'# A home for every great discovery\n\n'+f"**[Open your interactive library]({SITE})** · [Roguelites](Roguelites) · [Boomer shooters](Boomer-Shooters) · [Beyond Steam](Beyond-Steam) · [Creator support](Creator-Support)\n\n"
     home+=f"**{total} unique recommendations.** {len(rog)} in Roguelites; {len(shoot)} in Boomer shooters. Cross-genre games appear in both hubs but exist only once in the master catalog.\n\n"
-    home+='| Start exploring | What you will find |\n|:--|:--|\n| [Boomer shooters](Boomer-Shooters) | Recent launches, fast movement, occult campaigns, free standalone games, and mod-scene discoveries. |\n| [Roguelites](Roguelites) | Every original recommendation, with your Halls of Torment collection preserved. |\n| [Beyond Steam](Beyond-Steam) | itch.io, GOG, ModDB, creator sites, browser games, and explicit install requirements. |\n| [Creator support](Creator-Support) | Verified Patreon support links, kept separate from game purchase and download links. |\n| [Collections](Collections) | Every theme and subgenre. |\n| [Ratings and sources](Ratings-and-Sources) | Editorial recommendation versus platform reviews. |\n| [Add / update games](Updating-the-Library) | One repeatable pipeline, no disconnected lists. |\n'
+    home+='| Start exploring | What you will find |\n|:--|:--|\n| [Media atlas](Boomer-Shooters-Media) | Artwork, video sources, and every confirmed store for all shooter entries. |\n| [Boomer shooters](Boomer-Shooters) | Recent launches, fast movement, occult campaigns, free standalone games, and mod-scene discoveries. |\n| [Roguelites](Roguelites) | Every original recommendation, with your Halls of Torment collection preserved. |\n| [Beyond Steam](Beyond-Steam) | itch.io, GOG, ModDB, creator sites, browser games, and explicit install requirements. |\n| [Creator support](Creator-Support) | Verified Patreon support links, kept separate from game purchase and download links. |\n| [Collections](Collections) | Every theme and subgenre. |\n| [Ratings and sources](Ratings-and-Sources) | Editorial recommendation versus platform reviews. |\n| [Add / update games](Updating-the-Library) | One repeatable pipeline, no disconnected lists. |\n'
     (out/'Home.md').write_text(home)
     for hub,rows,filename in [('Roguelites',rog,'Roguelites.md'),('Boomer shooters',shoot,'Boomer-Shooters.md')]:
         text=intro(hub)
@@ -86,14 +109,22 @@ def build_wiki(root,catalog):
         for k,v in fields.items():
             if v:s+=f'| {k} | {m(v)} |\n'
         s+='\n## Official stores and downloads\n\n'
-        for x in g.get('storefronts',[]):s+=f"- [{m(x['provider'])}: {m(x.get('kind','official page'))}]({x['url']})\n"
+        for x in g.get('storefronts',[]):
+            s+=f"- [{m(x.get('label') or x['provider'])}: {m(x.get('kind','official page'))}]({x['url']})"
+            if x.get('evidence'):s+=' | '+m(x['evidence'])
+            s+='\n'
+        if g.get('storeCoverage'):
+            cv=g['storeCoverage'];s+='\n**Store coverage:** '+m(cv.get('scope'))+' Last checked: '+m(cv.get('checkedAt'))+'.\n'
         if g.get('requirements'):s+='\n### Before you play\n\n'+m(g['requirements'])+'\n'
         if g.get('updateNote'):s+='\n### Latest verified update\n\n'+m(g['updateNote'])+'\n'
         if g.get('warnings'):s+='\n> '+m('; '.join(g['warnings']))+'\n'
-        s+='\n## Official media\n\nThe interactive library plays compatible trailers in-page. GitHub wiki links open their official source.\n\n'
+        s+='\n## Videos and screenshots\n\nThe interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.\n\n'
         for t in g.get('trailers',[]):
-            u='https://www.youtube.com/watch?v='+t['youtube'] if t.get('youtube') else t.get('mp4') or t.get('webm') or t.get('hls') or t.get('sourceUrl')
-            if u:s+=f"[{m(t.get('name','Official trailer'))}]({u})\n\n"
+            u=video_url(t,g)
+            if u:
+                s+=f"[{m(t.get('name','Video'))}]({u}) | {m(t.get('credit') or ('Community gameplay' if t.get('official') is False else 'Creator / publisher'))}\n\n"
+                if t.get('sourceUrl') and t.get('sourceUrl')!=u:s+=f"[Source and provenance]({t['sourceUrl']})\n\n"
+                if t.get('editionNote'):s+='> '+m(t['editionNote'])+'\n\n'
         for im in g.get('screenshots',[]):s+=f"![{m(im.get('alt') or g['name'])}]({im['src']})\n\n"
         s+='## Sources and evidence\n\n'
         for x in g.get('sources',[]):s+=f"- [{m(x.get('label') or x.get('provider') or 'Source')}]({x['url']}) · checked {m(x.get('lastChecked',g.get('verifiedAt')))}\n"
@@ -115,7 +146,7 @@ The complete catalog works offline. Uncached remote images and videos require in
 ''')
     pending=catalog.get('build',{}).get('candidateUnresolved',[])
     (out/'Needs-Verification.md').write_text('# Discovery reconciliation\n\n'+f"Published catalog: {len(games)} unique records. Unresolved new candidates: {len(pending)}. Unresolved does not mean nonexistent.\n\n"+'\n'.join(f"- **{m(x.get('candidate'))}**: {m(x.get('error'))}" for x in pending)+'\n')
-    (out/'_Sidebar.md').write_text(f'## GAMES\n\n[Open interactive library]({SITE})\n\n- [Home](Home)\n- [Boomer shooters](Boomer-Shooters)\n- [Roguelites](Roguelites)\n- [Beyond Steam](Beyond-Steam)\n- [Creator support](Creator-Support)\n- [Collections](Collections)\n- [Ratings and sources](Ratings-and-Sources)\n- [Add / update games](Updating-the-Library)\n- [Discovery reconciliation](Needs-Verification)\n\n[Source repository]({REPO})\n')
+    (out/'_Sidebar.md').write_text(f'## GAMES\n\n[Open interactive library]({SITE})\n\n- [Home](Home)\n- [Boomer shooters](Boomer-Shooters)\n- [Every shooter: media atlas](Boomer-Shooters-Media)\n- [Roguelites](Roguelites)\n- [Beyond Steam](Beyond-Steam)\n- [Creator support](Creator-Support)\n- [Collections](Collections)\n- [Ratings and sources](Ratings-and-Sources)\n- [Add / update games](Updating-the-Library)\n- [Discovery reconciliation](Needs-Verification)\n\n[Source repository]({REPO})\n')
     (out/'_Footer.md').write_text('**GAMES** · A living collection, not another forgotten list. · [Sources and scoring](Ratings-and-Sources)\n')
     guide=root/'docs/UPDATING.md'
     if guide.exists():(out/'Updating-the-Library.md').write_text(guide.read_text())

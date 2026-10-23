@@ -22,11 +22,11 @@ Battle against hordes of enemies, conquer Boss encounters, and explore various c
 
 - [Steam: store](https://store.steampowered.com/app/1929870/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Nomad Survival 1.0 Release - Trailer](https://video.akamai.steamstatic.com/store_trailers/1929870/503192/76795c92f5e8e845ab91d22cd498764d3c7c416c/1751049468/hls_264_master.m3u8?t=1665275483)
+[Nomad Survival 1.0 Release - Trailer](https://store.steampowered.com/app/1929870/) | Creator / publisher
 
 ![Nomad Survival official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929870/ss_585c5f91fbf86ea613ebca15b71979c7cc978fad.1920x1080.jpg?t=1758053274)
 

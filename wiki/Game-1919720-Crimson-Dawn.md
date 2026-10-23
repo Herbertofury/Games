@@ -22,11 +22,11 @@ Crimson Dawn is a roguelite horde survival game with RPG elements. Recruit merce
 
 - [Steam: store](https://store.steampowered.com/app/1919720/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Crimson Dawn – Official Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1919720/556974/cdf02aee32a794d69315faa72b45087e135f63c3/1751048098/hls_264_master.m3u8?t=1681221194)
+[Crimson Dawn – Official Release Trailer](https://store.steampowered.com/app/1919720/) | Creator / publisher
 
 ![Crimson Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1919720/ss_eff95627603880484f077fb5cc23bbd7a380e054.1920x1080.jpg?t=1700818479)
 

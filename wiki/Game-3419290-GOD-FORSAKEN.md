@@ -22,11 +22,11 @@ The God - Forsaken Land is a roguelike survival adventure game that combines the
 
 - [Steam: store](https://store.steampowered.com/app/3419290/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[PV](https://video.akamai.steamstatic.com/store_trailers/3419290/816897/8bb970e8a82f780978660c5e6538b775acd777ac/1750849127/hls_264_master.m3u8?t=1740040906)
+[PV](https://store.steampowered.com/app/3419290/) | Creator / publisher
 
 ![GOD FORSAKEN official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419290/ss_69fd0c424f5eabd04d56ff6fa57c334e19f42875.1920x1080.jpg?t=1770361739)
 

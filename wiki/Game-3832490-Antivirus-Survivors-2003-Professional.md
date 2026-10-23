@@ -22,21 +22,21 @@ The family computer is infected again and it’s your job to fend off waves of v
 
 - [Steam: store](https://store.steampowered.com/app/3832490/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3832490/122718276/4abf8a6a517ef7c590c7241014d59c56eb495c92/1790604347/hls_264_master.m3u8?t=1790605522)
+[Release Trailer](https://store.steampowered.com/app/3832490/) | Creator / publisher
 
-[Release Date Announcement](https://video.akamai.steamstatic.com/store_trailers/3832490/1673432456/ce156fe3564745e25b7c426b0153162f5a024950/1789044582/hls_264_master.m3u8?t=1789048484)
+[Release Date Announcement](https://store.steampowered.com/app/3832490/) | Creator / publisher
 
-[Demo Update Trailer](https://video.akamai.steamstatic.com/store_trailers/3832490/1705636294/a3d48921a3f1a4790523edc82a699548a1e0b4a1/1784039384/hls_264_master.m3u8?t=1784052331)
+[Demo Update Trailer](https://store.steampowered.com/app/3832490/) | Creator / publisher
 
-[Demo Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3832490/879875520/47fd4dc6352e3e1fe21e46cbe146b525f685bdaf/1771035793/hls_264_master.m3u8?t=1771037176)
+[Demo Launch Trailer](https://store.steampowered.com/app/3832490/) | Creator / publisher
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3832490/903665414/ce6b08ec6f6ca1837eeb9e5ac709c13577e4c4ba/1767617072/hls_264_master.m3u8?t=1767621684)
+[Gameplay Trailer](https://store.steampowered.com/app/3832490/) | Creator / publisher
 
-[Announcement Teaser](https://video.akamai.steamstatic.com/store_trailers/3832490/1243694912/27150928fdb53407fbda04b1d47b14fcaf0ddfdf/1757044708/hls_264_master.m3u8?t=1757128404)
+[Announcement Teaser](https://store.steampowered.com/app/3832490/) | Creator / publisher
 
 ![Antivirus Survivors 2003 Professional official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832490/0d0e88f9839b5bdfd4d4ca461b98d0789e608c0e/ss_0d0e88f9839b5bdfd4d4ca461b98d0789e608c0e.1920x1080.jpg?t=1791404247)
 

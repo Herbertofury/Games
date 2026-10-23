@@ -22,13 +22,13 @@ Drive your Castle on Wheels into battle in this minimalist medieval roguelike of
 
 - [Steam: store](https://store.steampowered.com/app/3624140/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Date Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/3624140/1140984624/b8e75596453b2f8642988d26873a757fc3eca015/1788271171/hls_264_master.m3u8?t=1788272368)
+[Release Date Announcement Trailer](https://store.steampowered.com/app/3624140/) | Creator / publisher
 
-[Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/3624140/1526996276/96a3f8f586acaccecfd9e90e9f4f9a9d7e5f8719/1750455962/hls_264_master.m3u8?t=1749409840)
+[Reveal Trailer](https://store.steampowered.com/app/3624140/) | Creator / publisher
 
 ![Wanderburg official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624140/75b8b8f3dbb852c8764b7eb6ebf37146b09a8d3d/ss_75b8b8f3dbb852c8764b7eb6ebf37146b09a8d3d.1920x1080.jpg?t=1792688998)
 

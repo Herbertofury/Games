@@ -22,11 +22,11 @@ Descend the nether in search of Death himself! Choose from God-given powers to s
 
 - [Steam: store](https://store.steampowered.com/app/2334730/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Death Must Die Trailer](https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/hls_264_master.m3u8?t=1744305567)
+[Death Must Die Trailer](https://store.steampowered.com/app/2334730/) | Creator / publisher
 
 ![Death Must Die official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2334730/ss_4c5dc0f9dde1a7dd5a73db9df0a7a6cc4f7b3ca9.1920x1080.jpg?t=1744305567)
 

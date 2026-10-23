@@ -22,18 +22,21 @@ Blast through a cursed nightmare solo or with up to 3 friends. A retro-inspired 
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1051690/)
+- [GOG: store](https://www.gog.com/en/game/nightmare_reaper) | Exact title in GOG official catalog: Nightmare Reaper
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Nightmare Reaper Multiplayer Trailer](https://video.akamai.steamstatic.com/store_trailers/1051690/766725657/4c526193258a307b8edf12be58fc9befeb6cd4e4/1773712491/hls_264_master.m3u8?t=1773756875)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Nightmare Reaper Full Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1051690/449392/4725d2ad0b45ce550c8584bb6c280432979c3edf/1751181710/hls_264_master.m3u8?t=1648587041)
+[Nightmare Reaper Multiplayer Trailer](https://store.steampowered.com/app/1051690/) | Creator / publisher
 
-[Nightmare Reaper Animated Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/1051690/440099/88bc77e90d7bb1e291d2e5f281587fd836a9d07c/1751181709/hls_264_master.m3u8?t=1644940407)
+[Nightmare Reaper Full Release Trailer](https://store.steampowered.com/app/1051690/) | Creator / publisher
 
-[Nightmare Reaper Weapons Trailer](https://video.akamai.steamstatic.com/store_trailers/1051690/440088/df9d8be50c869fb37548d4f0fffe9684c22fe868/1751181706/hls_264_master.m3u8?t=1644940412)
+[Nightmare Reaper Animated Release Date Trailer](https://store.steampowered.com/app/1051690/) | Creator / publisher
+
+[Nightmare Reaper Weapons Trailer](https://store.steampowered.com/app/1051690/) | Creator / publisher
 
 ![Nightmare Reaper official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1051690/ss_a01163484e272a8826c38977bdfb95c446feae2c.1920x1080.jpg?t=1773756876)
 

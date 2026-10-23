@@ -22,13 +22,13 @@ Craft wands, create synergies, battle monsters, and survive. Dive into the depth
 
 - [Steam: store](https://store.steampowered.com/app/2928690/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Cinematic Trailer - EN](https://video.akamai.steamstatic.com/store_trailers/2928690/371244750/cfae613ea4f3b767840dd07f43695b1d10cd237e/1757521345/hls_264_master.m3u8?t=1757577954)
+[Cinematic Trailer - EN](https://store.steampowered.com/app/2928690/) | Creator / publisher
 
-[Wandness Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2928690/882737/f5a616363c6ed0a7272d11ca09c2071009ed1cfa/1750889758/hls_264_master.m3u8?t=1757591628)
+[Wandness Gameplay Trailer](https://store.steampowered.com/app/2928690/) | Creator / publisher
 
 ![Wandness: WandCraft Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928690/ss_d29d479787ffbd51b0054c5faa4a3cc3841519b7.1920x1080.jpg?t=1764821350)
 

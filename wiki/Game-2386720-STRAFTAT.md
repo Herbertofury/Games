@@ -23,15 +23,17 @@ STRAFTAT is a 1v1/2v2 ONLINE first person SHOOTER with quick rounds in over 350 
 
 - [Steam: store](https://store.steampowered.com/app/2386720/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Straftat - I'm Different](https://video.akamai.steamstatic.com/store_trailers/2386720/382087129/fc5072ab3f2b146c5ca8a56cf5d6e8f137e15fc1/1750813631/hls_264_master.m3u8?t=1748025118)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Straftat - 4p](https://video.akamai.steamstatic.com/store_trailers/2386720/2021524977/c8e19622be8d89837584674ed29d42210bec1140/1752252196/hls_264_master.m3u8?t=1752593947)
+[Straftat - I'm Different](https://store.steampowered.com/app/2386720/) | Creator / publisher
 
-[Straftat - WRLD](https://video.akamai.steamstatic.com/store_trailers/2386720/14216066/93848d8ecb92d427a6bd7d0423c6723d69a0f8e2/1750813630/hls_264_master.m3u8?t=1748033368)
+[Straftat - 4p](https://store.steampowered.com/app/2386720/) | Creator / publisher
+
+[Straftat - WRLD](https://store.steampowered.com/app/2386720/) | Creator / publisher
 
 ![STRAFTAT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_1c630a6b0a7792caa9bff9c3e29d7829a372f880.1920x1080.jpg?t=1764157677)
 

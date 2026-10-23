@@ -23,13 +23,15 @@ A 2D Pixel Art Shooter-inspired sci-fi FPS runs on GZDoom. You play as 'Petaka',
 
 - [Steam: store](https://store.steampowered.com/app/2104460/)
 
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
+
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Mala Petaka Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2104460/1125299017/88b1a6d8fab8444e6fbd49244d775cf77311d31c/1758820960/hls_264_master.m3u8?t=1758822887)
+[Mala Petaka Launch Trailer](https://store.steampowered.com/app/2104460/) | Creator / publisher
 
 ![Mala Petaka official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104460/39b5504f6cfb82a79933f46f6441e20feb3e8d4e/ss_39b5504f6cfb82a79933f46f6441e20feb3e8d4e.1920x1080.jpg?t=1767843807)
 

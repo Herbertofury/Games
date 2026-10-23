@@ -22,21 +22,21 @@ Can you Survive the Swarm? Unlock mighty abilities and upgrades, find and collec
 
 - [Steam: store](https://store.steampowered.com/app/2510960/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Temtem: Swarm 1.0 - Available Now!](https://video.akamai.steamstatic.com/store_trailers/2510960/953507815/17cd034a28d352a1b755be50343af0b634cb59e2/1775149993/hls_264_master.m3u8?t=1775150982)
+[Temtem: Swarm 1.0 - Available Now!](https://store.steampowered.com/app/2510960/) | Creator / publisher
 
-[Update Trailer - Shattered Eclipse](https://video.akamai.steamstatic.com/store_trailers/2510960/400891927/d47c821d8fee42a57574ef3f0aa4614892bcdb2e/1758521643/hls_264_master.m3u8?t=1772711808)
+[Update Trailer - Shattered Eclipse](https://store.steampowered.com/app/2510960/) | Creator / publisher
 
-[Update Trailer - Endless Inferno](https://video.akamai.steamstatic.com/store_trailers/2510960/1491839436/b96dceffb0debab55bf34c8c9a90973a318ae34f/1750140438/hls_264_master.m3u8?t=1750147627)
+[Update Trailer - Endless Inferno](https://store.steampowered.com/app/2510960/) | Creator / publisher
 
-[Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2510960/657173/de2d5caadbedd72e31e067f05780bfe03208d665/1750816031/hls_264_master.m3u8?t=1708448238)
+[Announcement Trailer](https://store.steampowered.com/app/2510960/) | Creator / publisher
 
-[Update Trailer - Omninesia Overrun](https://video.akamai.steamstatic.com/store_trailers/2510960/845994/55ef7fa9cbef3bee015a522d3cedb4281244de97/1750816033/hls_264_master.m3u8?t=1741343062)
+[Update Trailer - Omninesia Overrun](https://store.steampowered.com/app/2510960/) | Creator / publisher
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2510960/709551/35e189c8647095489c727982c6b92c66731ef0f8/1750816032/hls_264_master.m3u8?t=1732189788)
+[Gameplay Trailer](https://store.steampowered.com/app/2510960/) | Creator / publisher
 
 ![Temtem: Swarm official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510960/e0ed64b799a72617b79fb0191078a73ca4acb651/ss_e0ed64b799a72617b79fb0191078a73ca4acb651.1920x1080.jpg?t=1792396229)
 

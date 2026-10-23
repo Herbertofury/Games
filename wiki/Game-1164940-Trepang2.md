@@ -23,17 +23,19 @@ Become the ultimate badass in Trepang2: A gory, action-packed FPS set in the nea
 
 - [Steam: store](https://store.steampowered.com/app/1164940/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1164940/580215/48812a83ec48b76c50b260125c547ddce9fe33d7/1750631329/hls_264_master.m3u8?t=1687363304)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Date Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/1164940/555768/928c6cb06a1555703089c2e71b0b539fe13f698f/1750631326/hls_264_master.m3u8?t=1680788017)
+[Launch Trailer](https://store.steampowered.com/app/1164940/) | Creator / publisher
 
-[Next Fest Demo Out Now - trailer](https://video.akamai.steamstatic.com/store_trailers/1164940/471479/44c9fa4622d41e366d316f2356f656278837423e/1750631314/hls_264_master.m3u8?t=1655140619)
+[Date Reveal Trailer](https://store.steampowered.com/app/1164940/) | Creator / publisher
 
-[Partnership Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/1164940/396151/a99591d9ff6c4d6b5c57ef7e47ca756b445f6376/1750631313/hls_264_master.m3u8?t=1630012653)
+[Next Fest Demo Out Now - trailer](https://store.steampowered.com/app/1164940/) | Creator / publisher
+
+[Partnership Announcement Trailer](https://store.steampowered.com/app/1164940/) | Creator / publisher
 
 ![Trepang2 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1164940/ss_9dca9067d70b90938bc70006b6adcfdab90d3654.1920x1080.jpg?t=1765814715)
 

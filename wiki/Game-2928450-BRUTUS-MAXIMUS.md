@@ -24,11 +24,11 @@ Embark on a hellish road trip around the Roman Empire. From Teutoburg to Rome, s
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[GAMEPLAY TRAILER I.](https://video.akamai.steamstatic.com/store_trailers/2928450/703559/460462e162ed73843b8922ba740c03e8bc05c611/1750889730/hls_264_master.m3u8?t=1717768339)
+[GAMEPLAY TRAILER I.](https://store.steampowered.com/app/2928450/) | Creator / publisher
 
 ![BRUTUS MAXIMUS official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928450/ss_45fc72807513a2236d5f61d706d087076512e2f8.1920x1080.jpg?t=1777810679)
 

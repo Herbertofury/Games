@@ -23,11 +23,13 @@ An unique blend of retro-fps, metroidvania and adventure. Escape the cyber after
 
 - [Steam: store](https://store.steampowered.com/app/1893370/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[GHOSTWARE - final Steam trailer](https://video.akamai.steamstatic.com/store_trailers/1893370/701832/0185e00d20f93dd5091fe4d903e048cc4b96749e/1751044197/hls_264_master.m3u8?t=1716034510)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[GHOSTWARE - final Steam trailer](https://store.steampowered.com/app/1893370/) | Creator / publisher
 
 ![GHOSTWARE: Arena of the Dead official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1893370/ss_56d8c42828c36ee98f1a575bc962673222a9c9db.1920x1080.jpg?t=1718028080)
 

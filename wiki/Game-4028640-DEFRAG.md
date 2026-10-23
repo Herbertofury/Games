@@ -22,13 +22,13 @@ DEFRAG is a game about cleansing corrupted sectors and refining them through opt
 
 - [Steam: store](https://store.steampowered.com/app/4028640/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[PlayVideo](https://video.akamai.steamstatic.com/store_trailers/4028640/538328569/4a478bb2063477f8e34dfe1d295801b896713485/1762999318/hls_264_master.m3u8?t=1762999670)
+[PlayVideo](https://store.steampowered.com/app/4028640/) | Creator / publisher
 
-[Defrag](https://video.akamai.steamstatic.com/store_trailers/4028640/1111871989/e9f7ef1474ce38653243c5f3d665a53f3aaa5de6/1759331839/hls_264_master.m3u8?t=1759336275)
+[Defrag](https://store.steampowered.com/app/4028640/) | Creator / publisher
 
 ![DEFRAG official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4028640/2930230fac1f48bc62da4e565e2fd87bfa638d25/ss_2930230fac1f48bc62da4e565e2fd87bfa638d25.1920x1080.jpg?t=1777442623)
 

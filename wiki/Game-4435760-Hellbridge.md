@@ -24,11 +24,11 @@ Defend the last bridge to the living world in a relentless siege from Hell. Surv
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Hellbridge - Gameplay](https://video.akamai.steamstatic.com/store_trailers/4435760/1151420084/655a140109b0fc20a612ffab9a45e72541c27309/1787761611/hls_264_master.m3u8?t=1787763266)
+[Hellbridge - Gameplay](https://store.steampowered.com/app/4435760/) | Creator / publisher
 
 ![Hellbridge official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435760/6bc9f8d655f4ea4b23067c7c1128e75af648eb02/ss_6bc9f8d655f4ea4b23067c7c1128e75af648eb02.1920x1080.jpg?t=1792411324)
 

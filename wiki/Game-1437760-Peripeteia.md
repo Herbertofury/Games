@@ -22,16 +22,20 @@ You are Marie, a cyborg mercenary dropped into the rot of a post-Soviet city of 
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1437760/)
+- [itch.io: store](https://9thexodus.itch.io/peripeteia) | Creator listing shows Buy Now and full game files: Peripeteia Early Access 3.4 GB Version 20260417.23410; Peripeteia_EA_Installer.exe 3 GB Version 20250415.09723
+- [IndieDB: project](https://www.indiedb.com/games/peripeteia) | Game-specific official website link with matching destination title
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Early Access Trailer: Redeemed](https://video.akamai.steamstatic.com/store_trailers/1437760/840526/7832785a93dc306fb3fa7e050278933e5bb905d2/1750688201/hls_264_master.m3u8?t=1740611833)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Peripeteia ED](https://video.akamai.steamstatic.com/store_trailers/1437760/326866/fada19101e6b8a5c03dc7328d153705cf7cf53ec/1750688170/hls_264_master.m3u8?t=1606258031)
+[Early Access Trailer: Redeemed](https://store.steampowered.com/app/1437760/) | Creator / publisher
 
-[Realms Deep 2022](https://video.akamai.steamstatic.com/store_trailers/1437760/497166/88dfb8c3bbfd7a7bd05bb569b3d939d6d3d92dce/1750688199/hls_264_master.m3u8?t=1738144327)
+[Peripeteia ED](https://store.steampowered.com/app/1437760/) | Creator / publisher
+
+[Realms Deep 2022](https://store.steampowered.com/app/1437760/) | Creator / publisher
 
 ![Peripeteia official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1437760/ss_402c4d3919d2532c14f40c8782318e2c3f8b55c4.1920x1080.jpg?t=1791055357)
 

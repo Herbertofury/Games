@@ -35,9 +35,15 @@ Requires Blood. The creator lists DOS, NBlood, Raze, BuildGDX, Fresh Supply, and
 
 Major 2.0 release: March 19, 2026. Version 2.0.1 update: June 22, 2026.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Death Wish - 2026 Refreshed Supply edition trailer](https://www.youtube.com/watch?v=PCP0yZtq2OQ) | Nightdive Studios \| Refreshed Supply adaptation
+
+[Source and provenance](https://www.gematsu.com/2026/03/blood-refreshed-supply-free-expansion-death-wish-announced)
+
+> This official trailer shows the Refreshed Supply adaptation. The separately linked ModDB download is the original Blood mod release.
 
 ![Death Wish for Blood - creator-published image](https://media.moddb.com/images/mods/1/19/18985/e1m7a.1.gif)
 
@@ -50,5 +56,6 @@ The interactive library plays compatible trailers in-page. GitHub wiki links ope
 ## Sources and evidence
 
 - [Official media](https://www.moddb.com/mods/death-wish-for-blood) · checked 2026-10-23T07:04:56.149669+00:00
+- [Video source](https://www.gematsu.com/2026/03/blood-refreshed-supply-free-expansion-death-wish-announced) · checked 2026-10-23T07:23:50.572391+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

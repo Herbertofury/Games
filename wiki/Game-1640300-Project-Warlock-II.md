@@ -22,14 +22,18 @@ Adrenaline-pumping gore retro funhouse that’s full of guns, magic, demons, ver
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1640300/)
+- [GOG: store](https://www.gog.com/en/game/project_warlock_2) | Exact title in GOG official catalog: Project Warlock II
+- [itch.io - demo: demo](https://retrovibe.itch.io/project-warlock-ii) | Creator listing exposes demo files, not the full commercial release: Download setup_project_warlock_ii_demo_0.1.5.21_(50307)-1.bin 2 GB; Download setup_project_warlock_ii_demo_0.1.5.21_(50307).exe 823 kB
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Project Warlock II 1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1640300/1469983512/e7fd705fbb23e7749d5aafb40ab4048f54063e34/1750714388/hls_264_master.m3u8?t=1748451385)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[PWII Chapter 1 Rework Trailer](https://video.akamai.steamstatic.com/store_trailers/1640300/710293/30b6c895d37119dd7a93592b30b745d2ca86d3e0/1750714370/hls_264_master.m3u8?t=1741111039)
+[Project Warlock II 1.0 Launch Trailer](https://store.steampowered.com/app/1640300/) | Creator / publisher
+
+[PWII Chapter 1 Rework Trailer](https://store.steampowered.com/app/1640300/) | Creator / publisher
 
 ![Project Warlock II official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640300/6fb365806d93fd6f67347b1aa0ef26fea9fa2178/ss_6fb365806d93fd6f67347b1aa0ef26fea9fa2178.1920x1080.jpg?t=1792153734)
 

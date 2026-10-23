@@ -22,11 +22,11 @@ Survive the treacherous sea in this quirky multiplayer shooter game! Play solo o
 
 - [Steam: store](https://store.steampowered.com/app/3003460/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[2025_Release_EN](https://video.akamai.steamstatic.com/store_trailers/3003460/984546556/308430a9edf13636835511f398048d6232600aba/1754618466/hls_264_master.m3u8?t=1754624372)
+[2025_Release_EN](https://store.steampowered.com/app/3003460/) | Creator / publisher
 
 ![Bang Bang Barrage official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003460/57b431de71c9b7f9d29206ecf10d6a2dfc7f718b/ss_57b431de71c9b7f9d29206ecf10d6a2dfc7f718b.1920x1080.jpg?t=1786090689)
 

@@ -22,11 +22,11 @@
 
 - [Steam: store](https://store.steampowered.com/app/2103140/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0](https://video.akamai.steamstatic.com/store_trailers/2103140/780296/b92df6abcbe9613f976c41d6ac7809c30c9126bf/1750746753/hls_264_master.m3u8?t=1730514726)
+[1.0](https://store.steampowered.com/app/2103140/) | Creator / publisher
 
 ![Magicraft official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103140/ss_ae3641021cc465c951c6bfc5f11c61491b0f732a.1920x1080.jpg?t=1790072393)
 

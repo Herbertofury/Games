@@ -26,22 +26,25 @@ A frenetic sci-fi option where movement and aggression matter. A good fit for pl
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1406780/)
+- [GOG: store](https://www.gog.com/en/game/viscerafest) | Exact title in GOG official catalog: Viscerafest
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Viscerafest - Full Release trailer](https://video.akamai.steamstatic.com/store_trailers/1406780/869980/ad6ac7b7aabd37a35adcb4b357ec24c08741daea/1750685434/hls_264_master.m3u8?t=1744652492)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Viscerafest - Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/1406780/756351/c311c52f0902c79c69a84e0bfbb46b20f0bace2f/1750685400/hls_264_master.m3u8?t=1743691707)
+[Viscerafest - Full Release trailer](https://store.steampowered.com/app/1406780/) | Creator / publisher
 
-[Viscerafest - EA Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1406780/371107/7647fbfc114992bf57b8a0487dabd35b29034009/1750685384/hls_264_master.m3u8?t=1639577112)
+[Viscerafest - Release Date Trailer](https://store.steampowered.com/app/1406780/) | Creator / publisher
 
-[Viscerafest - March 2022 CU2](https://video.akamai.steamstatic.com/store_trailers/1406780/449674/a6c70afa5811fc83db15ab0924ea1ffe906fb0a0/1750685397/hls_264_master.m3u8?t=1648133795)
+[Viscerafest - EA Launch Trailer](https://store.steampowered.com/app/1406780/) | Creator / publisher
 
-[Viscerafest - December 2021 CU](https://video.akamai.steamstatic.com/store_trailers/1406780/425001/19e68fb24f1155faefca31f75d19180a1bfca85b/1750685385/hls_264_master.m3u8?t=1639577591)
+[Viscerafest - March 2022 CU2](https://store.steampowered.com/app/1406780/) | Creator / publisher
 
-[Viscerafest - Official Trailer](https://video.akamai.steamstatic.com/store_trailers/1406780/310445/93b553e1878732a2397a2abb01f65b528acc444d/1750685378/hls_264_master.m3u8?t=1612270478)
+[Viscerafest - December 2021 CU](https://store.steampowered.com/app/1406780/) | Creator / publisher
+
+[Viscerafest - Official Trailer](https://store.steampowered.com/app/1406780/) | Creator / publisher
 
 ![Viscerafest official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1406780/fa958611fbe0365d3ce8920b06a0cee40cfb198d/ss_fa958611fbe0365d3ce8920b06a0cee40cfb198d.1920x1080.jpg?t=1771414739)
 

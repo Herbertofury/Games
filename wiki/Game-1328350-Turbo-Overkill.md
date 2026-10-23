@@ -26,20 +26,22 @@ One of the strongest picks for relentless movement and over-the-top weapon escal
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1328350/)
-- [GOG: store](https://www.gog.com/en/game/turbo_overkill)
+- [GOG: store](https://www.gog.com/en/game/turbo_overkill) | Exact title in GOG official catalog: Turbo Overkill
 - [Epic Games: store](https://store.epicgames.com/p/turbo-overkill-c5e3c7)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Graphic Update Trailer](https://video.akamai.steamstatic.com/store_trailers/1328350/859076/beadccc39057f347d89b313d2f5efb6c2d4a822d/1750672667/hls_264_master.m3u8?t=1743130903)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1328350/596288/26a2188fe947ef508c54fb91d7f0982dee6019d1/1750672664/hls_264_master.m3u8?t=1691783831)
+[Graphic Update Trailer](https://store.steampowered.com/app/1328350/) | Creator / publisher
 
-[The Final Episode: Part 1 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1328350/576595/57e601cce1a01d9a90be694ce2929706785843bb/1750672658/hls_264_master.m3u8?t=1691783835)
+[1.0 Launch Trailer](https://store.steampowered.com/app/1328350/) | Creator / publisher
 
-[Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/1328350/400719/7f514037d13e0ae2fd710edfa46223029bee7a81/1750672635/hls_264_master.m3u8?t=1631755255)
+[The Final Episode: Part 1 Launch Trailer](https://store.steampowered.com/app/1328350/) | Creator / publisher
+
+[Announcement Trailer](https://store.steampowered.com/app/1328350/) | Creator / publisher
 
 ![Turbo Overkill official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328350/ss_4740c52b59e66492af9a6e8ec3dca164b20ee829.1920x1080.jpg?t=1758928764)
 

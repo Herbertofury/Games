@@ -23,39 +23,41 @@ SULFUR is a modern old-school action-adventure: Outsmart enemies, find treasure,
 
 - [Steam: store](https://store.steampowered.com/app/2124120/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[SULFUR 1.0 & Console Release](https://video.akamai.steamstatic.com/store_trailers/2124120/1600251920/0fcf668b3994461f4b84c37f04610c06c8874f54/1791572258/hls_264_master.m3u8?t=1791577243)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[2026 SULFUR Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2124120/383130152/a18eb63bc4af173fea6a9020e2daf3fb8973619f/1768947065/hls_264_master.m3u8?t=1768947815)
+[SULFUR 1.0 & Console Release](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[SULFUR Forever Trailer](https://video.akamai.steamstatic.com/store_trailers/2124120/116933039/c7cb55a68f9b333981887c4f4bdd91d86374db4a/1764852882/hls_264_master.m3u8?t=1764860037)
+[2026 SULFUR Gameplay Trailer](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[Quest Update OUT NOW](https://video.akamai.steamstatic.com/store_trailers/2124120/313458236/f2775d3d3bb674f5a1538f8b7b7ff02b9927be01/1761058743/hls_264_master.m3u8?t=1761071231)
+[SULFUR Forever Trailer](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[Desert Update OUT NOW](https://video.akamai.steamstatic.com/store_trailers/2124120/1425602954/e8c3d9bd1bdc4ea93299cef2a824dfba38460c12/1757610991/hls_264_master.m3u8?t=1757752465)
+[Quest Update OUT NOW](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[SULFUR POWER Update ](https://video.akamai.steamstatic.com/store_trailers/2124120/1069301977/ce66da10faf6fafadf3283b4375e1083d259cff6/1752162297/hls_264_master.m3u8?t=1752228647)
+[Desert Update OUT NOW](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[Fortress Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2124120/1834541108/a9c9ba9de11dcfef2fb707910ba82b8365decb9d/1750969759/hls_264_master.m3u8?t=1751281244)
+[SULFUR POWER Update ](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[QoL of Life Update Trailer](https://video.akamai.steamstatic.com/store_trailers/2124120/577280484/9c8ce77fb9c9eb6ded2f703f9e1d6cd217541f33/1750747229/hls_264_master.m3u8?t=1747402286)
+[Fortress Gameplay Trailer](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2124120/671126/cc23b141bbec6a87df61e252814e2214a5577cd0/1750747159/hls_264_master.m3u8?t=1730134298)
+[QoL of Life Update Trailer](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[Forest Update OUT NOW!](https://video.akamai.steamstatic.com/store_trailers/2124120/848374/5512807284735e59e822ee377c2ca94b22fccab9/1750747200/hls_264_master.m3u8?t=1741885895)
+[Release Trailer](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[Early Access Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2124120/778852/c55d1e6f3b9c773354a0ca5f93a781e42b733b55/1750747185/hls_264_master.m3u8?t=1732102762)
+[Forest Update OUT NOW!](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[SULFUR Teaser Trailer 2023](https://video.akamai.steamstatic.com/store_trailers/2124120/528522/6fe33c7e9d2863a090dc680bc43ddb27050d882d/1750747150/hls_264_master.m3u8?t=1686521050)
+[Early Access Release Trailer](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[Holiday Update!](https://video.akamai.steamstatic.com/store_trailers/2124120/795040/c06d48571eab2e5063a1f8236a1cc41d439b3895/1750747195/hls_264_master.m3u8?t=1733336182)
+[SULFUR Teaser Trailer 2023](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[DEMO Summer Update - PC Gaming Show 2024](https://video.akamai.steamstatic.com/store_trailers/2124120/718832/45a2dc7593a21b9c623f8b742794c6fe4aa86e96/1750747169/hls_264_master.m3u8?t=1719397903)
+[Holiday Update!](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
-[SULFUR Gameplay Trailer 2023](https://video.akamai.steamstatic.com/store_trailers/2124120/577078/5810e230e85d7e3e701c386e99449bec51596570/1750762450/hls_264_master.m3u8?t=1686521056)
+[DEMO Summer Update - PC Gaming Show 2024](https://store.steampowered.com/app/2124120/) | Creator / publisher
+
+[SULFUR Gameplay Trailer 2023](https://store.steampowered.com/app/2124120/) | Creator / publisher
 
 ![SULFUR official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_264c35daa8e599f8c1b91d987e6b097ce16c964a.1920x1080.jpg?t=1792582904)
 

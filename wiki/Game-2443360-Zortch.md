@@ -26,15 +26,17 @@ A great hidden-gem starting point: compact, strange, old-school sci-fi action wi
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/2443360/)
-- [itch.io: store](https://mutantleg.itch.io/zortch)
+- [itch.io: store](https://mutantleg.itch.io/zortch) | Creator listing shows Buy Now and full game files: ZortchFull_Build2008.zip 298 MB; Download Zortch_Soundtrack.zip 35 MB
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[FreeHawk's Trailer (updated)](https://video.akamai.steamstatic.com/store_trailers/2443360/598367/3ca9a8a2426ea33d1db0ee2cb41401ec03f09f83/1750815036/hls_264_master.m3u8?t=1692325813)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Trailer](https://video.akamai.steamstatic.com/store_trailers/2443360/570857/5f81f2091c143ec17582f9cca08dba58d100ba13/1750815030/hls_264_master.m3u8?t=1685029071)
+[FreeHawk's Trailer (updated)](https://store.steampowered.com/app/2443360/) | Creator / publisher
+
+[Trailer](https://store.steampowered.com/app/2443360/) | Creator / publisher
 
 ![Zortch official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2443360/ss_6fa111c28ad042588d5b87b259e1066c4d9942ca.1920x1080.jpg?t=1701470367)
 

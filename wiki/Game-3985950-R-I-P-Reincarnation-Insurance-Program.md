@@ -22,13 +22,13 @@ Welcome to the Reincarnation Insurance Program! This top-down roguelite shooter 
 
 - [Steam: store](https://store.steampowered.com/app/3985950/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0PVEN](https://video.akamai.steamstatic.com/store_trailers/3985950/423470378/2fd2492c2c32ffe5530a7488276a64120934bcba/1789497320/hls_264_master.m3u8?t=1789518564)
+[1.0PVEN](https://store.steampowered.com/app/3985950/) | Creator / publisher
 
-[上线PVEN](https://video.akamai.steamstatic.com/store_trailers/3985950/1492893530/c4433a4cf2d41d239f49b82b8e0faf78b4c0538c/1769363650/hls_264_master.m3u8?t=1769392801)
+[上线PVEN](https://store.steampowered.com/app/3985950/) | Creator / publisher
 
 ![R.I.P. - Reincarnation Insurance Program official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/95c849c101af54fde82939d6057a925ddc118e28/ss_95c849c101af54fde82939d6057a925ddc118e28.1920x1080.jpg?t=1789518622)
 

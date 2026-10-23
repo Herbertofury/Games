@@ -36,11 +36,13 @@ Requires Quake and a compatible enhanced source port. Use the creator-recommende
 
 Episode 2 was released February 4, 2023. Two released episodes are documented; the larger four-episode plan is still distinct.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=dpTfgODVMHw)
+[Creator-published video](https://www.youtube.com/watch?v=dpTfgODVMHw) | Creator / publisher
+
+[Source and provenance](https://www.moddb.com/mods/dwell)
 
 ![Dwell - creator-published image](https://media.moddb.com/images/mods/1/48/47592/d1m3_2026-04-09_13-54-14.png)
 

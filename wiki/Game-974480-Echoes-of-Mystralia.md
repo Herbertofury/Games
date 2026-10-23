@@ -22,17 +22,17 @@ Echoes of Mystralia is an action-heavy spellcrafting ARPG roguelite, where rapid
 
 - [Steam: store](https://store.steampowered.com/app/974480/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Echoes of Mystralia \| All You Can Cast Update](https://video.akamai.steamstatic.com/store_trailers/974480/2073221835/e5a88825ff9e0da03ac1e76970e77cc47557f390/1791462452/hls_264_master.m3u8?t=1791468137)
+[Echoes of Mystralia \| All You Can Cast Update](https://store.steampowered.com/app/974480/) | Creator / publisher
 
-[Echoes of Mystralia \| Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/974480/926431337/981b514fa36935a4609506960e1f00be9396c0ed/1786378461/hls_264_master.m3u8?t=1786455115)
+[Echoes of Mystralia \| Early Access Launch Trailer](https://store.steampowered.com/app/974480/) | Creator / publisher
 
-[Echoes of Mystralia \| Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/974480/668050423/cf2e7f24e487d76f0336537118cd28273802e578/1786477763/hls_264_master.m3u8?t=1786478448)
+[Echoes of Mystralia \| Gameplay Trailer](https://store.steampowered.com/app/974480/) | Creator / publisher
 
-[Echoes of Mystralia \| Rifted Echoes Update](https://video.akamai.steamstatic.com/store_trailers/974480/1546750119/a0d797240c8f59a057a4681790c0fd54faf72c5e/1781273914/hls_264_master.m3u8?t=1781274984)
+[Echoes of Mystralia \| Rifted Echoes Update](https://store.steampowered.com/app/974480/) | Creator / publisher
 
 ![Echoes of Mystralia official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974480/85a54f49d467d8da3b99aab50798b7385f5ba291/ss_85a54f49d467d8da3b99aab50798b7385f5ba291.1920x1080.jpg?t=1791468138)
 

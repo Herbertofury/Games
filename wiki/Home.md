@@ -8,6 +8,7 @@
 
 | Start exploring | What you will find |
 |:--|:--|
+| [Media atlas](Boomer-Shooters-Media) | Artwork, video sources, and every confirmed store for all shooter entries. |
 | [Boomer shooters](Boomer-Shooters) | Recent launches, fast movement, occult campaigns, free standalone games, and mod-scene discoveries. |
 | [Roguelites](Roguelites) | Every original recommendation, with your Halls of Torment collection preserved. |
 | [Beyond Steam](Beyond-Steam) | itch.io, GOG, ModDB, creator sites, browser games, and explicit install requirements. |

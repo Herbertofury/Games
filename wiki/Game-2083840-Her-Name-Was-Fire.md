@@ -22,11 +22,11 @@ Her Name Was Fire is a Tarotpunk twin stick roguelike where you progressively un
 
 - [Steam: store](https://store.steampowered.com/app/2083840/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Trailer](https://video.akamai.steamstatic.com/store_trailers/2083840/492632/b8a086e288ee257dc18a3f6becc1ce4029576326/1751073377/hls_264_master.m3u8?t=1662016111)
+[Trailer](https://store.steampowered.com/app/2083840/) | Creator / publisher
 
 ![Her Name Was Fire official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083840/ss_b0e1fabb1608dcc5e85a960ed5a4a3575dda5a7f.1920x1080.jpg?t=1779651236)
 

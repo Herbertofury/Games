@@ -22,13 +22,13 @@ You are a disease. Infect the human body as a lone pathogen in this cellular rog
 
 - [Steam: store](https://store.steampowered.com/app/3808690/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3808690/1249389595/4cbbcd614d134c44d18127eb3576db92a7d78dba/1784205167/hls_264_master.m3u8?t=1784205865)
+[Launch Trailer](https://store.steampowered.com/app/3808690/) | Creator / publisher
 
-[Infuser Guide Video](https://video.akamai.steamstatic.com/store_trailers/3808690/1606105104/c197f68ad58f69bec6a4af7b8e3b39cb666b7f27/1790348976/hls_264_master.m3u8?t=1791909128)
+[Infuser Guide Video](https://store.steampowered.com/app/3808690/) | Creator / publisher
 
 ![Pathogenic official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808690/eb7dd0466ace51651a1109b0dbc732ba89605dbd/ss_eb7dd0466ace51651a1109b0dbc732ba89605dbd.1920x1080.jpg?t=1792503612)
 

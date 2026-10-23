@@ -23,13 +23,15 @@ An immersive power fantasy simulator with tactical stealth elements set in a sew
 
 - [Steam: store](https://store.steampowered.com/app/1388770/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1388770/374646/add06e1967f282526e3841cec36bd7f3f30d4c1d/1750683053/hls_264_master.m3u8?t=1622824475)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/1388770/331568/e6caed6abc976229bfee19cf0a1991f8d51a0182/1750683044/hls_264_master.m3u8?t=1607111989)
+[Launch Trailer](https://store.steampowered.com/app/1388770/) | Creator / publisher
+
+[Early Access Trailer](https://store.steampowered.com/app/1388770/) | Creator / publisher
 
 ![Cruelty Squad official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388770/ss_dddae3edc786197aeb01c6db8c0cdf4bce9a8bb9.1920x1080.jpg?t=1740330233)
 

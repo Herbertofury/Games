@@ -22,31 +22,31 @@ Nova Drift distills the mechanical depth and strategy of an ARPG into classic ar
 
 - [Steam: store](https://store.steampowered.com/app/858210/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/858210/738568/ab73f37ce8511d9d7ac4a87faf53c332904ac981/1750589691/hls_264_master.m3u8?t=1723465057)
+[1.0 Launch Trailer](https://store.steampowered.com/app/858210/) | Creator / publisher
 
-[Vorpal Update](https://video.akamai.steamstatic.com/store_trailers/858210/609986/f72c34f56aab598e3ffcbc9153113d99116ce854/1750589667/hls_264_master.m3u8?t=1695656017)
+[Vorpal Update](https://store.steampowered.com/app/858210/) | Creator / publisher
 
-[Enemies 2.0 Final Update](https://video.akamai.steamstatic.com/store_trailers/858210/558723/29945fac0c0601036ed85aa2a81973d71a6c212b/1750589661/hls_264_master.m3u8?t=1681750075)
+[Enemies 2.0 Final Update](https://store.steampowered.com/app/858210/) | Creator / publisher
 
-[Early Access Launch](https://video.akamai.steamstatic.com/store_trailers/858210/215097/c8af5668c1d9dc5e2154bd9843ed804ab24a7530/1750589566/hls_264_master.m3u8?t=1553682807)
+[Early Access Launch](https://store.steampowered.com/app/858210/) | Creator / publisher
 
-[Enemies 2.0 Part 2 Update](https://video.akamai.steamstatic.com/store_trailers/858210/498708/14ff94dfc9729e236237e046b237d4ba44e27259/1750589645/hls_264_master.m3u8?t=1664200197)
+[Enemies 2.0 Part 2 Update](https://store.steampowered.com/app/858210/) | Creator / publisher
 
-[Enemies 2.0 Update](https://video.akamai.steamstatic.com/store_trailers/858210/432425/4477ce8b3763a4b80018564d746d64f3dfe3f081/1750589609/hls_264_master.m3u8?t=1642521306)
+[Enemies 2.0 Update](https://store.steampowered.com/app/858210/) | Creator / publisher
 
-[Ouroboros / Azimuth Update](https://video.akamai.steamstatic.com/store_trailers/858210/326864/155aad8255a3c3758d2bc5cb1a52db9859223acc/1750589608/hls_264_master.m3u8?t=1605498572)
+[Ouroboros / Azimuth Update](https://store.steampowered.com/app/858210/) | Creator / publisher
 
-[Genesis Update](https://video.akamai.steamstatic.com/store_trailers/858210/273852/5059c1b9c69cc0b4ff4d260df6de1f1341388e40/1750589588/hls_264_master.m3u8?t=1585073388)
+[Genesis Update](https://store.steampowered.com/app/858210/) | Creator / publisher
 
-[Wild Metamorphosis Update](https://video.akamai.steamstatic.com/store_trailers/858210/245203/842e9b9303427c6597deb66e595d66e8bf23503a/1750589582/hls_264_master.m3u8?t=1569611036)
+[Wild Metamorphosis Update](https://store.steampowered.com/app/858210/) | Creator / publisher
 
-[Gameplay Demo](https://video.akamai.steamstatic.com/store_trailers/858210/221285/350f4cc64e0f87e4a62a97520b7828f9b41add67/1750589572/hls_264_master.m3u8?t=1556915693)
+[Gameplay Demo](https://store.steampowered.com/app/858210/) | Creator / publisher
 
-[Ship Evolutions](https://video.akamai.steamstatic.com/store_trailers/858210/172267/83189bdc4dbd8c807a2726e29c1d36c677a79031/1750589549/hls_264_master.m3u8?t=1532605757)
+[Ship Evolutions](https://store.steampowered.com/app/858210/) | Creator / publisher
 
 ![Nova Drift official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858210/ss_f09b4b090294906d42a2b7244fdc2d110ce9d29d.1920x1080.jpg?t=1788876380)
 

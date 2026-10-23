@@ -22,15 +22,15 @@ A roguelite horde-survival bullet heaven with QUINTILLIONS of bullets over QUINT
 
 - [Steam: store](https://store.steampowered.com/app/2285630/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Survivors of the Dawn](https://video.akamai.steamstatic.com/store_trailers/2285630/782398/c3ae23b8d6a5f71d366af111d7e11089a46824f3/1750981843/hls_264_master.m3u8?t=1730963346)
+[Survivors of the Dawn](https://store.steampowered.com/app/2285630/) | Creator / publisher
 
-[Survivors of the Dawn](https://video.akamai.steamstatic.com/store_trailers/2285630/625464/6aee8a09a4bd036143d248256a8a1e744ab25edc/1750981837/hls_264_master.m3u8?t=1699007519)
+[Survivors of the Dawn](https://store.steampowered.com/app/2285630/) | Creator / publisher
 
-[BLEUMER Update](https://video.akamai.steamstatic.com/store_trailers/2285630/700696/f16cca368efe9a5940e51e9a361fac87171a586e/1750981841/hls_264_master.m3u8?t=1718917181)
+[BLEUMER Update](https://store.steampowered.com/app/2285630/) | Creator / publisher
 
 ![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_80a6a15548d601dd2f791ef98918438a1d15ce83.1920x1080.jpg?t=1765396692)
 

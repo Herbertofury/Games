@@ -23,15 +23,17 @@ A.W.O.L. is a first-person, mil-spec shooter developed using the Build engine (D
 
 - [Steam: store](https://store.steampowered.com/app/1740150/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[A.W.O.L. at Realms Deep 2022](https://video.akamai.steamstatic.com/store_trailers/1740150/496984/2a52c0cd711b996efc6d71a5bde9afd3258b2ed4/1751025999/hls_264_master.m3u8?t=1663359359)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[A.W.O.L. Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/1740150/496948/466c3175c484fd0eca8f1324c149f6e78eaa6bf4/1751031167/hls_264_master.m3u8?t=1663320591)
+[A.W.O.L. at Realms Deep 2022](https://store.steampowered.com/app/1740150/) | Creator / publisher
 
-[A.W.O.L. at Realms Deep 2021](https://video.akamai.steamstatic.com/store_trailers/1740150/396410/53f4a40aaf5a56e94b92b9496305be4b979e01c0/1751025997/hls_264_master.m3u8?t=1630611286)
+[A.W.O.L. Gameplay Trailer](https://store.steampowered.com/app/1740150/) | Creator / publisher
+
+[A.W.O.L. at Realms Deep 2021](https://store.steampowered.com/app/1740150/) | Creator / publisher
 
 ![A.W.O.L. official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740150/ss_7e2ea052b8526fc05827cd5173b4b977bfc10154.1920x1080.jpg?t=1663359360)
 

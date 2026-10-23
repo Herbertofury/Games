@@ -37,11 +37,13 @@ Version 0.15 update: September 14, 2025.
 
 > Exploratory recommendation; limited independent reception; Community rating has a small sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=r1OXEEewNeY)
+[Creator-published video](https://www.youtube.com/watch?v=r1OXEEewNeY) | Creator / publisher
+
+[Source and provenance](https://anttironkkagames.itch.io/kauna)
 
 ![KAUNA - Creator Prototype - creator-published image](https://img.itch.zone/aW1hZ2UvMTA0MDE5MC8xNjc1OTI5OC5wbmc=/347x500/0t4HAW.png)
 

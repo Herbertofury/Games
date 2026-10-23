@@ -24,11 +24,11 @@ Condemned to Hell against your will, eviscerate hordes of demons to reach the Da
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Main Trailer](https://video.akamai.steamstatic.com/store_trailers/3062830/960324442/46e5920a2c6fa53ce4f83707a3e4c047fc07c2f9/1780933198/hls_264_master.m3u8?t=1780933644)
+[Main Trailer](https://store.steampowered.com/app/3062830/) | Creator / publisher
 
 ![Soulfall official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3062830/2514dd912a90fc5e56e0b05abb37e189deaebaf7/ss_2514dd912a90fc5e56e0b05abb37e189deaebaf7.1920x1080.jpg?t=1782265141)
 

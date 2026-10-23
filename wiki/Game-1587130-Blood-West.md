@@ -22,14 +22,17 @@ Weird west legends meet eldritch horror in BLOOD WEST, an immersive stealth FPS.
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1587130/)
+- [GOG: store](https://www.gog.com/en/game/blood_west) | Exact title in GOG official catalog: Blood West
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[BLOOD WEST - Full Release trailer](https://video.akamai.steamstatic.com/store_trailers/1587130/637034/b792287992f87fa185e86f6996bae25f9cdd5b55/1750707428/hls_264_master.m3u8?t=1701789243)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Blood West - Accolade trailer](https://video.akamai.steamstatic.com/store_trailers/1587130/643571/7b38d95ca70a733c51848141a6dad91b41919b10/1750707430/hls_264_master.m3u8?t=1703297854)
+[BLOOD WEST - Full Release trailer](https://store.steampowered.com/app/1587130/) | Creator / publisher
+
+[Blood West - Accolade trailer](https://store.steampowered.com/app/1587130/) | Creator / publisher
 
 ![Blood West official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1587130/ss_e1637f63755f0fcba789172262b26724037380ed.1920x1080.jpg?t=1789685947)
 

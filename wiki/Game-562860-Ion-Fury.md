@@ -22,14 +22,17 @@
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/562860/)
+- [GOG: store](https://www.gog.com/en/game/ion_fury) | Exact title in GOG official catalog: Ion Fury
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Ion Fury: Aftershock Trailer Release Date](https://video.akamai.steamstatic.com/store_trailers/562860/613121/812197cb5eafd885e1e5f1b3750c7ed9a38973bd/1751302221/hls_264_master.m3u8?t=1696113767)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Ion Fury Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/562860/238432/2aca1f6e8aa997a94f6da2f45ba88f2270cc2d9b/1751302218/hls_264_master.m3u8?t=1565874904)
+[Ion Fury: Aftershock Trailer Release Date](https://store.steampowered.com/app/562860/) | Creator / publisher
+
+[Ion Fury Launch Trailer](https://store.steampowered.com/app/562860/) | Creator / publisher
 
 ![Ion Fury official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/562860/ss_406b0b080e523ff37d843151449fcd7149c7ef72.1920x1080.jpg?t=1766678226)
 

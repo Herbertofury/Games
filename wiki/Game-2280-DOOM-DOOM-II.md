@@ -22,12 +22,15 @@ Developed by id Software, and originally released in 1993 and 1994, the definiti
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/2280/)
+- [GOG: store](https://www.gog.com/en/game/doom_doom_ii) | Exact title in GOG official catalog: DOOM + DOOM II
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2280/735965/8d8326efb88087fa13afd9f4ba9217e82e7d9f4b/1750480948/hls_264_master.m3u8?t=1723132707)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Launch Trailer](https://store.steampowered.com/app/2280/) | Creator / publisher
 
 ![DOOM + DOOM II official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280/ss_46a3e04b262d419a970733d95d1e561fed81a04d.1920x1080.jpg?t=1790284857)
 

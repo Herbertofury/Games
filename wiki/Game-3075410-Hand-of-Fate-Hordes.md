@@ -22,11 +22,11 @@ Control powerful heroes and carve your way through dungeons, quests, and endless
 
 - [Steam: store](https://store.steampowered.com/app/3075410/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Early Access Trailer_GLB](https://video.akamai.steamstatic.com/store_trailers/3075410/1256331585/b98b1130572f7705b6b4976172d5e202aba86302/1787862202/hls_264_master.m3u8?t=1787865302)
+[Early Access Trailer_GLB](https://store.steampowered.com/app/3075410/) | Creator / publisher
 
 ![Hand of Fate: Hordes official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8/ss_38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8.1920x1080.jpg?t=1792548358)
 

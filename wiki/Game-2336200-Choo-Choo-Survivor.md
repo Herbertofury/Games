@@ -22,11 +22,11 @@ Drive your train to safety while shooting down endless hordes of zombies blockin
 
 - [Steam: store](https://store.steampowered.com/app/2336200/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Choo Choo Survivor Gameplay Short Clip](https://video.akamai.steamstatic.com/store_trailers/2336200/572211/df4171da1a1ea7fe266182a65bb73df36521055a/1750907925/hls_264_master.m3u8?t=1687174970)
+[Choo Choo Survivor Gameplay Short Clip](https://store.steampowered.com/app/2336200/) | Creator / publisher
 
 ![Choo Choo Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336200/ss_8f9ab565b8854f66fb8e8406ad8da2a28e318fbf.1920x1080.jpg?t=1791811249)
 

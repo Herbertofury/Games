@@ -22,14 +22,17 @@ Ziggurat is back, and now it's even better! Use powerful weapons and spells to b
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1159560/)
+- [GOG: store](https://www.gog.com/en/game/ziggurat_2) | Exact title in GOG official catalog: Ziggurat 2
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1159560/406663/f1ede078ff766d4f392d30e6e8542499199a9afb/1751197095/hls_264_master.m3u8?t=1683110244)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/1159560/412758/715d974a263608c7a2b48f9f4fcd29d45f1ff0c1/1751526426/hls_264_master.m3u8?t=1683110251)
+[Release Trailer](https://store.steampowered.com/app/1159560/) | Creator / publisher
+
+[Gameplay Trailer](https://store.steampowered.com/app/1159560/) | Creator / publisher
 
 ![Ziggurat 2 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159560/ss_3eb396cf1c32cc13554a0f11d0fbaf1e3b2b7e3e.1920x1080.jpg?t=1791995272)
 

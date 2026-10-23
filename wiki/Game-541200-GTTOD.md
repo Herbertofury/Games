@@ -23,13 +23,15 @@ RISE. FALL. REPEAT. Ascend to the level of the Gods as you battle your way out o
 
 - [Steam: store](https://store.steampowered.com/app/541200/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[GTTOD The Past And Present Update Trailer](https://video.akamai.steamstatic.com/store_trailers/541200/719533/3c06416d355fd6bd35d71f81b7a47541566bd410/1750547819/hls_264_master.m3u8?t=1719522863)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[GTTOD Early Access Trailer 3](https://video.akamai.steamstatic.com/store_trailers/541200/553944/8c6ab69fe79527c6df5bb3264b6895333999af47/1750547816/hls_264_master.m3u8?t=1680308239)
+[GTTOD The Past And Present Update Trailer](https://store.steampowered.com/app/541200/) | Creator / publisher
+
+[GTTOD Early Access Trailer 3](https://store.steampowered.com/app/541200/) | Creator / publisher
 
 ![GTTOD official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_bbb340258bfa751cd2a587789128ff5402e2f764.1920x1080.jpg?t=1789673161)
 

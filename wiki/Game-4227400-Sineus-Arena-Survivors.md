@@ -22,17 +22,17 @@ Fight hordes and defend your Stronghold in a bullet heaven survivor-like with co
 
 - [Steam: store](https://store.steampowered.com/app/4227400/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Sineus Arena Survivors - Demo Gameplay Trailer (Next Fest)](https://video.akamai.steamstatic.com/store_trailers/4227400/521494957/9b31f2fc25275814391906b166550afb5006f2ed/1780409778/hls_264_master.m3u8?t=1780497386)
+[Sineus Arena Survivors - Demo Gameplay Trailer (Next Fest)](https://store.steampowered.com/app/4227400/) | Creator / publisher
 
-[Sineus Arena Survivors - Story Launch Trailer (EN)](https://video.akamai.steamstatic.com/store_trailers/4227400/570510686/c1c988092384f1a61335f3fa694d7fec7fc5faa4/1783706767/hls_264_master.m3u8?t=1783708190)
+[Sineus Arena Survivors - Story Launch Trailer (EN)](https://store.steampowered.com/app/4227400/) | Creator / publisher
 
-[Sineus Arena Survivors - Alpha Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/4227400/958684071/549aafef31ecdf385f02948a6277f43e0e3c87d3/1776776623/hls_264_master.m3u8?t=1776777874)
+[Sineus Arena Survivors - Alpha Gameplay Trailer](https://store.steampowered.com/app/4227400/) | Creator / publisher
 
-[Sineus Arena Survivors - Playtest Demo \| Gameplay Teaser-Trailer](https://video.akamai.steamstatic.com/store_trailers/4227400/578306981/b5fe77978543b7cbbb775b0b3e9ac58c40987c4d/1771950627/hls_264_master.m3u8?t=1776511618)
+[Sineus Arena Survivors - Playtest Demo \| Gameplay Teaser-Trailer](https://store.steampowered.com/app/4227400/) | Creator / publisher
 
 ![Sineus Arena Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/0a4b241c4e66c678274229ba3b4e22470f62c785/ss_0a4b241c4e66c678274229ba3b4e22470f62c785.1920x1080.jpg?t=1792057701)
 

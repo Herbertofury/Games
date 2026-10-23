@@ -22,14 +22,17 @@ Immortal Redneck is a FPS set in Egypt with rogue-lite elements. Frantic gamepla
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/595140/)
+- [GOG: store](https://www.gog.com/en/game/immortal_redneck) | Exact title in GOG official catalog: Immortal Redneck
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch (1.3.3)](https://video.akamai.steamstatic.com/store_trailers/595140/825849222/e659614a10952742214d5ddf9a6e09d998137bfb/1753943015/hls_264_master.m3u8?t=1754286321)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch](https://video.akamai.steamstatic.com/store_trailers/595140/1041174657/a3d393b4bb133ed04de0f1dea8fcc8ec4cc1c389/1753945054/hls_264_master.m3u8?t=1754286323)
+[Launch (1.3.3)](https://store.steampowered.com/app/595140/) | Creator / publisher
+
+[Launch](https://store.steampowered.com/app/595140/) | Creator / publisher
 
 ![Immortal Redneck official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/595140/ss_3adb3831e4b68b927cb7800a6dab2503b20da1af.1920x1080.jpg?t=1757661381)
 

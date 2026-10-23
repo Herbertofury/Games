@@ -22,15 +22,15 @@
 
 - [Steam: store](https://store.steampowered.com/app/1966900/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/1966900/575943/359904ca0dbcbd808ac63b8bf25c37cbe63ac63b/1750743028/hls_264_master.m3u8?t=1686225627)
+[1.0 Trailer](https://store.steampowered.com/app/1966900/) | Creator / publisher
 
-[Trailer 03](https://video.akamai.steamstatic.com/store_trailers/1966900/494657/c30f7272f4d3b4490ef0e88cff1e0246c02bf1c3/1750743026/hls_264_master.m3u8?t=1662706534)
+[Trailer 03](https://store.steampowered.com/app/1966900/) | Creator / publisher
 
-[20MTD Trailer 01](https://video.akamai.steamstatic.com/store_trailers/1966900/468343/0b5f4421903e077d2693b936819f20f77ebb4569/1750743024/hls_264_master.m3u8?t=1663301197)
+[20MTD Trailer 01](https://store.steampowered.com/app/1966900/) | Creator / publisher
 
 ![20 Minutes Till Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966900/ss_0ee0797519f432d01614ff20027ccbf4568255b7.1920x1080.jpg?t=1785102761)
 

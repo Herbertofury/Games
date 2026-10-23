@@ -22,16 +22,20 @@ Dread Templar is a fast-paced hardcore old-school FPS, combining classic 90s sho
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1334730/)
+- [GOG: store](https://www.gog.com/en/game/dread_templar) | Game-specific official website link with matching destination title
+- [Epic Games: store](https://store.epicgames.com/nl/p/dread-templar-d8e8fa) | Exact game-specific listing confirmed by the official Epic store or linked publisher website.
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Dread Templar Release](https://video.akamai.steamstatic.com/store_trailers/1334730/532326/882dd64be30a4a40aae901c006be96dfb7f6e255/1750673507/hls_264_master.m3u8?t=1674755886)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Dread Templar Full Release Date](https://video.akamai.steamstatic.com/store_trailers/1334730/528939/b7efd3a7981092d5568e08df6131c10163f76fea/1750673499/hls_264_master.m3u8?t=1673531913)
+[Dread Templar Release](https://store.steampowered.com/app/1334730/) | Creator / publisher
 
-[Dread Templar EA Launch](https://video.akamai.steamstatic.com/store_trailers/1334730/393083/33cf8e1a8d60f493b71b24da087f8af3bf296a1d/1750673433/hls_264_master.m3u8?t=1629108536)
+[Dread Templar Full Release Date](https://store.steampowered.com/app/1334730/) | Creator / publisher
+
+[Dread Templar EA Launch](https://store.steampowered.com/app/1334730/) | Creator / publisher
 
 ![Dread Templar official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1334730/ss_949653d5509e59722e3ef2fec134e251a97c9469.1920x1080.jpg?t=1760108152)
 

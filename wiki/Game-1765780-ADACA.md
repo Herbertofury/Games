@@ -22,16 +22,19 @@ A Sci-fi FPS set on the mysterious planet ADACA. - Use your GRAVITY-MANIPULATING
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1765780/)
+- [itch.io: store](https://siris-pendrake.itch.io/adaca) | Creator listing shows Buy Now and full game files: ADACA 1.3.8 (Full Release + Patch) 2.2 GB
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[GamePlayTeaser_02](https://video.akamai.steamstatic.com/store_trailers/1765780/476124/b002a534368cf70e03a6b2301428b89b4f803bb7/1750733524/hls_264_master.m3u8?t=1656623015)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[ADACA Exclusion Zone Trailer](https://video.akamai.steamstatic.com/store_trailers/1765780/463773/76017d0536183004ffcc811e391bcbf957f050cd/1750733516/hls_264_master.m3u8?t=1652801863)
+[GamePlayTeaser_02](https://store.steampowered.com/app/1765780/) | Creator / publisher
 
-[ADACA Ep. 1 GamePlay 'SHIP-BREAKER'](https://video.akamai.steamstatic.com/store_trailers/1765780/442324/d7aea56b1a90f763fd0f90f3a609b831b7ef20ff/1750733506/hls_264_master.m3u8?t=1645565956)
+[ADACA Exclusion Zone Trailer](https://store.steampowered.com/app/1765780/) | Creator / publisher
+
+[ADACA Ep. 1 GamePlay 'SHIP-BREAKER'](https://store.steampowered.com/app/1765780/) | Creator / publisher
 
 ![ADACA official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765780/ss_6a638a21fc236bea70d9292d0f471974c5184aea.1920x1080.jpg?t=1742945757)
 

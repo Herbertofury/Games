@@ -27,11 +27,13 @@ A recent small-audience shooter discovery with encouraging reception. Keep its a
 
 - [Steam: store](https://store.steampowered.com/app/3648730/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Gameplay](https://video.akamai.steamstatic.com/store_trailers/3648730/1659188591/e9f4b9180c1e285fe94abad76b536c5a508e9211/1777295152/hls_264_master.m3u8?t=1777295533)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Gameplay](https://store.steampowered.com/app/3648730/) | Creator / publisher
 
 ![Blood Vial official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648730/99132cca3cee2908cbadc8792bc4585498a8d373/ss_99132cca3cee2908cbadc8792bc4585498a8d373.1920x1080.jpg?t=1782437419)
 

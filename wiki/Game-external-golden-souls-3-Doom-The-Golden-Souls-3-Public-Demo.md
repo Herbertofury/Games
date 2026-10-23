@@ -34,11 +34,13 @@ Requires DOOM2.WAD and compatible GZDoom. Download the public Demo 2 / hotfix pa
 
 > Exploratory recommendation; limited independent reception
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=K5raQosL-a4)
+[Creator-published video](https://www.youtube.com/watch?v=K5raQosL-a4) | Creator / publisher
+
+[Source and provenance](https://batandy.itch.io/goldensouls3)
 
 ![Doom: The Golden Souls 3 - Public Demo - creator-published image](https://img.itch.zone/aW1nLzM2NzE0ODIucG5n/original/w19Hu9.png)
 

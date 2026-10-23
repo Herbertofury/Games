@@ -22,13 +22,13 @@ You are the first party mech pilot of alien planet colonizers! Project Lazarus i
 
 - [Steam: store](https://store.steampowered.com/app/2024230/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Trailer](https://video.akamai.steamstatic.com/store_trailers/2024230/573916/fc2b6376d2b970cadbe25ab40eab9c6ca24660a6/1751068635/hls_264_master.m3u8?t=1685637677)
+[Trailer](https://store.steampowered.com/app/2024230/) | Creator / publisher
 
-[Gameplay](https://video.akamai.steamstatic.com/store_trailers/2024230/468946/16a3621b9033aa386bddcd09fdd745b287800dfe/1751068632/hls_264_master.m3u8?t=1654816507)
+[Gameplay](https://store.steampowered.com/app/2024230/) | Creator / publisher
 
 ![Project Lazarus official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2024230/ss_7ca88ee627f3349899b0b3286467b0c9d157622c.1920x1080.jpg?t=1686241538)
 

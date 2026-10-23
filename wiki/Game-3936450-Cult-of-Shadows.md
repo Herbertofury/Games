@@ -24,13 +24,13 @@ Uncover the secrets of Bel Noa. Fight hordes of cultists and the Mythos they sum
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Cult of Shadows Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3936450/1057335123/edfca8ba74c58b8bd6c01b40ee0235e6328dad93/1783622716/hls_264_master.m3u8?t=1783623162)
+[Cult of Shadows Release Date Trailer](https://store.steampowered.com/app/3936450/) | Creator / publisher
 
-[Cult of Shadows New Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/3936450/136351700/ea34527529f6f044760f3e817c44c1e4f8422a01/1768508721/hls_264_master.m3u8?t=1783623163)
+[Cult of Shadows New Demo Trailer](https://store.steampowered.com/app/3936450/) | Creator / publisher
 
 ![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/7b9d9ae1c8b56f37354c87c9a39eef81948c7238/ss_7b9d9ae1c8b56f37354c87c9a39eef81948c7238.1920x1080.jpg?t=1784326613)
 

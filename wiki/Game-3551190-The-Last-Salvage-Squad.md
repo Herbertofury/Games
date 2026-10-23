@@ -27,13 +27,15 @@ One of the newer smaller-audience discoveries worth checking before the obvious 
 
 - [Steam: store](https://store.steampowered.com/app/3551190/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[The Last Salvage SQUAD trailer2](https://video.akamai.steamstatic.com/store_trailers/3551190/1775193478/ccd1d3aa98d8c11c351b3c1bb4ab1cd3b0fb3bbe/1769433052/hls_264_master.m3u8?t=1770822187)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[The Last Salvage SQUAD trailer](https://video.akamai.steamstatic.com/store_trailers/3551190/872670/c20bbf259097d3f01f1bea1ded5325c6b8244a89/1750859913/hls_264_master.m3u8?t=1744973755)
+[The Last Salvage SQUAD trailer2](https://store.steampowered.com/app/3551190/) | Creator / publisher
+
+[The Last Salvage SQUAD trailer](https://store.steampowered.com/app/3551190/) | Creator / publisher
 
 ![The Last Salvage Squad official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3551190/c242437dcd6bdbbc8adf3832f4bb2d287ddec7eb/ss_c242437dcd6bdbbc8adf3832f4bb2d287ddec7eb.1920x1080.jpg?t=1781708435)
 

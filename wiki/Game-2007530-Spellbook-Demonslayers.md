@@ -22,11 +22,11 @@ Slay endless hordes of demons to protect the Cosmic Library! Steal their abiliti
 
 - [Steam: store](https://store.steampowered.com/app/2007530/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Temporal New Art Trailer](https://video.akamai.steamstatic.com/store_trailers/2007530/522894/8981d73784b7f112137df99b153fae6a6cdb04c2/1751066864/hls_264_master.m3u8?t=1671192764)
+[Temporal New Art Trailer](https://store.steampowered.com/app/2007530/) | Creator / publisher
 
 ![Spellbook Demonslayers official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2007530/ss_4a71a0b385055ba3f6e67dc4be9b0315b655ac0f.1920x1080.jpg?t=1739172747)
 

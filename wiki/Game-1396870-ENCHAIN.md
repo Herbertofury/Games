@@ -22,16 +22,19 @@ Grapple, throw, and break your fellow undead in this bone-smashing exploration m
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1396870/)
+- [itch.io - demo: demo](https://mattlawr.itch.io/enchain) | Creator listing exposes demo files, not the full commercial release: ENCHAIN_demo030a.zip 76 MB; ENCHAIN_demo021a.zip 73 MB; ENCHAIN_demo021 (broken) 73 MB; ENCHAIN_demo020.zip 73 MB; ENCHAIN_demo011.zip 62 MB; ENCHAIN_demo010.zip 62 MB
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Early Access Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/1396870/1589583365/67f2fdda69886872818a832989ae7a5aaa942cd3/1769112993/hls_264_master.m3u8?t=1769115604)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[2022 Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/1396870/2095614483/208ca3186ccdd07b299c1f2251bd0af6309ac53e/1770320518/hls_264_master.m3u8?t=1770322322)
+[Early Access Release Date Trailer](https://store.steampowered.com/app/1396870/) | Creator / publisher
 
-[Demo Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/1396870/314703/961b76cd491ee0df6233ab0e5653561cd4966fdf/1751232397/hls_264_master.m3u8?t=1767566566)
+[2022 Gameplay Trailer](https://store.steampowered.com/app/1396870/) | Creator / publisher
+
+[Demo Reveal Trailer](https://store.steampowered.com/app/1396870/) | Creator / publisher
 
 ![ENCHAIN official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396870/49c2e23e36be5e0cab48909f160b98ea8e1d8c28/ss_49c2e23e36be5e0cab48909f160b98ea8e1d8c28.1920x1080.jpg?t=1781631090)
 

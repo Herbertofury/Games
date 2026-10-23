@@ -24,11 +24,11 @@ Filthium Zero is a compact action roguelite experience featuring a mix of vertic
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Filthium Zero: Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3514090/548915528/dea2656b88fcd383141bfcfbfac5a92f3883fa04/1773127930/hls_264_master.m3u8?t=1773327080)
+[Filthium Zero: Release Trailer](https://store.steampowered.com/app/3514090/) | Creator / publisher
 
 ![Filthium Zero official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3514090/ce2a6a47f1c858b21d2b6eae95ecc7fc9fb43b7a/ss_ce2a6a47f1c858b21d2b6eae95ecc7fc9fb43b7a.1920x1080.jpg?t=1773330624)
 

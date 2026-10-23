@@ -27,13 +27,15 @@ An arena-focused curiosity with less certain reception than the strongest recomm
 
 - [Steam: store](https://store.steampowered.com/app/3043760/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3043760/1864848986/296b12241b643501048ca5c971e745d59e1fe045/1777377264/hls_264_master.m3u8?t=1777393453)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Early Access Launch Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3043760/1374116800/938bce990c3560aabc1c512d06808f6170993c06/1750823125/hls_264_master.m3u8?t=1748198271)
+[Launch Gameplay Trailer](https://store.steampowered.com/app/3043760/) | Creator / publisher
+
+[Early Access Launch Gameplay Trailer](https://store.steampowered.com/app/3043760/) | Creator / publisher
 
 ![HELLBREAK official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/2d40d221c5e89b1316065916212445bfd53a577d/ss_2d40d221c5e89b1316065916212445bfd53a577d.1920x1080.jpg?t=1786032619)
 

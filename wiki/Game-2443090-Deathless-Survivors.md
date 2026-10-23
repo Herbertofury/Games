@@ -22,11 +22,11 @@ Embark on an online co-op Survival Roguelite adventure. Team up with friends, sl
 
 - [Steam: store](https://store.steampowered.com/app/2443090/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Deathless Combat](https://video.akamai.steamstatic.com/store_trailers/2443090/742593/42fba32b21963e39096fd0f393bbfa9acf401a1b/1750919643/hls_264_master.m3u8?t=1726587300)
+[Deathless Combat](https://store.steampowered.com/app/2443090/) | Creator / publisher
 
 ![Deathless: Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2443090/ss_e74b344ea4ce63baf96d3d9ec5a2ab413a12458d.1920x1080.jpg?t=1780615109)
 

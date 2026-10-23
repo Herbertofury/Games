@@ -22,17 +22,17 @@ Beware, Monsters are Coming! In this Tower-Survivor rogue-lite, you protect an e
 
 - [Steam: store](https://store.steampowered.com/app/2934220/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2934220/1058177233/68d19faf5f42f9edc427b2de16d819d023e8ffb2/1776861914/hls_264_master.m3u8?t=1776862387)
+[Launch Trailer](https://store.steampowered.com/app/2934220/) | Creator / publisher
 
-[Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2934220/865470093/4b4fb64dbefd0616e92a234cf9550ec1e05b33aa/1750890213/hls_264_master.m3u8?t=1776862388)
+[Announcement Trailer](https://store.steampowered.com/app/2934220/) | Creator / publisher
 
-[What is Monsters Are Coming?](https://video.akamai.steamstatic.com/store_trailers/2934220/1683195526/6d25f90f6db3ac56d292568689f0d5b4fd79cf45/1755588505/hls_264_master.m3u8?t=1755714597)
+[What is Monsters Are Coming?](https://store.steampowered.com/app/2934220/) | Creator / publisher
 
-[Date Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2934220/267331784/1eff2b98750d3f84f04e0e9ceb4afcbc955d7cd9/1761603249/hls_264_master.m3u8?t=1761675103)
+[Date Reveal Trailer](https://store.steampowered.com/app/2934220/) | Creator / publisher
 
 ![Monsters are Coming! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934220/2af6c06c42fd77f87830efbed8a1e2b280ae35a9/ss_2af6c06c42fd77f87830efbed8a1e2b280ae35a9.1920x1080.jpg?t=1788869989)
 

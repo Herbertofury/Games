@@ -22,15 +22,15 @@ Be My Horde is a roguelite survivor where your minions fight for you. Become a f
 
 - [Steam: store](https://store.steampowered.com/app/2499520/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Rage Unleashed Trailer](https://video.akamai.steamstatic.com/store_trailers/2499520/965962831/cd8c3cde70157694385dbfdb016daba7a24e0b15/1780768525/hls_264_master.m3u8?t=1780774143)
+[Rage Unleashed Trailer](https://store.steampowered.com/app/2499520/) | Creator / publisher
 
-[Official Trailer](https://video.akamai.steamstatic.com/store_trailers/2499520/3992447/c7a5d1508cf6b6c23033b80a4afa1729ca02498d/1750815900/hls_264_master.m3u8?t=1748278835)
+[Official Trailer](https://store.steampowered.com/app/2499520/) | Creator / publisher
 
-[Horde Reborn Trailer](https://video.akamai.steamstatic.com/store_trailers/2499520/847144873/2028a7ebfc4c3aff2c8493f36d38af9e144c8117/1764881283/hls_264_master.m3u8?t=1764884391)
+[Horde Reborn Trailer](https://store.steampowered.com/app/2499520/) | Creator / publisher
 
 ![Be My Horde official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499520/a4447edd928d5eabf87766847f95f4f9e8fd554d/ss_a4447edd928d5eabf87766847f95f4f9e8fd554d.1920x1080.jpg?t=1792428576)
 

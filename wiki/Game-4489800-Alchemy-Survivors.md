@@ -24,11 +24,11 @@ Alchemy Survivors is a 1-4 player bullet heaven roguelike with a magical craftin
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Alchemy to Survive and Survive to Alchemy](https://video.akamai.steamstatic.com/store_trailers/4489800/447653870/ef4b8dd9c9e06296389a0b77ccecbe10dce47a06/1779695345/hls_264_master.m3u8?t=1779695851)
+[Alchemy to Survive and Survive to Alchemy](https://store.steampowered.com/app/4489800/) | Creator / publisher
 
 ![Alchemy Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489800/d1048b587e578e159b7bb8d934f174f098f919e9/ss_d1048b587e578e159b7bb8d934f174f098f919e9.1920x1080.jpg?t=1791502199)
 

@@ -24,11 +24,11 @@ Conquer an apocalyptic world and wage war against legions of the undead, demons,
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Main](https://video.akamai.steamstatic.com/store_trailers/2237070/517847/37370c31ff409f96f41c160ec5a18f2c3ef4eae2/1751093834/hls_264_master.m3u8?t=1700589410)
+[Main](https://store.steampowered.com/app/2237070/) | Creator / publisher
 
 ![Deathtide official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237070/ss_9aa007cf5cf1eac126e0dfc5d63d70fcde17856f.1920x1080.jpg?t=1700589418)
 

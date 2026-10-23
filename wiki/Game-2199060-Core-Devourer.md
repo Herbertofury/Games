@@ -22,11 +22,11 @@ Hunt down huge hordes of droids, absorb their cores and become the strongest cyb
 
 - [Steam: store](https://store.steampowered.com/app/2199060/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2199060/519508/906f22dcc3050b4e6535d83f70f52e456ec5c93b/1751088941/hls_264_master.m3u8?t=1705354595)
+[Release Date Trailer](https://store.steampowered.com/app/2199060/) | Creator / publisher
 
 ![Core Devourer official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2199060/ss_7e3629470fffb9f456e171fc86f5bf18f88756e1.1920x1080.jpg?t=1738371308)
 

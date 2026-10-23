@@ -24,13 +24,13 @@ A dark fantasy survivorslike with classic ARPG essence: Deep builds, rare loot, 
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/3733160/1109539772/925528763a2061b3c63d3f5205b1e6205971d005/1771853970/hls_264_master.m3u8?t=1771854460)
+[Gameplay trailer](https://store.steampowered.com/app/3733160/) | Creator / publisher
 
-[Lore Cinematic](https://video.akamai.steamstatic.com/store_trailers/3733160/312281265/842a59f3a79048469f85814c547b5dbf89bce52a/1771683033/hls_264_master.m3u8?t=1771854461)
+[Lore Cinematic](https://store.steampowered.com/app/3733160/) | Creator / publisher
 
 ![Unwanted Dungeon official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733160/0847d2cfce563d6942cf6737381deb12bf68de76/ss_0847d2cfce563d6942cf6737381deb12bf68de76.1920x1080.jpg?t=1782533036)
 

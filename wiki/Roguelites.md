@@ -4,7 +4,9 @@
 
 ### [Open the interactive roguelites library](https://herbertofury.github.io/Games/#hub=Roguelites)
 
-**Search, filters, sortable ratings, embedded trailers, full galleries, favorites, private notes, and comparison.** All records below use the same source snapshot as the app.
+[Download the portable interactive library](https://github.com/Herbertofury/Games/releases/latest) | [Every shooter: artwork, videos, stores](Boomer-Shooters-Media)
+
+**Search, filters, sortable ratings, embedded trailers, full galleries, favorites, private notes, and comparison.** All records below use the same source snapshot as the app. The portable HTML works without a web server; the hosted address requires GitHub Pages to be enabled.
 
 **170 unique entries** · [Playable now](https://herbertofury.github.io/Games/#hub=Roguelites&playable=true) · [Newest releases](https://herbertofury.github.io/Games/#hub=Roguelites&playable=true&sort=newest) · [Hidden gems](https://herbertofury.github.io/Games/#hub=Roguelites&hidden=true) · [Beyond Steam](https://herbertofury.github.io/Games/#hub=Roguelites&offSteam=true)
 
@@ -160,7 +162,7 @@ Hordes of Hel is a gripping roguelike horde-survivor game set in the dark realms
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,033 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) |
+| [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,033 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) · [GOG](https://www.gog.com/en/game/bloodshed) · [Epic Games](https://store.epicgames.com/en-US/p/bloodshed-849737) |
 | [Vampire Hunters](Game-2206270-Vampire-Hunters) | 8/10 | 89.8% / 2,238 Steam reviews | Oct 30, 2024 · Released | [Steam](https://store.steampowered.com/app/2206270/) |
 
 ### Bullet heaven
@@ -255,7 +257,7 @@ Hordes of Hel is a gripping roguelike horde-survivor game set in the dark realms
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,033 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) |
+| [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,033 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) · [GOG](https://www.gog.com/en/game/bloodshed) · [Epic Games](https://store.epicgames.com/en-US/p/bloodshed-849737) |
 | [Vampire Hunters](Game-2206270-Vampire-Hunters) | 8/10 | 89.8% / 2,238 Steam reviews | Oct 30, 2024 · Released | [Steam](https://store.steampowered.com/app/2206270/) |
 
 ### Loot-driven ARPGs

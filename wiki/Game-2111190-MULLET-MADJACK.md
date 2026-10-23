@@ -22,20 +22,23 @@ MULLET MADJACK is a HIGH-OCTANE-ACTION SHOOTER that put you directly inside a CL
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/2111190/)
+- [GOG: store](https://www.gog.com/en/game/mullet_madjack) | Exact title in GOG official catalog: MULLET MADJACK
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[MULLET MADJACK Trailer OUT NOW!!](https://video.akamai.steamstatic.com/store_trailers/2111190/700740/fc2d78e5c18d55cb0078f7be5e2b66caa4d4f6d1/1750746972/hls_264_master.m3u8?t=1715797849)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[ULTRAKILL CROSSOVER trailer](https://video.akamai.steamstatic.com/store_trailers/2111190/801026/2f501b5d1b64b187690d61089fdaedd2fbb0cbe1/1750746974/hls_264_master.m3u8?t=1734600217)
+[MULLET MADJACK Trailer OUT NOW!!](https://store.steampowered.com/app/2111190/) | Creator / publisher
 
-[MULLET MADJACK trailer accolades](https://video.akamai.steamstatic.com/store_trailers/2111190/753833/0fb464105649ae93c688a70e2995688aaaa41199/1750746973/hls_264_master.m3u8?t=1726013577)
+[ULTRAKILL CROSSOVER trailer](https://store.steampowered.com/app/2111190/) | Creator / publisher
 
-[MULLET MAD JACK trailer](https://video.akamai.steamstatic.com/store_trailers/2111190/575047/870e8842f69511033ee941f8fcf920de165cb562/1750746966/hls_264_master.m3u8?t=1686607091)
+[MULLET MADJACK trailer accolades](https://store.steampowered.com/app/2111190/) | Creator / publisher
 
-[MULLET MAD JACK gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/2111190/574311/e59642138ff6343b26eb7019e27b86dd603e3993/1750760952/hls_264_master.m3u8?t=1686252457)
+[MULLET MAD JACK trailer](https://store.steampowered.com/app/2111190/) | Creator / publisher
+
+[MULLET MAD JACK gameplay trailer](https://store.steampowered.com/app/2111190/) | Creator / publisher
 
 ![MULLET MADJACK official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_b29d24d0e6947d7c9665a422196ddd53d38e613b.1920x1080.jpg?t=1787078659)
 

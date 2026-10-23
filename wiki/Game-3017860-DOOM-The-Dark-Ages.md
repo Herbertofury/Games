@@ -23,25 +23,27 @@ DOOM: The Dark Ages is the prequel to the critically acclaimed DOOM (2016) and D
 
 - [Steam: store](https://store.steampowered.com/app/3017860/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Revelations Trailer](https://video.akamai.steamstatic.com/store_trailers/3017860/1719368325/d3698c600d70bfb1ccc00054f681ac1c52a1da76/1780926238/hls_264_master.m3u8?t=1780927893)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Update 2 Trailer](https://video.akamai.steamstatic.com/store_trailers/3017860/1887810588/d4f35bb9492b43d897e8cb987c7893a0571be0f2/1754336852/hls_264_master.m3u8?t=1754593163)
+[Revelations Trailer](https://store.steampowered.com/app/3017860/) | Creator / publisher
 
-[Accolades Trailer](https://video.akamai.steamstatic.com/store_trailers/3017860/1777709634/e3e986d894e749e052531d184d6de468a5d35e53/1748584907/hls_264_master.m3u8?t=1747324264)
+[Update 2 Trailer](https://store.steampowered.com/app/3017860/) | Creator / publisher
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3017860/1768853770/2b6ad8e1a92a17da1e2a2900aef053ae14e73074/1748584906/hls_264_master.m3u8?t=1746799292)
+[Accolades Trailer](https://store.steampowered.com/app/3017860/) | Creator / publisher
 
-[Premium Edition Trailer EN](https://video.akamai.steamstatic.com/store_trailers/3017860/881223/d565a5ef481f1a75cdedef453ad8a5b1a8483c4a/1748584216/hls_264_master.m3u8?t=1745961914)
+[Launch Trailer](https://store.steampowered.com/app/3017860/) | Creator / publisher
 
-[Trailer 2 EN](https://video.akamai.steamstatic.com/store_trailers/3017860/874639/02d3a1162122a2692806591c234ddda793a91d4c/1748583880/hls_264_master.m3u8?t=1745254434)
+[Premium Edition Trailer EN](https://store.steampowered.com/app/3017860/) | Creator / publisher
 
-[Developer Direct EN](https://video.akamai.steamstatic.com/store_trailers/3017860/817483/fea60a243efb9229f554ef34ba69477d7ae0288f/1748583267/hls_264_master.m3u8?t=1737658116)
+[Trailer 2 EN](https://store.steampowered.com/app/3017860/) | Creator / publisher
 
-[Reveal Trailer EN](https://video.akamai.steamstatic.com/store_trailers/3017860/713072/039e636e97b16ac8b107c7579861e24e180d7960/1748583236/hls_264_master.m3u8?t=1718213268)
+[Developer Direct EN](https://store.steampowered.com/app/3017860/) | Creator / publisher
+
+[Reveal Trailer EN](https://store.steampowered.com/app/3017860/) | Creator / publisher
 
 ![DOOM: The Dark Ages official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/ss_ba66d42e3d1ea78e5b085682484210b390eb9ccc.1920x1080.jpg?t=1789406231)
 

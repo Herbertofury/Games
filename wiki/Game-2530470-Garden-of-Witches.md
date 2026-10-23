@@ -22,15 +22,15 @@ Garden of Witches is a cute roguelike action game full of danger. Help the prota
 
 - [Steam: store](https://store.steampowered.com/app/2530470/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Full Release Trailer 1.0.0_english](https://video.akamai.steamstatic.com/store_trailers/2530470/865765635/a7440952ee9fc6cc80fc4d4a000d64ae29e63645/1787905944/hls_264_master.m3u8?t=1787907470)
+[Full Release Trailer 1.0.0_english](https://store.steampowered.com/app/2530470/) | Creator / publisher
 
-[MainTrailer_0.9.2_english](https://video.akamai.steamstatic.com/store_trailers/2530470/1513397386/723f0b4998492d768abe2021bbd4d8d131fd99be/1773995862/hls_264_master.m3u8?t=1787907476)
+[MainTrailer_0.9.2_english](https://store.steampowered.com/app/2530470/) | Creator / publisher
 
-[GOW_25.08.20_english](https://video.akamai.steamstatic.com/store_trailers/2530470/1662523663/d3c8c5cb7eaeabbaed1d6a026c061f016ecee8f2/1774840168/hls_264_master.m3u8?t=1774840690)
+[GOW_25.08.20_english](https://store.steampowered.com/app/2530470/) | Creator / publisher
 
 ![Garden of Witches official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/f5f8b303cae3ac4c9f91e1b59f8a9c8787745641/ss_f5f8b303cae3ac4c9f91e1b59f8a9c8787745641.1920x1080.jpg?t=1792046430)
 

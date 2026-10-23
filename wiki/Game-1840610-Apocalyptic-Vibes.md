@@ -22,14 +22,17 @@ A vintage immersive first-person shooter on GZDoom. With an atmosphere of a cold
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1840610/)
+- [itch.io - demo: demo](https://amanito-computing.itch.io/apocalyptic-vibes) | Creator listing exposes demo files, not the full commercial release: AV Demo.zip 306 MB
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Ghosts](https://video.akamai.steamstatic.com/store_trailers/1840610/535341/11267fe5099d4706c464dfced61da4398bcd8421/1751037509/hls_264_master.m3u8?t=1676716070)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Path](https://video.akamai.steamstatic.com/store_trailers/1840610/448489/b98224b3eb29d3202554162c50b1fb1056e71691/1751037508/hls_264_master.m3u8?t=1675348814)
+[Ghosts](https://store.steampowered.com/app/1840610/) | Creator / publisher
+
+[Path](https://store.steampowered.com/app/1840610/) | Creator / publisher
 
 ![Apocalyptic Vibes official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840610/ss_298b1e6143449a38e449a03d85cb53911f8502eb.1920x1080.jpg?t=1713612398)
 

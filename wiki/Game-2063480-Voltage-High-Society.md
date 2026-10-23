@@ -23,13 +23,15 @@ First-person horror metroidvania about fisting your way through a prison island 
 
 - [Steam: store](https://store.steampowered.com/app/2063480/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[VHS Teaser](https://video.akamai.steamstatic.com/store_trailers/2063480/95201885/3568b83a97b0c8c9447706cf075527ee5cd170b6/1769723026/hls_264_master.m3u8?t=1769723242)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[VHS Gameplay](https://video.akamai.steamstatic.com/store_trailers/2063480/465917121/fe201838464593998ae35ecfdf7b6e3d820faf35/1758892896/hls_264_master.m3u8?t=1769078000)
+[VHS Teaser](https://store.steampowered.com/app/2063480/) | Creator / publisher
+
+[VHS Gameplay](https://store.steampowered.com/app/2063480/) | Creator / publisher
 
 ![Voltage High Society official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2063480/820e8d4ae2960a013ec41f2992021ed1ce2f71eb/ss_820e8d4ae2960a013ec41f2992021ed1ce2f71eb.1920x1080.jpg?t=1788781781)
 

@@ -2,7 +2,7 @@
   "checkedAt": "2026-10-23T07:14:49.517424+00:00",
   "gamesChecked": 126,
   "recordsWithAlternates": 62,
-  "confirmedLinks": 118,
+  "confirmedLinks": 74,
   "pendingCandidates": 146,
   "probes": [
     {
@@ -23,5 +23,8 @@
       "provider": "itch.io",
       "searchAvailable": true
     }
-  ]
+  ],
+  "rawDiscoveredLinks": 118,
+  "normalization": "Navigation tabs and related-game recommendations removed; creator demo editions reclassified from full-game stores.",
+  "normalizedAt": "2026-10-23T07:29:49.621750+00:00"
 }

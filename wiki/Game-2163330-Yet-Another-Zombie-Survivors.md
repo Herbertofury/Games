@@ -22,13 +22,13 @@ The Horde is coming, but you're ready to fight it! Assemble your squad, choose t
 
 - [Steam: store](https://store.steampowered.com/app/2163330/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Animated Trailer](https://video.akamai.steamstatic.com/store_trailers/2163330/878656946/5810b69743ed98f1e5536b102afbf77d7eb3824e/1787147795/hls_264_master.m3u8?t=1787222296)
+[Animated Trailer](https://store.steampowered.com/app/2163330/) | Creator / publisher
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2163330/468157948/b16e4e3a9016887d50eef0b513bd012bbeb897d7/1787148246/hls_264_master.m3u8?t=1787858149)
+[Launch Trailer](https://store.steampowered.com/app/2163330/) | Creator / publisher
 
 ![Yet Another Zombie Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/04aeb22247bda763fdb827db21b853164c0fa604/ss_04aeb22247bda763fdb827db21b853164c0fa604.1920x1080.jpg?t=1792445075)
 

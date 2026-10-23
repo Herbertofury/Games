@@ -26,15 +26,17 @@ A detailed tactical-combat and exploration pick built on GZDoom. Its Early Acces
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1592280/)
-- [Patreon: support](https://www.patreon.com/PlaySelaco)
+- [Patreon: support](https://www.patreon.com/PlaySelaco) | Creator support linked from the game website supplied by Steam
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Selaco - Early Access Announcement trailer](https://video.akamai.steamstatic.com/store_trailers/1592280/612842/d8823af8617613c21505f62594b99723fa0cbd0a/1750708035/hls_264_master.m3u8?t=1723386627)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Selaco - Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1592280/738823/18e2a6adc1d07fb5689078f84ec464a7def91a12/1750708078/hls_264_master.m3u8?t=1723386622)
+[Selaco - Early Access Announcement trailer](https://store.steampowered.com/app/1592280/) | Creator / publisher
+
+[Selaco - Launch Trailer](https://store.steampowered.com/app/1592280/) | Creator / publisher
 
 ![Selaco official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_515b646ca4fa4d49f2ca3ca428256b0839a869fe.1920x1080.jpg?t=1771520922)
 

@@ -22,13 +22,13 @@ In Sea of Survivors, you can sail your ship in any direction but you can never s
 
 - [Steam: store](https://store.steampowered.com/app/2347940/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Sea of Survivors - The Shifting Isles](https://video.akamai.steamstatic.com/store_trailers/2347940/775351/e999e207e50def473e8c59951848be44d45d35c5/1750909683/hls_264_master.m3u8?t=1730005356)
+[Sea of Survivors - The Shifting Isles](https://store.steampowered.com/app/2347940/) | Creator / publisher
 
-[](https://video.akamai.steamstatic.com/store_trailers/2347940/556029/20c2b2cc3c203af9d698c7f49851b3e371e5162f/1750909679/hls_264_master.m3u8?t=1696852776)
+[](https://store.steampowered.com/app/2347940/) | Creator / publisher
 
 ![Sea of Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347940/ss_04bef178b1dfc86aa575315e1b0e43f4f050e3a4.1920x1080.jpg?t=1759119813)
 

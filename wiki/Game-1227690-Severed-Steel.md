@@ -22,12 +22,16 @@ An intense single-player FPS featuring a stylish movement system, completely des
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1227690/)
+- [GOG: store](https://www.gog.com/en/game/severed_steel) | Exact title in GOG official catalog: Severed Steel
+- [Epic Games: store](https://store.epicgames.com/tr/p/severed-steel) | Exact official Epic Games product listing
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Severed Steel \| Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1227690/599213/c4a520ef0ff965e91853e04534ef7f02a7dc7314/1750645333/hls_264_master.m3u8?t=1693240056)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Severed Steel \| Launch Trailer](https://store.steampowered.com/app/1227690/) | Creator / publisher
 
 ![Severed Steel official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/ss_ec0bde83a5886d65102556b8943abbf7a714bf53.1920x1080.jpg?t=1723920018)
 

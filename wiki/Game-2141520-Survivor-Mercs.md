@@ -22,11 +22,11 @@ Purge the billionaires' robot army with your Merc squad! Fast-paced twin-stick a
 
 - [Steam: store](https://store.steampowered.com/app/2141520/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Survivor Mercs V1.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/2141520/630502196/3ca68a8bd76054228626f4e1cfeb9e07ca460e98/1777318019/hls_264_master.m3u8?t=1777567958)
+[Survivor Mercs V1.0 Trailer](https://store.steampowered.com/app/2141520/) | Creator / publisher
 
 ![Survivor Mercs official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141520/46c90a00a8a134c503744a45cfefa183e3eeb3ef/ss_46c90a00a8a134c503744a45cfefa183e3eeb3ef.1920x1080.jpg?t=1785195652)
 

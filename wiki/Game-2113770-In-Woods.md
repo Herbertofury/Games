@@ -22,11 +22,11 @@ In Woods is a roguelike survival game set in a forest. Fight monsters, level up,
 
 - [Steam: store](https://store.steampowered.com/app/2113770/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[English Trailer](https://video.akamai.steamstatic.com/store_trailers/2113770/1027296936/b06d5c5b68cfb44b84e44b185d3923aa63893e63/1755775636/hls_264_master.m3u8?t=1757409924)
+[English Trailer](https://store.steampowered.com/app/2113770/) | Creator / publisher
 
 ![In Woods official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/a2c183cb0ac3b46ef1ba23199cee5f38dc652c91/ss_a2c183cb0ac3b46ef1ba23199cee5f38dc652c91.1920x1080.jpg?t=1791236055)
 

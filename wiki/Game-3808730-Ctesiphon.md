@@ -26,15 +26,17 @@ A deeply under-the-radar custom-engine FPS with an older-school sensibility and 
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/3808730/)
-- [itch.io: store](https://stomygame.itch.io/ctesiphon)
+- [itch.io: store](https://stomygame.itch.io/ctesiphon) | Creator listing shows Buy Now and full game files: Ctesiphon-v1.05b.zip 240 MB; Ctesiphon-v1.04e.zip (Previous Stable Version) 240 MB
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Brutal Indies Unleashed Showcase](https://video.akamai.steamstatic.com/store_trailers/3808730/503723797/c448b03c7e0870356ba5fdd0f95aa95e7890bb92/1757743049/hls_264_master.m3u8?t=1757745251)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Early Gameplay](https://video.akamai.steamstatic.com/store_trailers/3808730/1070706658/55693bc3524e2987ba972f1a9735d42e4bece284/1750368675/hls_264_master.m3u8?t=1749657217)
+[Brutal Indies Unleashed Showcase](https://store.steampowered.com/app/3808730/) | Creator / publisher
+
+[Early Gameplay](https://store.steampowered.com/app/3808730/) | Creator / publisher
 
 ![Ctesiphon official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808730/6667fdcb8f9dc249724f88e19415745907793926/ss_6667fdcb8f9dc249724f88e19415745907793926.1920x1080.jpg?t=1790779721)
 

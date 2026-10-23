@@ -22,13 +22,13 @@ Rhythm Witch: Beat Death is a game that melds rhythm and survival. Attack to the
 
 - [Steam: store](https://store.steampowered.com/app/2951580/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Rhythm Witch:Beat Death Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2951580/2004870024/b18fe1f6f8030b33859c6c2f4fd0af39af7b6ff4/1750952508/hls_264_master.m3u8?t=1746751922)
+[Rhythm Witch:Beat Death Release Trailer](https://store.steampowered.com/app/2951580/) | Creator / publisher
 
-[Rhythm Witch:Beat Death Trailer](https://video.akamai.steamstatic.com/store_trailers/2951580/693448/8fb1065b86f4d7a0ec520ad4804f0400e02f5d65/1750952503/hls_264_master.m3u8?t=1732483040)
+[Rhythm Witch:Beat Death Trailer](https://store.steampowered.com/app/2951580/) | Creator / publisher
 
 ![Rhythm Witch: Beat Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/7d380db905c8e635f9264b567af5b78aa9bfc75e/ss_7d380db905c8e635f9264b567af5b78aa9bfc75e.1920x1080.jpg?t=1767068525)
 

@@ -26,22 +26,24 @@ A grimy, small-audience horror FPS with a free creator demo route and a Septembe
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/3316470/)
-- [itch.io: store](https://crowhillstudios.itch.io/dead-trash)
+- [itch.io: store](https://crowhillstudios.itch.io/dead-trash) | Creator listing shows Buy Now and full game files: poster1.png 23 MB; poster2.png 22 MB
 - [IndieDB: project](https://www.indiedb.com/games/dead-trash)
+
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
 ### Latest verified update
 
 Two new levels and grenades were announced in the creator devlog on September 6, 2026.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[HarborUpdate](https://video.akamai.steamstatic.com/store_trailers/3316470/467439192/d2843e72f19e8e6867bef76a8646968bf5c8c2dd/1787220848/hls_264_master.m3u8?t=1787223040)
+[HarborUpdate](https://store.steampowered.com/app/3316470/) | Creator / publisher
 
-[Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3316470/826485/291d6c2a1c3f75329b8c9f1d624abd61716837ab/1750978372/hls_264_master.m3u8?t=1758214756)
+[Release Date Trailer](https://store.steampowered.com/app/3316470/) | Creator / publisher
 
-[Reveal Teaser](https://video.akamai.steamstatic.com/store_trailers/3316470/781328/b57e6fe3c43d4cc29912bba8eca8c08f8099400f/1751491010/hls_264_master.m3u8?t=1758214758)
+[Reveal Teaser](https://store.steampowered.com/app/3316470/) | Creator / publisher
 
 ![DEAD TRASH official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_1d2ad81aa4c42880e55b888ff03b883b004cbe0a.1920x1080.jpg?t=1787223041)
 

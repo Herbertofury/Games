@@ -22,13 +22,13 @@ Become a martial arts master in this survivor-like roguelite inspired by action 
 
 - [Steam: store](https://store.steampowered.com/app/3027930/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3027930/778883/2ea517da8eb8e1f31e7525a037467d7d83654b00/1750823058/hls_264_master.m3u8?t=1736500546)
+[Launch Trailer](https://store.steampowered.com/app/3027930/) | Creator / publisher
 
-[Endless Mode Update](https://video.akamai.steamstatic.com/store_trailers/3027930/801770/56216c3a3148b276b6d4c5c4d43464f3c545e400/1750823059/hls_264_master.m3u8?t=1736500551)
+[Endless Mode Update](https://store.steampowered.com/app/3027930/) | Creator / publisher
 
 ![Karate Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_7e0f0b5e80bbeb326b96467ca8700d20bdfcc530.1920x1080.jpg?t=1780556996)
 

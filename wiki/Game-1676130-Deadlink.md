@@ -22,22 +22,25 @@ Get ready to put a sizable dent in the profits of megacorporations in Deadlink, 
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1676130/)
+- [GOG: store](https://www.gog.com/en/game/deadlink) | Exact title in GOG official catalog: Deadlink
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Release trailer](https://video.akamai.steamstatic.com/store_trailers/1676130/591315/8dacafa74faf587a6238bedd0ab3a359c2e7046e/1750723152/hls_264_master.m3u8?t=1690472847)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release date](https://video.akamai.steamstatic.com/store_trailers/1676130/580853/1eda659894a68a7cd16130fba3f2d06090b79eae/1750723145/hls_264_master.m3u8?t=1687431068)
+[Release trailer](https://store.steampowered.com/app/1676130/) | Creator / publisher
 
-[Lazerpunk Trailer](https://video.akamai.steamstatic.com/store_trailers/1676130/505972/19e1199d2aa66774a12b0b9b324a8472874c37e2/1750722977/hls_264_master.m3u8?t=1682405289)
+[Release date](https://store.steampowered.com/app/1676130/) | Creator / publisher
 
-[Interport update](https://video.akamai.steamstatic.com/store_trailers/1676130/549892/13a775e14660096c0fa665f2560849fb6daf292d/1750723093/hls_264_master.m3u8?t=1679303611)
+[Lazerpunk Trailer](https://store.steampowered.com/app/1676130/) | Creator / publisher
 
-[Engineer Trailer](https://video.akamai.steamstatic.com/store_trailers/1676130/524491/a6a16361ba7f69a07abaff8995e41ac9ac1a761c/1750723058/hls_264_master.m3u8?t=1682405275)
+[Interport update](https://store.steampowered.com/app/1676130/) | Creator / publisher
 
-[EA Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1676130/505943/7f61ab728dba4eaf970cb652f4d70bfed190be08/1750722925/hls_264_master.m3u8?t=1682405282)
+[Engineer Trailer](https://store.steampowered.com/app/1676130/) | Creator / publisher
+
+[EA Release Trailer](https://store.steampowered.com/app/1676130/) | Creator / publisher
 
 ![Deadlink official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676130/ss_24f7efe20f0a37a4933f9e1bb46b2548099a43ca.1920x1080.jpg?t=1727716437)
 

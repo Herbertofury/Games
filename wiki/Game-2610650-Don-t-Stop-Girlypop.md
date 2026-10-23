@@ -23,13 +23,15 @@ Spread the love! Don’t Stop, Girlypop! is a Y2K arena movement shooter where s
 
 - [Steam: store](https://store.steampowered.com/app/2610650/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2610650/1090226085/c34be6ad8c5629e388523c3e3b58d456daf4fd6e/1772457368/hls_264_master.m3u8?t=1772458841)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2610650/831852/16dfec89e38ed3c063143021fdce9286f3f4358b/1750936178/hls_264_master.m3u8?t=1740733888)
+[Launch Trailer](https://store.steampowered.com/app/2610650/) | Creator / publisher
+
+[Gameplay Trailer](https://store.steampowered.com/app/2610650/) | Creator / publisher
 
 ![Don't Stop, Girlypop! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2610650/20c003b4ee95e5d13aa14dd1808b1aa5a7e64612/ss_20c003b4ee95e5d13aa14dd1808b1aa5a7e64612.1920x1080.jpg?t=1789141970)
 

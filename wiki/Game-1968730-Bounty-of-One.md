@@ -22,11 +22,11 @@ Fallen hero of the Wild West, you’re wanted and in disgrace! Grab your guns, s
 
 - [Steam: store](https://store.steampowered.com/app/1968730/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Bounty of One - New Trailer](https://video.akamai.steamstatic.com/store_trailers/1968730/601911/0c77e079ce75eee28209e6b4b7561d4cddf97d12/1750743092/hls_264_master.m3u8?t=1769180198)
+[Bounty of One - New Trailer](https://store.steampowered.com/app/1968730/) | Creator / publisher
 
 ![Bounty of One official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1968730/ss_1647fbda9a2b10c2490d7eb9a6c0c3d8449b2873.1920x1080.jpg?t=1771497196)
 

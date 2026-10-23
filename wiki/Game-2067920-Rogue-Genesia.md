@@ -22,11 +22,11 @@ Walk upon a new world and slay foes endangering it. Rogue : Genesia is an action
 
 - [Steam: store](https://store.steampowered.com/app/2067920/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Trailer](https://video.akamai.steamstatic.com/store_trailers/2067920/649931/6b7d66b7eae30af0cbf20b505b976887a5f4fcbe/1750745837/hls_264_master.m3u8?t=1723016634)
+[Trailer](https://store.steampowered.com/app/2067920/) | Creator / publisher
 
 ![Rogue: Genesia official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/80b8630d97a4b905c8b0206d7404a724495ff273/ss_80b8630d97a4b905c8b0206d7404a724495ff273.1920x1080.jpg?t=1791922734)
 

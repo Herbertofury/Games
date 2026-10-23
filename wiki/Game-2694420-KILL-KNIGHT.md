@@ -22,19 +22,19 @@ KILL KNIGHT is an ultra-responsive arcade-inspired isometric action shooter. Con
 
 - [Steam: store](https://store.steampowered.com/app/2694420/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[KK Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2694420/765126/1173e6c08b64bdb2e7d6eaa79006082bee35dfa0/1750818795/hls_264_master.m3u8?t=1727881224)
+[KK Launch Trailer](https://store.steampowered.com/app/2694420/) | Creator / publisher
 
-[Accolades Trailer](https://video.akamai.steamstatic.com/store_trailers/2694420/802624/b6ec1c2373418bff6cc3bd524cede4a68043054b/1750818796/hls_264_master.m3u8?t=1734655918)
+[Accolades Trailer](https://store.steampowered.com/app/2694420/) | Creator / publisher
 
-[KK Date Announce](https://video.akamai.steamstatic.com/store_trailers/2694420/744574/26f93015cfc7286d82c170d3f2ca319e37c8458d/1750820882/hls_264_master.m3u8?t=1724377898)
+[KK Date Announce](https://store.steampowered.com/app/2694420/) | Creator / publisher
 
-[KK Announce Trailer](https://video.akamai.steamstatic.com/store_trailers/2694420/685091/2f5804c468eaed01f1501765c1cd3e30b36f6e81/1750818789/hls_264_master.m3u8?t=1712769444)
+[KK Announce Trailer](https://store.steampowered.com/app/2694420/) | Creator / publisher
 
-[KK Demo Next Fest Trailer](https://video.akamai.steamstatic.com/store_trailers/2694420/706760/d7af8de99ed8925fd161036ec0683c56a3f37b3d/1750818791/hls_264_master.m3u8?t=1717029190)
+[KK Demo Next Fest Trailer](https://store.steampowered.com/app/2694420/) | Creator / publisher
 
 ![KILL KNIGHT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694420/ss_775410fac5ce41bfe0245d89129db0155f0e3999.1920x1080.jpg?t=1791930627)
 

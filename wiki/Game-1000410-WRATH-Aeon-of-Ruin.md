@@ -23,11 +23,13 @@ Blast, slice and shred through your enemies in this hardcore FPS inspired by the
 
 - [Steam: store](https://store.steampowered.com/app/1000410/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[WRATH Full launch trailer](https://video.akamai.steamstatic.com/store_trailers/1000410/667853/de94fba23e66f100d3de7e5977af86b74991b296/1751174524/hls_264_master.m3u8?t=1709061802)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[WRATH Full launch trailer](https://store.steampowered.com/app/1000410/) | Creator / publisher
 
 ![WRATH: Aeon of Ruin official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000410/ss_120dad19c104c03e907de65631c07e93c0a33f57.1920x1080.jpg?t=1760693677)
 

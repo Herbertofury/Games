@@ -24,11 +24,11 @@ Decimate thousands of demons on All Hallows' Eve to protect your infernal home. 
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Main Trailer](https://video.akamai.steamstatic.com/store_trailers/2491670/608625/612d5800a76d196125fd25fd0b2c2d18bbf2efb2/1750924522/hls_264_master.m3u8?t=1695221029)
+[Main Trailer](https://store.steampowered.com/app/2491670/) | Creator / publisher
 
 ![Wanted Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2491670/ss_748f26180d1ee969de642d7437baa7214b363036.1920x1080.jpg?t=1780877244)
 

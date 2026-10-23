@@ -22,13 +22,13 @@ Face the Lords of the Void and their endless minions, collect their Soulstones a
 
 - [Steam: store](https://store.steampowered.com/app/2066020/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release trailer](https://video.akamai.steamstatic.com/store_trailers/2066020/1251042005/75aabaf128455da953155cbf7f4321d04afa858a/1750111517/hls_264_master.m3u8?t=1750179199)
+[Release trailer](https://store.steampowered.com/app/2066020/) | Creator / publisher
 
-[Announcement trailer](https://video.akamai.steamstatic.com/store_trailers/2066020/857656/db089c16e4d2b75eb070e7e26d57d3e18154a191/1750316241/hls_264_master.m3u8?t=1750179202)
+[Announcement trailer](https://store.steampowered.com/app/2066020/) | Creator / publisher
 
 ![Soulstone Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066020/cb5ddb50488c2444357758cada3e463f32dade2a/ss_cb5ddb50488c2444357758cada3e463f32dade2a.1920x1080.jpg?t=1789657097)
 

@@ -23,11 +23,13 @@ Arthurian Legends is a medieval first person action game set in the land of Albi
 
 - [Steam: store](https://store.steampowered.com/app/658890/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Coming Soon](https://video.akamai.steamstatic.com/store_trailers/658890/354108/4045fb930c17cb6ff6dc6d841d3c277c9e455420/1751125829/hls_264_master.m3u8?t=1630635006)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Coming Soon](https://store.steampowered.com/app/658890/) | Creator / publisher
 
 ![Arthurian Legends official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/658890/ss_b58930a15c89f5e7b3970129932b812a9f11df83.1920x1080.jpg?t=1633370174)
 

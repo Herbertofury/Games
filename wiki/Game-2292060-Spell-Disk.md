@@ -22,15 +22,15 @@ Build unique synergy spell combos to destroy the hordes of monsters and bosses i
 
 - [Steam: store](https://store.steampowered.com/app/2292060/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Full Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2292060/666131/ac9a39ea69ef9cce3d786aedc5e5eb6bac1e2992/1750980467/hls_264_master.m3u8?t=1708728940)
+[Full Release Trailer](https://store.steampowered.com/app/2292060/) | Creator / publisher
 
-[Mechanic Demonstration](https://video.akamai.steamstatic.com/store_trailers/2292060/556335/58f4e451b76e8c628b97005efd4bddb4398d0cd2/1750980466/hls_264_master.m3u8?t=1680989619)
+[Mechanic Demonstration](https://store.steampowered.com/app/2292060/) | Creator / publisher
 
-[Survivor Mode Trailer](https://video.akamai.steamstatic.com/store_trailers/2292060/605588/3b42dc5f89357e0d7930496a866c37113d7886f0/1750980467/hls_264_master.m3u8?t=1694135629)
+[Survivor Mode Trailer](https://store.steampowered.com/app/2292060/) | Creator / publisher
 
 ![Spell Disk official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2292060/ss_4d9beeb8e55b9b5527936adf34cb509716f0ac34.1920x1080.jpg?t=1784582888)
 

@@ -36,9 +36,13 @@ Requires Quake game data and a compatible modern Quake source port. Follow the c
 
 The official Tremor file was updated October 18, 2026.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Tremor - episode 1 community playthrough](https://www.youtube.com/watch?v=pNJt3fR97f0) | Community playthrough linked in the official Slipseer release discussion
+
+[Source and provenance](https://www.slipseer.com/index.php?threads/tremor.992/page-4)
 
 ![Tremor: An Alternate Version of Quake - creator-published image](https://media.moddb.com/images/mods/1/67/66269/e1m4_2025-04-14_21-30-03.png)
 
@@ -56,5 +60,6 @@ The interactive library plays compatible trailers in-page. GitHub wiki links ope
 
 - [Official media](https://www.moddb.com/mods/tremor-an-alternate-version-of-quake) · checked 2026-10-23T07:04:56.149669+00:00
 - [Latest creator file](https://www.moddb.com/mods/tremor-an-alternate-version-of-quake/downloads/tremor1) · checked 2026-10-23T06:35:12.994433+00:00
+- [Video provenance](https://www.slipseer.com/index.php?threads/tremor.992/page-4) · checked 2026-10-23T07:29:49.621750+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

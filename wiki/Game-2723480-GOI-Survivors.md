@@ -24,15 +24,15 @@ Humans, dwarves, and elves exploring diverse landscapes and dungeons, they combi
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Unlock BoCa mode](https://video.akamai.steamstatic.com/store_trailers/2723480/644279/47f13608059751242c04254b1a26b3fb6e2237bc/1750894298/hls_264_master.m3u8?t=1703621447)
+[Unlock BoCa mode](https://store.steampowered.com/app/2723480/) | Creator / publisher
 
-[ORCS are here!](https://video.akamai.steamstatic.com/store_trailers/2723480/649178/01f4e126210e2b4ba0ace46513741198963fabfa/1750894300/hls_264_master.m3u8?t=1705051971)
+[ORCS are here!](https://store.steampowered.com/app/2723480/) | Creator / publisher
 
-[PreRelease Trailer](https://video.akamai.steamstatic.com/store_trailers/2723480/636208/f84bee333b7e34fd344cc2ee7906370df1342878/1750894297/hls_264_master.m3u8?t=1702557047)
+[PreRelease Trailer](https://store.steampowered.com/app/2723480/) | Creator / publisher
 
 ![GOI Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723480/ss_51008d58bbea5f91e4e6d32ce0ca68848bcf7163.1920x1080.jpg?t=1722689634)
 

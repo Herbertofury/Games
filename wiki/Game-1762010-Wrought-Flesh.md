@@ -23,13 +23,15 @@ Rip out organs and equip them in your own body. Fight biopunk monsters and drugg
 
 - [Steam: store](https://store.steampowered.com/app/1762010/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[main trailer](https://video.akamai.steamstatic.com/store_trailers/1762010/413226/c9ba2d66828174c99a6be5df9185efdbea89307d/1751028308/hls_264_master.m3u8?t=1635616034)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[oasis trailer](https://video.akamai.steamstatic.com/store_trailers/1762010/477014/243aa621a7f6df33a4d683807ff6dfe38dedf567/1751028308/hls_264_master.m3u8?t=1656981374)
+[main trailer](https://store.steampowered.com/app/1762010/) | Creator / publisher
+
+[oasis trailer](https://store.steampowered.com/app/1762010/) | Creator / publisher
 
 ![Wrought Flesh official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1762010/ss_88bc6bcc2ade913a051603da56dd2983d041ac87.1920x1080.jpg?t=1768598991)
 

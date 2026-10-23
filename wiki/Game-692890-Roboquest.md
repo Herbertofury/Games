@@ -22,12 +22,15 @@ Roboquest is a fast FPS Roguelite in a scorched futureworld. You're a rebooted G
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/692890/)
+- [GOG: store](https://www.gog.com/en/game/roboquest) | Exact title in GOG official catalog: Roboquest
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Roboquest Release Trailer](https://video.akamai.steamstatic.com/store_trailers/692890/625583/a70ec35f7866ac38c1126afdb5753289c8204c47/1750571617/hls_264_master.m3u8?t=1699363950)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Roboquest Release Trailer](https://store.steampowered.com/app/692890/) | Creator / publisher
 
 ![Roboquest official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/ss_0b34034d8b95672f3b7a61a7e96b1050a750539a.1920x1080.jpg?t=1780581844)
 

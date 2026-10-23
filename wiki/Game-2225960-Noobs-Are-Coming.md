@@ -22,13 +22,13 @@ YOU ARE THE FINAL BOSS. Brutal synergy arena roguelike. Pick your Final Boss cha
 
 - [Steam: store](https://store.steampowered.com/app/2225960/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2225960/1869444252/f095612844b1b638a5a5613915f6576d8363eb05/1764251182/hls_264_master.m3u8?t=1764252102)
+[1.0 Launch Trailer](https://store.steampowered.com/app/2225960/) | Creator / publisher
 
-[1.0 Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2225960/33369985/38af6b24a270981ea196bbfb4c7a2faac7c83fef/1764237925/hls_264_master.m3u8?t=1764252104)
+[1.0 Gameplay Trailer](https://store.steampowered.com/app/2225960/) | Creator / publisher
 
 ![Noobs Are Coming official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225960/e12698442607bb12e91f1ab6f2293f83b1e74a20/ss_e12698442607bb12e91f1ab6f2293f83b1e74a20.1920x1080.jpg?t=1764945460)
 

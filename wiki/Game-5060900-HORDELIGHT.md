@@ -24,13 +24,13 @@ Horde-survival roguelite: auto-firing weapons, screens full of enemies, one ligh
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[HORDELIGHT — Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/5060900/1661919814/37cf5e735daa1bb65fcbc20800788e19cbc5ea4d/1792234440/hls_264_master.m3u8?t=1792236355)
+[HORDELIGHT — Gameplay Trailer](https://store.steampowered.com/app/5060900/) | Creator / publisher
 
-[HORDELIGHT — Story Trailer](https://video.akamai.steamstatic.com/store_trailers/5060900/164042181/2817b4170969cbdb24d95edef315ee8685a3ee2b/1785929653/hls_264_master.m3u8?t=1786609504)
+[HORDELIGHT — Story Trailer](https://store.steampowered.com/app/5060900/) | Creator / publisher
 
 ![HORDELIGHT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5060900/060dd361850d4250d96710edfdc627160f2109d2/ss_060dd361850d4250d96710edfdc627160f2109d2.1920x1080.jpg?t=1792236356)
 

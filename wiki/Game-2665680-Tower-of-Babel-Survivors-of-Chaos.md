@@ -22,13 +22,13 @@ Bullet Heaven x Endless Loot! Create Your Own Build in this Roguelite Action RPG
 
 - [Steam: store](https://store.steampowered.com/app/2665680/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Official Trailer](https://video.akamai.steamstatic.com/store_trailers/2665680/447772251/c80b80d4851cc6715d4627d6f2b5a7c730a6e6f2/1779731226/hls_264_master.m3u8?t=1780160303)
+[Official Trailer](https://store.steampowered.com/app/2665680/) | Creator / publisher
 
-[Tower of Babel](https://video.akamai.steamstatic.com/store_trailers/2665680/739170/ca9b4a3d6d4c0e607eccc269dcc0b87202c9b5a4/1750818130/hls_264_master.m3u8?t=1724207154)
+[Tower of Babel](https://store.steampowered.com/app/2665680/) | Creator / publisher
 
 ![Tower of Babel: Survivors of Chaos official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2665680/ss_82a182cb0cf3917f880cbfc45b28e376438ec545.1920x1080.jpg?t=1791551869)
 

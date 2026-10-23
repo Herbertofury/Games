@@ -23,17 +23,19 @@ Luna Abyss is a single player story driven action-adventure with fluid platformi
 
 - [Steam: store](https://store.steampowered.com/app/1933000/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1933000/164936260/f73b418f54d739b2f4814dbffccc7dee3cac294d/1779199314/hls_264_master.m3u8?t=1779374989)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Date Trailer ](https://video.akamai.steamstatic.com/store_trailers/1933000/225987602/da3d53860d461e7bce5867c1f9944949b60e5198/1776695831/hls_264_master.m3u8?t=1776975075)
+[Launch Trailer](https://store.steampowered.com/app/1933000/) | Creator / publisher
 
-[Next Fest Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/1933000/411904573/8cf96ec1a5caa7c766df4013701fbbc21a9c6841/1771502614/hls_264_master.m3u8?t=1771525853)
+[Release Date Trailer ](https://store.steampowered.com/app/1933000/) | Creator / publisher
 
-[The Eye Has Opened](https://video.akamai.steamstatic.com/store_trailers/1933000/63719426/53e5b06ac9827bc81bb3fb07954ad588d6366a84/1764682954/hls_264_master.m3u8?t=1764884179)
+[Next Fest Demo Trailer](https://store.steampowered.com/app/1933000/) | Creator / publisher
+
+[The Eye Has Opened](https://store.steampowered.com/app/1933000/) | Creator / publisher
 
 ![Luna Abyss official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933000/ss_bcd9fb4d562116ee1a09b896671a2ab111909196.1920x1080.jpg?t=1779870125)
 

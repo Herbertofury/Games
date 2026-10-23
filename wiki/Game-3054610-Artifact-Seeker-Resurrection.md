@@ -22,13 +22,13 @@ Artifact Seeker: Resurrection is a 3D Roguelike Survivor RPG game. Aurorium cont
 
 - [Steam: store](https://store.steampowered.com/app/3054610/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[pvz1](https://video.akamai.steamstatic.com/store_trailers/3054610/728175/981ca672c52311adfc3d8b1cf58cb1ff3fa4a9cb/1750823263/hls_264_master.m3u8?t=1721899609)
+[pvz1](https://store.steampowered.com/app/3054610/) | Creator / publisher
 
-[PV_1](https://video.akamai.steamstatic.com/store_trailers/3054610/713876/46ffc03a081bfb3cc8c9fb4851bf9caf3ff13363/1750823262/hls_264_master.m3u8?t=1721899613)
+[PV_1](https://store.steampowered.com/app/3054610/) | Creator / publisher
 
 ![Artifact Seeker: Resurrection official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_342ca723f10cb80baefa8f20ac8da9accf52a834.1920x1080.jpg?t=1792035520)
 

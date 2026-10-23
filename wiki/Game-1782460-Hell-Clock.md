@@ -22,23 +22,23 @@ Forge powerful builds with endless loot in this relentless combination of Roguel
 
 - [Steam: store](https://store.steampowered.com/app/1782460/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Journey of Miracles Update \| Dev Preview](https://video.akamai.steamstatic.com/store_trailers/1782460/1663801519/e64c2f45f227066313e6aaece9b79f8001130245/1791938136/hls_264_master.m3u8?t=1792000905)
+[Journey of Miracles Update \| Dev Preview](https://store.steampowered.com/app/1782460/) | Creator / publisher
 
-[Hell Clock: Cursed War \| Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1782460/2603790/2eb5d1f8aa77b8679f60e38fdbed31b6fc835329/1783545964/hls_264_master.m3u8?t=1783620119)
+[Hell Clock: Cursed War \| Launch Trailer](https://store.steampowered.com/app/1782460/) | Creator / publisher
 
-[Hell Clock: Cursed War \| Skills Trailer](https://video.akamai.steamstatic.com/store_trailers/1782460/309992970/326a69bee9da27019e6c1719e7c79e2a601e881c/1780588012/hls_264_master.m3u8?t=1780609289)
+[Hell Clock: Cursed War \| Skills Trailer](https://store.steampowered.com/app/1782460/) | Creator / publisher
 
-[Hell Clock: Cursed War \| Story Trailer](https://video.akamai.steamstatic.com/store_trailers/1782460/559059374/9a66d5d9ef4461b45c4d857eb62545998bc205eb/1779312058/hls_264_master.m3u8?t=1780588820)
+[Hell Clock: Cursed War \| Story Trailer](https://store.steampowered.com/app/1782460/) | Creator / publisher
 
-[Hell Clock Cursed War Expansion and Console Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/1782460/992907338/dbfa8c95fd6567b1e901fde1b7c161ae92cb018b/1776975616/hls_264_master.m3u8?t=1777065222)
+[Hell Clock Cursed War Expansion and Console Release Date Trailer](https://store.steampowered.com/app/1782460/) | Creator / publisher
 
-[Hell Clock Expo Update Movement Update Trailer](https://video.akamai.steamstatic.com/store_trailers/1782460/1289182915/7198603b6ba6b773a58496bdc3386475c3e8810b/1763596393/hls_264_master.m3u8?t=1763839785)
+[Hell Clock Expo Update Movement Update Trailer](https://store.steampowered.com/app/1782460/) | Creator / publisher
 
-[Hell Clock Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1782460/1621415786/b5465ff0c4c5c8f9819acd5436eec51c3354edf4/1753132293/hls_264_master.m3u8?t=1763839786)
+[Hell Clock Launch Trailer](https://store.steampowered.com/app/1782460/) | Creator / publisher
 
 ![Hell Clock official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782460/0b3a59ae110b949908ea5f13a9a3c41abc53aa3b/ss_0b3a59ae110b949908ea5f13a9a3c41abc53aa3b.1920x1080.jpg?t=1792677583)
 

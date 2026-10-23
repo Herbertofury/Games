@@ -27,13 +27,15 @@ An atmospheric occult FPS discovery with a strong identity; check its current Ea
 
 - [Steam: store](https://store.steampowered.com/app/1785940/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Gameplay](https://video.akamai.steamstatic.com/store_trailers/1785940/614363/28957b87dfc1aec69e7685549f4669776366772f/1750736258/hls_264_master.m3u8?t=1729895175)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[COVEN - Steam Q4 Trailer](https://video.akamai.steamstatic.com/store_trailers/1785940/540800/77e8a93b80db41cd518fe434ef494ba68ca8b23e/1750736257/hls_264_master.m3u8?t=1729895179)
+[Gameplay](https://store.steampowered.com/app/1785940/) | Creator / publisher
+
+[COVEN - Steam Q4 Trailer](https://store.steampowered.com/app/1785940/) | Creator / publisher
 
 ![COVEN official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1785940/ss_f5b6ac3a59308c1d77218a40b32d35db574c04f1.1920x1080.jpg?t=1791631991)
 

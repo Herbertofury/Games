@@ -24,11 +24,11 @@ Pixel Survivors: Defense is a roguelite tower defense game. Stand your ground as
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Official Trailer](https://video.akamai.steamstatic.com/store_trailers/3878090/360802352/b4cfcd248c12cb69d9891261aafe35e006fc63e1/1790597627/hls_264_master.m3u8?t=1790599151)
+[Official Trailer](https://store.steampowered.com/app/3878090/) | Creator / publisher
 
 ![Pixel Survivors: Defense official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878090/732bdecce36c24da906bd12e9b1ce2f322382e84/ss_732bdecce36c24da906bd12e9b1ce2f322382e84.1920x1080.jpg?t=1792079008)
 

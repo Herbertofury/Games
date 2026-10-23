@@ -22,13 +22,13 @@ Gear up for a battle through hell in this roguelite Bullet Heaven Arena Autoshoo
 
 - [Steam: store](https://store.steampowered.com/app/3100310/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Arms of God EA Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3100310/2111751812/506eacb1ef52efab1aac28ebf19165195b8a277e/1780476979/hls_264_master.m3u8?t=1780927154)
+[Arms of God EA Launch Trailer](https://store.steampowered.com/app/3100310/) | Creator / publisher
 
-[Arms of God Cinematic Trailer](https://video.akamai.steamstatic.com/store_trailers/3100310/300001774/a32bdb63df8dd356fa26f7ef06933b4d530431e6/1764851750/hls_264_master.m3u8?t=1764867958)
+[Arms of God Cinematic Trailer](https://store.steampowered.com/app/3100310/) | Creator / publisher
 
 ![Arms of God official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/53c59525ed213366fee6afb5335e497e4da364c9/ss_53c59525ed213366fee6afb5335e497e4da364c9.1920x1080.jpg?t=1789978211)
 

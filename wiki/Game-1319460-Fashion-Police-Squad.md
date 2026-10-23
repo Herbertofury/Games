@@ -23,13 +23,15 @@ Even at this moment, our fashionable city is under assault. Baggy pants, dull su
 
 - [Steam: store](https://store.steampowered.com/app/1319460/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1319460/487829/dcdfda661355136c4d50c80e7d81797b1a15a2c9/1751221367/hls_264_master.m3u8?t=1660574636)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/1319460/468052/0ea9a96a10d835428e4a3cce122183b5d2c27e01/1751221365/hls_264_master.m3u8?t=1654091568)
+[Launch Trailer](https://store.steampowered.com/app/1319460/) | Creator / publisher
+
+[Gameplay Trailer](https://store.steampowered.com/app/1319460/) | Creator / publisher
 
 ![Fashion Police Squad official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1319460/ss_d46ede0841cff582b52187f6e35de369532f88bc.1920x1080.jpg?t=1760086773)
 

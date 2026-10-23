@@ -23,13 +23,15 @@ Post Void is a hypnotic scramble of early first-person shooter design that value
 
 - [Steam: store](https://store.steampowered.com/app/1285670/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Post Void - Official Trailer](https://video.akamai.steamstatic.com/store_trailers/1285670/302930/d0c3ca20949a5d8aefbd6f04afdd0af055932d0e/1750665765/hls_264_master.m3u8?t=1596702161)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[POST VOID - Uncut Gameplay](https://video.akamai.steamstatic.com/store_trailers/1285670/327305/9da032bd966cb27b159cd2d105484ea6c47db1c9/1750665765/hls_264_master.m3u8?t=1605654379)
+[Post Void - Official Trailer](https://store.steampowered.com/app/1285670/) | Creator / publisher
+
+[POST VOID - Uncut Gameplay](https://store.steampowered.com/app/1285670/) | Creator / publisher
 
 ![Post Void official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285670/ss_6ef2a022f2f6114e4cfe539ab4a68b555af100e9.1920x1080.jpg?t=1754509045)
 

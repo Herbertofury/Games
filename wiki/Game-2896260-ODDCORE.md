@@ -27,17 +27,19 @@ A newer arena-focused prospect with a distinctive visual tone. Early Access is c
 
 - [Steam: store](https://store.steampowered.com/app/2896260/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[ODDCORE - Early Access 0.4 \| UNSTABLE HORDE](https://video.akamai.steamstatic.com/store_trailers/2896260/1646591255/7e0e4e8777f6af049d029ee90a7f6fd7fe791f67/1780180094/hls_264_master.m3u8?t=1781271047)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[ODDCORE - Early Access 0.5 \| Mall 33 Update](https://video.akamai.steamstatic.com/store_trailers/2896260/1345542227/94fdba808307dc46249d3b5f7859cdb22638c685/1789717614/hls_264_master.m3u8?t=1789743407)
+[ODDCORE - Early Access 0.4 \| UNSTABLE HORDE](https://store.steampowered.com/app/2896260/) | Creator / publisher
 
-[ODDCORE - Early Access 0.2 \| ODDMART Update](https://video.akamai.steamstatic.com/store_trailers/2896260/1279982232/b4bec76e7e52819898160a0ea19df1d7cf34208e/1773422644/hls_264_master.m3u8?t=1773429668)
+[ODDCORE - Early Access 0.5 \| Mall 33 Update](https://store.steampowered.com/app/2896260/) | Creator / publisher
 
-[ODDCORE - Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/2896260/284474982/be02f4f6aae2cc9ff619f548cf50a2aa713ab4f1/1765476865/hls_264_master.m3u8?t=1765840535)
+[ODDCORE - Early Access 0.2 \| ODDMART Update](https://store.steampowered.com/app/2896260/) | Creator / publisher
+
+[ODDCORE - Early Access Trailer](https://store.steampowered.com/app/2896260/) | Creator / publisher
 
 ![ODDCORE official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/918e251b573e9c48106a035e9f022bc302b996e5/ss_918e251b573e9c48106a035e9f022bc302b996e5.1920x1080.jpg?t=1789744063)
 

@@ -22,11 +22,11 @@ Embark on an epic saga in Asgard's Fall, a norse Survivors-like Roguelite. Fight
 
 - [Steam: store](https://store.steampowered.com/app/2780710/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0 Full Release](https://video.akamai.steamstatic.com/store_trailers/2780710/1011089604/6b9aa2fd07db40bc154c525af7b2e285b2f32d42/1788959140/hls_264_master.m3u8?t=1788959809)
+[1.0 Full Release](https://store.steampowered.com/app/2780710/) | Creator / publisher
 
 ![Asgard's Fall — Viking Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780710/160a688eda88743e5271eae87829c79eeec7bf57/ss_160a688eda88743e5271eae87829c79eeec7bf57.1920x1080.jpg?t=1792679720)
 

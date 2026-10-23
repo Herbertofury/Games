@@ -22,11 +22,11 @@ Hunt during the day, be hunted during the NIGHT! Scarlet Tower is a gothic horro
 
 - [Steam: store](https://store.steampowered.com/app/2181720/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Scarlet Tower Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2181720/643036/f548a58689810a41327069673a3fe99af551c16b/1751086474/hls_264_master.m3u8?t=1703196513)
+[Scarlet Tower Launch Trailer](https://store.steampowered.com/app/2181720/) | Creator / publisher
 
 ![Scarlet Tower official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_83c4d2774aae709717a9fc62e21fd5c77a1ea8cf.1920x1080.jpg?t=1778015205)
 

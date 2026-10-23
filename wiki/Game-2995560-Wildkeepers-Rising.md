@@ -22,15 +22,15 @@ Tame monsters! Slay waves of enemy hordes! Explore fantasy lands! Wildkeepers Ri
 
 - [Steam: store](https://store.steampowered.com/app/2995560/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2995560/631168314/4bb0e2f105a754db9dd246ee2a1ea2b2435e2a52/1760742064/hls_264_master.m3u8?t=1761225004)
+[Launch Trailer](https://store.steampowered.com/app/2995560/) | Creator / publisher
 
-[Gameplay Features](https://video.akamai.steamstatic.com/store_trailers/2995560/793720/69f71ad71860ba33f72d692ca596e00ec9721701/1750822727/hls_264_master.m3u8?t=1743459928)
+[Gameplay Features](https://store.steampowered.com/app/2995560/) | Creator / publisher
 
-[Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/2995560/831848/1b84d242e7c2811d1c0c41142d2286cdcbd569ea/1750822727/hls_264_master.m3u8?t=1760752822)
+[Early Access Trailer](https://store.steampowered.com/app/2995560/) | Creator / publisher
 
 ![Wildkeepers Rising official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995560/ss_05a99aaf86643c8a122a2d7909462e74407b01f3.1920x1080.jpg?t=1761225239)
 

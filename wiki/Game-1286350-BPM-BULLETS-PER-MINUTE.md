@@ -22,14 +22,17 @@ BPM is a rhythm-action FPS rogue-like where you must shoot, jump and dodge to th
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1286350/)
+- [GOG: store](https://www.gog.com/en/game/bpm_bullets_per_minute) | Game-specific official website link with matching destination title
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/1286350/282446/0dffd25e7312ca4041cc7a88fae6084ee54f1d87/1750666734/hls_264_master.m3u8?t=1588262796)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[BPM Overdrive Content Update](https://video.akamai.steamstatic.com/store_trailers/1286350/345855/6af3812fbb1d95af27de1e13ad2a9983d54b3a1d/1750666735/hls_264_master.m3u8?t=1612548443)
+[Announcement Trailer](https://store.steampowered.com/app/1286350/) | Creator / publisher
+
+[BPM Overdrive Content Update](https://store.steampowered.com/app/1286350/) | Creator / publisher
 
 ![BPM: BULLETS PER MINUTE official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_1ea80f173a9c2a7881d46a2a277f2839ce644193.1920x1080.jpg?t=1667228772)
 

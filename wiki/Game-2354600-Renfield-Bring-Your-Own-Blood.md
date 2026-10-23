@@ -22,17 +22,17 @@ Slash and survive a typical workday as Dracula's overworked and underappreciated
 
 - [Steam: store](https://store.steampowered.com/app/2354600/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2354600/609618/81be7ec3590dd2d02cc7fb06160c6d55f14b97e6/1750910456/hls_264_master.m3u8?t=1704737450)
+[1.0 Launch Trailer](https://store.steampowered.com/app/2354600/) | Creator / publisher
 
-[Content Update #2 Trailer](https://video.akamai.steamstatic.com/store_trailers/2354600/578315/72a18e164f9f210c89ce9808b6b283a47995006b/1750910455/hls_264_master.m3u8?t=1686841153)
+[Content Update #2 Trailer](https://store.steampowered.com/app/2354600/) | Creator / publisher
 
-[Content Update #1 Trailer](https://video.akamai.steamstatic.com/store_trailers/2354600/569721/4810b6d8780fe68defcd7f350de307c4fc26f187/1750910455/hls_264_master.m3u8?t=1684529607)
+[Content Update #1 Trailer](https://store.steampowered.com/app/2354600/) | Creator / publisher
 
-[Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2354600/557130/d633611a84f68b799e8bed8be03739b277e6eb26/1750910455/hls_264_master.m3u8?t=1695228427)
+[Early Access Launch Trailer](https://store.steampowered.com/app/2354600/) | Creator / publisher
 
 ![Renfield: Bring Your Own Blood official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354600/ss_d26d63c9d265bf080292a4e7a89fd89bc31e8284.1920x1080.jpg?t=1704737452)
 

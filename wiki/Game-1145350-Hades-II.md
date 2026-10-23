@@ -22,21 +22,21 @@ Battle beyond the Underworld using dark sorcery to take on the Titan of Time in 
 
 - [Steam: store](https://store.steampowered.com/app/1145350/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Hades II – v1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1145350/1067641820/dfba9c6a8b09f5bd9b323d6e699ac685065b93d3/1758924611/hls_264_master.m3u8?t=1758942439)
+[Hades II – v1.0 Launch Trailer](https://store.steampowered.com/app/1145350/) | Creator / publisher
 
-[Hades II – v1.0 Showcase ](https://video.akamai.steamstatic.com/store_trailers/1145350/1078171228/d92eb59e06a0bc11acbab62a2fcc3981383b80fa/1758820310/hls_264_master.m3u8?t=1758942440)
+[Hades II – v1.0 Showcase ](https://store.steampowered.com/app/1145350/) | Creator / publisher
 
-[Hades II Coming Soon](https://video.akamai.steamstatic.com/store_trailers/1145350/519255/5ca763163ded88a590accd47a774c99b9deec03c/1750627491/hls_264_master.m3u8?t=1715021708)
+[Hades II Coming Soon](https://store.steampowered.com/app/1145350/) | Creator / publisher
 
-[Hades II Warsong Update](https://video.akamai.steamstatic.com/store_trailers/1145350/831414/c475e29924acd1c3b6f49a8231230834e7e52d05/1750627511/hls_264_master.m3u8?t=1750178949)
+[Hades II Warsong Update](https://store.steampowered.com/app/1145350/) | Creator / publisher
 
-[Hades II Olympic Update](https://video.akamai.steamstatic.com/store_trailers/1145350/772664/5050056d051c58906915540f8cb0f172eab1f73e/1750627505/hls_264_master.m3u8?t=1729112202)
+[Hades II Olympic Update](https://store.steampowered.com/app/1145350/) | Creator / publisher
 
-[Hades II Early Access Showcase](https://video.akamai.steamstatic.com/store_trailers/1145350/695850/0b4a736847005fc3bf0110bb100cf8eb01fa20d1/1750627504/hls_264_master.m3u8?t=1715021703)
+[Hades II Early Access Showcase](https://store.steampowered.com/app/1145350/) | Creator / publisher
 
 ![Hades II official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_ef0f63061d0a0a9a7e46f3b84f125d25330e8f19.1920x1080.jpg?t=1779901265)
 

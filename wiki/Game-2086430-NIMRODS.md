@@ -22,13 +22,13 @@ Assemble a limitless arsenal in this survive-em-up roguelite shooter. As a Gun M
 
 - [Steam: store](https://store.steampowered.com/app/2086430/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/2086430/774177/dbb7a300951a74642df514fa90610ccd03df35a1/1750746263/hls_264_master.m3u8?t=1747175786)
+[Early Access Trailer](https://store.steampowered.com/app/2086430/) | Creator / publisher
 
-[Next Fest Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2086430/569335/8c3aeb03e64038215b14611351d87c1701c53a87/1750746262/hls_264_master.m3u8?t=1706310008)
+[Next Fest Gameplay Trailer](https://store.steampowered.com/app/2086430/) | Creator / publisher
 
 ![NIMRODS official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2086430/ss_02c959024e4a99fd4057918c6373ae3139433a73.1920x1080.jpg?t=1791964238)
 

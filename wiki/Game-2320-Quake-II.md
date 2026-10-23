@@ -22,12 +22,15 @@ You are humanity’s last hope to stop the Strogg, a hostile alien race waging w
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/2320/)
+- [GOG: store](https://www.gog.com/en/game/quake_ii_quad_damage) | Exact title in GOG official catalog: Quake II
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Enhanced Launch EN](https://video.akamai.steamstatic.com/store_trailers/2320/595911/75225bfe7bbafd1fa48be93c1da81c15e5d80fc9/1750480951/hls_264_master.m3u8?t=1691686267)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Enhanced Launch EN](https://store.steampowered.com/app/2320/) | Creator / publisher
 
 ![Quake II official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/ss_5b85c7ee18c210a2f75320331b22abb860a10471.1920x1080.jpg?t=1750784724)
 

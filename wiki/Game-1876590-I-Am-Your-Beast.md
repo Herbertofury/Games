@@ -22,16 +22,20 @@ Hunt the military-industrial complex across stylish comic book micro-sandboxes i
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1876590/)
+- [GOG: store](https://www.gog.com/en/game/i_am_your_beast) | Exact title in GOG official catalog: I Am Your Beast
+- [itch.io: store](https://strangescaffold.itch.io/i-am-your-beast) | Creator listing shows Buy Now and full game files: I Am Your Beast 998 MB; i-am-your-beast-win.zip 1.2 GB Version 1
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Accolades Trailer](https://video.akamai.steamstatic.com/store_trailers/1876590/789379/4a589be001ec4c135ebd2e9e4df4bea3528f9be7/1750739344/hls_264_master.m3u8?t=1732214640)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1876590/739344/b0e58f928d4462a44732f019552add81aa6e2b34/1750739338/hls_264_master.m3u8?t=1726072797)
+[Accolades Trailer](https://store.steampowered.com/app/1876590/) | Creator / publisher
 
-['Tyrants Better Run' Trailer](https://video.akamai.steamstatic.com/store_trailers/1876590/729702/89c02959f182ca41dbba47880067e7baf5af50e4/1750739338/hls_264_master.m3u8?t=1721741678)
+[Launch Trailer](https://store.steampowered.com/app/1876590/) | Creator / publisher
+
+['Tyrants Better Run' Trailer](https://store.steampowered.com/app/1876590/) | Creator / publisher
 
 ![I Am Your Beast official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876590/ss_476b39aed95cbe566fadcc9b26fc50ae4e8ab6b9.1920x1080.jpg?t=1792501401)
 

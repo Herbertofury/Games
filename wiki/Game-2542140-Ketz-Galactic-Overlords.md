@@ -22,11 +22,11 @@ Sci-fantasy themed roguelite horde survival game with RPG elements. Choose your 
 
 - [Steam: store](https://store.steampowered.com/app/2542140/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Ketz: Galactic Overlords Trailer](https://video.akamai.steamstatic.com/store_trailers/2542140/2043156913/feb39d2c3616ebc53d5f73ff8c976f7f705f4d71/1753787139/hls_264_master.m3u8?t=1753788592)
+[Ketz: Galactic Overlords Trailer](https://store.steampowered.com/app/2542140/) | Creator / publisher
 
 ![Ketz: Galactic Overlords official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542140/28f7831baff41013cc343f692e2479b9bf5bdded/ss_28f7831baff41013cc343f692e2479b9bf5bdded.1920x1080.jpg?t=1789743130)
 

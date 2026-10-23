@@ -26,17 +26,19 @@ An essential foundation for this collection: fast movement, memorable spaces, an
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/519860/)
-- [GOG: store](https://www.gog.com/en/game/dusk)
+- [GOG: store](https://www.gog.com/en/game/dusk) | Exact title in GOG official catalog: DUSK
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[DUSK LAUNCH 2](https://video.akamai.steamstatic.com/store_trailers/519860/200548/fa4d35fd507bb157b9ebe2dc49ffab6c89a90c2c/1750542589/hls_264_master.m3u8?t=1544616121)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Welcome to DUSK](https://video.akamai.steamstatic.com/store_trailers/519860/140685/336dd1f6d543878dccdcba84fd9ba8220d505da8/1750542580/hls_264_master.m3u8?t=1515321581)
+[DUSK LAUNCH 2](https://store.steampowered.com/app/519860/) | Creator / publisher
 
-[Welcome to DUSKWorld](https://video.akamai.steamstatic.com/store_trailers/519860/140686/860da25483d661538c3a30a02f26909cce6ff8e0/1750542589/hls_264_master.m3u8?t=1515321593)
+[Welcome to DUSK](https://store.steampowered.com/app/519860/) | Creator / publisher
+
+[Welcome to DUSKWorld](https://store.steampowered.com/app/519860/) | Creator / publisher
 
 ![DUSK official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/519860/ss_1ed571301ad0b5f952fc4e793d7357084405c467.1920x1080.jpg?t=1767216306)
 

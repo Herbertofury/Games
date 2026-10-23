@@ -22,11 +22,11 @@ An online co-op survivor-like auto-shooter set in the world of Stolen Realm. Bat
 
 - [Steam: store](https://store.steampowered.com/app/3228580/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Stolen Realm Survivors - Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3228580/437168584/f9c25183e332fc74ead7e8d11c9112e8bcde2535/1780509413/hls_264_master.m3u8?t=1780589855)
+[Stolen Realm Survivors - Release Trailer](https://store.steampowered.com/app/3228580/) | Creator / publisher
 
 ![Stolen Realm Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228580/cf7eb5dbedd847f3bd7c5444996d51161335ba9d/ss_cf7eb5dbedd847f3bd7c5444996d51161335ba9d.1920x1080.jpg?t=1790869711)
 

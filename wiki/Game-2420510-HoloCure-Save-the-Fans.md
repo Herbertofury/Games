@@ -22,13 +22,13 @@ Play as your favorite Vtubers from Hololive! Fight, explore, and clear your way 
 
 - [Steam: store](https://store.steampowered.com/app/2420510/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[0.6 Trailer](https://video.akamai.steamstatic.com/store_trailers/2420510/587885/b78b6bc5d5c7e4619d2b513050394e4f6a0ba624/1750917107/hls_264_master.m3u8?t=1689447106)
+[0.6 Trailer](https://store.steampowered.com/app/2420510/) | Creator / publisher
 
-[Intro Cinematic](https://video.akamai.steamstatic.com/store_trailers/2420510/570939/208fd51b24f76a8d669d803915da993dd538ede4/1750917107/hls_264_master.m3u8?t=1684877665)
+[Intro Cinematic](https://store.steampowered.com/app/2420510/) | Creator / publisher
 
 ![HoloCure - Save the Fans! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_0b4a50d12f737a522960ba3b3229546f536ff57f.1920x1080.jpg?t=1740642230)
 

@@ -6,6 +6,7 @@ links and curation remain authoritative; candidates are retained for review.
 """
 import argparse, concurrent.futures, datetime as dt, functools, hashlib, json, pathlib, re, threading, unicodedata, urllib.error, urllib.parse, urllib.request
 from bs4 import BeautifulSoup
+from source_links import canonical_listing,normalized_links
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 NOW=dt.datetime.now(dt.timezone.utc).isoformat()
 UA='Mozilla/5.0 (compatible; GamesLibrary/1.2; +https://github.com/Herbertofury/Games)'
@@ -93,6 +94,8 @@ def owned_site(g):
     for a in s.select('a[href]'):
         u=urllib.parse.urljoin(final,a['href']);label=provider(u)
         if not label or not safe(u):continue
+        u=canonical_listing(u)
+        if not u:continue
         p=urllib.parse.urlsplit(u)
         if label=='Patreon':
             if p.path.strip('/') and p.path not in ['/login','/signup']:
@@ -144,7 +147,7 @@ def main():
                 checks.append({'provider':label,'state':'matched' if found else 'no-confirmed-match','sourceUrl':url,'matches':len(found)})
             except Exception as e:checks.append({'provider':label,'state':'unresolved','error':str(e)})
         existing=old['overrides'].get(g['id'],{}).get('storefronts',[])
-        unique=list({x['url']:x for x in existing+links}.values())
+        unique=normalized_links(existing+links)
         coverage={'name':g['name'],'checkedAt':NOW,'checks':checks,'candidates':candidates,'scope':'Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game.'}
         print(g['name'],len(unique),'confirmed alternate links;',len(candidates),'review candidates',flush=True)
         return g['id'],{'storefronts':unique,'storeCoverage':coverage},coverage

@@ -22,14 +22,17 @@ Hands of Necromancy II is a dark fantasy FPS sequel, inspired by classics such a
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/2706450/)
+- [GOG: store](https://www.gog.com/en/game/hands_of_necromancy_ii) | Exact title in GOG official catalog: Hands of Necromancy II
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Hands of Necromancy II - Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2706450/756294/23bbb6774fc56f2d5b79662a9468699071500bac/1750892774/hls_264_master.m3u8?t=1726504360)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Hands of Necromancy II Trailer](https://video.akamai.steamstatic.com/store_trailers/2706450/631807/8e97f106eafabf3e5260e6c8ffba8aa871c21529/1750892774/hls_264_master.m3u8?t=1701289028)
+[Hands of Necromancy II - Launch Trailer](https://store.steampowered.com/app/2706450/) | Creator / publisher
+
+[Hands of Necromancy II Trailer](https://store.steampowered.com/app/2706450/) | Creator / publisher
 
 ![Hands of Necromancy II official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706450/ss_1ac7a658022a7cf63b2e58368ad8b6c6e58d3d11.1920x1080.jpg?t=1759825132)
 

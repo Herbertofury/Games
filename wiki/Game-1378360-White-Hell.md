@@ -23,13 +23,15 @@ White Hell is a retro-style first-person shooter set in a frost-bound Finland af
 
 - [Steam: store](https://store.steampowered.com/app/1378360/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Chapter 3 Part 2](https://video.akamai.steamstatic.com/store_trailers/1378360/613086/e515367698ab687ecc8ed6d0ee77aae7cda6650b/1751229810/hls_264_master.m3u8?t=1696179756)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/1378360/392315/1c0eb5aecd95f3b37803f2fca4057ba49f9cfc13/1751229809/hls_264_master.m3u8?t=1628968817)
+[Chapter 3 Part 2](https://store.steampowered.com/app/1378360/) | Creator / publisher
+
+[Early Access Trailer](https://store.steampowered.com/app/1378360/) | Creator / publisher
 
 ![White Hell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1378360/ss_001a66d2a6cdec7b6adce72dfb69385ca8d13bb6.1920x1080.jpg?t=1783528568)
 

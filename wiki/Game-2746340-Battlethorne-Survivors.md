@@ -24,11 +24,11 @@ Defeat the Reaper's minions as you battle through forts, forests and castles in 
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Trailer 1](https://video.akamai.steamstatic.com/store_trailers/2746340/667038/c3a12a8bc3220f8924b021e0981b2e8a5a3b87b5/1750896396/hls_264_master.m3u8?t=1709405936)
+[Trailer 1](https://store.steampowered.com/app/2746340/) | Creator / publisher
 
 ![Battlethorne: Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2746340/ss_81af9f5a3dcd5715256b3b6fbd528b69a957ab6e.1920x1080.jpg?t=1771311161)
 

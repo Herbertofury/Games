@@ -22,13 +22,13 @@ Tiny Rogues is a challenging fantasy rogue-lite bullet-hell dungeon crawler with
 
 - [Steam: store](https://store.steampowered.com/app/2088570/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Tiny Rogues Expansion](https://video.akamai.steamstatic.com/store_trailers/2088570/643402/bc0f63bae1d1db8138cb00cffabd781016b14784/1750746317/hls_264_master.m3u8?t=1703258565)
+[Tiny Rogues Expansion](https://store.steampowered.com/app/2088570/) | Creator / publisher
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2088570/493306/b6f015d04e0ff06516e4ff1aae6794343594ca2d/1750746316/hls_264_master.m3u8?t=1662448012)
+[Gameplay Trailer](https://store.steampowered.com/app/2088570/) | Creator / publisher
 
 ![Tiny Rogues official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/ss_7c92a16dc0b0b57c960cef58bd9d3df97a783a6e.1920x1080.jpg?t=1788537523)
 

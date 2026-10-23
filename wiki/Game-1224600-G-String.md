@@ -22,18 +22,25 @@ Slip into the Standard Issue Biosuit as Myo Hyori, a gifted Korean teenage girl 
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1224600/)
+- [ModDB - original mod project: project](https://www.moddb.com/mods/g-string) | Creator-linked project history. Do not treat it as a license for the commercial Steam edition.
+- [Patreon: support](https://www.patreon.com/eyaura) | Creator support linked from the game website supplied by Steam
+- [ModDB - original mod project: project](https://rss.moddb.com/mods/g-string/articles/feed/rss.xml) | Creator-linked project history. Do not treat it as a license for the commercial Steam edition.
+- [ModDB - original mod project: project](https://rss.moddb.com/mods/g-string/downloads/feed/rss.xml) | Creator-linked project history. Do not treat it as a license for the commercial Steam edition.
+- [ModDB - original mod project: project](https://www.moddb.com/mods/g-string?filter=t&rating=8) | Creator-linked project history. Do not treat it as a license for the commercial Steam edition.
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[ULTIMATE GAMEPLAY TRAILER ](https://video.akamai.steamstatic.com/store_trailers/1224600/88589380/5fa170eeac6320affeeb13685f9fac3ba494192e/1766058587/hls_264_master.m3u8?t=1766073870)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[GAMEPLAY TRAILER 2025](https://video.akamai.steamstatic.com/store_trailers/1224600/293514014/2720abf75f700d3dc1de4d946b216018cdf5fa0f/1763212539/hls_264_master.m3u8?t=1766073871)
+[ULTIMATE GAMEPLAY TRAILER ](https://store.steampowered.com/app/1224600/) | Creator / publisher
 
-[ULTIMATE TEASER TRAILER](https://video.akamai.steamstatic.com/store_trailers/1224600/1139616806/de334f459f5016896685b2853507ca57bdc03830/1763553733/hls_264_master.m3u8?t=1766073872)
+[GAMEPLAY TRAILER 2025](https://store.steampowered.com/app/1224600/) | Creator / publisher
 
-[TEASER TRAILER 2025](https://video.akamai.steamstatic.com/store_trailers/1224600/1617955371/14aa6366489b23d90d68140489170c30276e5e5f/1763210301/hls_264_master.m3u8?t=1766073874)
+[ULTIMATE TEASER TRAILER](https://store.steampowered.com/app/1224600/) | Creator / publisher
+
+[TEASER TRAILER 2025](https://store.steampowered.com/app/1224600/) | Creator / publisher
 
 ![G String official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/f8c3c832bde7e97a9f78d311e9730e3d7847fd8d/ss_f8c3c832bde7e97a9f78d311e9730e3d7847fd8d.1920x1080.jpg?t=1766075438)
 

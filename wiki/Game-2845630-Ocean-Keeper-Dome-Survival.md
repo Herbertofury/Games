@@ -22,13 +22,13 @@ Explore dungeons, fight hordes of monsters and survive on a huge map. This is Oc
 
 - [Steam: store](https://store.steampowered.com/app/2845630/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Ocean Keeper Dome Survival Gameplay Trailer ](https://video.akamai.steamstatic.com/store_trailers/2845630/2135325056/1e192a0cd88e84a9970b4dd50d12d74d1d453f17/1761831969/hls_264_master.m3u8?t=1761833535)
+[Ocean Keeper Dome Survival Gameplay Trailer ](https://store.steampowered.com/app/2845630/) | Creator / publisher
 
-[Ocean Keeper Trailer ](https://video.akamai.steamstatic.com/store_trailers/2845630/882623/a01459aaae75fef7d539b26abf8e1033ce4e433d/1750820646/hls_264_master.m3u8?t=1746110813)
+[Ocean Keeper Trailer ](https://store.steampowered.com/app/2845630/) | Creator / publisher
 
 ![Ocean Keeper: Dome Survival official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/cc2e1e60efc630b31a2a338d37f4b6ebc90d58ad/ss_cc2e1e60efc630b31a2a338d37f4b6ebc90d58ad.1920x1080.jpg?t=1785404500)
 

@@ -27,21 +27,23 @@ The first place to look for a fresh, loud campaign: a 2026 sequel with the chunk
 
 - [Steam: store](https://store.steampowered.com/app/3115160/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Warhammer 40,000: Boltgun 2 - Official Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3115160/758343352/397ac83bea4865101dc89c4ed0e0ec093fc2c25e/1791990607/hls_264_master.m3u8?t=1792080944)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Warhammer 40,000: Boltgun 2 - Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3115160/1164053626/3b214d0c16be7127231bf0eaeb0c0f0962315615/1787681029/hls_264_master.m3u8?t=1787770841)
+[Warhammer 40,000: Boltgun 2 - Official Launch Trailer](https://store.steampowered.com/app/3115160/) | Creator / publisher
 
-[Warhammer 40,000: Boltgun 2 - Demo Announce Trailer](https://video.akamai.steamstatic.com/store_trailers/3115160/1232312247/a1abb5d326bf958d512cbc8e63500d278814afbe/1779362792/hls_264_master.m3u8?t=1779380680)
+[Warhammer 40,000: Boltgun 2 - Release Date Trailer](https://store.steampowered.com/app/3115160/) | Creator / publisher
 
-[Warhammer 40,000: Boltgun 2 - Slaanesh Reveal - Official Trailer](https://video.akamai.steamstatic.com/store_trailers/3115160/889528005/833869dbe3b0b7a918e11a772dcfcad6a9b2d9a7/1772194527/hls_264_master.m3u8?t=1779306052)
+[Warhammer 40,000: Boltgun 2 - Demo Announce Trailer](https://store.steampowered.com/app/3115160/) | Creator / publisher
 
-[Warhammer 40,000: Boltgun 2 - Sister of Battle - Official Trailer](https://video.akamai.steamstatic.com/store_trailers/3115160/683987435/206fa38cda5221c11f74031e68f1313e1b0a8c68/1761151067/hls_264_master.m3u8?t=1761249447)
+[Warhammer 40,000: Boltgun 2 - Slaanesh Reveal - Official Trailer](https://store.steampowered.com/app/3115160/) | Creator / publisher
 
-[Warhammer 40,000: Boltgun 2 - Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/3115160/1082154914/375d2439804c843631389d355e3a252ec3be779c/1750872029/hls_264_master.m3u8?t=1747930569)
+[Warhammer 40,000: Boltgun 2 - Sister of Battle - Official Trailer](https://store.steampowered.com/app/3115160/) | Creator / publisher
+
+[Warhammer 40,000: Boltgun 2 - Reveal Trailer](https://store.steampowered.com/app/3115160/) | Creator / publisher
 
 ![Warhammer 40,000: Boltgun 2 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115160/43eb0e5636b6a62f808b1675b1ded5966bd52f95/ss_43eb0e5636b6a62f808b1675b1ded5966bd52f95.1920x1080.jpg?t=1792399444)
 

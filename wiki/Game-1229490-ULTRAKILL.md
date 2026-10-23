@@ -26,18 +26,21 @@ Best approached for expressive movement, weapon interactions, and score mastery.
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1229490/)
+- [GOG: store](https://www.gog.com/en/game/ultrakill) | Exact title in GOG official catalog: ULTRAKILL
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[ULTRAKILL REVAMP TRAILER](https://video.akamai.steamstatic.com/store_trailers/1229490/840639/6b0f243d19b33d414ac6778eef00ac612e0f6ba5/1750836156/hls_264_master.m3u8?t=1740623811)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[ULTRAKILL FRAUD TRAILER](https://video.akamai.steamstatic.com/store_trailers/1229490/1523145681/cc45149a3824bd0f57e2774ba7610be780da5822/1771910655/hls_264_master.m3u8?t=1771983908)
+[ULTRAKILL REVAMP TRAILER](https://store.steampowered.com/app/1229490/) | Creator / publisher
 
-[Ultrakill Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/1229490/309943/134fb1d0763a047fbfe1ab30902b93526d50e227/1750645942/hls_264_master.m3u8?t=1703159954)
+[ULTRAKILL FRAUD TRAILER](https://store.steampowered.com/app/1229490/) | Creator / publisher
 
-[Ultrakill Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/1229490/291625/a29a51a3ec12ea5e213465d9eb5d6c4cceebde63/1750645934/hls_264_master.m3u8?t=1703159958)
+[Ultrakill Early Access Trailer](https://store.steampowered.com/app/1229490/) | Creator / publisher
+
+[Ultrakill Reveal Trailer](https://store.steampowered.com/app/1229490/) | Creator / publisher
 
 ![ULTRAKILL official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/ss_8c743b6de2d6124bd583d8764f28cafe2b7ecb3f.1920x1080.jpg?t=1792046802)
 

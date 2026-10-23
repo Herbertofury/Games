@@ -22,15 +22,15 @@ Fallen heroes of old folk tales and legends: you are on the verge of a crucial b
 
 - [Steam: store](https://store.steampowered.com/app/2071280/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer PC](https://video.akamai.steamstatic.com/store_trailers/2071280/757590/5d14f9da1e112d0f85b6298c855243a0167d9745/1750745934/hls_264_master.m3u8?t=1739807167)
+[Launch Trailer PC](https://store.steampowered.com/app/2071280/) | Creator / publisher
 
-[Ravenswatch in 60s](https://video.akamai.steamstatic.com/store_trailers/2071280/830425/7ed10b23996e0b4c0456f564abd9d45f877712be/1750745937/hls_264_master.m3u8?t=1739807169)
+[Ravenswatch in 60s](https://store.steampowered.com/app/2071280/) | Creator / publisher
 
-[Accolade trailer](https://video.akamai.steamstatic.com/store_trailers/2071280/830426/2dc766fd490d4b9ef53aafac2d8d70d29dcb8f14/1750745938/hls_264_master.m3u8?t=1739807172)
+[Accolade trailer](https://store.steampowered.com/app/2071280/) | Creator / publisher
 
 ![Ravenswatch official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_b6826b65f6602cf7da2a9836958fc9919c4f96ee.1920x1080.jpg?t=1792157123)
 

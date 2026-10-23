@@ -35,15 +35,21 @@ Use the official standalone compilation for the bundled game. Individual episode
 
 The official standalone compilation includes the released episodes and expansions; Blackwater is a separate 2026 add-on.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=A5NwC_VKKt4)
+[Creator-published video](https://www.youtube.com/watch?v=A5NwC_VKKt4) | Creator / publisher
 
-[Creator-published video](https://www.youtube.com/watch?v=jSFOMWy2YDs)
+[Source and provenance](https://www.moddb.com/mods/ashes-2063)
 
-[Creator-published video](https://www.youtube.com/watch?v=1BR-BHKqGq4)
+[Creator-published video](https://www.youtube.com/watch?v=jSFOMWy2YDs) | Creator / publisher
+
+[Source and provenance](https://www.moddb.com/mods/ashes-2063)
+
+[Creator-published video](https://www.youtube.com/watch?v=1BR-BHKqGq4) | Creator / publisher
+
+[Source and provenance](https://www.moddb.com/mods/ashes-2063)
 
 ![Ashes 2063 / Afterglow - creator-published image](https://media.moddb.com/images/mods/1/53/52091/16933007-ashes-2063-windows-in-the-blood-arena-level-you-have-to-fight-hu.png)
 

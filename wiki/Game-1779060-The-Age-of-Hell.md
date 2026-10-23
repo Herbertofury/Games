@@ -22,16 +22,19 @@ Take up thy hammer and lay waste to the hordes of hell. Hold fast against the le
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1779060/)
+- [itch.io - demo: demo](https://hellforge-studios.itch.io/the-age-of-hell) | Creator listing exposes demo files, not the full commercial release: AoH_DemoBuild_RC14.zip 507 MB
+
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Realms Deep 2023 Trailer](https://video.akamai.steamstatic.com/store_trailers/1779060/613049/e532011464c5f51339db5b8e03ed446db0066a02/1751030050/hls_264_master.m3u8?t=1696096756)
+[Realms Deep 2023 Trailer](https://store.steampowered.com/app/1779060/) | Creator / publisher
 
-[Realms Deep 2022 Trailer](https://video.akamai.steamstatic.com/store_trailers/1779060/444169/96a866dcfc2a4c1f3094560efe9831a26973f232/1751030049/hls_264_master.m3u8?t=1663268644)
+[Realms Deep 2022 Trailer](https://store.steampowered.com/app/1779060/) | Creator / publisher
 
 ![The Age of Hell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779060/ss_626e6501b557442211fa2198afafcedc62c048bf.1920x1080.jpg?t=1700857520)
 

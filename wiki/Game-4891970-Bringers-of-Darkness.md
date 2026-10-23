@@ -24,11 +24,11 @@ Fight for the forces of darkness in a fast-paced bullet heaven survivors-like. B
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Bringers of Darkness - Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/4891970/1124294466/2bf7fbf2567d1d583227422a13e018c2d7b28b2a/1786097596/hls_264_master.m3u8?t=1786098232)
+[Bringers of Darkness - Gameplay Trailer](https://store.steampowered.com/app/4891970/) | Creator / publisher
 
 ![Bringers of Darkness official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891970/decb031bacb0bac16d5d5633481279b4580d75bd/ss_decb031bacb0bac16d5d5633481279b4580d75bd.1920x1080.jpg?t=1786098233)
 

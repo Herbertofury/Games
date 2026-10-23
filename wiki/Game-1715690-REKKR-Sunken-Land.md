@@ -23,11 +23,13 @@ A retro FPS set in a faux norse-celtic fantasy world in the midst of a war with 
 
 - [Steam: store](https://store.steampowered.com/app/1715690/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[REKKR: Sunken Land Trailer](https://video.akamai.steamstatic.com/store_trailers/1715690/400455/457577abcf3acd8d523604f30c1fd0f72d8460d3/1751023039/hls_264_master.m3u8?t=1631374776)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[REKKR: Sunken Land Trailer](https://store.steampowered.com/app/1715690/) | Creator / publisher
 
 ![REKKR: Sunken Land official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1715690/ss_aed9c6179219be59c24314d627da6010d9a806b9.1920x1080.jpg?t=1635112601)
 

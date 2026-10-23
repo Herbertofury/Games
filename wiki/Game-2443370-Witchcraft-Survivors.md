@@ -24,11 +24,11 @@ Annihilate hordes of enemies in this thrilling, fast-paced action roguelite rpg 
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Witchcraft Survivors](https://video.akamai.steamstatic.com/store_trailers/2443370/572525/b7c5f5203da76d28f3a3b909a801bb8d8aff3c9b/1750919667/hls_264_master.m3u8?t=1694374863)
+[Witchcraft Survivors](https://store.steampowered.com/app/2443370/) | Creator / publisher
 
 ![Witchcraft Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2443370/ss_f06a49479ac7c9abc0c62e44dca4257184f28a50.1920x1080.jpg?t=1791727686)
 

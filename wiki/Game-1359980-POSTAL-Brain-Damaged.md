@@ -23,15 +23,17 @@ POSTAL: Brain Damaged is a new, action-oriented take on the Running With Scissor
 
 - [Steam: store](https://store.steampowered.com/app/1359980/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[POSTAL: Brain Damaged - 6/9 release trailer](https://video.akamai.steamstatic.com/store_trailers/1359980/470424/9b05fccbcf33492b1fceb13314f000f26c949837/1750677562/hls_264_master.m3u8?t=1654790046)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[POSTAL: Brain Damaged Trailer](https://video.akamai.steamstatic.com/store_trailers/1359980/405892/95e625f716805f053e9ec5f0cb1d1c3ba74b3814/1750677561/hls_264_master.m3u8?t=1654790050)
+[POSTAL: Brain Damaged - 6/9 release trailer](https://store.steampowered.com/app/1359980/) | Creator / publisher
 
-[POSTAL: Brain Damaged demo teaser](https://video.akamai.steamstatic.com/store_trailers/1359980/392797/29a66132e4f1cbd42ef9bb9da214658bf9a9bc96/1750677558/hls_264_master.m3u8?t=1628971475)
+[POSTAL: Brain Damaged Trailer](https://store.steampowered.com/app/1359980/) | Creator / publisher
+
+[POSTAL: Brain Damaged demo teaser](https://store.steampowered.com/app/1359980/) | Creator / publisher
 
 ![POSTAL: Brain Damaged official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1359980/ss_af92007cfdcca6b662bed743ea2281e8980e4af9.1920x1080.jpg?t=1792085645)
 

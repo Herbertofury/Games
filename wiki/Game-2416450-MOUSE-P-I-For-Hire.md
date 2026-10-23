@@ -27,15 +27,17 @@ A standout for unusual presentation: rubber-hose cartoon noir wrapped around fir
 
 - [Steam: store](https://store.steampowered.com/app/2416450/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[MOUSE: Accolades trailer](https://video.akamai.steamstatic.com/store_trailers/2416450/784317990/4f2d22956b8a759f0433c3d00e6a31c76ab157b8/1779233305/hls_264_master.m3u8?t=1779251396)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[MOUSE: Out Now trailer](https://video.akamai.steamstatic.com/store_trailers/2416450/1245589064/f5faba403aa33e3b7aa4735cd8102be2ec04bd98/1776223142/hls_264_master.m3u8?t=1776351011)
+[MOUSE: Accolades trailer](https://store.steampowered.com/app/2416450/) | Creator / publisher
 
-[MOUSE: Date Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2416450/1063053755/9674e8f1eaf886dcff5cc82ff1548f8f1cecff70/1772753386/hls_264_master.m3u8?t=1772754888)
+[MOUSE: Out Now trailer](https://store.steampowered.com/app/2416450/) | Creator / publisher
+
+[MOUSE: Date Announcement Trailer](https://store.steampowered.com/app/2416450/) | Creator / publisher
 
 ![MOUSE: P.I. For Hire official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/1421d042bc447e6cc39ce8d794006dd4e6e9d19a/ss_1421d042bc447e6cc39ce8d794006dd4e6e9d19a.1920x1080.jpg?t=1792462320)
 

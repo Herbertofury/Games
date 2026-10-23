@@ -22,15 +22,15 @@ Experience an ARPG's rapid ascension to power in minutes, packed with savage, su
 
 - [Steam: store](https://store.steampowered.com/app/3238670/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Necrolord Class Trailer](https://video.akamai.steamstatic.com/store_trailers/3238670/500966362/9981a1e656832ae18a9b2b407f4d9349a208b76e/1789581172/hls_264_master.m3u8?t=1789653662)
+[Necrolord Class Trailer](https://store.steampowered.com/app/3238670/) | Creator / publisher
 
-[Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3238670/876601/6b60e4a1c3a9c992130a7caba617b0fd972ba681/1750825043/hls_264_master.m3u8?t=1745946365)
+[Early Access Launch Trailer](https://store.steampowered.com/app/3238670/) | Creator / publisher
 
-[Expo Update Trailer](https://video.akamai.steamstatic.com/store_trailers/3238670/1016771098/9dc9e44ea7fc075d403e61239049ef317b72054a/1763589413/hls_264_master.m3u8?t=1763840030)
+[Expo Update Trailer](https://store.steampowered.com/app/3238670/) | Creator / publisher
 
 ![Conquest Dark official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238670/c6db3806a04dd7e52a78687f5b9d2c5f60915076/ss_c6db3806a04dd7e52a78687f5b9d2c5f60915076.1920x1080.jpg?t=1790884525)
 

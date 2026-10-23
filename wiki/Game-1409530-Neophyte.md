@@ -22,11 +22,11 @@ A mini topdown action roguelike with chaotic spell-slinging hack-n-slash combat.
 
 - [Steam: store](https://store.steampowered.com/app/1409530/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Neophyte](https://video.akamai.steamstatic.com/store_trailers/1409530/443773/97e7786c2703175dd1badd71193639339f7e9bb2/1751234100/hls_264_master.m3u8?t=1646283476)
+[Neophyte](https://store.steampowered.com/app/1409530/) | Creator / publisher
 
 ![Neophyte official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_7bee64999831496123f9945eb5c6848d131e9e9a.1920x1080.jpg?t=1778834404)
 

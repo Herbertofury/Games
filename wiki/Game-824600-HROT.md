@@ -22,14 +22,17 @@ HROT is a single-player retro FPS set in a small socialist country neighboring S
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/824600/)
+- [GOG: store](https://www.gog.com/en/game/hrot) | Exact title in GOG official catalog: HROT
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/824600/282930/35135efc8342f348043e4fc9425a209ee9924889/1751149450/hls_264_master.m3u8?t=1588445797)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/824600/565940/271ca47e3ce62ffa91a7cbe65b7d14b752cb1b04/1751149451/hls_264_master.m3u8?t=1684237849)
+[Reveal Trailer](https://store.steampowered.com/app/824600/) | Creator / publisher
+
+[Launch Trailer](https://store.steampowered.com/app/824600/) | Creator / publisher
 
 ![HROT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/824600/ss_27105555a1293ab76449c46bc2e2ebc158f4721b.1920x1080.jpg?t=1757584066)
 

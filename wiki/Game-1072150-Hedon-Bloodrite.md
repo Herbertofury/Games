@@ -22,14 +22,18 @@ Zan and her orc sisters must fight to save their homeland from a demonic invasio
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1072150/)
+- [GOG: store](https://www.gog.com/en/game/hedon) | Exact title in GOG official catalog: Hedon Bloodrite
+- [itch.io: store](https://zanthebonebreaker.itch.io/hedon) | Creator listing shows Buy Now and full game files: Hedon 2.3.0 Win 64-bit.zip 548 MB; Hedon 2.3.0 Linux 64-bit.zip 550 MB
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Bloodrite Trailer](https://video.akamai.steamstatic.com/store_trailers/1072150/396427/8b6da74578139a65895c831f3cd2b9131fed9806/1750612608/hls_264_master.m3u8?t=1688389062)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Hedon 2.4.1 Gameplay](https://video.akamai.steamstatic.com/store_trailers/1072150/613043/6f80d74643d763aabccd5d2445db72c7becdf860/1750612616/hls_264_master.m3u8?t=1764773946)
+[Bloodrite Trailer](https://store.steampowered.com/app/1072150/) | Creator / publisher
+
+[Hedon 2.4.1 Gameplay](https://store.steampowered.com/app/1072150/) | Creator / publisher
 
 ![Hedon Bloodrite official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072150/ss_63b395b20451aee679388fdb317da80c9fb75f6f.1920x1080.jpg?t=1764773947)
 

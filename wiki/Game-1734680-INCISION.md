@@ -26,16 +26,19 @@ A gritty industrial-horror option for aggressive combat and grotesque atmosphere
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1734680/)
+- [GOG: store](https://www.gog.com/en/game/incision) | Exact title in GOG official catalog: INCISION
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[INCISION 1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1734680/1945438244/f7ceb0142eda8dc0a2c24980d8586038cf909d86/1756406348/hls_264_master.m3u8?t=1756409666)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[INCISION - Launch Date Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/1734680/109372772/21753cc6968f5e755299d859e1f23159a6b28b41/1755114712/hls_264_master.m3u8?t=1755118344)
+[INCISION 1.0 Launch Trailer](https://store.steampowered.com/app/1734680/) | Creator / publisher
 
-[Incision - Episode 2 Trailer](https://video.akamai.steamstatic.com/store_trailers/1734680/764309/848a9b8f9d590a72e74ea2a0ba84cf21f48ab2d6/1750731092/hls_264_master.m3u8?t=1727730538)
+[INCISION - Launch Date Reveal Trailer](https://store.steampowered.com/app/1734680/) | Creator / publisher
+
+[Incision - Episode 2 Trailer](https://store.steampowered.com/app/1734680/) | Creator / publisher
 
 ![INCISION official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734680/ss_34723052021df8b8478a13e2145a6c58b537cefc.1920x1080.jpg?t=1783611445)
 

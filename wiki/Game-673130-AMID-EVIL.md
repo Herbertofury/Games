@@ -26,17 +26,19 @@ The fantasy-shooter benchmark here, with spectacular weapon themes and imaginati
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/673130/)
-- [GOG: store](https://www.gog.com/en/game/amid_evil)
+- [GOG: store](https://www.gog.com/en/game/amid_evil) | Exact title in GOG official catalog: AMID EVIL
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Black Labyrinth Release Trailer](https://video.akamai.steamstatic.com/store_trailers/673130/598425/62d6e056ca4960cb90fba75abee77163562bbcd0/1750568659/hls_264_master.m3u8?t=1692366179)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer Redux](https://video.akamai.steamstatic.com/store_trailers/673130/370411/1982428882f3ad91921b22613da1c0d9cb31518f/1750568650/hls_264_master.m3u8?t=1692366183)
+[Black Labyrinth Release Trailer](https://store.steampowered.com/app/673130/) | Creator / publisher
 
-[AMID EVIL RTX FEATURES](https://video.akamai.steamstatic.com/store_trailers/673130/370349/e3ae35de2d8b4c7750ed30d8f5a82de099fbf6c9/1750568619/hls_264_master.m3u8?t=1692366187)
+[Launch Trailer Redux](https://store.steampowered.com/app/673130/) | Creator / publisher
+
+[AMID EVIL RTX FEATURES](https://store.steampowered.com/app/673130/) | Creator / publisher
 
 ![AMID EVIL official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_4b6eeee51930dc4f89d7b5b43743fbce8f68935b.1920x1080.jpg?t=1792047573)
 

@@ -36,11 +36,13 @@ Requires DOOM2.WAD and compatible GZDoom.
 
 The creator documents a 2025 v1.4.1 update with revised jumping.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=yFiuRKPftoA)
+[Creator-published video](https://www.youtube.com/watch?v=yFiuRKPftoA) | Creator / publisher
+
+[Source and provenance](https://batandy.itch.io/goldensouls2)
 
 ![Doom: The Golden Souls 2 - creator-published image](https://img.itch.zone/aW1nLzM2NzA5MjMucG5n/original/49ZdKJ.png)
 

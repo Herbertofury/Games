@@ -23,27 +23,29 @@ Gunfire Reborn is a level-based adventure game featuring FPS, Roguelite and RPG.
 
 - [Steam: store](https://store.steampowered.com/app/1217060/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Season 8 Trailer-EN](https://video.akamai.steamstatic.com/store_trailers/1217060/1700525891/603bdd15e3a24589606dd56e5708f7931e510ecf/1781231674/hls_264_master.m3u8?t=1781233054)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[视频1-英文](https://video.akamai.steamstatic.com/store_trailers/1217060/706495040/603bdd15e3a24589606dd56e5708f7931e510ecf/1781231613/hls_264_master.m3u8?t=1781241981)
+[Season 8 Trailer-EN](https://store.steampowered.com/app/1217060/) | Creator / publisher
 
-[Season 7 Trailer-EN](https://video.akamai.steamstatic.com/store_trailers/1217060/1772527096/78bd8c4d27f1475ae8d9d0d082a0a8f322f7c097/1769768737/hls_264_master.m3u8?t=1769770343)
+[视频1-英文](https://store.steampowered.com/app/1217060/) | Creator / publisher
 
-[视频3-英语](https://video.akamai.steamstatic.com/store_trailers/1217060/259730/234146fc95f20e481470c4b3e4655dddce7cf1a4/1750644059/hls_264_master.m3u8?t=1685423855)
+[Season 7 Trailer-EN](https://store.steampowered.com/app/1217060/) | Creator / publisher
 
-[S5PV-EN](https://video.akamai.steamstatic.com/store_trailers/1217060/1415932498/ec0aba482efd363d71bcd95f51014eaf1d48d209/1750644192/hls_264_master.m3u8?t=1761208485)
+[视频3-英语](https://store.steampowered.com/app/1217060/) | Creator / publisher
 
-[第四赛季-英文](https://video.akamai.steamstatic.com/store_trailers/1217060/813129/7130f8d86f85e8b9468bcad73f4f8c09b9d5e5f4/1750644116/hls_264_master.m3u8?t=1747228740)
+[S5PV-EN](https://store.steampowered.com/app/1217060/) | Creator / publisher
 
-[视频2-英语](https://video.akamai.steamstatic.com/store_trailers/1217060/334314/95a0f8aaecf98b960ee03798dc94db9b0a9ce54f/1750644079/hls_264_master.m3u8?t=1685423843)
+[第四赛季-英文](https://store.steampowered.com/app/1217060/) | Creator / publisher
 
-[视频4-1.0CG-英语](https://video.akamai.steamstatic.com/store_trailers/1217060/417926/15fe85e93b4059d8793a09201bfdbcdbecb98de4/1750644100/hls_264_master.m3u8?t=1685423864)
+[视频2-英语](https://store.steampowered.com/app/1217060/) | Creator / publisher
 
-[视频5-1.0内容-英语](https://video.akamai.steamstatic.com/store_trailers/1217060/417936/fe466bddc531ad38cf383a6d184f644985e0db88/1750644103/hls_264_master.m3u8?t=1685423868)
+[视频4-1.0CG-英语](https://store.steampowered.com/app/1217060/) | Creator / publisher
+
+[视频5-1.0内容-英语](https://store.steampowered.com/app/1217060/) | Creator / publisher
 
 ![Gunfire Reborn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1217060/ss_766c04e48e2c7b3d86406368c8c4b4b9cfddedcc.1920x1080.jpg?t=1792125722)
 

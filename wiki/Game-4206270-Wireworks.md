@@ -22,11 +22,11 @@ Design your defenses, build your module board, and manage your wires. Combine si
 
 - [Steam: store](https://store.steampowered.com/app/4206270/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay](https://video.akamai.steamstatic.com/store_trailers/4206270/1774225474/a66ac8a402af328f2f35599edbb95a13c7f4cba8/1766673988/hls_264_master.m3u8?t=1767364767)
+[Gameplay](https://store.steampowered.com/app/4206270/) | Creator / publisher
 
 ![Wireworks official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4206270/debddad14b301b438bf4cd6e89fec75c1567bee5/ss_debddad14b301b438bf4cd6e89fec75c1567bee5.1920x1080.jpg?t=1785134766)
 

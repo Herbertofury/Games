@@ -24,11 +24,11 @@ Start your roguelite adventure as a sorceresses that wields the arcane elements 
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Hell's Descent Trailer](https://video.akamai.steamstatic.com/store_trailers/3055000/796163/20d155a0e5fad447f742c749ef180abd6f67b013/1750971196/hls_264_master.m3u8?t=1733509275)
+[Hell's Descent Trailer](https://store.steampowered.com/app/3055000/) | Creator / publisher
 
 ![Hell's Descent official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3055000/ss_b1501b7bf4f15eb111bea3e80be60ed92468fd08.1920x1080.jpg?t=1745851013)
 

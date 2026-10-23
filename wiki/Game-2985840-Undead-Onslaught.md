@@ -24,11 +24,11 @@
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Undead Onslaught Trailer EA 1.3.0](https://video.akamai.steamstatic.com/store_trailers/2985840/795349/50904e7db3d4b835447e0c4ef17da62d3c5e4818/1750955416/hls_264_master.m3u8?t=1741977036)
+[Undead Onslaught Trailer EA 1.3.0](https://store.steampowered.com/app/2985840/) | Creator / publisher
 
 ![Undead Onslaught official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2985840/bd4fc514c9a93b170967cb55d0c37353e41ad297/ss_bd4fc514c9a93b170967cb55d0c37353e41ad297.1920x1080.jpg?t=1765730024)
 

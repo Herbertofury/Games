@@ -22,15 +22,15 @@ Mow down thousands of night creatures and survive until dawn! Vampire Survivors 
 
 - [Steam: store](https://store.steampowered.com/app/1794680/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Refreshed Trailer](https://video.akamai.steamstatic.com/store_trailers/1794680/598026/b3a9771de005c30237b53d84932fd2e792f298c0/1750736849/hls_264_master.m3u8?t=1692280956)
+[Refreshed Trailer](https://store.steampowered.com/app/1794680/) | Creator / publisher
 
-[October 2022 - v1.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/1794680/506558/874007c71ce5016cc31f727f76b7afa65892fc61/1750736849/hls_264_master.m3u8?t=1692280960)
+[October 2022 - v1.0 Trailer](https://store.steampowered.com/app/1794680/) | Creator / publisher
 
-[December 2021 - Early Access Release](https://video.akamai.steamstatic.com/store_trailers/1794680/413338/72939a7061f8b8d3373466cfe6a266673e9aa823/1750736849/hls_264_master.m3u8?t=1692280964)
+[December 2021 - Early Access Release](https://store.steampowered.com/app/1794680/) | Creator / publisher
 
 ![Vampire Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6c55afe36be2a7784bf18cb9b3218321ae2d10e5.1920x1080.jpg?t=1787911678)
 

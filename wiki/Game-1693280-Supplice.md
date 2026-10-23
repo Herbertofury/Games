@@ -23,11 +23,13 @@ Supplice is a stylish throwback shooter inspired by the mid-90s FPS glory days a
 
 - [Steam: store](https://store.steampowered.com/app/1693280/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[SUPPLICE Early Access Launch trailer](https://video.akamai.steamstatic.com/store_trailers/1693280/555421/b5a09338f1803187fe1f55b46caa2115ff8f4725/1751020447/hls_264_master.m3u8?t=1680711681)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[SUPPLICE Early Access Launch trailer](https://store.steampowered.com/app/1693280/) | Creator / publisher
 
 ![Supplice official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693280/ss_aeaf769b3ac02cdb81d9f18d0b91d809ac47c84d.1920x1080.jpg?t=1783611523)
 

@@ -24,15 +24,15 @@ One Game, Three Modes Survivor Mode: Frenetic Combat, Endless Loot Hunts Auto Ch
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Promotional Video - English01](https://video.akamai.steamstatic.com/store_trailers/2401740/871118/9a7b34914654fb94c5967a3a9e905f0c40714066/1750915385/hls_264_master.m3u8?t=1744782102)
+[Promotional Video - English01](https://store.steampowered.com/app/2401740/) | Creator / publisher
 
-[AutoChess Video - English01](https://video.akamai.steamstatic.com/store_trailers/2401740/868903/b4e58f92d8041359b61182fd99b165b58f50b5ee/1750915383/hls_264_master.m3u8?t=1744683297)
+[AutoChess Video - English01](https://store.steampowered.com/app/2401740/) | Creator / publisher
 
-[Story Video - English01](https://video.akamai.steamstatic.com/store_trailers/2401740/868915/69ba7f6dffc7ecf641f3a1dbbfc7263aa0bc1384/1750916849/hls_264_master.m3u8?t=1744683301)
+[Story Video - English01](https://store.steampowered.com/app/2401740/) | Creator / publisher
 
 ![​Shattered Lands (破碎之地) official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401740/5e71f5bbeed6e863eea7a7c7464ec3fb677b9a14/ss_5e71f5bbeed6e863eea7a7c7464ec3fb677b9a14.1920x1080.jpg?t=1752315207)
 

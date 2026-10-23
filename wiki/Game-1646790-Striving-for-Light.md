@@ -22,15 +22,15 @@ Blending deep Action RPG buildcrafting with roguelite action, Striving for Light
 
 - [Steam: store](https://store.steampowered.com/app/1646790/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/1646790/2107159931/a22166a0d9da6d09966ecd77535e043a94c224cb/1752242243/hls_264_master.m3u8?t=1752245799)
+[Gameplay Trailer](https://store.steampowered.com/app/1646790/) | Creator / publisher
 
-[Season 2 Era of Darkness Trailer](https://video.akamai.steamstatic.com/store_trailers/1646790/130330312/80463d3df5fcb75404852643449e9b3a21399ad5/1776937456/hls_264_master.m3u8?t=1776938112)
+[Season 2 Era of Darkness Trailer](https://store.steampowered.com/app/1646790/) | Creator / publisher
 
-[Cinematic Trailer](https://video.akamai.steamstatic.com/store_trailers/1646790/512620/99f44632eb4515447c54f0b9dfef696c8cfeff70/1751013718/hls_264_master.m3u8?t=1746036502)
+[Cinematic Trailer](https://store.steampowered.com/app/1646790/) | Creator / publisher
 
 ![Striving for Light official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1646790/15702c677dd44daf52fa30b1cc5211ce802c9595/ss_15702c677dd44daf52fa30b1cc5211ce802c9595.1920x1080.jpg?t=1790073558)
 

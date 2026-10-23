@@ -35,11 +35,13 @@ The June 20, 2026 v1.5 download is packaged as a standalone. Extract it and use 
 
 Version 1.5, updated June 20, 2026, adopts a standalone package. Six remixed Afterglow/Hard Reset maps form a hub, rather than six newly made maps.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=A5NwC_VKKt4)
+[Creator-published video](https://www.youtube.com/watch?v=A5NwC_VKKt4) | Creator / publisher
+
+[Source and provenance](https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater)
 
 ## Sources and evidence
 

@@ -22,17 +22,17 @@ DEEP ROCK GALACTIC: SURVIVOR is a single player survivor-like auto-shooter. Take
 
 - [Steam: store](https://store.steampowered.com/app/2321470/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2321470/1362435163/08f575bd5584259123600c82d91ea6f3b3bbe4f2/1758103181/hls_264_master.m3u8?t=1758177979)
+[Launch Trailer](https://store.steampowered.com/app/2321470/) | Creator / publisher
 
-[Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2321470/657286/c203b60b6750d59487795fb887a18bc755c88e73/1750811708/hls_264_master.m3u8?t=1706795883)
+[Release Date Trailer](https://store.steampowered.com/app/2321470/) | Creator / publisher
 
-[Update 4 Narrated Trailer](https://video.akamai.steamstatic.com/store_trailers/2321470/778197/03101b151286167371152c41e9a64f23e2916473/1750811708/hls_264_master.m3u8?t=1730122636)
+[Update 4 Narrated Trailer](https://store.steampowered.com/app/2321470/) | Creator / publisher
 
-[Narrated Trailer](https://video.akamai.steamstatic.com/store_trailers/2321470/662271/e0afc6936ab4b31668725217d6c2c5e23160f6c7/1750811708/hls_264_master.m3u8?t=1707911745)
+[Narrated Trailer](https://store.steampowered.com/app/2321470/) | Creator / publisher
 
 ![Deep Rock Galactic: Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_7580f5af5c21da17f7b19b92ca6c6acf8ffb4776.1920x1080.jpg?t=1790750403)
 

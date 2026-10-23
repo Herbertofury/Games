@@ -23,11 +23,13 @@ Demons are not the danger, YOU ARE THE DANGER!!! play as Angelica Amadeus, a nun
 
 - [Steam: store](https://store.steampowered.com/app/3818000/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Official Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3818000/983181006/7757098f8fee4fcdf274d9b6026a3405189411cf/1773661284/hls_264_master.m3u8?t=1773661736)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Official Date Trailer](https://store.steampowered.com/app/3818000/) | Creator / publisher
 
 ![Guns and Nuns: Storming Hell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818000/af0d6c24b9679c0a5d46cbfb08a4a6a6958a827e/ss_af0d6c24b9679c0a5d46cbfb08a4a6a6958a827e.1920x1080.jpg?t=1790532112)
 

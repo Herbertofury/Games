@@ -22,17 +22,17 @@ Vanquish an onslaught of monsters in this 3D action survivorslike from the creat
 
 - [Steam: store](https://store.steampowered.com/app/2157710/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Hordes of Hunger \| 1.0 Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2157710/443646979/298f2357a09d0e56513bdb49d57db44bfcefce4b/1770906938/hls_264_master.m3u8?t=1770910854)
+[Hordes of Hunger \| 1.0 Release Trailer](https://store.steampowered.com/app/2157710/) | Creator / publisher
 
-[Reaper Update](https://video.akamai.steamstatic.com/store_trailers/2157710/961986965/306e85805b3f0c844401fad74577899eeb235464/1756824625/hls_264_master.m3u8?t=1756826746)
+[Reaper Update](https://store.steampowered.com/app/2157710/) | Creator / publisher
 
-[Hordes of Hunger \| Gameplay Update Trailer](https://video.akamai.steamstatic.com/store_trailers/2157710/772125/57b70d635f17954a59c45f5cd9314badbeeca14f/1750773545/hls_264_master.m3u8?t=1728983183)
+[Hordes of Hunger \| Gameplay Update Trailer](https://store.steampowered.com/app/2157710/) | Creator / publisher
 
-[Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2157710/672875/6e649c9bcb68b19087558b675d5c8ac2f3a6d29d/1750773509/hls_264_master.m3u8?t=1719317301)
+[Announcement Trailer](https://store.steampowered.com/app/2157710/) | Creator / publisher
 
 ![Hordes of Hunger official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157710/ss_bfcc1c79b38f68052a5b5f9f1404c8f19cb46111.1920x1080.jpg?t=1771536567)
 

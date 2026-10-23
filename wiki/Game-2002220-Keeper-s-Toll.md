@@ -22,13 +22,13 @@ Delve into Keeper’s Toll, an action-packed roguelite brimming with challenge a
 
 - [Steam: store](https://store.steampowered.com/app/2002220/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Full Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2002220/775640/ec707e0fbbd63517af2cb109aa8c7a8bb4155c53/1750744348/hls_264_master.m3u8?t=1730120294)
+[Full Release Trailer](https://store.steampowered.com/app/2002220/) | Creator / publisher
 
-[1.0 Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2002220/775653/d339bc8c9fc048c6741d229aa0bc769074243382/1750744350/hls_264_master.m3u8?t=1730120299)
+[1.0 Gameplay Trailer](https://store.steampowered.com/app/2002220/) | Creator / publisher
 
 ![Keeper's Toll official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_18415cfa545d4fd9edf90e71455784c48ace6634.1920x1080.jpg?t=1771810545)
 

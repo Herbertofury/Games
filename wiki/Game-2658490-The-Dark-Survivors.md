@@ -24,13 +24,13 @@ This game combines survival, Diablo-like elements and randomness in a rogue-lite
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[](https://video.akamai.steamstatic.com/store_trailers/2658490/627101/574d984c279374151dbc7a145a091922aa6a37fd/1750940564/hls_264_master.m3u8?t=1699444170)
+[](https://store.steampowered.com/app/2658490/) | Creator / publisher
 
-[](https://video.akamai.steamstatic.com/store_trailers/2658490/627014/760d15a88f33794869fdf5ce6a41a62f23c80336/1750940562/hls_264_master.m3u8?t=1699444175)
+[](https://store.steampowered.com/app/2658490/) | Creator / publisher
 
 ![The Dark Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2658490/ss_7fe3bac254cc7f0deecd46674b438ac418142bfa.1920x1080.jpg?t=1707565003)
 

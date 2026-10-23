@@ -23,12 +23,15 @@ Shrine II is a retro FPS game with a focus on atmosphere and exploration. Explor
 
 - [Steam: store](https://store.steampowered.com/app/1417010/)
 - [Patreon: support](https://www.patreon.com/scumhead)
+- [itch.io - free full game: download](https://scumhead.itch.io/shrine-ii) | Creator listing offers Shrine II game ZIP and Linux port.
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Shrine 2 Trailer](https://video.akamai.steamstatic.com/store_trailers/1417010/310264/4eb672e82e9397d4d742bfb399cbb66ffb549c2d/1751235235/hls_264_master.m3u8?t=1599588857)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Shrine 2 Trailer](https://store.steampowered.com/app/1417010/) | Creator / publisher
 
 ![Shrine II official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1417010/ss_7804a1d5eaec2aad2b0aeb2498b011780d19120d.1920x1080.jpg?t=1624815642)
 

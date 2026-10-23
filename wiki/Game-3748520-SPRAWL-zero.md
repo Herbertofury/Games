@@ -27,19 +27,21 @@ A recent cyberpunk movement-shooter pick for the wall-running and high-mobility 
 
 - [Steam: store](https://store.steampowered.com/app/3748520/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer ](https://video.akamai.steamstatic.com/store_trailers/3748520/691510250/2683a531f7df5782fcc3b9a808fcbf97ee4ccce6/1788449074/hls_264_master.m3u8?t=1788879174)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Date Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/3748520/2104349967/b6fe6b8a54eefe6d7af04bb964a3e47f7c772cf9/1786098466/hls_264_master.m3u8?t=1786460282)
+[Launch Trailer ](https://store.steampowered.com/app/3748520/) | Creator / publisher
 
-[Demo Trailer ](https://video.akamai.steamstatic.com/store_trailers/3748520/855606558/27eeb33dea48b857e0b6b603ec5311dd85f0f92e/1780405458/hls_264_master.m3u8?t=1781020144)
+[Release Date Reveal Trailer](https://store.steampowered.com/app/3748520/) | Creator / publisher
 
-[Enter the Sprawl Trailer ](https://video.akamai.steamstatic.com/store_trailers/3748520/836182351/da2096ab3d97c33c5036dfad319eba42f405f09c/1776700961/hls_264_master.m3u8?t=1777063173)
+[Demo Trailer ](https://store.steampowered.com/app/3748520/) | Creator / publisher
 
-[Announcement_Trailer ](https://video.akamai.steamstatic.com/store_trailers/3748520/1468466608/634bbcdd3cd47eeda76cc3e0888f2a9338515717/1770726935/hls_264_master.m3u8?t=1772128292)
+[Enter the Sprawl Trailer ](https://store.steampowered.com/app/3748520/) | Creator / publisher
+
+[Announcement_Trailer ](https://store.steampowered.com/app/3748520/) | Creator / publisher
 
 ![SPRAWL zero official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3748520/452dd1231e938de92293fe13797cdb11f6e48a27/ss_452dd1231e938de92293fe13797cdb11f6e48a27.1920x1080.jpg?t=1790240546)
 

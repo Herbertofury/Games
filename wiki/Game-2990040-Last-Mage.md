@@ -24,11 +24,11 @@ Spellcrafting and backpack management combined in one bullet heaven rougelite. A
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Last Mage - Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2990040/79098925/7b5cd9499d90b566d5b2cd33c3e97e852b70985d/1771332789/hls_264_master.m3u8?t=1771763366)
+[Last Mage - Early Access Launch Trailer](https://store.steampowered.com/app/2990040/) | Creator / publisher
 
 ![Last Mage official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990040/1ed2f6f8c813acb2b44a3da3954488e28e20a754/ss_1ed2f6f8c813acb2b44a3da3954488e28e20a754.1920x1080.jpg?t=1789558292)
 

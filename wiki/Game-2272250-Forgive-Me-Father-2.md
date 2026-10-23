@@ -22,20 +22,24 @@ Embark on a journey into the darkest nightmares to restore your sanity. Blast yo
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/2272250/)
+- [GOG: store](https://www.gog.com/en/game/forgive_me_father_2) | Game-specific official website link with matching destination title
+- [Epic Games: store](https://store.epicgames.com/p/forgive-me-father-2-ea03a5) | Exact official Epic Games product listing
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Forgive Me Father 2 - Full launch](https://video.akamai.steamstatic.com/store_trailers/2272250/776558/f7e22a87537e38ec9ab2fb1e12d9fef779e9d8fa/1750810043/hls_264_master.m3u8?t=1729788597)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Forgive me Father 2 - CU2 and Release Date announcement](https://video.akamai.steamstatic.com/store_trailers/2272250/756446/b59e034b48a8414b746ec57ca14aa4d5496cf647/1750810041/hls_264_master.m3u8?t=1726505492)
+[Forgive Me Father 2 - Full launch](https://store.steampowered.com/app/2272250/) | Creator / publisher
 
-[Forgive Me Father 2 - CU1 trailer](https://video.akamai.steamstatic.com/store_trailers/2272250/683693/0eece0d862ed2d71f800239656363f99cf4c69cf/1750810040/hls_264_master.m3u8?t=1712342915)
+[Forgive me Father 2 - CU2 and Release Date announcement](https://store.steampowered.com/app/2272250/) | Creator / publisher
 
-[Forgive Me Father 2 Early Access Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2272250/620721/a633acf34e4f4a9d47e2ac7a58749e285dd1c437/1750810040/hls_264_master.m3u8?t=1697800022)
+[Forgive Me Father 2 - CU1 trailer](https://store.steampowered.com/app/2272250/) | Creator / publisher
 
-[FMF2 announcement](https://video.akamai.steamstatic.com/store_trailers/2272250/554495/e3dca484287e79734ed4111f1fa7d4d4727fb90d/1750810038/hls_264_master.m3u8?t=1680799794)
+[Forgive Me Father 2 Early Access Release Trailer](https://store.steampowered.com/app/2272250/) | Creator / publisher
+
+[FMF2 announcement](https://store.steampowered.com/app/2272250/) | Creator / publisher
 
 ![Forgive Me Father 2 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272250/ss_4075fda8c55c31ae420e0ec8de253c1f625fc4b8.1920x1080.jpg?t=1789131266)
 

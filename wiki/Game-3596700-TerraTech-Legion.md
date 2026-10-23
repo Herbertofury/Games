@@ -22,13 +22,13 @@ TerraTech Legion, a chaotic Bullet Heaven Builder. Build the ultimate battle veh
 
 - [Steam: store](https://store.steampowered.com/app/3596700/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[TerraTech Legion \| Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3596700/149596689/048d7a73439570fb0038d503e407a647763e8a80/1777412635/hls_264_master.m3u8?t=1777568490)
+[TerraTech Legion \| Launch Trailer](https://store.steampowered.com/app/3596700/) | Creator / publisher
 
-[TerraTech Legion \| Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3596700/292058684/df217d589fedecb07e50eb07974b65b09e7d424b/1776187862/hls_264_master.m3u8?t=1776257963)
+[TerraTech Legion \| Release Date Trailer](https://store.steampowered.com/app/3596700/) | Creator / publisher
 
 ![TerraTech Legion official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/a059b29d8cf6cfdbe034d9a28debecef044e59a2/ss_a059b29d8cf6cfdbe034d9a28debecef044e59a2.1920x1080.jpg?t=1782372678)
 

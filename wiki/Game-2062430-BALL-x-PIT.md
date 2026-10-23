@@ -22,13 +22,13 @@ BALL x PIT is a brick-breaking, ball-fusing, base-building survival roguelite. B
 
 - [Steam: store](https://store.steampowered.com/app/2062430/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[The Naturalist Update \| Out Now](https://video.akamai.steamstatic.com/store_trailers/2062430/1755717426/3aef12229166319d54952d03891f2b6080df679e/1784039714/hls_264_master.m3u8?t=1786033463)
+[The Naturalist Update \| Out Now](https://store.steampowered.com/app/2062430/) | Creator / publisher
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2062430/1468607397/3585842f9abc41bbf0614701445cbee64394480b/1759954499/hls_264_master.m3u8?t=1760647671)
+[Launch Trailer](https://store.steampowered.com/app/2062430/) | Creator / publisher
 
 ![BALL x PIT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/a28844182780f12e79a6b8d5db69eb8677642440/ss_a28844182780f12e79a6b8d5db69eb8677642440.1920x1080.jpg?t=1790869056)
 

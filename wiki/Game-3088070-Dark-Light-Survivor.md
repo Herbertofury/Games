@@ -22,15 +22,15 @@ Dark Light: Survivor is a dark sci-fi action roguelike with ARPG loot and third-
 
 - [Steam: store](https://store.steampowered.com/app/3088070/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Endless Mode Update](https://video.akamai.steamstatic.com/store_trailers/3088070/519845281/787182608829a8a9ba39b200beb2fa6d331b710a/1790674068/hls_264_master.m3u8?t=1790677055)
+[Endless Mode Update](https://store.steampowered.com/app/3088070/) | Creator / publisher
 
-[Dark Light Survivor Release Teaser](https://video.akamai.steamstatic.com/store_trailers/3088070/522575482/2611ea25e3e527a5d92df226167a145254f07c0a/1777690530/hls_264_master.m3u8?t=1777691781)
+[Dark Light Survivor Release Teaser](https://store.steampowered.com/app/3088070/) | Creator / publisher
 
-[Dark Light: Survivor EA Release Trailer 1](https://video.akamai.steamstatic.com/store_trailers/3088070/1281158993/9c19011da29b47275e2ed95f61db8593149199dc/1774599774/hls_264_master.m3u8?t=1774600438)
+[Dark Light: Survivor EA Release Trailer 1](https://store.steampowered.com/app/3088070/) | Creator / publisher
 
 ![Dark Light: Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088070/ss_d5ffc28d9b55641980774a8b9052d8d2458d21e5.1920x1080.jpg?t=1792474161)
 

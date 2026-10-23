@@ -22,12 +22,15 @@ Impaler Gold is a fast-paced minimalistic arena shooter - now expanded and impro
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1573090/)
+- [GOG: store](https://www.gog.com/en/game/impaler) | Exact title in GOG official catalog: Impaler Gold
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Impaler Gold Trailer](https://video.akamai.steamstatic.com/store_trailers/1573090/735894/98a544a27037994667e4b55c6789b0a944fbd4ec/1751004941/hls_264_master.m3u8?t=1722873645)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Impaler Gold Trailer](https://store.steampowered.com/app/1573090/) | Creator / publisher
 
 ![Impaler Gold official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_7a7f939ca4c42eb3f01142035cb6e3b8203d7644.1920x1080.jpg?t=1792153819)
 

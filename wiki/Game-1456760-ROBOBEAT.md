@@ -22,18 +22,21 @@ Keep your trigger finger on the pulse! In rhythm shooter ROBOBEAT, you'll play a
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1456760/)
+- [Epic Games: store](https://store.epicgames.com/en-US/p/robobeat-5f084b) | Exact game-specific listing confirmed by the official Epic store or linked publisher website.
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1456760/700063/489c0b0ead2996009f1ad88a98230b8d33d071a3/1750691103/hls_264_master.m3u8?t=1715688640)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Summer Update Trailer](https://video.akamai.steamstatic.com/store_trailers/1456760/344320274/2b08678642dcb5e7eeaebbba42adafe96a03b673/1751382685/hls_264_master.m3u8?t=1751385484)
+[Launch Trailer](https://store.steampowered.com/app/1456760/) | Creator / publisher
 
-[BPM Collab](https://video.akamai.steamstatic.com/store_trailers/1456760/697966/d01220e245cedc9520ab3f2049bad96875ab4a14/1750691103/hls_264_master.m3u8?t=1715262015)
+[Summer Update Trailer](https://store.steampowered.com/app/1456760/) | Creator / publisher
 
-[Custom Music Trailer](https://video.akamai.steamstatic.com/store_trailers/1456760/573525/f5fde62a75a3f664e2f49b9df96f6fb033f4c6a2/1750691018/hls_264_master.m3u8?t=1704883673)
+[BPM Collab](https://store.steampowered.com/app/1456760/) | Creator / publisher
+
+[Custom Music Trailer](https://store.steampowered.com/app/1456760/) | Creator / publisher
 
 ![ROBOBEAT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_3b1f43581e4c16ffa242ae1f4ffc2800757e586d.1920x1080.jpg?t=1791474999)
 

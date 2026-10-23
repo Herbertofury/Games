@@ -22,13 +22,13 @@ Darkchaser: Battletide is a Bullet Heaven game where you play as a hero in a mon
 
 - [Steam: store](https://store.steampowered.com/app/2884590/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[联机玩法](https://video.akamai.steamstatic.com/store_trailers/2884590/726958/146089bab03eb5e45f4879e7c1d2151e6972b086/1750950578/hls_264_master.m3u8?t=1731034741)
+[联机玩法](https://store.steampowered.com/app/2884590/) | Creator / publisher
 
-[宣传PV](https://video.akamai.steamstatic.com/store_trailers/2884590/686612/22bcfecfde1c41d1546bf3aa615441dc33542e17/1750950573/hls_264_master.m3u8?t=1731034745)
+[宣传PV](https://store.steampowered.com/app/2884590/) | Creator / publisher
 
 ![Darkchaser: Battletide official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2884590/ss_002e8c3599d5c2a4ed28ee4d97dccb2d348654af.1920x1080.jpg?t=1768795603)
 

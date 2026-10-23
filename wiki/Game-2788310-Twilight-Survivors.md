@@ -22,11 +22,11 @@ A time-limited survival game infused with rogue-lite elements and an adorable ar
 
 - [Steam: store](https://store.steampowered.com/app/2788310/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[PV](https://video.akamai.steamstatic.com/store_trailers/2788310/664887/0d40ed40d7252538b2f9b0aad5a8831c67e2143d/1750900091/hls_264_master.m3u8?t=1708655798)
+[PV](https://store.steampowered.com/app/2788310/) | Creator / publisher
 
 ![Twilight Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2788310/ss_a18acf4220665d7484252cbbc46a35fe33c9f97e.1920x1080.jpg?t=1733211779)
 

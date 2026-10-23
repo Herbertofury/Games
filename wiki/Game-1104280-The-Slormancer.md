@@ -22,13 +22,13 @@ Fight hordes of enemies led by The Slormancer, an evil warlock from the past, in
 
 - [Steam: store](https://store.steampowered.com/app/1104280/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[The Slormancer - Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1104280/877189/4928376dff9e569cb3e39df7aeb86769551f5ce8/1750619869/hls_264_master.m3u8?t=1745502732)
+[The Slormancer - Release Trailer](https://store.steampowered.com/app/1104280/) | Creator / publisher
 
-[The Slormancer - Content Trailer](https://video.akamai.steamstatic.com/store_trailers/1104280/877224/3bfb226243c45f060760a4d2a17a4d3ba90609f2/1750619879/hls_264_master.m3u8?t=1745502735)
+[The Slormancer - Content Trailer](https://store.steampowered.com/app/1104280/) | Creator / publisher
 
 ![The Slormancer official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1104280/ss_3f44cf82abd3ad677fe416e7786285d1c5d677d9.1920x1080.jpg?t=1789383721)
 

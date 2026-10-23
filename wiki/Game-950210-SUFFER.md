@@ -23,13 +23,15 @@ SUFFER is a brutally difficult retro-styled first person shooter! Become the Spi
 
 - [Steam: store](https://store.steampowered.com/app/950210/)
 
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
+
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[ULTIMATE SUFFER!](https://video.akamai.steamstatic.com/store_trailers/950210/1983516354/4026f2dc2a3a9ea2594ae7bb36702d1ba5f03f4a/1773148789/hls_264_master.m3u8?t=1773152365)
+[ULTIMATE SUFFER!](https://store.steampowered.com/app/950210/) | Creator / publisher
 
 ![SUFFER official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/950210/c31f52ea34c7c06d6d6b0d44cbdc8611802c64a2/ss_c31f52ea34c7c06d6d6b0d44cbdc8611802c64a2.1920x1080.jpg?t=1782415346)
 

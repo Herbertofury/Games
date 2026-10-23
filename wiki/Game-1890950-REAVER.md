@@ -27,13 +27,15 @@ A high-mobility combat discovery for the movement-shooter shelf. Its developing 
 
 - [Steam: store](https://store.steampowered.com/app/1890950/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[REAVER EARLY ACCESS TRAILER](https://video.akamai.steamstatic.com/store_trailers/1890950/446713/4afcf2c020cc3aa724881499add50df7e883dfdd/1751043836/hls_264_master.m3u8?t=1701682550)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Placeholder 1](https://video.akamai.steamstatic.com/store_trailers/1890950/443317/e36cad8aea6ff7d0bc8a316c47b64a3761b368a6/1751493662/hls_264_master.m3u8?t=1646299399)
+[REAVER EARLY ACCESS TRAILER](https://store.steampowered.com/app/1890950/) | Creator / publisher
+
+[Placeholder 1](https://store.steampowered.com/app/1890950/) | Creator / publisher
 
 ![REAVER official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1890950/ss_bc3b57c1f40eaabd81cc3510410213b025815228.1920x1080.jpg?t=1778933193)
 

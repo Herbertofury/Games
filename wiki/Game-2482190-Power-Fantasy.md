@@ -22,13 +22,13 @@ Survive hordes of blood hungry enemies and hope for the best upgrades while you 
 
 - [Steam: store](https://store.steampowered.com/app/2482190/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Update 1.2 - Rise of Nightmares](https://video.akamai.steamstatic.com/store_trailers/2482190/581971876/1197452bea715cb4356cf54aca706f5b8d55ddf0/1780918018/hls_264_master.m3u8?t=1780924865)
+[Update 1.2 - Rise of Nightmares](https://store.steampowered.com/app/2482190/) | Creator / publisher
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2482190/1748469989/81070d0262a1503f93564e17d3bff611cac1c22d/1764837915/hls_264_master.m3u8?t=1764855051)
+[Release Trailer](https://store.steampowered.com/app/2482190/) | Creator / publisher
 
 ![Power Fantasy official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2482190/9b45c1a76ea090461ee68259b4ee69e64094cfb5/ss_9b45c1a76ea090461ee68259b4ee69e64094cfb5.1920x1080.jpg?t=1789720768)
 

@@ -26,12 +26,15 @@ Useful for accessing the Blood ecosystem, but its more divided player reception 
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/3884520/)
+- [Epic Games: store](https://store.epicgames.com/it/p/blood-refreshed-supply-f8bb7c) | Exact game-specific listing confirmed by the official Epic store or linked publisher website.
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Blood: Refreshed Supply™ - Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3884520/1058908776/4c0dce92af3250d9d663041c8efa404211a735e8/1764870865/hls_264_master.m3u8?t=1764878409)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Blood: Refreshed Supply™ - Launch Trailer](https://store.steampowered.com/app/3884520/) | Creator / publisher
 
 ![Blood: Refreshed Supply™ official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884520/c2cfb6b29edba87c72677b4ded8b41fee1e70e38/ss_c2cfb6b29edba87c72677b4ded8b41fee1e70e38.1920x1080.jpg?t=1785346280)
 

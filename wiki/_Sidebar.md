@@ -4,6 +4,7 @@
 
 - [Home](Home)
 - [Boomer shooters](Boomer-Shooters)
+- [Every shooter: media atlas](Boomer-Shooters-Media)
 - [Roguelites](Roguelites)
 - [Beyond Steam](Beyond-Steam)
 - [Creator support](Creator-Support)

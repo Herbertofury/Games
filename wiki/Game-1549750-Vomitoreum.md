@@ -23,12 +23,15 @@ Vomitoreum is an FPS Metroidvania with a focus on atmosphere and horror, inspire
 
 - [Steam: store](https://store.steampowered.com/app/1549750/)
 - [Patreon: support](https://www.patreon.com/scumhead)
+- [itch.io: store](https://scumhead.itch.io/vomitoreumgame) | Creator listing shows Buy Now and full game files: Vomitoreum.zip 121 MB
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Vomitoreum Teaser](https://video.akamai.steamstatic.com/store_trailers/1549750/346791/867c374d33157f0e6f582c3729a4e2a1e6b1ac76/1751001902/hls_264_master.m3u8?t=1613074601)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Vomitoreum Teaser](https://store.steampowered.com/app/1549750/) | Creator / publisher
 
 ![Vomitoreum official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549750/ss_703ca8cac986fcb0150c77aef024b8531462b0fa.1920x1080.jpg?t=1627649937)
 

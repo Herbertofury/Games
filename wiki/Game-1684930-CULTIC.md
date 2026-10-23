@@ -27,17 +27,19 @@ A top recommendation for occult atmosphere, crunchy combat, and a deliberate cam
 
 - [Steam: store](https://store.steampowered.com/app/1684930/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[CULTIC Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/1684930/496898/a92ae3f3aded8f5f480a19ce869e7d00c2277ea4/1750725346/hls_264_master.m3u8?t=1663362235)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[CULTIC - Interlude](https://video.akamai.steamstatic.com/store_trailers/1684930/612335/ca30b8b0b33154e5a18ae6069ebc97b5c0ff9ea7/1750725373/hls_264_master.m3u8?t=1696099961)
+[CULTIC Release Date Trailer](https://store.steampowered.com/app/1684930/) | Creator / publisher
 
-[CULTIC Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1684930/504307/2b9ee22fb1a5dc57ee5160e441091b282de01d23/1750725373/hls_264_master.m3u8?t=1665680079)
+[CULTIC - Interlude](https://store.steampowered.com/app/1684930/) | Creator / publisher
 
-[CULTIC Next-Fest Trailer](https://video.akamai.steamstatic.com/store_trailers/1684930/471557/ca30c1ca8b69e1353e4d6056cb3ed29f12f7cdb9/1750725313/hls_264_master.m3u8?t=1655136230)
+[CULTIC Launch Trailer](https://store.steampowered.com/app/1684930/) | Creator / publisher
+
+[CULTIC Next-Fest Trailer](https://store.steampowered.com/app/1684930/) | Creator / publisher
 
 ![CULTIC official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/c7ebb4e4f1000f4d1e75e8955ee5e3353b744176/ss_c7ebb4e4f1000f4d1e75e8955ee5e3353b744176.1920x1080.jpg?t=1786717270)
 

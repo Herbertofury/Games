@@ -26,20 +26,24 @@ A niche horror-FPS curiosity with mixed player reception. Keep it in the deep-cu
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1409200/)
+- [GOG: store](https://www.gog.com/en/game/hyperviolent) | Exact title in GOG official catalog: HYPERVIOLENT
+- [itch.io - demo: demo](https://fulqrumpublishing.itch.io/hv) | Creator listing exposes demo files, not the full commercial release: Download HYPERVIOLENT.rar 36 MB
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Full Release trailer](https://video.akamai.steamstatic.com/store_trailers/1409200/1674076473/e3c0a781a114fba227534ba279009f46444cef3a/1758624602/hls_264_master.m3u8?t=1758646403)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Full release announcement](https://video.akamai.steamstatic.com/store_trailers/1409200/959004162/44942e353f566c0210b20ebbc86726b42a1b42d9/1758033231/hls_264_master.m3u8?t=1758034535)
+[Full Release trailer](https://store.steampowered.com/app/1409200/) | Creator / publisher
 
-[Content Update 3](https://video.akamai.steamstatic.com/store_trailers/1409200/872477/057cd2d949764d2d9d0a44ff74ae551863a6d0c9/1751234042/hls_264_master.m3u8?t=1744917414)
+[Full release announcement](https://store.steampowered.com/app/1409200/) | Creator / publisher
 
-[Content Update 2 - Viscera of Commodus Trailer](https://video.akamai.steamstatic.com/store_trailers/1409200/760625/03742c9b22d41f6b40449787f0cd977c4b97bdc1/1751234042/hls_264_master.m3u8?t=1727186464)
+[Content Update 3](https://store.steampowered.com/app/1409200/) | Creator / publisher
 
-[EA Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1409200/555748/88b82fdc5c85e6d5297c3633c61e466f1f2182a4/1751234040/hls_264_master.m3u8?t=1680800279)
+[Content Update 2 - Viscera of Commodus Trailer](https://store.steampowered.com/app/1409200/) | Creator / publisher
+
+[EA Launch Trailer](https://store.steampowered.com/app/1409200/) | Creator / publisher
 
 ![HYPERVIOLENT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409200/0bb26e92b48dd8350eb711f74b00464706731e87/ss_0bb26e92b48dd8350eb711f74b00464706731e87.1920x1080.jpg?t=1761836810)
 

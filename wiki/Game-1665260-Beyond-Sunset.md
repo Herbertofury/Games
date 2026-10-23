@@ -22,22 +22,26 @@ Cyberpunk first-person shooter with a rich story and RPG elements. You are Lucy,
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1665260/)
+- [GOG: store](https://www.gog.com/en/game/beyond_sunset) | Exact title in GOG official catalog: Beyond Sunset
+- [itch.io - archived demo page: project](https://metacorp.itch.io/beyond-sunset) | Creator labels this a canceled demo page; no current download exposed.
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1665260/1824457802/ff53b5d69ed05d83f0bb0ac6f89c498dbb368587/1757672149/hls_264_master.m3u8?t=1757695855)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Beyond Sunset](https://video.akamai.steamstatic.com/store_trailers/1665260/469231/606271e6bb7947cacb4c97a95b9d87085af9d2bf/1750721821/hls_264_master.m3u8?t=1683538477)
+[Release Trailer](https://store.steampowered.com/app/1665260/) | Creator / publisher
 
-[Beyond Sunset :/Episode2_Trailer](https://video.akamai.steamstatic.com/store_trailers/1665260/587605/94cd7543a6f9e0b62cd25467ae657f68161d0d70/1750721832/hls_264_master.m3u8?t=1689336306)
+[Beyond Sunset](https://store.steampowered.com/app/1665260/) | Creator / publisher
 
-[Beyond Sunset :/[Music_Trailer]](https://video.akamai.steamstatic.com/store_trailers/1665260/505888/b5aa212c50f8e4440569c64dc6fd3ca17702cdf9/1750721826/hls_264_master.m3u8?t=1683538482)
+[Beyond Sunset :/Episode2_Trailer](https://store.steampowered.com/app/1665260/) | Creator / publisher
 
-[Realms Deep Cinematic Trailer](https://video.akamai.steamstatic.com/store_trailers/1665260/394072/f15f6d31340fb7ab7e5b911f37ce7e4bc93b866b/1750721810/hls_264_master.m3u8?t=1683538486)
+[Beyond Sunset :/[Music_Trailer]](https://store.steampowered.com/app/1665260/) | Creator / publisher
 
-[First Look](https://video.akamai.steamstatic.com/store_trailers/1665260/389182/79ed8a7194418cd9ae122b9981cc3121d81a28e3/1750721798/hls_264_master.m3u8?t=1683538490)
+[Realms Deep Cinematic Trailer](https://store.steampowered.com/app/1665260/) | Creator / publisher
+
+[First Look](https://store.steampowered.com/app/1665260/) | Creator / publisher
 
 ![Beyond Sunset official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1665260/ss_7ecde9570ff3e93e13bf8c8744151690fc09cd6c.1920x1080.jpg?t=1762940554)
 

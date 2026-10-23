@@ -1,13 +1,18 @@
-# Games - Living Library 1.1
+# Games - Living Library 1.2
 
-Adds the Boomer Shooters genre hub alongside the complete original roguelite collection.
+Completes the Boomer Shooters media and storefront expansion in the existing library.
 
-New: recent commercial releases, overlooked campaigns, movement FPS games, fantasy/horror shooters, free standalone projects, Quake/Blood/Doom conversions, public demos, and prototypes. Exact creator pages and alternate stores include itch.io, GOG, Epic, ModDB, Slipseer, IndieDB, Newgrounds, and verified Patreon support links.
+**318 unique games. 170 original roguelites preserved. 150 shooter-hub entries, with two cross-genre overlaps. Every shooter has artwork, an embedded video source, and direct distribution links.**
 
-The library now separates genre hubs, platforms, build types, core/adjacent FPS styles, native host ratings, and install requirements. Creator videos use an opt-in embedded player. Native ratings retain their original scale. Mod files can be free while still requiring an owned game.
+Adds the visual native-wiki Media Atlas for every shooter, per-card source/video counts, source and credit links underneath videos, explicit edition warnings, and an all-sources panel. The 255 verified direct links across the shooter hub include Steam, GOG, itch.io, Epic, ModDB, Slipseer, IndieDB, Newgrounds, creator pages, and 14 Patreon support references. Support is not a purchase. Demo, archived demo, original mod, and commercial remake links are distinct. The 126-game alternate-store pass records unmatched candidates rather than claiming unavailable stores do not exist.
 
-Download **Games - Explorer.html** to open the portable app, or **Games - Library.zip** for the complete reproducible source, data, generated wiki, and site. No installation or account is required to browse the portable catalog. Uncached media needs an internet connection.
+All existing organization remains: rating and recommendation sorting, release filters, hidden gems, provider filters, saved games, statuses, notes, comparison, export/import, gallery/table/cards, mobile layouts, and keyboard support. No record virtualization or hidden scheduled crawler.
 
-QA reports document what was actually tested, including all original catalog features and the cross-platform extension. Media coverage and any provider failures are recorded separately from verified game identities. The app does not claim hands-on playtesting of every recommendation.
+Download **Games - Explorer.html** for the portable app, or **Games - Library.zip** for the complete reproducible source, data, wiki, and site. Browser organization works locally; uncached media needs internet. YouTube players load only when chosen.
 
-Native wiki: https://github.com/Herbertofury/Games/wiki/Boomer-Shooters
+The native wiki embeds images and links exact video sources. In-page video players belong to the interactive HTML app. Pages hosting is separately recorded; a successful wiki/release does not imply Pages is enabled.
+
+QA reports record exhaustive shooter media/store controls and artwork decoding, exact new YouTube metadata, real Steam video playback, the full original-feature regression, and mobile behavior. No claim of personally playtesting every recommendation is made.
+
+Wiki: https://github.com/Herbertofury/Games/wiki/Boomer-Shooters
+Media Atlas: https://github.com/Herbertofury/Games/wiki/Boomer-Shooters-Media

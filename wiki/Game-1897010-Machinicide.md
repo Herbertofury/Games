@@ -22,15 +22,17 @@ Machinicide is a boomer shooter with imm sim and bullet hell elements. Reduce al
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1897010/)
-- [itch.io: store](https://meister351.itch.io/machinicide)
+- [itch.io: store](https://meister351.itch.io/machinicide) | Creator listing shows Buy Now and full game files: machinicide-windows.zip 1.6 GB Version 1; machinicide-linux.zip 1.6 GB Version 1
+
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/1897010/806029/4cef6f3396f681e9b8b57f8d1be8392af1f6b2ae/1751493939/hls_264_master.m3u8?t=1735603195)
+[Gameplay trailer](https://store.steampowered.com/app/1897010/) | Creator / publisher
 
 ![Machinicide official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897010/ss_dd5846ea82c865034db97c41245801f59c86a2a1.1920x1080.jpg?t=1782316672)
 

@@ -23,13 +23,15 @@ PO’ed is an adrenaline-pumping space shooter that features gameplay elements i
 
 - [Steam: store](https://store.steampowered.com/app/2697470/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[PO'ed: Definitive Edition Trailer](https://video.akamai.steamstatic.com/store_trailers/2697470/691230/c44bd4d9b969025474db46cc0c352e8be2a679a9/1750892030/hls_264_master.m3u8?t=1745958250)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[PO'ed Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2697470/680823/59f2b5c6436a22283b9f087bb7934b766a656322/1750892029/hls_264_master.m3u8?t=1745958253)
+[PO'ed: Definitive Edition Trailer](https://store.steampowered.com/app/2697470/) | Creator / publisher
+
+[PO'ed Announcement Trailer](https://store.steampowered.com/app/2697470/) | Creator / publisher
 
 ![PO'ed: Definitive Edition official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697470/ss_1d09dd7ec36744a4b8b24919584955e27ad4fd53.1920x1080.jpg?t=1774275294)
 

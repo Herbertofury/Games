@@ -22,13 +22,13 @@ Loot, shoot, and mow down zombie hordes in this bullet heaven fever dream. Hit t
 
 - [Steam: store](https://store.steampowered.com/app/3026450/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Deadly Days: Roadtrip - Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3026450/169435461/7b3ac9cb835b1da93c998769b605f175526ff0f6/1758472872/hls_264_master.m3u8?t=1758545785)
+[Deadly Days: Roadtrip - Launch Trailer](https://store.steampowered.com/app/3026450/) | Creator / publisher
 
-[2025-03 Trailer](https://video.akamai.steamstatic.com/store_trailers/3026450/858986/42e0c13d8ef2a6526e35365db9dbbcb1bc65f705/1750959001/hls_264_master.m3u8?t=1748257244)
+[2025-03 Trailer](https://store.steampowered.com/app/3026450/) | Creator / publisher
 
 ![Deadly Days: Roadtrip official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026450/4469422e7be3a06c7dc39ec10369ca85c8d9063c/ss_4469422e7be3a06c7dc39ec10369ca85c8d9063c.1920x1080.jpg?t=1792653600)
 

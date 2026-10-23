@@ -22,14 +22,17 @@ The A.C.E.S. Once the watchful guardians of Switchblade City - are being taken d
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1411910/)
+- [GOG: store](https://www.gog.com/en/game/fallen_aces) | Exact title in GOG official catalog: Fallen Aces
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Fallen Aces Episode 2 OUT NOW](https://video.akamai.steamstatic.com/store_trailers/1411910/185556452/e4dc9ed29d5f10b9aef98a54e02e73c027edbad9/1785026722/hls_264_master.m3u8?t=1785084311)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Fallen Aces Episode 1 OUT NOW](https://video.akamai.steamstatic.com/store_trailers/1411910/714062/7edb926a54c2c769d009c3016576f4aa2b5053b1/1750685972/hls_264_master.m3u8?t=1718390387)
+[Fallen Aces Episode 2 OUT NOW](https://store.steampowered.com/app/1411910/) | Creator / publisher
+
+[Fallen Aces Episode 1 OUT NOW](https://store.steampowered.com/app/1411910/) | Creator / publisher
 
 ![Fallen Aces official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_805a9c1f30e97e232c80e5e0994fbc48120fb006.1920x1080.jpg?t=1788574985)
 

@@ -36,11 +36,13 @@ Requires compatible Doom game data and an engine supported by the selected relea
 
 Stable v21 is separate from v22 Beta Test 6, published April 1, 2026. Choose a version deliberately and read its included manual.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=Ae9DNXrUInM)
+[Creator-published video](https://www.youtube.com/watch?v=Ae9DNXrUInM) | Creator / publisher
+
+[Source and provenance](https://www.moddb.com/mods/brutal-doom)
 
 ![Brutal Doom - creator-published image](https://media.moddb.com/images/mods/1/20/19741/Doomguy_low_on_health.jpg)
 

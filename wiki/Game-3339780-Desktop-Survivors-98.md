@@ -22,13 +22,13 @@ Desktop Survivors 98 is a chaotic roguelite dungeon crawler that unfolds right o
 
 - [Steam: store](https://store.steampowered.com/app/3339780/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Desktop Survivors 98 - Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3339780/884129/2b34acf4b29fd705725cfa4c9f65dfe98e4d14bf/1750825665/hls_264_master.m3u8?t=1746367259)
+[Desktop Survivors 98 - Release Date Trailer](https://store.steampowered.com/app/3339780/) | Creator / publisher
 
-[Desktop Survivors 98 - Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/3339780/782804/834bddfad6ecdff3343793f472a68586b0e7838a/1750825665/hls_264_master.m3u8?t=1734187105)
+[Desktop Survivors 98 - Announcement Trailer](https://store.steampowered.com/app/3339780/) | Creator / publisher
 
 ![Desktop Survivors 98 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339780/20bc014ef69cd54aa05e86f7ad58ee12f7c09748/ss_20bc014ef69cd54aa05e86f7ad58ee12f7c09748.1920x1080.jpg?t=1747755040)
 

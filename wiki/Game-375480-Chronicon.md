@@ -22,13 +22,13 @@ Use the magical device known as the Chronicon to travel into the souls and memor
 
 - [Steam: store](https://store.steampowered.com/app/375480/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Chronicon Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/375480/331975/b704c98623ecd0a57f80af81b8073e05a4551114/1750520416/hls_264_master.m3u8?t=1607343038)
+[Chronicon Launch Trailer](https://store.steampowered.com/app/375480/) | Creator / publisher
 
-[1.20.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/375480/356839/aa89a91ac950dc5802eb7ec3f0dc55bce4ee79fb/1750520432/hls_264_master.m3u8?t=1616764424)
+[1.20.0 Trailer](https://store.steampowered.com/app/375480/) | Creator / publisher
 
 ![Chronicon official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/ss_9df1ebe0b394b7e649233b9c62dacee117915e06.1920x1080.jpg?t=1790762647)
 

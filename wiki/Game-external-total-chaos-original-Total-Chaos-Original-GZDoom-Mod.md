@@ -15,7 +15,7 @@ A striking example of what the Doom mod scene can build, but slower and more sur
 | Collection | Horror & occult FPS |
 | Recommendation | 8/10 |
 | Community reception | No aggregate rating |
-| Release | 2018 (year only) |
+| Release | Oct 30, 2018 |
 | Availability | Released |
 | Build type | Free standalone / mod |
 | FPS style | Adjacent FPS |
@@ -27,6 +27,7 @@ A striking example of what the Doom mod scene can build, but slower and more sur
 
 - [ModDB: download](https://www.moddb.com/mods/total-chaos)
 - [ModDB: download](https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140)
+- [GOG - free mod edition: download](https://www.gog.com/en/game/total_chaos_mod) | Exact original-mod listing, separate from the 2025 remake
 
 ### Before you play
 
@@ -36,13 +37,22 @@ Original free GZDoom Director's Cut 1.40, not the separate Unreal Engine remake.
 
 Original mod Director's Cut 1.40: August 8, 2022. The later commercial remake has a separate release history.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Total Chaos - original mod trailer](https://www.youtube.com/watch?v=6J0jmlAdDo4) | Creator trailer from the GOG Total Chaos Mod listing
+
+[Source and provenance](https://www.gog.com/en/game/total_chaos_mod)
+
+> Original Doom-engine mod. This is not the separate 2025 commercial remake.
 
 ## Sources and evidence
 
 - [ModDB](https://www.moddb.com/mods/total-chaos) · checked 2026-10-23T06:35:12.994433+00:00
 - [ModDB original Director's Cut](https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140) · checked 2026-10-23
+- [Video source](https://www.vgcal.com/game/total-chaos) · checked 2026-10-23T07:23:50.572391+00:00
+- [Video provenance](https://www.gog.com/en/game/total_chaos_mod) · checked 2026-10-23T07:29:49.621750+00:00
+- [Developer release announcement](https://wadaholic.wordpress.com/2018/10/30/total-chaos-released/) · checked 2026-10-23T07:29:49.621750+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -22,13 +22,13 @@ Unleash mighty Champions in this thrilling co-op bullet heaven. Shift into battl
 
 - [Steam: store](https://store.steampowered.com/app/2391900/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Champion Shift - Launch Trailer 02](https://video.akamai.steamstatic.com/store_trailers/2391900/723550/13e781060360b2fa0eb864b358802edb5a9cb5b2/1750914460/hls_264_master.m3u8?t=1720466917)
+[Champion Shift - Launch Trailer 02](https://store.steampowered.com/app/2391900/) | Creator / publisher
 
-[Champion Shift - Gameplay Trailer 02](https://video.akamai.steamstatic.com/store_trailers/2391900/658929/80e7fe4b7eb0c069ad03734d2c2ea69ff57318ab/1750914458/hls_264_master.m3u8?t=1707141024)
+[Champion Shift - Gameplay Trailer 02](https://store.steampowered.com/app/2391900/) | Creator / publisher
 
 ![Champion Shift official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391900/ss_091cc7faf6a1d8074c8b7fdb562bc16206743c27.1920x1080.jpg?t=1725673028)
 

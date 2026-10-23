@@ -22,13 +22,15 @@ To hunt vampires, you'll need guns. Lots of guns. Mow down hordes of undead crea
 
 - [Steam: store](https://store.steampowered.com/app/2206270/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2206270/778974/f5239b2a7af36a0cf5a48d74f1ba6063e97ac5e6/1750809552/hls_264_master.m3u8?t=1730298159)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.0 Release Date Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2206270/764254/8ad0a86aba3dae5514ca5139cee3b72e52758d19/1750809552/hls_264_master.m3u8?t=1730298164)
+[Launch Trailer](https://store.steampowered.com/app/2206270/) | Creator / publisher
+
+[1.0 Release Date Announcement Trailer](https://store.steampowered.com/app/2206270/) | Creator / publisher
 
 ![Vampire Hunters official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206270/ss_81b32e8bad13e0fffaad248cf299ea75c5d02b9f.1920x1080.jpg?t=1792075511)
 

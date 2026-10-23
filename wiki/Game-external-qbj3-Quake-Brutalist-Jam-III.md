@@ -37,11 +37,13 @@ Choose QBJ3 v1.3 STANDALONE for the bundled Windows game. That package uses Libr
 
 Standalone v1.3 download added March 21, 2026. Original jam release: January 3, 2026.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=vquTPCYbOxk)
+[Creator-published video](https://www.youtube.com/watch?v=vquTPCYbOxk) | Creator / publisher
+
+[Source and provenance](https://www.moddb.com/mods/quake-brutalist-jam-iii)
 
 ![Quake Brutalist Jam III - creator-published image](https://media.moddb.com/images/mods/1/71/70326/qbj3_hcm.jpg)
 

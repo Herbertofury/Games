@@ -24,11 +24,11 @@ Survive waves of enemies in this horde survival roguelite. Unleash devastating s
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay](https://video.akamai.steamstatic.com/store_trailers/2433850/869263/35941dce9d9ab7dd23ec325b9cdd96459b9917f9/1750918613/hls_264_master.m3u8?t=1745177172)
+[Gameplay](https://store.steampowered.com/app/2433850/) | Creator / publisher
 
 ![Arcane Tower Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2433850/f19e18f9219f8e9aa5780061319ad5d4416b5484/ss_f19e18f9219f8e9aa5780061319ad5d4416b5484.1920x1080.jpg?t=1775224444)
 

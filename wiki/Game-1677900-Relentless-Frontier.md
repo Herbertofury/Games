@@ -22,16 +22,19 @@ Relentless Frontier is a fast paced sci-fi FPS running on the GZDoom Engine, wit
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1677900/)
+- [itch.io - demo: demo](https://korzodin.itch.io/relentless-frontier) | Creator listing exposes demo files, not the full commercial release: Download Relentless_Frontier_PublicDemo2023_v1.1.zip 322 MB
+
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Lore n Vania Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1677900/1448634026/4605cd10f4e1592029b06d4fa4029cc790923c71/1757704119/hls_264_master.m3u8?t=1757706334)
+[Lore n Vania Release Trailer](https://store.steampowered.com/app/1677900/) | Creator / publisher
 
-[Relentless Frontier EA Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1677900/730393/1df960737e71eebd123ff52d955fa843ca78bfbc/1751018472/hls_264_master.m3u8?t=1721845192)
+[Relentless Frontier EA Release Trailer](https://store.steampowered.com/app/1677900/) | Creator / publisher
 
 ![Relentless Frontier official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677900/ss_3424135ad5711d5d5510b3df47719e8d9cbdaedf.1920x1080.jpg?t=1759872214)
 

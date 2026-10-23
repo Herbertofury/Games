@@ -22,19 +22,19 @@ Summon your stands and brawl it out! Dive into the thrill of mowing down enemies
 
 - [Steam: store](https://store.steampowered.com/app/3109580/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[2.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/3109580/849317881/397a7e0d660a7d5ff291defb229ca4b60a726046/1764729080/hls_264_master.m3u8?t=1764749343)
+[2.0 Trailer](https://store.steampowered.com/app/3109580/) | Creator / publisher
 
-[Endless Mode Trailer](https://video.akamai.steamstatic.com/store_trailers/3109580/875321/86705ae98709367c2886ad6672f07a5279e64c66/1750823714/hls_264_master.m3u8?t=1745319477)
+[Endless Mode Trailer](https://store.steampowered.com/app/3109580/) | Creator / publisher
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3109580/846356/80a24f544f07e3b8105ce953ea73c1f0afeb81eb/1750823710/hls_264_master.m3u8?t=1741331171)
+[Release Trailer](https://store.steampowered.com/app/3109580/) | Creator / publisher
 
-[New stand now live](https://video.akamai.steamstatic.com/store_trailers/3109580/794302/46641d36c80654e554e35c432cc986fecf092967/1750823703/hls_264_master.m3u8?t=1733303093)
+[New stand now live](https://store.steampowered.com/app/3109580/) | Creator / publisher
 
-[trailer](https://video.akamai.steamstatic.com/store_trailers/3109580/759957/29d3d6ea8c5023c1de348878621f05244e6b0cf1/1750823697/hls_264_master.m3u8?t=1727158946)
+[trailer](https://store.steampowered.com/app/3109580/) | Creator / publisher
 
 ![I Am Legion: Stand Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3109580/ss_5ba8553c551dc069c198cdfea1f08693a97b1b84.1920x1080.jpg?t=1792419296)
 

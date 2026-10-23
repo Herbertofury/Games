@@ -37,9 +37,9 @@
           "url": "https://siris-pendrake.itch.io/adaca",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://siristhedragonart.wixsite.com/pendrake",
-          "evidence": "Game-specific official website link with matching destination title"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://siris-pendrake.itch.io/adaca",
+          "evidence": "Creator listing shows Buy Now and full game files: ADACA 1.3.8 (Full Release + Patch) 2.2 GB"
         }
       ],
       "storeCoverage": {
@@ -155,11 +155,12 @@
         {
           "provider": "itch.io",
           "url": "https://amanito-computing.itch.io/apocalyptic-vibes",
-          "kind": "store",
+          "kind": "demo",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=Apocalyptic%20Vibes",
-          "evidence": "Exact title and creator page links to Steam app 1840610"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://amanito-computing.itch.io/apocalyptic-vibes",
+          "evidence": "Creator listing exposes demo files, not the full commercial release: AV Demo.zip 306 MB",
+          "label": "itch.io - demo"
         }
       ],
       "storeCoverage": {
@@ -260,30 +261,13 @@
         },
         {
           "provider": "itch.io",
-          "url": "https://metacorp.itch.io/beyond-sunset/community",
-          "kind": "store",
+          "url": "https://metacorp.itch.io/beyond-sunset",
+          "kind": "project",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
           "sourceUrl": "https://metacorp.itch.io/beyond-sunset",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "itch.io",
-          "url": "https://metacorp.itch.io/beyond-sunset/devlog",
-          "kind": "store",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://metacorp.itch.io/beyond-sunset",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "itch.io",
-          "url": "https://itch.io/games-like/1076974/beyond-sunset",
-          "kind": "store",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://metacorp.itch.io/beyond-sunset",
-          "evidence": "Game-specific official website link with matching destination title"
+          "evidence": "Creator labels this a canceled demo page; no current download exposed.",
+          "label": "itch.io - archived demo page"
         }
       ],
       "storeCoverage": {
@@ -881,9 +865,9 @@
           "url": "https://stomygame.itch.io/ctesiphon",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=Ctesiphon",
-          "evidence": "Exact title and creator page links to Steam app 3808730"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://stomygame.itch.io/ctesiphon",
+          "evidence": "Creator listing shows Buy Now and full game files: Ctesiphon-v1.05b.zip 240 MB; Ctesiphon-v1.04e.zip (Previous Stable Version) 240 MB"
         }
       ],
       "storeCoverage": {
@@ -978,9 +962,9 @@
           "url": "https://crowhillstudios.itch.io/dead-trash",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=DEAD%20TRASH",
-          "evidence": "Exact title and creator page links to Steam app 3316470"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://crowhillstudios.itch.io/dead-trash",
+          "evidence": "Creator listing shows Buy Now and full game files: poster1.png 23 MB; poster2.png 22 MB"
         }
       ],
       "storeCoverage": {
@@ -1613,11 +1597,12 @@
         {
           "provider": "itch.io",
           "url": "https://mattlawr.itch.io/enchain",
-          "kind": "store",
+          "kind": "demo",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://mattlawr.dev/enchain/",
-          "evidence": "Game-specific official website link with matching destination title"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://mattlawr.itch.io/enchain",
+          "evidence": "Creator listing exposes demo files, not the full commercial release: ENCHAIN_demo030a.zip 76 MB; ENCHAIN_demo021a.zip 73 MB; ENCHAIN_demo021 (broken) 73 MB; ENCHAIN_demo020.zip 73 MB; ENCHAIN_demo011.zip 62 MB; ENCHAIN_demo010.zip 62 MB",
+          "label": "itch.io - demo"
         }
       ],
       "storeCoverage": {
@@ -1654,9 +1639,9 @@
           "url": "https://davidjalbert.itch.io/extraneum",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=Extraneum",
-          "evidence": "Exact title and creator page links to Steam app 1999140"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://davidjalbert.itch.io/extraneum",
+          "evidence": "Creator listing shows Buy Now and full game files: Extraneum - Linux 114 MB; Extraneum - Windows 113 MB"
         }
       ],
       "storeCoverage": {
@@ -1923,83 +1908,12 @@
         {
           "provider": "ModDB",
           "url": "https://www.moddb.com/mods/g-string",
-          "kind": "download",
+          "kind": "project",
           "verified": true,
           "lastChecked": "2026-10-23T07:14:49.517424+00:00",
           "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/articles",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/reviews",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/downloads",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/addons",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/videos",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/images",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/forum",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/news/g-string-ultimate-edition-trailer-and-news",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
+          "evidence": "Creator-linked project history. Do not treat it as a license for the commercial Steam edition.",
+          "label": "ModDB - original mod project"
         },
         {
           "provider": "Patreon",
@@ -2012,336 +1926,33 @@
         },
         {
           "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/videos/g-string-ultimate-edition-relaunch-weekly-update1",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/videos/another-week-another-update",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/images/g-string-ultimate-edition-relaunch-progress",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/images/g-string-ultimate-edition-weekly-progress",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/images/g-string-ultimate-edition-weekly-update",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/images/weekly-update3",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/images/g-string-ultimate-edition-relaunch-weekly-update",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/articles/add/",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
           "url": "https://rss.moddb.com/mods/g-string/articles/feed/rss.xml",
-          "kind": "download",
+          "kind": "project",
           "verified": true,
           "lastChecked": "2026-10-23T07:14:49.517424+00:00",
           "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/news/g-string-ultimate-edition-juna-2026-news",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/news/g-string-ultimate-edition-news",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/news/2021-recap-g-string-and-beyond",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/news/dev-to-dev",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/news/b-cup-released-finally",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/articles/add",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/downloads/add/",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
+          "evidence": "Creator-linked project history. Do not treat it as a license for the commercial Steam edition.",
+          "label": "ModDB - original mod project"
         },
         {
           "provider": "ModDB",
           "url": "https://rss.moddb.com/mods/g-string/downloads/feed/rss.xml",
-          "kind": "download",
+          "kind": "project",
           "verified": true,
           "lastChecked": "2026-10-23T07:14:49.517424+00:00",
           "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
+          "evidence": "Creator-linked project history. Do not treat it as a license for the commercial Steam edition.",
+          "label": "ModDB - original mod project"
         },
         {
           "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/downloads/g-string-day-one",
-          "kind": "download",
+          "url": "https://www.moddb.com/mods/g-string?filter=t&rating=8",
+          "kind": "project",
           "verified": true,
           "lastChecked": "2026-10-23T07:14:49.517424+00:00",
           "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/addons/g-string-beta-quality-of-life-addon-pack",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/addons/g-string-day-one-quality-of-life-addon-pack",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/addons/g-string-day-one-steam-icon-fix",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/addons/g-string-day-one-fireball-rebind",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/addons/g-string-day-one-beta-weapon-hud-sorting",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/downloads/add",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/page/2",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/page/3",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/page/4",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/page/5",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/page/6",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/page/7",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/page/8",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/page/155",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/downloads/g-string-v1",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/reviews?filter=t&rating=8",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/tags/g-string",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/stats",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
-        },
-        {
-          "provider": "ModDB",
-          "url": "https://www.moddb.com/mods/g-string/watchers",
-          "kind": "download",
-          "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://www.moddb.com/mods/g-string",
-          "evidence": "Game-specific official website link with matching destination title"
+          "evidence": "Creator-linked project history. Do not treat it as a license for the commercial Steam edition.",
+          "label": "ModDB - original mod project"
         }
       ],
       "storeCoverage": {
@@ -2673,9 +2284,9 @@
           "url": "https://zanthebonebreaker.itch.io/hedon",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=Hedon%20Bloodrite",
-          "evidence": "Exact title and creator page links to Steam app 1072150"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://zanthebonebreaker.itch.io/hedon",
+          "evidence": "Creator listing shows Buy Now and full game files: Hedon 2.3.0 Win 64-bit.zip 548 MB; Hedon 2.3.0 Linux 64-bit.zip 550 MB"
         }
       ],
       "storeCoverage": {
@@ -2905,11 +2516,12 @@
         {
           "provider": "itch.io",
           "url": "https://fulqrumpublishing.itch.io/hv",
-          "kind": "store",
+          "kind": "demo",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=HYPERVIOLENT",
-          "evidence": "Exact title and creator page links to Steam app 1409200"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://fulqrumpublishing.itch.io/hv",
+          "evidence": "Creator listing exposes demo files, not the full commercial release: Download HYPERVIOLENT.rar 36 MB",
+          "label": "itch.io - demo"
         }
       ],
       "storeCoverage": {
@@ -2955,9 +2567,9 @@
           "url": "https://strangescaffold.itch.io/i-am-your-beast",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=I%20Am%20Your%20Beast",
-          "evidence": "Exact title and creator page links to Steam app 1876590"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://strangescaffold.itch.io/i-am-your-beast",
+          "evidence": "Creator listing shows Buy Now and full game files: I Am Your Beast 998 MB; i-am-your-beast-win.zip 1.2 GB Version 1"
         }
       ],
       "storeCoverage": {
@@ -3233,9 +2845,9 @@
           "url": "https://meister351.itch.io/machinicide",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=Machinicide",
-          "evidence": "Exact title and creator page links to Steam app 1897010"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://meister351.itch.io/machinicide",
+          "evidence": "Creator listing shows Buy Now and full game files: machinicide-windows.zip 1.6 GB Version 1; machinicide-linux.zip 1.6 GB Version 1"
         }
       ],
       "storeCoverage": {
@@ -3553,14 +3165,14 @@
           "url": "https://9thexodus.itch.io/peripeteia",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=Peripeteia",
-          "evidence": "Exact title and creator page links to Steam app 1437760"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://9thexodus.itch.io/peripeteia",
+          "evidence": "Creator listing shows Buy Now and full game files: Peripeteia Early Access 3.4 GB Version 20260417.23410; Peripeteia_EA_Installer.exe 3 GB Version 20250415.09723"
         },
         {
           "provider": "IndieDB",
           "url": "https://www.indiedb.com/games/peripeteia",
-          "kind": "download",
+          "kind": "project",
           "verified": true,
           "lastChecked": "2026-10-23T07:14:49.517424+00:00",
           "sourceUrl": "https://90s.graphics/",
@@ -3838,11 +3450,12 @@
         {
           "provider": "itch.io",
           "url": "https://retrovibe.itch.io/project-warlock-ii",
-          "kind": "store",
+          "kind": "demo",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=Project%20Warlock%20II",
-          "evidence": "Exact title and creator page links to Steam app 1640300"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://retrovibe.itch.io/project-warlock-ii",
+          "evidence": "Creator listing exposes demo files, not the full commercial release: Download setup_project_warlock_ii_demo_0.1.5.21_(50307)-1.bin 2 GB; Download setup_project_warlock_ii_demo_0.1.5.21_(50307).exe 823 kB",
+          "label": "itch.io - demo"
         }
       ],
       "storeCoverage": {
@@ -4142,11 +3755,12 @@
         {
           "provider": "itch.io",
           "url": "https://korzodin.itch.io/relentless-frontier",
-          "kind": "store",
+          "kind": "demo",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=Relentless%20Frontier",
-          "evidence": "Exact title and creator page links to Steam app 1677900"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://korzodin.itch.io/relentless-frontier",
+          "evidence": "Creator listing exposes demo files, not the full commercial release: Download Relentless_Frontier_PublicDemo2023_v1.1.zip 322 MB",
+          "label": "itch.io - demo"
         }
       ],
       "storeCoverage": {
@@ -4518,11 +4132,12 @@
         {
           "provider": "itch.io",
           "url": "https://scumhead.itch.io/shrine-ii",
-          "kind": "store",
+          "kind": "download",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=Shrine%20II",
-          "evidence": "Exact title and creator page links to Steam app 1417010"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://scumhead.itch.io/shrine-ii",
+          "evidence": "Creator listing offers Shrine II game ZIP and Linux port.",
+          "label": "itch.io - free full game"
         }
       ],
       "storeCoverage": {
@@ -4944,11 +4559,12 @@
         {
           "provider": "itch.io",
           "url": "https://hellforge-studios.itch.io/the-age-of-hell",
-          "kind": "store",
+          "kind": "demo",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://hellforgestudios.com/",
-          "evidence": "Game-specific official website link with matching destination title"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://hellforge-studios.itch.io/the-age-of-hell",
+          "evidence": "Creator listing exposes demo files, not the full commercial release: AoH_DemoBuild_RC14.zip 507 MB",
+          "label": "itch.io - demo"
         }
       ],
       "storeCoverage": {
@@ -5376,9 +4992,9 @@
           "url": "https://scumhead.itch.io/vomitoreumgame",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=Vomitoreum",
-          "evidence": "Exact title and creator page links to Steam app 1549750"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://scumhead.itch.io/vomitoreumgame",
+          "evidence": "Creator listing shows Buy Now and full game files: Vomitoreum.zip 121 MB"
         }
       ],
       "storeCoverage": {
@@ -5659,9 +5275,9 @@
           "url": "https://mutantleg.itch.io/zortch",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:14:49.517424+00:00",
-          "sourceUrl": "https://itch.io/search?q=Zortch",
-          "evidence": "Exact title and creator page links to Steam app 2443360"
+          "lastChecked": "2026-10-23T07:29:49.621750+00:00",
+          "sourceUrl": "https://mutantleg.itch.io/zortch",
+          "evidence": "Creator listing shows Buy Now and full game files: ZortchFull_Build2008.zip 298 MB; Download Zortch_Soundtrack.zip 35 MB"
         }
       ],
       "storeCoverage": {

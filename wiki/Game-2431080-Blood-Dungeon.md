@@ -22,13 +22,13 @@ From the creators of Nidhogg, murder hordes of monsters in this 2D platforming a
 
 - [Steam: store](https://store.steampowered.com/app/2431080/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Blood Dungeon // Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2431080/1838075341/9098478235029047f187703d417e41b967ca34df/1786556214/hls_264_master.m3u8?t=1787684410)
+[Blood Dungeon // Launch Trailer](https://store.steampowered.com/app/2431080/) | Creator / publisher
 
-[Animated Intro](https://video.akamai.steamstatic.com/store_trailers/2431080/139658551/db53126fe80604204087b5eb58f159a468705377/1787699690/hls_264_master.m3u8?t=1787700408)
+[Animated Intro](https://store.steampowered.com/app/2431080/) | Creator / publisher
 
 ![Blood Dungeon official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2431080/6fe902a0e588feab934da8dcb6c61180eeae3427/ss_6fe902a0e588feab934da8dcb6c61180eeae3427.1920x1080.jpg?t=1788324465)
 

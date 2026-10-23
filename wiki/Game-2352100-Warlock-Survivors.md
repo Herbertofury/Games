@@ -24,13 +24,13 @@ The hordes of chaos never stop, to survive the Warlocks War you need powerful sk
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Trailer 2](https://video.akamai.steamstatic.com/store_trailers/2352100/1579063345/e1f4fb224adf5ec0672ae50fdcd4474ab50cba42/1770507236/hls_264_master.m3u8?t=1771385000)
+[Trailer 2](https://store.steampowered.com/app/2352100/) | Creator / publisher
 
-[Trailer1](https://video.akamai.steamstatic.com/store_trailers/2352100/1366318366/582ae7ec0644df50dd8ba5ece51afc74d268696d/1750910179/hls_264_master.m3u8?t=1770587613)
+[Trailer1](https://store.steampowered.com/app/2352100/) | Creator / publisher
 
 ![Warlock Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352100/91efd2fb6b39d7ed739597c913675928bfb04b6f/ss_91efd2fb6b39d7ed739597c913675928bfb04b6f.1920x1080.jpg?t=1781035933)
 

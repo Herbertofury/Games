@@ -22,11 +22,11 @@ Amass an army of undead to fight endless waves of heroes intent to end your bone
 
 - [Steam: store](https://store.steampowered.com/app/1944570/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Trailer](https://video.akamai.steamstatic.com/store_trailers/1944570/459666/389b3104e1e7b76b09f93d93aacdef1ace8a9936/1751051540/hls_264_master.m3u8?t=1693917932)
+[Trailer](https://store.steampowered.com/app/1944570/) | Creator / publisher
 
 ![Boneraiser Minions official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/ss_08ff1e53a4b84baa09ed745562aa816ab2c48abe.1920x1080.jpg?t=1790853284)
 

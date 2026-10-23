@@ -24,11 +24,11 @@ Purgatory Survivors is a top-down shooter with roguelike elements. Plunge into a
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Purgatory Survivors Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2454830/1010761420/0917f34424ff35a2d037340560c3e3f3b37f0b7e/1771787322/hls_264_master.m3u8?t=1771794018)
+[Purgatory Survivors Release Trailer](https://store.steampowered.com/app/2454830/) | Creator / publisher
 
 ![Purgatory Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454830/e1b1dc716b6ced434473227acd61c740f7322511/ss_e1b1dc716b6ced434473227acd61c740f7322511.1920x1080.jpg?t=1775376302)
 

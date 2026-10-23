@@ -24,11 +24,11 @@ A survivors-like game where you defeat creatures of the night trying to take ove
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3990560/1329314695/a42d8a79dbc0d1dae2689ab9f4f264c3993033ca/1779393059/hls_264_master.m3u8?t=1779393483)
+[Release Date Trailer](https://store.steampowered.com/app/3990560/) | Creator / publisher
 
 ![Wanted Shadows: Unchained official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990560/59e61ea8854b6298bb4cfae7609a29982ab7df99/ss_59e61ea8854b6298bb4cfae7609a29982ab7df99.1920x1080.jpg?t=1780950518)
 

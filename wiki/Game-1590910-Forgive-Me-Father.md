@@ -22,18 +22,22 @@ Forgive Me Father is a dark retro horror FPS set in a comic book style world ins
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1590910/)
+- [GOG: store](https://www.gog.com/en/game/forgive_me_father) | Game-specific official website link with matching destination title
+- [Epic Games: store](https://store.epicgames.com/p/forgive-me-father-133635) | Exact official Epic Games product listing
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[FMF Accolades](https://video.akamai.steamstatic.com/store_trailers/1590910/462466/cae55dfa3b3961009b644eda847e2dfb86693230/1750707752/hls_264_master.m3u8?t=1652344491)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[FMF Full release](https://video.akamai.steamstatic.com/store_trailers/1590910/453034/f11176c8bc98a5bf6f7ad1671a5fcb5a1913f4b3/1750707752/hls_264_master.m3u8?t=1649350326)
+[FMF Accolades](https://store.steampowered.com/app/1590910/) | Creator / publisher
 
-[Early Access Launch trailer](https://video.akamai.steamstatic.com/store_trailers/1590910/412036/b1f93b85392026a8912e13debeaee40f6ef499c7/1750707724/hls_264_master.m3u8?t=1635268985)
+[FMF Full release](https://store.steampowered.com/app/1590910/) | Creator / publisher
 
-[FMF Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/1590910/391875/319c680692b8166e14cb531ce5d9884724f206be/1750707714/hls_264_master.m3u8?t=1628965419)
+[Early Access Launch trailer](https://store.steampowered.com/app/1590910/) | Creator / publisher
+
+[FMF Reveal Trailer](https://store.steampowered.com/app/1590910/) | Creator / publisher
 
 ![Forgive Me Father official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590910/ss_80fc70d43f6e3488fe6fd4f1484f49b9dc5e9e29.1920x1080.jpg?t=1789131157)
 

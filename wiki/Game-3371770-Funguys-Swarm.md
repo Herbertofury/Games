@@ -22,13 +22,13 @@ Funguys Swarm is a cartoony survivor bullet hell where the forest is on fire. Be
 
 - [Steam: store](https://store.steampowered.com/app/3371770/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Funguys Swarm 1.0 Update Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3371770/1719537116/32eae887d9e01982e0e0e7ff7d88ce9c5609c42e/1787547947/hls_264_master.m3u8?t=1787673618)
+[Funguys Swarm 1.0 Update Launch Trailer](https://store.steampowered.com/app/3371770/) | Creator / publisher
 
-[Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3371770/47546672/e31794558a6d71288f41cacab81f044660b16964/1764753531/hls_264_master.m3u8?t=1764772976)
+[Early Access Launch Trailer](https://store.steampowered.com/app/3371770/) | Creator / publisher
 
 ![Funguys Swarm official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371770/0d14418b7b78e53a124d0a1f788f08b9aa69b9b5/ss_0d14418b7b78e53a124d0a1f788f08b9aa69b9b5.1920x1080.jpg?t=1790648961)
 

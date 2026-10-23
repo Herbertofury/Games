@@ -22,12 +22,15 @@ PowerSlave Exhumed is a KEX Engine port of the classic console game perfectly bl
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1678430/)
+- [GOG: store](https://www.gog.com/en/game/powerslave_exhumed) | Exact title in GOG official catalog: PowerSlave Exhumed
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[PowerSlave Exhumed Nightdive Studios Trailer](https://video.akamai.steamstatic.com/store_trailers/1678430/389908/c5091c67bee229cb28e433b386e05a8e278431b3/1756429434/hls_264_master.m3u8?t=1628994522)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[PowerSlave Exhumed Nightdive Studios Trailer](https://store.steampowered.com/app/1678430/) | Creator / publisher
 
 ![PowerSlave Exhumed official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1678430/ss_7dd53e2deac822cdbc91bf8287f498d26f47d39f.1920x1080.jpg?t=1774275318)
 

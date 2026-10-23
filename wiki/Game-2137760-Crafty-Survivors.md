@@ -22,15 +22,15 @@ All heroes got corrupted! Unlock a diverse cast of crafty professionals, use the
 
 - [Steam: store](https://store.steampowered.com/app/2137760/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Crafty Survivors - Full Release](https://video.akamai.steamstatic.com/store_trailers/2137760/1877020879/c951082e034e8322a7895422ff8764d8571620d0/1750747493/hls_264_master.m3u8?t=1747412611)
+[Crafty Survivors - Full Release](https://store.steampowered.com/app/2137760/) | Creator / publisher
 
-[Crafty Survivors - EA Trailer](https://video.akamai.steamstatic.com/store_trailers/2137760/548435/4e6d4c038d41f4780ab06b8612ac5c30a4ed4360/1750747489/hls_264_master.m3u8?t=1695917439)
+[Crafty Survivors - EA Trailer](https://store.steampowered.com/app/2137760/) | Creator / publisher
 
-[Crafty Survivors - Overcome](https://video.akamai.steamstatic.com/store_trailers/2137760/583230/30544adc223dfbc33979cdf523197f149f372710/1750747491/hls_264_master.m3u8?t=1693957043)
+[Crafty Survivors - Overcome](https://store.steampowered.com/app/2137760/) | Creator / publisher
 
 ![Crafty Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_c60bc07bfb460f1f1718f5aeef5afcb12bb1915c.1920x1080.jpg?t=1789045565)
 

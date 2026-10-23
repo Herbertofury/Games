@@ -22,22 +22,25 @@ Wizordum is a retro FPS that puts you in the role of a Mage on a quest to track 
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1715590/)
+- [GOG: store](https://www.gog.com/en/game/wizordum) | Exact title in GOG official catalog: Wizordum
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Console Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1715590/1454046312/65bd8693bfcb1d5fd801f42db9fe8595d3745c1e/1758584602/hls_264_master.m3u8?t=1758616024)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Console Announcement Trailer - Gamescom 2025](https://video.akamai.steamstatic.com/store_trailers/1715590/1190843532/06ea4a6d2b5c53026115e1a4c8a64b692ca715d2/1755709329/hls_264_master.m3u8?t=1755713425)
+[Console Launch Trailer](https://store.steampowered.com/app/1715590/) | Creator / publisher
 
-[1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1715590/880919/b62ca2dc00604838fe15f5de8fa34ab1ee36c606/1750728633/hls_264_master.m3u8?t=1745939061)
+[Console Announcement Trailer - Gamescom 2025](https://store.steampowered.com/app/1715590/) | Creator / publisher
 
-[Episode 2 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1715590/709401/ba8133cfd9bb830a8f7f6ba5a620dbdf50a207a5/1750728619/hls_264_master.m3u8?t=1717539644)
+[1.0 Launch Trailer](https://store.steampowered.com/app/1715590/) | Creator / publisher
 
-[Episode 3 Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/1715590/795720/2da6a1b05cbdca60ac115aca5a5d99c5d06ded78/1750728626/hls_264_master.m3u8?t=1733429031)
+[Episode 2 Launch Trailer](https://store.steampowered.com/app/1715590/) | Creator / publisher
 
-[Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1715590/634786/5fe3dbc5348adaa48af15d3bae0db2d9152e302f/1750730109/hls_264_master.m3u8?t=1701279982)
+[Episode 3 Release Date Trailer](https://store.steampowered.com/app/1715590/) | Creator / publisher
+
+[Early Access Launch Trailer](https://store.steampowered.com/app/1715590/) | Creator / publisher
 
 ![Wizordum official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1715590/797ff4282121561976930b865c61a65e39c289cf/ss_797ff4282121561976930b865c61a65e39c289cf.1920x1080.jpg?t=1786997680)
 

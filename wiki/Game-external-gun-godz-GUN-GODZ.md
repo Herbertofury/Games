@@ -31,11 +31,13 @@ A sharp, free older pick from Vlambeer. Best approached as a replayable score-an
 
 Download the standalone creator build for your operating system.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=L7JNczDp3UM)
+[Creator-published video](https://www.youtube.com/watch?v=L7JNczDp3UM) | Creator / publisher
+
+[Source and provenance](https://vlambeer.itch.io/gun-godz)
 
 ![GUN GODZ - creator-published image](https://img.itch.zone/aW1hZ2UvNjYwLzMxMzcucG5n/347x500/oexxo2.png)
 

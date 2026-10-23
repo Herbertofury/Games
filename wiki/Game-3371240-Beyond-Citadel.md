@@ -27,11 +27,13 @@ A distinctive smaller-audience sci-fi campaign with a strong visual identity and
 
 - [Steam: store](https://store.steampowered.com/app/3371240/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[beyond_citadel_trailer](https://video.akamai.steamstatic.com/store_trailers/3371240/793991/d257a51f93a9221847ddcbc807965234c55d566f/1750825771/hls_264_master.m3u8?t=1733265819)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[beyond_citadel_trailer](https://store.steampowered.com/app/3371240/) | Creator / publisher
 
 ![Beyond Citadel official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371240/ss_9e4e5e378fd6067e3515cf507aad709872197c9f.1920x1080.jpg?t=1735841818)
 

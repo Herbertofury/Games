@@ -22,11 +22,11 @@ A bullet heaven roguelike where you assume the role of the steward of ghosts bou
 
 - [Steam: store](https://store.steampowered.com/app/1714240/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[1.4 Trailer](https://video.akamai.steamstatic.com/store_trailers/1714240/657779/a2f268e42eb9ae63122e61e1658d0ec9866ec2e9/1751022852/hls_264_master.m3u8?t=1706887643)
+[1.4 Trailer](https://store.steampowered.com/app/1714240/) | Creator / publisher
 
 ![Soul Stalker official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1714240/ss_9a7066530dfaaf5b5d07626a9af34cf7fdd1bc5f.1920x1080.jpg?t=1756985899)
 

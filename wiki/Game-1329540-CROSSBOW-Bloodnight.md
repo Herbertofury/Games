@@ -23,11 +23,13 @@ CROSSBOW: Bloodnight is a frantic score-attack arena shooter set in a world of c
 
 - [Steam: store](https://store.steampowered.com/app/1329540/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[CROSSBOW: Bloodnight - Hunt. Die. Hunt Again.](https://video.akamai.steamstatic.com/store_trailers/1329540/344769/ea9ccbb4d35903ca19c0da58b5007acfc09c3d29/1751222213/hls_264_master.m3u8?t=1612201165)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[CROSSBOW: Bloodnight - Hunt. Die. Hunt Again.](https://store.steampowered.com/app/1329540/) | Creator / publisher
 
 ![CROSSBOW: Bloodnight official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329540/ss_ecab2fa3820168035adb10adacaddc39e589a72e.1920x1080.jpg?t=1783611061)
 

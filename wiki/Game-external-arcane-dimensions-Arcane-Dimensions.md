@@ -31,9 +31,13 @@ The essential older counterweight to the newest jams: worth keeping beside Dwell
 
 Requires Quake game data and a source port supported by the chosen Arcane Dimensions release. Read that release's instructions.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Arcane Dimensions - part 1 gameplay](https://www.youtube.com/watch?v=Ro6k5xAAknQ) | Mechknight5656 (Alex Hoppe) / community gameplay
+
+[Source and provenance](https://www.senscritique.com/jeuvideo/Arcane_Dimensions/25702322)
 
 ![Arcane Dimensions - creator-published image](https://media.moddb.com/images/mods/1/45/44264/ad_v1_80_tears7.png)
 
@@ -46,5 +50,6 @@ The interactive library plays compatible trailers in-page. GitHub wiki links ope
 ## Sources and evidence
 
 - [Official media](https://www.moddb.com/mods/arcane-dimensions) · checked 2026-10-23T07:04:56.149669+00:00
+- [Video provenance](https://www.senscritique.com/jeuvideo/Arcane_Dimensions/25702322) · checked 2026-10-23T07:29:49.621750+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

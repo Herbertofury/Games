@@ -32,11 +32,13 @@ A genuinely unusual browser-first gem. It trades modern fidelity for clever desi
 
 Play in a compatible browser or use the creator's downloadable build. No separate Doom installation is required.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=Dx7Zr9M5IcA)
+[Creator-published video](https://www.youtube.com/watch?v=Dx7Zr9M5IcA) | Creator / publisher
+
+[Source and provenance](https://freds72.itch.io/poom)
 
 ![POOM - creator-published image](https://img.itch.zone/aW1nLzcwMzY4MzAucG5n/original/xGT2e0.png)
 

@@ -23,11 +23,13 @@ A fast run and gun horror shooter with roguelike elements
 
 - [Steam: store](https://store.steampowered.com/app/2689470/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[CRUEL](https://video.akamai.steamstatic.com/store_trailers/2689470/786863/d843e9c931409ea399b8723870b5bae44dd2a131/1750818712/hls_264_master.m3u8?t=1731707813)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[CRUEL](https://store.steampowered.com/app/2689470/) | Creator / publisher
 
 ![CRUEL official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_af61f71bf5583fb88820746272d4cf03a23508bd.1920x1080.jpg?t=1778986231)
 

@@ -27,6 +27,7 @@ An approachable free introduction to Scumhead's horror work. The original Shrine
 
 - [itch.io: download](https://scumhead.itch.io/shrine)
 - [Patreon: support](https://www.patreon.com/scumhead)
+- [Steam: store](https://store.steampowered.com/app/1271050/) | Steam appdetails confirms Shrine and its original official trailer.
 
 ### Before you play
 
@@ -36,9 +37,11 @@ Use the creator's standalone Windows or Linux package. No paid Doom copy is list
 
 Creator download lists version 1.4.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Shrine - official release trailer](https://store.steampowered.com/app/1271050/) | Scumhead / Steam
 
 ![Shrine - creator-published image](https://img.itch.zone/aW1hZ2UvNTU5NTcwLzI5Mzc4NDkucG5n/347x500/zQZc%2Fj.png)
 
@@ -51,5 +54,6 @@ The interactive library plays compatible trailers in-page. GitHub wiki links ope
 ## Sources and evidence
 
 - [Official media](https://scumhead.itch.io/shrine) · checked 2026-10-23T07:04:56.149669+00:00
+- [Video source](https://store.steampowered.com/app/1271050/) · checked 2026-10-23T07:23:50.572391+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

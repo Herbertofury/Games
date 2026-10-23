@@ -22,11 +22,11 @@ Mow down countless crops and corrupt critters while crafting game-breaking build
 
 - [Steam: store](https://store.steampowered.com/app/2479320/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2479320/584175/c0575b4e8f5559dcd78f3acc51b862ff314cd454/1750815601/hls_264_master.m3u8?t=1703195201)
+[Gameplay Trailer](https://store.steampowered.com/app/2479320/) | Creator / publisher
 
 ![Pesticide Not Required official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_e4a71145f1c8d3a1981df1e847cb328837877df7.1920x1080.jpg?t=1789964041)
 

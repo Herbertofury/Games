@@ -24,11 +24,11 @@ Hell Forge is a retro roguelite survivor where you battle endless monsters to mi
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Hell Forge: Waken Your Weapon](https://video.akamai.steamstatic.com/store_trailers/4118220/1659755309/b316ecd674b114f4783f3ed30166368d7719e8a4/1772592703/hls_264_master.m3u8?t=1772593535)
+[Hell Forge: Waken Your Weapon](https://store.steampowered.com/app/4118220/) | Creator / publisher
 
 ![Hell Forge official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118220/d04595255ff68f5c248fb247a83d70b06ab0d8e4/ss_d04595255ff68f5c248fb247a83d70b06ab0d8e4.1920x1080.jpg?t=1782389457)
 

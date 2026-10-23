@@ -24,11 +24,11 @@ Unhallowed Survivors is a dark fantasy bullet heaven roguelite where every hero 
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Unhallowed-Survivors-EA-v.07](https://video.akamai.steamstatic.com/store_trailers/5091000/591922704/2cce99fcc0ff4285adb40bbba01b42545f058455/1787384803/hls_264_master.m3u8?t=1787386599)
+[Unhallowed-Survivors-EA-v.07](https://store.steampowered.com/app/5091000/) | Creator / publisher
 
 ![Unhallowed Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091000/8168ecfa68e55595e9eaa96788f39612b6348923/ss_8168ecfa68e55595e9eaa96788f39612b6348923.1920x1080.jpg?t=1788536952)
 

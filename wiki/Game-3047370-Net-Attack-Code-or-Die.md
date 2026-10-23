@@ -22,11 +22,11 @@ CODE OR DIE! Hack enemy systems & survive the security response by engineering l
 
 - [Steam: store](https://store.steampowered.com/app/3047370/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3047370/632740091/7d9bb2f4d0f6de559674b717ce3c13e9b7d5b38a/1773307061/hls_264_master.m3u8?t=1773307756)
+[Release Trailer](https://store.steampowered.com/app/3047370/) | Creator / publisher
 
 ![Net.Attack() - Code or Die! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047370/868f0b691f2815085d152a9d2ab4f72cde25b47b/ss_868f0b691f2815085d152a9d2ab4f72cde25b47b.1920x1080.jpg?t=1791893616)
 

@@ -24,11 +24,11 @@ This is an exciting Survivors-like action game. Through repeated upgrades, stren
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Go Forward Survivors Trailer](https://video.akamai.steamstatic.com/store_trailers/3519700/135431614/546f3b3441173ddf47d31ac0ce315b15f935ad8e/1777518057/hls_264_master.m3u8?t=1777518685)
+[Go Forward Survivors Trailer](https://store.steampowered.com/app/3519700/) | Creator / publisher
 
 ![Go Forward Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519700/64b3567ed0fff71269994489ee8acb1f4a075302/ss_64b3567ed0fff71269994489ee8acb1f4a075302.1920x1080.jpg?t=1778494886)
 

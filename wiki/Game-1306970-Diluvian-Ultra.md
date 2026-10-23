@@ -22,14 +22,19 @@ Diluvian Ultra is a single-player, first-person shooter focusing on a retro aest
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1306970/)
+- [GOG: store](https://www.gog.com/en/game/diluvian_ultra) | Exact title in GOG official catalog: Diluvian Ultra
+- [Patreon: support](https://www.patreon.com/diluvian) | Creator support linked from the game website supplied by Steam
+- [Epic Games: store](https://store.epicgames.com/en-US/p/diluvian-ultra-a5ad8c) | Exact game-specific listing confirmed by the official Epic store or linked publisher website.
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Diluvian Ultra Chapter 1 Launch trailer](https://video.akamai.steamstatic.com/store_trailers/1306970/612342/ff05ffeb2ebe0ff7c041f8e093c6779dea3de255/1751218956/hls_264_master.m3u8?t=1695920297)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Diluvian Ultra Chapter 1 Release Date Announcement](https://video.akamai.steamstatic.com/store_trailers/1306970/609559/0e340a5e26a8ee25f6325a9331726072486ecf17/1751218955/hls_264_master.m3u8?t=1695218800)
+[Diluvian Ultra Chapter 1 Launch trailer](https://store.steampowered.com/app/1306970/) | Creator / publisher
+
+[Diluvian Ultra Chapter 1 Release Date Announcement](https://store.steampowered.com/app/1306970/) | Creator / publisher
 
 ![Diluvian Ultra official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306970/ss_ca606590fadb6ab225086bcd870497a9ccfecfb0.1920x1080.jpg?t=1791812708)
 

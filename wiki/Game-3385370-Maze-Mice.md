@@ -22,11 +22,11 @@ Maze Mice is a bullet heaven roguelite where time only moves when you move. Coll
 
 - [Steam: store](https://store.steampowered.com/app/3385370/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Release Date Announcement](https://video.akamai.steamstatic.com/store_trailers/3385370/1733170313/cf6e3dfa66c8a4bc0b0997e2d952491fcfa47d51/1752001531/hls_264_master.m3u8?t=1752002622)
+[Release Date Announcement](https://store.steampowered.com/app/3385370/) | Creator / publisher
 
 ![Maze Mice official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3385370/a69b48ec0aeaa17c725df09add361adc6cbcaaa6/ss_a69b48ec0aeaa17c725df09add361adc6cbcaaa6.1920x1080.jpg?t=1779140240)
 

@@ -41,3 +41,15 @@ Implemented local checkpoint: provider-aware merged model; genre hubs; platform/
 Known recovery: container outbound DNS and managed navigation are restricted. Use GitHub Actions for current provider metadata and real Chrome acceptance. The current hosted Chrome successfully plays Steam HLS; the older managed Playwright Chromium did not. Do not repeat older-codec experiments. Workflow files must be committed through the GitHub connector, not written by the workflow token. Preserve the tested HTML hash before the final documentation/package rebuild. Force-add only the intended `docs/qa` evidence because the generic `qa/` ignore matches it.
 
 Exact next action at source checkpoint: run the incremental shooter and public-creator media collectors; build the merged snapshot; run full catalog, cross-platform, and live-media acceptance; publish and read back the native wiki and release. Record actual outcomes in `docs/qa`, not assumed success. No scheduled crawler or hidden watchdog was added.
+
+## Complete media and store coverage checkpoint, October 23, 2026
+
+Base: published catalog-14, source `77294d4a9d298377a4d814dde7bdd90219fd3efd`, run `39915522997`, artifact `12484184681`, verified SHA-256 `0b14c94bf01fc7b0d9cdeefb41d03123759c06f3edc4b7846b5c8a27d20faac1`. Native wiki `c59727b0279f09343a66936677a8937eed88f547` contained 329 pages. No reset or replacement of the original genre or browser storage.
+
+Completed source changes: all six missing mod/scene video references resolved; corrected original Total Chaos versus remake confusion; community footage credited; Death Wish adaptation explicitly labelled; 126 Steam shooter titles checked for GOG, itch.io, and official-site alternates. Raw 118 links normalized to 74 direct additional links, with demo/archive editions inspected and preserved as overrides. Manual exact Epic links and the original Total Chaos GOG mod edition added. Current combined shooter collection: 150 entries, 150 images, 150 video-ready entries, 255 direct store/project/support links.
+
+Targeted proof: 26 unit tests and inline Chromium genre smoke pass. Source-completion browser acceptance now opens all 150 details, compares every store button, decodes every artwork image, checks the exact added YouTube metadata, and plays the Shrine stream. Do not mistake metadata presence for proof every external player played end-to-end. Full normal Chrome release run remains the next gate.
+
+Known rejected routes: ModDB video HTML and Modstalgia return challenge pages in both HTTP and normal Chrome; do not loop or bypass them. Exact creator/store/community metadata supplied alternate video provenance. Third-party video `guO_QkSFOTE` was a remake music preview and is excluded from the original mod. Older Playwright video codecs remain unsuitable; use current system Chrome.
+
+Exact next action: publish this coherent source checkpoint, run the normal production browser/media/complete-source suite, inspect actual screenshots and coverage results, publish and read back the native wiki and release, and verify the downloaded release and Drive backup hashes. Pages availability stays separate from wiki/release success.

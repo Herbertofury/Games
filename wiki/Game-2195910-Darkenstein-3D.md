@@ -23,19 +23,21 @@ A retro shooter inspired by classics like Wolfenstein and Doom. Think of it as a
 
 - [Steam: store](https://store.steampowered.com/app/2195910/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2195910/503951344/02e6994f35b1271e0a16e5d45c6f25c88fa9a62c/1760943399/hls_264_master.m3u8?t=1761036744)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Dev Interview](https://video.akamai.steamstatic.com/store_trailers/2195910/1833012900/878d5a8625cb1029612212193d0ab88608637c2e/1761234985/hls_264_master.m3u8?t=1761239819)
+[Launch Trailer](https://store.steampowered.com/app/2195910/) | Creator / publisher
 
-[MicroProse Announcement](https://video.akamai.steamstatic.com/store_trailers/2195910/2029772912/818d4160e9e9b5a3778148ce39f1d8b49c5d12ea/1757586321/hls_264_master.m3u8?t=1757704238)
+[Dev Interview](https://store.steampowered.com/app/2195910/) | Creator / publisher
 
-[Darkenstein 3D NextFest Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/2195910/139749561/c1e373cad34fc43e9e16053d7dcf7b3dfabe7ca3/1751088515/hls_264_master.m3u8?t=1747242614)
+[MicroProse Announcement](https://store.steampowered.com/app/2195910/) | Creator / publisher
 
-[Darkenstein 3D Update 0.7 Trailer](https://video.akamai.steamstatic.com/store_trailers/2195910/529697/300e6dc9b8054d4b1b2f2990b5bd6137650fe437/1751088514/hls_264_master.m3u8?t=1747242617)
+[Darkenstein 3D NextFest Demo Trailer](https://store.steampowered.com/app/2195910/) | Creator / publisher
+
+[Darkenstein 3D Update 0.7 Trailer](https://store.steampowered.com/app/2195910/) | Creator / publisher
 
 ![Darkenstein 3D official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195910/2a667799d3704400f8d5f9bb75615643e3dc2a7c/ss_2a667799d3704400f8d5f9bb75615643e3dc2a7c.1920x1080.jpg?t=1792144860)
 

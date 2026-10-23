@@ -22,19 +22,19 @@ You don't carry a weapon. You are the weapon. Rip stone from the earth and hurl 
 
 - [Steam: store](https://store.steampowered.com/app/2542350/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[MOV Origins Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2542350/906977228/b06e05e6ec37e7bf2836af1ef2fc38bbc3ed81a4/1772806345/hls_264_master.m3u8?t=1772807328)
+[MOV Origins Launch Trailer](https://store.steampowered.com/app/2542350/) | Creator / publisher
 
-[MOV Origins second trailer](https://video.akamai.steamstatic.com/store_trailers/2542350/610206676/8290cf62270cef37f878ae14e2f6c1c7c159d0a6/1784134936/hls_264_master.m3u8?t=1784135948)
+[MOV Origins second trailer](https://store.steampowered.com/app/2542350/) | Creator / publisher
 
-[MoV Origins Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2542350/344763582/30f06fc1b174e1067e41dec97d5cca523bc62c5a/1760518122/hls_264_master.m3u8?t=1760519374)
+[MoV Origins Announcement Trailer](https://store.steampowered.com/app/2542350/) | Creator / publisher
 
-[GamePlay MoV Origins](https://video.akamai.steamstatic.com/store_trailers/2542350/1436086597/08ff4b7dc3eeb215161dcf3cece2c7aeeb4cdb88/1751301062/hls_264_master.m3u8?t=1751354718)
+[GamePlay MoV Origins](https://store.steampowered.com/app/2542350/) | Creator / publisher
 
-[Blood Mask at Masks of the Void](https://video.akamai.steamstatic.com/store_trailers/2542350/842040/a4ef24b798119bade53a3fa8d47c079a70061478/1750929728/hls_264_master.m3u8?t=1751300860)
+[Blood Mask at Masks of the Void](https://store.steampowered.com/app/2542350/) | Creator / publisher
 
 ![Masks of the Void: Origins official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542350/59e11634996b557a50f7c21b3e53061ef9fe590c/ss_59e11634996b557a50f7c21b3e53061ef9fe590c.1920x1080.jpg?t=1786581115)
 

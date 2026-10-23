@@ -27,11 +27,13 @@ A strong newest-release discovery for fast FPS action with a striking papercraft
 
 - [Steam: store](https://store.steampowered.com/app/2680280/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[OUT NOW](https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/hls_264_master.m3u8?t=1791570834)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[OUT NOW](https://store.steampowered.com/app/2680280/) | Creator / publisher
 
 ![PAPERHEAD official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/2b9ea7222a5ec9de63eb636217893c717ebc0443/ss_2b9ea7222a5ec9de63eb636217893c717ebc0443.1920x1080.jpg?t=1791815882)
 

@@ -27,13 +27,15 @@ A standout adjacent recommendation for expressive traversal and large spaces. Th
 
 - [Steam: store](https://store.steampowered.com/app/1836730/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/1836730/760168/e1d72be6aa1aa99be13e86b26de5567d81643ad9/1750738110/hls_264_master.m3u8?t=1727186410)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[LaunchAnnounce](https://video.akamai.steamstatic.com/store_trailers/1836730/756724/4e107f96fb269a82c2927beaeda8e5249a073ad4/1750738110/hls_264_master.m3u8?t=1726581150)
+[Launch Trailer](https://store.steampowered.com/app/1836730/) | Creator / publisher
+
+[LaunchAnnounce](https://store.steampowered.com/app/1836730/) | Creator / publisher
 
 ![Echo Point Nova official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/ss_eca963737f912183bba995d2a64fa15c6dd3e626.1920x1080.jpg?t=1775572906)
 

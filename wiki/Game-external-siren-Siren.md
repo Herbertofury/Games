@@ -35,11 +35,13 @@ Requires Doom II game data and the GZDoom version specified by the creator. Chec
 
 Public build 0.91b: February 12, 2026. The creator still labels the project in development.
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=6OA-PANaPPY)
+[Creator-published video](https://www.youtube.com/watch?v=6OA-PANaPPY) | Creator / publisher
+
+[Source and provenance](https://dithered-output.itch.io/siren-doom-ii-mod)
 
 ![Siren - creator-published image](https://img.itch.zone/aW1hZ2UvMTM1MjE0NS83ODcyNzkzLnBuZw==/347x500/ACpYa0.png)
 

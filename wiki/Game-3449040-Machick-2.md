@@ -22,17 +22,17 @@ A magical, chaotic roguelike-survivor. Craft insane wands, evolve and fuse power
 
 - [Steam: store](https://store.steampowered.com/app/3449040/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Better Than Ever Trailer](https://video.akamai.steamstatic.com/store_trailers/3449040/1059807672/69e6c34ff197807f34cf7f16726f41910f57e498/1771567214/hls_264_master.m3u8?t=1771575894)
+[Better Than Ever Trailer](https://store.steampowered.com/app/3449040/) | Creator / publisher
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3449040/1824640056/5f4bf6e5911877ebe6e06fe92b45654c7a814e11/1757503375/hls_264_master.m3u8?t=1757508090)
+[Launch Trailer](https://store.steampowered.com/app/3449040/) | Creator / publisher
 
-[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3449040/1700551328/459c7e107f1f70402502d2b869071fb6cb2dc1b1/1752266559/hls_264_master.m3u8?t=1752374238)
+[Release Trailer](https://store.steampowered.com/app/3449040/) | Creator / publisher
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3449040/1116587517/a2b697af8b60698b2741557a6d724ce97de6d651/1757135926/hls_264_master.m3u8?t=1757138148)
+[Gameplay Trailer](https://store.steampowered.com/app/3449040/) | Creator / publisher
 
 ![Machick 2 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/f4d4ea3017ac4420c94472d1a2c87527debebab6/ss_f4d4ea3017ac4420c94472d1a2c87527debebab6.1920x1080.jpg?t=1787869554)
 

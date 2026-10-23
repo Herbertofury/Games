@@ -23,11 +23,13 @@ Go on a rampage in this endless arcade Boomer-Shooter! Gain the weirdest weapons
 
 - [Steam: store](https://store.steampowered.com/app/2882930/)
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Gruel Trailer](https://video.akamai.steamstatic.com/store_trailers/2882930/812808/605908955fb6b5ac462aa6db70e397fd5f3a7153/1750821102/hls_264_master.m3u8?t=1738179576)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Gruel Trailer](https://store.steampowered.com/app/2882930/) | Creator / publisher
 
 ![GRUEL official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2882930/ss_12d9576337f2cfffe205b2f6d6c3ae01f659dcaf.1920x1080.jpg?t=1768433630)
 

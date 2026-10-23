@@ -27,13 +27,15 @@ An extremely small-sample 2026 discovery. Promising, but a perfect percentage fr
 
 - [Steam: store](https://store.steampowered.com/app/5023480/)
 
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
+
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/5023480/897105770/8dbbfb5bc4fa9856ae5d2dfcc9b3a975bdfb6074/1785383940/hls_264_master.m3u8?t=1785966753)
+[Announcement Trailer](https://store.steampowered.com/app/5023480/) | Creator / publisher
 
 ![REINCARNAGE official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023480/9fd40674d39b9887f4dde4a08fb51f0568e1c9cf/ss_9fd40674d39b9887f4dde4a08fb51f0568e1c9cf.1920x1080.jpg?t=1788291525)
 

@@ -22,11 +22,11 @@ Blast hordes of alien ships into junk. Collect the scrap to upgrade your ship in
 
 - [Steam: store](https://store.steampowered.com/app/2005210/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Void Scrappers - Trailer](https://video.akamai.steamstatic.com/store_trailers/2005210/477187/4562b912988a631a94cd5b2ecf7b89683069443e/1751066592/hls_264_master.m3u8?t=1664183857)
+[Void Scrappers - Trailer](https://store.steampowered.com/app/2005210/) | Creator / publisher
 
 ![Void Scrappers official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005210/ss_1842377ce45c61f3d9aad233dd335ee460345b4b.1920x1080.jpg?t=1766941755)
 

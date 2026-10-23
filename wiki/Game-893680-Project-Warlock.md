@@ -22,12 +22,15 @@ Project Warlock is a first-person shooter that fans of Doom, Hexen, and Wolfenst
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/893680/)
+- [GOG: store](https://www.gog.com/en/game/project_warlock) | Exact title in GOG official catalog: Project Warlock
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Project Warlock Steam launch trailer](https://video.akamai.steamstatic.com/store_trailers/893680/195571/13e0aff8dcc183164036cd5b94f62573fd2845ae/1750594130/hls_264_master.m3u8?t=1545411953)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Project Warlock Steam launch trailer](https://store.steampowered.com/app/893680/) | Creator / publisher
 
 ![Project Warlock official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/893680/ss_4602964311ab9dab32f4ad7b483020b3a8d016dd.1920x1080.jpg?t=1792153759)
 

@@ -22,19 +22,19 @@ Form a squad of elemental creatures and face hordes of challenging enemies! Choo
 
 - [Steam: store](https://store.steampowered.com/app/3363560/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Update Evo Trailer - Eng](https://video.akamai.steamstatic.com/store_trailers/3363560/899054665/3f7ad66af26d60976ad630bf6cea585b1a457cda/1782286403/hls_264_master.m3u8?t=1782392893)
+[Update Evo Trailer - Eng](https://store.steampowered.com/app/3363560/) | Creator / publisher
 
-[Update 1.1 Trailer - Eng](https://video.akamai.steamstatic.com/store_trailers/3363560/901694706/71afb118ca9322251a242c24891ef3740de36b15/1773056523/hls_264_master.m3u8?t=1773057388)
+[Update 1.1 Trailer - Eng](https://store.steampowered.com/app/3363560/) | Creator / publisher
 
-[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3363560/1762613066/e0d1b154354316f5598974df58e5db183bc6d39c/1762744207/hls_264_master.m3u8?t=1762776664)
+[Launch Trailer](https://store.steampowered.com/app/3363560/) | Creator / publisher
 
-[New Date ENG](https://video.akamai.steamstatic.com/store_trailers/3363560/1552882417/73912e6991c40df0d8957e972e57825643197427/1760370082/hls_264_master.m3u8?t=1760372570)
+[New Date ENG](https://store.steampowered.com/app/3363560/) | Creator / publisher
 
-[Shard Squad - Release date Trailer](https://video.akamai.steamstatic.com/store_trailers/3363560/1315963531/63f4e68024eafc5f147f104593fa09c06fbabd44/1759191248/hls_264_master.m3u8?t=1760371005)
+[Shard Squad - Release date Trailer](https://store.steampowered.com/app/3363560/) | Creator / publisher
 
 ![Shard Squad official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363560/bbb386ec5cbab7addab7183864e30314a143d270/ss_bbb386ec5cbab7addab7183864e30314a143d270.1920x1080.jpg?t=1783040096)
 

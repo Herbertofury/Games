@@ -22,13 +22,13 @@ Have you ever wondered what it feels like to stop time? Ascend to ZERO is a time
 
 - [Steam: store](https://store.steampowered.com/app/2697940/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Ascend to ZERO \| Launch Trailer ](https://video.akamai.steamstatic.com/store_trailers/2697940/1128286692/4b8d1e7d317c434d53a53138ae5ef8ad378e5b55/1783663477/hls_264_master.m3u8?t=1783926664)
+[Ascend to ZERO \| Launch Trailer ](https://store.steampowered.com/app/2697940/) | Creator / publisher
 
-[Ascend to ZERO \| Launch Date Reveal](https://video.akamai.steamstatic.com/store_trailers/2697940/2004631958/2b2acd2262d934d78e7aaadb196be90ca89927a1/1774541422/hls_264_master.m3u8?t=1774548038)
+[Ascend to ZERO \| Launch Date Reveal](https://store.steampowered.com/app/2697940/) | Creator / publisher
 
 ![Ascend to ZERO official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/48bba650b0faeacd40de93d8b31a9ccd08112d18/ss_48bba650b0faeacd40de93d8b31a9ccd08112d18.1920x1080.jpg?t=1791338709)
 

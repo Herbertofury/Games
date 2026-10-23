@@ -24,13 +24,13 @@ Alight in the Dark is a reverse bullet hell rogue-lite with a strategic ability 
 
 > Small review sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2019020/543468/fe85a27bd70fe5442789137418c48709c933a155/1751068072/hls_264_master.m3u8?t=1677606534)
+[Gameplay Trailer](https://store.steampowered.com/app/2019020/) | Creator / publisher
 
-[Lore Trailer](https://video.akamai.steamstatic.com/store_trailers/2019020/546655/f34f4b5c5af14148a702054a3f53286c56862aaf/1751068075/hls_264_master.m3u8?t=1678404386)
+[Lore Trailer](https://store.steampowered.com/app/2019020/) | Creator / publisher
 
 ![Alight in the Dark official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2019020/ss_73dab8832d4f11316fdbcfd40d4141b449e218b7.1920x1080.jpg?t=1774800044)
 

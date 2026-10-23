@@ -22,11 +22,11 @@ You are the Spirit Hunters in this action rogue-lite. Slay huge waves of monster
 
 - [Steam: store](https://store.steampowered.com/app/1914580/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Spirit Hunters: Infinite Horde - April 23 Trailer](https://video.akamai.steamstatic.com/store_trailers/1914580/561500/ff9b192549b459299940bb30450fda1d78bfbbff/1751047398/hls_264_master.m3u8?t=1682506455)
+[Spirit Hunters: Infinite Horde - April 23 Trailer](https://store.steampowered.com/app/1914580/) | Creator / publisher
 
 ![Spirit Hunters: Infinite Horde official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1914580/ss_4a4f43a4b5c1166a8c7e18c05b9a57557f29f99d.1920x1080.jpg?t=1727963203)
 

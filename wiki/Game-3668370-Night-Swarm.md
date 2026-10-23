@@ -22,15 +22,15 @@ Claim your throne as Vampire Lord in this survivors-like. Each run is another st
 
 - [Steam: store](https://store.steampowered.com/app/3668370/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Endless Night Update Trailer](https://video.akamai.steamstatic.com/store_trailers/3668370/1898131298/429865ed6f94c4162621b10430f64e7ea16614c1/1776350876/hls_264_master.m3u8?t=1776437776)
+[Endless Night Update Trailer](https://store.steampowered.com/app/3668370/) | Creator / publisher
 
-[v1.2 New Content/Characters+Items Update](https://video.akamai.steamstatic.com/store_trailers/3668370/1905282978/e4de9eb0cfccf730a66b7682f3addec9af431df0/1772660609/hls_264_master.m3u8?t=1772722799)
+[v1.2 New Content/Characters+Items Update](https://store.steampowered.com/app/3668370/) | Creator / publisher
 
-[Night Swarm Launch Trailer Eng](https://video.akamai.steamstatic.com/store_trailers/3668370/1367467341/ee12120fbefdd645c76fffa75b4e2a73467055c3/1764627361/hls_264_master.m3u8?t=1764878079)
+[Night Swarm Launch Trailer Eng](https://store.steampowered.com/app/3668370/) | Creator / publisher
 
 ![Night Swarm official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3668370/6c1a3b344f25241ba5d145bce63396829454e263/ss_6c1a3b344f25241ba5d145bce63396829454e263.1920x1080.jpg?t=1790884382)
 

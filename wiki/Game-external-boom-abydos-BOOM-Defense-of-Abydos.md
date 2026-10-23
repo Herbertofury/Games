@@ -37,11 +37,13 @@ PC v1.10: August 10, 2026. Android v1.10M: September 30, 2026. These are update 
 
 > Exploratory recommendation; limited independent reception; Community rating has a small sample
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Creator-published video](https://www.youtube.com/watch?v=dkiKLAm2xEs)
+[Creator-published video](https://www.youtube.com/watch?v=dkiKLAm2xEs) | Creator / publisher
+
+[Source and provenance](https://ez4e99.itch.io/boom-defense-of-abydos)
 
 ![BOOM: Defense of Abydos - creator-published image](https://img.itch.zone/aW1hZ2UvMzI2MDQwOS8yMTIzNTI5OC5wbmc=/347x500/KTq6Fo.png)
 

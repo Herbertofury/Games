@@ -22,12 +22,15 @@ Hands of Necromancy is a Dark Fantasy FPS metroidvania, inspired by classics suc
 ## Official stores and downloads
 
 - [Steam: store](https://store.steampowered.com/app/1898610/)
+- [GOG: store](https://www.gog.com/en/game/hands_of_necromancy) | Exact title in GOG official catalog: Hands of Necromancy
 
-## Official media
+**Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+## Videos and screenshots
 
-[Hands of Necromancy Trailer](https://video.akamai.steamstatic.com/store_trailers/1898610/677892/8a38b4ce03b8211873e726d9da9ce563553f15df/1751044914/hls_264_master.m3u8?t=1711113398)
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Hands of Necromancy Trailer](https://store.steampowered.com/app/1898610/) | Creator / publisher
 
 ![Hands of Necromancy official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898610/ss_4e423019b28a7a475dd11b849a5b71fd7175ac1b.1920x1080.jpg?t=1745442279)
 

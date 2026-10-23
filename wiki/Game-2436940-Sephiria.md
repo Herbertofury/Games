@@ -22,13 +22,13 @@ Save Bunnyville from a doomed fate: a top-down action/RPG roguelite from the mak
 
 - [Steam: store](https://store.steampowered.com/app/2436940/)
 
-## Official media
+## Videos and screenshots
 
-The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
-[Sephiria: 1.0 release date trailer](https://video.akamai.steamstatic.com/store_trailers/2436940/1818105550/0e1b83dac55fd18ce1f873fb2dccc81fda7e3889/1783515034/hls_264_master.m3u8?t=1783515614)
+[Sephiria: 1.0 release date trailer](https://store.steampowered.com/app/2436940/) | Creator / publisher
 
-[Sephiria Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/2436940/632778/ec9b0e124dcf0c7a23cec48f08d45f72edfbfb05/1750814897/hls_264_master.m3u8?t=1742880482)
+[Sephiria Demo Trailer](https://store.steampowered.com/app/2436940/) | Creator / publisher
 
 ![Sephiria official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/ss_6dc776bb4cd7565deba0801e6c51389d008c0e74.1920x1080.jpg?t=1790681009)
 
