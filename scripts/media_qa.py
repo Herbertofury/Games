@@ -16,6 +16,7 @@ try:
     page=browser.new_page(viewport={'width':1536,'height':1100},reduced_motion='reduce')
     page.on('requestfailed',lambda r: report.setdefault('networkFailures',[]).append({'url':r.url,'error':r.failure}))
     page.on('pageerror',lambda e:report.setdefault('pageErrors',[]).append(str(e)))
+    page.on('response',lambda r: report.setdefault('streamResponses',[]).append({'url':r.url,'status':r.status}) if any(x in r.url for x in ('.m3u8','.m4s','.ts?','hls.min.js')) else None)
     page.goto(f'http://127.0.0.1:{port}',wait_until='domcontentloaded')
     page.wait_for_function('window.GamesTest && GamesTest.count>0')
     page.wait_for_function('Array.from(document.images).filter(i=>i.naturalWidth>0).length>=3',timeout=45000)
@@ -24,7 +25,8 @@ try:
         page.goto(f'http://127.0.0.1:{port}/#game=steam%3A{appid}',wait_until='domcontentloaded')
         page.wait_for_selector('#media-video');page.locator('#media-video').scroll_into_view_if_needed()
         print('Testing official media',appid,flush=True)
-        page.wait_for_function('document.querySelector("#media-video").readyState>=1',timeout=45000)
+        page.wait_for_function('document.querySelector("#media-video").currentSrc.length>0',timeout=45000)
+        page.evaluate('''() => { window.__hlsErrors=[]; if(typeof hls!=="undefined" && hls)hls.on(Hls.Events.ERROR,(_,e)=>window.__hlsErrors.push({type:e.type,details:e.details,fatal:e.fatal,error:String(e.error||"")})); }''')
         page.locator('#media-video').evaluate('(v)=>{v.muted=true;v.play().catch(e=>window.__mediaPlayError=String(e))}')
         page.wait_for_function('document.querySelector("#media-video").currentTime>0.5',timeout=30000)
         facts=page.locator('#media-video').evaluate('(v)=>({width:v.videoWidth,height:v.videoHeight,time:v.currentTime,duration:v.duration})')
@@ -44,7 +46,7 @@ except Exception as e:
     report['passed']=False;report['error']=str(e)
     if page:
         try:
-            report['videoState']=page.locator('#media-video').evaluate('(v)=>({src:v.currentSrc,readyState:v.readyState,networkState:v.networkState,error:v.error?.message,playError:window.__mediaPlayError,nativeHls:v.canPlayType("application/vnd.apple.mpegurl"),hlsVersion:window.Hls?.version})')
+            report['videoState']=page.locator('#media-video').evaluate('(v)=>({src:v.currentSrc,readyState:v.readyState,networkState:v.networkState,error:v.error?.message,playError:window.__mediaPlayError,nativeHls:v.canPlayType("application/vnd.apple.mpegurl"),hlsVersion:window.Hls?.version,hlsErrors:window.__hlsErrors,hlsState:typeof hls!=="undefined"&&hls?{loading:hls.loadingEnabled,buffering:hls.bufferingEnabled,levels:hls.levels.map(l=>({width:l.width,height:l.height,videoCodec:l.videoCodec,audioCodec:l.audioCodec})),level:hls.currentLevel,streamState:hls.streamController?.state,mediaAttached:hls.media===v}:null})')
             page.screenshot(path=str(out/'media-failure.png'))
         except Exception:pass
     raise
