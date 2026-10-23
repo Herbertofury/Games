@@ -38,10 +38,12 @@ jobs:
           python3 -m pip install -r requirements-dev.txt
           python3 scripts/install_platformers.py
           python3 scripts/finalize_platformer_sources.py
+          python3 scripts/complete_platformer_media.py
           python3 scripts/build.py
           node --check site/app.js
           node --check site/platformers.js
           python3 -m unittest discover -s tests -p 'test_*.py'
+          git diff --exit-code -- .github/workflows
       - name: Configure actual Chromium
         run: |
           if command -v google-chrome >/dev/null; then
@@ -66,11 +68,12 @@ jobs:
           TESTED_HTML_SHA=$(sha256sum dist/index.html | cut -d' ' -f1)
           python3 scripts/build.py
           test "$TESTED_HTML_SHA" = "$(sha256sum dist/index.html | cut -d' ' -f1)"
-          git add site scripts tests docs README.md .github data dist wiki
-          git add -f docs/qa/platformers-*
+          git add site scripts tests docs README.md data
+          git add -f dist wiki docs/qa/platformers-*
           if ! git diff --cached --quiet; then
             git commit -m 'Integrate the verified platformer study, complete dossiers, media atlas and browser evidence'
-            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git fetch origin "${GITHUB_REF_NAME}"
+            git merge --no-edit "origin/${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
       - uses: actions/upload-artifact@v4
