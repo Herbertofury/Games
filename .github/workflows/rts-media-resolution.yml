@@ -1,0 +1,80 @@
+name: Resolve RTS media
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/rts-media-resolution.yml']
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Inspect exact media pages and public publisher metadata
+        shell: python
+        run: |
+          import concurrent.futures,html,json,pathlib,re,sys,urllib.parse,urllib.request,urllib.error
+          sys.path.insert(0,'scripts')
+          from bs4 import BeautifulSoup
+          import discover_storefronts as net
+          sources={
+            'openhv':'https://openhv.itch.io/openhv',
+            'twisted-insurrection':'https://www.moddb.com/mods/twisted-insurrection/videos/twisted-insurrection-06-trailer',
+            'contra-x':'https://www.moddb.com/mods/contra/videos/contra-x-beta-2-trailer',
+            'cc-shockwave':'https://www.moddb.com/mods/cc-shockwave/videos/enforcer-demo',
+            'warcraft':'https://news.blizzard.com/en-us/article/24148499/catch-up-on-the-future-of-warcraft-with-the-warcraft-30th-anniversary-direct',
+            'starcraft2':'https://starcraft2.blizzard.com/en-us/',
+            'starcraft-remastered':'https://news.blizzard.com/en-us/article/20971676/starcraft-remastered-now-live',
+            'empires':'https://www.gog.com/en/game/empires_dawn_of_the_modern_world',
+            'world-in-conflict':'https://www.gog.com/en/game/world_in_conflict_complete_edition',
+            'warlords2':'https://www.gog.com/en/game/warlords_battlecry_2',
+            'supremecommander':'https://www.gog.com/en/game/supreme_commander_gold_edition',
+            'actofwar':'https://www.gog.com/en/game/act_of_war_gold_edition',
+            'wargame':'https://www.sector.sk/video/26246/wargame-red-dragon-launch-trailer.htm',
+            'zero-hour':'https://steamcommunity.com/sharedfiles/filedetails/?id=2721039432',
+            'generals':'https://steamcommunity.com/sharedfiles/filedetails/?id=2721039433',
+            'red-alert-2':'https://steamcommunity.com/sharedfiles/filedetails/?id=2721043394',
+            'tiberian-sun':'https://steamcommunity.com/sharedfiles/filedetails/?id=3189115813',
+            'littlewargame':'https://littlewargame.com/',
+            'supcom-video':'https://www.gameswelt.de/supreme-commander/video/trailer-124829'
+          }
+          out=pathlib.Path('qa/rts-media');out.mkdir(parents=True,exist_ok=True)
+          def probe(pair):
+            key,url=pair
+            try:
+              raw,final,typ=net.read(url);s=BeautifulSoup(raw,'html.parser');(out/(key+'.html')).write_text(raw)
+              body=html.unescape(raw.replace('\\/','/'))
+              yt=list(dict.fromkeys(re.findall(r'(?:youtube(?:-nocookie)?\.com/(?:embed/|watch\?v=)|youtu\.be/|i\.ytimg\.com/vi/)([A-Za-z0-9_-]{11})',body)))
+              snippets=re.findall(r'.{0,120}(?:youtubeId|videoId|video_id|youtube_id|productId|gameId|productcard|playerVars).{0,240}',body,re.I)
+              vids=[dict(x.attrs) for x in s.select('iframe,video,source,[data-youtube-id],[data-video-id]')]
+              links=[{'label':a.get_text(' ',strip=True),'url':urllib.parse.urljoin(final,a['href'])} for a in s.select('a[href]') if any(k in a['href'] for k in ['youtu','blizz.ly','battle.net','video.gameswelt','cdn.','video','trailer'])]
+              images=[{'src':n.get('src'),'dataSrc':n.get('data-src'),'alt':n.get('alt')} for n in s.select('img')]
+              return {'id':key,'url':url,'final':final,'title':s.title.get_text(' ',strip=True) if s.title else '', 'youtube':yt,'snippets':snippets,'videoNodes':vids,'links':links,'images':images}
+            except Exception as e:return {'id':key,'url':url,'error':str(e)}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=5) as p:report=list(p.map(probe,sources.items()))
+          # Resolve short official links, retaining authorization/redirect boundaries without signing in.
+          shorts=list(dict.fromkeys(l['url'] for r in report if r['id']=='warcraft' for l in r.get('links',[]) if 'blizz.ly' in l['url']))
+          def follow(url):
+            try:
+              req=urllib.request.Request(url,headers={'User-Agent':net.UA})
+              with urllib.request.urlopen(req,timeout=15) as r:return {'source':url,'final':r.url}
+            except urllib.error.HTTPError as e:return {'source':url,'final':e.url,'status':e.code}
+            except Exception as e:return {'source':url,'error':str(e)}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=4) as p:redirects=list(p.map(follow,shorts))
+          ids=['AaiFxQYv0Aw','z83t4e3J7XM','WPJWgDItRP8','ZLTnOVh2zNA','HrNyxNlgJCs','arMVEHrQOaM']
+          ids=list(dict.fromkeys(ids+[v for r in report for v in r.get('youtube',[])]))
+          def oembed(v):
+            u='https://www.youtube.com/oembed?url='+urllib.parse.quote('https://www.youtube.com/watch?v='+v,safe='')+'&format=json'
+            try:return {'id':v,**net.api(u)}
+            except Exception as e:return {'id':v,'error':str(e)}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=5) as p:yt=list(p.map(oembed,ids))
+          result={'pages':report,'redirects':redirects,'youtubeMetadata':yt}
+          (out/'report.json').write_text(json.dumps(result,indent=2)+'\n')
+          print(json.dumps({'pages':[{k:v for k,v in r.items() if k not in ['images','links','snippets']} for r in report],'redirects':redirects,'youtubeMetadata':yt},indent=2))
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: rts-media-resolution
+          path: qa/rts-media
