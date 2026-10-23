@@ -1,0 +1,2072 @@
+{
+  "sourceRevision": "f0e8b700401df5561337ff50851be56e90e02b80",
+  "datasetHash": "1cfa7bd103db4d90470225df3c9b34f5bae1fe94d9c9e1817d18972d9d2a71ee",
+  "records": 130,
+  "checks": [
+    "Roguelites count preserved",
+    "Boomer shooters count preserved",
+    "Real-time strategy count preserved",
+    "Distinct command-center theme",
+    "torment shelf has results",
+    "Closest matches exclude no-base tactical neighbors",
+    "generals shelf has results",
+    "Zero Hour mod shelf contains all four overhauls",
+    "skirmish shelf has results",
+    "free-rts shelf has results",
+    "watchlist shelf has results",
+    "All six unreleased projects are separate",
+    "new shelf has results",
+    "Fresh releases do not relabel old classics",
+    "demos shelf has results",
+    "Demo shelf includes exact demo editions",
+    "GOG filter uses exact distribution links",
+    "Exact-phrase RTS search",
+    "All RTS table rows available",
+    "Gallery keeps all records",
+    "Measured render does not cull records",
+    "Every RTS detail has complete distribution, media and game-mode information",
+    "All 130 primary artworks decode from real remote bytes",
+    "steam:1486920 actual trailer playback advances",
+    "steam:9420 actual trailer playback advances",
+    "YouTube is opt-in",
+    "Exact Zero Hour video reaches privacy-enhanced embed",
+    "RTS notes and ratings survive real reload",
+    "RTS favorite persists",
+    "Export contains all RTS records",
+    "RTS mobile layout does not overflow",
+    "Portable HTML opens with the full RTS snapshot",
+    "No uncaught JavaScript errors"
+  ],
+  "errors": [],
+  "details": [
+    {
+      "id": "external:0-ad",
+      "sources": [
+        "https://play0ad.com/",
+        "https://play0ad.com/download/"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=3MhcRPm7Zhg",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:427250",
+      "sources": [
+        "https://store.steampowered.com/app/427250/",
+        "https://www.gog.com/en/game/8bit_armies"
+      ],
+      "videoSource": "https://store.steampowered.com/app/427250/",
+      "player": "native"
+    },
+    {
+      "id": "steam:497850",
+      "sources": [
+        "https://store.steampowered.com/app/497850/",
+        "https://www.gog.com/en/game/8bit_hordes"
+      ],
+      "videoSource": "https://store.steampowered.com/app/497850/",
+      "player": "native"
+    },
+    {
+      "id": "steam:531680",
+      "sources": [
+        "https://store.steampowered.com/app/531680/",
+        "https://www.gog.com/en/game/8bit_invaders"
+      ],
+      "videoSource": "https://store.steampowered.com/app/531680/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1439750",
+      "sources": [
+        "https://store.steampowered.com/app/1439750/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1439750/",
+      "player": "native"
+    },
+    {
+      "id": "steam:318020",
+      "sources": [
+        "https://store.steampowered.com/app/318020/",
+        "https://gamesplanet.com/game/act-of-aggression-reboot-edition-steam-key--2824-1"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=vfs3IIiY_1s",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:2710",
+      "sources": [
+        "https://store.steampowered.com/app/2710/",
+        "https://www.gog.com/en/game/act_of_war_gold_edition"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=jqlyMDiZHLE",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:9760",
+      "sources": [
+        "https://store.steampowered.com/app/9760/",
+        "https://www.gog.com/en/game/act_of_war_gold_edition"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=eQ51eGSx38c",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:1426450",
+      "sources": [
+        "https://store.steampowered.com/app/1426450/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1426450/",
+      "player": "native"
+    },
+    {
+      "id": "steam:813780",
+      "sources": [
+        "https://store.steampowered.com/app/813780/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/813780/",
+      "player": "native"
+    },
+    {
+      "id": "steam:933110",
+      "sources": [
+        "https://store.steampowered.com/app/933110/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/933110/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1466860",
+      "sources": [
+        "https://store.steampowered.com/app/1466860/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1466860/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1934680",
+      "sources": [
+        "https://store.steampowered.com/app/1934680/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1934680/",
+      "player": "native"
+    },
+    {
+      "id": "steam:573410",
+      "sources": [
+        "https://store.steampowered.com/app/573410/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/573410/",
+      "player": "native"
+    },
+    {
+      "id": "steam:40400",
+      "sources": [
+        "https://store.steampowered.com/app/40400/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/40400/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1841630",
+      "sources": [
+        "https://store.steampowered.com/app/1841630/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1841630/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1114830",
+      "sources": [
+        "https://store.steampowered.com/app/1114830/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1114830/",
+      "player": "native"
+    },
+    {
+      "id": "steam:507490",
+      "sources": [
+        "https://store.steampowered.com/app/507490/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/507490/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1031730",
+      "sources": [
+        "https://store.steampowered.com/app/1031730/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1031730/",
+      "player": "native"
+    },
+    {
+      "id": "external:beyond-all-reason",
+      "sources": [
+        "https://www.beyondallreason.info/",
+        "https://www.beyondallreason.info/download"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=8K_fSWfOC1w",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:1604270",
+      "sources": [
+        "https://store.steampowered.com/app/1604270/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1604270/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1996600",
+      "sources": [
+        "https://store.steampowered.com/app/1996600/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1996600/",
+      "player": "native"
+    },
+    {
+      "id": "external:cc-shockwave",
+      "sources": [
+        "https://www.moddb.com/mods/cc-shockwave"
+      ],
+      "videoSource": "https://www.moddb.com/mods/cc-shockwave/videos/enforcer-demo",
+      "player": "native"
+    },
+    {
+      "id": "steam:400750",
+      "sources": [
+        "https://store.steampowered.com/app/400750/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/400750/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1422440",
+      "sources": [
+        "https://store.steampowered.com/app/1422440/",
+        "https://www.gog.com/en/game/cataclismo"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1422440/",
+      "player": "native"
+    },
+    {
+      "id": "steam:24790",
+      "sources": [
+        "https://store.steampowered.com/app/24790/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/24790/",
+      "player": "native"
+    },
+    {
+      "id": "steam:2229850",
+      "sources": [
+        "https://store.steampowered.com/app/2229850/",
+        "https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=ZLTnOVh2zNA",
+      "player": "youtube"
+    },
+    {
+      "id": "external:combined-arms",
+      "sources": [
+        "https://www.moddb.com/mods/command-conquer-combined-arms"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=1BiFYv1Zf2A",
+      "player": "youtube"
+    },
+    {
+      "id": "external:generals-evolution",
+      "sources": [
+        "https://www.moddb.com/mods/command-and-conquer-generals-evolution"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=6vJjmFj9K4U",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:24800",
+      "sources": [
+        "https://store.steampowered.com/app/24800/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/24800/",
+      "player": "native"
+    },
+    {
+      "id": "steam:24810",
+      "sources": [
+        "https://store.steampowered.com/app/24810/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/24810/",
+      "player": "native"
+    },
+    {
+      "id": "steam:2229870",
+      "sources": [
+        "https://store.steampowered.com/app/2229870/",
+        "https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=JgpL1UvmnrE",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:2732960",
+      "sources": [
+        "https://store.steampowered.com/app/2732960/",
+        "https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=AaiFxQYv0Aw",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:17480",
+      "sources": [
+        "https://store.steampowered.com/app/17480/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/17480/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1213210",
+      "sources": [
+        "https://store.steampowered.com/app/1213210/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1213210/",
+      "player": "native"
+    },
+    {
+      "id": "steam:2229880",
+      "sources": [
+        "https://store.steampowered.com/app/2229880/",
+        "https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=ioCRo2sj9Eo",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:1527070",
+      "sources": [
+        "https://store.steampowered.com/app/1527070/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1527070/",
+      "player": "native"
+    },
+    {
+      "id": "steam:231430",
+      "sources": [
+        "https://store.steampowered.com/app/231430/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/231430/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1677280",
+      "sources": [
+        "https://store.steampowered.com/app/1677280/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1677280/",
+      "player": "native"
+    },
+    {
+      "id": "external:contra-x",
+      "sources": [
+        "https://www.moddb.com/mods/contra"
+      ],
+      "videoSource": "https://www.moddb.com/mods/contra/videos/contra-x-beta-2-trailer",
+      "player": "native"
+    },
+    {
+      "id": "steam:333420",
+      "sources": [
+        "https://store.steampowered.com/app/333420/",
+        "https://www.gog.com/en/game/cossacks_3"
+      ],
+      "videoSource": "https://store.steampowered.com/app/333420/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1072190",
+      "sources": [
+        "https://store.steampowered.com/app/1072190/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1072190/",
+      "player": "native"
+    },
+    {
+      "id": "steam:2388620",
+      "sources": [
+        "https://store.steampowered.com/app/2388620/",
+        "https://www.patreon.com/dorfRTS"
+      ],
+      "videoSource": "https://store.steampowered.com/app/2388620/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1272320",
+      "sources": [
+        "https://store.steampowered.com/app/1272320/",
+        "https://www.gog.com/en/game/diplomacy_is_not_an_option",
+        "https://door407.itch.io/diplomacy-is-not-an-option"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1272320/",
+      "player": "native"
+    },
+    {
+      "id": "steam:2610770",
+      "sources": [
+        "https://store.steampowered.com/app/2610770/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/2610770/",
+      "player": "native"
+    },
+    {
+      "id": "steam:2088550",
+      "sources": [
+        "https://store.steampowered.com/app/2088550/",
+        "https://sarnayer.itch.io/dying-breed"
+      ],
+      "videoSource": "https://store.steampowered.com/app/2088550/",
+      "player": "native"
+    },
+    {
+      "id": "steam:253880",
+      "sources": [
+        "https://store.steampowered.com/app/253880/",
+        "https://www.gog.com/en/game/earth_2150_trilogy"
+      ],
+      "videoSource": "https://store.steampowered.com/app/253880/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1900",
+      "sources": [
+        "https://store.steampowered.com/app/1900/",
+        "https://www.gog.com/en/game/earth_2160"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1900/",
+      "player": "native"
+    },
+    {
+      "id": "steam:254780",
+      "sources": [
+        "https://store.steampowered.com/app/254780/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/254780/",
+      "player": "native"
+    },
+    {
+      "id": "steam:254760",
+      "sources": [
+        "https://store.steampowered.com/app/254760/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/254760/",
+      "player": "native"
+    },
+    {
+      "id": "steam:463530",
+      "sources": [
+        "https://store.steampowered.com/app/463530/",
+        "https://www.gog.com/en/game/empires_of_the_undergrowth"
+      ],
+      "videoSource": "https://store.steampowered.com/app/463530/",
+      "player": "native"
+    },
+    {
+      "id": "external:empires-dawn-modern-world",
+      "sources": [
+        "https://www.gog.com/en/game/empires_dawn_of_the_modern_world"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=WVrUQwiJsv0",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:245370",
+      "sources": [
+        "https://store.steampowered.com/app/245370/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/245370/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1565670",
+      "sources": [
+        "https://store.steampowered.com/app/1565670/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1565670/",
+      "player": "native"
+    },
+    {
+      "id": "steam:686260",
+      "sources": [
+        "https://store.steampowered.com/app/686260/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/686260/",
+      "player": "native"
+    },
+    {
+      "id": "steam:2583660",
+      "sources": [
+        "https://store.steampowered.com/app/2583660/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/2583660/",
+      "player": "native"
+    },
+    {
+      "id": "steam:908770",
+      "sources": [
+        "https://store.steampowered.com/app/908770/",
+        "https://www.indiedb.com/games/global-conflagration"
+      ],
+      "videoSource": "https://store.steampowered.com/app/908770/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1328990",
+      "sources": [
+        "https://store.steampowered.com/app/1328990/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1328990/",
+      "player": "native"
+    },
+    {
+      "id": "steam:290790",
+      "sources": [
+        "https://store.steampowered.com/app/290790/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/290790/",
+      "player": "native"
+    },
+    {
+      "id": "steam:459220",
+      "sources": [
+        "https://store.steampowered.com/app/459220/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/459220/",
+      "player": "native"
+    },
+    {
+      "id": "steam:3052730",
+      "sources": [
+        "https://store.steampowered.com/app/3052730/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/3052730/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1840080",
+      "sources": [
+        "https://store.steampowered.com/app/1840080/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1840080/",
+      "player": "native"
+    },
+    {
+      "id": "steam:244160",
+      "sources": [
+        "https://store.steampowered.com/app/244160/",
+        "https://www.gog.com/en/game/homeworld_remastered_collection"
+      ],
+      "videoSource": "https://store.steampowered.com/app/244160/",
+      "player": "native"
+    },
+    {
+      "id": "steam:281610",
+      "sources": [
+        "https://store.steampowered.com/app/281610/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/281610/",
+      "player": "native"
+    },
+    {
+      "id": "steam:2921580",
+      "sources": [
+        "https://store.steampowered.com/app/2921580/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/2921580/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1796720",
+      "sources": [
+        "https://store.steampowered.com/app/1796720/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1796720/",
+      "player": "native"
+    },
+    {
+      "id": "steam:826630",
+      "sources": [
+        "https://store.steampowered.com/app/826630/",
+        "https://www.gog.com/en/game/iron_harvest"
+      ],
+      "videoSource": "https://store.steampowered.com/app/826630/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1292170",
+      "sources": [
+        "https://store.steampowered.com/app/1292170/",
+        "https://www.gog.com/en/game/krush_kill_n_destroy_xtreme"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1292170/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1292180",
+      "sources": [
+        "https://store.steampowered.com/app/1292180/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1292180/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1309610",
+      "sources": [
+        "https://store.steampowered.com/app/1309610/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1309610/",
+      "player": "native"
+    },
+    {
+      "id": "steam:896250",
+      "sources": [
+        "https://store.steampowered.com/app/896250/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/896250/",
+      "player": "native"
+    },
+    {
+      "id": "external:littlewargame",
+      "sources": [
+        "https://littlewargame.com/"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=WwbUOen0wFs",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:946660",
+      "sources": [
+        "https://store.steampowered.com/app/946660/",
+        "https://www.gog.com/en/game/loria"
+      ],
+      "videoSource": "https://store.steampowered.com/app/946660/",
+      "player": "native"
+    },
+    {
+      "id": "steam:3213120",
+      "sources": [
+        "https://store.steampowered.com/app/3213120/",
+        "https://machinefall.itch.io/machinefall"
+      ],
+      "videoSource": "https://store.steampowered.com/app/3213120/",
+      "player": "native"
+    },
+    {
+      "id": "steam:303860",
+      "sources": [
+        "https://store.steampowered.com/app/303860/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/303860/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1128860",
+      "sources": [
+        "https://store.steampowered.com/app/1128860/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1128860/",
+      "player": "native"
+    },
+    {
+      "id": "external:mental-omega",
+      "sources": [
+        "https://www.moddb.com/mods/mental-omega"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=W0K66FAR53A",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:923100",
+      "sources": [
+        "https://store.steampowered.com/app/923100/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/923100/",
+      "player": "native"
+    },
+    {
+      "id": "steam:887570",
+      "sources": [
+        "https://store.steampowered.com/app/887570/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/887570/",
+      "player": "native"
+    },
+    {
+      "id": "external:openhv",
+      "sources": [
+        "https://www.openhv.net/",
+        "https://openhv.itch.io/openhv"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=JPlglQtK1gY",
+      "player": "youtube"
+    },
+    {
+      "id": "external:openra",
+      "sources": [
+        "https://openra.itch.io/openra",
+        "https://www.openra.net/",
+        "https://www.openra.net/download/"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=93b7TKooj-M",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:289440",
+      "sources": [
+        "https://store.steampowered.com/app/289440/",
+        "https://www.gog.com/en/game/perimeter"
+      ],
+      "videoSource": "https://store.steampowered.com/app/289440/",
+      "player": "native"
+    },
+    {
+      "id": "steam:386070",
+      "sources": [
+        "https://store.steampowered.com/app/386070/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/386070/",
+      "player": "native"
+    },
+    {
+      "id": "steam:3010280",
+      "sources": [
+        "https://store.steampowered.com/app/3010280/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/3010280/",
+      "player": "native"
+    },
+    {
+      "id": "steam:21970",
+      "sources": [
+        "https://store.steampowered.com/app/21970/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/21970/",
+      "player": "native"
+    },
+    {
+      "id": "steam:530040",
+      "sources": [
+        "https://store.steampowered.com/app/530040/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/530040/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1934720",
+      "sources": [
+        "https://store.steampowered.com/app/1934720/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1934720/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1109680",
+      "sources": [
+        "https://store.steampowered.com/app/1109680/",
+        "https://www.gog.com/en/game/regiments"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1109680/",
+      "player": "native"
+    },
+    {
+      "id": "steam:287450",
+      "sources": [
+        "https://store.steampowered.com/app/287450/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/287450/",
+      "player": "native"
+    },
+    {
+      "id": "external:rise-of-the-reds",
+      "sources": [
+        "https://www.moddb.com/mods/rise-of-the-reds"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=QOiporgitm0",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:647960",
+      "sources": [
+        "https://store.steampowered.com/app/647960/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/647960/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1699050",
+      "sources": [
+        "https://store.steampowered.com/app/1699050/",
+        "https://www.patreon.com/sanctuaryshatteredsun"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1699050/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1575940",
+      "sources": [
+        "https://store.steampowered.com/app/1575940/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1575940/",
+      "player": "native"
+    },
+    {
+      "id": "steam:204880",
+      "sources": [
+        "https://store.steampowered.com/app/204880/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/204880/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1762570",
+      "sources": [
+        "https://store.steampowered.com/app/1762570/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1762570/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1154040",
+      "sources": [
+        "https://store.steampowered.com/app/1154040/",
+        "https://www.gog.com/en/game/spellforce_3_fallen_god"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1154040/",
+      "player": "native"
+    },
+    {
+      "id": "steam:311290",
+      "sources": [
+        "https://store.steampowered.com/app/311290/",
+        "https://www.gog.com/en/game/spellforce_3_reforced"
+      ],
+      "videoSource": "https://store.steampowered.com/app/311290/",
+      "player": "native"
+    },
+    {
+      "id": "steam:817540",
+      "sources": [
+        "https://store.steampowered.com/app/817540/",
+        "https://www.gog.com/en/game/spellforce_3_soul_harvest"
+      ],
+      "videoSource": "https://store.steampowered.com/app/817540/",
+      "player": "native"
+    },
+    {
+      "id": "steam:32470",
+      "sources": [
+        "https://store.steampowered.com/app/32470/",
+        "https://www.gog.com/en/game/star_wars_empire_at_war_gold_pack"
+      ],
+      "videoSource": "https://store.steampowered.com/app/32470/",
+      "player": "native"
+    },
+    {
+      "id": "external:starcraft-2",
+      "sources": [
+        "https://starcraft2.blizzard.com/en-us/"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=8L4kNzTNnqk",
+      "player": "youtube"
+    },
+    {
+      "id": "external:starcraft-remastered",
+      "sources": [
+        "https://starcraft.blizzard.com/en-us",
+        "https://www.xbox.com/en-US/games/store/starcraft-remastered/9n2gwlmchjtn"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=OIWbdRgnXjo",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:1202130",
+      "sources": [
+        "https://store.steampowered.com/app/1202130/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1202130/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1113030",
+      "sources": [
+        "https://store.steampowered.com/app/1113030/",
+        "https://www.gog.com/en/game/stellar_warfare",
+        "https://tensegames.itch.io/stellar-warfare"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1113030/",
+      "player": "native"
+    },
+    {
+      "id": "steam:2012510",
+      "sources": [
+        "https://store.steampowered.com/app/2012510/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/2012510/",
+      "player": "native"
+    },
+    {
+      "id": "steam:40100",
+      "sources": [
+        "https://store.steampowered.com/app/40100/",
+        "https://www.gog.com/en/game/supreme_commander_2"
+      ],
+      "videoSource": "https://store.steampowered.com/app/40100/",
+      "player": "native"
+    },
+    {
+      "id": "steam:9420",
+      "sources": [
+        "https://store.steampowered.com/app/9420/",
+        "https://www.faforever.com/play",
+        "https://www.gog.com/en/game/supreme_commander_gold_edition"
+      ],
+      "videoSource": "https://www.gameswelt.de/supreme-commander/video/trailer-124829",
+      "player": "native"
+    },
+    {
+      "id": "steam:2599770",
+      "sources": [
+        "https://store.steampowered.com/app/2599770/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/2599770/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1486920",
+      "sources": [
+        "https://store.steampowered.com/app/1486920/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1486920/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1839950",
+      "sources": [
+        "https://store.steampowered.com/app/1839950/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1839950/",
+      "player": "native"
+    },
+    {
+      "id": "steam:5265230",
+      "sources": [
+        "https://store.steampowered.com/app/5265230/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/5265230/",
+      "player": "native"
+    },
+    {
+      "id": "external:dawn-tiberium-age",
+      "sources": [
+        "https://www.moddb.com/mods/the-dawn-of-the-tiberium-age"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=GTw6jWwt5_M",
+      "player": "youtube"
+    },
+    {
+      "id": "external:end-of-days-zh",
+      "sources": [
+        "https://www.moddb.com/mods/the-end-of-days"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=h4Wtim9Wgic",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:644930",
+      "sources": [
+        "https://store.steampowered.com/app/644930/",
+        "https://www.gog.com/en/game/they_are_billions"
+      ],
+      "videoSource": "https://store.steampowered.com/app/644930/",
+      "player": "native"
+    },
+    {
+      "id": "steam:2239150",
+      "sources": [
+        "https://store.steampowered.com/app/2239150/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/2239150/",
+      "player": "native"
+    },
+    {
+      "id": "steam:286000",
+      "sources": [
+        "https://store.steampowered.com/app/286000/",
+        "https://www.gog.com/en/game/tooth_and_tail",
+        "https://pocketwatch.itch.io/tooth-and-tail"
+      ],
+      "videoSource": "https://store.steampowered.com/app/286000/",
+      "player": "native"
+    },
+    {
+      "id": "steam:298030",
+      "sources": [
+        "https://store.steampowered.com/app/298030/",
+        "https://www.gog.com/en/game/total_annihilation_commander_pack"
+      ],
+      "videoSource": "https://store.steampowered.com/app/298030/",
+      "player": "native"
+    },
+    {
+      "id": "external:twisted-insurrection",
+      "sources": [
+        "https://www.moddb.com/mods/twisted-insurrection"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=XFn_nElicHs",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:777770",
+      "sources": [
+        "https://store.steampowered.com/app/777770/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/777770/",
+      "player": "native"
+    },
+    {
+      "id": "external:warcraft-1-remastered",
+      "sources": [
+        "https://blizz.ly/4hLD57w"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=ryZ2jiW95qo",
+      "player": "youtube"
+    },
+    {
+      "id": "external:warcraft-2-remastered",
+      "sources": [
+        "https://blizz.ly/3UKCV6J"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=ryZ2jiW95qo",
+      "player": "youtube"
+    },
+    {
+      "id": "external:warcraft-3-reforged",
+      "sources": [
+        "https://warcraft3.blizzard.com/en-us/"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=Q2zfx5hQ3CE",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:2745870",
+      "sources": [
+        "https://store.steampowered.com/app/2745870/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/2745870/",
+      "player": "native"
+    },
+    {
+      "id": "steam:251060",
+      "sources": [
+        "https://store.steampowered.com/app/251060/",
+        "https://store.epicgames.com/en-US/p/wargame-red-dragon",
+        "https://gamesplanet.com/game/wargame-red-dragon-steam-key--2566-1"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=lw3az0LsKc0",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:3556750",
+      "sources": [
+        "https://store.steampowered.com/app/3556750/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/3556750/",
+      "player": "native"
+    },
+    {
+      "id": "external:warlords-battlecry-2",
+      "sources": [
+        "https://www.gog.com/en/game/warlords_battlecry_2"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=y9Z-TMwyoJc",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:433280",
+      "sources": [
+        "https://store.steampowered.com/app/433280/",
+        "https://www.gog.com/en/game/warlords_battlecry_3"
+      ],
+      "videoSource": "https://store.steampowered.com/app/433280/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1611600",
+      "sources": [
+        "https://store.steampowered.com/app/1611600/",
+        "https://www.gog.com/en/game/warno"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1611600/",
+      "player": "native"
+    },
+    {
+      "id": "steam:1241950",
+      "sources": [
+        "https://store.steampowered.com/app/1241950/",
+        "https://wz2100.net/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/1241950/",
+      "player": "native"
+    },
+    {
+      "id": "external:world-in-conflict",
+      "sources": [
+        "https://www.gog.com/en/game/world_in_conflict_complete_edition"
+      ],
+      "videoSource": "https://www.youtube.com/watch?v=Ue0GNIAfd20",
+      "player": "youtube"
+    },
+    {
+      "id": "steam:334920",
+      "sources": [
+        "https://store.steampowered.com/app/334920/",
+        "https://zero-k.info/"
+      ],
+      "videoSource": "https://store.steampowered.com/app/334920/",
+      "player": "native"
+    }
+  ],
+  "images": [
+    {
+      "id": "external:0-ad",
+      "url": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0013.thumb.png.f02238352935d711fd823acc366c991b.png",
+      "ok": true,
+      "width": 1000,
+      "height": 563
+    },
+    {
+      "id": "steam:427250",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427250/header.jpg?t=1667950296",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1439750",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439750/header.jpg?t=1757962768",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2710",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710/header.jpg?t=1727869627",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:813780",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg?t=1790623375",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:497850",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497850/header.jpg?t=1667950410",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:531680",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/531680/header.jpg?t=1667950466",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:9760",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9760/header.jpg?t=1727869536",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:318020",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/318020/header.jpg?t=1639817820",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1466860",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg?t=1780854334",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1426450",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426450/header.jpg?t=1776236491",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1934680",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934680/header.jpg?t=1780429786",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:573410",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/header.jpg?t=1754319159",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:933110",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/933110/0f85493ce793ef403f8619e5a0e1406f0c9058b2/header.jpg?t=1789060107",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:40400",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40400/header.jpg?t=1754319417",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1841630",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1841630/header.jpg?t=1664013483",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:beyond-all-reason",
+      "url": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/60d97aab6fdf2731bde767e8_BAR_Web_OG-media-2021_1200_V2.png",
+      "ok": true,
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "id": "steam:1604270",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604270/06d83195463188500a7e1fc140c5ca557c7cf2e5/header_alt_assets_5.jpg?t=1790684487",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:cc-shockwave",
+      "url": "https://media.moddb.com/images/mods/1/7/6301/woot.jpg",
+      "ok": true,
+      "width": 300,
+      "height": 200
+    },
+    {
+      "id": "steam:1422440",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/header.jpg?t=1792736886",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:24790",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24790/header.jpg?t=1779987212",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2229850",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229850/header.jpg?t=1779987211",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:combined-arms",
+      "url": "https://media.moddb.com/images/mods/1/34/33634/title.png",
+      "ok": true,
+      "width": 320,
+      "height": 280
+    },
+    {
+      "id": "external:generals-evolution",
+      "url": "https://media.moddb.com/images/mods/1/22/21235/ModdbButton.1.png",
+      "ok": true,
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "steam:400750",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400750/dbbd1ee41869ac2bae52511ab9d171e1aba441e4/header.jpg?t=1792498506",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:24810",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24810/header.jpg?t=1779987212",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2229870",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229870/header.jpg?t=1779987211",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2732960",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732960/header.jpg?t=1785902817",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:17480",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17480/header.jpg?t=1779987212",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1213210",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213210/header.jpg?t=1779987581",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1114830",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114830/header.jpg?t=1763252514",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:507490",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/507490/header.jpg?t=1790866662",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1031730",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031730/header.jpg?t=1782411149",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:231430",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231430/header.jpg?t=1750947634",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:contra-x",
+      "url": "https://media.moddb.com/images/mods/1/11/10422/Install_Final_Contra_ModDB-bg.1.jpg",
+      "ok": true,
+      "width": 800,
+      "height": 600
+    },
+    {
+      "id": "steam:24800",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24800/header.jpg?t=1779987212",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2229880",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229880/header.jpg?t=1779987211",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2388620",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2388620/2c2dedae4c70ce1c5117e44f259c4b5fa22481d1/header.jpg?t=1775844938",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1272320",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/4edf2d1ccc30f555fe41731fb8f442989307a310/header_alt_assets_8.jpg?t=1790874354",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2610770",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2610770/3063d11decd4e3cb61ec31bd862660b736147bb8/header.jpg?t=1781542029",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2088550",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088550/header.jpg?t=1789686537",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1677280",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677280/header.jpg?t=1792186868",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:333420",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/header.jpg?t=1678808308",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1072190",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072190/header.jpg?t=1755775635",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1900",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900/header.jpg?t=1623327678",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:463530",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/header.jpg?t=1792736782",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:empires-dawn-modern-world",
+      "url": "https://images.gog-statics.com/2adf968cf76ca08627864b462c36088cbf299d49ce553a0e1d6fa5a9a6f2ba0d.jpg",
+      "ok": true,
+      "width": 1600,
+      "height": 740
+    },
+    {
+      "id": "steam:1996600",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1996600/header.jpg?t=1758296169",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1565670",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1565670/header.jpg?t=1692043190",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:253880",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253880/header.jpg?t=1622800581",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2583660",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2583660/0b0f997b7421c8a1a87ad75f19240bf600ea513b/header.jpg?t=1790290851",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:908770",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908770/be4bbf1efeeb192d33e6d6aea862efce5cd8019b/header.jpg?t=1784836711",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1328990",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328990/fcf91f2f07b05195b1a7849cbbff48c66a33e7fc/header.jpg?t=1786397607",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:254760",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254760/cc08df5709552d7f99ba7401571bdce5b5be1bbb/header.jpg?t=1783332464",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:245370",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/245370/header.jpg?t=1728650181",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:3052730",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/0a29e0af9359705894c9b1bf7c483721af2ee619/header.jpg?t=1788348004",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:254780",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254780/f29008574d4fa9b1255c4f8e7418f4d9ff48bde1/header.jpg?t=1782392683",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:244160",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/header.jpg?t=1781819205",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:686260",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686260/header.jpg?t=1675212199",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2921580",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2921580/5ee2da0a9d1a4a1e22da2bc33177fabefd5d75ce/header.jpg?t=1755710054",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1840080",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840080/header.jpg?t=1781819110",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:459220",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/header.jpg?t=1774284126",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1292170",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292170/header.jpg?t=1786729626",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:826630",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826630/header.jpg?t=1771496696",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:281610",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/header.jpg?t=1781819254",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1796720",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1796720/header.jpg?t=1733851725",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:896250",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/896250/7e6b41c11e3c250c2b488756334713956fb288d0/header.jpg?t=1790695837",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:littlewargame",
+      "url": "https://i.ytimg.com/vi/WwbUOen0wFs/hqdefault.jpg",
+      "ok": true,
+      "width": 480,
+      "height": 360
+    },
+    {
+      "id": "steam:3213120",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213120/b1e72d71385f20e7cb4fb137bdff432f6a5051bb/header.jpg?t=1784096072",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1292180",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292180/header.jpg?t=1791302831",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1309610",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1309610/3518e06a03ee52fc177df06660bb78cc491b9902/header.jpg?t=1773391679",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:mental-omega",
+      "url": "https://media.moddb.com/images/mods/1/5/4016/mo-moddb-thumbz.png",
+      "ok": true,
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "steam:923100",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/923100/96d3f3841fb5c81f3c37b5e656165e4be348c674/header.jpg?t=1785513207",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:887570",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887570/header.jpg?t=1792736668",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:openhv",
+      "url": "https://www.openhv.net/images/social.png",
+      "ok": true,
+      "width": 620,
+      "height": 467
+    },
+    {
+      "id": "external:openra",
+      "url": "https://img.itch.zone/aW1nLzM3OTExNzYuZ2lm/original/N4rQMs.gif",
+      "ok": true,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "steam:303860",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303860/header.jpg?t=1508766496",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:946660",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/946660/header.jpg?t=1623342109",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:3010280",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010280/177aea26bbfa44a1ff5d6b5f0cfbd01eec8f2eb0/header.jpg?t=1792628458",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1128860",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/header.jpg?t=1765375474",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:386070",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386070/header.jpg?t=1782341938",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1934720",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934720/1fb0315e34eaafd868156dd18f420b5d085a051f/header.jpg?t=1789547836",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1109680",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1109680/header.jpg?t=1750127282",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:287450",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287450/header.jpg?t=1564604770",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:rise-of-the-reds",
+      "url": "https://media.moddb.com/images/mods/1/5/4333/Untitled-1.jpg",
+      "ok": true,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "steam:290790",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290790/header.jpg?t=1667235522",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1699050",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1699050/73efeed529c1b9fad24293ade77285dd167e8fd9/header.jpg?t=1784814821",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1575940",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/header.jpg?t=1788449303",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:530040",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/530040/header.jpg?t=1572873957",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1762570",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1762570/header.jpg?t=1791392979",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:204880",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204880/0bbfde3533d86a4b000c3d838be4096ac3820158/header.jpg?t=1790867069",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:647960",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/647960/header.jpg?t=1569131908",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1154040",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1154040/header.jpg?t=1727860831",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:32470",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32470/header.jpg?t=1741729002",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:starcraft-2",
+      "url": "https://i.ytimg.com/vi/8L4kNzTNnqk/hqdefault.jpg",
+      "ok": true,
+      "width": 480,
+      "height": 360
+    },
+    {
+      "id": "external:starcraft-remastered",
+      "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/us/US48434ERXVO1502507211719.jpg",
+      "ok": true,
+      "width": 1600,
+      "height": 791
+    },
+    {
+      "id": "steam:311290",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311290/header.jpg?t=1725002687",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:817540",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/817540/header.jpg?t=1727857389",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2012510",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2012510/4e251165266f09be89f5b0e61cbd8d832fe2b4e9/header.jpg?t=1777771043",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:40100",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/header.jpg?t=1779202393",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:9420",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9420/header.jpg?t=1779202395",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2599770",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2599770/637f328debdedc64682e64251eb0f9b22c729933/header.jpg?t=1747678448",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1486920",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/2399a803dd72d61e0712faf7fecae94c7d7ad646/header_alt_assets_5.jpg?t=1790926140",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1202130",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202130/b4ca580246e8fb56649578a349b941ac645eb7d5/header.jpg?t=1792488369",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:5265230",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5265230/2a66698b602a198c3b5e18b3d0d8209446e82cbd/header.jpg?t=1791305728",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:dawn-tiberium-age",
+      "url": "https://media.moddb.com/images/mods/1/11/10865/Mod_DB_DTA_logo.png",
+      "ok": true,
+      "width": 347,
+      "height": 260
+    },
+    {
+      "id": "external:end-of-days-zh",
+      "url": "https://media.moddb.com/images/mods/1/12/11840/TEOD_logo.png",
+      "ok": true,
+      "width": 1000,
+      "height": 700
+    },
+    {
+      "id": "steam:644930",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644930/header.jpg?t=1595631876",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1113030",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113030/header.jpg?t=1787150818",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1839950",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1839950/2f6d4f97ccefd64342beb960e4751c068a121ec8/header.jpg?t=1790259740",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:298030",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298030/header.jpg?t=1726478823",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:twisted-insurrection",
+      "url": "https://media.moddb.com/images/mods/1/11/10974/TIPromoBox.png",
+      "ok": true,
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "steam:286000",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286000/header.jpg?t=1789252757",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:warcraft-1-remastered",
+      "url": "https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/u1/U104RGIXCRY81731450580527.png",
+      "ok": true,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "external:warcraft-2-remastered",
+      "url": "https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/u1/U104RGIXCRY81731450580527.png",
+      "ok": true,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "external:warcraft-3-reforged",
+      "url": "https://blz-contentstack-images.akamaized.net/v3/assets/blt9c12f249ac15c7ec/blt806d59ff0b4e0508/6aa88158ad9209ba7f5629ef/rebirth_og.png",
+      "ok": true,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "steam:2745870",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745870/header.jpg?t=1786026074",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:2239150",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/56a72898995aa4c465c1882624565c48c502b62f/header_alt_assets_3.jpg?t=1790255548",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:3556750",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3556750/f60b47fa49e3582f21c39f6b123fb59e2b441292/header.jpg?t=1783120204",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:warlords-battlecry-2",
+      "url": "https://images.gog-statics.com/213d180f40a6b5fd42dbd36b81c7ad3c5c9e1d298cdf5fb3585a069106a04952.jpg",
+      "ok": true,
+      "width": 1600,
+      "height": 740
+    },
+    {
+      "id": "steam:777770",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777770/d09bfdfef3f7a4d9d9c178d869d5f30d21c83ae8/header.jpg?t=1764873793",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:433280",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433280/header.jpg?t=1681167161",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1241950",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241950/header.jpg?t=1584419815",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "external:world-in-conflict",
+      "url": "https://images.gog-statics.com/4829015ac0659f0ccd6ab212ed0fead101db794af571a093a33d73a11f870209.jpg",
+      "ok": true,
+      "width": 1600,
+      "height": 740
+    },
+    {
+      "id": "steam:334920",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/header.jpg?t=1722263050",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1527070",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1527070/header.jpg?t=1715171637",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:251060",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251060/header.jpg?t=1777991009",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:1611600",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1611600/header.jpg?t=1787123302",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:21970",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/21970/ed17e52be67feff63bb8beb01e4ea507ef93bd29/header.jpg?t=1783330972",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    },
+    {
+      "id": "steam:289440",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/header.jpg?t=1752584620",
+      "ok": true,
+      "width": 460,
+      "height": 215
+    }
+  ],
+  "playback": [
+    {
+      "time": 1.04422,
+      "width": 640,
+      "duration": 70.6,
+      "src": "https://video.akamai.steamstatic.com/store_trailers/1486920/937065900/3af8f8880033707942c9042df7ce31a6d05140c2/1790347776/hls_264_master.m3u8?t=1790694046",
+      "id": "steam:1486920"
+    },
+    {
+      "time": 1.02217,
+      "width": 404,
+      "duration": 60.023583,
+      "src": "https://stream.video.gameswelt.de/2007/09/23q0ze3d1x/p/304p.mp4",
+      "id": "steam:9420"
+    }
+  ],
+  "renderMs": [
+    50.70000000001164,
+    15.799999999988358,
+    12.599999999976717,
+    13.5,
+    14.200000000011642
+  ],
+  "passed": true
+}
