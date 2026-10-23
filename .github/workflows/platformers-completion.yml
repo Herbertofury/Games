@@ -57,16 +57,17 @@ jobs:
           else
             python3 -m playwright install --with-deps chromium
           fi
+      - name: Verify the shared Metroidvania source and runtime contract
+        run: python3 scripts/metroidvania_qa.py
       - name: Verify all newly added video sources and primary routes
         run: python3 tests/platformer_completion_qa.py
-      - name: Verify every installed collection and personal-library workflow
+      - name: Verify every other installed collection and personal-library workflow
         run: |
           python3 tests/browser_qa.py
           python3 tests/multiplatform_qa.py
           python3 tests/source_completion_qa.py
           python3 tests/rts_qa.py
           python3 tests/platformers_qa.py
-          python3 scripts/metroidvania_qa.py
       - name: Preserve successful evidence and source-matched release
         run: |
           mkdir -p docs/qa
