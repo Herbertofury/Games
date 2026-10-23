@@ -1,0 +1,49 @@
+name: Game recommendation or correction
+description: Add a Steam game or correct a catalog entry.
+title: "[Game] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "The master library uses official Steam IDs. Owner-authored submissions are imported; other suggestions remain for review."
+  - type: input
+    id: steam
+    attributes:
+      label: Steam URL or app ID
+      placeholder: https://store.steampowered.com/app/2218750/
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Game title
+      placeholder: Halls of Torment
+    validations:
+      required: true
+  - type: dropdown
+    id: collection
+    attributes:
+      label: Collection
+      options:
+        - Dark fantasy
+        - Bullet heaven
+        - Myth & magic
+        - Sci-fi & machines
+        - Zombies & horror
+        - Action roguelites
+        - Loot-driven ARPGs
+        - Offbeat hybrids
+        - First-person action
+    validations:
+      required: true
+  - type: dropdown
+    id: fit
+    attributes:
+      label: Editorial fit
+      options: ['10','9','8','7','6','5','4','3','2','1']
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why it belongs / correction details
