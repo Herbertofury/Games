@@ -1,9 +1,21 @@
 {
-  "checkedAt": "2026-10-23T22:46:18.392677+00:00",
+  "checkedAt": "2026-10-23T22:47:17.568798+00:00",
   "external": 15,
-  "steamStoreChecks": 0,
-  "alternateLinks": 0,
+  "steamStoreChecks": 283,
+  "alternateLinks": 58,
   "mediaGaps": [
+    {
+      "id": "steam:4861650",
+      "name": "FrontierCraft",
+      "image": true,
+      "video": false
+    },
+    {
+      "id": "steam:3604780",
+      "name": "Sunken Engine",
+      "image": true,
+      "video": false
+    },
     {
       "id": "external:minecraft",
       "name": "Minecraft: Java & Bedrock Edition",
