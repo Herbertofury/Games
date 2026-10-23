@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['data/metroidvania-seeds.txt','data/metroidvania-additions.json','scripts/collect_metroidvania.py','.github/workflows/collect-metroidvania.yml']
+    paths: ['data/metroidvania-seeds.txt','data/metroidvania-additions.json','scripts/collect_metroidvania.py']
 permissions:
   contents: write
 concurrency:
@@ -12,21 +12,23 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 18
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0
       - run: python3 -m pip install -r requirements-dev.txt
-      - run: python3 scripts/collect_metroidvania.py
-      - name: Checkpoint discovery without changing prior published genres
+      - name: Refresh facts while retaining all verified editions and separate curation layers
+        run: python3 scripts/enrich_metroidvania.py
+      - name: Preserve coherent source progress without replacing other genres
+        if: always()
         run: |
           git config user.name 'Games catalog bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/metroidvania-*.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Record exact Metroidvania identities, current facts, and unresolved candidates'
+            git commit -m 'Refresh Metroidvania facts, creator media and confirmed source coverage'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
@@ -37,3 +39,4 @@ jobs:
           path: |
             data/metroidvania-*
             scripts/collect_metroidvania.py
+            scripts/enrich_metroidvania.py
