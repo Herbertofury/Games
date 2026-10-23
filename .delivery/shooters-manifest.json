@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "parts": 6,
+  "sha256": "12c55deb714e5eede6ebae03e3fc4a9d65ec7d479b215ab20002a64f04fcd62c",
+  "files": 19,
+  "purpose": "Add multi-platform boomer-shooter collection without changing original identities",
+  "expectedOriginalRecommendations": 170
+}
