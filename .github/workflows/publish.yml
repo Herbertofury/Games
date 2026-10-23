@@ -39,12 +39,22 @@ jobs:
       - name: Install browser QA dependencies
         run: |
           python3 -m pip install -r requirements-dev.txt
-          python3 -m playwright install --with-deps chromium
-      - name: Real browser acceptance tests
-        run: python3 tests/browser_qa.py
+          if command -v google-chrome >/dev/null; then
+            echo "CHROMIUM_PATH=$(command -v google-chrome)" >> "$GITHUB_ENV"
+            google-chrome --version
+          else
+            python3 -m playwright install --with-deps chromium
+          fi
       - name: Verify actual official trailer playback and image decoding
         timeout-minutes: 5
-        run: python3 scripts/media_qa.py
+        run: |
+          python3 scripts/media_qa.py
+          mkdir -p qa/live-media
+          cp qa/desktop.png qa/mobile.png qa/detail.png qa/live-media/
+      - name: Real browser acceptance tests
+        run: |
+          python3 tests/browser_qa.py
+          cp qa/live-media/*.png qa/
       - name: Publish native wiki
         env:
           GH_TOKEN: ${{ github.token }}
