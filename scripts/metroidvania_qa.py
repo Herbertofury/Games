@@ -18,6 +18,8 @@ try:
   url=f'http://127.0.0.1:{port}/';page.goto(url,wait_until='domcontentloaded');page.wait_for_function('window.GamesTest')
   for hub,n in list(json.loads((R/'data/metroidvania-protected.json').read_text())['hubCounts'].items())+[('Metroidvanias',N)]:
    page.locator('[data-hub="'+hub+'"]').click();check(hub+' complete visible count',page.locator('.game-card').count()==n)
+  check('The sidebar contains only this genres curated shelves',page.locator('#collections [data-collection]').count()==len({g.get('metroidvaniaCollection',g['collection']) for g in rows}))
+  page.locator('[data-action=filters]').click();page.locator('#f-scope').select_option('Traditional Metroidvania');chosen=page.evaluate('GamesTest.filtered');check('Traditional style uses the active genre classification',bool(chosen) and all(by[i]['metroidvaniaInfo']['structure']=='Traditional Metroidvania' for i in chosen));page.locator('[data-action=filters]').click();page.locator('[data-hub="Metroidvanias"]').click()
   check('Distinct exploration theme',page.locator('body').get_attribute('data-hub')=='metroidvanias');check('Enormous collection, not a short sample',N>=300)
   for preset in ['torment','mv-dark','mv-puzzle','mv-3d','mv-free','mv-hidden','mv-watchlist','new','demos']:
    page.locator('[data-preset="'+preset+'"]').click();ids=page.evaluate('GamesTest.filtered');check(preset+' shelf is functional',bool(ids))
