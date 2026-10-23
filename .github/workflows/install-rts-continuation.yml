@@ -1,0 +1,114 @@
+name: Install recovered RTS collection
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/install-rts-continuation.yml']
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: rts-install
+  cancel-in-progress: false
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Restore only intact, hash-matched source changes
+        shell: python
+        run: |
+          import base64,hashlib,json,lzma,pathlib,re,subprocess,tempfile
+          root=pathlib.Path.cwd();out=root/'qa/rts-recovery';out.mkdir(parents=True,exist_ok=True)
+          encoded=''.join((root/f'.bootstrap/rts-{i}.b64').read_text().strip() for i in range(4))
+          raw=base64.b64decode(encoded[:len(encoded)//4*4],validate=True)
+          dec=lzma.LZMADecompressor();prefix=dec.decompress(raw).decode()
+          assert not dec.eof,'Expected the recorded interrupted prefix, not an unreviewed complete transfer'
+          data=json.loads(prefix+'"}')
+          sections=[s for s in re.split(r'(?m)(?=^--- (?:a/|/dev/null))',data['patch']) if s]
+          allowed={'README.md','docs/UPDATING.md','docs/RELEASE.md','site/app.js','site/styles.css','site/index.html','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/build.py','scripts/source_links.py','scripts/curate_rts.py','scripts/enrich_rts.py','data/rts-curation.json'}
+          names=[re.search(r'(?m)^\+\+\+ b/(.+)$',s).group(1) for s in sections[:-1]]
+          assert set(names)==allowed and len(names)==len(allowed)
+          def digest(p):return hashlib.sha256(p.read_bytes()).hexdigest() if p.exists() else None
+          conflicts=[n for n in names if digest(root/n)!=data['before'][n]]
+          assert not conflicts,'Current source differs from saved base: '+', '.join(conflicts)
+          patch=''.join(sections[:-1]);(out/'recovered-implementation.diff').write_text(patch)
+          subprocess.run(['git','apply','--check',str(out/'recovered-implementation.diff')],check=True)
+          subprocess.run(['git','apply',str(out/'recovered-implementation.diff')],check=True)
+          assert all(digest(root/n)==data['after'][n] for n in names),'Recovered source hash mismatch'
+          # Recover complete JSON values only. The unfinished last value is never accepted.
+          text='\n'.join(x[1:] for x in sections[-1].splitlines() if x.startswith('+') and not x.startswith('+++'))
+          pos=text.index('"overrides": {')+len('"overrides": {');decoder=json.JSONDecoder();overrides={}
+          while True:
+            try:
+              pos+=len(text[pos:])-len(text[pos:].lstrip(' \n\r\t,'));key,pos=decoder.raw_decode(text,pos)
+              pos+=len(text[pos:])-len(text[pos:].lstrip());assert text[pos]==':';pos+=1
+              pos+=len(text[pos:])-len(text[pos:].lstrip());value,pos=decoder.raw_decode(text,pos);overrides[key]=value
+            except (ValueError,AssertionError):break
+          assert len(overrides)==11,'Recovered media prefix changed'
+          (out/'media-recovered.json').write_text(json.dumps({'schemaVersion':1,'overrides':overrides},indent=2))
+          payload=base64.b64decode((root/'.bootstrap/rts-tests-recovered.b64').read_text(),validate=True)
+          assert hashlib.sha256(payload).hexdigest()=='5066fdecb8033c788c120a0b32e899bc4a2e68357f359acd8666438ff6f04fd9','Test transfer integrity failed'
+          tests=json.loads(lzma.decompress(payload));test_paths={'tests/test_rts.py','tests/test_rts_refresh.py','tests/rts_qa.py','tests/rts_inline.py'}
+          assert set(tests)==test_paths
+          for name,content in tests.items():
+            p=root/name;assert not p.exists(),'Refusing to overwrite unreviewed test '+name;p.write_text(content)
+          (out/'acceptance-continuity.txt').write_text(data['appendExecution'])
+          print(json.dumps({'recoveredFiles':names,'recoveredMediaRecords':len(overrides),'testFiles':sorted(tests)},indent=2))
+      - name: Reuse verified research artifacts instead of repeating collection
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: python
+        run: |
+          import hashlib,pathlib,subprocess,zipfile
+          root=pathlib.Path.cwd();dest=root/'qa/rts-artifacts';dest.mkdir(parents=True,exist_ok=True)
+          artifacts=[('games-rts-enrichment',12487079939,'0be4a1299a5ff709917beeec4b69873580dfc30230dbef4bdc955d7cfe55e81b'),('games-rts-media-resolution',12487811897,'73a8c96d5a98b51908aaa560c4db69b0d59041f657b46e018f25f261f4e681a6'),('games-rts-video-candidates',12487893085,'087e1f3a47d1e050d614e6c9c2e888c57e4a985a967bc8cd3090f60a381683d1'),('games-rts-final-sources',12488805610,'039284dbf1427337d1b5fb6236b0bdabf0c936cadbc6e7348fbafd66580e1828')]
+          for name,ident,sha in artifacts:
+            p=dest/(name+'.zip')
+            with p.open('wb') as f:subprocess.run(['gh','api',f'repos/Herbertofury/Games/actions/artifacts/{ident}/zip'],stdout=f,check=True)
+            assert hashlib.sha256(p.read_bytes()).hexdigest()==sha,'Research artifact mismatch: '+name
+            target=root/'qa/rts-evidence'/name;target.mkdir(parents=True,exist_ok=True)
+            with zipfile.ZipFile(p) as z:
+              assert all(not pathlib.PurePosixPath(n).is_absolute() and '..' not in pathlib.PurePosixPath(n).parts for n in z.namelist())
+              z.extractall(target)
+            print('Verified evidence',name,sha)
+      - name: Complete media roles, exact editions, and demo navigation
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          python3 .bootstrap/finish-rts-media.py
+          node --check site/app.js
+          python3 -m py_compile scripts/*.py tests/*.py
+          python3 scripts/build.py
+          python3 -m unittest discover -s tests -p 'test_*.py'
+      - name: Persist a recoverable source checkpoint before real-browser publication
+        shell: bash
+        run: |
+          cat >> docs/EXECUTION.md <<'EOF'
+
+          ## Recovered RTS continuation
+
+          The interrupted RTS transfer was recovered from its intact source sections and exact research artifacts, without rescanning existing collections. Source reconstruction verified all 13 complete-file after-hashes. Four test files passed the independently recorded transfer hash. The rebuilt collection contains 448 unique records, including 130 RTS entries, while preserving every prior identity and games.library.v1 storage.
+
+          Restored artwork and credited video sources cover all 130 RTS entries. Demo, prototype, bundle, original-release date, base-game requirement, and tactical-versus-base-building distinctions are retained. The RTS demo shortcut also finds demo editions attached to full games. No scheduled crawler or hidden updater was added. Cancelled and unresolved candidates are recorded separately, not advertised as playable releases.
+
+          At this checkpoint 44 unit tests, script compilation, and JavaScript syntax pass. Full current-Chrome interaction/media tests, native wiki synchronization, release publication, and Drive hash verification remain the publication gate. GitHub Pages enablement is a separate user-controlled prerequisite.
+          EOF
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md docs/UPDATING.md docs/RELEASE.md docs/EXECUTION.md site scripts data tests dist wiki
+          git commit -m 'Complete 130-game RTS hub, source-grounded media, exact editions, and acceptance tests'
+          git pull --rebase origin main
+          git push origin HEAD:main
+          echo "Source checkpoint: $(git rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: rts-source-checkpoint
+          path: |
+            dist/manifest.json
+            release/
+            qa/rts-recovery/
