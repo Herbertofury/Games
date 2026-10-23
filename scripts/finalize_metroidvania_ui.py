@@ -15,6 +15,9 @@ if "e.target.closest('[data-vimeo]')" not in s:
 document.addEventListener('click',e=>{const v=e.target.closest('[data-vimeo]');if(!v||!/^\\d+$/.test(v.dataset.vimeo))return;const f=document.createElement('iframe');f.src='https://player.vimeo.com/video/'+v.dataset.vimeo+'?autoplay=1&dnt=1';f.title=(currentGame?.name||'Game')+' credited video';f.allow='autoplay; fullscreen; picture-in-picture';f.referrerPolicy='strict-origin-when-cross-origin';f.allowFullscreen=true;f.className='trailer-frame';v.closest('.media-stage').replaceChildren(f);});
 ''';p.write_text(s)
 patch('tests/test_metroidvania.py',"['hls','mp4','webm','youtube']","['hls','mp4','webm','youtube','vimeo']")
-# The final artifact can include full-source game preview MP4s without external scripts.
-# No old test is deleted: the original browser, shooter, RTS and media suites still run.
-print('Vimeo opt-in player and all-media acceptance installed.')
+patch('scripts/metroidvania_model.py',"['metroidvania-storefronts.json','metroidvania-curation.json','metroidvania-media.json']","['metroidvania-storefronts.json','metroidvania-curation.json','metroidvania-media.json','metroidvania-review-decisions.json']")
+patch('scripts/metroidvania_model.py',"'dispositions':rec.get('dispositions',[])","'dispositions':rec.get('dispositions',[])+read(root,'metroidvania-review-decisions.json',{}).get('dispositions',[])")
+patch('scripts/metroidvania_qa.py',"for hub,n in [('Roguelites',170),('Boomer shooters',150),('Real-time strategy',130),('Metroidvanias',N)]:","for hub,n in list(json.loads((R/'data/metroidvania-protected.json').read_text())['hubCounts'].items())+[('Metroidvanias',N)]:")
+# Actual source collection counts and protected identities replace stale fixed totals.
+# All original browser, shooter, RTS and platformer suites still run at publication.
+print('Source-aware players, current-genre protection and reviewed discovery boundaries installed.')
