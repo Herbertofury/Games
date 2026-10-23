@@ -6,6 +6,7 @@ on:
     paths:
       - data/platformers-seeds.tsv
       - scripts/collect_platformers.py
+      - scripts/prepare_platformers.py
       - .github/workflows/platformers-research.yml
 permissions:
   contents: write
@@ -23,18 +24,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Verify exact identities and collect official snapshots
+      - name: Reconcile reviewed identities and collect official snapshots
         run: |
+          python3 scripts/prepare_platformers.py
           python3 -m py_compile scripts/collect_platformers.py
-          python3 scripts/collect_platformers.py --workers 3
+          python3 scripts/collect_platformers.py --workers 2
+          python3 -m pip install beautifulsoup4==4.13.4
+          python3 scripts/platformer_extras.py
       - name: Preserve checked source data on the study branch
         if: success()
         run: |
           git config user.name 'Games catalog bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/platformers-seeds.tsv data/platformers-steam.json data/platformers-enrichment-report.json
+          git add data/platformers-* scripts/collect_platformers.py
           if ! git diff --cached --quiet; then
-            git commit -m 'Verify platformer identities, release states, reviews and exact official media'
+            git commit -m 'Complete paced platformer source verification and console-source metadata'
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
@@ -43,6 +47,7 @@ jobs:
         with:
           name: platformer-research-snapshot
           path: |
-            data/platformers-*.json
-            data/platformers-seeds.tsv
+            data/platformers-*
             scripts/collect_platformers.py
+            scripts/prepare_platformers.py
+            scripts/platformer_extras.py
