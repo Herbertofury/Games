@@ -1,5 +1,7 @@
 # GUN GODZ
 
+![GUN GODZ official artwork](https://img.itch.zone/aW1hZ2UvNjYwLzMxNDIucG5n/original/MuiN1f.png)
+
 **[Open official page](https://vlambeer.itch.io/gun-godz)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Agun-godz)** · [Boomer shooters](Boomer-Shooters)
 
 A compact retro FPS built for fast runs, aggressive gunplay, and a distinctive Venusian-rap soundtrack.
@@ -33,8 +35,16 @@ Download the standalone creator build for your operating system.
 
 The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
 
+[Creator-published video](https://www.youtube.com/watch?v=L7JNczDp3UM)
+
+![GUN GODZ - creator-published image](https://img.itch.zone/aW1hZ2UvNjYwLzMxMzcucG5n/347x500/oexxo2.png)
+
+![GUN GODZ - creator-published image](https://img.itch.zone/aW1hZ2UvNjYwLzMxMzgucG5n/347x500/LZOXuU.png)
+
+![GUN GODZ - creator-published image](https://img.itch.zone/aW1hZ2UvNjYwLzMxMzkucG5n/347x500/aSAWZD.png)
+
 ## Sources and evidence
 
-- [itch.io](https://vlambeer.itch.io/gun-godz) · checked 2026-10-23T06:35:12.994433+00:00
+- [Official media](https://vlambeer.itch.io/gun-godz) · checked 2026-10-23T06:53:53.010353+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

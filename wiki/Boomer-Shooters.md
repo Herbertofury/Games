@@ -6,7 +6,7 @@
 
 **Search, filters, sortable ratings, embedded trailers, full galleries, favorites, private notes, and comparison.** All records below use the same source snapshot as the app.
 
-**145 unique entries** · [Playable now](https://herbertofury.github.io/Games/#hub=Boomer+shooters&playable=true) · [Newest releases](https://herbertofury.github.io/Games/#hub=Boomer+shooters&playable=true&sort=newest) · [Hidden gems](https://herbertofury.github.io/Games/#hub=Boomer+shooters&hidden=true) · [Beyond Steam](https://herbertofury.github.io/Games/#hub=Boomer+shooters&offSteam=true)
+**150 unique entries** · [Playable now](https://herbertofury.github.io/Games/#hub=Boomer+shooters&playable=true) · [Newest releases](https://herbertofury.github.io/Games/#hub=Boomer+shooters&playable=true&sort=newest) · [Hidden gems](https://herbertofury.github.io/Games/#hub=Boomer+shooters&hidden=true) · [Beyond Steam](https://herbertofury.github.io/Games/#hub=Boomer+shooters&offSteam=true)
 
 Full releases, Early Access, demos, prototypes, mods, and future releases are labelled separately. Recent patches do not replace original launch dates. Recommendations are researched editorial judgments, not claims of hands-on testing.
 
@@ -98,6 +98,8 @@ A great hidden-gem starting point: compact, strange, old-school sci-fi action wi
 <tr>
 <td width="33%" valign="top">
 
+[![Quake Brutalist Jam III](https://media.moddb.com/images/mods/1/71/70326/qbj3logo_1024x768.png)](Game-external-qbj3-Quake-Brutalist-Jam-III)
+
 **[Quake Brutalist Jam III](Game-external-qbj3-Quake-Brutalist-Jam-III)**
 
 9/10 recommendation · Released
@@ -108,6 +110,8 @@ One of the strongest free discoveries here: striking environments and a full-siz
 
 </td>
 <td width="33%" valign="top">
+
+[![Ashes 2063 / Afterglow](https://media.moddb.com/images/mods/1/53/52091/moddbLogo.1.png)](Game-external-ashes-2063-Ashes-2063-Afterglow)
 
 **[Ashes 2063 / Afterglow](Game-external-ashes-2063-Ashes-2063-Afterglow)**
 
@@ -145,6 +149,7 @@ A deeply under-the-radar custom-engine FPS with an older-school sensibility and 
 | [REINCARNAGE](Game-5023480-REINCARNAGE) | 7/10 | 100.0% / 33 Steam reviews | Aug 31, 2026 · Released | [Steam](https://store.steampowered.com/app/5023480/) |
 | [Agent 64: Spies Never Die](Game-1574480-Agent-64-Spies-Never-Die) | 8/10 | 87.0% / 987 Steam reviews | Aug 11, 2026 · Released | [Steam](https://store.steampowered.com/app/1574480/) |
 | [Tremor: An Alternate Version of Quake](Game-external-tremor-Tremor-An-Alternate-Version-of-Quake) | 9/10 | No aggregate rating | 2026-07-22 · Released | [ModDB](https://www.moddb.com/mods/tremor-an-alternate-version-of-quake) · [Slipseer](https://www.slipseer.com/index.php?resources/tremor.614/) |
+| [MALEDICTOR](Game-2723250-MALEDICTOR) | 7/10 | 100.0% / 16 Steam reviews | Jul 14, 2026 · Early Access | [Steam](https://store.steampowered.com/app/2723250/) |
 | [Voltage High Society](Game-2063480-Voltage-High-Society) | 7/10 | 89.7% / 234 Steam reviews | Jun 23, 2026 · Released | [Steam](https://store.steampowered.com/app/2063480/) |
 | [The Last Salvage Squad](Game-3551190-The-Last-Salvage-Squad) | 8/10 | 98.7% / 557 Steam reviews | Jun 17, 2026 · Released | [Steam](https://store.steampowered.com/app/3551190/) |
 | [Luna Abyss](Game-1933000-Luna-Abyss) | 8/10 | 87.4% / 1,079 Steam reviews | May 21, 2026 · Released | [Steam](https://store.steampowered.com/app/1933000/) |
@@ -172,6 +177,7 @@ Smaller-audience discoveries, not a claim that obscurity guarantees quality. Nat
 | [Boomerang X](Game-1170060-Boomerang-X) | 9/10 | 95.2% / 1,388 Steam reviews | Jul 8, 2021 · Released | [Steam](https://store.steampowered.com/app/1170060/) |
 | [SPRAWL zero](Game-3748520-SPRAWL-zero) | 9/10 | 95.7% / 1,245 Steam reviews | Sep 8, 2026 · Released | [Steam](https://store.steampowered.com/app/3748520/) |
 | [ODDCORE](Game-2896260-ODDCORE) | 9/10 | 96.8% / 1,192 Steam reviews | Jan 7, 2026 · Early Access | [Steam](https://store.steampowered.com/app/2896260/) |
+| [Captain Wayne - Vacation Desperation](Game-2319790-Captain-Wayne-Vacation-Desperation) | 9/10 | 97.0% / 1,169 Steam reviews | Nov 25, 2025 · Released | [Steam](https://store.steampowered.com/app/2319790/) |
 | [INCISION](Game-1734680-INCISION) | 9/10 | 85.4% / 1,154 Steam reviews | Aug 28, 2025 · Released | [Steam](https://store.steampowered.com/app/1734680/) |
 | [Wizordum](Game-1715590-Wizordum) | 9/10 | 91.8% / 960 Steam reviews | Apr 29, 2025 · Released | [Steam](https://store.steampowered.com/app/1715590/) |
 | [PowerSlave Exhumed](Game-1678430-PowerSlave-Exhumed) | 9/10 | 88.8% / 954 Steam reviews | Feb 10, 2022 · Released | [Steam](https://store.steampowered.com/app/1678430/) |
@@ -203,11 +209,13 @@ Smaller-audience discoveries, not a claim that obscurity guarantees quality. Nat
 | [Rise of the Triad: Ludicrous Edition](Game-1421490-Rise-of-the-Triad-Ludicrous-Edition) | 8/10 | 92.1% / 758 Steam reviews | Jul 31, 2023 · Released | [Steam](https://store.steampowered.com/app/1421490/) |
 | [BRUTAL JOHN 2](Game-1859620-BRUTAL-JOHN-2) | 8/10 | 95.1% / 634 Steam reviews | Jul 22, 2025 · Early Access | [Steam](https://store.steampowered.com/app/1859620/) |
 | [Don't Stop, Girlypop!](Game-2610650-Don-t-Stop-Girlypop) | 8/10 | 83.7% / 615 Steam reviews | Jan 29, 2026 · Released | [Steam](https://store.steampowered.com/app/2610650/) |
+| [Impaler Gold](Game-1573090-Impaler-Gold) | 8/10 | 91.1% / 595 Steam reviews | Dec 6, 2022 · Released | [Steam](https://store.steampowered.com/app/1573090/) |
 | [Arthurian Legends](Game-658890-Arthurian-Legends) | 8/10 | 89.8% / 580 Steam reviews | Oct 4, 2021 · Released | [Steam](https://store.steampowered.com/app/658890/) |
 | [The Last Salvage Squad](Game-3551190-The-Last-Salvage-Squad) | 8/10 | 98.7% / 557 Steam reviews | Jun 17, 2026 · Released | [Steam](https://store.steampowered.com/app/3551190/) |
 | [RetroSpace](Game-2067820-RetroSpace) | 8/10 | 89.8% / 541 Steam reviews | Oct 1, 2026 · Released | [Steam](https://store.steampowered.com/app/2067820/) |
 | [Chasm: The Rift](Game-2061230-Chasm-The-Rift) | 8/10 | 81.5% / 525 Steam reviews | Oct 10, 2022 · Released | [Steam](https://store.steampowered.com/app/2061230/) |
 | [Kvark](Game-2319390-Kvark) | 8/10 | 86.4% / 513 Steam reviews | Oct 3, 2024 · Released | [Steam](https://store.steampowered.com/app/2319390/) |
+| [DEAD TRASH](Game-3316470-DEAD-TRASH) | 8/10 | 89.1% / 512 Steam reviews | Mar 11, 2025 · Released | [Steam](https://store.steampowered.com/app/3316470/) · [itch.io](https://crowhillstudios.itch.io/dead-trash) · [IndieDB](https://www.indiedb.com/games/dead-trash) |
 | [Hands of Necromancy](Game-1898610-Hands-of-Necromancy) | 8/10 | 83.1% / 420 Steam reviews | Jun 20, 2022 · Released | [Steam](https://store.steampowered.com/app/1898610/) |
 | [Blood Vial](Game-3648730-Blood-Vial) | 8/10 | 96.1% / 381 Steam reviews | May 4, 2026 · Released | [Steam](https://store.steampowered.com/app/3648730/) |
 | [Voidborn](Game-2072660-Voidborn) | 8/10 | 81.5% / 367 Steam reviews | Apr 7, 2025 · Released | [Steam](https://store.steampowered.com/app/2072660/) |
@@ -234,6 +242,7 @@ Smaller-audience discoveries, not a claim that obscurity guarantees quality. Nat
 | [Total Chaos - Original GZDoom Mod](Game-external-total-chaos-original-Total-Chaos-Original-GZDoom-Mod) | 8/10 | No aggregate rating | 2018 (year only) · Released | [ModDB](https://www.moddb.com/mods/total-chaos) · [ModDB](https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140) |
 | [Voltage High Society](Game-2063480-Voltage-High-Society) | 7/10 | 89.7% / 234 Steam reviews | Jun 23, 2026 · Released | [Steam](https://store.steampowered.com/app/2063480/) |
 | [REINCARNAGE](Game-5023480-REINCARNAGE) | 7/10 | 100.0% / 33 Steam reviews | Aug 31, 2026 · Released | [Steam](https://store.steampowered.com/app/5023480/) |
+| [MALEDICTOR](Game-2723250-MALEDICTOR) | 7/10 | 100.0% / 16 Steam reviews | Jul 14, 2026 · Early Access | [Steam](https://store.steampowered.com/app/2723250/) |
 | [Machinicide](Game-1897010-Machinicide) | 7/10 | 90.9% / 11 Steam reviews | Feb 17, 2025 · Released | [Steam](https://store.steampowered.com/app/1897010/) · [itch.io](https://meister351.itch.io/machinicide) |
 | [BOOM: Defense of Abydos](Game-external-boom-abydos-BOOM-Defense-of-Abydos) | 7/10 | 4.9/5 / 28 itch.io ratings | Original date unlisted · Released | [itch.io](https://ez4e99.itch.io/boom-defense-of-abydos) |
 | [Dead Trash: Operation Yellow Snow - itch.io Standalone](Game-external-dead-trash-yellow-snow-Dead-Trash-Operation-Yellow-Snow-itch-io-Standalone) | 7/10 | 5/5 / 4 itch.io ratings | Original date unlisted · Released | [itch.io](https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow) |
@@ -311,6 +320,7 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | [Vampire Hunters](Game-2206270-Vampire-Hunters) | 8/10 | 89.8% / 2,238 Steam reviews | Oct 30, 2024 · Released | [Steam](https://store.steampowered.com/app/2206270/) |
 | [ROBOBEAT](Game-1456760-ROBOBEAT) | 8/10 | 94.2% / 1,850 Steam reviews | May 14, 2024 · Released | [Steam](https://store.steampowered.com/app/1456760/) |
 | [Guns and Nuns: Storming Hell](Game-3818000-Guns-and-Nuns-Storming-Hell) | 8/10 | 88.8% / 1,016 Steam reviews | Apr 3, 2026 · Released | [Steam](https://store.steampowered.com/app/3818000/) |
+| [Impaler Gold](Game-1573090-Impaler-Gold) | 8/10 | 91.1% / 595 Steam reviews | Dec 6, 2022 · Released | [Steam](https://store.steampowered.com/app/1573090/) |
 | [Blood Vial](Game-3648730-Blood-Vial) | 8/10 | 96.1% / 381 Steam reviews | May 4, 2026 · Released | [Steam](https://store.steampowered.com/app/3648730/) |
 | [Voidborn](Game-2072660-Voidborn) | 8/10 | 81.5% / 367 Steam reviews | Apr 7, 2025 · Released | [Steam](https://store.steampowered.com/app/2072660/) |
 | [Devilated](Game-570950-Devilated) | 8/10 | 80.2% / 258 Steam reviews | Oct 28, 2024 · Released | [Steam](https://store.steampowered.com/app/570950/) |
@@ -367,10 +377,12 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | [Forgive Me Father 2](Game-2272250-Forgive-Me-Father-2) | 8/10 | 81.6% / 2,544 Steam reviews | Oct 24, 2024 · Released | [Steam](https://store.steampowered.com/app/2272250/) |
 | [Vomitoreum](Game-1549750-Vomitoreum) | 8/10 | 91.3% / 997 Steam reviews | Jul 30, 2021 · Released | [Steam](https://store.steampowered.com/app/1549750/) |
 | [Shrine II](Game-1417010-Shrine-II) | 8/10 | 92.3% / 872 Steam reviews | Sep 22, 2020 · Released | [Steam](https://store.steampowered.com/app/1417010/) |
+| [DEAD TRASH](Game-3316470-DEAD-TRASH) | 8/10 | 89.1% / 512 Steam reviews | Mar 11, 2025 · Released | [Steam](https://store.steampowered.com/app/3316470/) · [itch.io](https://crowhillstudios.itch.io/dead-trash) · [IndieDB](https://www.indiedb.com/games/dead-trash) |
 | [Shrine](Game-external-shrine-Shrine) | 8/10 | 4.5/5 / 82 itch.io ratings | Original date unlisted · Released | [itch.io](https://scumhead.itch.io/shrine) |
 | [Total Chaos - Original GZDoom Mod](Game-external-total-chaos-original-Total-Chaos-Original-GZDoom-Mod) | 8/10 | No aggregate rating | 2018 (year only) · Released | [ModDB](https://www.moddb.com/mods/total-chaos) · [ModDB](https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140) |
 | [Wrought Flesh](Game-1762010-Wrought-Flesh) | 7/10 | 73.5% / 818 Steam reviews | Dec 10, 2021 · Released | [Steam](https://store.steampowered.com/app/1762010/) |
 | [SUFFER](Game-950210-SUFFER) | 7/10 | 72.6% / 73 Steam reviews | Dec 10, 2018 · Released | [Steam](https://store.steampowered.com/app/950210/) |
+| [MALEDICTOR](Game-2723250-MALEDICTOR) | 7/10 | 100.0% / 16 Steam reviews | Jul 14, 2026 · Early Access | [Steam](https://store.steampowered.com/app/2723250/) |
 | [Dead Trash: Operation Yellow Snow - itch.io Standalone](Game-external-dead-trash-yellow-snow-Dead-Trash-Operation-Yellow-Snow-itch-io-Standalone) | 7/10 | 5/5 / 4 itch.io ratings | Original date unlisted · Released | [itch.io](https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow) |
 | [The Age of Hell](Game-1779060-The-Age-of-Hell) | 7/10 | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/1779060/) |
 | [HYPERVIOLENT](Game-1409200-HYPERVIOLENT) | 6/10 | 58.0% / 524 Steam reviews | Sep 23, 2025 · Released | [Steam](https://store.steampowered.com/app/1409200/) |
@@ -411,6 +423,7 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | [PAPERHEAD](Game-2680280-PAPERHEAD) | 9/10 | 95.3% / 665 Steam reviews | Oct 9, 2026 · Released | [Steam](https://store.steampowered.com/app/2680280/) |
 | [REAVER](Game-1890950-REAVER) | 9/10 | 87.5% / 657 Steam reviews | Nov 30, 2023 · Early Access | [Steam](https://store.steampowered.com/app/1890950/) |
 | [ENCHAIN](Game-1396870-ENCHAIN) | 9/10 | 97.1% / 102 Steam reviews | Feb 13, 2026 · Early Access | [Steam](https://store.steampowered.com/app/1396870/) |
+| [GTTOD](Game-541200-GTTOD) | 8/10 | 87.0% / 3,309 Steam reviews | Oct 27, 2017 · Early Access | [Steam](https://store.steampowered.com/app/541200/) |
 | [Luna Abyss](Game-1933000-Luna-Abyss) | 8/10 | 87.4% / 1,079 Steam reviews | May 21, 2026 · Released | [Steam](https://store.steampowered.com/app/1933000/) |
 | [Don't Stop, Girlypop!](Game-2610650-Don-t-Stop-Girlypop) | 8/10 | 83.7% / 615 Steam reviews | Jan 29, 2026 · Released | [Steam](https://store.steampowered.com/app/2610650/) |
 | [TEXNOPLAZM](Game-2527710-TEXNOPLAZM) | 8/10 | 98.6% / 74 Steam reviews | Aug 4, 2025 · Early Access | [Steam](https://store.steampowered.com/app/2527710/) |
@@ -438,6 +451,7 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | [The Citadel](Game-1378290-The-Citadel) | 9/10 | 92.8% / 3,161 Steam reviews | Aug 5, 2020 · Released | [Steam](https://store.steampowered.com/app/1378290/) |
 | [Dread Templar](Game-1334730-Dread-Templar) | 9/10 | 81.9% / 1,747 Steam reviews | Jan 26, 2023 · Released | [Steam](https://store.steampowered.com/app/1334730/) |
 | [Zortch](Game-2443360-Zortch) | 9/10 | 98.3% / 1,409 Steam reviews | Jun 8, 2023 · Released | [Steam](https://store.steampowered.com/app/2443360/) · [itch.io](https://mutantleg.itch.io/zortch) |
+| [Captain Wayne - Vacation Desperation](Game-2319790-Captain-Wayne-Vacation-Desperation) | 9/10 | 97.0% / 1,169 Steam reviews | Nov 25, 2025 · Released | [Steam](https://store.steampowered.com/app/2319790/) |
 | [Warhammer 40,000: Boltgun 2](Game-3115160-Warhammer-40-000-Boltgun-2) | 9/10 | 95.7% / 786 Steam reviews | Oct 14, 2026 · Released | [Steam](https://store.steampowered.com/app/3115160/) |
 | [Supplice](Game-1693280-Supplice) | 9/10 | 87.3% / 604 Steam reviews | Apr 6, 2023 · Early Access | [Steam](https://store.steampowered.com/app/1693280/) |
 | [Darkenstein 3D](Game-2195910-Darkenstein-3D) | 8/10 | 90.5% / 1,728 Steam reviews | Oct 21, 2025 · Released | [Steam](https://store.steampowered.com/app/2195910/) |

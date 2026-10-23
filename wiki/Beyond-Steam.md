@@ -18,6 +18,12 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [AMID EVIL](Game-673130-AMID-EVIL) | 10/10 | 92.9% / 7,765 Steam reviews | Jun 20, 2019 · Released | [Steam](https://store.steampowered.com/app/673130/) · [GOG](https://www.gog.com/en/game/amid_evil) |
 | [Turbo Overkill](Game-1328350-Turbo-Overkill) | 10/10 | 93.9% / 7,601 Steam reviews | Aug 11, 2023 · Released | [Steam](https://store.steampowered.com/app/1328350/) · [GOG](https://www.gog.com/en/game/turbo_overkill) · [Epic Games](https://store.epicgames.com/p/turbo-overkill-c5e3c7) |
 
+## IndieDB
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [DEAD TRASH](Game-3316470-DEAD-TRASH) | 8/10 | 89.1% / 512 Steam reviews | Mar 11, 2025 · Released | [Steam](https://store.steampowered.com/app/3316470/) · [itch.io](https://crowhillstudios.itch.io/dead-trash) · [IndieDB](https://www.indiedb.com/games/dead-trash) |
+
 ## ModDB
 
 | Game | Recommend | Community reception | Release / build | Where |
@@ -65,6 +71,7 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 |:--|:--:|:--|:--|:--|
 | [Zortch](Game-2443360-Zortch) | 9/10 | 98.3% / 1,409 Steam reviews | Jun 8, 2023 · Released | [Steam](https://store.steampowered.com/app/2443360/) · [itch.io](https://mutantleg.itch.io/zortch) |
 | [Doom: The Golden Souls 2](Game-external-golden-souls-2-Doom-The-Golden-Souls-2) | 9/10 | 4.9/5 / 51 itch.io ratings | 2018 (year only) · Released | [itch.io](https://batandy.itch.io/goldensouls2) |
+| [DEAD TRASH](Game-3316470-DEAD-TRASH) | 8/10 | 89.1% / 512 Steam reviews | Mar 11, 2025 · Released | [Steam](https://store.steampowered.com/app/3316470/) · [itch.io](https://crowhillstudios.itch.io/dead-trash) · [IndieDB](https://www.indiedb.com/games/dead-trash) |
 | [Ctesiphon](Game-3808730-Ctesiphon) | 8/10 | 91.1% / 101 Steam reviews | Nov 26, 2025 · Released | [Steam](https://store.steampowered.com/app/3808730/) · [itch.io](https://stomygame.itch.io/ctesiphon) |
 | [Castlevania: Simon's Destiny](Game-external-simons-destiny-Castlevania-Simon-s-Destiny) | 8/10 | 4.8/5 / 142 itch.io ratings | 2017 (year only) · Released | [itch.io](https://batandy.itch.io/simonsdestiny) |
 | [Doom: The Golden Souls Remastered](Game-external-golden-souls-Doom-The-Golden-Souls-Remastered) | 8/10 | 4.8/5 / 83 itch.io ratings | 2021 (year only) · Released | [itch.io](https://batandy.itch.io/goldensouls) |

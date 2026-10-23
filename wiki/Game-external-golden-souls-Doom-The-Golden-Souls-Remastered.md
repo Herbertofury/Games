@@ -1,5 +1,7 @@
 # Doom: The Golden Souls Remastered
 
+![Doom: The Golden Souls Remastered official artwork](https://img.itch.zone/aW1nLzcyMTY1MzYucG5n/original/rIBxb5.png)
+
 **[Open official page](https://batandy.itch.io/goldensouls)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Agolden-souls)** · [Boomer shooters](Boomer-Shooters)
 
 A colorful Doom II adventure that sends you through paintings into platforming-heavy worlds, now represented by its remastered edition.
@@ -34,8 +36,30 @@ Requires DOOM2.WAD and compatible GZDoom. This is not a standalone commercial Do
 
 The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
 
+[Creator-published video](https://www.youtube.com/watch?v=KuB89FTcpps)
+
+![Doom: The Golden Souls Remastered - creator-published image](https://img.itch.zone/aW1nLzcyMTY1MjkucG5n/original/YzEmgN.png)
+
+![Doom: The Golden Souls Remastered - creator-published image](https://img.itch.zone/aW1nLzc2MjQwMjIucG5n/original/WRgVrQ.png)
+
+![Doom: The Golden Souls Remastered - creator-published image](https://img.itch.zone/aW1nLzc2MjQwNjYucG5n/original/bLE6%2F9.png)
+
+![Doom: The Golden Souls Remastered - creator-published image](https://img.itch.zone/aW1hZ2UvNjcyMzg3LzcyMTY1NDEucG5n/347x500/8bk2%2FR.png)
+
+![Doom: The Golden Souls Remastered - creator-published image](https://img.itch.zone/aW1hZ2UvNjcyMzg3LzcyMTY1MzkucG5n/347x500/1ty8D1.png)
+
+![Doom: The Golden Souls Remastered - creator-published image](https://img.itch.zone/aW1hZ2UvNjcyMzg3LzcyMTY1NDAucG5n/347x500/M531MJ.png)
+
+![Doom: The Golden Souls Remastered - creator-published image](https://img.itch.zone/aW1hZ2UvNjcyMzg3LzcyMTY1MzgucG5n/347x500/%2FHKhdH.png)
+
+![Doom: The Golden Souls Remastered - creator-published image](https://img.itch.zone/aW1hZ2UvNjcyMzg3LzcyMTY1NDIucG5n/347x500/AIcuS9.png)
+
+![Doom: The Golden Souls Remastered - creator-published image](https://img.itch.zone/aW1hZ2UvNjcyMzg3LzcyMTY1NDMucG5n/347x500/wfgD7%2B.png)
+
+![Doom: The Golden Souls Remastered - creator-published image](https://img.itch.zone/aW1hZ2UvNjcyMzg3LzM2NzA0NTIucG5n/347x500/xkidfY.png)
+
 ## Sources and evidence
 
-- [itch.io](https://batandy.itch.io/goldensouls) · checked 2026-10-23T06:35:12.994433+00:00
+- [Official media](https://batandy.itch.io/goldensouls) · checked 2026-10-23T06:53:53.010353+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

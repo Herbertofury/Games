@@ -1,5 +1,7 @@
 # Wanted 3D: Dead or Alive - Demo
 
+![Wanted 3D: Dead or Alive - Demo official artwork](https://img.itch.zone/aW1nLzIzMTkyMjc0LnBuZw==/original/3xNa7D.png)
+
 **[Open official page](https://pavoent.itch.io/wanted-3d-dead-or-alive)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Awanted3d-demo)** · [Boomer shooters](Boomer-Shooters)
 
 A spaghetti-western retro FPS preview with bandits, secret hunting, period weapons, and a revenge-story setup.
@@ -39,8 +41,20 @@ Public demo updated to UZDoom on November 24, 2025.
 
 The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
 
+[Creator-published video](https://www.youtube.com/watch?v=2kZFyzeqwWU)
+
+![Wanted 3D: Dead or Alive - Demo - creator-published image](https://img.itch.zone/aW1hZ2UvMzg4NzMxMy8yMzE5MjIyNC5qcGc=/347x500/Kc71wg.jpg)
+
+![Wanted 3D: Dead or Alive - Demo - creator-published image](https://img.itch.zone/aW1hZ2UvMzg4NzMxMy8yMzE5MjIzMC5qcGc=/347x500/z%2BnmX%2F.jpg)
+
+![Wanted 3D: Dead or Alive - Demo - creator-published image](https://img.itch.zone/aW1hZ2UvMzg4NzMxMy8yMzE5MjIzMi5qcGc=/347x500/SGvueP.jpg)
+
+![Wanted 3D: Dead or Alive - Demo - creator-published image](https://img.itch.zone/aW1hZ2UvMzg4NzMxMy8yMzE5MjIzMy5qcGc=/347x500/BoWIf5.jpg)
+
+![Wanted 3D: Dead or Alive - Demo - creator-published image](https://img.itch.zone/aW1hZ2UvMzg4NzMxMy8yMzE5MjIzNS5qcGc=/347x500/g0dAMP.jpg)
+
 ## Sources and evidence
 
-- [itch.io](https://pavoent.itch.io/wanted-3d-dead-or-alive) · checked 2026-10-23T06:35:12.994433+00:00
+- [Official media](https://pavoent.itch.io/wanted-3d-dead-or-alive) · checked 2026-10-23T06:53:53.010353+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

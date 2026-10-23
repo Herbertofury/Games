@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "version": "1.1.0",
-  "builtAt": "2026-10-23T06:53:44.190150+00:00",
+  "builtAt": "2026-10-23T06:53:56.164995+00:00",
   "sourceRepository": "https://github.com/Herbertofury/Games",
   "sourceRevision": "fafe6828621dbe04b9c652f1770d575c07a30c3d",
   "sourceWiki": "https://github.com/Herbertofury/Games/wiki",
-  "datasetHash": "ed74fef3c54e33f17d8c45f5418095c14b5c2ab6d098b96b39d7585016c57aa3",
-  "records": 313,
-  "verified": 313,
+  "datasetHash": "a4be1241d52e210b3c99c3c2d21520bc69fcc3d1d54fd37e0db865a83da6b68f",
+  "records": 318,
+  "verified": 318,
   "unresolved": 0,
-  "trailers": 289,
+  "trailers": 312,
   "collections": [
     "Action roguelites",
     "Arena & roguelite FPS",
@@ -33,12 +33,13 @@
     "Zombies & horror"
   ],
   "hubs": {
-    "Boomer shooters": 145,
+    "Boomer shooters": 150,
     "Roguelites": 170
   },
   "platforms": [
     "Epic Games",
     "GOG",
+    "IndieDB",
     "ModDB",
     "ModDB standalone",
     "Newgrounds",
@@ -49,8 +50,8 @@
     "itch.io"
   ],
   "html": {
-    "bytes": 3006284,
-    "sha256": "9e581ea7f4627d97a3203f879bc744c2c00345ee0a1184b7d27c9711f21cb82e"
+    "bytes": 3177029,
+    "sha256": "40b1de332d887da4866fd7827f20132ab25512cdb6ea985df0082466f2a00730"
   },
   "sourceFiles": {
     "site/styles.css": "ab869b9ee7abf08d47038048cfd03b4e462fc446b7810efc7c1f88441d8cd764",
@@ -80,10 +81,11 @@
     "tests/inline_smoke.py": "8244baaae9f524918ea91ae9349161489b5db55abdaea64708d3ca7f144924d6",
     "data/seeds.tsv": "e281fa7444b93245e032ce93b26f86e8b0be93727dde81b2a22d2b66f0577760",
     "data/name-history.json": "8ba4b6e23f9d260335aaa4bd9cca774ed3264529204359811f81da43df66977f",
+    "data/external-media-report.json": "af0d597c3635be8309d5232e8cd8917bb95f5adcaf481fa2ff212f4a00098eb5",
     "data/shooters-curation.json": "b2d7b30e5dfd064ff7c2ee6f546a6fe595fe41e52bb81b2a46e45d93c4991a89",
     "data/shooters-seeds.json": "178fc6347a919e39caab2c00879658cd360f89748c3547589f4de5b67fbcbadc",
-    "data/shooters-steam.json": "b3e7a83440120e33fbc937580f762a3caea76ccb5ed84786574b96eac0781459",
-    "data/catalog.json": "836dc7298cc95be34d799b89147eeb6807cb24f332d4cc572926d33320d359ee",
-    "data/shooters-external.json": "08348e21797c1363d090ebdacf85f1efc34b75355aaaf9d2ce307ac4790b37d1"
+    "data/shooters-steam.json": "e36a7e0b58808a97e9387e4aa32626402698bc5856e643be084426f5618c20bb",
+    "data/catalog.json": "f94fb3613c609f184f107b7bab5f0cce0bad383b3d996787b7cb1ae829f37af5",
+    "data/shooters-external.json": "312cf55fd67ac9afbbbbfceb17199460db08920c9ee28b15906ef3b468547ffc"
   }
 }

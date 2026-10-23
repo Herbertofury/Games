@@ -1,5 +1,7 @@
 # BOOM: Defense of Abydos
 
+![BOOM: Defense of Abydos official artwork](https://img.itch.zone/aW1nLzE5NDY0NDA5LnBuZw==/original/h2zcIR.png)
+
 **[Open official page](https://ez4e99.itch.io/boom-defense-of-abydos)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Aboom-abydos)** · [Boomer shooters](Boomer-Shooters)
 
 A Godot-based Blue Archive fangame combining a short Doom-inspired campaign with replayable survival combat.
@@ -39,8 +41,16 @@ PC v1.10: August 10, 2026. Android v1.10M: September 30, 2026. These are update 
 
 The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
 
+[Creator-published video](https://www.youtube.com/watch?v=dkiKLAm2xEs)
+
+![BOOM: Defense of Abydos - creator-published image](https://img.itch.zone/aW1hZ2UvMzI2MDQwOS8yMTIzNTI5OC5wbmc=/347x500/KTq6Fo.png)
+
+![BOOM: Defense of Abydos - creator-published image](https://img.itch.zone/aW1hZ2UvMzI2MDQwOS8yMDgyNzgwMi5wbmc=/347x500/XGNCHb.png)
+
+![BOOM: Defense of Abydos - creator-published image](https://img.itch.zone/aW1hZ2UvMzI2MDQwOS8yMDgyNzgwNC5wbmc=/347x500/R7FfnZ.png)
+
 ## Sources and evidence
 
-- [itch.io](https://ez4e99.itch.io/boom-defense-of-abydos) · checked 2026-10-23T06:35:12.994433+00:00
+- [Official media](https://ez4e99.itch.io/boom-defense-of-abydos) · checked 2026-10-23T06:53:53.010353+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

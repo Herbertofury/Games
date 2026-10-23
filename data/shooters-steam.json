@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T06:23:54.178310+00:00",
+  "generatedAt": "2026-10-23T06:53:52.190809+00:00",
   "inputCount": 126,
   "items": [
     {
@@ -3879,6 +3879,216 @@
           "kind": "store",
           "verified": true,
           "lastChecked": "2026-10-23T06:23:54.178310+00:00"
+        }
+      ]
+    },
+    {
+      "id": "steam:2319790",
+      "appid": 2319790,
+      "seedId": "2319790",
+      "seedName": "Captain Wayne - Vacation Desperation",
+      "name": "Captain Wayne - Vacation Desperation",
+      "collection": "Retro campaigns",
+      "fit": 9,
+      "summary": "Captain Wayne is an intense, fast-action Retro Shooter about a sailor with a SHOTGUN for an ARM!! With a cartoony, hand-drawn art style and gory gameplay, you'll have to mow down enemies through 8 action-packed locales to take back what's yours. ARE YOU READY TO RAISE ANCHOR?",
+      "developers": [
+        "Ciaran Games LLC"
+      ],
+      "publishers": [
+        "Silver Lining Interactive"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "FPS",
+        "Indie",
+        "Retro campaigns"
+      ],
+      "features": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Remote Play on TV",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "status": "Released",
+      "releaseDate": "2025-11-25",
+      "releaseLabel": "Nov 25, 2025",
+      "comingSoon": false,
+      "free": false,
+      "price": "$9.99",
+      "priceMinor": 999,
+      "currency": "USD",
+      "discount": 0,
+      "platforms": [
+        "windows"
+      ],
+      "rating": 97.0,
+      "reviewCount": 1169,
+      "reviewLabel": "Overwhelmingly Positive",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T06:53:52.190809+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/4bdc90e26312c250bada6661449586d3c0f76ab3/header.jpg?t=1781199423",
+      "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/page_bg_raw.jpg?t=1781199423",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/950493730f07cd4f15f1478e09535bfbab34d80e/ss_950493730f07cd4f15f1478e09535bfbab34d80e.1920x1080.jpg?t=1781199423",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/950493730f07cd4f15f1478e09535bfbab34d80e/ss_950493730f07cd4f15f1478e09535bfbab34d80e.600x338.jpg?t=1781199423",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "alt": "Captain Wayne - Vacation Desperation official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/30db5ea1515484339651ff6d1ff0f5d58d95d306/ss_30db5ea1515484339651ff6d1ff0f5d58d95d306.1920x1080.jpg?t=1781199423",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/30db5ea1515484339651ff6d1ff0f5d58d95d306/ss_30db5ea1515484339651ff6d1ff0f5d58d95d306.600x338.jpg?t=1781199423",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "alt": "Captain Wayne - Vacation Desperation official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/0f120bd019cbdc0173af96953207f7da0d34079d/ss_0f120bd019cbdc0173af96953207f7da0d34079d.1920x1080.jpg?t=1781199423",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/0f120bd019cbdc0173af96953207f7da0d34079d/ss_0f120bd019cbdc0173af96953207f7da0d34079d.600x338.jpg?t=1781199423",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "alt": "Captain Wayne - Vacation Desperation official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/5fdf561324d7654c610dfee98b62eb5ebabe5501/ss_5fdf561324d7654c610dfee98b62eb5ebabe5501.1920x1080.jpg?t=1781199423",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/5fdf561324d7654c610dfee98b62eb5ebabe5501/ss_5fdf561324d7654c610dfee98b62eb5ebabe5501.600x338.jpg?t=1781199423",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "alt": "Captain Wayne - Vacation Desperation official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/4d03135153e58c849b8f3a33d3ec5a13b8d682cd/ss_4d03135153e58c849b8f3a33d3ec5a13b8d682cd.1920x1080.jpg?t=1781199423",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/4d03135153e58c849b8f3a33d3ec5a13b8d682cd/ss_4d03135153e58c849b8f3a33d3ec5a13b8d682cd.600x338.jpg?t=1781199423",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "alt": "Captain Wayne - Vacation Desperation official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/7587153012be4fe96a074294b7b32079db8d6299/ss_7587153012be4fe96a074294b7b32079db8d6299.1920x1080.jpg?t=1781199423",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/7587153012be4fe96a074294b7b32079db8d6299/ss_7587153012be4fe96a074294b7b32079db8d6299.600x338.jpg?t=1781199423",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "alt": "Captain Wayne - Vacation Desperation official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/a08439f3d9863575667b1d0c6b7bdecd74115d57/ss_a08439f3d9863575667b1d0c6b7bdecd74115d57.1920x1080.jpg?t=1781199423",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/a08439f3d9863575667b1d0c6b7bdecd74115d57/ss_a08439f3d9863575667b1d0c6b7bdecd74115d57.600x338.jpg?t=1781199423",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "alt": "Captain Wayne - Vacation Desperation official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/283c466bce7fb13595ceea68dc542eddc848a961/ss_283c466bce7fb13595ceea68dc542eddc848a961.1920x1080.jpg?t=1781199423",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/283c466bce7fb13595ceea68dc542eddc848a961/ss_283c466bce7fb13595ceea68dc542eddc848a961.600x338.jpg?t=1781199423",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "alt": "Captain Wayne - Vacation Desperation official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/09a007182262b1e8e3d684c053570ac4502edb77/ss_09a007182262b1e8e3d684c053570ac4502edb77.1920x1080.jpg?t=1781199423",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319790/09a007182262b1e8e3d684c053570ac4502edb77/ss_09a007182262b1e8e3d684c053570ac4502edb77.600x338.jpg?t=1781199423",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "alt": "Captain Wayne - Vacation Desperation official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Captain Wayne OUT NOW",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257235164/bbe73c37905f6798e3a40bb4e89d5c86a2c41f91/movie_600x337.jpg?t=1764083563",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/2319790/254000150/f9a61a03590f84ce1b7ab98ab3a3418f8544d140/1763640345/hls_264_master.m3u8?t=1764083563",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "id": 257235164
+        },
+        {
+          "name": "Captain Wayne: Vacation Desperation | Release Date Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257201408/c58ab6cf7874bef3b0db9b7d74073e54208864ce/movie_600x337.jpg?t=1758646387",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/2319790/1447022689/710dbf459840c6301c9e5bc344e59cc6142311bd/1758213394/hls_264_master.m3u8?t=1758646387",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "id": 257201408
+        },
+        {
+          "name": "Captain Wayne | Arsenal weapon Showcase",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257190636/3a910409b992184634ea05e59e1c89d40da116c2/movie_600x337.jpg?t=1758646391",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/2319790/1497509874/2c68b7b159e524dc4e67b8f8506d1581596651bf/1756458898/hls_264_master.m3u8?t=1758646391",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "id": 257190636
+        },
+        {
+          "name": "Captain Wayne - Cinematic Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257150528/8234dfbbf53215afc861d0649469c046d6ed98f2/movie_600x337.jpg?t=1752032553",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/2319790/1370986673/75c0465d7c5d084a45cf24f9fdeb4f9d02be1c66/1750906016/hls_264_master.m3u8?t=1752032553",
+          "sourceUrl": "https://store.steampowered.com/app/2319790/",
+          "id": 257150528
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/2319790/",
+      "website": "https://ciaran-games.com",
+      "verifiedAt": "2026-10-23T06:53:52.190809+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/2319790/",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=2319790&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2319790%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        }
+      ],
+      "warnings": [],
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/2319790/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "Core retro / movement FPS",
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/2319790/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
         }
       ]
     },
@@ -15579,6 +15789,205 @@
       ]
     },
     {
+      "id": "steam:1573090",
+      "appid": 1573090,
+      "seedId": "1573090",
+      "seedName": "Impaler Gold",
+      "name": "Impaler Gold",
+      "collection": "Arena & roguelite FPS",
+      "fit": 8,
+      "summary": "Impaler Gold is a fast-paced minimalistic arena shooter - now expanded and improved. Summon spikes to slay monsters, build barriers, and propel yourself into the air. Challenge yourself in this highly replayable rogue-lite shooter inspired by the classics.",
+      "developers": [
+        "Apptivus"
+      ],
+      "publishers": [
+        "Retrovibe"
+      ],
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "tags": [
+        "Action",
+        "Arena & roguelite FPS",
+        "FPS",
+        "Indie",
+        "Pixel art",
+        "Roguelite"
+      ],
+      "features": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Family Sharing"
+      ],
+      "status": "Released",
+      "releaseDate": "2022-12-06",
+      "releaseLabel": "Dec 6, 2022",
+      "comingSoon": false,
+      "free": false,
+      "price": "$4.99",
+      "priceMinor": 499,
+      "currency": "USD",
+      "discount": 0,
+      "platforms": [
+        "windows"
+      ],
+      "rating": 91.1,
+      "reviewCount": 595,
+      "reviewLabel": "Very Positive",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T06:53:52.190809+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/fa359faa1a5542c130b4c776b27fa77a87cc25b9/header.jpg?t=1792153819",
+      "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/page_bg_raw.jpg?t=1792153819",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_7a7f939ca4c42eb3f01142035cb6e3b8203d7644.1920x1080.jpg?t=1792153819",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_7a7f939ca4c42eb3f01142035cb6e3b8203d7644.600x338.jpg?t=1792153819",
+          "sourceUrl": "https://store.steampowered.com/app/1573090/",
+          "alt": "Impaler Gold official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_9e2debf596c5b043925b8ffcd1024c42d2416de1.1920x1080.jpg?t=1792153819",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_9e2debf596c5b043925b8ffcd1024c42d2416de1.600x338.jpg?t=1792153819",
+          "sourceUrl": "https://store.steampowered.com/app/1573090/",
+          "alt": "Impaler Gold official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_6191ce91e0c1d585fa705bcbf93acf4036c47d56.1920x1080.jpg?t=1792153819",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_6191ce91e0c1d585fa705bcbf93acf4036c47d56.600x338.jpg?t=1792153819",
+          "sourceUrl": "https://store.steampowered.com/app/1573090/",
+          "alt": "Impaler Gold official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_65ed496d3dc27a5fd4e017becf160d004b082cb8.1920x1080.jpg?t=1792153819",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_65ed496d3dc27a5fd4e017becf160d004b082cb8.600x338.jpg?t=1792153819",
+          "sourceUrl": "https://store.steampowered.com/app/1573090/",
+          "alt": "Impaler Gold official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_1c70e44f87a6f111fe7cd4cdcaae1f9de0144bb3.1920x1080.jpg?t=1792153819",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_1c70e44f87a6f111fe7cd4cdcaae1f9de0144bb3.600x338.jpg?t=1792153819",
+          "sourceUrl": "https://store.steampowered.com/app/1573090/",
+          "alt": "Impaler Gold official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_2ce46862f6f0c9db2c3d1406b32af163aff8f86b.1920x1080.jpg?t=1792153819",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_2ce46862f6f0c9db2c3d1406b32af163aff8f86b.600x338.jpg?t=1792153819",
+          "sourceUrl": "https://store.steampowered.com/app/1573090/",
+          "alt": "Impaler Gold official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_a3d0dfaa9d8271d4436581eda928d3ed408f3c42.1920x1080.jpg?t=1792153819",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_a3d0dfaa9d8271d4436581eda928d3ed408f3c42.600x338.jpg?t=1792153819",
+          "sourceUrl": "https://store.steampowered.com/app/1573090/",
+          "alt": "Impaler Gold official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_85d8b68f574b8ea6c6799c17a2822a98b7fa066d.1920x1080.jpg?t=1792153819",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_85d8b68f574b8ea6c6799c17a2822a98b7fa066d.600x338.jpg?t=1792153819",
+          "sourceUrl": "https://store.steampowered.com/app/1573090/",
+          "alt": "Impaler Gold official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_c6889ce1bc670d929866284a06234783d593db29.1920x1080.jpg?t=1792153819",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_c6889ce1bc670d929866284a06234783d593db29.600x338.jpg?t=1792153819",
+          "sourceUrl": "https://store.steampowered.com/app/1573090/",
+          "alt": "Impaler Gold official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_2dd7a4a136c2b68e019f151952afa83080070c5b.1920x1080.jpg?t=1792153819",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_2dd7a4a136c2b68e019f151952afa83080070c5b.600x338.jpg?t=1792153819",
+          "sourceUrl": "https://store.steampowered.com/app/1573090/",
+          "alt": "Impaler Gold official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_1e13f5e51773e199ba571f1e5c11ccf7e34b0266.1920x1080.jpg?t=1792153819",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/ss_1e13f5e51773e199ba571f1e5c11ccf7e34b0266.600x338.jpg?t=1792153819",
+          "sourceUrl": "https://store.steampowered.com/app/1573090/",
+          "alt": "Impaler Gold official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Impaler Gold Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257043600/movie.293x165.jpg?t=1722873645",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/1573090/735894/98a544a27037994667e4b55c6789b0a944fbd4ec/1751004941/hls_264_master.m3u8?t=1722873645",
+          "sourceUrl": "https://store.steampowered.com/app/1573090/",
+          "id": 257043600
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/1573090/",
+      "website": "https://apptivus.net",
+      "verifiedAt": "2026-10-23T06:53:52.190809+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/1573090/",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=1573090&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1573090%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        }
+      ],
+      "warnings": [],
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/1573090/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "Adjacent FPS",
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/1573090/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        }
+      ]
+    },
+    {
       "id": "steam:2882930",
       "appid": 2882930,
       "seedId": "2882930",
@@ -15894,6 +16303,193 @@
           "kind": "store",
           "verified": true,
           "lastChecked": "2026-10-23T06:23:54.178310+00:00"
+        }
+      ]
+    },
+    {
+      "id": "steam:541200",
+      "appid": 541200,
+      "seedId": "541200",
+      "seedName": "GTTOD",
+      "name": "GTTOD",
+      "collection": "Movement shooters",
+      "fit": 8,
+      "summary": "RISE. FALL. REPEAT. Ascend to the level of the Gods as you battle your way out of a shattered and chaotic dimension in this fast paced parkour FPS rogue-like.",
+      "developers": [
+        "Andrew Smith",
+        "STUDIO Bare Bones"
+      ],
+      "publishers": [
+        "Hitcents"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Early Access",
+        "FPS",
+        "Indie",
+        "Loot",
+        "Movement shooters",
+        "Survivors-like"
+      ],
+      "features": [
+        "Single-player",
+        "Steam Achievements",
+        "Captions available",
+        "Steam Workshop",
+        "Family Sharing"
+      ],
+      "status": "Early Access",
+      "releaseDate": "2017-10-27",
+      "releaseLabel": "Oct 27, 2017",
+      "comingSoon": false,
+      "free": false,
+      "price": "$29.99",
+      "priceMinor": 2999,
+      "currency": "USD",
+      "discount": 0,
+      "platforms": [
+        "windows"
+      ],
+      "rating": 87.0,
+      "reviewCount": 3309,
+      "reviewLabel": "Very Positive",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T06:53:52.190809+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/30470c72ea39d670903eed706811a009fc49b600/header.jpg?t=1789673161",
+      "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/page_bg_raw.jpg?t=1789673161",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_bbb340258bfa751cd2a587789128ff5402e2f764.1920x1080.jpg?t=1789673161",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_bbb340258bfa751cd2a587789128ff5402e2f764.600x338.jpg?t=1789673161",
+          "sourceUrl": "https://store.steampowered.com/app/541200/",
+          "alt": "GTTOD official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_91860b63e0ae755a475a99159efe8e42abc397ed.1920x1080.jpg?t=1789673161",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_91860b63e0ae755a475a99159efe8e42abc397ed.600x338.jpg?t=1789673161",
+          "sourceUrl": "https://store.steampowered.com/app/541200/",
+          "alt": "GTTOD official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_03e8dd296e3cc3d627215911f7d6666980bbcda0.1920x1080.jpg?t=1789673161",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_03e8dd296e3cc3d627215911f7d6666980bbcda0.600x338.jpg?t=1789673161",
+          "sourceUrl": "https://store.steampowered.com/app/541200/",
+          "alt": "GTTOD official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_4951cdd280250406325732795442b47513df19f6.1920x1080.jpg?t=1789673161",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_4951cdd280250406325732795442b47513df19f6.600x338.jpg?t=1789673161",
+          "sourceUrl": "https://store.steampowered.com/app/541200/",
+          "alt": "GTTOD official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_e59fb2ece5befcc8a1263f3c9a4fab82a0b83d5b.1920x1080.jpg?t=1789673161",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_e59fb2ece5befcc8a1263f3c9a4fab82a0b83d5b.600x338.jpg?t=1789673161",
+          "sourceUrl": "https://store.steampowered.com/app/541200/",
+          "alt": "GTTOD official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_0be758335b15ddaa2469e501bfe189ff23005eae.1920x1080.jpg?t=1789673161",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_0be758335b15ddaa2469e501bfe189ff23005eae.600x338.jpg?t=1789673161",
+          "sourceUrl": "https://store.steampowered.com/app/541200/",
+          "alt": "GTTOD official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_c9d02347ed87f9b5607d8c88bc2d846089cd58bc.1920x1080.jpg?t=1789673161",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_c9d02347ed87f9b5607d8c88bc2d846089cd58bc.600x338.jpg?t=1789673161",
+          "sourceUrl": "https://store.steampowered.com/app/541200/",
+          "alt": "GTTOD official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_9c63b60a4623ee7a862b2023702fa80f9b529886.1920x1080.jpg?t=1789673161",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541200/ss_9c63b60a4623ee7a862b2023702fa80f9b529886.600x338.jpg?t=1789673161",
+          "sourceUrl": "https://store.steampowered.com/app/541200/",
+          "alt": "GTTOD official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "GTTOD The Past And Present Update Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257034349/movie.293x165.jpg?t=1719522863",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/541200/719533/3c06416d355fd6bd35d71f81b7a47541566bd410/1750547819/hls_264_master.m3u8?t=1719522863",
+          "sourceUrl": "https://store.steampowered.com/app/541200/",
+          "id": 257034349
+        },
+        {
+          "name": "GTTOD Early Access Trailer 3",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256938919/movie.293x165.jpg?t=1680308239",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/541200/553944/8c6ab69fe79527c6df5bb3264b6895333999af47/1750547816/hls_264_master.m3u8?t=1680308239",
+          "sourceUrl": "https://store.steampowered.com/app/541200/",
+          "id": 256938919
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/541200/",
+      "website": "https://discord.gg/studiobarebones?proof=6bdffafed682f991",
+      "verifiedAt": "2026-10-23T06:53:52.190809+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/541200/",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=541200&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A541200%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        }
+      ],
+      "warnings": [],
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/541200/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "Core retro / movement FPS",
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/541200/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
         }
       ]
     },
@@ -28817,39 +29413,398 @@
           "lastChecked": "2026-10-23T06:23:54.178310+00:00"
         }
       ]
-    }
-  ],
-  "unresolved": [
-    {
-      "candidate": "Captain Wayne - Vacation Desperation",
-      "collection": "Retro campaigns",
-      "error": "Exact identity needs manual review: []",
-      "verification": "unresolved"
     },
     {
-      "candidate": "Shrine",
+      "id": "steam:3316470",
+      "appid": 3316470,
+      "seedId": "3316470",
+      "seedName": "DEAD TRASH",
+      "name": "DEAD TRASH",
       "collection": "Horror & occult FPS",
-      "error": "Exact identity needs manual review: [(951000, 'Trap Shrine'), (1417010, 'Shrine II'), (3408470, '7 Days Shrine'), (3570360, 'Shichiya Shrine'), (4413860, 'Seeker Shrine')]",
-      "verification": "unresolved"
+      "fit": 8,
+      "summary": "Years into a brutal lockdown, a once-thriving city lies in ruins, abandoned by its government and overrun by vicious, mindless infected. Grab your hammer, collect your nerves and enter the mayhem.",
+      "developers": [
+        "Crowhill Studios"
+      ],
+      "publishers": [
+        "DOSMan Games"
+      ],
+      "genres": [
+        "Action"
+      ],
+      "tags": [
+        "Action",
+        "FPS",
+        "Horror & occult FPS",
+        "Survivors-like"
+      ],
+      "features": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "status": "Released",
+      "releaseDate": "2025-03-11",
+      "releaseLabel": "Mar 11, 2025",
+      "comingSoon": false,
+      "free": false,
+      "price": "$2.99",
+      "priceMinor": 299,
+      "currency": "USD",
+      "discount": 0,
+      "platforms": [
+        "windows"
+      ],
+      "rating": 89.1,
+      "reviewCount": 512,
+      "reviewLabel": "Very Positive",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T06:53:52.190809+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/header.jpg?t=1787223041",
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3316470?t=1787223041",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_1d2ad81aa4c42880e55b888ff03b883b004cbe0a.1920x1080.jpg?t=1787223041",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_1d2ad81aa4c42880e55b888ff03b883b004cbe0a.600x338.jpg?t=1787223041",
+          "sourceUrl": "https://store.steampowered.com/app/3316470/",
+          "alt": "DEAD TRASH official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_9642d60e193c1a6a0e6c1eac9c7cd26d88f8918e.1920x1080.jpg?t=1787223041",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_9642d60e193c1a6a0e6c1eac9c7cd26d88f8918e.600x338.jpg?t=1787223041",
+          "sourceUrl": "https://store.steampowered.com/app/3316470/",
+          "alt": "DEAD TRASH official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_07b092296742e7f49458813b5860625260c708f9.1920x1080.jpg?t=1787223041",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_07b092296742e7f49458813b5860625260c708f9.600x338.jpg?t=1787223041",
+          "sourceUrl": "https://store.steampowered.com/app/3316470/",
+          "alt": "DEAD TRASH official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_552cc8bd32f43c61cedbdf751c455f824eee7831.1920x1080.jpg?t=1787223041",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_552cc8bd32f43c61cedbdf751c455f824eee7831.600x338.jpg?t=1787223041",
+          "sourceUrl": "https://store.steampowered.com/app/3316470/",
+          "alt": "DEAD TRASH official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_05f4308c31be804107a094d593fa22d1af8a539b.1920x1080.jpg?t=1787223041",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_05f4308c31be804107a094d593fa22d1af8a539b.600x338.jpg?t=1787223041",
+          "sourceUrl": "https://store.steampowered.com/app/3316470/",
+          "alt": "DEAD TRASH official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_6139079395db5d783535f61fe61b9b6c140a4204.1920x1080.jpg?t=1787223041",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316470/ss_6139079395db5d783535f61fe61b9b6c140a4204.600x338.jpg?t=1787223041",
+          "sourceUrl": "https://store.steampowered.com/app/3316470/",
+          "alt": "DEAD TRASH official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "HarborUpdate",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257403906/2b3b21cbd61f70f3d24dd2334deb6b4822c6090d/movie_600x337.jpg?t=1787223040",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/3316470/467439192/d2843e72f19e8e6867bef76a8646968bf5c8c2dd/1787220848/hls_264_master.m3u8?t=1787223040",
+          "sourceUrl": "https://store.steampowered.com/app/3316470/",
+          "id": 257403906
+        },
+        {
+          "name": "Release Date Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257096655/83e491f887378b98c128daacd1ca25e239ec24e6/movie_600x337.jpg?t=1758214756",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/3316470/826485/291d6c2a1c3f75329b8c9f1d624abd61716837ab/1750978372/hls_264_master.m3u8?t=1758214756",
+          "sourceUrl": "https://store.steampowered.com/app/3316470/",
+          "id": 257096655
+        },
+        {
+          "name": "Reveal Teaser",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257070848/9c27805c7ecf6931269191ae1d39f17b2d828ffd/movie_600x337.jpg?t=1758214758",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/3316470/781328/b57e6fe3c43d4cc29912bba8eca8c08f8099400f/1751491010/hls_264_master.m3u8?t=1758214758",
+          "sourceUrl": "https://store.steampowered.com/app/3316470/",
+          "id": 257070848
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/3316470/",
+      "website": null,
+      "verifiedAt": "2026-10-23T06:53:52.190809+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/3316470/",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=3316470&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3316470%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        }
+      ],
+      "warnings": [],
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/3316470/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "Core retro / movement FPS",
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/3316470/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        }
+      ]
     },
     {
-      "candidate": "Impaler",
-      "collection": "Arena & roguelite FPS",
-      "error": "Exact identity needs manual review: [(1573090, 'Impaler Gold'), (3218720, 'Impaler Gold Soundtrack')]",
-      "verification": "unresolved"
-    },
-    {
-      "candidate": "GTTOD: Get To The Orange Door",
-      "collection": "Movement shooters",
-      "error": "Exact identity needs manual review: []",
-      "verification": "unresolved"
-    },
-    {
-      "candidate": "Blood: Fresh Supply",
-      "collection": "Retro revivals",
-      "error": "Exact identity needs manual review: []",
-      "verification": "unresolved"
+      "id": "steam:2723250",
+      "appid": 2723250,
+      "seedId": "2723250",
+      "seedName": "MALEDICTOR",
+      "name": "MALEDICTOR",
+      "collection": "Horror & occult FPS",
+      "fit": 7,
+      "summary": "Classic, dark ambience in a bloody and difficult retro FPS. Fight cultists and demons who are as dangerous as you in your fight against the Maledictor.",
+      "developers": [
+        "Armadillo Entertainment LLC"
+      ],
+      "publishers": [
+        "Armadillo Entertainment LLC"
+      ],
+      "genres": [
+        "Action",
+        "Early Access"
+      ],
+      "tags": [
+        "Action",
+        "Boss fights",
+        "Early Access",
+        "FPS",
+        "Horror & occult FPS"
+      ],
+      "features": [
+        "Single-player",
+        "Steam Achievements",
+        "Camera Comfort",
+        "Custom Volume Controls",
+        "Adjustable Difficulty",
+        "Playable without Timed Input",
+        "Stereo Sound",
+        "Partial Controller Support",
+        "Family Sharing"
+      ],
+      "status": "Early Access",
+      "releaseDate": "2026-07-14",
+      "releaseLabel": "Jul 14, 2026",
+      "comingSoon": false,
+      "free": false,
+      "price": "$17.99",
+      "priceMinor": 1799,
+      "currency": "USD",
+      "discount": 0,
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "rating": 100.0,
+      "reviewCount": 16,
+      "reviewLabel": "Positive",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T06:53:52.190809+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/02967b2d0a9c7b18c7fbaf357b44ec3248bf92ff/header.jpg?t=1790706194",
+      "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/page_bg_raw.jpg?t=1790706194",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/c8afa90265e04cbfe7104ae9d710f75ceed2fb2a/ss_c8afa90265e04cbfe7104ae9d710f75ceed2fb2a.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/c8afa90265e04cbfe7104ae9d710f75ceed2fb2a/ss_c8afa90265e04cbfe7104ae9d710f75ceed2fb2a.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/04de145458dc48980c50599c24dba5c2cde132ac/ss_04de145458dc48980c50599c24dba5c2cde132ac.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/04de145458dc48980c50599c24dba5c2cde132ac/ss_04de145458dc48980c50599c24dba5c2cde132ac.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/85a320a7dd8a56577953353cbaa27c6e0b258861/ss_85a320a7dd8a56577953353cbaa27c6e0b258861.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/85a320a7dd8a56577953353cbaa27c6e0b258861/ss_85a320a7dd8a56577953353cbaa27c6e0b258861.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/e431d3ab3caac24cedcba009b52c1daadbec8f2e/ss_e431d3ab3caac24cedcba009b52c1daadbec8f2e.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/e431d3ab3caac24cedcba009b52c1daadbec8f2e/ss_e431d3ab3caac24cedcba009b52c1daadbec8f2e.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/b3a4cab544446da15cef08812391afe2ab20d31d/ss_b3a4cab544446da15cef08812391afe2ab20d31d.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/b3a4cab544446da15cef08812391afe2ab20d31d/ss_b3a4cab544446da15cef08812391afe2ab20d31d.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/08a9bf6cebe26728c36e5eba1211653ff1cfc0c4/ss_08a9bf6cebe26728c36e5eba1211653ff1cfc0c4.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/08a9bf6cebe26728c36e5eba1211653ff1cfc0c4/ss_08a9bf6cebe26728c36e5eba1211653ff1cfc0c4.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/b8b77d405487b6138a8ad139e1739dbb32956d7a/ss_b8b77d405487b6138a8ad139e1739dbb32956d7a.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/b8b77d405487b6138a8ad139e1739dbb32956d7a/ss_b8b77d405487b6138a8ad139e1739dbb32956d7a.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/c9e8c958bb3857be737804537fec532a719d67dc/ss_c9e8c958bb3857be737804537fec532a719d67dc.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/c9e8c958bb3857be737804537fec532a719d67dc/ss_c9e8c958bb3857be737804537fec532a719d67dc.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/92640fa569a47257a2918fa6016152091bb6eaf9/ss_92640fa569a47257a2918fa6016152091bb6eaf9.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/92640fa569a47257a2918fa6016152091bb6eaf9/ss_92640fa569a47257a2918fa6016152091bb6eaf9.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/cbc06cc17da60b360cc306446572f4e5c54994a4/ss_cbc06cc17da60b360cc306446572f4e5c54994a4.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/cbc06cc17da60b360cc306446572f4e5c54994a4/ss_cbc06cc17da60b360cc306446572f4e5c54994a4.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/c5182e81ffb6dacde0f65d8a82827f34b2942160/ss_c5182e81ffb6dacde0f65d8a82827f34b2942160.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/c5182e81ffb6dacde0f65d8a82827f34b2942160/ss_c5182e81ffb6dacde0f65d8a82827f34b2942160.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/62b87154a003c62a64b795c8324eaf2aef2e6da4/ss_62b87154a003c62a64b795c8324eaf2aef2e6da4.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/62b87154a003c62a64b795c8324eaf2aef2e6da4/ss_62b87154a003c62a64b795c8324eaf2aef2e6da4.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/0c16556ecf8bfcaeb98770d4723110ed8a77049f/ss_0c16556ecf8bfcaeb98770d4723110ed8a77049f.1920x1080.jpg?t=1790706194",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723250/0c16556ecf8bfcaeb98770d4723110ed8a77049f/ss_0c16556ecf8bfcaeb98770d4723110ed8a77049f.600x338.jpg?t=1790706194",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "alt": "MALEDICTOR official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Early Access Trailer",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257348999/07c065b779c31c767ecc3ce1102fc03c695cf1ce/movie_600x337.jpg?t=1780462427",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/2723250/1897153599/888a7b3c73054daaed7413ec61432a8d787a547e/1780447189/hls_264_master.m3u8?t=1780462427",
+          "sourceUrl": "https://store.steampowered.com/app/2723250/",
+          "id": 257348999
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/2723250/",
+      "website": null,
+      "verifiedAt": "2026-10-23T06:53:52.190809+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/2723250/",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=2723250&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2723250%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        }
+      ],
+      "warnings": [
+        "Small review sample"
+      ],
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/2723250/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "Core retro / movement FPS",
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/2723250/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:53:52.190809+00:00"
+        }
+      ]
     }
   ],
-  "datasetHash": "33a815cb13330d5d8670932fe64f90385630689c81f7d2ebbab7fb373b302f23"
+  "unresolved": [],
+  "datasetHash": "63fa611e64de5597a16f76aedc77f5141c4e196cf40d07bcb8eb496682b8ea78"
 }

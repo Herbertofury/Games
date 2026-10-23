@@ -1,5 +1,7 @@
 # Dead Trash: Operation Yellow Snow - itch.io Standalone
 
+![Dead Trash: Operation Yellow Snow - itch.io Standalone official artwork](https://img.itch.zone/aW1nLzI0NjMyNjIzLnBuZw==/original/M%2BnuLP.png)
+
 **[Open official page](https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Adead-trash-yellow-snow)** · [Boomer shooters](Boomer-Shooters)
 
 A short, violent holiday mini-campaign with infected decorations, strange enemies, and a new mission in the Dead Trash universe.
@@ -35,8 +37,22 @@ This record refers to the standalone itch.io purchase. The separate Steam DLC re
 
 The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
 
+[Creator-published video](https://www.youtube.com/watch?v=MmuTnblLduQ)
+
+![Dead Trash: Operation Yellow Snow - itch.io Standalone - creator-published image](https://img.itch.zone/aW1hZ2UvNDEzMjkxOS8yNDYzMjc2My5wbmc=/347x500/xrr73N.png)
+
+![Dead Trash: Operation Yellow Snow - itch.io Standalone - creator-published image](https://img.itch.zone/aW1hZ2UvNDEzMjkxOS8yNDYzMjc2Mi5wbmc=/347x500/85u52W.png)
+
+![Dead Trash: Operation Yellow Snow - itch.io Standalone - creator-published image](https://img.itch.zone/aW1hZ2UvNDEzMjkxOS8yNDYzMjc2Ny5wbmc=/347x500/%2BmMqKf.png)
+
+![Dead Trash: Operation Yellow Snow - itch.io Standalone - creator-published image](https://img.itch.zone/aW1hZ2UvNDEzMjkxOS8yNDYzMjc2Ni5wbmc=/347x500/W2L9ZV.png)
+
+![Dead Trash: Operation Yellow Snow - itch.io Standalone - creator-published image](https://img.itch.zone/aW1hZ2UvNDEzMjkxOS8yNDYzMjc2NC5wbmc=/347x500/8GqDl1.png)
+
+![Dead Trash: Operation Yellow Snow - itch.io Standalone - creator-published image](https://img.itch.zone/aW1hZ2UvNDEzMjkxOS8yNDYzMjc2NS5wbmc=/347x500/7uYFVj.png)
+
 ## Sources and evidence
 
-- [itch.io](https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow) · checked 2026-10-23T06:35:12.994433+00:00
+- [Official media](https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow) · checked 2026-10-23T06:53:53.010353+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

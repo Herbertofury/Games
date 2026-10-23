@@ -1,5 +1,7 @@
 # Siren
 
+![Siren official artwork](https://img.itch.zone/aW1nLzE1Mzk5MjczLnBuZw==/original/bu0TAp.png)
+
 **[Open official page](https://dithered-output.itch.io/siren-doom-ii-mod)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Asiren)** · [Boomer shooters](Boomer-Shooters)
 
 A horror-oriented Doom II total conversion with a heavier emphasis on atmosphere and tense encounters.
@@ -37,8 +39,20 @@ Public build 0.91b: February 12, 2026. The creator still labels the project in d
 
 The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
 
+[Creator-published video](https://www.youtube.com/watch?v=6OA-PANaPPY)
+
+![Siren - creator-published image](https://img.itch.zone/aW1hZ2UvMTM1MjE0NS83ODcyNzkzLnBuZw==/347x500/ACpYa0.png)
+
+![Siren - creator-published image](https://img.itch.zone/aW1hZ2UvMTM1MjE0NS83ODcyNzk1LnBuZw==/347x500/pfR18I.png)
+
+![Siren - creator-published image](https://img.itch.zone/aW1hZ2UvMTM1MjE0NS83ODcyNzk2LnBuZw==/347x500/iPDhl8.png)
+
+![Siren - creator-published image](https://img.itch.zone/aW1hZ2UvMTM1MjE0NS83ODcyNzk3LnBuZw==/347x500/aS%2FG%2BO.png)
+
+![Siren - creator-published image](https://img.itch.zone/aW1hZ2UvMTM1MjE0NS83ODcyODAzLnBuZw==/347x500/sslXNd.png)
+
 ## Sources and evidence
 
-- [itch.io](https://dithered-output.itch.io/siren-doom-ii-mod) · checked 2026-10-23T06:35:12.994433+00:00
+- [Official media](https://dithered-output.itch.io/siren-doom-ii-mod) · checked 2026-10-23T06:53:53.010353+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

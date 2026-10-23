@@ -1,5 +1,7 @@
 # Wolfenstein: Blade of Agony
 
+![Wolfenstein: Blade of Agony official artwork](https://boa.realm667.com/images/nicepage-images/Screenshot_BoA_20210418_222822.jpg)
+
 **[Open official page](https://boa.realm667.com/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Ablade-of-agony)** · [Boomer shooters](Boomer-Shooters)
 
 A free, story-driven WWII FPS campaign built with GZDoom, combining missions, secrets, and cinematic presentation.
@@ -35,6 +37,6 @@ The interactive library plays compatible trailers in-page. GitHub wiki links ope
 
 ## Sources and evidence
 
-- [Official site](https://boa.realm667.com/) · checked 2026-10-23T06:35:12.994433+00:00
+- [Official media](https://boa.realm667.com/) · checked 2026-10-23T06:53:53.010353+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

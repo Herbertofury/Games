@@ -4,7 +4,7 @@
 
 **[Open your interactive library](https://herbertofury.github.io/Games/)** · [Roguelites](Roguelites) · [Boomer shooters](Boomer-Shooters) · [Beyond Steam](Beyond-Steam) · [Creator support](Creator-Support)
 
-**313 unique recommendations.** 170 in Roguelites; 145 in Boomer shooters. Cross-genre games appear in both hubs but exist only once in the master catalog.
+**318 unique recommendations.** 170 in Roguelites; 150 in Boomer shooters. Cross-genre games appear in both hubs but exist only once in the master catalog.
 
 | Start exploring | What you will find |
 |:--|:--|

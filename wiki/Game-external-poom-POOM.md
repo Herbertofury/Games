@@ -1,5 +1,7 @@
 # POOM
 
+![POOM official artwork](https://img.itch.zone/aW1nLzQ0NjA1MDUucG5n/original/NyXQiH.png)
+
 **[Open official page](https://freds72.itch.io/poom)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Apoom)** · [Boomer shooters](Boomer-Shooters)
 
 A remarkably compact PICO-8 reinvention of Doom, playable in a browser or as a downloadable build.
@@ -34,9 +36,23 @@ Play in a compatible browser or use the creator's downloadable build. No separat
 
 The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
 
+[Creator-published video](https://www.youtube.com/watch?v=Dx7Zr9M5IcA)
+
+![POOM - creator-published image](https://img.itch.zone/aW1nLzcwMzY4MzAucG5n/original/xGT2e0.png)
+
+![POOM - creator-published image](https://img.itch.zone/aW1nLzU0Nzg3MTYuZ2lm/original/y4ffiD.gif)
+
+![POOM - creator-published image](https://img.itch.zone/aW1nLzcwMzY4MzMucG5n/original/t09gAQ.png)
+
+![POOM - creator-published image](https://img.itch.zone/aW1nLzQ3NTQ2NzgucG5n/original/Uqw3T%2F.png)
+
+![POOM - creator-published image](https://img.itch.zone/aW1hZ2UvNzk2Njc3LzQ3MzYzNTYuZ2lm/original/Bx6UEF.gif)
+
+![POOM - creator-published image](https://img.itch.zone/aW1hZ2UvNzk2Njc3LzQ3MzYzNTcuZ2lm/original/GJmN%2BS.gif)
+
 ## Sources and evidence
 
-- [itch.io](https://freds72.itch.io/poom) · checked 2026-10-23T06:35:12.994433+00:00
+- [Official media](https://freds72.itch.io/poom) · checked 2026-10-23T06:53:53.010353+00:00
 - [Creator Newgrounds release](https://www.newgrounds.com/portal/view/774331) · checked 2026-10-23T06:35:12.994433+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
