@@ -1,0 +1,93 @@
+name: Resolve Metroidvania media
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/resolve-metroidvania-media.yml']
+permissions:
+  contents: read
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Inspect only unresolved media and exact edition evidence
+        shell: python
+        run: |
+          import concurrent.futures,html,json,pathlib,re,sys,threading,time,urllib.parse
+          sys.path.insert(0,'scripts')
+          import discover_storefronts as net
+          from bs4 import BeautifulSoup
+          out=pathlib.Path('qa/metroidvania-media');out.mkdir(parents=True,exist_ok=True)
+          ext=json.loads(pathlib.Path('data/metroidvania-external.json').read_text())['items']
+          steam=json.loads(pathlib.Path('data/metroidvania-steam.json').read_text())['items']
+          pages={g['id']:g['primaryUrl'] for g in ext}
+          pages['external:hero-core']='https://www.remargames.se/herocore.php'
+          pages['external:metroid-dread']='https://www.nintendo.com/us/store/products/metroid-dread-switch/'
+          pages['external:metroid-prime-4']='https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/'
+          pages.update({
+            'fusion':'https://www.nintendo.com/us/whatsnew/metroid-fusion-is-now-available-for-nintendo-switch-online-expansion-pack-members/',
+            'super-metroid':'https://www.nintendo.com/us/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/',
+            'gba':'https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch/',
+            'untitled':'https://www.maddymakesgames.com/',
+            'treasure-adventure':'https://www.gog.com/en/game/treasure_adventure_game',
+            'sunset-land':'https://rivet-gun-games.itch.io/sunset-land',
+            'distant-paradise':'https://dreamnoid.itch.io/distant-paradise',
+            'necrowave-press':'https://nichegamer.com/niche-games-spotlight-necrowave/'
+          })
+          pace=threading.Lock();next_at=0.
+          def read(u):
+            global next_at
+            if '.itch.io' in u:
+              with pace:
+                wait=max(0,next_at-time.monotonic());next_at=max(next_at,time.monotonic())+1
+              if wait:time.sleep(wait)
+            return net.read(u)
+          def page(pair):
+            key,url=pair
+            try:
+              raw,final,typ=read(url);safe=re.sub('[^a-zA-Z0-9_-]','_',key);(out/(safe+'.html')).write_text(raw)
+              s=BeautifulSoup(raw,'html.parser');body=html.unescape(raw.replace('\\/','/'))
+              youtube=list(dict.fromkeys(re.findall(r'(?:youtube(?:-nocookie)?\.com/(?:embed/|watch\?v=)|youtu\.be/|i\.ytimg\.com/vi/)([A-Za-z0-9_-]{11})',body)))
+              files=list(dict.fromkeys(re.findall(r'https?://[^\s\"\'<>]+\.(?:mp4|webm|m3u8)(?:\?[^\s\"\'<>]*)?',body)))
+              pictures=[dict(n.attrs) for n in s.select('meta[property="og:image"],img')]
+              links=[{'label':a.get_text(' ',strip=True),'url':urllib.parse.urljoin(final,a['href'])} for a in s.select('a[href]') if any(t in a['href'] for t in ['youtu','patreon','download','itch.io','store','games','story'])]
+              main=s.select_one('.formatted_description') or s.select_one('article') or s
+              return {'id':key,'url':url,'final':final,'title':s.title.get_text(' ',strip=True) if s.title else '', 'youtube':youtube,'files':files,'images':pictures,'links':links,'description':main.get_text(' ',strip=True)[:25000],'uploads':[n.get_text(' ',strip=True) for n in s.select('.upload_list_widget .upload')],'metadata':s.select_one('.game_info_panel_widget').get_text(' ',strip=True) if s.select_one('.game_info_panel_widget') else '', 'jsonld':[n.get_text() for n in s.select('script[type="application/ld+json"]')],'videoNodes':[dict(n.attrs) for n in s.select('video,source,iframe')]}
+            except Exception as e:return {'id':key,'url':url,'error':str(e)}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:results=list(pool.map(page,pages.items()))
+          missing=[g for g in ext+steam if not g.get('trailers')]
+          queries={g['id']:g['name']+' game gameplay' for g in missing}
+          queries.update({'external:senescence-protocol':'Senescence Protocol lui421 gameplay','external:fohh':'Fohh Ismael Rodriguez gameplay','external:peppermint':'Peppermint salmoone SAGE gameplay','external:block-neopolis':'BLOCK neopolis metroidbrainia gameplay','external:spellsought':'Spellsought metroidvania gameplay','fusion':'Metroid Fusion Nintendo Switch Online trailer Nintendo','super-metroid':'Super Metroid Nintendo Switch Online gameplay','zero-mission':'Metroid Zero Mission Nintendo Switch Online Nintendo','treasure-adventure':'Treasure Adventure Game official trailer','untitled':'An Untitled Story gameplay','sunset-land':'Sunset Land Rivet Gun Games trailer','distant-paradise':'Distant Paradise dreamnoid gameplay'})
+          def txt(x):return x.get('simpleText') or ''.join(r.get('text','') for r in x.get('runs',[]))
+          def search(pair):
+            key,q=pair;url='https://www.youtube.com/results?search_query='+urllib.parse.quote(q)
+            try:
+              raw,_,_=net.read(url);m=re.search(r'(?:var\s+)?ytInitialData\s*=\s*',raw)
+              if not m:raise ValueError('No public result data; no bypass attempted')
+              data=json.JSONDecoder().raw_decode(raw[m.end():])[0];found=[]
+              def walk(x):
+                if isinstance(x,dict):
+                  if 'videoRenderer' in x:
+                    v=x['videoRenderer'];found.append({'id':v.get('videoId'),'title':txt(v.get('title',{})),'author':txt(v.get('ownerText',{})),'length':txt(v.get('lengthText',{})),'thumbnails':v.get('thumbnail',{}).get('thumbnails',[])})
+                  else:
+                    for v in x.values():walk(v)
+                elif isinstance(x,list):
+                  for v in x:walk(v)
+              walk(data);return {'id':key,'query':q,'url':url,'results':found}
+            except Exception as e:return {'id':key,'query':q,'url':url,'error':str(e)}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:searches=list(pool.map(search,queries.items()))
+          ids=list(dict.fromkeys([t['youtube'] for g in ext for t in g.get('trailers',[]) if t.get('youtube')]+[v for r in results for v in r.get('youtube',[])]))
+          def oembed(v):
+            u='https://www.youtube.com/oembed?url='+urllib.parse.quote('https://www.youtube.com/watch?v='+v,safe='')+'&format=json'
+            try:return {'id':v,**net.api(u)}
+            except Exception as e:return {'id':v,'error':str(e)}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:metadata=list(pool.map(oembed,ids))
+          report={'pages':results,'searches':searches,'videos':metadata};(out/'report.json').write_text(json.dumps(report,indent=2)+'\n')
+          print(json.dumps({'pages':[{k:v for k,v in r.items() if k not in ['images','description','jsonld','links']} for r in results],'searches':searches,'videos':metadata},indent=2))
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: metroidvania-media-resolution
+          path: qa/metroidvania-media

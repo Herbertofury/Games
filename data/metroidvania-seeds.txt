@@ -1,0 +1,481 @@
+# Discovery candidates, not verified release claims. Exact Steam identity and current status are resolved before publication.
+# [Collection|editorial fit|genre scope]; optional title|fit override|explicit Steam ID.
+[Genre essentials|10|Traditional Metroidvania]
+Hollow Knight
+Hollow Knight: Silksong
+Ori and the Blind Forest: Definitive Edition
+Ori and the Will of the Wisps
+Bloodstained: Ritual of the Night
+Axiom Verge
+Axiom Verge 2
+Castlevania Advance Collection
+Castlevania Dominus Collection
+Super Metroid|10
+[Dark fantasy & soulslike worlds|9|Combat-focused Metroidvania]
+Blasphemous
+Blasphemous 2
+The Last Faith
+ENDER LILIES: Quietus of the Knights
+ENDER MAGNOLIA: Bloom in the Mist
+GRIME
+GRIME II
+Death's Gambit: Afterlife
+Salt and Sanctuary
+Salt and Sacrifice|7
+Vigil: The Longest Night
+Moonscars
+Mandragora: Whispers of the Witch Tree
+The Last Case of Benedict Fox|7
+HunterX|8
+HunterX: code name T|8
+3000th Duel|7
+There Is No Light|8
+Souldiers|7
+The Tarnishing of Juxtia|7
+Dark Light|7
+Watcher Chronicles|7
+The Darkest Tales|7
+Aeterna Noctis
+Aeterna Lucis
+Lucid
+NoseBound|6
+[Combat, parries & beautiful worlds|9|Combat-focused Metroidvania]
+Nine Sols|10
+Prince of Persia The Lost Crown|10
+F.I.S.T.: Forged In Shadow Torch
+Bo: Path of the Teal Lotus
+Afterimage
+BIOMORPH
+Convergence: A League of Legends Story
+Gestalt: Steam & Cinder|8
+Momodora: Reverie Under the Moonlight
+Momodora: Moonlit Farewell
+Minoria|8
+Record of Lodoss War-Deedlit in Wonder Labyrinth-
+Touhou Luna Nights
+TEVI
+Rabi-Ribi
+Lost Ruins|8
+Frontier Hunter: Erza's Wheel of Fortune|8
+Yohane the Parhelion -BLAZE in the DEEPBLUE-|8
+Touhou: Scarlet Curiosity|7
+Alice Escaped!|7
+Alice in Abyss|7
+[Science fiction & alien worlds|9|Traditional Metroidvania]
+Environmental Station Alpha|10
+Ghost Song
+Moadra
+Rebel Transmute
+The Mummy Demastered
+Gato Roboto
+B.I.O.T.A.|8
+Omega Strike|7
+Transiruby|8
+Haiku, the Robot
+KUNAI|8
+Xeodrifter|8
+Outbuddies DX|8
+Xanthiom Zero
+Xanthiom 2
+Side Scape|8
+A.N.N.E.|7
+Unbound: Worlds Apart|8
+Vision Soft Reset
+Ato
+Depths of Sanity
+Aquaria
+Headlander|8
+Shadow Complex Remastered
+Strider
+Carrion
+The Mobius Machine|8
+Ex Vitro|8
+Recompile|7
+The Swapper|8
+Elderand|8
+Nuclear Blaze|8
+Blast Brigade vs. the Evil Legion of Dr. Cread
+[Hand-drawn, charming & colorful|9|Traditional Metroidvania]
+Islets
+Sheepo
+Well Dweller
+Yoku's Island Express
+Monster Boy and the Cursed Kingdom
+Wonder Boy: The Dragon's Trap|8
+SteamWorld Dig|8
+SteamWorld Dig 2|10
+Dandara: Trials of Fear Edition
+Dust: An Elysian Tail
+Guacamelee! Super Turbo Championship Edition
+Guacamelee! 2
+Iconoclasts
+Owlboy|8
+Song of the Deep|8
+Shinsekai: Into the Depths|8
+Disney Illusion Island|8
+Shantae and the Pirate's Curse
+Shantae: Risky's Revenge - Director's Cut|8
+Shantae and the Seven Sirens|8
+Shantae: Half-Genie Hero Ultimate Edition|8
+Shantae Advance: Risky Revolution|8
+Shantae and the Seven Sirens Spectacular Superstar Update|7
+Shantae|8
+Fallen Tear: The Ascension
+The Merlies|8
+Pampas & Selene: The Maze of Demons|9
+[Movement & precision exploration|9|Platforming-focused Metroidvania]
+Lone Fungus
+Lone Fungus: Melody of Spores
+Rusted Moss
+A Sister's Journey
+Zapling Bygone
+Aestik|8
+DOOMBLADE
+Pseudoregalia
+Laika: Aged Through Blood
+HAAK
+The Messenger|10
+8Doors: Arum's Afterlife Adventure|8
+Doomed to Hell|6
+Super Mombo Quest|8
+Super Daryl Deluxe|8
+Super Win the Game|8
+Sunblaze|7
+Hollow Floor|8
+[Puzzle & knowledge-led labyrinths|9|Puzzle / knowledge exploration]
+ANIMAL WELL|10
+La-Mulana|10
+La-Mulana 2|10
+Phoenotopia: Awakening|10
+Alwa's Awakening
+Alwa's Legacy
+Batbarian: Testament of the Primordials
+Astalon: Tears of the Earth|10
+Treasure Adventure World
+Treasure Adventure Game|9
+Supraland|10
+Supraland Six Inches Under
+Supraworld
+Echo Weaver
+Toki Tori 2+
+Waking Mars
+A Monster's Expedition|8
+ElecHead|8
+Maptroid: Worlds|8
+The Good Old Days|8
+[Retro castles & pixel-art adventures|8|Traditional Metroidvania]
+Timespinner|9
+Timespinner 2: Unwoven Dream|9
+Chasm
+Valdis Story: Abyssal City|9
+Infernax|9
+Cathedral|9
+Castle In The Darkness|9
+Castle in the Darkness 2
+Aggelos|9
+Aggelos 2
+Odallus: The Dark Call
+Unepic
+Alchemist's Castle
+Mystik Belle
+Mystik Belle: Enchanted Edition
+Fearmonium
+Pronty|9
+Primal Light
+Castle of Heart
+Demoniaca: Everlasting Night|6
+Skelethrone: The Chronicles of Ericona
+Skelethrone: The Prey|7
+Gal Guardians: Servants of the Dark
+Gal Guardians: Demon Purge|7
+Record of Lodoss War: Deedlit in Wonder Labyrinth|9
+Super Zangyura
+[Short, sweet & miniature worlds|8|Compact Metroidvania]
+Trash Quest
+Mini Ghost
+Mini Healer|7
+Mini Knight|9
+Gooma|7
+Goo Keeper
+Doomed Lands|7
+Pear Potion
+SJ-19 Learns To Love!
+XeoDusk
+Tomomi
+Gensokyo Night Festival
+Touhou Double Focus
+Touhou Artificial Dream in Arcadia|7
+Witchcrafty
+Catmaze
+Redo!
+REDO!|8
+Escape From Tethys
+Simona's Requiem
+Alekon|7
+Nyaruru Fishy Fight
+The Witch & The 66 Mushrooms
+Lost to Time|7
+Momodora III
+Momodora II|8
+Dispersio
+Dispersio 2
+[Indie deep cuts & unusual mechanics|8|Traditional Metroidvania]
+MF-01 Aerostrike
+Lyle in Cube Sector|9
+Alchemist Adventure
+Alruna and the Necro-Industrialists
+Alruna: End of History
+Angel's Gear
+Castle of Vania|6
+Cat Powered UFO
+Doomsday Hunters|7
+Elypse
+Faerie Afterlight
+FlipWitch - Forbidden Sex Hex|6
+Giga Wrecker
+Ghost 1.0|9
+GunGirl 2
+Heart Forth, Alicia|9
+Itorah
+Kalinur
+Kingdom Shell|9
+Kunado Chronicles|5
+Lootbox Lyfe
+Magicians & Looters
+Mable & The Wood
+Magenta Horizon|9
+Marrow
+MindSeize
+Mystery of Fortune|6
+Overbowed
+Overplasma
+Plague of Yamorn
+Plastomorphosis|6
+Plague Huntress
+RIN: The Last Child|7
+Rune Fencer Illyia|9
+Salt 2: Shores of Gold|6
+Savior|9
+Saviorless|8
+Sorrow of the Infernal
+Sotano|6
+Sparks of Hope|6
+The Tale of Onogoro|6
+The Witch's House MV|5
+Unworthy|9
+Vernal Edge|9
+Vessels of Decay
+Vigilant: The Lunar Rebellion
+[Fresh discoveries & emerging worlds|8|Traditional Metroidvania]
+MIO: Memories in Orbit|9
+Constance|9
+Blade Chimera|9
+Ninja Five-O|7
+The Devil Within: Satgat
+Voidwrought
+Biogun|9
+Bo: Path of the Teal Lotus|9
+Bo: Path of the Teal Lotus|9
+Awaken: Astral Blade
+AWAKEN - Astral Blade
+Bionic Bay|8
+Bioframe Outpost
+Turbo Kid
+Marko: Beyond Brave
+Rebel Engine
+Rusted Moss|9
+Yars Rising
+Ultros|9
+Ultros|9
+Worldless|9
+Trinity Fusion|8
+Venture to the Vile
+Nine Years of Shadows|9
+9 Years of Shadows|9
+Moonlight Pulse|9
+Aestik|8
+Exil|8
+Exographer|9
+Exorcist: Reviewer of Minds
+Crypt Custodian|9
+BLADE CHIMERA|9
+Bō: Path of the Teal Lotus|9
+Touhou: New World|7
+Gestalt: Steam & Cinder|8
+Zau|7
+Tales of Kenzera: ZAU|8
+MARS 2120|7
+Iron Diamond|8
+Mobius Machine|8
+Biomorph|9
+Guns of Fury|9
+Blade & Bones|6
+BLADE & BASTARD|6
+Beyond the Ice Palace 2|8
+The Devil Within: Satgat|8
+Earthblade|8
+Ender Magnolia: Bloom in the Mist|9
+Mandragora: Whispers of the Witch Tree|9
+Shadow Labyrinth|8
+Shadow Labyrinth|8
+Shinobi: Art of Vengeance|9
+Ninja Gaiden: Ragebound|8
+Hollow Knight: Silksong|10
+Berserk Boy|9
+Anima Flux|8
+Awita: Journey of Hope|8
+Altered Alma|9
+Altered Beast|6
+Aeterna Lucis|9
+A Sister's Journey|9
+Akurra|8
+Isles of Sea and Sky|9
+Altheia: The Wrath of Aferi|7
+Anima: Song from the Abyss|7
+ANIMAL WELL|10
+Beyond the Ice Palace II|8
+Big Hops|8
+BioMorph|9
+Bloodstained: The Scarlet Engagement|9
+Castlevania: Belmont's Curse|9
+Crowsworn|9
+Deviator|7
+Deviator|7
+Earthion|7
+Eden's Guardian|9
+Elderand|8
+Exil|8
+Faeland|8
+Folly of the Wizards|7
+Forge of the Fae|7
+Gestalt: Steam & Cinder|8
+Goo Keeper|8
+Grim Symphony|8
+Haplo|8
+Hirogami|7
+Hollow Knight: Silksong|10
+Lone Fungus: Melody of Spores|9
+LUCID|9
+Mandragora: Whispers of the Witch Tree|9
+Mariachi Legends|9
+Moadra|9
+Morkull Ragast's Rage|8
+Morkull Ascend to the Gods|8
+Noreya: The Gold Project|8
+Pale Cinder|8
+Perennial Order|8
+Plague Huntress|8
+Project Anomaly: Urban Supernatural Investigator|7
+ReSetna|8
+Rogue Flight|7
+Rusted Moss|9
+Rune Fencer Illyia|9
+Savior|9
+Silent Santicado|8
+Souno's Curse|8
+The Siege and the Sandfox|9
+The Spirit of the Samurai|7
+The Spirit of the Samurai|7
+The Transylvania Adventure of Simon Quest|8
+The Witch of Fern Island|6
+TrinityS|6
+Voidwrought|9
+Whisper Mountain Outbreak|6
+Witchbrook|6
+Windswept|8
+YesterSol|8
+Yes, Your Grace: Snowfall|6
+[3D & first-person labyrinths|8|3D exploration / Metroidvania-adjacent]
+Metroid Prime Remastered|10
+Metroid Prime 4: Beyond|9
+Journey to the Savage Planet
+Revenge of the Savage Planet
+High on Life|7
+High On Life 2|7
+Control Ultimate Edition|9
+Batman: Arkham Asylum Game of the Year Edition|9
+Star Wars Jedi: Fallen Order|9
+Star Wars Jedi: Survivor|9
+Darksiders Warmastered Edition|8
+Darksiders II Deathinitive Edition|8
+Darksiders III|9
+Darksiders Genesis|7
+Blue Fire|8
+Valley|8
+Haydee|7
+Haydee 2|7
+Haydee 3|7
+[Top-down exploration cousins|8|Top-down / Metroidvania-adjacent]
+TUNIC|10
+Death's Door|9
+Unsighted|9
+Hyper Light Drifter|9
+CrossCode|9
+Hob|9
+Master Key|8
+Minishoot' Adventures|10
+Ocean's Heart|8
+Prodigal|8
+Lenna's Inception|8
+The Last Hero of Nostalgaia|8
+[Randomized worlds & roguelite hybrids|8|Roguelite / Metroidvania hybrid]
+Dead Cells|10
+Rogue Legacy|9
+Rogue Legacy 2|9
+Sundered: Eldritch Edition|9
+A Robot Named Fight!|9
+A Valley Without Wind|7
+A Valley Without Wind 2|7
+RogueVania|7
+Foregone|8
+Fury Unleashed|8
+Doomsday Hunters|8
+Trinity Fusion|8
+Oblivion Override|8
+Oblivion Eagle|6
+Spiritfall|8
+30XX|9
+20XX|9
+Revita|8
+Skul: The Hero Slayer|9
+Have a Nice Death|8
+Oblivion Eagle|6
+[Upcoming & playable demo watchlist|8|Traditional Metroidvania]
+Silhouette: Animal|7
+Silhouette: Dawn of the Forest|8
+Haunted Lands|8
+Bioid|8
+Aldoria|8
+Dewdrop Dynasty|8
+A Sister's Journey|9
+Fallen Tear: The Ascension|9
+Being and Becoming|9
+Rubato|8
+Super Roboy|8
+Astra: Fading Stars|8
+Crowsworn|9
+The Last Faith|9
+Soul Passage|8
+Soul Quest|8
+Bo: Path of the Teal Lotus|9
+Brave Earth: Prologue|8
+Bushiden|8
+Timespinner 2: Unwoven Dream|9
+OVERHORIZON|7
+Chronicles of the Wolf|9
+Doomed Knight|8
+The Doomed Knight|8
+Gestalt: Steam & Cinder|8
+Zoria: Age of Shattering|6
+Vapor World: Over The Mind|8
+Constance|9
+Lords of Exile|8
+Lucid|9
+Crowsworn|9
+Lone Fungus: Melody of Spores|9
+Savior|9
+DRAGONBOMB|8|5271260
+PITH|8
+Auridia|8
+Echo Weaver|9
+Well Dweller|9|3699590

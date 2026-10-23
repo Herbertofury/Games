@@ -1,0 +1,847 @@
+{
+  "url": "https://www.metroidvania.gg/2026",
+  "checkedAt": "2026-10-23T16:59:37.367270+00:00",
+  "links": [
+    {
+      "label": "Twitter",
+      "url": "https://twitter.com/metroidvania_gg",
+      "images": []
+    },
+    {
+      "label": "YouTube",
+      "url": "https://youtube.com/@metroidvaniagg",
+      "images": []
+    },
+    {
+      "label": "Discord",
+      "url": "https://discord.gg/f64tqHPZCh",
+      "images": []
+    },
+    {
+      "label": "Submit a Game",
+      "url": "https://www.metroidvania.gg/SubmitGame",
+      "images": []
+    },
+    {
+      "label": "MetroidVania.GG MV.GG",
+      "url": "https://www.metroidvania.gg/",
+      "images": [
+        {
+          "alt": "logo",
+          "src": "/build/assets/Logo-CGqzTyA8.png"
+        }
+      ]
+    },
+    {
+      "label": "Home",
+      "url": "https://www.metroidvania.gg/",
+      "images": []
+    },
+    {
+      "label": "Coming Soon",
+      "url": "https://www.metroidvania.gg/coming-soon",
+      "images": []
+    },
+    {
+      "label": "2026",
+      "url": "https://www.metroidvania.gg/2026",
+      "images": []
+    },
+    {
+      "label": "2027",
+      "url": "https://www.metroidvania.gg/2027",
+      "images": []
+    },
+    {
+      "label": "TBD",
+      "url": "https://www.metroidvania.gg/TBD",
+      "images": []
+    },
+    {
+      "label": "Early Access",
+      "url": "https://www.metroidvania.gg/EarlyAccess",
+      "images": []
+    },
+    {
+      "label": "Upcoming Kickstarters",
+      "url": "https://www.metroidvania.gg/UpcomingKickstarters",
+      "images": []
+    },
+    {
+      "label": "Demos",
+      "url": "https://www.metroidvania.gg/Demos",
+      "images": []
+    },
+    {
+      "label": "By Year",
+      "url": "https://www.metroidvania.gg/Released",
+      "images": []
+    },
+    {
+      "label": "By Reviews",
+      "url": "https://www.metroidvania.gg/steam-reviews",
+      "images": []
+    },
+    {
+      "label": "Steam",
+      "url": "https://www.metroidvania.gg/Steam",
+      "images": []
+    },
+    {
+      "label": "Epic Games",
+      "url": "https://www.metroidvania.gg/Epic",
+      "images": []
+    },
+    {
+      "label": "GoG",
+      "url": "https://www.metroidvania.gg/GoG",
+      "images": []
+    },
+    {
+      "label": "Playstation",
+      "url": "https://www.metroidvania.gg/Playstation",
+      "images": []
+    },
+    {
+      "label": "Xbox",
+      "url": "https://www.metroidvania.gg/Xbox",
+      "images": []
+    },
+    {
+      "label": "Nintendo Switch",
+      "url": "https://www.metroidvania.gg/Nintendo",
+      "images": []
+    },
+    {
+      "label": "All Games",
+      "url": "https://www.metroidvania.gg/AllGames",
+      "images": []
+    },
+    {
+      "label": "Steam",
+      "url": "https://www.metroidvania.gg/steam-sale",
+      "images": []
+    },
+    {
+      "label": "Home",
+      "url": "https://www.metroidvania.gg/",
+      "images": []
+    },
+    {
+      "label": "Coming Soon",
+      "url": "https://www.metroidvania.gg/coming-soon",
+      "images": []
+    },
+    {
+      "label": "2026",
+      "url": "https://www.metroidvania.gg/2026",
+      "images": []
+    },
+    {
+      "label": "2027",
+      "url": "https://www.metroidvania.gg/2027",
+      "images": []
+    },
+    {
+      "label": "TBD",
+      "url": "https://www.metroidvania.gg/TBD",
+      "images": []
+    },
+    {
+      "label": "Early Access",
+      "url": "https://www.metroidvania.gg/EarlyAccess",
+      "images": []
+    },
+    {
+      "label": "Upcoming Kickstarters",
+      "url": "https://www.metroidvania.gg/UpcomingKickstarters",
+      "images": []
+    },
+    {
+      "label": "Demos",
+      "url": "https://www.metroidvania.gg/Demos",
+      "images": []
+    },
+    {
+      "label": "Released",
+      "url": "https://www.metroidvania.gg/Released",
+      "images": []
+    },
+    {
+      "label": "Steam",
+      "url": "https://www.metroidvania.gg/Steam",
+      "images": []
+    },
+    {
+      "label": "Epic",
+      "url": "https://www.metroidvania.gg/Epic",
+      "images": []
+    },
+    {
+      "label": "GoG",
+      "url": "https://www.metroidvania.gg/GoG",
+      "images": []
+    },
+    {
+      "label": "Playstation",
+      "url": "https://www.metroidvania.gg/Playstation",
+      "images": []
+    },
+    {
+      "label": "Xbox",
+      "url": "https://www.metroidvania.gg/Xbox",
+      "images": []
+    },
+    {
+      "label": "Nintendo",
+      "url": "https://www.metroidvania.gg/Nintendo",
+      "images": []
+    },
+    {
+      "label": "All Games",
+      "url": "https://www.metroidvania.gg/AllGames",
+      "images": []
+    },
+    {
+      "label": "Steam",
+      "url": "https://www.metroidvania.gg/steam-sale",
+      "images": []
+    },
+    {
+      "label": "Release date: Q4 2026",
+      "url": "https://www.metroidvania.gg/Game/house-of-decay",
+      "images": [
+        {
+          "alt": "House Of Decay",
+          "src": "/storage/thumbnails/house-of-decay.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 17 September 2026",
+      "url": "https://www.metroidvania.gg/Game/yestersol",
+      "images": [
+        {
+          "alt": "YesterSol",
+          "src": "/storage/thumbnails/yestersol.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 27 August 2026",
+      "url": "https://www.metroidvania.gg/Game/aggelos-2",
+      "images": [
+        {
+          "alt": "Aggelos 2",
+          "src": "/storage/thumbnails/aggelos-2.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 12 March 2026",
+      "url": "https://www.metroidvania.gg/Game/sealed-bite-extended",
+      "images": [
+        {
+          "alt": "Sealed Bite: Extended",
+          "src": "/storage/thumbnails/sealed-bite-extended.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 10 November 2026",
+      "url": "https://www.metroidvania.gg/Game/nocturnal-2",
+      "images": [
+        {
+          "alt": "Nocturnal 2",
+          "src": "/storage/thumbnails/nocturnal-2.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 10 March 2026",
+      "url": "https://www.metroidvania.gg/Game/sophie-starlight-whispers",
+      "images": [
+        {
+          "alt": "Sophie: Starlight Whispers",
+          "src": "/storage/thumbnails/sophie-starlight-whispers.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 12 May 2026",
+      "url": "https://www.metroidvania.gg/Game/clockwork-ambrosia",
+      "images": [
+        {
+          "alt": "Clockwork Ambrosia",
+          "src": "/storage/thumbnails/clockwork-ambrosia.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 31 March 2026",
+      "url": "https://www.metroidvania.gg/Game/little-nemo-and-the-guardians-of-slumberland",
+      "images": [
+        {
+          "alt": "Little Nemo and the Guardians of Slumberland",
+          "src": "/storage/thumbnails/little-nemo-and-the-guardians-of-slumberland.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 24 August 2026",
+      "url": "https://www.metroidvania.gg/Game/volkolak-the-will-of-gods",
+      "images": [
+        {
+          "alt": "Volkolak: The Will of Gods",
+          "src": "/storage/thumbnails/volkolak-the-will-of-gods.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 29 April 2026",
+      "url": "https://www.metroidvania.gg/Game/ariana-and-the-elder-codex",
+      "images": [
+        {
+          "alt": "Ariana and the elder codex",
+          "src": "/storage/thumbnails/ariana-and-the-elder-codex.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 20 October 2026",
+      "url": "https://www.metroidvania.gg/Game/a-sisters-journey",
+      "images": [
+        {
+          "alt": "A Sister's Journey",
+          "src": "/storage/thumbnails/a-sisters-journey.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 28 July 2026",
+      "url": "https://www.metroidvania.gg/Game/a-knight-of-lothen",
+      "images": [
+        {
+          "alt": "A Knight of Lothen",
+          "src": "/storage/thumbnails/a-knight-of-lothen.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 12 June 2026",
+      "url": "https://www.metroidvania.gg/Game/xanthiom-2",
+      "images": [
+        {
+          "alt": "Xanthiom 2",
+          "src": "/storage/thumbnails/xanthiom-2.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 6 January 2026",
+      "url": "https://www.metroidvania.gg/Game/death-machine",
+      "images": [
+        {
+          "alt": "Death machine",
+          "src": "/storage/thumbnails/death-machine.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 26 March 2026",
+      "url": "https://www.metroidvania.gg/Game/mask-of-soul",
+      "images": [
+        {
+          "alt": "Mask of Soul",
+          "src": "/storage/thumbnails/mask-of-soul.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 29 October 2026",
+      "url": "https://www.metroidvania.gg/Game/croakspire",
+      "images": [
+        {
+          "alt": "Croakspire",
+          "src": "/storage/thumbnails/croakspire.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 4 June 2026",
+      "url": "https://www.metroidvania.gg/Game/alruna-end-of-history",
+      "images": [
+        {
+          "alt": "Alruna: End of History",
+          "src": "/storage/thumbnails/alruna-end-of-history.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 3 February 2026",
+      "url": "https://www.metroidvania.gg/Game/gravethorn",
+      "images": [
+        {
+          "alt": "Gravethorn",
+          "src": "/storage/thumbnails/gravethorn.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 12 February 2026 In Early Access",
+      "url": "https://www.metroidvania.gg/Game/selini",
+      "images": [
+        {
+          "alt": "SELINI",
+          "src": "/storage/thumbnails/selini.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 14 January 2026",
+      "url": "https://www.metroidvania.gg/Game/kotama&academy-citadel",
+      "images": [
+        {
+          "alt": "Kotama&Academy Citadel",
+          "src": "/storage/thumbnails/kotama&academy-citadel.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 11 November 2026",
+      "url": "https://www.metroidvania.gg/Game/monomoon",
+      "images": [
+        {
+          "alt": "MONOMOON",
+          "src": "/storage/thumbnails/monomoon.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 15 October 2026",
+      "url": "https://www.metroidvania.gg/Game/castlevania-belmonts-curse",
+      "images": [
+        {
+          "alt": "Castlevania: Belmont's Curse",
+          "src": "/storage/thumbnails/castlevania-belmonts-curse.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 21 August 2026",
+      "url": "https://www.metroidvania.gg/Game/spright",
+      "images": [
+        {
+          "alt": "Spright",
+          "src": "/storage/thumbnails/spright.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 31 March 2026",
+      "url": "https://www.metroidvania.gg/Game/tombwater",
+      "images": [
+        {
+          "alt": "Tombwater",
+          "src": "/storage/thumbnails/tombwater.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 22 September 2026",
+      "url": "https://www.metroidvania.gg/Game/little-ghost",
+      "images": [
+        {
+          "alt": "Little Ghost",
+          "src": "/storage/thumbnails/little-ghost.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 3 April 2026",
+      "url": "https://www.metroidvania.gg/Game/planet-chyton",
+      "images": [
+        {
+          "alt": "Planet Chyton",
+          "src": "/storage/thumbnails/planet-chyton.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 17 February 2026",
+      "url": "https://www.metroidvania.gg/Game/forgotlings",
+      "images": [
+        {
+          "alt": "Forgotlings",
+          "src": "/storage/thumbnails/forgotlings.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 19 June 2026",
+      "url": "https://www.metroidvania.gg/Game/maseylia-echoes-of-the-past",
+      "images": [
+        {
+          "alt": "Maseylia : Echoes of the Past",
+          "src": "/storage/thumbnails/maseylia-echoes-of-the-past.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 27 May 2026",
+      "url": "https://www.metroidvania.gg/Game/grumpy-jack",
+      "images": [
+        {
+          "alt": "Grumpy Jack",
+          "src": "/storage/thumbnails/grumpy-jack.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 29 January 2026",
+      "url": "https://www.metroidvania.gg/Game/the-perfect-pencil",
+      "images": [
+        {
+          "alt": "The Perfect Pencil",
+          "src": "/storage/thumbnails/the-perfect-pencil.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 23 July 2026",
+      "url": "https://www.metroidvania.gg/Game/dewdrop-dynasty",
+      "images": [
+        {
+          "alt": "Dewdrop Dynasty",
+          "src": "/storage/thumbnails/dewdrop-dynasty.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 16 January 2026",
+      "url": "https://www.metroidvania.gg/Game/bail-force-cyberpunk-bounty-hunters",
+      "images": [
+        {
+          "alt": "Bail Force: Cyberpunk Bounty Hunters",
+          "src": "/storage/thumbnails/bail-force-cyberpunk-bounty-hunters.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 31 March 2026",
+      "url": "https://www.metroidvania.gg/Game/grime-2",
+      "images": [
+        {
+          "alt": "Grime 2",
+          "src": "/storage/thumbnails/grime-2.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 12 March 2026",
+      "url": "https://www.metroidvania.gg/Game/ollie-and-the-merchant-of-dreams",
+      "images": [
+        {
+          "alt": "Ollie and the Merchant of Dreams",
+          "src": "/storage/thumbnails/ollie-and-the-merchant-of-dreams.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 1 May 2026",
+      "url": "https://www.metroidvania.gg/Game/this-is-fine-maximum-cope",
+      "images": [
+        {
+          "alt": "This Is Fine: Maximum Cope",
+          "src": "/storage/thumbnails/this-is-fine-maximum-cope.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 5 August 2026",
+      "url": "https://www.metroidvania.gg/Game/akatori",
+      "images": [
+        {
+          "alt": "Akatori",
+          "src": "/storage/thumbnails/akatori.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 15 May 2026",
+      "url": "https://www.metroidvania.gg/Game/augment-anthem",
+      "images": [
+        {
+          "alt": "Augment Anthem",
+          "src": "/storage/thumbnails/augment-anthem.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 12 May 2026",
+      "url": "https://www.metroidvania.gg/Game/silent-paradise-anthology",
+      "images": [
+        {
+          "alt": "Silent Paradise Anthology",
+          "src": "/storage/thumbnails/silent-paradise-anthology.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 24 July 2026",
+      "url": "https://www.metroidvania.gg/Game/infinitevania",
+      "images": [
+        {
+          "alt": "Infinitevania",
+          "src": "/storage/thumbnails/infinitevania.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 24 November 2026",
+      "url": "https://www.metroidvania.gg/Game/light-of-atlantis",
+      "images": [
+        {
+          "alt": "Light of Atlantis",
+          "src": "/storage/thumbnails/light-of-atlantis.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 26 August 2026",
+      "url": "https://www.metroidvania.gg/Game/fatal-claw",
+      "images": [
+        {
+          "alt": "Fatal Claw",
+          "src": "/storage/thumbnails/fatal-claw.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 12 March 2026",
+      "url": "https://www.metroidvania.gg/Game/solateria",
+      "images": [
+        {
+          "alt": "Solateria",
+          "src": "/storage/thumbnails/solateria.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 25 May 2026",
+      "url": "https://www.metroidvania.gg/Game/emuurom",
+      "images": [
+        {
+          "alt": "EMUUROM",
+          "src": "/storage/thumbnails/emuurom.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 2 February 2026",
+      "url": "https://www.metroidvania.gg/Game/tearscape",
+      "images": [
+        {
+          "alt": "Tearscape",
+          "src": "/storage/thumbnails/tearscape.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 5 October 2026",
+      "url": "https://www.metroidvania.gg/Game/stickility",
+      "images": [
+        {
+          "alt": "Stickility",
+          "src": "/storage/thumbnails/stickility.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 15 June 2026",
+      "url": "https://www.metroidvania.gg/Game/tales-of-wakana",
+      "images": [
+        {
+          "alt": "Tales Of Wakana",
+          "src": "/storage/thumbnails/tales-of-wakana.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 23 September 2026",
+      "url": "https://www.metroidvania.gg/Game/fallen-tear-the-ascension",
+      "images": [
+        {
+          "alt": "Fallen Tear: The Ascension",
+          "src": "/storage/thumbnails/fallen-tear-the-ascension.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 23 March 2026",
+      "url": "https://www.metroidvania.gg/Game/nothing-beyond-this-point",
+      "images": [
+        {
+          "alt": "Nothing Beyond This Point",
+          "src": "/storage/thumbnails/nothing-beyond-this-point.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 3 November 2026",
+      "url": "https://www.metroidvania.gg/Game/angel-guardian",
+      "images": [
+        {
+          "alt": "Angel Guardian",
+          "src": "/storage/thumbnails/angel-guardian.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 25 March 2026",
+      "url": "https://www.metroidvania.gg/Game/vanishing-starlight",
+      "images": [
+        {
+          "alt": "Vanishing Starlight",
+          "src": "/storage/thumbnails/vanishing-starlight.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 9 September 2026",
+      "url": "https://www.metroidvania.gg/Game/barbarian-saga-the-beastmaster",
+      "images": [
+        {
+          "alt": "Barbarian Saga: The Beastmaster",
+          "src": "/storage/thumbnails/barbarian-saga-the-beastmaster.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 13 April 2026",
+      "url": "https://www.metroidvania.gg/Game/before-i-go",
+      "images": [
+        {
+          "alt": "BEFORE I GO",
+          "src": "/storage/thumbnails/before-i-go.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 24 February 2026",
+      "url": "https://www.metroidvania.gg/Game/emberbane",
+      "images": [
+        {
+          "alt": "Emberbane",
+          "src": "/storage/thumbnails/emberbane.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 22 October 2026",
+      "url": "https://www.metroidvania.gg/Game/moadra",
+      "images": [
+        {
+          "alt": "Moadra",
+          "src": "/storage/thumbnails/moadra.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 22 September 2026",
+      "url": "https://www.metroidvania.gg/Game/well-dweller",
+      "images": [
+        {
+          "alt": "Well Dweller",
+          "src": "/storage/thumbnails/well-dweller.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 20 January 2026",
+      "url": "https://www.metroidvania.gg/Game/mio-memories-in-orbit",
+      "images": [
+        {
+          "alt": "MIO: Memories in Orbit",
+          "src": "/storage/thumbnails/mio-memories-in-orbit.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: September 2026",
+      "url": "https://www.metroidvania.gg/Game/overon",
+      "images": [
+        {
+          "alt": "Overon",
+          "src": "/storage/thumbnails/overon.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 28 August 2026",
+      "url": "https://www.metroidvania.gg/Game/divinum",
+      "images": [
+        {
+          "alt": "Divinum",
+          "src": "/storage/thumbnails/divinum.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 2026",
+      "url": "https://www.metroidvania.gg/Game/echoes-of-the-outworlder",
+      "images": [
+        {
+          "alt": "Echoes of the Outworlder",
+          "src": "/storage/thumbnails/echoes-of-the-outworlder.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 3 December 2026",
+      "url": "https://www.metroidvania.gg/Game/aeterna-lucis",
+      "images": [
+        {
+          "alt": "Aeterna Lucis",
+          "src": "/storage/thumbnails/aeterna-lucis.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Release date: 2026 In Early Access",
+      "url": "https://www.metroidvania.gg/Game/faeland",
+      "images": [
+        {
+          "alt": "Faeland",
+          "src": "/storage/thumbnails/faeland.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Ko-Fi Badge",
+      "url": "https://ko-fi.com/metroidvaniagg",
+      "images": [
+        {
+          "alt": "Ko-Fi Badge",
+          "src": "/assets/kofi_logo.webp"
+        }
+      ]
+    },
+    {
+      "label": "Demajen's Metroidvania Maps",
+      "url": "https://demajen.co.uk",
+      "images": []
+    },
+    {
+      "label": "Metroidvania Subreddit",
+      "url": "https://reddit.com/r/metroidvania/",
+      "images": []
+    },
+    {
+      "label": "Xoneris",
+      "url": "https://twitter.com/xoneris",
+      "images": []
+    }
+  ],
+  "embeddedData": []
+}
