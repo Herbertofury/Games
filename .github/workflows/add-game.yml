@@ -9,7 +9,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   add:
-    if: github.event.sender.login == github.repository_owner && startsWith(github.event.issue.title, '[Game]')
+    if: github.event.sender.login == github.repository_owner && (startsWith(github.event.issue.title, '[Game]') || startsWith(github.event.issue.title, 'Correction:'))
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
