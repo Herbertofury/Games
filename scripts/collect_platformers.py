@@ -36,8 +36,30 @@ GROUPS = {
 }
 
 def norm(value: str) -> str:
-    value = unicodedata.normalize('NFKD', value.casefold().replace('&', 'and'))
+    value = unicodedata.normalize('NFKD', value.replace('\u2122', '').replace('\u00ae', '').replace('\u00a9', '').casefold().replace('&', 'and'))
     return ''.join(c for c in value if c.isascii() and c.isalnum())
+
+# Reviewed current-title aliases preserve stable app identities.
+ALIASES.update({
+    'Big Hops': ['Big Hops Together'],
+    'Demon Turf': ['Demon Turf: Queens Edition'],
+    'kuso': ['LOVE 2: kuso'],
+    'Lone Fungus 2': ['Lone Fungus: Melody of Spores'],
+    'Nikoderiko: The Magical World': ["Nikoderiko: The Magical World - Director's Cut", 'Nikoderiko: The Magical World \u2014 Director\u2019s Cut'],
+})
+# Avoid a burst of public store requests. Reviews use a separate host.
+import time
+_get_unthrottled = steam.get
+_request_lock = threading.Lock()
+_next_request = [0.0]
+def polite_get(url):
+    if urllib.parse.urlsplit(url).hostname == 'store.steampowered.com':
+        with _request_lock:
+            delay = max(0.0, _next_request[0] - time.monotonic())
+            if delay: time.sleep(delay)
+            _next_request[0] = time.monotonic() + 0.75
+    return _get_unthrottled(url)
+steam.get = polite_get
 
 def accepted(seed, title):
     return norm(title) in {norm(n) for n in [seed['name']] + ALIASES.get(seed['name'], [])}

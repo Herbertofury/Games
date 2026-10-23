@@ -1,0 +1,1750 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T17:09:08.300141+00:00",
+  "hub": "Platformers",
+  "items": [
+    {
+      "id": "external:astro-bot",
+      "appid": null,
+      "seedId": "external:astro-bot",
+      "seedName": "ASTRO BOT",
+      "name": "ASTRO BOT",
+      "collection": "3D worlds & collectathons",
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "A concentrated tour of tactile 3D stage design: movement toys and power-ups introduce a new physical idea before exhausting the old one. A first stop for the authored-course side of the genre.",
+      "curatorWhy": "A concentrated tour of tactile 3D stage design: movement toys and power-ups introduce a new physical idea before exhausting the old one. A first stop for the authored-course side of the genre.",
+      "recommendationCaution": "PS5 game, not ASTRO's Playroom and not the older VR Rescue Mission. Hardware requirements and accessibility options should be checked on this exact product page.",
+      "requirements": "PS5 game, not ASTRO's Playroom and not the older VR Rescue Mission. Hardware requirements and accessibility options should be checked on this exact product page.",
+      "developers": [],
+      "publishers": [
+        "PlayStation"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "3D worlds & collectathons",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "PlayStation 5"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2024-09-06",
+      "releaseLabel": "2024-09-06",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.playstation.com/en-us/games/astro-bot/",
+      "steamUrl": null,
+      "website": "https://www.playstation.com/en-us/games/astro-bot/",
+      "provider": "PlayStation",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "PlayStation",
+          "url": "https://www.playstation.com/en-us/games/astro-bot/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "PlayStation",
+          "url": "https://www.playstation.com/en-us/games/astro-bot/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.playstation.com/en-us/games/astro-bot/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "3D worlds & collectathons",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "PS5 game, not ASTRO's Playroom and not the older VR Rescue Mission. Hardware requirements and accessibility options should be checked on this exact product page.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "93c6daea8af3d90ce592fee2bbcd584409a3665f628c4a4b63b57d410cc22af1"
+    },
+    {
+      "id": "external:astros-playroom",
+      "appid": null,
+      "seedId": "external:astros-playroom",
+      "seedName": "ASTRO's Playroom",
+      "name": "ASTRO's Playroom",
+      "collection": "3D worlds & collectathons",
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A compact platforming introduction built around the PS5 controller. Especially useful as a low-commitment way to find out whether tactile, playful 3D traversal is your thing.",
+      "curatorWhy": "A compact platforming introduction built around the PS5 controller. Especially useful as a low-commitment way to find out whether tactile, playful 3D traversal is your thing.",
+      "recommendationCaution": "Included for PS5 owners, not a free PC download. A separate, smaller game from ASTRO BOT.",
+      "requirements": "Included for PS5 owners, not a free PC download. A separate, smaller game from ASTRO BOT.",
+      "developers": [],
+      "publishers": [
+        "PlayStation"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "3D worlds & collectathons",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "PlayStation 5"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": true,
+      "releaseDate": "2020-11-12",
+      "releaseLabel": "2020-11-12",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1908/3d17c33239dab88c7e2f24af50140b3f6fa555e6030d5704.png",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.playstation.com/en-us/games/astros-playroom/",
+      "steamUrl": null,
+      "website": "https://www.playstation.com/en-us/games/astros-playroom/",
+      "provider": "PlayStation",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "PlayStation",
+          "url": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "PlayStation",
+          "url": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.playstation.com/en-us/games/astros-playroom/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "3D worlds & collectathons",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Included for PS5 owners, not a free PC download. A separate, smaller game from ASTRO BOT.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "cf7852e4b45aaf82b6076387155cbc2146297cdbca1c0305ae62a989f62c4c62"
+    },
+    {
+      "id": "external:donkey-kong-bananza",
+      "appid": null,
+      "seedId": "external:donkey-kong-bananza",
+      "seedName": "Donkey Kong Bananza",
+      "name": "Donkey Kong Bananza",
+      "collection": "3D worlds & collectathons",
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "Terrain destruction changes how you read a 3D space: the route can be something you excavate rather than a path you merely follow. A major counterpoint to precision corridor platformers.",
+      "curatorWhy": "Terrain destruction changes how you read a 3D space: the route can be something you excavate rather than a path you merely follow. A major counterpoint to precision corridor platformers.",
+      "recommendationCaution": "Switch 2 required. DK Island & Emerald Rush is additional content, not another full base-game entry or an automatic inclusion with every purchase.",
+      "requirements": "Switch 2 required. DK Island & Emerald Rush is additional content, not another full base-game entry or an automatic inclusion with every purchase.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "3D worlds & collectathons",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch 2"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2025-07-17",
+      "releaseLabel": "2025-07-17",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000096809/3c8219fbdcd3bdd0ebd6239cf32c651fe10f2157aa7730fcc6a7d96cd27460e5",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "3D worlds & collectathons",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Switch 2 required. DK Island & Emerald Rush is additional content, not another full base-game entry or an automatic inclusion with every purchase.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "3d1f6cff60560243132dddb5ab0547d52aa8d6b26e479b7c5a0c8bc8c504e188"
+    },
+    {
+      "id": "external:super-mario-odyssey",
+      "appid": null,
+      "seedId": "external:super-mario-odyssey",
+      "seedName": "Super Mario Odyssey",
+      "name": "Super Mario Odyssey",
+      "collection": "3D worlds & collectathons",
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "An essential reference for expressive 3D movement, layered secrets and transformations that reinterpret a familiar landscape. The main route and completionist route serve different appetites.",
+      "curatorWhy": "An essential reference for expressive 3D movement, layered secrets and transformations that reinterpret a familiar landscape. The main route and completionist route serve different appetites.",
+      "recommendationCaution": "Original Switch title; current Switch 2 enhancements do not turn its original release into a 2026 game. The second-player role is not a second full Mario campaign.",
+      "requirements": "Original Switch title; current Switch 2 enhancements do not turn its original release into a 2026 game. The second-player role is not a second full Mario campaign.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "3D worlds & collectathons",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2017-10-27",
+      "releaseLabel": "2017-10-27",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "3D worlds & collectathons",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Original Switch title; current Switch 2 enhancements do not turn its original release into a 2026 game. The second-player role is not a second full Mario campaign.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "ed72198234b281827f28e22e081671d7fe8afec143f602ff1749b14ea0da0eb1"
+    },
+    {
+      "id": "external:super-mario-3d-world-bowsers-fury",
+      "appid": null,
+      "seedId": "external:super-mario-3d-world-bowsers-fury",
+      "seedName": "Super Mario 3D World + Bowser's Fury",
+      "name": "Super Mario 3D World + Bowser's Fury",
+      "collection": "Co-op & playful chaos",
+      "collections": [
+        "Co-op & playful chaos"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "Two useful approaches in one edition: tightly authored cooperative 3D courses and a smaller connected playground in Bowser's Fury. A particularly strong comparison point for group-friendly level design.",
+      "curatorWhy": "Two useful approaches in one edition: tightly authored cooperative 3D courses and a smaller connected playground in Bowser's Fury. A particularly strong comparison point for group-friendly level design.",
+      "recommendationCaution": "The two adventures have different multiplayer structures. This is the 2021 enhanced package, not the original Wii U edition; read the mode-specific player requirements.",
+      "requirements": "The two adventures have different multiplayer structures. This is the 2021 enhanced package, not the original Wii U edition; read the mode-specific player requirements.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Co-op & playful chaos",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2021-02-12",
+      "releaseLabel": "2021-02-12",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Co-op & playful chaos",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "The two adventures have different multiplayer structures. This is the 2021 enhanced package, not the original Wii U edition; read the mode-specific player requirements.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "e6f4ec40c58130853e54c0c61a70a6c85505eadaed0632d21f5c6f37d8dbc142"
+    },
+    {
+      "id": "external:super-mario-galaxy-collection",
+      "appid": null,
+      "seedId": "external:super-mario-galaxy-collection",
+      "seedName": "Super Mario Galaxy + Super Mario Galaxy 2",
+      "name": "Super Mario Galaxy + Super Mario Galaxy 2",
+      "collection": "3D worlds & collectathons",
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "Gravity, curved surfaces and small planetary stages make this a valuable alternative to sprawling collectathons. The package preserves two distinct campaigns rather than pretending a bundle is a newly designed sequel.",
+      "curatorWhy": "Gravity, curved surfaces and small planetary stages make this a valuable alternative to sprawling collectathons. The package preserves two distinct campaigns rather than pretending a bundle is a newly designed sequel.",
+      "recommendationCaution": "Enhanced collection of older games. The listed 2025 date is this package's release; the constituent games and bundle are not counted again as three discoveries.",
+      "requirements": "Enhanced collection of older games. The listed 2025 date is this package's release; the constituent games and bundle are not counted again as three discoveries.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "3D worlds & collectathons",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2025-10-02",
+      "releaseLabel": "2025-10-02",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70070000030770/0acaf709e29c57e125e90032853562562843757d238fec2815a52ec0409c6fd1",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+      "provider": "Nintendo",
+      "kind": "Classic collection",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "3D worlds & collectathons",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Enhanced collection of older games. The listed 2025 date is this package's release; the constituent games and bundle are not counted again as three discoveries.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "releaseNote": "2025 enhanced package of the two earlier Galaxy games, counted once.",
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "e1e68697128e1da41dbaf7dd4170bb4949976167971fb7cfe96070f35abe056f"
+    },
+    {
+      "id": "external:super-mario-bros-wonder",
+      "appid": null,
+      "seedId": "external:super-mario-bros-wonder",
+      "seedName": "Super Mario Bros. Wonder",
+      "name": "Super Mario Bros. Wonder",
+      "collection": "Colorful & approachable",
+      "collections": [
+        "Colorful & approachable"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "A strong modern 2D starting point where level transformations interrupt expectations and badges change the movement vocabulary. Optional challenges leave room to grow beyond the welcoming first impression.",
+      "curatorWhy": "A strong modern 2D starting point where level transformations interrupt expectations and badges change the movement vocabulary. Optional challenges leave room to grow beyond the welcoming first impression.",
+      "recommendationCaution": "Local cooperative play and online features are not identical. This record is the original Switch game; consult the exact edition before buying any later upgrade or package.",
+      "requirements": "Local cooperative play and online features are not identical. This record is the original Switch game; consult the exact edition before buying any later upgrade or package.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Colorful & approachable",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2023-10-20",
+      "releaseLabel": "2023-10-20",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Colorful & approachable",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Local cooperative play and online features are not identical. This record is the original Switch game; consult the exact edition before buying any later upgrade or package.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "ad4b6f1cb445e4800cd08fa267663862c019e4ffc9cd7f117f34f09fb1d74473"
+    },
+    {
+      "id": "external:super-mario-maker-2",
+      "appid": null,
+      "seedId": "external:super-mario-maker-2",
+      "seedName": "Super Mario Maker 2",
+      "name": "Super Mario Maker 2",
+      "collection": "Co-op & playful chaos",
+      "collections": [
+        "Co-op & playful chaos"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "The route for players who want to study, create and exchange levels as well as finish them. Built-in courses offer an authored starting point before the quality and difficulty variability of user creations.",
+      "curatorWhy": "The route for players who want to study, create and exchange levels as well as finish them. Built-in courses offer an authored starting point before the quality and difficulty variability of user creations.",
+      "recommendationCaution": "Nintendo Switch Online is required for relevant online sharing and multiplayer features. User-generated courses are not uniformly curated, accessible or balanced.",
+      "requirements": "Nintendo Switch Online is required for relevant online sharing and multiplayer features. User-generated courses are not uniformly curated, accessible or balanced.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Co-op & playful chaos",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2019-06-28",
+      "releaseLabel": "2019-06-28",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000018694/aac100206f1c50349fd2c48595e55603259ae60a4ab4eefc28e71f41efb78b97",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Co-op & playful chaos",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Nintendo Switch Online is required for relevant online sharing and multiplayer features. User-generated courses are not uniformly curated, accessible or balanced.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "66874c3c07ec287e34f831a2423de73f08849fea6c33b061c64b177fc61b35b8"
+    },
+    {
+      "id": "external:dk-tropical-freeze",
+      "appid": null,
+      "seedId": "external:dk-tropical-freeze",
+      "seedName": "Donkey Kong Country: Tropical Freeze",
+      "name": "Donkey Kong Country: Tropical Freeze",
+      "collection": "Action & retro adventures",
+      "collections": [
+        "Action & retro adventures"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "A priority pick for players who enjoy weighty momentum, elaborate moving environments and secrets that reward committing to a line. A good bridge from colorful presentation to demanding 2D execution.",
+      "curatorWhy": "A priority pick for players who enjoy weighty momentum, elaborate moving environments and secrets that reward committing to a line. A good bridge from colorful presentation to demanding 2D execution.",
+      "recommendationCaution": "This date is the Switch edition of an older game. Its friendly presentation should not be mistaken for uniformly easy late-game challenges.",
+      "requirements": "This date is the Switch edition of an older game. Its friendly presentation should not be mistaken for uniformly easy late-game challenges.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Action & retro adventures",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2018-05-04",
+      "releaseLabel": "2018-05-04",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001339/d01cba67eb98fec32ac98027c07fa8d92dd52773565bfadc69f817c860e34b8a",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Action & retro adventures",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "This date is the Switch edition of an older game. Its friendly presentation should not be mistaken for uniformly easy late-game challenges.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "ac334375c3eaf612196099ec38fd361ed5f05f87c2ffc82315c407aa044682b3"
+    },
+    {
+      "id": "external:dk-country-returns-hd",
+      "appid": null,
+      "seedId": "external:dk-country-returns-hd",
+      "seedName": "Donkey Kong Country Returns HD",
+      "name": "Donkey Kong Country Returns HD",
+      "collection": "Action & retro adventures",
+      "collections": [
+        "Action & retro adventures"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "Barrel routes, mine-cart timing and environmental spectacle make an important classic campaign available in a newer edition. Best considered alongside Tropical Freeze, not confused with Bananza's 3D destruction.",
+      "curatorWhy": "Barrel routes, mine-cart timing and environmental spectacle make an important classic campaign available in a newer edition. Best considered alongside Tropical Freeze, not confused with Bananza's 3D destruction.",
+      "recommendationCaution": "HD edition of the earlier Wii game, including additional stages from the 3DS version. The 2025 storefront release does not mean this is a wholly new original campaign.",
+      "requirements": "HD edition of the earlier Wii game, including additional stages from the 3DS version. The 2025 storefront release does not mean this is a wholly new original campaign.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Action & retro adventures",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2025-01-16",
+      "releaseLabel": "2025-01-16",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000084604/50b3b71a75022699ab39d631df7a6b1571df102f96d5f10e6267cbecadfa4cd6",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Action & retro adventures",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "HD edition of the earlier Wii game, including additional stages from the 3DS version. The 2025 storefront release does not mean this is a wholly new original campaign.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "b25667d2d1c909541c7073e5ec02fd83070c8445587adb6f43170173614d1c3c"
+    },
+    {
+      "id": "external:yoshi-mysterious-book",
+      "appid": null,
+      "seedId": "external:yoshi-mysterious-book",
+      "seedName": "Yoshi and the Mysterious Book",
+      "name": "Yoshi and the Mysterious Book",
+      "collection": "Colorful & approachable",
+      "collections": [
+        "Colorful & approachable"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A current discovery-led direction for Yoshi: observe and experiment with creatures inside a storybook rather than approaching every screen as a pure speed test.",
+      "curatorWhy": "A current discovery-led direction for Yoshi: observe and experiment with creatures inside a storybook rather than approaching every screen as a pure speed test.",
+      "recommendationCaution": "Switch 2 required; this is a released 2026 game, not a speculative watchlist item. The official listing describes a single-player experience.",
+      "requirements": "Switch 2 required; this is a released 2026 game, not a speculative watchlist item. The official listing describes a single-player experience.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Colorful & approachable",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch 2"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2026-05-21",
+      "releaseLabel": "2026-05-21",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119859/74720e9755d3cc39e312e33d6c985a815ed352217cbcdeeaeabb98387767c82f",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Colorful & approachable",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Switch 2 required; this is a released 2026 game, not a speculative watchlist item. The official listing describes a single-player experience.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "698fcfc97b909ad3a48f426e291aa09010beafaea50b507565cc7be2e3d1836c"
+    },
+    {
+      "id": "external:yoshi-crafted-world",
+      "appid": null,
+      "seedId": "external:yoshi-crafted-world",
+      "seedName": "Yoshi's Crafted World",
+      "name": "Yoshi's Crafted World",
+      "collection": "Colorful & approachable",
+      "collections": [
+        "Colorful & approachable"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 8,
+      "editorialFit": 8,
+      "summary": "Handcrafted-looking dioramas, eggs and hidden-object searching make this a gentler exploration route. Useful for players who enjoy noticing details more than optimizing a movement combo.",
+      "curatorWhy": "Handcrafted-looking dioramas, eggs and hidden-object searching make this a gentler exploration route. Useful for players who enjoy noticing details more than optimizing a movement combo.",
+      "recommendationCaution": "The collection hunt and repeated stage perspectives are part of the experience; not the first choice for players seeking relentless precision difficulty.",
+      "requirements": "The collection hunt and repeated stage perspectives are part of the experience; not the first choice for players seeking relentless precision difficulty.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Colorful & approachable",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2019-03-29",
+      "releaseLabel": "2019-03-29",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000734/db8a252a84301594bdc4eed1be3dbd8d3de5086bc79f6ee1f8060c9a5630101f",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Colorful & approachable",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "The collection hunt and repeated stage perspectives are part of the experience; not the first choice for players seeking relentless precision difficulty.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "f96ec122752e4783687bc4f5d56a14d6b071d4d52ef7646233dbd997f0770d9f"
+    },
+    {
+      "id": "external:kirby-forgotten-land",
+      "appid": null,
+      "seedId": "external:kirby-forgotten-land",
+      "seedName": "Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World",
+      "name": "Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World",
+      "collection": "3D worlds & collectathons",
+      "collections": [
+        "3D worlds & collectathons"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "Accessible 3D stages built around Kirby's changing abilities, with the expanded edition providing another reason to revisit its playful spaces. A good alternative to camera-demanding or punishing collectathons.",
+      "curatorWhy": "Accessible 3D stages built around Kirby's changing abilities, with the expanded edition providing another reason to revisit its playful spaces. A good alternative to camera-demanding or punishing collectathons.",
+      "recommendationCaution": "Enhanced edition of the 2022 original. This complete package and the separate upgrade pack are different purchases; the upgrade requires the base game. This edition requires Switch 2.",
+      "requirements": "Enhanced edition of the 2022 original. This complete package and the separate upgrade pack are different purchases; the upgrade requires the base game. This edition requires Switch 2.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "3D worlds & collectathons",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch 2"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2025-08-28",
+      "releaseLabel": "2025-08-28",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000096829/0a06bf277f1eb585fcbb7ddeb4f70014fd1c860d326eb33c8accf4d4827ade72",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "3D worlds & collectathons",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Enhanced edition of the 2022 original. This complete package and the separate upgrade pack are different purchases; the upgrade requires the base game. This edition requires Switch 2.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "originalReleaseYear": 2022,
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "dcb817fd9f43b1238045d89676023fab222d194534939e67642a87b63f5b1e22"
+    },
+    {
+      "id": "external:kirby-return-dreamland-deluxe",
+      "appid": null,
+      "seedId": "external:kirby-return-dreamland-deluxe",
+      "seedName": "Kirby's Return to Dream Land Deluxe",
+      "name": "Kirby's Return to Dream Land Deluxe",
+      "collection": "Co-op & playful chaos",
+      "collections": [
+        "Co-op & playful chaos"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A cooperative 2D adventure with copy abilities and an expanded supporting package. A sensible group choice when playful experimentation matters more than everyone performing perfectly.",
+      "curatorWhy": "A cooperative 2D adventure with copy abilities and an expanded supporting package. A sensible group choice when playful experimentation matters more than everyone performing perfectly.",
+      "recommendationCaution": "Deluxe edition of an older campaign. Four-player local play does not imply four-player online campaign co-op; verify the mode you intend to use.",
+      "requirements": "Deluxe edition of an older campaign. Four-player local play does not imply four-player online campaign co-op; verify the mode you intend to use.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Co-op & playful chaos",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2023-02-24",
+      "releaseLabel": "2023-02-24",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Co-op & playful chaos",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Deluxe edition of an older campaign. Four-player local play does not imply four-player online campaign co-op; verify the mode you intend to use.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "ccaa5234a8fbba48ba667af2a285fbfa26a48567593bfaa3cb8b95666d307e7d"
+    },
+    {
+      "id": "external:metroid-dread",
+      "appid": null,
+      "seedId": "external:metroid-dread",
+      "seedName": "Metroid Dread",
+      "name": "Metroid Dread",
+      "collection": "Exploration & Metroidvanias",
+      "collections": [
+        "Exploration & Metroidvanias"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "Fluid movement, ability-gated route design and tense encounters make a central console reference for the exploration-platformer branch. Best for players who want traversal and combat to reinforce each other.",
+      "curatorWhy": "Fluid movement, ability-gated route design and tense encounters make a central console reference for the exploration-platformer branch. Best for players who want traversal and combat to reinforce each other.",
+      "recommendationCaution": "Single-player, combat-heavy and not a gentle exploration walk. This is an action-exploration game, not a stage-by-stage Mario-style platformer.",
+      "requirements": "Single-player, combat-heavy and not a gentle exploration walk. This is an action-exploration game, not a stage-by-stage Mario-style platformer.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Exploration & Metroidvanias",
+        "Console source"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2021-10-08",
+      "releaseLabel": "2021-10-08",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Exploration & Metroidvanias",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Single-player, combat-heavy and not a gentle exploration walk. This is an action-exploration game, not a stage-by-stage Mario-style platformer.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "61b9996cfd7d2ae107c1b8b52915038e11ab29c9d055c4f59148893f731849ca"
+    },
+    {
+      "id": "external:celeste-64",
+      "appid": null,
+      "seedId": "external:celeste-64",
+      "seedName": "Celeste 64: Fragments of the Mountain",
+      "name": "Celeste 64: Fragments of the Mountain",
+      "collection": "Free creator releases",
+      "collections": [
+        "Free creator releases"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A small free 3D experiment that translates Celeste's appetite for movement challenges into a compact anniversary playground. Worth trying for its concentrated traversal ideas rather than expecting a full commercial sequel.",
+      "curatorWhy": "A small free 3D experiment that translates Celeste's appetite for movement challenges into a compact anniversary playground. Worth trying for its concentrated traversal ideas rather than expecting a full commercial sequel.",
+      "recommendationCaution": "Short standalone anniversary game. A recent page update is not its original release date; controller recommended by the creator. Sources and available builds are on the exact creator page.",
+      "requirements": "Short standalone anniversary game. A recent page update is not its original release date; controller recommended by the creator. Sources and available builds are on the exact creator page.",
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Free creator releases",
+        "Free creator release"
+      ],
+      "features": [],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": true,
+      "releaseDate": "2024-01-30",
+      "releaseLabel": "2024-01-30",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://img.itch.zone/aW1nLzE0ODYxNjEyLnBuZw==/original/kGrp4c.png",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://maddymakesgamesinc.itch.io/celeste64",
+      "steamUrl": null,
+      "website": "https://maddymakesgamesinc.itch.io/celeste64",
+      "provider": "itch.io",
+      "kind": "Standalone game",
+      "genreScope": "Free creator platformer",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://maddymakesgamesinc.itch.io/celeste64",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://maddymakesgamesinc.itch.io/celeste64",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Creator release chronology",
+          "url": "https://maddymakesgames.com/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://maddymakesgamesinc.itch.io/celeste64",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Free creator releases",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Short standalone anniversary game. A recent page update is not its original release date; controller recommended by the creator. Sources and available builds are on the exact creator page.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "ec3f5aef0dbb469374723cc96f977f28fc9e9cc836223b5f4aaf2885b40be722"
+    },
+    {
+      "id": "external:celeste-classic",
+      "appid": null,
+      "seedId": "external:celeste-classic",
+      "seedName": "CELESTE Classic",
+      "name": "CELESTE Classic",
+      "collection": "Free creator releases",
+      "collections": [
+        "Free creator releases"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A compact browser-playable look at the original mountain-climbing idea. Its small scale makes the movement loop easy to inspect without suggesting it replaces the later commercial Celeste.",
+      "curatorWhy": "A compact browser-playable look at the original mountain-climbing idea. Its small scale makes the movement loop easy to inspect without suggesting it replaces the later commercial Celeste.",
+      "recommendationCaution": "PICO-8 original, not a free download of the full 2018 commercial game. Original date is left unspecified here rather than copied from a recent page update.",
+      "requirements": "PICO-8 original, not a free download of the full 2018 commercial game. Original date is left unspecified here rather than copied from a recent page update.",
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Free creator releases",
+        "Free creator release"
+      ],
+      "features": [],
+      "platforms": [
+        "Browser"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": true,
+      "releaseDate": null,
+      "releaseLabel": "Original date not independently recorded",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://img.itch.zone/aW1hZ2UvMzEzMTgvMTMzNjQyLmdpZg==/original/vIUIrE.gif",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://maddymakesgamesinc.itch.io/celesteclassic",
+      "steamUrl": null,
+      "website": "https://maddymakesgamesinc.itch.io/celesteclassic",
+      "provider": "itch.io",
+      "kind": "Standalone game",
+      "genreScope": "Free creator platformer",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://maddymakesgamesinc.itch.io/celesteclassic",
+          "kind": "browser",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://maddymakesgamesinc.itch.io/celesteclassic",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://maddymakesgamesinc.itch.io/celesteclassic",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Free creator releases",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "PICO-8 original, not a free download of the full 2018 commercial game. Original date is left unspecified here rather than copied from a recent page update.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "e9a4c7a74a5a30e8f4d6cfa981e456f4137f5fcc5a0a52f9f962ec12292b882c"
+    },
+    {
+      "id": "external:celeste-classic-2",
+      "appid": null,
+      "seedId": "external:celeste-classic-2",
+      "seedName": "Celeste Classic 2: Lani's Trek",
+      "name": "Celeste Classic 2: Lani's Trek",
+      "collection": "Free creator releases",
+      "collections": [
+        "Free creator releases"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A concise grappling-focused variation that demonstrates how changing a movement tool can produce a different platforming language inside a tiny game.",
+      "curatorWhy": "A concise grappling-focused variation that demonstrates how changing a movement tool can produce a different platforming language inside a tiny game.",
+      "recommendationCaution": "Free PICO-8 anniversary game, not a numbered commercial Celeste sequel. Native host ratings, when available, retain their original five-point scale.",
+      "requirements": "Free PICO-8 anniversary game, not a numbered commercial Celeste sequel. Native host ratings, when available, retain their original five-point scale.",
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Free creator releases",
+        "Free creator release"
+      ],
+      "features": [],
+      "platforms": [
+        "Browser",
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": true,
+      "releaseDate": "2021-01-25",
+      "releaseLabel": "2021-01-25",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://img.itch.zone/aW1nLzUwNTA4NDAucG5n/original/5KxkXW.png",
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+      "steamUrl": null,
+      "website": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+      "provider": "itch.io",
+      "kind": "Standalone game",
+      "genreScope": "Free creator platformer",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+          "kind": "browser",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Creator release chronology",
+          "url": "https://maddymakesgames.com/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Exact-page Open Graph artwork",
+          "url": "https://maddymakesgamesinc.itch.io/celeste-classic-2",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:09:08.300141+00:00"
+        }
+      ],
+      "warnings": [
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Free creator releases",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Free PICO-8 anniversary game, not a numbered commercial Celeste sequel. Native host ratings, when available, retain their original five-point scale.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "39ee4048ea4de6a99ddbeeceef5093f4d36953fa4c1e7b32b3b6488666cc011f"
+    },
+    {
+      "id": "external:supertux",
+      "appid": null,
+      "seedId": "external:supertux",
+      "seedName": "SuperTux",
+      "name": "SuperTux",
+      "collection": "Free creator releases",
+      "collections": [
+        "Free creator releases"
+      ],
+      "hubs": [
+        "Platformers"
+      ],
+      "fit": 8,
+      "editorialFit": 8,
+      "summary": "A free, open-source traditional platformer with a long-lived community and an included route into custom levels. A useful choice for exploring platforming without a store purchase.",
+      "curatorWhy": "A free, open-source traditional platformer with a long-lived community and an included route into custom levels. A useful choice for exploring platforming without a store purchase.",
+      "recommendationCaution": "Choose a stable build from the official download page; nightly builds and older ports have different compatibility. A new version number is not an original release date.",
+      "requirements": "Choose a stable build from the official download page; nightly builds and older ports have different compatibility. A new version number is not an original release date.",
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "Platformer"
+      ],
+      "tags": [
+        "Platformer",
+        "Free creator releases",
+        "Free creator release"
+      ],
+      "features": [],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": true,
+      "releaseDate": null,
+      "releaseLabel": "Original date not independently recorded",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "primaryUrl": "https://www.supertux.org/",
+      "steamUrl": null,
+      "website": "https://www.supertux.org/",
+      "provider": "Official site",
+      "kind": "Standalone game",
+      "genreScope": "Free creator platformer",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T00:00:00+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "provider": "Official site",
+          "url": "https://www.supertux.org/",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Official downloads",
+          "url": "https://www.supertux.org/download.html",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Official site",
+          "url": "https://www.supertux.org/",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "warnings": [
+        "Exact artwork not collected; the official project page remains available.",
+        "No independently parsed embedded trailer; use the official page for video."
+      ],
+      "platformerInfo": {
+        "focus": "Free creator releases",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Choose a stable build from the official download page; nightly builds and older ports have different compatibility. A new version number is not an original release date.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game."
+      },
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "b11fc9a5828d23cfee10ab7ae71e5c3c464623b052a390461de5f620d2ad66f0"
+    }
+  ]
+}
