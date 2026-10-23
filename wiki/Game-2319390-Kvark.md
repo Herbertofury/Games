@@ -14,7 +14,7 @@ Kvark is an FPS game set in a fictional version of the 80s Czech Republic. The p
 | Release | Oct 3, 2024 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Latest Past, Perun Creative |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

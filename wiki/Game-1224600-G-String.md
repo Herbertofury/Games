@@ -14,7 +14,7 @@ Slip into the Standard Issue Biosuit as Myo Hyori, a gifted Korean teenage girl 
 | Release | Oct 16, 2020 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Eyaura |
 | Price snapshot | $17.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |
@@ -24,9 +24,9 @@ Slip into the Standard Issue Biosuit as Myo Hyori, a gifted Korean teenage girl 
 - [Steam: store](https://store.steampowered.com/app/1224600/)
 - [ModDB - original mod project: project](https://www.moddb.com/mods/g-string) | Creator-linked project history. Do not treat it as a license for the commercial Steam edition.
 - [Patreon: support](https://www.patreon.com/eyaura) | Creator support linked from the game website supplied by Steam
+- [ModDB - original mod project: project](https://www.moddb.com/mods/g-string?filter=t&rating=8) | Creator-linked project history. Do not treat it as a license for the commercial Steam edition.
 - [ModDB - original mod project: project](https://rss.moddb.com/mods/g-string/articles/feed/rss.xml) | Creator-linked project history. Do not treat it as a license for the commercial Steam edition.
 - [ModDB - original mod project: project](https://rss.moddb.com/mods/g-string/downloads/feed/rss.xml) | Creator-linked project history. Do not treat it as a license for the commercial Steam edition.
-- [ModDB - original mod project: project](https://www.moddb.com/mods/g-string?filter=t&rating=8) | Creator-linked project history. Do not treat it as a license for the commercial Steam edition.
 
 **Store coverage:** Official GOG catalog, itch.io title search, and game website outbound links. No-result is not proof a store does not carry the game. Last checked: 2026-10-23T07:14:49.517424+00:00.
 

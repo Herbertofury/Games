@@ -14,7 +14,7 @@ DOOM: The Dark Ages is the prequel to the critically acclaimed DOOM (2016) and D
 | Release | May 14, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | id Software |
 | Price snapshot | $49.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

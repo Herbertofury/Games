@@ -14,7 +14,7 @@ Wizordum is a retro FPS that puts you in the role of a Mage on a quest to track 
 | Release | Apr 29, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Emberheart Games |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

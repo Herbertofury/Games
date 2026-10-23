@@ -18,7 +18,7 @@ A niche horror-FPS curiosity with mixed player reception. Keep it in the deep-cu
 | Release | Sep 23, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | nfoPRINCE, Terminist Arcade |
 | Price snapshot | $14.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

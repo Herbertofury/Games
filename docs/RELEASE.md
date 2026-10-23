@@ -1,18 +1,15 @@
-# Games - Living Library 1.2
+# Games: the RTS command center
 
-Completes the Boomer Shooters media and storefront expansion in the existing library.
+This release extends the same living library to 448 unique records, preserving all 170 roguelite and 150 shooter entries (two overlap) and adding 130 real-time strategy entries in 14 collections.
 
-**318 unique games. 170 original roguelites preserved. 150 shooter-hub entries, with two cross-genre overlaps. Every shooter has artwork, an embedded video source, and direct distribution links.**
+The RTS hub centers on Command & Conquer: Generals - Zero Hour. It includes C&C-style base builders, large-army RTS, modern tactical neighbors, free/open projects, historical/fantasy RTS, space warfare, survival defense, and carefully labelled mod conversions. Every RTS entry has artwork, exact video-source metadata, and confirmed source buttons.
 
-Adds the visual native-wiki Media Atlas for every shooter, per-card source/video counts, source and credit links underneath videos, explicit edition warnings, and an all-sources panel. The 255 verified direct links across the shooter hub include Steam, GOG, itch.io, Epic, ModDB, Slipseer, IndieDB, Newgrounds, creator pages, and 14 Patreon support references. Support is not a purchase. Demo, archived demo, original mod, and commercial remake links are distinct. The 126-game alternate-store pass records unmatched candidates rather than claiming unavailable stores do not exist.
+Commander briefs distinguish base construction and AI/skirmish evidence. Original dates and storefront editions remain separate. Upcoming games, development builds, shareware, weak-review discoveries, and paid base-game requirements are visible rather than hidden.
 
-All existing organization remains: rating and recommendation sorting, release filters, hidden gems, provider filters, saved games, statuses, notes, comparison, export/import, gallery/table/cards, mobile layouts, and keyboard support. No record virtualization or hidden scheduled crawler.
+Native wiki pages include Real-Time-Strategy, RTS-Media, and Zero-Hour-and-CNC-Mods, plus an individual page for every game. The wiki embeds artwork and links exact videos; the portable HTML provides embedded players.
 
-Download **Games - Explorer.html** for the portable app, or **Games - Library.zip** for the complete reproducible source, data, wiki, and site. Browser organization works locally; uncached media needs internet. YouTube players load only when chosen.
+Browser notes/favorites retain the existing storage identity. No auto-crawler, subscription, credentials, generated artwork, or viewport virtualization is introduced. HLS loading is single-flight and all records remain available to search and comparison.
 
-The native wiki embeds images and links exact video sources. In-page video players belong to the interactive HTML app. Pages hosting is separately recorded; a successful wiki/release does not imply Pages is enabled.
+The publication workflow requires source/unit checks, full original-browser regression, shooter media/source acceptance, and RTS runtime acceptance before wiki/release publication. Actual reports and source/dataset/HTML hashes are included with the release. Media coverage is distinct from an assertion that every video was played end-to-end. Store coverage is the confirmed set, not a claim of every key reseller worldwide.
 
-QA reports record exhaustive shooter media/store controls and artwork decoding, exact new YouTube metadata, real Steam video playback, the full original-feature regression, and mobile behavior. No claim of personally playtesting every recommendation is made.
-
-Wiki: https://github.com/Herbertofury/Games/wiki/Boomer-Shooters
-Media Atlas: https://github.com/Herbertofury/Games/wiki/Boomer-Shooters-Media
+GitHub Pages requires separate repository enablement. The published native wiki and downloadable HTML are usable without it.

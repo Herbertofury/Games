@@ -18,7 +18,7 @@ A great hidden-gem starting point: compact, strange, old-school sci-fi action wi
 | Release | Jun 8, 2023 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Mutantleg |
 | Price snapshot | $4.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

@@ -14,7 +14,7 @@ A vintage immersive first-person shooter on GZDoom. With an atmosphere of a cold
 | Release | Mar 1, 2023 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Amanito Computing |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

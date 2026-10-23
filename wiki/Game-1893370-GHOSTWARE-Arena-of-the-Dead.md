@@ -14,7 +14,7 @@ An unique blend of retro-fps, metroidvania and adventure. Escape the cyber after
 | Release | Jun 10, 2024 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Daev Team |
 | Price snapshot | $18.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

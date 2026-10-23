@@ -14,7 +14,7 @@ Use a rearview mirror to fight through a horror-filled hellscape in this Doom-in
 | Release | Feb 13, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Jamie D, Mixtape Games UK |
 | Price snapshot | $17.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

@@ -14,7 +14,7 @@ Hands of Necromancy II is a dark fantasy FPS sequel, inspired by classics such a
 | Release | Sep 16, 2024 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | HON Team |
 | Price snapshot | $5.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

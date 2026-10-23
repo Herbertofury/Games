@@ -24,7 +24,7 @@ One of the most distinctive free mod recommendations: an entire adventure rather
 
 Slip into the Standard Issue Biosuit as Myo Hyori, a gifted Korean teenage girl who must face the perils of the future. Survive many hazards, explore a seemingly endless metropolis and beyond as the world around you implodes and history marches towards its inevitable conclusion.
 
-[Steam store](https://store.steampowered.com/app/1224600/) · [ModDB project](https://www.moddb.com/mods/g-string) · [Patreon support / devlogs](https://www.patreon.com/eyaura) · [ModDB project](https://rss.moddb.com/mods/g-string/articles/feed/rss.xml) · [ModDB project](https://rss.moddb.com/mods/g-string/downloads/feed/rss.xml) · [ModDB project](https://www.moddb.com/mods/g-string?filter=t&rating=8)
+[Steam store](https://store.steampowered.com/app/1224600/) · [ModDB project](https://www.moddb.com/mods/g-string) · [Patreon support / devlogs](https://www.patreon.com/eyaura) · [ModDB project](https://www.moddb.com/mods/g-string?filter=t&rating=8) · [ModDB project](https://rss.moddb.com/mods/g-string/articles/feed/rss.xml) · [ModDB project](https://rss.moddb.com/mods/g-string/downloads/feed/rss.xml)
 
 ## Vomitoreum
 
@@ -85,4 +85,16 @@ An experimental deep cut, not a polished 2026 standalone release. The old public
 Diluvian Ultra is a single-player, first-person shooter focusing on a retro aesthetic and fast-paced, strategic combat. The game is set in its own expansive fictive universe. Rather than gritty or dark, Diluvian Ultra is colorful and fantastical, like the cover of pulp sci-fi novels of the past.
 
 [Steam store](https://store.steampowered.com/app/1306970/) · [GOG store](https://www.gog.com/en/game/diluvian_ultra) · [Patreon support / devlogs](https://www.patreon.com/diluvian) · [Epic Games store](https://store.epicgames.com/en-US/p/diluvian-ultra-a5ad8c)
+
+## D.O.R.F. Real-Time Strategic Conflict
+
+A very promising-looking old-school RTS with striking industrial factions and detailed pixel artwork. It is an upcoming project, not something this catalog claims you can buy and play today.
+
+[Steam wishlist](https://store.steampowered.com/app/2388620/) · [Patreon support / devlogs](https://www.patreon.com/dorfRTS)
+
+## Sanctuary: Shattered Sun
+
+An upcoming large-scale RTS to track for the Supreme Commander feeling. Advertised scale and factions are development promises until a playable release is confirmed.
+
+[Steam wishlist](https://store.steampowered.com/app/1699050/) · [Patreon support / devlogs](https://www.patreon.com/sanctuaryshatteredsun)
 

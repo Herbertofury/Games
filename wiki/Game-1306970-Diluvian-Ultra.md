@@ -14,7 +14,7 @@ Diluvian Ultra is a single-player, first-person shooter focusing on a retro aest
 | Release | Sep 28, 2023 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Cresthelm Studios |
 | Price snapshot | $9.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Incremental RTS enrichment. Source failures stay explicit, never guessed."""
-import concurrent.futures,datetime as dt,hashlib,html,json,pathlib,re,urllib.parse
+import argparse,concurrent.futures,datetime as dt,hashlib,html,json,pathlib,re,urllib.parse
 from bs4 import BeautifulSoup
 import collect_rts,collect_external_media as media,discover_storefronts as stores
 from source_links import normalized_links
@@ -46,9 +46,12 @@ def parse_rich(raw,url):
             except (ValueError,TypeError,KeyError):pass
     return p
 
-def external(seed,old):
+def external(seed,old,force=False):
     ident='external:'+seed['slug'];prior=old.get(ident)
-    if prior and prior.get('mediaCheckedAt') and prior.get('image') and prior.get('trailers'):return prior
+    seed_hash=hashlib.sha256(json.dumps(seed,sort_keys=True).encode()).hexdigest()
+    if prior and not force and prior.get('seedHash')==seed_hash and prior.get('mediaCheckedAt') and prior.get('image') and prior.get('trailers'):
+        age=dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(prior['mediaCheckedAt'])
+        if age.total_seconds()<86400:return prior
     url=seed['url'];provider=label(url);kind=seed.get('kind','Standalone game')
     g=dict(prior or {});g.update(id=ident,name=seed['name'],provider=provider,primaryUrl=url,collection=seed['collection'],collections=[seed['collection']],hubs=['Real-time strategy'],fit=seed['fit'],summary=seed['why'],curatorWhy=seed['why'],requirements=seed['requirements'],kind=kind,status=seed.get('status','Released'),comingSoon=False,free=seed['free'],reviewCount=0,rating=None,genres=['Strategy'],tags=['RTS',seed['collection'],'Base building'] if seed['slug']!='world-in-conflict' else ['RTS','Tactical RTS / no base building'],platforms=[],features=[],confidence='Established',releaseYear=seed.get('releaseYear'),releaseDate=None,releaseLabel=str(seed.get('releaseYear') or 'Community release; see project'),genreScope='Tactical RTS / limited base building' if seed['slug']=='world-in-conflict' else 'Traditional base-building RTS')
     g.setdefault('storefronts',[]);g.setdefault('sources',[]);g.setdefault('screenshots',[]);g.setdefault('trailers',[])
@@ -69,12 +72,14 @@ def external(seed,old):
             g['storefronts'].append(src(final,label(final),'support' if 'patreon.com' in final else 'store' if label(final) in ['GOG','Battle.net'] else 'browser' if seed['slug']=='littlewargame' else 'project'))
         except Exception as e:errors.append({'url':pageurl,'error':str(e)})
     g['screenshots']=list({x['src']:x for x in g['screenshots']}.values());g['trailers']=list({x.get('youtube') or x.get('hls') or x.get('mp4') or x.get('webm'):x for x in g['trailers']}.values());g['sources']=list({x['url']:x for x in g['sources']}.values());g['storefronts']=list({x['url']:x for x in g['storefronts']}.values())
-    g['mediaCheckedAt']=NOW;g['mediaEvidence']=evidence;g['mediaErrors']=errors;g.setdefault('verification','unresolved')
+    g['seedHash']=seed_hash;g['mediaCheckedAt']=NOW;g['mediaEvidence']=evidence;g['mediaErrors']=errors;g.setdefault('verification','unresolved')
     print('EXTERNAL',g['name'],g['verification'],bool(g.get('image')),len(g['trailers']),flush=True)
     return g
 
-def alternate(g,old,route):
-    if g['id'] in old:return g['id'],old[g['id']]
+def alternate(g,old,route,force=False):
+    prior=old.get(g['id'])
+    checked=(prior or {}).get('storeCoverage',{}).get('checkedAt')
+    if prior and checked and not force and (dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(checked)).total_seconds()<604800:return g['id'],prior
     links=[];checks=[];candidates=[]
     for provider,fn in [('GOG',lambda:stores.gog(g,route)),('itch.io',lambda:stores.itch(g)),('Official website',lambda:stores.owned_site(g))]:
         try:
@@ -93,22 +98,23 @@ def alternate(g,old,route):
     return g['id'],{'storefronts':links,'storeCoverage':{'checkedAt':NOW,'checks':checks,'candidates':candidates,'scope':'Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence.'}}
 
 def main():
+    ap=argparse.ArgumentParser();ap.add_argument('--force',action='store_true');args=ap.parse_args()
     config=json.loads((ROOT/'data/rts-expansion.json').read_text());seeds=json.loads((ROOT/'data/rts-seeds.json').read_text())
     target=ROOT/'data/rts-steam.json';data=json.loads(target.read_text());old=data['items'];rows=[];ledger=[]
     for row in seeds['steam']:
         if row[0] in config['dispositions']:ledger.append({'candidate':row[0],**config['dispositions'][row[0]]});continue
         rows.append(row[:3]+[config['steamIds'][row[0]]] if row[0] in config['steamIds'] else row)
     rows+=config['additionalSteam']
-    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as p:results=list(p.map(lambda r:collect_rts.resolve(r,old,False),rows))
+    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as p:results=list(p.map(lambda r:collect_rts.resolve(r,old,args.force),rows))
     data.update(items=[g for g in results if g.get('id')],unresolved=[g for g in results if not g.get('id')],dispositions=ledger,generatedAt=NOW)
     assert len({g['id'] for g in data['items']})==len(data['items'])
     target.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
     path=ROOT/'data/rts-external.json';prev={g['id']:g for g in json.loads(path.read_text())['items']} if path.exists() else {}
-    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as p:items=list(p.map(lambda s:external(s,prev),config['external']))
+    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as p:items=list(p.map(lambda s:external(s,prev,args.force),config['external']))
     path.write_text(json.dumps({'generatedAt':NOW,'items':items},ensure_ascii=False,indent=2)+'\n')
     path=ROOT/'data/rts-storefronts.json';prev=json.loads(path.read_text()).get('overrides',{}) if path.exists() else {};route='https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query='
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as p:
-        for ident,x in p.map(lambda g:alternate(g,prev,route),data['items']):prev[ident]=x
+        for ident,x in p.map(lambda g:alternate(g,prev,route,args.force),data['items']):prev[ident]=x
     path.write_text(json.dumps({'generatedAt':NOW,'overrides':prev},ensure_ascii=False,indent=2)+'\n')
     allgames=data['items']+items
     report={'checkedAt':NOW,'steam':len(data['items']),'external':len(items),'missingArtwork':[{'id':g['id'],'name':g['name']} for g in allgames if not g.get('image')],'missingVideo':[{'id':g['id'],'name':g['name']} for g in allgames if not g.get('trailers')],'unresolved':data['unresolved'],'dispositions':ledger,'alternateLinks':sum(len(v.get('storefronts',[])) for v in prev.values())}

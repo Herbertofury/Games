@@ -18,7 +18,7 @@ A recent small-audience shooter discovery with encouraging reception. Keep its a
 | Release | May 4, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Dillon Steyl |
 | Price snapshot | $4.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

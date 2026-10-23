@@ -14,7 +14,7 @@ Immortal Redneck is a FPS set in Egypt with rogue-lite elements. Frantic gamepla
 | Release | Apr 25, 2017 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Crema |
 | Price snapshot | $19.95 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

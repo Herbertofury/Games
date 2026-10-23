@@ -14,7 +14,7 @@ Spread the love! Don’t Stop, Girlypop! is a Y2K arena movement shooter where s
 | Release | Jan 29, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Funny Fintan Softworks |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

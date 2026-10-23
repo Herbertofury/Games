@@ -18,7 +18,7 @@ A big 2026 campaign for someone who wants more Quake exploration rather than a n
 | Release | 2026-07-22 |
 | Availability | Released |
 | Build type | Mod / expansion |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Tremor mapping team |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

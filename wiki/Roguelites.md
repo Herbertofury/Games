@@ -4,7 +4,7 @@
 
 ### [Open the interactive roguelites library](https://herbertofury.github.io/Games/#hub=Roguelites)
 
-[Download the portable interactive library](https://github.com/Herbertofury/Games/releases/latest) | [Every shooter: artwork, videos, stores](Boomer-Shooters-Media)
+[Download the portable interactive library](https://github.com/Herbertofury/Games/releases/latest) | [Shooter media atlas](Boomer-Shooters-Media) | [RTS media atlas](RTS-Media)
 
 **Search, filters, sortable ratings, embedded trailers, full galleries, favorites, private notes, and comparison.** All records below use the same source snapshot as the app. The portable HTML works without a web server; the hosted address requires GitHub Pages to be enabled.
 

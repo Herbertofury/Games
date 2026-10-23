@@ -14,7 +14,7 @@ Dread Templar is a fast-paced hardcore old-school FPS, combining classic 90s sho
 | Release | Jan 26, 2023 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | T19 Games |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

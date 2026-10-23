@@ -14,7 +14,7 @@ Explore a decaying industrial world left behind in humanity's never-ending race 
 | Release | Sep 27, 2023 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Team Fortune |
 | Price snapshot | See official source |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

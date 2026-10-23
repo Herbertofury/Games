@@ -18,7 +18,7 @@ Worth trying after the first two games. Keep expectations at demo scope; Patreon
 | Release | Original date unlisted |
 | Availability | Demo |
 | Build type | Playable demo |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Batandy |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

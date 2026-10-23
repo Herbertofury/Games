@@ -14,7 +14,7 @@ Devil Daggers is a fast-paced shooter that places you in an abyssal arena to fac
 | Release | Feb 18, 2016 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Sorath |
 | Price snapshot | $9.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

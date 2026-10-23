@@ -14,7 +14,7 @@ Become the ultimate badass in Trepang2: A gory, action-packed FPS set in the nea
 | Release | Jun 21, 2023 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Trepang Studios |
 | Price snapshot | $29.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

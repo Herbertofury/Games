@@ -70,3 +70,11 @@ Drive current backup ID: `12wRptA5HBFWZALjgM5mBBxqE2-X-yzIR`. Updated in place, 
 Remaining hosting prerequisite only: GitHub Pages is not enabled. The native wiki, release, source, and portable HTML are published; do not claim the Pages address is live. Enable Settings > Pages > Source: GitHub Actions, then run Publish library. No unchanged auth, DNS, media, or discovery retries are needed.
 
 Exact next action for future content work: reuse catalog-15 and the stable source IDs, apply only requested new entries or corrections to the canonical source/curation files, preserve `data/media-completion.json` edition distinctions and `games.library.v1` browser storage, then run changed-path tests and publication. Do not restart the 150-game discovery or re-upload unchanged release bytes. This documentation checkpoint does not change the tested catalog-15 app or release lineage.
+
+## Recovered RTS continuation
+
+The interrupted RTS transfer was recovered from its intact source sections and exact research artifacts, without rescanning existing collections. Source reconstruction verified all 13 complete-file after-hashes. Four test files passed the independently recorded transfer hash. The rebuilt collection contains 448 unique records, including 130 RTS entries, while preserving every prior identity and games.library.v1 storage.
+
+Restored artwork and credited video sources cover all 130 RTS entries. Demo, prototype, bundle, original-release date, base-game requirement, and tactical-versus-base-building distinctions are retained. The RTS demo shortcut also finds demo editions attached to full games. No scheduled crawler or hidden updater was added. Cancelled and unresolved candidates are recorded separately, not advertised as playable releases.
+
+At this checkpoint 44 unit tests, script compilation, and JavaScript syntax pass. Full current-Chrome interaction/media tests, native wiki synchronization, release publication, and Drive hash verification remain the publication gate. GitHub Pages enablement is a separate user-controlled prerequisite.

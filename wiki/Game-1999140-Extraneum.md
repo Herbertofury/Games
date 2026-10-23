@@ -14,7 +14,7 @@ Extraneum is an old-school, sci-fi single-player first person shooter with an em
 | Release | Sep 25, 2024 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | David Jalbert |
 | Price snapshot | $14.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

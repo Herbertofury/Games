@@ -18,7 +18,7 @@ A grimy, small-audience horror FPS with a free creator demo route and a Septembe
 | Release | Mar 11, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Crowhill Studios |
 | Price snapshot | $2.99 |
 | Verified | 2026-10-23T06:53:52.190809+00:00 |

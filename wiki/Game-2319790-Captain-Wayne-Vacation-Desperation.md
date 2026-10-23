@@ -18,7 +18,7 @@ A colorful, exuberant campaign and a strong late-2025 alternative to grim indust
 | Release | Nov 25, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Ciaran Games LLC |
 | Price snapshot | $9.99 |
 | Verified | 2026-10-23T06:53:52.190809+00:00 |

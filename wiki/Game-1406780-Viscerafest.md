@@ -18,7 +18,7 @@ A frenetic sci-fi option where movement and aggression matter. A good fit for pl
 | Release | Apr 14, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Acid Man Games, Fire Plant Games |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

@@ -18,7 +18,7 @@ A sharp, free older pick from Vlambeer. Best approached as a replayable score-an
 | Release | Original date unlisted |
 | Availability | Released |
 | Build type | Free standalone |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Vlambeer |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

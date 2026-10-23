@@ -18,7 +18,7 @@ The first place to look for a fresh, loud campaign: a 2026 sequel with the chunk
 | Release | Oct 14, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Auroch Digital |
 | Price snapshot | $24.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

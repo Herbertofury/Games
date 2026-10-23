@@ -18,7 +18,7 @@ One of the strongest free discoveries here: striking environments and a full-siz
 | Release | 2026-01-03 |
 | Availability | Released |
 | Build type | Free standalone / mod |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | QBJ3 community / stickflip |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

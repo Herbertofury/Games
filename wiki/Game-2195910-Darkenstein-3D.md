@@ -14,7 +14,7 @@ A retro shooter inspired by classics like Wolfenstein and Doom. Think of it as a
 | Release | Oct 21, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Rowye |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

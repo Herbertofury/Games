@@ -5,6 +5,7 @@ def canonical_listing(url):
     p=urllib.parse.urlsplit(url)
     if p.scheme!='https' or not p.hostname or p.username or p.password:return None
     host=p.hostname.lower();path=p.path.rstrip('/')
+    if host.startswith('rss.') or path.endswith(('.xml','.rss')) or '/feed/' in path:return None
     if host.endswith('.itch.io'):
         parts=path.strip('/').split('/')
         if not parts[0]:return None

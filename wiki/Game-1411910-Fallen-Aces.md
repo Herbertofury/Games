@@ -14,7 +14,7 @@ The A.C.E.S. Once the watchful guardians of Switchblade City - are being taken d
 | Release | Jun 14, 2024 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Trey Powell, Jason Bond |
 | Price snapshot | $14.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

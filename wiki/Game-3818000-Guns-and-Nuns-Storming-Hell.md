@@ -14,7 +14,7 @@ Demons are not the danger, YOU ARE THE DANGER!!! play as Angelica Amadeus, a nun
 | Release | Apr 3, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | RM120 |
 | Price snapshot | $9.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

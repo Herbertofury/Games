@@ -1381,7 +1381,7 @@ Slip into the Standard Issue Biosuit as Myo Hyori, a gifted Korean teenage girl 
 [Watch: ULTIMATE TEASER TRAILER](https://store.steampowered.com/app/1224600/)  
 [Watch: TEASER TRAILER 2025](https://store.steampowered.com/app/1224600/)  
 
-[Steam](https://store.steampowered.com/app/1224600/) | [ModDB - original mod project (project)](https://www.moddb.com/mods/g-string) | [Patreon (support)](https://www.patreon.com/eyaura) | [ModDB - original mod project (project)](https://rss.moddb.com/mods/g-string/articles/feed/rss.xml) | [ModDB - original mod project (project)](https://rss.moddb.com/mods/g-string/downloads/feed/rss.xml) | [ModDB - original mod project (project)](https://www.moddb.com/mods/g-string?filter=t&rating=8)
+[Steam](https://store.steampowered.com/app/1224600/) | [ModDB - original mod project (project)](https://www.moddb.com/mods/g-string) | [Patreon (support)](https://www.patreon.com/eyaura) | [ModDB - original mod project (project)](https://www.moddb.com/mods/g-string?filter=t&rating=8) | [ModDB - original mod project (project)](https://rss.moddb.com/mods/g-string/articles/feed/rss.xml) | [ModDB - original mod project (project)](https://rss.moddb.com/mods/g-string/downloads/feed/rss.xml)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=steam%3A1224600)
 

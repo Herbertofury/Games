@@ -18,7 +18,7 @@ A top recommendation for occult atmosphere, crunchy combat, and a deliberate cam
 | Release | Oct 13, 2022 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Jasozz Games |
 | Price snapshot | $9.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

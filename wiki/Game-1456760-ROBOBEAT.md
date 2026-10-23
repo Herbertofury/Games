@@ -14,7 +14,7 @@ Keep your trigger finger on the pulse! In rhythm shooter ROBOBEAT, you'll play a
 | Release | May 14, 2024 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Simon Fredholm |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

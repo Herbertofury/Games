@@ -14,7 +14,7 @@ Slay demons and demigods in this fast-paced roguelite FPS. Create devastating we
 | Release | Apr 7, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Xekvera |
 | Price snapshot | $12.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

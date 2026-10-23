@@ -14,7 +14,7 @@ The Citadel is a brutal first person shooter, and a love letter to classic games
 | Release | Aug 5, 2020 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | doekuramori, Top Hat Studios Inc |
 | Price snapshot | $14.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

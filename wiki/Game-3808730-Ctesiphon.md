@@ -18,7 +18,7 @@ A deeply under-the-radar custom-engine FPS with an older-school sensibility and 
 | Release | Nov 26, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Stomy |
 | Price snapshot | $9.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

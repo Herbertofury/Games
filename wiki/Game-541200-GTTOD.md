@@ -14,7 +14,7 @@ RISE. FALL. REPEAT. Ascend to the level of the Gods as you battle your way out o
 | Release | Oct 27, 2017 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Andrew Smith, STUDIO Bare Bones |
 | Price snapshot | $29.99 |
 | Verified | 2026-10-23T06:53:52.190809+00:00 |

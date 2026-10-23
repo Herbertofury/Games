@@ -14,7 +14,7 @@ Prodeus is a first-person shooter of old, re-imagined using modern rendering tec
 | Release | Sep 23, 2022 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Bounding Box Software Inc. |
 | Price snapshot | $24.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

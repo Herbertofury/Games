@@ -18,7 +18,7 @@ One of the strongest picks for relentless movement and over-the-top weapon escal
 | Release | Aug 11, 2023 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Trigger Happy Interactive |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

@@ -72,3 +72,26 @@ Every published shooter must have an actual source image, at least one embedded 
 The wiki Media Atlas embeds artwork and links exact videos. GitHub wiki Markdown does not run arbitrary video players; the portable HTML and Pages site provide the embedded players. Community gameplay and official trailers are explicitly credited.
 
 Run `python3 scripts/discover_storefronts.py` for a bounded GOG/itch.io/official-website pass. Discovery is not proof of worldwide retail completeness. Unmatched stores remain unconfirmed, not absent. Inspect the returned candidate list for editions and same-name projects. Keep support, full purchases, demos, original mod downloads, and newer remakes separate. Manual edition corrections in `media-completion.json` prevent a later automated refresh from silently turning a demo back into a full-game store.
+
+## Real-time strategy command center
+
+RTS extends the same catalog and browser-storage identity. Do not regenerate a new disconnected app or overwrite either earlier genre.
+
+`data/rts-seeds.json` contains discovery candidates; `data/rts-expansion.json` records exact Steam IDs, official non-Steam releases, and dispositions. A store search miss is not proof that a game does not exist. Cancelled and unresolved candidates remain in the reconciliation ledger instead of being promoted to available recommendations.
+
+```sh
+python3 scripts/enrich_rts.py --force
+python3 scripts/build.py
+python3 -m unittest discover -s tests -p 'test_*.py'
+python3 tests/rts_qa.py
+```
+
+Omit `--force` for an incremental refresh. Run the browser test with current Chrome (`CHROMIUM_PATH`) and real network access. It verifies every RTS detail/source panel and artwork image, exact source metadata, selected actual streams, portable-file launch, and the old hubs. A static/inline-only check is not a substitute for this gate.
+
+Maintain editorial recommendations in `data/rts-curation.json`; `scripts/curate_rts.py` is the source of the initial reviewed curation and must be revised before intentionally regenerating that file. Do not automatically rerun it over later human edits.
+
+Maintain audited exact-media corrections in `data/rts-media-completion.json`. Its `_replace` operation is restricted to source/media fields, allowing proven wrong-edition imagery and page buttons to be removed without deleting a game. New official sources must retain their source URL and verification time. Video uploader credit, original/mod/remake identity, and demo/prototype versus full-game editions are separate facts.
+
+Fresh-discovery shortcuts exclude known older originals reissued on a recent storefront date. Watchlist entries have no purchase recommendation. The base game required by a free mod stays visible: Generals Evolution uses Red Alert 3; Contra, ShockWave, Rise of the Reds and The End of Days use Zero Hour; Mental Omega uses Red Alert 2/Yuri's Revenge. Creator support memberships do not grant those licenses.
+
+The RTS UI is the working interactive implementation, not a static mockup. Its Commander accent is scoped to that genre, collection counts are derived in one pass from the complete current genre, and HLS library loading is single-flight. All existing controls and media fallbacks remain available.

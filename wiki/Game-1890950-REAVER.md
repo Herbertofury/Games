@@ -18,7 +18,7 @@ A high-mobility combat discovery for the movement-shooter shelf. Its developing 
 | Release | Nov 30, 2023 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | crunkz, Black Boat Games |
 | Price snapshot | $13.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

@@ -14,7 +14,7 @@ MULLET MADJACK is a HIGH-OCTANE-ACTION SHOOTER that put you directly inside a CL
 | Release | May 15, 2024 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | HAMMER95 |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

@@ -14,7 +14,7 @@ Weird west legends meet eldritch horror in BLOOD WEST, an immersive stealth FPS.
 | Release | Dec 5, 2023 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Hyperstrange |
 | Price snapshot | $24.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

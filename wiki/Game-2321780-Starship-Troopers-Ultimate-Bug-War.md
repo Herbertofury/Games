@@ -14,7 +14,7 @@ Lock and load into the Starship Troopers universe and join the Mobile Infantry i
 | Release | Mar 16, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Auroch Digital |
 | Price snapshot | $24.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

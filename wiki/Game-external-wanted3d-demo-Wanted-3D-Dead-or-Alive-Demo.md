@@ -18,7 +18,7 @@ A fun-looking offbeat prospect for the demo shelf. The advertised full-game camp
 | Release | Original date unlisted |
 | Availability | Demo |
 | Build type | Playable demo |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Pavo Entertainment |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

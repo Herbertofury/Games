@@ -14,7 +14,7 @@ Harness the power of a mystical boomerang to fling yourself through the air in t
 | Release | Jul 8, 2021 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | DANG! |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

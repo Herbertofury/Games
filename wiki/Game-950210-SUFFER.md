@@ -14,7 +14,7 @@ SUFFER is a brutally difficult retro-styled first person shooter! Become the Spi
 | Release | Dec 10, 2018 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Shawn Perolis |
 | Price snapshot | $2.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

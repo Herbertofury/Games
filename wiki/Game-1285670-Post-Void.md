@@ -14,7 +14,7 @@ Post Void is a hypnotic scramble of early first-person shooter design that value
 | Release | Aug 6, 2020 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | YCJY Games |
 | Price snapshot | $2.09 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

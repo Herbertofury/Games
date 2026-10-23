@@ -14,7 +14,7 @@ Load up your Boltgun and unleash the awesome Space Marine arsenal to blast your 
 | Release | May 23, 2023 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Auroch Digital |
 | Price snapshot | $6.59 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

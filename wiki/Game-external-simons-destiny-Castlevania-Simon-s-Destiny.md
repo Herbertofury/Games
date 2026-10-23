@@ -18,7 +18,7 @@ A stylish adjacent pick, not a conventional gun shooter. Its handcrafted first-p
 | Release | 2017 (year only) |
 | Availability | Released |
 | Build type | Free standalone |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Batandy |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

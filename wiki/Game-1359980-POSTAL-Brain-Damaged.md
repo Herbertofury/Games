@@ -14,7 +14,7 @@ POSTAL: Brain Damaged is a new, action-oriented take on the Running With Scissor
 | Release | Jun 9, 2022 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Hyperstrange, CreativeForge Games |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

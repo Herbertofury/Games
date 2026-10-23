@@ -14,7 +14,7 @@ HYPER DEMON is an FPS like no other. a pearl of lightning. a dream from the futu
 | Release | Sep 19, 2022 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Sorath |
 | Price snapshot | $4.49 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

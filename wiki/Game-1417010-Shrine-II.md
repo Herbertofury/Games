@@ -14,7 +14,7 @@ Shrine II is a retro FPS game with a focus on atmosphere and exploration. Explor
 | Release | Sep 22, 2020 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Scumhead, Mengo |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

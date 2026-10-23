@@ -14,7 +14,7 @@ Ziggurat is back, and now it's even better! Use powerful weapons and spells to b
 | Release | Oct 28, 2021 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Milkstone Studios |
 | Price snapshot | $24.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

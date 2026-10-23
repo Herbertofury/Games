@@ -14,7 +14,7 @@ SPRAWL is a hardcore retro FPS set in an endless cyberpunk megalopolis. Escape t
 | Release | Aug 23, 2023 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | MAETH |
 | Price snapshot | $14.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

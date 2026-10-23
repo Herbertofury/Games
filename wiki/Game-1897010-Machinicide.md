@@ -14,7 +14,7 @@ Machinicide is a boomer shooter with imm sim and bullet hell elements. Reduce al
 | Release | Feb 17, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Gravity Shenanigans |
 | Price snapshot | $9.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

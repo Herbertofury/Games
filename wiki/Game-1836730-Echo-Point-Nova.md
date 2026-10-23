@@ -18,7 +18,7 @@ A standout adjacent recommendation for expressive traversal and large spaces. Th
 | Release | Sep 24, 2024 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Greylock Studio |
 | Price snapshot | $24.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

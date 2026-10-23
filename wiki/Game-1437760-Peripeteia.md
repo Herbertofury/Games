@@ -14,7 +14,7 @@ You are Marie, a cyborg mercenary dropped into the rot of a post-Soviet city of 
 | Release | Feb 21, 2025 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Ninth Exodus |
 | Price snapshot | $24.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

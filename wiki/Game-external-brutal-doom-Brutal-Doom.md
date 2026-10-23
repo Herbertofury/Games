@@ -18,7 +18,7 @@ Keep it as a gameplay-mod recommendation, not a separate campaign. Pair it only 
 | Release | 2012 (year only) |
 | Availability | Released |
 | Build type | Gameplay mod |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Sgt Mark IV |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

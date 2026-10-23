@@ -14,7 +14,7 @@ A Sci-fi FPS set on the mysterious planet ADACA. - Use your GRAVITY-MANIPULATING
 | Release | Jul 25, 2022 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Siris Pendrake |
 | Price snapshot | $24.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

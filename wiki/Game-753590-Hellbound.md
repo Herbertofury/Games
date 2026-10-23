@@ -14,7 +14,7 @@ Classic First Person Shooter style game. Like the good old days. An action game 
 | Release | Aug 4, 2020 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Saibot Studios |
 | Price snapshot | $14.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

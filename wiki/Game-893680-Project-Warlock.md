@@ -14,7 +14,7 @@ Project Warlock is a first-person shooter that fans of Doom, Hexen, and Wolfenst
 | Release | Dec 6, 2018 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Buckshot Software |
 | Price snapshot | $12.00 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

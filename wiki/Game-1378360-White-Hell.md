@@ -14,7 +14,7 @@ White Hell is a retro-style first-person shooter set in a frost-bound Finland af
 | Release | Aug 12, 2021 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Robert Raulus, Mikko Tamper, Antti Allén |
 | Price snapshot | $14.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

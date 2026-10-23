@@ -14,7 +14,7 @@ First-person horror metroidvania about fisting your way through a prison island 
 | Release | Jun 23, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Platonic Partnership |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

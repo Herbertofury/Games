@@ -18,7 +18,7 @@ One of the richer Quake-world discoveries. The released episodes are substantial
 | Release | 2020 (year only) |
 | Availability | Released |
 | Build type | Mod / expansion |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Dwell team |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

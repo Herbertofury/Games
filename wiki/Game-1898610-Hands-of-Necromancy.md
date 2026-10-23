@@ -14,7 +14,7 @@ Hands of Necromancy is a Dark Fantasy FPS metroidvania, inspired by classics suc
 | Release | Jun 20, 2022 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | HON Team |
 | Price snapshot | $4.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

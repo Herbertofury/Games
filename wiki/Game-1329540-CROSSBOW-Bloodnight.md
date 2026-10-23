@@ -14,7 +14,7 @@ CROSSBOW: Bloodnight is a frantic score-attack arena shooter set in a world of c
 | Release | Sep 24, 2020 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Hyperstrange |
 | Price snapshot | $0.74 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

@@ -18,7 +18,7 @@ A very small-audience July 2026 discovery. Treat it as an exploratory pick and i
 | Release | Jul 14, 2026 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Armadillo Entertainment LLC |
 | Price snapshot | $17.99 |
 | Verified | 2026-10-23T06:53:52.190809+00:00 |

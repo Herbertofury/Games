@@ -14,7 +14,7 @@ Supplice is a stylish throwback shooter inspired by the mid-90s FPS glory days a
 | Release | Apr 6, 2023 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Mekworx |
 | Price snapshot | $8.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

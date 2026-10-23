@@ -18,7 +18,7 @@ An extremely small-sample 2026 discovery. Promising, but a perfect percentage fr
 | Release | Aug 31, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | CUPPAKILL |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

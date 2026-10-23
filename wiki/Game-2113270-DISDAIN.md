@@ -14,7 +14,7 @@ DISDAIN is a fast-paced, visceral retro-styled first person shooter, inspired by
 | Release | Coming soon |
 | Availability | Upcoming |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Nash Muhandes, Mischief Donut |
 | Price snapshot | See official source |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

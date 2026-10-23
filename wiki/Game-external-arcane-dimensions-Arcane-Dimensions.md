@@ -18,7 +18,7 @@ The essential older counterweight to the newest jams: worth keeping beside Dwell
 | Release | Original date unlisted |
 | Availability | Released |
 | Build type | Mod / expansion |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Simon OCallaghan and community contributors |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

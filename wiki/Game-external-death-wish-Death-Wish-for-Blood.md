@@ -18,7 +18,7 @@ A must-investigate pick for Blood fans. The new overhaul matters more than its o
 | Release | 2011 (year only) |
 | Availability | Released |
 | Build type | Mod / expansion |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Bloatoid and Death Wish team |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

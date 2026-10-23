@@ -18,7 +18,7 @@ A genuinely unusual browser-first gem. It trades modern fidelity for clever desi
 | Release | 2020-12-13 |
 | Availability | Released |
 | Build type | Browser / standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | freds72 / Paranoid Cactus |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

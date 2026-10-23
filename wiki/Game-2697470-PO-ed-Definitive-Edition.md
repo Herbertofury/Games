@@ -14,7 +14,7 @@ PO’ed is an adrenaline-pumping space shooter that features gameplay elements i
 | Release | May 16, 2024 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Nightdive Studios |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

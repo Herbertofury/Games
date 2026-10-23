@@ -10,7 +10,7 @@ def rating(g):
 def rank(g):return (-(score(g) or -1),-g.get('reviewCount',0),g['name'].casefold())
 def video_url(t,g):
     return t.get('watchUrl') or ('https://www.youtube.com/watch?v='+t['youtube'] if t.get('youtube') else t.get('sourceUrl') or t.get('mp4') or t.get('webm') or primary(g))
-def media_atlas(rows):
+def media_atlas(rows,hub='Boomer shooters'):
     text=''
     for col in sorted({g['collection'] for g in rows}):
         text+='## '+m(col)+'\n\n<table>\n'
@@ -25,7 +25,7 @@ def media_atlas(rows):
                 for t in g.get('trailers',[]):
                     text+=f"[Watch: {m(t.get('name','Video'))}]({video_url(t,g)})  \n"
                 text+='\n'+' | '.join(f"[{m(x.get('label') or x['provider'])}{' (support)' if x.get('kind')=='support' else ' ('+m(x['kind'])+')' if x.get('kind') in ['demo','project'] else ''}]({x['url']})" for x in g.get('storefronts',[]))+'\n\n'
-                text+=f"[Embedded player and gallery]({link({'hub':'Boomer shooters','game':g['id']})})\n\n</td>\n"
+                text+=f"[Embedded player and gallery]({link({'hub':hub,'game':g['id']})})\n\n</td>\n"
             text+='</tr>\n'
         text+='</table>\n\n'
     return text
@@ -37,14 +37,14 @@ def table(rows):
     return out+'\n'
 def build_wiki(root,catalog):
     games=catalog['items'];out=root/'wiki';out.mkdir(exist_ok=True);assets=root/'dist/assets';assets.mkdir(exist_ok=True)
-    hubs={'Roguelites':[g for g in games if 'Roguelites' in g.get('hubs',[])],'Boomer shooters':[g for g in games if 'Boomer shooters' in g.get('hubs',[])]}
-    for hub,title,sub,color,file in [('Roguelites','One more run.','Ridiculous builds. Impossible odds. Endless discoveries.','#c2ed8b','collection-banner.svg'),('Boomer shooters','Make some noise.','New releases. Hidden gems. The underground FPS scene.','#f6b66a','shooters-banner.svg')]:
+    hubs={h:[g for g in games if h in g.get('hubs',[])] for h in ['Roguelites','Boomer shooters','Real-time strategy']}
+    for hub,title,sub,color,file in [('Roguelites','One more run.','Ridiculous builds. Impossible odds. Endless discoveries.','#c2ed8b','collection-banner.svg'),('Boomer shooters','Make some noise.','New releases. Hidden gems. The underground FPS scene.','#f6b66a','shooters-banner.svg'),('Real-time strategy','Welcome back, Commander.','Base building. Distinct armies. A battlefield worth returning to.','#e5c786','rts-banner.svg')]:
         rows=hubs[hub]
-        svg=f'''<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="390" viewBox="0 0 1400 390"><defs><linearGradient id="b"><stop stop-color="#141712"/><stop offset="1" stop-color="#2b2119"/></linearGradient></defs><rect width="1400" height="390" rx="20" fill="url(#b)"/><g fill="none" stroke="{color}" stroke-opacity=".15"><circle cx="1190" cy="190" r="140"/><circle cx="1190" cy="190" r="100"/><path d="M970 190h440M1190 0v390"/></g><text x="64" y="75" font-family="Arial,sans-serif" font-size="16" letter-spacing="5" fill="{color}">GAMES / THE PERSONAL COLLECTION</text><text x="60" y="187" font-family="Arial,sans-serif" font-size="80" font-weight="bold" fill="#f3f2ec">{title}</text><text x="65" y="239" font-family="Arial,sans-serif" font-size="21" fill="#b8b6ad">{sub}</text><path d="M65 280h800" stroke="{color}" opacity=".2"/><text x="65" y="327" font-family="Arial,sans-serif" font-size="17" fill="{color}">{len(rows)} DISCOVERIES / OFFICIAL MEDIA / YOUR NEXT OBSESSION</text></svg>'''
+        svg=f'''<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="390" viewBox="0 0 1400 390"><defs><linearGradient id="b"><stop stop-color="#141712"/><stop offset="1" stop-color="#2b2119"/></linearGradient></defs><rect width="1400" height="390" rx="20" fill="url(#b)"/><g fill="none" stroke="{color}" stroke-opacity=".15"><circle cx="1190" cy="190" r="140"/><circle cx="1190" cy="190" r="100"/><path d="M970 190h440M1190 0v390"/></g><text x="64" y="75" font-family="Arial,sans-serif" font-size="16" letter-spacing="5" fill="{color}">GAMES / THE PERSONAL COLLECTION</text><text x="60" y="187" font-family="Arial,sans-serif" font-size="{62 if hub=='Real-time strategy' else 80}" font-weight="bold" fill="#f3f2ec">{title}</text><text x="65" y="239" font-family="Arial,sans-serif" font-size="21" fill="#b8b6ad">{sub}</text><path d="M65 280h800" stroke="{color}" opacity=".2"/><text x="65" y="327" font-family="Arial,sans-serif" font-size="17" fill="{color}">{len(rows)} DISCOVERIES / OFFICIAL MEDIA / YOUR NEXT OBSESSION</text></svg>'''
         (assets/file).write_text(svg)
     def head(hub):
-        return f"![{hub} collection]({REPO}/raw/main/dist/assets/{'shooters-banner.svg' if hub=='Boomer shooters' else 'collection-banner.svg'})\n\n"
-    def intro(hub):return head(hub)+f"# {hub}\n\n### [Open the interactive {hub.lower()} library]({link({'hub':hub})})\n\n[Download the portable interactive library]({REPO}/releases/latest) | [Every shooter: artwork, videos, stores](Boomer-Shooters-Media)\n\n**Search, filters, sortable ratings, embedded trailers, full galleries, favorites, private notes, and comparison.** All records below use the same source snapshot as the app. The portable HTML works without a web server; the hosted address requires GitHub Pages to be enabled.\n\n"
+        return f"![{hub} collection]({REPO}/raw/main/dist/assets/{'rts-banner.svg' if hub=='Real-time strategy' else 'shooters-banner.svg' if hub=='Boomer shooters' else 'collection-banner.svg'})\n\n"
+    def intro(hub):return head(hub)+f"# {hub}\n\n### [Open the interactive {hub.lower()} library]({link({'hub':hub})})\n\n[Download the portable interactive library]({REPO}/releases/latest) | [Shooter media atlas](Boomer-Shooters-Media) | [RTS media atlas](RTS-Media)\n\n**Search, filters, sortable ratings, embedded trailers, full galleries, favorites, private notes, and comparison.** All records below use the same source snapshot as the app. The portable HTML works without a web server; the hosted address requires GitHub Pages to be enabled.\n\n"
     def cards(rows):
         text='<table>\n'
         for i in range(0,len(rows),3):
@@ -55,20 +55,23 @@ def build_wiki(root,catalog):
                 text+=f"**[{m(g['name'])}]({game_key(g)})**\n\n{score(g)}/10 recommendation · {m(g.get('status'))}\n\n{m(g.get('curatorWhy') or g.get('summary'))}\n\n[Official page]({primary(g)}) · [Trailers & gallery]({link({'game':g['id']})})\n\n</td>\n"
             text+='</tr>\n'
         return text+'</table>\n\n'
-    rog=hubs['Roguelites'];shoot=hubs['Boomer shooters'];total=len(games)
+    rog=hubs['Roguelites'];shoot=hubs['Boomer shooters'];rts=hubs['Real-time strategy'];total=len(games)
     atlas=head('Boomer shooters')+'# The Boomer Shooter Media Atlas\n\n'+f"**{len(shoot)} games. Every entry has embedded artwork, exact video sources, and all confirmed distribution/support links.**\n\n[Interactive video players]({link({'hub':'Boomer shooters'})}) | [Portable HTML download]({REPO}/releases/latest) | [Recommendations and filters](Boomer-Shooters)\n\nGitHub wiki renders images but does not run arbitrary video players. Open a Watch link for its exact source, or use the interactive library for in-page playback. Community footage is credited separately from official trailers. Store links are confirmed direct destinations, not a claim of exhaustive worldwide retailer coverage.\n\n"+media_atlas(shoot)
     (out/'Boomer-Shooters-Media.md').write_text(atlas)
-    home=head('Boomer shooters')+'# A home for every great discovery\n\n'+f"**[Open your interactive library]({SITE})** · [Roguelites](Roguelites) · [Boomer shooters](Boomer-Shooters) · [Beyond Steam](Beyond-Steam) · [Creator support](Creator-Support)\n\n"
-    home+=f"**{total} unique recommendations.** {len(rog)} in Roguelites; {len(shoot)} in Boomer shooters. Cross-genre games appear in both hubs but exist only once in the master catalog.\n\n"
-    home+='| Start exploring | What you will find |\n|:--|:--|\n| [Media atlas](Boomer-Shooters-Media) | Artwork, video sources, and every confirmed store for all shooter entries. |\n| [Boomer shooters](Boomer-Shooters) | Recent launches, fast movement, occult campaigns, free standalone games, and mod-scene discoveries. |\n| [Roguelites](Roguelites) | Every original recommendation, with your Halls of Torment collection preserved. |\n| [Beyond Steam](Beyond-Steam) | itch.io, GOG, ModDB, creator sites, browser games, and explicit install requirements. |\n| [Creator support](Creator-Support) | Verified Patreon support links, kept separate from game purchase and download links. |\n| [Collections](Collections) | Every theme and subgenre. |\n| [Ratings and sources](Ratings-and-Sources) | Editorial recommendation versus platform reviews. |\n| [Add / update games](Updating-the-Library) | One repeatable pipeline, no disconnected lists. |\n'
+    home=head('Real-time strategy')+'# A home for every great discovery\n\n'+f"**[Open your interactive library]({SITE})** · [Real-time strategy](Real-Time-Strategy) · [Roguelites](Roguelites) · [Boomer shooters](Boomer-Shooters) · [Beyond Steam](Beyond-Steam) · [Creator support](Creator-Support)\n\n"
+    home+=f"**{total} unique recommendations.** {len(rog)} in Roguelites; {len(shoot)} in Boomer shooters; {len(rts)} in Real-time strategy. Cross-genre games appear in both hubs but exist only once in the master catalog.\n\n"
+    home+='| Start exploring | What you will find |\n|:--|:--|\n| [Real-time strategy](Real-Time-Strategy) | Zero Hour-style armies, modern base builders, free RTS projects, and community overhauls. |\n| [RTS media atlas](RTS-Media) | Every RTS entry with images, videos and all confirmed direct sources. |\n| [Zero Hour and C&C mods](Zero-Hour-and-CNC-Mods) | Exact required base games, free standalones, and major conversions. |\n| [Media atlas](Boomer-Shooters-Media) | Artwork, video sources, and every confirmed store for all shooter entries. |\n| [Boomer shooters](Boomer-Shooters) | Recent launches, fast movement, occult campaigns, free standalone games, and mod-scene discoveries. |\n| [Roguelites](Roguelites) | Every original recommendation, with your Halls of Torment collection preserved. |\n| [Beyond Steam](Beyond-Steam) | itch.io, GOG, ModDB, creator sites, browser games, and explicit install requirements. |\n| [Creator support](Creator-Support) | Verified Patreon support links, kept separate from game purchase and download links. |\n| [Collections](Collections) | Every theme and subgenre. |\n| [Ratings and sources](Ratings-and-Sources) | Editorial recommendation versus platform reviews. |\n| [Add / update games](Updating-the-Library) | One repeatable pipeline, no disconnected lists. |\n'
     (out/'Home.md').write_text(home)
-    for hub,rows,filename in [('Roguelites',rog,'Roguelites.md'),('Boomer shooters',shoot,'Boomer-Shooters.md')]:
+    for hub,rows,filename in [('Roguelites',rog,'Roguelites.md'),('Boomer shooters',shoot,'Boomer-Shooters.md'),('Real-time strategy',rts,'Real-Time-Strategy.md')]:
         text=intro(hub)
         text+=f"**{len(rows)} unique entries** · [Playable now]({link({'hub':hub,'playable':'true'})}) · [Newest releases]({link({'hub':hub,'playable':'true','sort':'newest'})}) · [Hidden gems]({link({'hub':hub,'hidden':'true'})}) · [Beyond Steam]({link({'hub':hub,'offSteam':'true'})})\n\n"
         text+='Full releases, Early Access, demos, prototypes, mods, and future releases are labelled separately. Recent patches do not replace original launch dates. Recommendations are researched editorial judgments, not claims of hands-on testing.\n\n'
         picks=sorted([g for g in rows if (score(g) or 0)>=9 and g.get('status') in ['Released','Early Access']],key=rank)
         if hub=='Boomer shooters':
             focus=['steam:3115160','steam:2680280','steam:3748520','steam:2881610','steam:1592280','steam:2443360','external:qbj3','external:ashes-2063','steam:3808730']
+            lookup={g['id']:g for g in rows};picks=[lookup[i] for i in focus if i in lookup]
+        if hub=='Real-time strategy':
+            focus=['steam:2732960','steam:1486920','external:cc-shockwave','external:rise-of-the-reds','external:contra-x','external:end-of-days-zh','external:combined-arms','external:beyond-all-reason']
             lookup={g['id']:g for g in rows};picks=[lookup[i] for i in focus if i in lookup]
         text+='## Start here\n\n'+cards(picks[:9])
         if hub=='Boomer shooters':
@@ -80,11 +83,24 @@ def build_wiki(root,catalog):
             text+='## Beyond the storefronts\n\nStandalone releases and mods have different requirements. Open a game page before downloading; free mod files can still require an owned base game.\n\n'+table(sorted(ext,key=rank))
             future=[g for g in rows if g.get('comingSoon') or g['status'] in ['Demo','Prototype']]
             text+='## Demos, prototypes, and the watchlist\n\nA playable demo is not a released full game. Support subscriptions are not automatic game licenses.\n\n'+table(sorted(future,key=rank))
+        if hub=='Real-time strategy':
+            text+='## Find your kind of command\n\n| Shelf | What it means |\n|:--|:--|\n| [The Zero Hour feeling]('+link({'hub':hub,'tag':'Zero Hour-like','playable':'true'})+') | Conventional bases, asymmetric factions and combined-arms armies. |\n| [AI skirmish]('+link({'hub':hub,'tag':'AI skirmish','playable':'true'})+') | Specifically confirmed AI battles, not an assumption from a single-player tag. |\n| [Zero Hour overhauls](Zero-Hour-and-CNC-Mods) | Which base game each conversion actually needs. |\n| [Free RTS]('+link({'hub':hub,'free':'true','playable':'true'})+') | Standalone free games and separately labelled free mod downloads. |\n| [Tactical neighbors]('+link({'hub':hub,'collection':'Modern warfare & tactics'})+') | Combined-arms action, but often no conventional base-building economy. |\n\n'
+            recent=sorted([g for g in rows if (g.get('releaseDate') or '').startswith('2026') and not g.get('comingSoon')],key=lambda g:g.get('releaseDate',''),reverse=True)
+            text+='## Recent releases and current editions\n\nNew releases and Early Access launches are labelled. A 2026 storefront date for a classic is a reissue, not a claim that the original game was just made.\n\n'+table(recent)
+            text+='## Upcoming, not out now\n\nPromising projects remain visible without being presented as playable full releases. A demo link, where confirmed, is a separate edition.\n\n'+table(sorted([g for g in rows if g.get('comingSoon')],key=rank))
+            text+='## Smaller-audience discoveries\n\n'+table(sorted([g for g in rows if not g.get('comingSoon') and (g.get('hiddenGem') or (10<=g.get('reviewCount',0)<=1500 and (g.get('rating') or 0)>=80))],key=rank))
         text+='## The complete collection\n\n'
         for col in sorted({c for g in rows for c in g.get('collections',[g['collection']])}):
             text+='### '+col+'\n\n'+table(sorted([g for g in rows if col in g.get('collections',[g['collection']])],key=rank))
         text+='[Ratings and source methodology](Ratings-and-Sources) · [Update this library](Updating-the-Library)\n'
         (out/filename).write_text(text)
+    if rts:
+        (out/'RTS-Media.md').write_text(head('Real-time strategy')+'# Real-time strategy: the complete media atlas\n\n'+f'**{len(rts)} entries, each with its artwork, exact video sources, and confirmed store or download links.**\n\n[Recommendations](Real-Time-Strategy) | [Interactive players]('+link({'hub':'Real-time strategy'})+') | [Portable library]('+REPO+'/releases/latest)\n\nThe wiki embeds images and links exact videos. The interactive library embeds compatible players. Creator footage and community gameplay are credited; mods and paid base games are different products.\n\n'+media_atlas(rts,'Real-time strategy'))
+        mods=[g for g in rts if 'RTS mod' in g.get('tags',[]) or g['collection']=='C&C community standalones']
+        content=head('Real-time strategy')+'# Zero Hour and C&C: the mod command center\n\nA free mod download does not mean its required commercial base game is free. Generals Evolution requires **Red Alert 3**, while Contra, Rise of the Reds, ShockWave and The End of Days require **Zero Hour**. OpenRA-based standalones are labelled separately.\n\n'
+        for g in sorted(mods,key=rank):
+            content+=f"## [{m(g['name'])}]({game_key(g)})\n\n![{m(g['name'])}]({g.get('image','')})\n\n"+m(g.get('curatorWhy') or g['summary'])+'\n\n**Requirements:** '+m(g.get('requirements'))+'\n\n'+' | '.join(f"[{m(x.get('label') or x['provider'])}]({x['url']})" for x in g.get('storefronts',[]))+'\n\n'
+        (out/'Zero-Hour-and-CNC-Mods.md').write_text(content)
     cols='# Collections\n\nEvery genre shares one canonical library.\n\n'
     for c in sorted({c for g in games for c in g.get('collections',[g['collection']])}):cols+='## '+c+'\n\n'+table(sorted([g for g in games if c in g.get('collections',[g['collection']])],key=rank))
     (out/'Collections.md').write_text(cols)
@@ -101,11 +117,11 @@ def build_wiki(root,catalog):
     for g in games:
         s=f"# {m(g['name'])}\n\n"
         if g.get('image'):s+=f"![{m(g['name'])} official artwork]({g['image']})\n\n"
-        s+=f"**[Open official page]({primary(g)})** · **[Watch trailers and open gallery]({link({'game':g['id']})})** · "+' · '.join('[Boomer shooters](Boomer-Shooters)' if h=='Boomer shooters' else '[Roguelites](Roguelites)' for h in g.get('hubs',[]))+'\n\n'
+        s+=f"**[Open official page]({primary(g)})** · **[Watch trailers and open gallery]({link({'game':g['id']})})** · "+' · '.join('[Real-time strategy](Real-Time-Strategy)' if h=='Real-time strategy' else '[Boomer shooters](Boomer-Shooters)' if h=='Boomer shooters' else '[Roguelites](Roguelites)' for h in g.get('hubs',[]))+'\n\n'
         s+=m(g.get('summary'))+'\n\n'
         if g.get('curatorWhy'):s+='## Why it is here\n\n'+m(g['curatorWhy'])+'\n\n'
         s+='| Field | Value |\n|:--|:--|\n'
-        fields={'Collection':', '.join(g.get('collections',[g['collection']])),'Recommendation':str(score(g))+'/10' if score(g) is not None else 'Unrated','Community reception':rating(g),'Release':g.get('releaseLabel') or 'Unknown','Availability':g.get('status'),'Build type':g.get('kind'),'FPS style':g.get('genreScope'),'Creators':', '.join(g.get('developers',[])),'Price snapshot':'Free / optional donation' if g.get('free') else g.get('price') or 'See official source','Verified':g.get('verifiedAt')}
+        fields={'Collection':', '.join(g.get('collections',[g['collection']])),'Recommendation':str(score(g))+'/10' if score(g) is not None else 'Unrated','Community reception':rating(g),'Release':g.get('releaseLabel') or 'Unknown','Availability':g.get('status'),'Build type':g.get('kind'),'Play style':g.get('genreScope'),'Base building':g.get('rtsInfo',{}).get('baseBuilding'),'Solo / skirmish':g.get('rtsInfo',{}).get('skirmish'),'Original release year':g.get('originalReleaseYear'),'Creators':', '.join(g.get('developers',[])),'Price snapshot':'Free / optional donation' if g.get('free') else g.get('price') or 'See official source','Verified':g.get('verifiedAt')}
         for k,v in fields.items():
             if v:s+=f'| {k} | {m(v)} |\n'
         s+='\n## Official stores and downloads\n\n'
@@ -136,7 +152,7 @@ Three scores stay separate: **Steam positive percentage**, **editorial recommend
 
 For Steam, fewer than 30 reviews caps editorial recommendation at 7. At least 30 reviews with under 50%, 70%, or 80% positive cap it at 5, 6, or 7 respectively. For non-Steam releases, creator verification and documented community reception inform editorial fit; exploratory entries are capped at 7. No identity verification means no recommendation score.
 
-Hidden gems: curated off-Steam discoveries or released Steam games with 10-1,500 reviews and at least 80% positive. This is a discovery filter, not a guarantee of quality. Core retro/movement shooters, tactical/immersive hybrids, melee-led games, and arena/roguelite FPS are labelled, not conflated.
+Hidden gems: curated off-Steam discoveries or released Steam games with 10-1,500 reviews and at least 80% positive. This is a discovery filter, not a guarantee of quality. Core retro/movement shooters, tactical/immersive hybrids, melee-led games, and arena/roguelite FPS are labelled, not conflated. RTS entries likewise distinguish conventional base building, large-scale economy warfare, tactical-only combat, fleet command, and survival defense. AI skirmish tags require specific mode evidence or an explicitly reviewed entry; single-player alone is not sufficient.
 
 Release dates mean the date supplied by the named source. Updates have separate notes. An unknown day stays unknown, and an updated mod is not labelled a newly launched game. A demo, prototype, paid game and standalone conversion are distinct. Mod downloads can require an owned base game. Patreon support does not automatically include playable builds or a game license.
 
@@ -145,8 +161,9 @@ The selection and curation are versioned in the repository. Official Steam snaps
 The complete catalog works offline. Uncached remote images and videos require internet. Favorites, notes, ratings and saved views stay in your browser, with export/import for transfer. No analytics, paid API key, or account is required. No scheduled scraping is enabled.
 ''')
     pending=catalog.get('build',{}).get('candidateUnresolved',[])
+    pending=pending+[{'candidate':x.get('candidate'),'error':x.get('reason'),'state':x.get('state')} for x in catalog.get('build',{}).get('candidateDispositions',[]) if x.get('state')!='external']
     (out/'Needs-Verification.md').write_text('# Discovery reconciliation\n\n'+f"Published catalog: {len(games)} unique records. Unresolved new candidates: {len(pending)}. Unresolved does not mean nonexistent.\n\n"+'\n'.join(f"- **{m(x.get('candidate'))}**: {m(x.get('error'))}" for x in pending)+'\n')
-    (out/'_Sidebar.md').write_text(f'## GAMES\n\n[Open interactive library]({SITE})\n\n- [Home](Home)\n- [Boomer shooters](Boomer-Shooters)\n- [Every shooter: media atlas](Boomer-Shooters-Media)\n- [Roguelites](Roguelites)\n- [Beyond Steam](Beyond-Steam)\n- [Creator support](Creator-Support)\n- [Collections](Collections)\n- [Ratings and sources](Ratings-and-Sources)\n- [Add / update games](Updating-the-Library)\n- [Discovery reconciliation](Needs-Verification)\n\n[Source repository]({REPO})\n')
+    (out/'_Sidebar.md').write_text(f'## GAMES\n\n[Open interactive library]({SITE})\n\n- [Home](Home)\n- [Real-time strategy](Real-Time-Strategy)\n- [Every RTS: media atlas](RTS-Media)\n- [Zero Hour and C&C mods](Zero-Hour-and-CNC-Mods)\n- [Boomer shooters](Boomer-Shooters)\n- [Every shooter: media atlas](Boomer-Shooters-Media)\n- [Roguelites](Roguelites)\n- [Beyond Steam](Beyond-Steam)\n- [Creator support](Creator-Support)\n- [Collections](Collections)\n- [Ratings and sources](Ratings-and-Sources)\n- [Add / update games](Updating-the-Library)\n- [Discovery reconciliation](Needs-Verification)\n\n[Source repository]({REPO})\n')
     (out/'_Footer.md').write_text('**GAMES** · A living collection, not another forgotten list. · [Sources and scoring](Ratings-and-Sources)\n')
     guide=root/'docs/UPDATING.md'
     if guide.exists():(out/'Updating-the-Library.md').write_text(guide.read_text())

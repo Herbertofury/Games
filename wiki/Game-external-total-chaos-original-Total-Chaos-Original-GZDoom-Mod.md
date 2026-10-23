@@ -18,7 +18,7 @@ A striking example of what the Doom mod scene can build, but slower and more sur
 | Release | Oct 30, 2018 |
 | Availability | Released |
 | Build type | Free standalone / mod |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | wadaholic |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

@@ -18,7 +18,7 @@ An atmospheric occult FPS discovery with a strong identity; check its current Ea
 | Release | Oct 24, 2024 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Gator Shins |
 | Price snapshot | $14.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

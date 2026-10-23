@@ -18,7 +18,7 @@ One of the newer smaller-audience discoveries worth checking before the obvious 
 | Release | Jun 17, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Sunfish Kumano |
 | Price snapshot | $7.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

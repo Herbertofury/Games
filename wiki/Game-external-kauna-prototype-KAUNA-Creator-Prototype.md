@@ -18,7 +18,7 @@ A characterful tiny-audience discovery. Try the prototype first rather than trea
 | Release | Original date unlisted |
 | Availability | Prototype |
 | Build type | Playable prototype |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Antti Ronkka Games |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

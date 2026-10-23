@@ -14,7 +14,7 @@ Zan and her orc sisters must fight to save their homeland from a demonic invasio
 | Release | May 16, 2019 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Zan_HedonDev |
 | Price snapshot | $16.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

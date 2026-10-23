@@ -18,7 +18,7 @@ Useful for accessing the Blood ecosystem, but its more divided player reception 
 | Release | Dec 4, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Nightdive Studios, Monolith Productions |
 | Price snapshot | $29.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

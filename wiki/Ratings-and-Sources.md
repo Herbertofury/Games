@@ -4,7 +4,7 @@ Three scores stay separate: **Steam positive percentage**, **editorial recommend
 
 For Steam, fewer than 30 reviews caps editorial recommendation at 7. At least 30 reviews with under 50%, 70%, or 80% positive cap it at 5, 6, or 7 respectively. For non-Steam releases, creator verification and documented community reception inform editorial fit; exploratory entries are capped at 7. No identity verification means no recommendation score.
 
-Hidden gems: curated off-Steam discoveries or released Steam games with 10-1,500 reviews and at least 80% positive. This is a discovery filter, not a guarantee of quality. Core retro/movement shooters, tactical/immersive hybrids, melee-led games, and arena/roguelite FPS are labelled, not conflated.
+Hidden gems: curated off-Steam discoveries or released Steam games with 10-1,500 reviews and at least 80% positive. This is a discovery filter, not a guarantee of quality. Core retro/movement shooters, tactical/immersive hybrids, melee-led games, and arena/roguelite FPS are labelled, not conflated. RTS entries likewise distinguish conventional base building, large-scale economy warfare, tactical-only combat, fleet command, and survival defense. AI skirmish tags require specific mode evidence or an explicitly reviewed entry; single-player alone is not sufficient.
 
 Release dates mean the date supplied by the named source. Updates have separate notes. An unknown day stays unknown, and an updated mod is not labelled a newly launched game. A demo, prototype, paid game and standalone conversion are distinct. Mod downloads can require an owned base game. Patreon support does not automatically include playable builds or a game license.
 

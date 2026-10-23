@@ -18,7 +18,7 @@ A new retro-space exploration pick. Its immersive-sim emphasis makes it adjacent
 | Release | Oct 1, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | The Wild Gentlemen |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

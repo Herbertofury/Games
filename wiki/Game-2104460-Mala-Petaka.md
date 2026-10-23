@@ -14,7 +14,7 @@ A 2D Pixel Art Shooter-inspired sci-fi FPS runs on GZDoom. You play as 'Petaka',
 | Release | Sep 25, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Sanditio Bayu |
 | Price snapshot | $8.69 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

@@ -14,7 +14,7 @@ Adrenaline-pumping gore retro funhouse that’s full of guns, magic, demons, ver
 | Release | May 28, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Buckshot Software |
 | Price snapshot | $16.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

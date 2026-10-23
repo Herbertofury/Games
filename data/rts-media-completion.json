@@ -1,0 +1,1601 @@
+{
+  "schemaVersion": 1,
+  "overrides": {
+    "steam:318020": {
+      "trailers": [
+        {
+          "youtube": "vfs3IIiY_1s",
+          "name": "Act of Aggression: Launch Trailer",
+          "sourceUrl": "https://eugensystems.com/games/aoa/",
+          "watchUrl": "https://www.youtube.com/watch?v=vfs3IIiY_1s",
+          "official": true,
+          "credit": "Focus Entertainment",
+          "poster": "https://i.ytimg.com/vi/vfs3IIiY_1s/hqdefault.jpg",
+          "editionNote": "Official launch trailer. The included Reboot Edition changes the skirmish economy; original campaign content remains distinct."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://eugensystems.com/games/aoa/",
+          "provider": "Video source",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://eugensystems.com/games/aoa/"
+        }
+      ],
+      "storefronts": [
+        {
+          "url": "https://gamesplanet.com/game/act-of-aggression-reboot-edition-steam-key--2824-1",
+          "provider": "Gamesplanet",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://eugensystems.com/games/aoa/",
+          "editionNote": "Publisher-linked Steam key retailer."
+        }
+      ]
+    },
+    "steam:251060": {
+      "trailers": [
+        {
+          "youtube": "lw3az0LsKc0",
+          "name": "Wargame Red Dragon: Launch Trailer",
+          "sourceUrl": "https://eugensystems.com/games/wargame3/",
+          "watchUrl": "https://www.youtube.com/watch?v=lw3az0LsKc0",
+          "official": true,
+          "credit": "Focus Entertainment",
+          "poster": "https://i.ytimg.com/vi/lw3az0LsKc0/hqdefault.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://eugensystems.com/games/wargame3/",
+          "provider": "Video source",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://eugensystems.com/games/wargame3/"
+        }
+      ],
+      "storefronts": [
+        {
+          "url": "https://store.epicgames.com/en-US/p/wargame-red-dragon",
+          "provider": "Epic Games",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://eugensystems.com/games/wargame3/"
+        },
+        {
+          "url": "https://gamesplanet.com/game/wargame-red-dragon-steam-key--2566-1",
+          "provider": "Gamesplanet",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://eugensystems.com/games/wargame3/"
+        }
+      ]
+    },
+    "steam:2732960": {
+      "trailers": [
+        {
+          "youtube": "AaiFxQYv0Aw",
+          "name": "Zero Hour USA campaign gameplay",
+          "sourceUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2721039432",
+          "watchUrl": "https://www.youtube.com/watch?v=AaiFxQYv0Aw",
+          "official": false,
+          "credit": "HDW - Hard Difficulty Walkthroughs",
+          "poster": "https://i.ytimg.com/vi/AaiFxQYv0Aw/hqdefault.jpg",
+          "editionNote": "Community campaign footage, not an official trailer."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2721039432",
+          "provider": "Video source",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2721039432"
+        }
+      ],
+      "storefronts": [
+        {
+          "url": "https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection",
+          "provider": "EA",
+          "kind": "bundle",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:20:56.017634+00:00",
+          "sourceUrl": "https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection",
+          "editionNote": "The Ultimate Collection bundle; not the separate Remastered Collection."
+        }
+      ]
+    },
+    "steam:2229870": {
+      "trailers": [
+        {
+          "youtube": "JgpL1UvmnrE",
+          "name": "Generals GLA campaign gameplay",
+          "sourceUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2721039433",
+          "watchUrl": "https://www.youtube.com/watch?v=JgpL1UvmnrE",
+          "official": false,
+          "credit": "HDW - Hard Difficulty Walkthroughs",
+          "poster": "https://i.ytimg.com/vi/JgpL1UvmnrE/hqdefault.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2721039433",
+          "provider": "Video source",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2721039433"
+        }
+      ],
+      "storefronts": [
+        {
+          "url": "https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection",
+          "provider": "EA",
+          "kind": "bundle",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:20:56.017634+00:00",
+          "sourceUrl": "https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection",
+          "editionNote": "The Ultimate Collection bundle; not the separate Remastered Collection."
+        }
+      ]
+    },
+    "steam:2229850": {
+      "trailers": [
+        {
+          "youtube": "ZLTnOVh2zNA",
+          "name": "Yuri's Revenge Allied campaign gameplay",
+          "sourceUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2721043394",
+          "watchUrl": "https://www.youtube.com/watch?v=ZLTnOVh2zNA",
+          "official": false,
+          "credit": "HDW - Hard Difficulty Walkthroughs",
+          "poster": "https://i.ytimg.com/vi/ZLTnOVh2zNA/hqdefault.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2721043394",
+          "provider": "Video source",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2721043394"
+        }
+      ],
+      "storefronts": [
+        {
+          "url": "https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection",
+          "provider": "EA",
+          "kind": "bundle",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:20:56.017634+00:00",
+          "sourceUrl": "https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection",
+          "editionNote": "The Ultimate Collection bundle; not the separate Remastered Collection."
+        }
+      ]
+    },
+    "steam:2229880": {
+      "trailers": [
+        {
+          "youtube": "ioCRo2sj9Eo",
+          "name": "Tiberian Sun GDI mission gameplay",
+          "sourceUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3189115813",
+          "watchUrl": "https://www.youtube.com/watch?v=ioCRo2sj9Eo",
+          "official": false,
+          "credit": "HDW - Hard Difficulty Walkthroughs",
+          "poster": "https://i.ytimg.com/vi/ioCRo2sj9Eo/hqdefault.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3189115813",
+          "provider": "Video source",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3189115813"
+        }
+      ],
+      "storefronts": [
+        {
+          "url": "https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection",
+          "provider": "EA",
+          "kind": "bundle",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:20:56.017634+00:00",
+          "sourceUrl": "https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection",
+          "editionNote": "The Ultimate Collection bundle; not the separate Remastered Collection."
+        }
+      ]
+    },
+    "external:openhv": {
+      "trailers": [
+        {
+          "youtube": "JPlglQtK1gY",
+          "name": "Yuruki v Synapol | Skirmish Conquest on Silverman | OpenHV (Hard Vacuum)",
+          "sourceUrl": "https://openhv.itch.io/openhv",
+          "watchUrl": "https://www.youtube.com/watch?v=JPlglQtK1gY",
+          "official": false,
+          "credit": "DannyDanku",
+          "poster": "https://i.ytimg.com/vi/JPlglQtK1gY/hqdefault.jpg",
+          "editionNote": "Community skirmish footage featured on the official OpenHV itch.io page."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://openhv.itch.io/openhv",
+          "provider": "Video source",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://openhv.itch.io/openhv"
+        }
+      ],
+      "storefronts": [
+        {
+          "url": "https://openhv.itch.io/openhv",
+          "provider": "itch.io",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://www.openhv.net/"
+        }
+      ]
+    },
+    "external:twisted-insurrection": {
+      "trailers": [
+        {
+          "youtube": "XFn_nElicHs",
+          "name": "Twisted Insurrection 0.6 Trailer",
+          "sourceUrl": "https://www.moddb.com/mods/twisted-insurrection/videos/twisted-insurrection-06-trailer",
+          "watchUrl": "https://www.youtube.com/watch?v=XFn_nElicHs",
+          "official": true,
+          "credit": "Twisted Insurrection",
+          "poster": "https://i.ytimg.com/vi/XFn_nElicHs/hqdefault.jpg",
+          "editionNote": "Historical official 0.6 trailer from 2016. Not a claim that 0.6 is the newest release."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moddb.com/mods/twisted-insurrection/videos/twisted-insurrection-06-trailer",
+          "provider": "Video source",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://www.moddb.com/mods/twisted-insurrection/videos/twisted-insurrection-06-trailer"
+        }
+      ]
+    },
+    "external:contra-x": {
+      "trailers": [
+        {
+          "mp4": "https://cdn.dbolical.com/cache/videos/mods/1/11/10422/encode720p_mp4/Contra_x_beta_2_Trailer.mp4",
+          "name": "Contra X Beta 2 trailer",
+          "sourceUrl": "https://www.moddb.com/mods/contra/videos/contra-x-beta-2-trailer",
+          "poster": "https://media.moddb.com/cache/images/mods/1/11/10422/thumb_620x2000/Contra_x_beta_2_Trailer.mp4.jpg",
+          "credit": "Contra team",
+          "official": true,
+          "editionNote": "Official Beta 2 preview; consult the project page for the current build."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moddb.com/mods/contra/videos/contra-x-beta-2-trailer",
+          "provider": "Video source",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://www.moddb.com/mods/contra/videos/contra-x-beta-2-trailer"
+        }
+      ],
+      "curatorWhy": "Keep the Zero Hour foundation and turn the faction identities, challenge and powerful arsenals up dramatically. A direct extension of the style you asked for."
+    },
+    "external:cc-shockwave": {
+      "trailers": [
+        {
+          "mp4": "https://cdn.dbolical.com/cache/videos/mods/1/7/6301/encode_mp4/Enforcer_Teleport.avi.mp4",
+          "name": "ShockWave Enforcer unit demonstration",
+          "sourceUrl": "https://www.moddb.com/mods/cc-shockwave/videos/enforcer-demo",
+          "poster": "https://media.moddb.com/cache/images/mods/1/7/6301/thumb_620x2000/Enforcer_Teleport.avi.jpg",
+          "credit": "SWR Productions",
+          "official": true,
+          "editionNote": "Historical official unit demonstration, not a current full-game trailer. ShockWave Chaos is a separate mod."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moddb.com/mods/cc-shockwave/videos/enforcer-demo",
+          "provider": "Video source",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://www.moddb.com/mods/cc-shockwave/videos/enforcer-demo"
+        }
+      ]
+    },
+    "external:starcraft-2": {
+      "trailers": [
+        {
+          "youtube": "8L4kNzTNnqk",
+          "name": "StarCraft II free-to-play overview",
+          "sourceUrl": "https://starcraft2.blizzard.com/en-us/",
+          "watchUrl": "https://www.youtube.com/watch?v=8L4kNzTNnqk",
+          "official": true,
+          "credit": "Blizzard / StarCraft",
+          "poster": "https://i.ytimg.com/vi/8L4kNzTNnqk/hqdefault.jpg",
+          "editionNote": "Core access is free; not every campaign or commander is included."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://starcraft2.blizzard.com/en-us/",
+          "provider": "Video source",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T08:19:36.117112+00:00",
+          "sourceUrl": "https://starcraft2.blizzard.com/en-us/"
+        }
+      ],
+      "_replace": {
+        "image": "https://i.ytimg.com/vi/8L4kNzTNnqk/hqdefault.jpg"
+      },
+      "mediaNote": "Exact StarCraft II official-video artwork, not artwork for a different franchise entry."
+    },
+    "steam:2710": {
+      "trailers": [
+        {
+          "youtube": "jqlyMDiZHLE",
+          "name": "Act of War Direct Action - Gameplay (PC/HD)",
+          "sourceUrl": "https://www.youtube.com/watch?v=jqlyMDiZHLE",
+          "watchUrl": "https://www.youtube.com/watch?v=jqlyMDiZHLE",
+          "official": false,
+          "credit": "SergiuHellDragoonHQ",
+          "poster": "https://i.ytimg.com/vi/jqlyMDiZHLE/hqdefault.jpg",
+          "editionNote": "Credited community gameplay, not an official trailer."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=jqlyMDiZHLE",
+          "provider": "SergiuHellDragoonHQ",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ],
+      "storefronts": [
+        {
+          "url": "https://www.gog.com/en/game/act_of_war_gold_edition",
+          "provider": "GOG",
+          "kind": "bundle",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00",
+          "label": "GOG Gold Edition bundle",
+          "sourceUrl": "https://www.gog.com/en/game/act_of_war_gold_edition"
+        }
+      ]
+    },
+    "steam:9760": {
+      "trailers": [
+        {
+          "youtube": "eQ51eGSx38c",
+          "name": "Act of War - High Treason Gameplay",
+          "sourceUrl": "https://www.youtube.com/watch?v=eQ51eGSx38c",
+          "watchUrl": "https://www.youtube.com/watch?v=eQ51eGSx38c",
+          "official": false,
+          "credit": "Devilstudio Gaming",
+          "poster": "https://i.ytimg.com/vi/eQ51eGSx38c/hqdefault.jpg",
+          "editionNote": "Credited community gameplay, not an official trailer."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=eQ51eGSx38c",
+          "provider": "Devilstudio Gaming",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ],
+      "storefronts": [
+        {
+          "url": "https://www.gog.com/en/game/act_of_war_gold_edition",
+          "provider": "GOG",
+          "kind": "bundle",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00",
+          "label": "GOG Gold Edition bundle",
+          "sourceUrl": "https://www.gog.com/en/game/act_of_war_gold_edition"
+        }
+      ]
+    },
+    "external:empires-dawn-modern-world": {
+      "trailers": [
+        {
+          "youtube": "WVrUQwiJsv0",
+          "name": "Empires Dawn of the Modern World - Gameplay (PC/UHD)",
+          "sourceUrl": "https://www.youtube.com/watch?v=WVrUQwiJsv0",
+          "watchUrl": "https://www.youtube.com/watch?v=WVrUQwiJsv0",
+          "official": false,
+          "credit": "SergiuHellDragoonHQ",
+          "poster": "https://i.ytimg.com/vi/WVrUQwiJsv0/hqdefault.jpg",
+          "editionNote": "Credited community gameplay, not an official trailer."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=WVrUQwiJsv0",
+          "provider": "SergiuHellDragoonHQ",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ],
+      "_replace": {
+        "screenshots": [
+          {
+            "src": "https://images.gog-statics.com/2adf968cf76ca08627864b462c36088cbf299d49ce553a0e1d6fa5a9a6f2ba0d_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/2adf968cf76ca08627864b462c36088cbf299d49ce553a0e1d6fa5a9a6f2ba0d_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/1949c2fd1be769429a9a58cf72ef3d6c72b1f8c20657ffe3d0b3b2de54715289_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/1949c2fd1be769429a9a58cf72ef3d6c72b1f8c20657ffe3d0b3b2de54715289_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/e4ac4ea591539ef1361fa3b133d3546559a0b5d49d469b02d8f4f9f93be2ffd9_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/e4ac4ea591539ef1361fa3b133d3546559a0b5d49d469b02d8f4f9f93be2ffd9_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/5baa0251b398e576e0d389e7dc9950124d8eb6ff3c51b571beb2e61e48b2c72c_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/5baa0251b398e576e0d389e7dc9950124d8eb6ff3c51b571beb2e61e48b2c72c_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/24cadfb8aebaf821da36ce62bbadbfb18e8ee94915c5744c63e1cdec7d9e7410_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/24cadfb8aebaf821da36ce62bbadbfb18e8ee94915c5744c63e1cdec7d9e7410_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/ab6f25e398813eec440dd5a2a3eac28aeb8340ac4a743cff14da6197d18af75b_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/ab6f25e398813eec440dd5a2a3eac28aeb8340ac4a743cff14da6197d18af75b_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/10335fde4bccf1374b074edb9b7327a7e1f9c3c9ed861f78aa0d2deea001e7cf_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/10335fde4bccf1374b074edb9b7327a7e1f9c3c9ed861f78aa0d2deea001e7cf_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/508002259a97e65115fda01633a366762881ce21cd97c0cc41f376ac1dddd9da_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/508002259a97e65115fda01633a366762881ce21cd97c0cc41f376ac1dddd9da_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/dc45683881da09b0c53df2ace0e5d0765fe4eb4a32d66f7979be89c8ff292b4d_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/dc45683881da09b0c53df2ace0e5d0765fe4eb4a32d66f7979be89c8ff292b4d_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/edb6242d3d186957ac2a12706b5310a77f58a73fd166415e6820b74f63685150_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/edb6242d3d186957ac2a12706b5310a77f58a73fd166415e6820b74f63685150_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/e690c343614b35010634be19c6236f7281c3fca4d4ad3a43f26c8b2e30115fc5_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/e690c343614b35010634be19c6236f7281c3fca4d4ad3a43f26c8b2e30115fc5_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/df3bebf24dc7f91ca34e430dc678cff49e7ad0435e6ecd4b79f9f4f5912bc3d0_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/df3bebf24dc7f91ca34e430dc678cff49e7ad0435e6ecd4b79f9f4f5912bc3d0_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/7f78c11f17ab38ec2a13cd0c3a51f9cedc97c334fd68b06f50e558aec14202ea_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/7f78c11f17ab38ec2a13cd0c3a51f9cedc97c334fd68b06f50e558aec14202ea_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/c71ee717cfe721e9dfb51f3689b9341d4e481087c60cbc0cdcef451d239af80c_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/c71ee717cfe721e9dfb51f3689b9341d4e481087c60cbc0cdcef451d239af80c_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/7018d19893c78b72fa5eb1e4550cd427b8da2ce545c4c2a2b0973895fe46c6ae_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/7018d19893c78b72fa5eb1e4550cd427b8da2ce545c4c2a2b0973895fe46c6ae_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/6f1d1d0e65dddba49fbb95be10ce64e44d2c54ae65d50ad36abd8789cb3a4af0_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/6f1d1d0e65dddba49fbb95be10ce64e44d2c54ae65d50ad36abd8789cb3a4af0_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/c34295e4c729987ebcaebbf34ac89f9f8c4173264c861693451549138ce4de36_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/c34295e4c729987ebcaebbf34ac89f9f8c4173264c861693451549138ce4de36_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/4bd5b2d52b1f4d62c88301cfb5c135e10f86e25a7aae611eec630140d21a61ac_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/4bd5b2d52b1f4d62c88301cfb5c135e10f86e25a7aae611eec630140d21a61ac_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/1ac19d7d16f4f4267298253611dd48f0ab134a811acca0a7f43715cab145f542_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/1ac19d7d16f4f4267298253611dd48f0ab134a811acca0a7f43715cab145f542_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://items.gog.com/separator.jpg",
+            "thumbnail": "https://items.gog.com/separator.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world",
+            "alt": "Empires: Dawn of the Modern World creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          }
+        ]
+      }
+    },
+    "external:world-in-conflict": {
+      "trailers": [
+        {
+          "youtube": "Ue0GNIAfd20",
+          "name": "World in Conflict: Complete Edition - Full Campaign (Very Hard Difficulty)",
+          "sourceUrl": "https://www.youtube.com/watch?v=Ue0GNIAfd20",
+          "watchUrl": "https://www.youtube.com/watch?v=Ue0GNIAfd20",
+          "official": false,
+          "credit": "RTSrevival",
+          "poster": "https://i.ytimg.com/vi/Ue0GNIAfd20/hqdefault.jpg",
+          "editionNote": "Credited community gameplay, not an official trailer."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=Ue0GNIAfd20",
+          "provider": "RTSrevival",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ],
+      "_replace": {
+        "screenshots": [
+          {
+            "src": "https://images.gog-statics.com/4829015ac0659f0ccd6ab212ed0fead101db794af571a093a33d73a11f870209_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/4829015ac0659f0ccd6ab212ed0fead101db794af571a093a33d73a11f870209_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/43b33a522459ace7f4b50de9ab4456360454190790ff1117abf943b72b99fc69_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/43b33a522459ace7f4b50de9ab4456360454190790ff1117abf943b72b99fc69_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/64b5e93b3bfa652a8ca727105116153b89d9613f6f532fb26c00426e6e3b061e_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/64b5e93b3bfa652a8ca727105116153b89d9613f6f532fb26c00426e6e3b061e_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/3d033a62bd787a4152516cc53bf0c5b62f8efb571551ff0f20453aae058c5180_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/3d033a62bd787a4152516cc53bf0c5b62f8efb571551ff0f20453aae058c5180_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/f30269339e97ad6b5e079428dc57940d3a4a54dad679470712d5321ae614983f_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/f30269339e97ad6b5e079428dc57940d3a4a54dad679470712d5321ae614983f_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/b5443c7730d73e87e0c0daf51faf2c45972f5b83d455efd047cc6ec48d08e5dd_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/b5443c7730d73e87e0c0daf51faf2c45972f5b83d455efd047cc6ec48d08e5dd_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/2e3a20223b22705e1c1f7c2df08527cbd37775120d61d7464f397fcdcb44aa48_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/2e3a20223b22705e1c1f7c2df08527cbd37775120d61d7464f397fcdcb44aa48_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/986de44ed6d7fc6a813e4e625273d6f5095abd9e5fb80bf87eea86dae056e6ae_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/986de44ed6d7fc6a813e4e625273d6f5095abd9e5fb80bf87eea86dae056e6ae_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/29d937518f3377974b311b3fd9ae078472777587f92404788a9be39917b37067_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/29d937518f3377974b311b3fd9ae078472777587f92404788a9be39917b37067_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/71eb92cd3aeec6dad40ee73a121249d5902bfd611d2553707c0db24c1b744c99_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/71eb92cd3aeec6dad40ee73a121249d5902bfd611d2553707c0db24c1b744c99_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/1c4c869c435f59068c2a15e9ea96f2d9905ba8a9044979fea33fb6257347e3ce_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/1c4c869c435f59068c2a15e9ea96f2d9905ba8a9044979fea33fb6257347e3ce_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/9ae633a4b34302816c049fee9c7d38b0b53b8f2690bd6e18d68a5476d705ecdf_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/9ae633a4b34302816c049fee9c7d38b0b53b8f2690bd6e18d68a5476d705ecdf_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/c04f30217f38e1df9f8ea1e0f1a5cdfc549f45595a0810771e8f6d55fec35fbe_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/c04f30217f38e1df9f8ea1e0f1a5cdfc549f45595a0810771e8f6d55fec35fbe_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+            "alt": "World in Conflict: Complete Edition creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          }
+        ]
+      }
+    },
+    "external:warlords-battlecry-2": {
+      "trailers": [
+        {
+          "youtube": "y9Z-TMwyoJc",
+          "name": "Warlords Battlecry II (2002) - PC Gameplay / Win 10",
+          "sourceUrl": "https://www.youtube.com/watch?v=y9Z-TMwyoJc",
+          "watchUrl": "https://www.youtube.com/watch?v=y9Z-TMwyoJc",
+          "official": false,
+          "credit": "FirstPlays HD",
+          "poster": "https://i.ytimg.com/vi/y9Z-TMwyoJc/hqdefault.jpg",
+          "editionNote": "Credited community gameplay, not an official trailer."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=y9Z-TMwyoJc",
+          "provider": "FirstPlays HD",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ],
+      "_replace": {
+        "screenshots": [
+          {
+            "src": "https://images.gog-statics.com/213d180f40a6b5fd42dbd36b81c7ad3c5c9e1d298cdf5fb3585a069106a04952_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/213d180f40a6b5fd42dbd36b81c7ad3c5c9e1d298cdf5fb3585a069106a04952_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2",
+            "alt": "Warlords Battlecry II creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/57dd62d6cc64be876c4281cc2f5cf3db44109622924dfdc3bec10fa691416fee_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/57dd62d6cc64be876c4281cc2f5cf3db44109622924dfdc3bec10fa691416fee_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2",
+            "alt": "Warlords Battlecry II creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/cae4ae4036ab9e9432574a64d616e93d377546d7ba23dc45b8e316e140aefc75_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/cae4ae4036ab9e9432574a64d616e93d377546d7ba23dc45b8e316e140aefc75_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2",
+            "alt": "Warlords Battlecry II creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/235a72a03d7255f1ef9002ae8d70978cf643b193db01f2826e9af8fffd802531_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/235a72a03d7255f1ef9002ae8d70978cf643b193db01f2826e9af8fffd802531_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2",
+            "alt": "Warlords Battlecry II creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/5c7e6a21dda04b9ed9431350f38f6ba53c8a8d2f98829bff3f46194b158148d9_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/5c7e6a21dda04b9ed9431350f38f6ba53c8a8d2f98829bff3f46194b158148d9_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2",
+            "alt": "Warlords Battlecry II creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/6956eb4a44a322ee1a43bec79166dc06dfd3a2fc1099fd3f267503bf66782464_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/6956eb4a44a322ee1a43bec79166dc06dfd3a2fc1099fd3f267503bf66782464_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2",
+            "alt": "Warlords Battlecry II creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/49c4e60a10b1cf42c6ca7e5c8046fae8599efc28ba37b887d7a77bb5cda9a55b_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/49c4e60a10b1cf42c6ca7e5c8046fae8599efc28ba37b887d7a77bb5cda9a55b_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2",
+            "alt": "Warlords Battlecry II creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/310add543034b824eb791dcb4720a60e0ecc04d0f219778c48f116006f80232e_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/310add543034b824eb791dcb4720a60e0ecc04d0f219778c48f116006f80232e_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2",
+            "alt": "Warlords Battlecry II creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/7b19bd89834b7e6132248d6c6e421bdc442fda300c743df1bbce9ebb1706c5ec_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/7b19bd89834b7e6132248d6c6e421bdc442fda300c743df1bbce9ebb1706c5ec_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2",
+            "alt": "Warlords Battlecry II creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/f5584f029b23aa8297a00abb97ec1e76ee3a10a2b5eb65bb160272f657d1c277_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/f5584f029b23aa8297a00abb97ec1e76ee3a10a2b5eb65bb160272f657d1c277_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2",
+            "alt": "Warlords Battlecry II creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/feeb93a78713db10a4e32a605946c706ac9f0787ff3d1d0a50f9e39815f59d4a_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/feeb93a78713db10a4e32a605946c706ac9f0787ff3d1d0a50f9e39815f59d4a_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2",
+            "alt": "Warlords Battlecry II creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          },
+          {
+            "src": "https://images.gog-statics.com/9c57bd631e26093007d4399ea01cc1f9448ab4cf2376247b934dec263006dccb_product_card_v2_mobile_slider_639.jpg",
+            "thumbnail": "https://images.gog-statics.com/9c57bd631e26093007d4399ea01cc1f9448ab4cf2376247b934dec263006dccb_product_card_v2_mobile_slider_639.jpg",
+            "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2",
+            "alt": "Warlords Battlecry II creator artwork",
+            "credit": "Creator / GOG",
+            "verified": true
+          }
+        ]
+      }
+    },
+    "external:littlewargame": {
+      "trailers": [
+        {
+          "youtube": "WwbUOen0wFs",
+          "name": "I discovered a (new) amazing RTS and it's called Littlewargame - Grubby",
+          "sourceUrl": "https://www.youtube.com/watch?v=WwbUOen0wFs",
+          "watchUrl": "https://www.youtube.com/watch?v=WwbUOen0wFs",
+          "official": false,
+          "credit": "GrubbyPlays",
+          "poster": "https://i.ytimg.com/vi/WwbUOen0wFs/hqdefault.jpg",
+          "editionNote": "Credited community gameplay, not an official trailer."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=WwbUOen0wFs",
+          "provider": "GrubbyPlays",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ],
+      "_replace": {
+        "image": "https://i.ytimg.com/vi/WwbUOen0wFs/hqdefault.jpg",
+        "screenshots": [
+          {
+            "src": "https://i.ytimg.com/vi/WwbUOen0wFs/hqdefault.jpg",
+            "thumbnail": "https://i.ytimg.com/vi/WwbUOen0wFs/hqdefault.jpg",
+            "alt": "Littlewargame gameplay video artwork",
+            "sourceUrl": "https://www.youtube.com/watch?v=WwbUOen0wFs",
+            "credit": "GrubbyPlays",
+            "verified": true
+          }
+        ]
+      },
+      "mediaNote": "Gameplay thumbnail credited to GrubbyPlays; the page sound/play buttons are not presented as screenshots."
+    },
+    "external:end-of-days-zh": {
+      "trailers": [
+        {
+          "youtube": "h4Wtim9Wgic",
+          "name": "Generals Zero Hour The End of Days Mod USA",
+          "sourceUrl": "https://www.youtube.com/watch?v=h4Wtim9Wgic",
+          "watchUrl": "https://www.youtube.com/watch?v=h4Wtim9Wgic",
+          "official": false,
+          "credit": "The Badass Flareon",
+          "poster": "https://i.ytimg.com/vi/h4Wtim9Wgic/hqdefault.jpg",
+          "editionNote": "Credited community gameplay, not an official trailer."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=h4Wtim9Wgic",
+          "provider": "The Badass Flareon",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ]
+    },
+    "external:warcraft-3-reforged": {
+      "trailers": [
+        {
+          "youtube": "Q2zfx5hQ3CE",
+          "name": "Warcraft III: Reforged Gameplay Trailer",
+          "sourceUrl": "https://www.youtube.com/watch?v=Q2zfx5hQ3CE",
+          "watchUrl": "https://www.youtube.com/watch?v=Q2zfx5hQ3CE",
+          "official": true,
+          "credit": "Warcraft 3",
+          "poster": "https://i.ytimg.com/vi/Q2zfx5hQ3CE/hqdefault.jpg",
+          "editionNote": "Base-game gameplay trailer. The separate Forsaken Kingdom video on the current franchise page is not substituted for this edition."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=Q2zfx5hQ3CE",
+          "provider": "Warcraft 3",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ]
+    },
+    "external:starcraft-remastered": {
+      "trailers": [
+        {
+          "youtube": "OIWbdRgnXjo",
+          "name": "Starcraft Remastered Official Announcement Trailer",
+          "sourceUrl": "https://www.youtube.com/watch?v=OIWbdRgnXjo",
+          "watchUrl": "https://www.youtube.com/watch?v=OIWbdRgnXjo",
+          "official": true,
+          "credit": "IGN",
+          "poster": "https://i.ytimg.com/vi/OIWbdRgnXjo/hqdefault.jpg",
+          "editionNote": "Official announcement trailer hosted by IGN; not the newer franchise teaser."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=OIWbdRgnXjo",
+          "provider": "IGN",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        },
+        {
+          "url": "https://news.blizzard.com/en-us/article/20977641/starcraft-remastered-is-live",
+          "provider": "Blizzard",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ],
+      "_replace": {
+        "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/us/US48434ERXVO1502507211719.jpg",
+        "screenshots": [
+          {
+            "src": "https://bnetcmsus-a.akamaihd.net/cms/page_media/C9ALAI9NI2QE1502502544312.jpg",
+            "thumbnail": "https://bnetcmsus-a.akamaihd.net/cms/page_media/C9ALAI9NI2QE1502502544312.jpg",
+            "alt": "StarCraft Remastered launch artwork",
+            "sourceUrl": "https://news.blizzard.com/en-us/article/20977641/starcraft-remastered-is-live",
+            "credit": "Blizzard",
+            "verified": true
+          },
+          {
+            "src": "https://bnetcmsus-a.akamaihd.net/cms/page_media/20P0BT9YFL6W1502502544126.jpg",
+            "thumbnail": "https://bnetcmsus-a.akamaihd.net/cms/page_media/20P0BT9YFL6W1502502544126.jpg",
+            "alt": "StarCraft Remastered launch artwork",
+            "sourceUrl": "https://news.blizzard.com/en-us/article/20977641/starcraft-remastered-is-live",
+            "credit": "Blizzard",
+            "verified": true
+          },
+          {
+            "src": "https://bnetcmsus-a.akamaihd.net/cms/page_media/4L1Z1T89TFQH1502502544136.jpg",
+            "thumbnail": "https://bnetcmsus-a.akamaihd.net/cms/page_media/4L1Z1T89TFQH1502502544136.jpg",
+            "alt": "StarCraft Remastered launch artwork",
+            "sourceUrl": "https://news.blizzard.com/en-us/article/20977641/starcraft-remastered-is-live",
+            "credit": "Blizzard",
+            "verified": true
+          },
+          {
+            "src": "https://bnetcmsus-a.akamaihd.net/cms/page_media/C5W9AIDY03UZ1502502544150.jpg",
+            "thumbnail": "https://bnetcmsus-a.akamaihd.net/cms/page_media/C5W9AIDY03UZ1502502544150.jpg",
+            "alt": "StarCraft Remastered launch artwork",
+            "sourceUrl": "https://news.blizzard.com/en-us/article/20977641/starcraft-remastered-is-live",
+            "credit": "Blizzard",
+            "verified": true
+          }
+        ]
+      },
+      "storefronts": [
+        {
+          "url": "https://www.xbox.com/en-US/games/store/starcraft-remastered/9n2gwlmchjtn",
+          "provider": "Xbox PC",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00",
+          "sourceUrl": "https://www.xbox.com/en-US/games/store/starcraft-remastered/9n2gwlmchjtn",
+          "editionNote": "PC edition listing; not an Xbox-console RTS release."
+        }
+      ]
+    },
+    "steam:9420": {
+      "trailers": [
+        {
+          "mp4": "https://stream.video.gameswelt.de/2007/09/23q0ze3d1x/p/304p.mp4",
+          "name": "Supreme Commander: Forged Alliance trailer",
+          "sourceUrl": "https://www.gameswelt.de/supreme-commander/video/trailer-124829",
+          "poster": "https://img.gameswelt.de/video/2007/09/23q0ze3d1x/img/720/4.jpg",
+          "credit": "Publisher trailer archived by Gameswelt",
+          "editionNote": "Historical publisher trailer, archived at Gameswelt."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gameswelt.de/supreme-commander/video/trailer-124829",
+          "provider": "Gameswelt",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ]
+    },
+    "external:warcraft-1-remastered": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "ryZ2jiW95qo",
+            "name": "Warcraft Remastered Battle Chest Launch Trailer",
+            "sourceUrl": "https://news.blizzard.com/en-us/article/24148499/catch-up-on-the-future-of-warcraft-with-the-warcraft-30th-anniversary-direct",
+            "watchUrl": "https://www.youtube.com/watch?v=ryZ2jiW95qo",
+            "official": true,
+            "credit": "World of Warcraft",
+            "poster": "https://i.ytimg.com/vi/ryZ2jiW95qo/hqdefault.jpg",
+            "editionNote": "Official combined Battle Chest trailer featuring Warcraft I and II remasters; not a standalone trailer for just one game."
+          }
+        ],
+        "image": "https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/u1/U104RGIXCRY81731450580527.png",
+        "screenshots": [
+          {
+            "src": "https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/u1/U104RGIXCRY81731450580527.png",
+            "thumbnail": "https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/u1/U104RGIXCRY81731450580527.png",
+            "alt": "Official Warcraft RTS Battle Chest artwork including both remasters",
+            "sourceUrl": "https://news.blizzard.com/en-us/article/24148499/catch-up-on-the-future-of-warcraft-with-the-warcraft-30th-anniversary-direct",
+            "credit": "Blizzard; shared Battle Chest artwork",
+            "verified": true
+          }
+        ],
+        "primaryUrl": "https://blizz.ly/4hLD57w",
+        "storefronts": [
+          {
+            "url": "https://blizz.ly/4hLD57w",
+            "provider": "Battle.net",
+            "kind": "store",
+            "verified": true,
+            "lastChecked": "2026-10-23T16:14:53.577631+00:00",
+            "label": "Warcraft I: Remastered - Battle.net",
+            "sourceUrl": "https://news.blizzard.com/en-us/article/24148499/catch-up-on-the-future-of-warcraft-with-the-warcraft-30th-anniversary-direct",
+            "evidence": "Exact named purchase link in the official Blizzard launch announcement; checkout requires Battle.net login."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://news.blizzard.com/en-us/article/24148499/catch-up-on-the-future-of-warcraft-with-the-warcraft-30th-anniversary-direct",
+          "provider": "World of Warcraft",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T16:14:53.577631+00:00",
+      "mediaNote": "Artwork and trailer are explicitly for the shared Warcraft RTS Battle Chest.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Single-player campaign; check the remaster mode list",
+        "sourceUrl": "https://news.blizzard.com/en-us/article/24148499/catch-up-on-the-future-of-warcraft-with-the-warcraft-30th-anniversary-direct"
+      }
+    },
+    "external:warcraft-2-remastered": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "ryZ2jiW95qo",
+            "name": "Warcraft Remastered Battle Chest Launch Trailer",
+            "sourceUrl": "https://news.blizzard.com/en-us/article/24148499/catch-up-on-the-future-of-warcraft-with-the-warcraft-30th-anniversary-direct",
+            "watchUrl": "https://www.youtube.com/watch?v=ryZ2jiW95qo",
+            "official": true,
+            "credit": "World of Warcraft",
+            "poster": "https://i.ytimg.com/vi/ryZ2jiW95qo/hqdefault.jpg",
+            "editionNote": "Official combined Battle Chest trailer featuring Warcraft I and II remasters; not a standalone trailer for just one game."
+          }
+        ],
+        "image": "https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/u1/U104RGIXCRY81731450580527.png",
+        "screenshots": [
+          {
+            "src": "https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/u1/U104RGIXCRY81731450580527.png",
+            "thumbnail": "https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/u1/U104RGIXCRY81731450580527.png",
+            "alt": "Official Warcraft RTS Battle Chest artwork including both remasters",
+            "sourceUrl": "https://news.blizzard.com/en-us/article/24148499/catch-up-on-the-future-of-warcraft-with-the-warcraft-30th-anniversary-direct",
+            "credit": "Blizzard; shared Battle Chest artwork",
+            "verified": true
+          }
+        ],
+        "primaryUrl": "https://blizz.ly/3UKCV6J",
+        "storefronts": [
+          {
+            "url": "https://blizz.ly/3UKCV6J",
+            "provider": "Battle.net",
+            "kind": "store",
+            "verified": true,
+            "lastChecked": "2026-10-23T16:14:53.577631+00:00",
+            "label": "Warcraft II: Remastered - Battle.net",
+            "sourceUrl": "https://news.blizzard.com/en-us/article/24148499/catch-up-on-the-future-of-warcraft-with-the-warcraft-30th-anniversary-direct",
+            "evidence": "Exact named purchase link in the official Blizzard launch announcement; checkout requires Battle.net login."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://news.blizzard.com/en-us/article/24148499/catch-up-on-the-future-of-warcraft-with-the-warcraft-30th-anniversary-direct",
+          "provider": "World of Warcraft",
+          "kind": "media",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T16:14:53.577631+00:00",
+      "mediaNote": "Artwork and trailer are explicitly for the shared Warcraft RTS Battle Chest.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://news.blizzard.com/en-us/article/24148499/catch-up-on-the-future-of-warcraft-with-the-warcraft-30th-anniversary-direct"
+      }
+    },
+    "external:0-ad": {
+      "_replace": {
+        "image": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0013.thumb.png.f02238352935d711fd823acc366c991b.png",
+        "screenshots": [
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0013.thumb.png.f02238352935d711fd823acc366c991b.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0013.thumb.png.f02238352935d711fd823acc366c991b.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0011.thumb.png.50d0e74bb637ddf2191fe5ad88241f75.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0011.thumb.png.50d0e74bb637ddf2191fe5ad88241f75.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0012.thumb.png.a0a441771e890f36e50e3749c16f51e1.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0012.thumb.png.a0a441771e890f36e50e3749c16f51e1.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0010.thumb.png.cf8d791497707e4352b0b5c25cc60953.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0010.thumb.png.cf8d791497707e4352b0b5c25cc60953.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/two-gendered-citizens.thumb.jpg.f8410f34cb14dfdf6561fd8268613658.jpg",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/two-gendered-citizens.thumb.jpg.f8410f34cb14dfdf6561fd8268613658.jpg",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0014.thumb.png.4a0f9ce1d542c304a23ff1bf183f5ebe.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0014.thumb.png.4a0f9ce1d542c304a23ff1bf183f5ebe.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0015.thumb.png.00e509989410a61b9824a4e11b932530.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0015.thumb.png.00e509989410a61b9824a4e11b932530.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0018.thumb.png.12cb991faa162fd8ea5c39fbabda8975.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0018.thumb.png.12cb991faa162fd8ea5c39fbabda8975.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0019.thumb.png.9b41812c2cd3cf14a8f60c17fbdd19dd.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0019.thumb.png.9b41812c2cd3cf14a8f60c17fbdd19dd.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0020.thumb.png.e5e0fd5b0d9395fe8e62cd06a74c4be9.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0020.thumb.png.e5e0fd5b0d9395fe8e62cd06a74c4be9.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0021.thumb.png.e1fcf08b31702277b07abc7565ddcc81.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0021.thumb.png.e1fcf08b31702277b07abc7565ddcc81.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0022.thumb.png.cf53785d111ea98b3651f1e148306159.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0022.thumb.png.cf53785d111ea98b3651f1e148306159.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0023.thumb.png.2ce0e405e3f64229d1fda0077b477b64.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0023.thumb.png.2ce0e405e3f64229d1fda0077b477b64.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0024.thumb.png.d630d171134c0d4f9b130152f9f3a6a7.png",
+            "thumbnail": "https://wildfiregames.com/forum/uploads/monthly_2026_01/screenshot0024.thumb.png.d630d171134c0d4f9b130152f9f3a6a7.png",
+            "sourceUrl": "https://play0ad.com/",
+            "alt": "0 A.D. creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://play0ad.com/",
+          "provider": "Wildfire Games",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ]
+    },
+    "external:beyond-all-reason": {
+      "_replace": {
+        "screenshots": [
+          {
+            "src": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/69aee59c87db1941924d7fa3_0d77946a3e97f2369a4ad18c4231f413_BAR-Tezier5-shipwreck-aircraft.webp",
+            "thumbnail": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/69aee59c87db1941924d7fa3_0d77946a3e97f2369a4ad18c4231f413_BAR-Tezier5-shipwreck-aircraft.webp",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/69af1927f14fed26d82fce23_BAR-Tezier5-shipwreck-upscale-cgi-2x-front.webp",
+            "thumbnail": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/69af1927f14fed26d82fce23_BAR-Tezier5-shipwreck-upscale-cgi-2x-front.webp",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/69aebbe8bdad3a89014b6d31_0389b6a5e61737efbc5a57f74a3c1a6c_BAR-Tezier5-shipwreck-upscale-2560.webp",
+            "thumbnail": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/69aebbe8bdad3a89014b6d31_0389b6a5e61737efbc5a57f74a3c1a6c_BAR-Tezier5-shipwreck-upscale-2560.webp",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/65e2f1bb4653e94605284187_BAR_2024_Cortex_Commander-tinified.avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/65e2f1bb4653e94605284187_BAR_2024_Cortex_Commander-tinified.avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/65e2f1f806103486694ef2a5_BAR_2024_Armada_Commander-tinified.avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/65e2f1f806103486694ef2a5_BAR_2024_Armada_Commander-tinified.avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/67c8d23bec3d4c9ecf739f24_BAR_scale-realism2web2.avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/67c8d23bec3d4c9ecf739f24_BAR_scale-realism2web2.avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/67c8d23ad3517bce1132c8bf_BAR_terrain_web2.avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/67c8d23ad3517bce1132c8bf_BAR_terrain_web2.avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/67c8d23cc7505aa1d3561643_BAR_strategies_web2.avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/67c8d23cc7505aa1d3561643_BAR_strategies_web2.avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/67c8d23c627875bc244c5249_BAR_unique_units_web2.avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/67c8d23c627875bc244c5249_BAR_unique_units_web2.avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/6a3175f73aceff680e84e165_BAR-2026-Hooded-Banner.webp",
+            "thumbnail": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/6a3175f73aceff680e84e165_BAR-2026-Hooded-Banner.webp",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/6ab95a2be070d5de38ef71ba_H1UOIcNrq4n5IXJC7Vsn-pyroclastmini.webp",
+            "thumbnail": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/6ab95a2be070d5de38ef71ba_H1UOIcNrq4n5IXJC7Vsn-pyroclastmini.webp",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/655faa98438220db9b24fa41_map_grassy%20(4).avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/655faa98438220db9b24fa41_map_grassy%20(4).avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/655f2951dc01d2ee08fb25ea_map_water%20(1).avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/655f2951dc01d2ee08fb25ea_map_water%20(1).avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/655f4b2080b320c45cec088f_map_porc.webp",
+            "thumbnail": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/655f4b2080b320c45cec088f_map_porc.webp",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/655f35739d6933964013da83_map_asym%20(2).avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/655f35739d6933964013da83_map_asym%20(2).avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/655f29383f19791608d19598_map_hills%20(1).avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/655f29383f19791608d19598_map_hills%20(1).avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/6ab81b2f5623c728f2da809c_etyRROZgqDmNX0SKRFLx-Ceasefire_minimap.webp",
+            "thumbnail": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/6ab81b2f5623c728f2da809c_etyRROZgqDmNX0SKRFLx-Ceasefire_minimap.webp",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/655f366ffd500dffc57b27c1_map_alien.avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/655f366ffd500dffc57b27c1_map_alien.avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/66408e4f398a42a648ba5a77_ranks_2024_header.avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/66408e4f398a42a648ba5a77_ranks_2024_header.avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/616dd5ebe0b29e561720af21_BAR_advanced-mechanics-web.avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/616dd5ebe0b29e561720af21_BAR_advanced-mechanics-web.avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/64786e0d446190bbebc98fd9_BAR_Strategy_Guide_To-Get-Started.avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c69241780da2a1dfc6caa4e/64786e0d446190bbebc98fd9_BAR_Strategy_Guide_To-Get-Started.avif",
+            "sourceUrl": "https://www.beyondallreason.info/",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/66dc77e63361c83ddd0794e2_BAR_launcher_update.avif",
+            "thumbnail": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/66dc77e63361c83ddd0794e2_BAR_launcher_update.avif",
+            "sourceUrl": "https://www.beyondallreason.info/download",
+            "alt": "Beyond All Reason creator artwork",
+            "credit": "Creator / Official site",
+            "verified": true
+          }
+        ]
+      }
+    },
+    "steam:2088550": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://sarnayer.itch.io/dying-breed",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00",
+          "sourceUrl": "https://itch.io/search?q=Dying%20Breed",
+          "evidence": "Exact title and creator page links to Steam app 2088550",
+          "descriptionEvidence": "Dying Breed, A first generation Pixel-Art Real Time Strategy Game set in an alternative time-line. Where World War 2 ends in 1951 with Nuclear Holocaust. After 40 years of relative peace a New Powerful source of Energy start emerging from Underground. An evil MasterMind called Ubik is the first to understand the True power of this new source named Substance D. Two factions and neutrals will fight for Power and Control of Energy resources! Fight as a Human or a Mutant-Cyborg in this thrilling new Old School RTS Game! Wishlist now! https://store.steampowered.com/app/2088550/Dying_Breed/",
+          "editionNote": "Creator project page links to Steam; it is not verified as a full-game itch.io download."
+        }
+      ]
+    },
+    "steam:3213120": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://machinefall.itch.io/machinefall",
+          "kind": "prototype",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00",
+          "sourceUrl": "https://itch.io/search?q=Machinefall",
+          "evidence": "Exact title and creator page links to Steam app 3213120",
+          "descriptionEvidence": "Post-apocalyptic real time strategy with base building, resource management and massive scale battles. Feedback I will be happy to hear from you what you think. I will regularly publish the newest versions. For now on itch.io, later when I have more content there will be Steam page with demo. Follow the game on Discord https://discord.com/channels/886886105704693801/1198386774842544261",
+          "editionNote": "Older creator development build. The 233 MB itch.io archive is not represented as the current Steam release."
+        }
+      ]
+    },
+    "steam:1113030": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://tensegames.itch.io/stellar-warfare",
+          "kind": "prototype",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00",
+          "sourceUrl": "https://itch.io/search?q=Stellar%20Warfare",
+          "evidence": "Exact title and creator page links to Steam app 1113030",
+          "descriptionEvidence": "The game Stellar Warfare is a space-based real-time strategy game developed by Tense Games. The game features base building, ship customization, and a variety of single and multiplayer game modes. The player can choose from over 200 available ships, weapons, and modules to design their fleet with. The game also includes a small campaign, several single and multiplayer game modes, and a co-op game mode. Lore The game is set in the far future where humanity has colonized the local galaxy, and the player must control their fleet of spaceships to return order to the galaxy. The game is available on Steam and is currently in early access. Community & updates The game has received positive reviews from players, with many praising the game’s unique sci-fi experience and the ability to customize their fleet. The game has also received updates that have added new features such as 3D fleet maneuvers, superweapons, and more.",
+          "editionNote": "Creator lists an April 2024 build; version and features may differ from the current commercial release."
+        }
+      ]
+    },
+    "steam:1272320": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://door407.itch.io/diplomacy-is-not-an-option",
+          "kind": "demo",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00",
+          "sourceUrl": "https://itch.io/search?q=Diplomacy%20is%20Not%20an%20Option",
+          "evidence": "Exact title and creator page links to Steam app 1272320",
+          "descriptionEvidence": "Diplomacy is Not an Option is a base-building RTS where your task is to fight against vast hordes of enemies. Over 25 THOUSAND of them will storm your castle on procedurally generated maps. To survive, you must build fortifications, raise armies, master engineering, economy, and even magic (the active pause spell included). Experience warfare on an entirely new scale in the 4 game modes: Endless Mode, Story Campaign, Challenge Mode, and Sandbox Mode. Additionally, you've got the Map Editor to create your own scenarios in the medieval fantasy world of Diplomacy is Not an Option. Your king is an egocentric pig who has driven the country into an economic crisis with his mindless money-spending. This problem, however, is mostly yours. After all, this is your feud, where peasants are revolting because of unfair taxes. You can suppress the rebellion, or you can join it. But it's a long road to the end goal. A road on which you will encounter the mysterious tribe of Sarranga and the Undead who worship hard-rock music. No matter which faction you join, casualties will number in the thousands. And siege weapons will mercilessly blast crowds of your enemies. And legions of loyal troops will give their lives for the success of your mission. While admittedly tongue-in-cheek, the laws of physics are still deadly serious in Diplomacy Is Not An Option. Every arrow, catapult stone and enemy launched skywards is physically modeled, making for a tactile and coherent battlefield. Just make sure your troops have towers to shoot from and clear lines of sight, or you might find your best-laid plans embarrassingly blunted by your own fortifications. Consider your gates, your lines of advancement and retreat. Create kill-zones and fall-back positions. You will need to take an active role in combat to get the best from your men. Even under siege, never forget your castle was built on the backs of the peasantry. Defend your people, and they’ll serve you well. Engage in agriculture and farming, or food can become scarce, and your soldiers can starve on the battlefield. Build houses, bury fallen soldiers and peasants to prevent plague, and treat the infected when death comes knocking. If you do not care for your people you may soon find yourself overrun with the most unpleasant troubles. Like empty stockpiles, unrepaired walls and running dry barracks… or be overrun literally with swarms of zombies. And no lord wishes to see zombie apocalypse in the backyard of his castle, right? A functional army requires a functional economy to support and feed it. Food, Wood, Stone, Iron, and Gold are the foundations of your city’s economy, and you will need to watch your supplies carefully if you are to meet the advancing foe in a timely manner. Gather resources, choose your storage locations, plan your expansions and upgrades with care. The enemy will not cede their lands willingly, and unprotected civilian expansions will have consequences of falling prey to the hostile incursion. Trade, via the impressive merchant dirigible, bringing emergency supplies of food to feed the men, or stone to rebuild the walls. Can you strike the balance between greedy expansion and security? If life gives you lemons, make lemonade. If you’ve inherited a cursed kingdom, why not master the dark arts ? Sturdy castle walls will protect you from most ordinary threats, but in Diplomacy Is Not An Option you're also be battling undeads. So why give them a monopoly on magic ? There is a dark history of tainted power that stirs zombies and traps wayward souls. On the lighter side: it can also be used to call down really very big fireballs onto your enemies. So enjoy that too. Build magical monuments, harvest soul crystals and give a try to a maniacal laugh as searing magical beams tear through your foes and summoned ghosts to chase down the stragglers. The game has been designed with freedom as a core concept. Go beyond the campaign and crush your foes as you see fit in Endless Mode, Sandbox Mode or Challenge Mode. Develop your own personal strategies on procedurally generated maps. Go heavy on walls early, build large armies of cannon-fodder, or pursue the macro game of greedy growth and costly investments. Play battles in real-time or use pause constantly to keep everything in your hands. Will you be able to stand on a par with the most acclaimed generals in the world, like Joan of Arc and Genghis Khan? Finding which style grants you the most success is up to you. As in real life, stupidity and greed lie behind most problems, but here it is far too late to talk it through. You have no recourse to resolve this peacefully. At this stage: Diplomacy Is Not an Option! Mature Content Description The developers describe the content like this: Massive cartoon violence.",
+          "editionNote": "Creator upload is labelled Shareware; this is not the paid full game."
+        }
+      ]
+    },
+    "steam:908770": {
+      "_replace": {
+        "storefronts": [
+          {
+            "provider": "Steam",
+            "url": "https://store.steampowered.com/app/908770/",
+            "kind": "wishlist",
+            "verified": true,
+            "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          },
+          {
+            "provider": "IndieDB",
+            "url": "https://www.indiedb.com/games/global-conflagration",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+            "sourceUrl": "https://www.indiedb.com/games/global-conflagration",
+            "evidence": "Game-specific official website link with matching destination title"
+          }
+        ]
+      },
+      "storefronts": []
+    },
+    "steam:298030": {
+      "storefronts": [
+        {
+          "url": "https://www.gog.com/en/game/total_annihilation_commander_pack",
+          "provider": "GOG",
+          "kind": "bundle",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00",
+          "label": "GOG Commander Pack",
+          "sourceUrl": "https://www.gog.com/en/game/total_annihilation_commander_pack"
+        }
+      ]
+    },
+    "steam:433280": {
+      "storefronts": [
+        {
+          "url": "https://www.gog.com/en/game/warlords_battlecry_3",
+          "provider": "GOG",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00",
+          "label": "GOG",
+          "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_3"
+        }
+      ]
+    },
+    "steam:334920": {
+      "storefronts": [
+        {
+          "url": "https://zero-k.info/",
+          "provider": "Official site",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00",
+          "sourceUrl": "https://zero-k.info/"
+        }
+      ]
+    },
+    "steam:1486920": {
+      "recommendationCaution": "Overall reception is positive, but Steam recent English reviews were Mixed when checked on October 23, 2026. Inspect the recent reviews alongside the cumulative rating.",
+      "sources": [
+        {
+          "url": "https://store.steampowered.com/app/1486920/",
+          "provider": "Steam",
+          "kind": "review",
+          "verified": true,
+          "lastChecked": "2026-10-23T16:14:53.577631+00:00"
+        }
+      ]
+    }
+  },
+  "generatedAt": "2026-10-23T16:14:53.577631+00:00",
+  "method": "Completed from the saved exact-source evidence. Artwork roles, credited community footage, bundles and demo/prototype editions are distinguished. Login or provider blocks are not bypassed."
+}

@@ -14,7 +14,7 @@ STRAFE® is the worlds bloodiest roguelike first-person shooter! Featuring mind 
 | Release | May 9, 2017 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Pixel Titans |
 | Price snapshot | $14.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

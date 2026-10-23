@@ -14,7 +14,7 @@ Hell’s armies have invaded Earth. Become the Slayer in an epic single-player c
 | Release | Mar 19, 2020 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | id Software |
 | Price snapshot | $29.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

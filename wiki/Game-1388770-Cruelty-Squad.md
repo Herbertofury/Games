@@ -14,7 +14,7 @@ An immersive power fantasy simulator with tactical stealth elements set in a sew
 | Release | Jun 15, 2021 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Consumer Softproducts |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

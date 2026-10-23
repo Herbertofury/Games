@@ -1,0 +1,1837 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T08:13:08.269813+00:00",
+  "method": "Editorial fit is not a critic score. Store reception and small samples constrain recommendations. Upcoming entries are not purchase recommendations.",
+  "overrides": {
+    "steam:1486920": {
+      "curatorWhy": "The first modern purchase I would investigate for the C&C feeling: a proper construction economy, distinctive armies and a campaign-driven presentation. A much closer fit than a tactical game without bases.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1486920/"
+      },
+      "tags": [
+        "AI skirmish",
+        "Base building",
+        "RTS",
+        "Recent RTS release",
+        "Zero Hour-like"
+      ]
+    },
+    "steam:318020": {
+      "curatorWhy": "One of the closest modern-military relatives of Generals, including resource harassment and asymmetrical armies. The Reboot overhaul is for skirmish/multiplayer; launch the original game for its campaign. Reception is mixed, so similarity does not equal a blanket quality endorsement.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/318020/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy."
+    },
+    "steam:1439750": {
+      "curatorWhy": "A particularly good pick for fast base building, cooperative play and a large toy-box battlefield. The chunky visual style is deliberate; the appeal is commanding a lot of destructive machinery without a cumbersome interface.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1439750/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:427250": {
+      "curatorWhy": "A compact, immediately approachable C&C-style army builder. Start here for uncomplicated skirmishes rather than cinematic storytelling or realistic military hardware.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/427250/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:497850": {
+      "curatorWhy": "The fantasy sibling of 8-Bit Armies. Useful when you want the same straightforward base-building rhythm with monsters and magic instead of modern tanks.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/497850/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:531680": {
+      "curatorWhy": "The sci-fi branch of the 8-Bit series. Worth considering alongside Armies and Hordes for their compatible cross-game faction battles, rather than expecting three entirely unrelated systems.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/531680/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:1565670": {
+      "curatorWhy": "An under-the-radar single-player-first RTS with substantial fleet and base management. Its five factions and campaign emphasis make it a worthwhile C&C-shaped detour into space.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1565670/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:1934720": {
+      "curatorWhy": "A newer, explicitly C&C-inspired prospect with two sides and AI skirmish. Still Early Access: inspect what is playable now rather than buying it for a promised finished campaign.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1934720/"
+      },
+      "tags": [
+        "AI skirmish",
+        "Base building",
+        "RTS",
+        "Recent RTS release",
+        "Zero Hour-like"
+      ]
+    },
+    "steam:1031730": {
+      "curatorWhy": "A retro construction-and-warfare RTS to investigate for the C&C lineage. Early Access and mixed reception make it an experimental pick, not a safer recommendation than Tempest Rising.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1031730/"
+      },
+      "tags": [
+        "AI skirmish",
+        "Base building",
+        "RTS",
+        "Recent RTS release",
+        "Zero Hour-like"
+      ],
+      "recommendationCaution": "Small review sample: treat this as a discovery to inspect, not a proven hit.",
+      "confidence": "Exploratory"
+    },
+    "steam:2088550": {
+      "curatorWhy": "A visually distinctive retro RTS for the original C&C and pixel-art itch. Treat the current Early Access build and available missions as the product, not the eventual roadmap.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/2088550/"
+      },
+      "tags": [
+        "Base building",
+        "RTS",
+        "Recent RTS release",
+        "Zero Hour-like"
+      ]
+    },
+    "steam:2583660": {
+      "curatorWhy": "A watchlist candidate for faction-led sci-fi base building. It is not a released recommendation; videos show development, not proof of a finished purchasable game.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Upcoming; advertised modes are not released features",
+        "sourceUrl": "https://store.steampowered.com/app/2583660/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building"
+      ],
+      "confidence": "Exploratory",
+      "recommendationCaution": "Watchlist only: no current purchase recommendation for an unreleased game.",
+      "fit": null,
+      "prospectiveFit": 9
+    },
+    "steam:908770": {
+      "curatorWhy": "A particularly relevant watchlist entry for the Generals-style modern-war feeling. Keep it separate from playable games until an actual release is confirmed.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Upcoming; advertised modes are not released features",
+        "sourceUrl": "https://store.steampowered.com/app/908770/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building"
+      ],
+      "confidence": "Exploratory",
+      "recommendationCaution": "Watchlist only: no current purchase recommendation for an unreleased game.",
+      "fit": null,
+      "prospectiveFit": 10
+    },
+    "steam:2388620": {
+      "curatorWhy": "A very promising-looking old-school RTS with striking industrial factions and detailed pixel artwork. It is an upcoming project, not something this catalog claims you can buy and play today.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Upcoming; advertised modes are not released features",
+        "sourceUrl": "https://store.steampowered.com/app/2388620/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building"
+      ],
+      "confidence": "Exploratory",
+      "recommendationCaution": "Watchlist only: no current purchase recommendation for an unreleased game.",
+      "fit": null,
+      "prospectiveFit": 10
+    },
+    "steam:2610770": {
+      "curatorWhy": "Worth tracking for its bleak industrial warfare and unusual presentation. This is an upcoming discovery, with advertised systems kept distinct from verified released features.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Upcoming; advertised modes are not released features",
+        "sourceUrl": "https://store.steampowered.com/app/2610770/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building"
+      ],
+      "confidence": "Exploratory",
+      "recommendationCaution": "Watchlist only: no current purchase recommendation for an unreleased game.",
+      "fit": null,
+      "prospectiveFit": 9
+    },
+    "steam:5265230": {
+      "curatorWhy": "A very recent, very small-audience C&C-style discovery. Two negative reviews are not enough for a definitive verdict, but they are enough to withhold a strong recommendation. Investigate carefully.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/5265230/"
+      },
+      "tags": [
+        "Base building",
+        "RTS",
+        "Recent RTS release",
+        "Zero Hour-like"
+      ],
+      "recommendationCaution": "Very new and only two reviews, both negative. No strong recommendation is justified.",
+      "confidence": "Exploratory",
+      "fit": 5
+    },
+    "steam:1072190": {
+      "curatorWhy": "A recognizable faction-and-base RTS from a familiar multiplayer setting. The concept fits, but weak player reception makes this a sale/demo-level investigation rather than a top buy.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/1072190/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy."
+    },
+    "steam:686260": {
+      "curatorWhy": "The attraction is configuring your own army instead of accepting fixed faction arsenals. Reception is weak, so consider the customization idea rather than assuming it is the most polished C&C successor.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/686260/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy."
+    },
+    "steam:290790": {
+      "curatorWhy": "Three sharply different factions are the draw, especially the unusual Goo economy. A distinctive RTS to investigate despite mixed reception; not simply Generals with a different coat of paint.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/290790/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy."
+    },
+    "steam:245370": {
+      "curatorWhy": "An older sci-fi RTS with faction and territory ideas worth looking at. Poor reception makes it a curiosity for genre collectors, not an essential recommendation.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/245370/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy.",
+      "fit": 5
+    },
+    "steam:2710": {
+      "curatorWhy": "One of the strongest older alternatives for the modern-military, resource-and-base-building loop. Expect a dated presentation and check current compatibility, but the connection to Generals is much closer than most tactical wargames.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/2710/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building"
+      ],
+      "originalReleaseYear": 2005,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:9760": {
+      "curatorWhy": "The expanded Act of War experience, with additional units and scenarios. A good companion to Direct Action, though this is a classic edition rather than a new release.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/9760/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building"
+      ],
+      "originalReleaseYear": 2006,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:530040": {
+      "curatorWhy": "A smaller old-school construction RTS that aims directly at the classic formula. Mixed reception means it belongs in the deep-cut shelf, behind the stronger recommendations.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/530040/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy."
+    },
+    "steam:1841630": {
+      "curatorWhy": "A niche combined-arms base builder with a very small and weak review sample. Included as a clearly cautioned discovery, not as a hidden masterpiece.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1841630/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "recommendationCaution": "Small review sample: treat this as a discovery to inspect, not a proven hit.",
+      "confidence": "Exploratory"
+    },
+    "steam:1114830": {
+      "curatorWhy": "A small-scale indie take on modern military RTS. Check the current limitations and player feedback before paying; the hardware fantasy fits better than the overall reception.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1114830/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy."
+    },
+    "steam:2732960": {
+      "curatorWhy": "The reference point: specialized generals, supply-line raids, memorable factions and the enormous mod scene. Keep the original installed alongside your preferred overhauls rather than treating it as obsolete.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/2732960/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2003,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:2229870": {
+      "curatorWhy": "The original Generals campaigns and faction foundations. Zero Hour is the deeper skirmish/mod platform, but this remains worthwhile for the original missions and pacing.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/2229870/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2003,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:2229850": {
+      "curatorWhy": "An essential C&C branch with wonderfully excessive faction identities. Yuri's Revenge expands the toy box, and it is the required foundation for Mental Omega.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/2229850/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2000,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:17480": {
+      "curatorWhy": "The colorful naval-and-land counterpart to Generals, with an emphasis on faction abilities and cooperative campaign play. It is also the base game required by Generals Evolution.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/17480/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2008,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:24800": {
+      "curatorWhy": "A single-player-focused Red Alert 3 companion with challenge scenarios and extra units. Do not buy it expecting the base game's multiplayer or as a replacement for Red Alert 3 when installing its mods.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Single-player AI skirmish, campaigns and Commanders Challenge; no multiplayer",
+        "sourceUrl": "https://store.steampowered.com/app/24800/"
+      },
+      "tags": [
+        "AI skirmish",
+        "Base building",
+        "RTS",
+        "Zero Hour-like"
+      ],
+      "originalReleaseYear": 2009,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:24790": {
+      "curatorWhy": "A strong transition from Generals to futuristic C&C, with a substantial campaign and the familiar harvest-build-attack rhythm. A particularly safe classic to investigate.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/24790/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2007,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:24810": {
+      "curatorWhy": "The faction-specialization recommendation for Tiberium Wars fans. Its subfactions make it especially relevant when the different generals are what you love about Zero Hour.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/24810/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2008,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:1213210": {
+      "curatorWhy": "The original C&C and Red Alert foundations with modern presentation and convenience. A classic remaster collection, not a recreation of Generals' 3D warfare.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1213210/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:2229880": {
+      "curatorWhy": "Atmospheric, asymmetric futuristic C&C with the Firestorm expansion. Choose it for the setting and classic campaigns, then explore its separate standalone community projects.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/2229880/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 1999,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:9420": {
+      "curatorWhy": "My strongest large-battle detour: sprawling economies, land/air/naval warfare and spectacular experimental units. Forged Alliance Forever is a separate community enhancement worth investigating for improved AI and co-op.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/9420/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2007,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older.",
+      "storefronts": [
+        {
+          "provider": "FAF community",
+          "url": "https://www.faforever.com/play",
+          "kind": "project",
+          "verified": true,
+          "sourceUrl": "https://www.faforever.com/play",
+          "evidence": "Community enhancement; requires ownership of Forged Alliance."
+        },
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/supreme_commander_gold_edition",
+          "kind": "store",
+          "label": "GOG Gold Edition bundle",
+          "verified": true,
+          "sourceUrl": "https://www.faforever.com/play",
+          "evidence": "Official FAF installation guide identifies Steam and GOG editions."
+        }
+      ],
+      "requirements": "Forged Alliance Forever is an optional community client, not a free license for the game. Its current setup requires linking an owned Steam or GOG copy."
+    },
+    "steam:40100": {
+      "curatorWhy": "A streamlined, more immediately accessible Supreme Commander. Easier to get moving than Forged Alliance, but not a substitute for the latter's enormous simulation and mod ecosystem.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/40100/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:298030": {
+      "curatorWhy": "The classic foundation for economy-heavy, mass-army RTS. Its streaming economy and scale are the relevant connection, rather than modern-military realism.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/298030/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 1997,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:386070": {
+      "curatorWhy": "A spectacular step beyond flat battlefields into warfare across planets. Best when scale and escalating destruction matter more than a cinematic story campaign.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/386070/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:507490": {
+      "curatorWhy": "A large-army sci-fi strategy choice for battles that keep growing. The mixed reception and different macro emphasis warrant checking gameplay before choosing it over Forged Alliance or BAR.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/507490/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:1796720": {
+      "curatorWhy": "Factory-building and army production make an intriguing combination, but current reception is very poor. Keep it as a cautious Early Access experiment, not a top recommendation.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/1796720/"
+      },
+      "tags": [
+        "RTS",
+        "Base building"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy.",
+      "fit": 5
+    },
+    "steam:1699050": {
+      "curatorWhy": "An upcoming large-scale RTS to track for the Supreme Commander feeling. Advertised scale and factions are development promises until a playable release is confirmed.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Upcoming; advertised modes are not released features",
+        "sourceUrl": "https://store.steampowered.com/app/1699050/"
+      },
+      "tags": [
+        "RTS",
+        "Base building"
+      ],
+      "confidence": "Exploratory",
+      "recommendationCaution": "Watchlist only: no current purchase recommendation for an unreleased game.",
+      "fit": null,
+      "prospectiveFit": 9
+    },
+    "steam:334920": {
+      "curatorWhy": "A very strong free RTS with flexible construction and a deep unit roster. A meaningful alternative to paid large-scale games, not just a technology demo.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/334920/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:647960": {
+      "curatorWhy": "One of the best lightweight, moddable skirmish choices. The simple visuals hide a surprisingly substantial RTS, especially when you want big maps without demanding hardware.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/647960/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:303860": {
+      "curatorWhy": "A compact, less-known army-and-base builder. A useful lightweight discovery, with a much smaller player sample than the genre's established favorites.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/303860/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "confidence": "Exploratory",
+      "recommendationCaution": "Small review sample: treat this as a discovery to inspect, not a proven hit."
+    },
+    "steam:3213120": {
+      "curatorWhy": "A fresh sci-fi RTS discovery with a small but encouraging audience. A good title to inspect after the obvious C&C successors, while keeping review confidence in proportion.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/3213120/"
+      },
+      "tags": [
+        "Base building",
+        "RTS",
+        "Recent RTS release"
+      ]
+    },
+    "steam:1241950": {
+      "curatorWhy": "A free classic centered on designing vehicles and developing a persistent war machine. Use its official project as well as the Steam listing, and do not mistake the Steam date for the original game's age.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1241950/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 1999,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older.",
+      "storefronts": [
+        {
+          "provider": "Official site",
+          "url": "https://wz2100.net/",
+          "kind": "project",
+          "verified": true,
+          "evidence": "Official Warzone 2100 project."
+        }
+      ]
+    },
+    "steam:253880": {
+      "curatorWhy": "An ambitious classic with construction, customizable forces and unusual battlefield systems. Expect an older interface and check modern-system behavior before committing to a long campaign.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/253880/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2000,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:1900": {
+      "curatorWhy": "An unusual faction-driven classic whose armies do not all build and operate the same way. Worth revisiting for asymmetry, with dated controls and compatibility in mind.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1900/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2005,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:1292180": {
+      "curatorWhy": "A post-apocalyptic C&C-era rediscovery with three distinct sides. Recent maintenance does not make it a new game, but it is useful for scratching the old-school skirmish itch.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1292180/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 1998,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:1292170": {
+      "curatorWhy": "A deliberately rough-edged post-apocalyptic classic. Best approached as a C&C-era curiosity with personality, not as a modern RTS replacement.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1292170/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 1997,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:289440": {
+      "curatorWhy": "A genuinely unusual older RTS with terrain shaping and transformative units. This is a creative mechanical detour rather than the closest match to Generals.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/289440/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2004,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:3556750": {
+      "curatorWhy": "The definitive-era package for a classic faction RTS with enormous personality. A particularly good choice for base construction and brutal sci-fi armies; distinguish this edition from older mod-specific builds.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/3556750/"
+      },
+      "tags": [
+        "AI skirmish",
+        "Base building",
+        "RTS",
+        "Recent RTS release"
+      ]
+    },
+    "steam:826630": {
+      "curatorWhy": "Dieselpunk mechs and cover-based warfare are the draw. Its sector-control battles differ from the freely expanding economy of Zero Hour, and player reception is mixed.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/826630/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:1202130": {
+      "curatorWhy": "A strong campaign-focused RTS about holding lines against alien swarms. Its constrained construction and mission design are not an open-ended Generals-style base-building sandbox.",
+      "rtsInfo": {
+        "baseBuilding": "Limited mission/base construction",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/1202130/"
+      },
+      "tags": [
+        "RTS"
+      ]
+    },
+    "steam:459220": {
+      "curatorWhy": "An accessible army builder with a substantial campaign and recognizable Halo units. Fixed base plots make it simpler and more constrained than Zero Hour.",
+      "rtsInfo": {
+        "baseBuilding": "Fixed base plots",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/459220/"
+      },
+      "tags": [
+        "RTS",
+        "AI skirmish"
+      ]
+    },
+    "steam:777770": {
+      "curatorWhy": "A dinosaur-and-fantasy-themed traditional RTS. The theme is appealing, but mixed reception keeps it behind the stronger fantasy recommendations.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/777770/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy."
+    },
+    "steam:896250": {
+      "curatorWhy": "A newer fantasy/sci-fi RTS discovery with encouraging but still limited Early Access feedback. Watch actual current gameplay, not just the advertised long-term ambition.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/896250/"
+      },
+      "tags": [
+        "Base building",
+        "RTS",
+        "Recent RTS release"
+      ]
+    },
+    "steam:1328990": {
+      "curatorWhy": "A particularly promising fantasy RTS for players who want heroes and base building without abandoning classic strategy structure. Still Early Access, despite strong reception.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1328990/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:1466860": {
+      "curatorWhy": "A polished historical alternative with economy, defenses, armies and distinct civilizations. A different military era, but a strong fit for the satisfaction of constructing a war machine.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1466860/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:813780": {
+      "curatorWhy": "A deeply established, content-rich base-building RTS. Less like modern military hardware, but an excellent long-term home for campaigns, skirmish and varied civilizations.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/813780/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:933110": {
+      "curatorWhy": "A strong choice when you want historical warfare to include gunpowder, artillery and asymmetric civilizations. Check the edition's current content rather than treating it as a new release.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/933110/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:1934680": {
+      "curatorWhy": "A great bridge from conventional armies to myth units and spectacular god powers. The base-building foundation remains familiar even when the battlefield becomes fantastical.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1934680/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:287450": {
+      "curatorWhy": "A very replayable historical RTS that advances through eras within a larger territorial game. More civilization-scale than Zero Hour, but excellent for building toward overwhelming armies.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/287450/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:254760": {
+      "curatorWhy": "A classic multi-era RTS newly available in this store edition. Its 2026 listing date is a reissue date, not evidence of a newly developed game.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/254760/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2001,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:254780": {
+      "curatorWhy": "The second Empire Earth remains a sprawling classic rather than a modern release. Investigate for eras, nations and large conflicts, with older-system compatibility in mind.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/254780/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2005,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:311290": {
+      "curatorWhy": "The most substantial RPG/RTS hybrid detour here. Play it for campaign characters and base-building battles, not for an exact imitation of modern military skirmish.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/311290/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:817540": {
+      "curatorWhy": "A standalone SpellForce 3 expansion for players who want story-heavy RPG progression alongside real-time army command. It does not require treating the base campaign as the same game.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/817540/"
+      },
+      "tags": [
+        "RTS",
+        "Base building"
+      ]
+    },
+    "steam:1154040": {
+      "curatorWhy": "A particularly appealing standalone fantasy campaign with RTS battles. A good choice for a memorable single-player journey rather than endless modern-war skirmishes.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/1154040/"
+      },
+      "tags": [
+        "RTS",
+        "Base building"
+      ]
+    },
+    "steam:946660": {
+      "curatorWhy": "An affordable old-school fantasy RTS with clear Warcraft-era inspiration. A useful hidden-gem candidate when compact campaigns and classic controls sound appealing.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/946660/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:433280": {
+      "curatorWhy": "Persistent heroes and many fantasy races give this classic unusual long-term build variety. Expect old-school compatibility and interface compromises.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/433280/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2004,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:333420": {
+      "curatorWhy": "A historical mass-army choice for large infantry formations and economy building. Much closer to the giant-battle fantasy than to Zero Hour's specialized modern units.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/333420/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:2012510": {
+      "curatorWhy": "A modern faction RTS with substantial negative reception. Included so the collection is informative, but not recommended ahead of the better-reviewed alternatives.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/2012510/"
+      },
+      "tags": [
+        "Base building",
+        "RTS",
+        "Recent RTS release"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy."
+    },
+    "steam:2921580": {
+      "curatorWhy": "An upcoming fantasy/sci-fi competitive RTS worth tracking, not a confirmed released alternative. Check public access separately from a Steam wishlist page.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Upcoming; advertised modes are not released features",
+        "sourceUrl": "https://store.steampowered.com/app/2921580/"
+      },
+      "tags": [
+        "RTS",
+        "Base building"
+      ],
+      "confidence": "Exploratory",
+      "recommendationCaution": "Watchlist only: no current purchase recommendation for an unreleased game.",
+      "fit": null,
+      "prospectiveFit": 8
+    },
+    "steam:1762570": {
+      "curatorWhy": "A recently released fleet-command detour with a different pace from ground RTS. Worth investigating for space warfare rather than assuming it replaces ground-base construction.",
+      "rtsInfo": {
+        "baseBuilding": "Fleet-focused; no conventional ground bases",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/1762570/"
+      },
+      "tags": [
+        "RTS",
+        "Recent RTS release"
+      ]
+    },
+    "steam:244160": {
+      "curatorWhy": "A beautifully distinctive fleet RTS collection built around three-dimensional battles and a mobile mothership. A great strategic detour, not a ground-base-building equivalent.",
+      "rtsInfo": {
+        "baseBuilding": "Mobile mothership and fleet production",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/244160/"
+      },
+      "tags": [
+        "RTS",
+        "AI skirmish"
+      ]
+    },
+    "steam:281610": {
+      "curatorWhy": "A strong single-player RTS with a mobile land carrier and desert warfare. Its setting and combined arms may appeal even though conventional construction is constrained.",
+      "rtsInfo": {
+        "baseBuilding": "Mobile carrier; not conventional base construction",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/281610/"
+      },
+      "tags": [
+        "RTS",
+        "AI skirmish"
+      ]
+    },
+    "steam:1840080": {
+      "curatorWhy": "A modern Homeworld sequel with very poor reception. Keep it as a heavily cautioned option; the remastered classics and Deserts of Kharak are safer starting points.",
+      "rtsInfo": {
+        "baseBuilding": "Mothership and fleet production",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1840080/"
+      },
+      "tags": [
+        "RTS",
+        "AI skirmish"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy.",
+      "fit": 5
+    },
+    "steam:1575940": {
+      "curatorWhy": "A compelling large-scale real-time space strategy game with orbital development and fleet warfare. More empire management than a short C&C skirmish.",
+      "rtsInfo": {
+        "baseBuilding": "Orbital structures and empire development",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1575940/"
+      },
+      "tags": [
+        "RTS",
+        "AI skirmish"
+      ]
+    },
+    "steam:204880": {
+      "curatorWhy": "An established real-time space-empire classic with extensive replayability. Its scale and economy are the connection; conventional ground bases are not.",
+      "rtsInfo": {
+        "baseBuilding": "Orbital structures and empire development",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/204880/"
+      },
+      "tags": [
+        "RTS",
+        "AI skirmish"
+      ]
+    },
+    "steam:32470": {
+      "curatorWhy": "A durable Star Wars strategy foundation with both space and ground battles and a major mod scene. Construction is more constrained than C&C, particularly in tactical battles.",
+      "rtsInfo": {
+        "baseBuilding": "Galactic development and fixed tactical build pads",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/32470/"
+      },
+      "tags": [
+        "RTS",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2006,
+      "releaseNote": "The sortable store date identifies this edition/listing; the original game is older."
+    },
+    "steam:573410": {
+      "curatorWhy": "An outstanding asymmetric challenge against an AI empire. The appeal is planning a war against an overwhelming opponent rather than mirrored faction duels.",
+      "rtsInfo": {
+        "baseBuilding": "Space structures and asymmetric empire warfare",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/573410/"
+      },
+      "tags": [
+        "RTS"
+      ]
+    },
+    "steam:40400": {
+      "curatorWhy": "The original AI War is a demanding strategic puzzle at enormous scale. Best for players who enjoy learning complex systems, not for a casual Zero Hour reskin.",
+      "rtsInfo": {
+        "baseBuilding": "Space structures and asymmetric empire warfare",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/40400/"
+      },
+      "tags": [
+        "RTS"
+      ]
+    },
+    "steam:1113030": {
+      "curatorWhy": "An indie fleet RTS with space-base construction and modular fleets. A promising niche choice, but still Early Access and smaller in audience than Homeworld or Sins.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1113030/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:887570": {
+      "curatorWhy": "Detailed fleet construction and tactical naval-style space combat. There is no normal base-building economy, so treat it as a tactical neighbor.",
+      "rtsInfo": {
+        "baseBuilding": "No conventional base-building economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/887570/"
+      },
+      "tags": [
+        "RTS",
+        "Tactical neighbor",
+        "AI skirmish"
+      ]
+    },
+    "steam:1677280": {
+      "curatorWhy": "A sector-control WWII RTS with base upgrades and tactical combat. Mixed reception matters, and its battlefield economy differs from free-form C&C construction.",
+      "rtsInfo": {
+        "baseBuilding": "Headquarters and sector-control construction",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1677280/"
+      },
+      "tags": [
+        "RTS",
+        "AI skirmish"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy."
+    },
+    "steam:231430": {
+      "curatorWhy": "A substantial WWII tactical RTS with faction bases, squads and territorial control. Good for intense engagements, but not the same economic sandbox as Zero Hour.",
+      "rtsInfo": {
+        "baseBuilding": "Headquarters and sector-control construction",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/231430/"
+      },
+      "tags": [
+        "RTS",
+        "AI skirmish"
+      ]
+    },
+    "steam:1611600": {
+      "curatorWhy": "Large modern-war battles with detailed combined arms and a tactical deployment system. No conventional base-building economy: pick it for military tactics, not construction.",
+      "rtsInfo": {
+        "baseBuilding": "No conventional base-building economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1611600/"
+      },
+      "tags": [
+        "RTS",
+        "Tactical neighbor",
+        "AI skirmish"
+      ]
+    },
+    "steam:1604270": {
+      "curatorWhy": "An ambitious modern-military tactical game with mixed reception. Its units may match the fantasy, but it does not offer the ordinary C&C base-building loop.",
+      "rtsInfo": {
+        "baseBuilding": "No conventional base-building economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1604270/"
+      },
+      "tags": [
+        "AI skirmish",
+        "RTS",
+        "Recent RTS release",
+        "Tactical neighbor"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy."
+    },
+    "steam:251060": {
+      "curatorWhy": "One of the strongest modern-military tactical detours for an enormous unit roster. Command forces and logistics rather than constructing a traditional RTS base.",
+      "rtsInfo": {
+        "baseBuilding": "No conventional base-building economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/251060/"
+      },
+      "tags": [
+        "RTS",
+        "Tactical neighbor",
+        "AI skirmish"
+      ]
+    },
+    "steam:1109680": {
+      "curatorWhy": "A particularly sensible single-player-focused tactical-war choice. It trades base building for battlefield command, making the distinction important before buying.",
+      "rtsInfo": {
+        "baseBuilding": "No conventional base-building economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1109680/"
+      },
+      "tags": [
+        "RTS",
+        "Tactical neighbor",
+        "AI skirmish"
+      ]
+    },
+    "steam:1839950": {
+      "curatorWhy": "A hard-edged campaign and tactical combat recommendation. Limited resources and unit preservation are central; a conventional freely constructed base is not.",
+      "rtsInfo": {
+        "baseBuilding": "No conventional base-building economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1839950/"
+      },
+      "tags": [
+        "RTS",
+        "Tactical neighbor",
+        "AI skirmish"
+      ]
+    },
+    "steam:1128860": {
+      "curatorWhy": "A WWII tactical option for detailed units and battlefield interaction. Mixed reception and the absence of normal base building keep it outside the closest-match shelf.",
+      "rtsInfo": {
+        "baseBuilding": "No conventional base-building economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/1128860/"
+      },
+      "tags": [
+        "RTS",
+        "Tactical neighbor"
+      ],
+      "recommendationCaution": "Reception is mixed or poor. This is a cautious discovery, not a top buy."
+    },
+    "steam:400750": {
+      "curatorWhy": "Detailed WWII warfare with direct unit control and realistic tactical stakes. A strong neighbor for military enthusiasts, not a C&C-style construction game.",
+      "rtsInfo": {
+        "baseBuilding": "No conventional base-building economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/400750/"
+      },
+      "tags": [
+        "RTS",
+        "Tactical neighbor"
+      ]
+    },
+    "steam:463530": {
+      "curatorWhy": "An excellent unusual RTS about building an ant colony and fielding armies. The theme is radically different, but the growth-and-war loop is genuinely relevant.",
+      "rtsInfo": {
+        "baseBuilding": "Underground colony construction",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/463530/"
+      },
+      "tags": [
+        "RTS",
+        "AI skirmish"
+      ]
+    },
+    "steam:923100": {
+      "curatorWhy": "An inventive RTS where organisms grow into functional fighting machines. A strong experimental discovery rather than a conventional faction-base clone.",
+      "rtsInfo": {
+        "baseBuilding": "Grow living organisms instead of normal bases",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/923100/"
+      },
+      "tags": [
+        "AI skirmish",
+        "RTS",
+        "Recent RTS release"
+      ]
+    },
+    "steam:1309610": {
+      "curatorWhy": "A smart alternative for lower-micro command: draw operational orders while managing territory and production. Current official metadata explicitly includes AI opponents and co-op against them.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1309610/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "steam:2239150": {
+      "curatorWhy": "A compact, highly regarded defense-and-economy game. Great for short strategic sessions, but not an enemy-base skirmish RTS.",
+      "rtsInfo": {
+        "baseBuilding": "Compact town construction and wave defense",
+        "skirmish": "Solo survival / defense, not symmetric skirmish",
+        "sourceUrl": "https://store.steampowered.com/app/2239150/"
+      },
+      "tags": [
+        "RTS"
+      ]
+    },
+    "steam:1272320": {
+      "curatorWhy": "A particularly satisfying fortification-and-army defense game. Build a town and survive huge assaults, rather than expecting symmetric faction warfare.",
+      "rtsInfo": {
+        "baseBuilding": "Settlement/fortress construction and wave defense",
+        "skirmish": "Solo survival / defense, not symmetric skirmish",
+        "sourceUrl": "https://store.steampowered.com/app/1272320/"
+      },
+      "tags": [
+        "RTS",
+        "Survival defense",
+        "Base building"
+      ]
+    },
+    "steam:1422440": {
+      "curatorWhy": "A creative fortress-building and defense RTS. Its architectural construction is the draw, and its survival structure is distinct from classic C&C matches.",
+      "rtsInfo": {
+        "baseBuilding": "Settlement/fortress construction and wave defense",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1422440/"
+      },
+      "tags": [
+        "AI skirmish",
+        "Base building",
+        "RTS",
+        "Recent RTS release",
+        "Survival defense"
+      ]
+    },
+    "steam:644930": {
+      "curatorWhy": "A classic survival RTS for building a fortified colony against overwhelming hordes. No enemy-base economy or Generals-style opposing faction production.",
+      "rtsInfo": {
+        "baseBuilding": "Settlement/fortress construction and wave defense",
+        "skirmish": "Solo survival / defense, not symmetric skirmish",
+        "sourceUrl": "https://store.steampowered.com/app/644930/"
+      },
+      "tags": [
+        "RTS",
+        "Survival defense",
+        "Base building"
+      ]
+    },
+    "steam:1426450": {
+      "curatorWhy": "A dark-fantasy survival alternative with large enemy swarms. Worth investigating for defense and escalation, while keeping its mixed reception in view.",
+      "rtsInfo": {
+        "baseBuilding": "Settlement/fortress construction and wave defense",
+        "skirmish": "Solo survival / defense, not symmetric skirmish",
+        "sourceUrl": "https://store.steampowered.com/app/1426450/"
+      },
+      "tags": [
+        "Base building",
+        "RTS",
+        "Recent RTS release",
+        "Survival defense"
+      ]
+    },
+    "steam:3052730": {
+      "curatorWhy": "A new survival-RTS discovery to inspect for fortified settlements and swarm pressure. Early Access means the current playable offering matters more than the roadmap.",
+      "rtsInfo": {
+        "baseBuilding": "Settlement/fortress construction and wave defense",
+        "skirmish": "Solo survival / defense, not symmetric skirmish",
+        "sourceUrl": "https://store.steampowered.com/app/3052730/"
+      },
+      "tags": [
+        "Base building",
+        "RTS",
+        "Recent RTS release",
+        "Survival defense"
+      ]
+    },
+    "steam:3010280": {
+      "curatorWhy": "A very new, small-audience RTS experiment with skirmish in its official feature set. Promising enough to inspect, but not yet an established must-buy.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/3010280/"
+      },
+      "tags": [
+        "AI skirmish",
+        "Base building",
+        "RTS",
+        "Recent RTS release"
+      ],
+      "confidence": "Exploratory",
+      "recommendationCaution": "Small review sample: treat this as a discovery to inspect, not a proven hit."
+    },
+    "steam:1996600": {
+      "curatorWhy": "An inventive tiny RTS built around networked structures and expansion rather than ordinary unit armies. Excellent as a mechanical detour, not the closest match to Zero Hour.",
+      "rtsInfo": {
+        "baseBuilding": "Capture/build a network; no conventional armies",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/1996600/"
+      },
+      "tags": [
+        "RTS"
+      ],
+      "confidence": "Exploratory",
+      "recommendationCaution": "Small review sample: treat this as a discovery to inspect, not a proven hit."
+    },
+    "steam:286000": {
+      "curatorWhy": "A compact controller-friendly RTS with animal armies and quick decisions. A good contrast to heavyweight military simulations and long base-building matches.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/286000/"
+      },
+      "tags": [
+        "RTS",
+        "Base building"
+      ]
+    },
+    "steam:2745870": {
+      "curatorWhy": "A nostalgic side-view tactical warfare collection. Clearly separated from full base-building RTS so it does not inflate the close-match recommendations.",
+      "rtsInfo": {
+        "baseBuilding": "No conventional base-building economy",
+        "skirmish": "Not confirmed by the current source; do not assume absence",
+        "sourceUrl": "https://store.steampowered.com/app/2745870/"
+      },
+      "tags": [
+        "RTS",
+        "Recent RTS release",
+        "Tactical neighbor"
+      ]
+    },
+    "steam:2599770": {
+      "curatorWhy": "A niche modern RTS with both base construction and a separate no-base tactical mode. The fit is relevant, but mixed feedback makes it a cautious discovery.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/2599770/"
+      },
+      "tags": [
+        "AI skirmish",
+        "Base building",
+        "RTS",
+        "Recent RTS release",
+        "Zero Hour-like"
+      ],
+      "recommendationCaution": "Small review sample: treat this as a discovery to inspect, not a proven hit.",
+      "confidence": "Exploratory"
+    },
+    "steam:1527070": {
+      "curatorWhy": "A small Early Access modern-war RTS with very poor feedback and limited currently described content. Investigate development health before spending; not a strong recommendation.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1527070/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ],
+      "recommendationCaution": "Small review sample: treat this as a discovery to inspect, not a proven hit.",
+      "confidence": "Exploratory",
+      "fit": 5
+    },
+    "steam:21970": {
+      "curatorWhy": "An interesting classic that combines deception, military production and WWII warfare. More directly relevant to base-building fans than many modern tactical wargames.",
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/21970/"
+      },
+      "tags": [
+        "RTS",
+        "Zero Hour-like",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "external:beyond-all-reason": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.beyondallreason.info/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "external:openra": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://openra.itch.io/openra"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "external:openhv": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.openhv.net/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "external:combined-arms": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.moddb.com/mods/command-conquer-combined-arms"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "Zero Hour-like",
+        "AI skirmish"
+      ]
+    },
+    "external:dawn-tiberium-age": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.moddb.com/mods/the-dawn-of-the-tiberium-age"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "Zero Hour-like",
+        "AI skirmish"
+      ]
+    },
+    "external:twisted-insurrection": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.moddb.com/mods/twisted-insurrection"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "Zero Hour-like",
+        "AI skirmish"
+      ]
+    },
+    "external:contra-x": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.moddb.com/mods/contra"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "Zero Hour-like",
+        "RTS mod",
+        "AI skirmish"
+      ]
+    },
+    "external:rise-of-the-reds": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.moddb.com/mods/rise-of-the-reds"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "Zero Hour-like",
+        "RTS mod",
+        "AI skirmish"
+      ]
+    },
+    "external:cc-shockwave": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.moddb.com/mods/cc-shockwave"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "Zero Hour-like",
+        "RTS mod",
+        "AI skirmish"
+      ]
+    },
+    "external:end-of-days-zh": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.moddb.com/mods/the-end-of-days"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "Zero Hour-like",
+        "RTS mod",
+        "AI skirmish"
+      ]
+    },
+    "external:generals-evolution": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.moddb.com/mods/command-and-conquer-generals-evolution"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "Zero Hour-like",
+        "RTS mod",
+        "AI skirmish"
+      ]
+    },
+    "external:mental-omega": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.moddb.com/mods/mental-omega"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "Zero Hour-like",
+        "RTS mod",
+        "AI skirmish"
+      ]
+    },
+    "external:0-ad": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://play0ad.com/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    },
+    "external:starcraft-2": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://starcraft2.blizzard.com/en-us/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2010
+    },
+    "external:starcraft-remastered": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://starcraft.blizzard.com/en-us/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2017
+    },
+    "external:warcraft-3-reforged": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://warcraft3.blizzard.com/en-us/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2020
+    },
+    "external:warcraft-1-remastered": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "Single-player campaign; check the remaster mode list",
+        "sourceUrl": "https://us.shop.battle.net/en-us/product/warcraft-1-remastered"
+      },
+      "tags": [
+        "RTS",
+        "Base building"
+      ],
+      "originalReleaseYear": 2024
+    },
+    "external:warcraft-2-remastered": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://us.shop.battle.net/en-us/product/warcraft-2-remastered"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2024
+    },
+    "external:empires-dawn-modern-world": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.gog.com/en/game/empires_dawn_of_the_modern_world"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2003
+    },
+    "external:world-in-conflict": {
+      "rtsInfo": {
+        "baseBuilding": "No conventional base-building economy",
+        "skirmish": "Tactical campaign; not a base-building skirmish",
+        "sourceUrl": "https://www.gog.com/en/game/world_in_conflict_complete_edition"
+      },
+      "tags": [
+        "RTS",
+        "Tactical neighbor"
+      ],
+      "originalReleaseYear": 2007
+    },
+    "external:warlords-battlecry-2": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://www.gog.com/en/game/warlords_battlecry_2"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ],
+      "originalReleaseYear": 2002
+    },
+    "external:littlewargame": {
+      "rtsInfo": {
+        "baseBuilding": "Construction and production economy",
+        "skirmish": "AI/skirmish available in the project or required base game",
+        "sourceUrl": "https://littlewargame.com/"
+      },
+      "tags": [
+        "RTS",
+        "Base building",
+        "AI skirmish"
+      ]
+    }
+  }
+}

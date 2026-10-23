@@ -18,7 +18,7 @@ Best approached for expressive movement, weapon interactions, and score mastery.
 | Release | Sep 3, 2020 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Arsi "Hakita" Patala |
 | Price snapshot | $29.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

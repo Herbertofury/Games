@@ -18,7 +18,7 @@ An experimental deep cut, not a polished 2026 standalone release. The old public
 | Release | 2019 (year only) |
 | Availability | Prototype |
 | Build type | Prototype / mod |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Sgt Mark IV |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

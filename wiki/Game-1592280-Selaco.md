@@ -18,7 +18,7 @@ A detailed tactical-combat and exploration pick built on GZDoom. Its Early Acces
 | Release | May 31, 2024 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Altered Orbit Studios |
 | Price snapshot | $24.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

@@ -14,7 +14,7 @@ Gunfire Reborn is a level-based adventure game featuring FPS, Roguelite and RPG.
 | Release | Nov 17, 2021 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Gunfire Reborn Studio |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

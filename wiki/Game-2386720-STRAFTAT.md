@@ -14,7 +14,7 @@ STRAFTAT is a 1v1/2v2 ONLINE first person SHOOTER with quick rounds in over 350 
 | Release | Oct 24, 2024 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Sirius Lemaitre, Léonard Lemaitre |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

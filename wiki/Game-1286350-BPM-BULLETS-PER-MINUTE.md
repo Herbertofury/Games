@@ -14,7 +14,7 @@ BPM is a rhythm-action FPS rogue-like where you must shoot, jump and dodge to th
 | Release | Sep 15, 2020 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Awe Interactive |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

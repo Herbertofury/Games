@@ -4,7 +4,7 @@
 
 ### [Open the interactive boomer shooters library](https://herbertofury.github.io/Games/#hub=Boomer+shooters)
 
-[Download the portable interactive library](https://github.com/Herbertofury/Games/releases/latest) | [Every shooter: artwork, videos, stores](Boomer-Shooters-Media)
+[Download the portable interactive library](https://github.com/Herbertofury/Games/releases/latest) | [Shooter media atlas](Boomer-Shooters-Media) | [RTS media atlas](RTS-Media)
 
 **Search, filters, sortable ratings, embedded trailers, full galleries, favorites, private notes, and comparison.** All records below use the same source snapshot as the app. The portable HTML works without a web server; the hosted address requires GitHub Pages to be enabled.
 
@@ -202,7 +202,7 @@ Smaller-audience discoveries, not a claim that obscurity guarantees quality. Nat
 | [Starship Troopers: Ultimate Bug War!](Game-2321780-Starship-Troopers-Ultimate-Bug-War) | 8/10 | 92.5% / 1,497 Steam reviews | Mar 16, 2026 · Released | [Steam](https://store.steampowered.com/app/2321780/) |
 | [Slayers X: Terminal Aftermath: Vengance of the Slayer](Game-1931020-Slayers-X-Terminal-Aftermath-Vengance-of-the-Slayer) | 8/10 | 97.4% / 1,443 Steam reviews | Jun 1, 2023 · Released | [Steam](https://store.steampowered.com/app/1931020/) |
 | [Project Warlock II](Game-1640300-Project-Warlock-II) | 8/10 | 81.1% / 1,381 Steam reviews | May 28, 2025 · Released | [Steam](https://store.steampowered.com/app/1640300/) · [GOG](https://www.gog.com/en/game/project_warlock_2) · [itch.io](https://retrovibe.itch.io/project-warlock-ii) |
-| [G String](Game-1224600-G-String) | 8/10 | 84.1% / 1,325 Steam reviews | Oct 16, 2020 · Released | [Steam](https://store.steampowered.com/app/1224600/) · [ModDB](https://www.moddb.com/mods/g-string) · [ModDB](https://rss.moddb.com/mods/g-string/articles/feed/rss.xml) · [ModDB](https://rss.moddb.com/mods/g-string/downloads/feed/rss.xml) · [ModDB](https://www.moddb.com/mods/g-string?filter=t&rating=8) |
+| [G String](Game-1224600-G-String) | 8/10 | 84.1% / 1,325 Steam reviews | Oct 16, 2020 · Released | [Steam](https://store.steampowered.com/app/1224600/) · [ModDB](https://www.moddb.com/mods/g-string) · [ModDB](https://www.moddb.com/mods/g-string?filter=t&rating=8) · [ModDB](https://rss.moddb.com/mods/g-string/articles/feed/rss.xml) · [ModDB](https://rss.moddb.com/mods/g-string/downloads/feed/rss.xml) |
 | [Luna Abyss](Game-1933000-Luna-Abyss) | 8/10 | 87.4% / 1,079 Steam reviews | May 21, 2026 · Released | [Steam](https://store.steampowered.com/app/1933000/) |
 | [Guns and Nuns: Storming Hell](Game-3818000-Guns-and-Nuns-Storming-Hell) | 8/10 | 88.8% / 1,016 Steam reviews | Apr 3, 2026 · Released | [Steam](https://store.steampowered.com/app/3818000/) |
 | [Vomitoreum](Game-1549750-Vomitoreum) | 8/10 | 91.3% / 997 Steam reviews | Jul 30, 2021 · Released | [Steam](https://store.steampowered.com/app/1549750/) · [itch.io](https://scumhead.itch.io/vomitoreumgame) |
@@ -400,7 +400,7 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | [Blood West](Game-1587130-Blood-West) | 9/10 | 89.7% / 6,793 Steam reviews | Dec 5, 2023 · Released | [Steam](https://store.steampowered.com/app/1587130/) · [GOG](https://www.gog.com/en/game/blood_west) |
 | [ADACA](Game-1765780-ADACA) | 9/10 | 91.6% / 902 Steam reviews | Jul 25, 2022 · Released | [Steam](https://store.steampowered.com/app/1765780/) · [itch.io](https://siris-pendrake.itch.io/adaca) |
 | [Peripeteia](Game-1437760-Peripeteia) | 8/10 | 86.2% / 3,532 Steam reviews | Feb 21, 2025 · Early Access | [Steam](https://store.steampowered.com/app/1437760/) · [itch.io](https://9thexodus.itch.io/peripeteia) · [IndieDB](https://www.indiedb.com/games/peripeteia) |
-| [G String](Game-1224600-G-String) | 8/10 | 84.1% / 1,325 Steam reviews | Oct 16, 2020 · Released | [Steam](https://store.steampowered.com/app/1224600/) · [ModDB](https://www.moddb.com/mods/g-string) · [ModDB](https://rss.moddb.com/mods/g-string/articles/feed/rss.xml) · [ModDB](https://rss.moddb.com/mods/g-string/downloads/feed/rss.xml) · [ModDB](https://www.moddb.com/mods/g-string?filter=t&rating=8) |
+| [G String](Game-1224600-G-String) | 8/10 | 84.1% / 1,325 Steam reviews | Oct 16, 2020 · Released | [Steam](https://store.steampowered.com/app/1224600/) · [ModDB](https://www.moddb.com/mods/g-string) · [ModDB](https://www.moddb.com/mods/g-string?filter=t&rating=8) · [ModDB](https://rss.moddb.com/mods/g-string/articles/feed/rss.xml) · [ModDB](https://rss.moddb.com/mods/g-string/downloads/feed/rss.xml) |
 | [Agent 64: Spies Never Die](Game-1574480-Agent-64-Spies-Never-Die) | 8/10 | 87.0% / 987 Steam reviews | Aug 11, 2026 · Released | [Steam](https://store.steampowered.com/app/1574480/) |
 | [RetroSpace](Game-2067820-RetroSpace) | 8/10 | 89.8% / 541 Steam reviews | Oct 1, 2026 · Released | [Steam](https://store.steampowered.com/app/2067820/) |
 | [A.W.O.L.](Game-1740150-A-W-O-L) | 7/10 | 78.9% / 1,158 Steam reviews | Sep 15, 2022 · Released | [Steam](https://store.steampowered.com/app/1740150/) |

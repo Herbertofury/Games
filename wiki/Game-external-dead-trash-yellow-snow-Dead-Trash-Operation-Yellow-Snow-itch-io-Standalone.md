@@ -18,7 +18,7 @@ A small paid curiosity for fans of the base game's grimy tone. The itch.io versi
 | Release | Original date unlisted |
 | Availability | Released |
 | Build type | Standalone expansion |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Crowhill Studios |
 | Price snapshot | See official source |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

@@ -18,7 +18,7 @@ An arena-focused curiosity with less certain reception than the strongest recomm
 | Release | May 8, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Double Barrel Games |
 | Price snapshot | $14.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

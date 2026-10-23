@@ -14,7 +14,7 @@ Join BRUTAL JOHN and BRUTAL DOG in a ultraviolent old-school FPS set in a world 
 | Release | Jul 22, 2025 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | OldSchool Laws Team |
 | Price snapshot | $12.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

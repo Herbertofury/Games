@@ -14,7 +14,7 @@ Rip out organs and equip them in your own body. Fight biopunk monsters and drugg
 | Release | Dec 10, 2021 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Miziziziz |
 | Price snapshot | $19.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

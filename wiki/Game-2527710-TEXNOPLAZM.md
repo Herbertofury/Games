@@ -14,7 +14,7 @@ Punch enemies, take their weapons, and switch combat styles on the fly. Blend co
 | Release | Aug 4, 2025 |
 | Availability | Early Access |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Mothership Loudspeakerz |
 | Price snapshot | $15.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

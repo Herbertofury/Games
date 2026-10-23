@@ -18,7 +18,7 @@ A substantial standalone campaign outside the big stores. Its ambitious presenta
 | Release | 2021 (year only) |
 | Availability | Released |
 | Build type | Free standalone |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Realm667 / Blade of Agony team |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

@@ -48,9 +48,11 @@ def assemble(catalog):
         g.setdefault('storefronts',[{'provider':'Steam','url':g['steamUrl'],'kind':'store','verified':g.get('verification')=='verified','lastChecked':g.get('verifiedAt')}] if g.get('steamUrl') else [])
     shooters=load('data/shooters-steam.json',{'items':[],'unresolved':[]})
     external=load('data/shooters-external.json',{'items':[]})
-    for source in [shooters,external]:
+    rts=load('data/rts-steam.json',{'items':[],'unresolved':[]})
+    rts_external=load('data/rts-external.json',{'items':[]})
+    for source,hub in [(shooters,'Boomer shooters'),(external,'Boomer shooters'),(rts,'Real-time strategy'),(rts_external,'Real-time strategy')]:
         for item in source['items']:
-            g=copy.deepcopy(item);g.setdefault('hubs',['Boomer shooters']);g.setdefault('collections',[g['collection']])
+            g=copy.deepcopy(item);g.setdefault('hubs',[hub]);g.setdefault('collections',[g['collection']])
             if g['id'] in games:
                 old=games[g['id']]
                 if 'Roguelites' in old.get('hubs',[]):
@@ -59,14 +61,18 @@ def assemble(catalog):
                     old['tags']=sorted(set(old.get('tags',[])+g.get('tags',[])))
                     continue
             games[g['id']]=g
-    for overlay in ['data/shooters-curation.json','data/storefront-discovery.json','data/media-completion.json']:
+    for overlay in ['data/shooters-curation.json','data/storefront-discovery.json','data/media-completion.json','data/rts-storefronts.json','data/rts-curation.json','data/rts-media-completion.json']:
         overrides=load(overlay,{'overrides':{}})
         for ident,extra in overrides.get('overrides',{}).items():
             if ident not in games:continue
             g=games[ident]
+            replacements=extra.get('_replace',{})
+            assert set(replacements)<=set(['image','background','screenshots','trailers','storefronts','sources','primaryUrl','website']), 'Unapproved replacement field'
+            for field,value in replacements.items():g[field]=copy.deepcopy(value)
             for k,v in extra.items():
+                if k=='_replace':continue
                 if k in ['storefronts','sources']:
-                    if k=='storefronts' and overlay=='data/storefront-discovery.json':v=normalized_links(v)
+                    if k=='storefronts' and overlay in ['data/storefront-discovery.json','data/rts-storefronts.json']:v=normalized_links(v)
                     def link_key(x):
                         u=urllib.parse.urlsplit(x['url'])
                         return ((u.hostname or '').removeprefix('www.'),u.path.rstrip('/'),u.query)
@@ -77,14 +83,17 @@ def assemble(catalog):
                 elif k=='tags':g[k]=sorted(set(g.get(k,[])+v))
                 else:g[k]=v
     out=sorted(games.values(),key=lambda g:g['name'].casefold())
-    for g in out:validate(g)
+    for g in out:
+        g.setdefault("appid",None)
+        if g.get("verification")!="verified":g["fit"]=None
+        validate(g)
     assert len({g['id'] for g in out})==len(out),'Duplicate game identities'
     assert len([g for g in out if 'Roguelites' in g.get('hubs',[])])>=len(baseids),'Original recommendations lost'
     c=copy.deepcopy(catalog);c['items']=out
-    dates=[x for x in [c.get('generatedAt'),shooters.get('generatedAt'),external.get('generatedAt'),load('data/media-completion.json',{}).get('generatedAt'),load('data/storefront-discovery.json',{}).get('generatedAt')] if x]
+    dates=[x for x in [c.get('generatedAt'),shooters.get('generatedAt'),external.get('generatedAt'),rts.get('generatedAt'),rts_external.get('generatedAt'),load('data/rts-curation.json',{}).get('generatedAt'),load('data/rts-media-completion.json',{}).get('generatedAt'),load('data/media-completion.json',{}).get('generatedAt'),load('data/storefront-discovery.json',{}).get('generatedAt')] if x]
     c['generatedAt']=max(dates) if dates else None
     c['sources']=[{'provider':'Steam','kind':'canonical-facts','description':'Official metadata and all-language review totals.'},{'provider':'Creator and community hosts','kind':'curated-facts','description':'Exact creator pages, download records, and dated developer updates. Support links are not licenses.'}]
-    b=c.setdefault('build',{});b.update(generator='games-catalog/1.2.0',inputCount=len(out),verifiedCount=sum(g.get('verification')=='verified' for g in out),unresolvedCount=sum(g.get('verification')!='verified' for g in out),candidateUnresolved=shooters.get('unresolved',[]),mediaCount=sum(bool(g.get('image'))+len(g.get('screenshots',[]))+len(g.get('trailers',[])) for g in out))
+    b=c.setdefault('build',{});b.update(generator='games-catalog/1.3.0',inputCount=len(out),verifiedCount=sum(g.get('verification')=='verified' for g in out),unresolvedCount=sum(g.get('verification')!='verified' for g in out),candidateUnresolved=shooters.get('unresolved',[])+rts.get('unresolved',[]),candidateDispositions=rts.get('dispositions',[]),mediaCount=sum(bool(g.get('image'))+len(g.get('screenshots',[]))+len(g.get('trailers',[])) for g in out))
     b['hubCounts']={hub:sum(hub in g.get('hubs',[]) for g in out) for hub in sorted({h for g in out for h in g.get('hubs',[])})}
     b['datasetHash']=hashlib.sha256(json.dumps(out,sort_keys=True,ensure_ascii=False).encode()).hexdigest()
     return c

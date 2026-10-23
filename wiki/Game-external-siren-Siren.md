@@ -18,7 +18,7 @@ A promising mod-scene discovery for horror FPS fans; it is deliberately separate
 | Release | Original date unlisted |
 | Availability | Prototype |
 | Build type | Playable mod build |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Dithered Output |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:35:12.994433+00:00 |

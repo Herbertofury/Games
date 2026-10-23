@@ -14,7 +14,7 @@ Roboquest is a fast FPS Roguelite in a scorched futureworld. You're a rebooted G
 | Release | Nov 7, 2023 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | RyseUp Studios |
 | Price snapshot | $24.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

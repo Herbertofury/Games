@@ -14,7 +14,7 @@ A.W.O.L. is a first-person, mil-spec shooter developed using the Build engine (D
 | Release | Sep 15, 2022 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Shotspark Studios |
 | Price snapshot | Free / optional donation |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

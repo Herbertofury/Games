@@ -14,7 +14,7 @@ Hunt the military-industrial complex across stylish comic book micro-sandboxes i
 | Release | Sep 10, 2024 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Strange Scaffold |
 | Price snapshot | $12.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

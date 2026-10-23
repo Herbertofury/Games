@@ -14,7 +14,7 @@ So.... got what it takes to be a X Slayer?!?... 7 weapons, blood and gore, twist
 | Release | Jun 1, 2023 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Big Z Studios Inc. |
 | Price snapshot | $16.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

@@ -14,7 +14,7 @@ A retro FPS set in a faux norse-celtic fantasy world in the midst of a war with 
 | Release | Oct 11, 2021 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Mockingbird Softworks |
 | Price snapshot | $5.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

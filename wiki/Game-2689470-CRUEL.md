@@ -14,7 +14,7 @@ A fast run and gun horror shooter with roguelike elements
 | Release | Jan 9, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | James Dornan |
 | Price snapshot | $9.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

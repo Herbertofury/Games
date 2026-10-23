@@ -18,7 +18,7 @@ A distinctive smaller-audience sci-fi campaign with a strong visual identity and
 | Release | Jan 2, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | doekuramori |
 | Price snapshot | $14.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

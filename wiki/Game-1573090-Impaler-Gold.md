@@ -14,7 +14,7 @@ Impaler Gold is a fast-paced minimalistic arena shooter - now expanded and impro
 | Release | Dec 6, 2022 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Apptivus |
 | Price snapshot | $4.99 |
 | Verified | 2026-10-23T06:53:52.190809+00:00 |

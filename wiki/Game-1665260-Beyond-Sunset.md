@@ -14,7 +14,7 @@ Cyberpunk first-person shooter with a rich story and RPG elements. You are Lucy,
 | Release | Sep 12, 2025 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Metacorp / Vaporware |
 | Price snapshot | $9.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

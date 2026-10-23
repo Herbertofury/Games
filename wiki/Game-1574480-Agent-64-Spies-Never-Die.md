@@ -14,7 +14,7 @@ A retro spy FPS inspired by the N64 era. Go guns-blazing in action-packed shooto
 | Release | Aug 11, 2026 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Replicant D6 |
 | Price snapshot | $21.64 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

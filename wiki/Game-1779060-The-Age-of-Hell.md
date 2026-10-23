@@ -14,7 +14,7 @@ Take up thy hammer and lay waste to the hordes of hell. Hold fast against the le
 | Release | Coming soon |
 | Availability | Upcoming |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | Hellforge Studios |
 | Price snapshot | See official source |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

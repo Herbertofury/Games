@@ -14,7 +14,7 @@ Developed by id Software, and originally released in 1993 and 1994, the definiti
 | Release | Aug 3, 2007 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Core retro / movement FPS |
+| Play style | Core retro / movement FPS |
 | Creators | id Software, Night Dive Studios, Romero Games Ltd, MachineGames |
 | Price snapshot | $9.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |

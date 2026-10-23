@@ -14,7 +14,7 @@ Blast through a cursed nightmare solo or with up to 3 friends. A retro-inspired 
 | Release | Mar 28, 2022 |
 | Availability | Released |
 | Build type | Standalone game |
-| FPS style | Adjacent FPS |
+| Play style | Adjacent FPS |
 | Creators | Blazing Bit Games |
 | Price snapshot | $24.99 |
 | Verified | 2026-10-23T06:23:54.178310+00:00 |
