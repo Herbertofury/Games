@@ -1,0 +1,36 @@
+name: Capture Reawakening preview
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/capture-reawakening.yml']
+permissions:
+  contents: read
+jobs:
+  stop-superseded-wait:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          STATE=$(gh api repos/Herbertofury/Games/actions/runs/39996322656 --jq .status)
+          if [ "$STATE" != completed ]; then gh api -X POST repos/Herbertofury/Games/actions/runs/39996322656/cancel; fi
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Install only the small required tools using the existing package index
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          timeout 120 sudo apt-get -o Acquire::Retries=0 -o Acquire::http::Timeout=15 install -y --no-install-recommends xvfb openbox xdotool ffmpeg libgl1-mesa-dri
+      - name: Record the actual public Linux build
+        run: python3 scripts/capture_metroidvania_native.py reawakening
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: reawakening-preview
+          path: qa/native-reawakening
