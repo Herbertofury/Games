@@ -1,0 +1,27 @@
+name: Add game recommendation
+on:
+  issues:
+    types: [opened, edited]
+permissions:
+  contents: write
+concurrency:
+  group: catalog-refresh
+  cancel-in-progress: false
+jobs:
+  add:
+    if: github.event.sender.login == github.repository_owner && startsWith(github.event.issue.title, '[Game]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/add_game.py
+      - run: python3 scripts/refresh.py --force
+      - name: Commit the updated canonical data
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/
+          git diff --cached --quiet && exit 0
+          git commit -m 'Import reviewed game recommendation and refresh Steam facts'
+          git pull --rebase origin main
+          git push origin HEAD:main
