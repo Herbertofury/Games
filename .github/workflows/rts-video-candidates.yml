@@ -1,0 +1,67 @@
+name: Resolve RTS video candidates
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/rts-video-candidates.yml']
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Resolve public video identities without substituting unrelated editions
+        shell: python
+        run: |
+          import concurrent.futures,html,json,pathlib,re,sys,urllib.parse,urllib.request
+          sys.path.insert(0,'scripts')
+          import discover_storefronts as net
+          from bs4 import BeautifulSoup
+          out=pathlib.Path('qa/rts-videos');out.mkdir(parents=True,exist_ok=True)
+          queries={'act-direct':'Act of War Direct Action gameplay','act-treason':'Act of War High Treason gameplay','empires':'Empires Dawn of the Modern World gameplay','world-conflict':'World in Conflict Complete Edition gameplay','warlords2':'Warlords Battlecry 2 gameplay','littlewargame':'Littlewargame gameplay','starcraft-remastered':'StarCraft Remastered official trailer 2017','warcraft3':'Warcraft 3 Reforged official gameplay','end-days':'Command Conquer Generals The End of Days mod gameplay'}
+          def text(x):return x.get('simpleText') or ''.join(r.get('text','') for r in x.get('runs',[]))
+          def search(pair):
+            key,q=pair;url='https://www.youtube.com/results?search_query='+urllib.parse.quote(q)
+            try:
+              raw,final,_=net.read(url);match=re.search(r'(?:var\s+)?ytInitialData\s*=\s*',raw)
+              if not match:raise ValueError('No public result data; no bypass attempted')
+              data=json.JSONDecoder().raw_decode(raw[match.end():])[0];found=[]
+              def walk(x):
+                if isinstance(x,dict):
+                  if 'videoRenderer' in x:
+                    v=x['videoRenderer'];found.append({'id':v.get('videoId'),'title':text(v.get('title',{})),'author':text(v.get('ownerText',{})),'length':text(v.get('lengthText',{})),'thumbnail':v.get('thumbnail',{}).get('thumbnails',[]),'published':text(v.get('publishedTimeText',{}))})
+                  else:
+                    for v in x.values():walk(v)
+                elif isinstance(x,list):
+                  for v in x:walk(v)
+              walk(data)
+              return {'key':key,'query':q,'url':url,'results':found}
+            except Exception as e:return {'key':key,'query':q,'error':str(e)}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:results=list(pool.map(search,queries.items()))
+          pages={'eugen-aoa':'https://eugensystems.com/games/aoa/','eugen-wargame':'https://eugensystems.com/games/wargame3/','eugen-actwar':'https://eugensystems.com/games/actofwar/','warcraft3':'https://warcraft3.blizzard.com/en-us/','supcom':'https://video.gameswelt.de/embed/124829','faf':'https://www.faforever.com/'}
+          def page(pair):
+            key,u=pair
+            try:
+              raw,final,_=net.read(u);(out/(key+'.html')).write_text(raw);s=BeautifulSoup(raw,'html.parser');body=html.unescape(raw.replace('\\/','/'))
+              ids=re.findall(r'(?:youtube(?:-nocookie)?\.com/(?:embed\s*/|watch\?v=)|youtu\.be/|"youtube(?:-id|Id)"\s*:\s*")([A-Za-z0-9_-]{11})',body)
+              files=re.findall(r'https?://[^\s\"\'<>]+\.(?:mp4|webm|m3u8)(?:\?[^\s\"\'<>]*)?',body)
+              links=[{'title':a.get_text(' ',strip=True),'url':urllib.parse.urljoin(final,a['href'])} for a in s.select('a[href]') if any(x in a['href'] for x in ['gamesplanet','epicgames','battle.net','youtu','gog.com','patreon'])]
+              return {'key':key,'url':u,'final':final,'title':s.title.get_text(' ',strip=True) if s.title else '', 'youtube':list(dict.fromkeys(ids)),'files':list(dict.fromkeys(files)),'links':links}
+            except Exception as e:return {'key':key,'url':u,'error':str(e)}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:page_results=list(pool.map(page,pages.items()))
+          fixed=['ryZ2jiW95qo','8L4kNzTNnqk','VSGmPpidDvo','MVbeoSPqRs4','M_XwzBMTJaM','m0g0MpllFCs','Fmu8PsUDDtQ','Lq74R7wWAnQ']
+          ids=list(dict.fromkeys(fixed+[v for r in page_results for v in r.get('youtube',[])]))
+          def meta(v):
+            u='https://www.youtube.com/oembed?url='+urllib.parse.quote('https://www.youtube.com/watch?v='+v,safe='')+'&format=json'
+            try:return {'id':v,**net.api(u)}
+            except Exception as e:return {'id':v,'error':str(e)}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:metadata=list(pool.map(meta,ids))
+          (out/'report.json').write_text(json.dumps({'searches':results,'pages':page_results,'metadata':metadata},indent=2)+'\n')
+          print(json.dumps({'searches':results,'pages':page_results,'metadata':metadata},indent=2))
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: rts-video-candidates
+          path: qa/rts-videos
