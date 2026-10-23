@@ -1,0 +1,70 @@
+name: Verify final RTS sources
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/rts-final-source-check.yml']
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Resolve selected public sources without repeating discovery
+        shell: python
+        run: |
+          import concurrent.futures,html,json,pathlib,re,sys,urllib.parse
+          sys.path.insert(0,'scripts')
+          import discover_storefronts as net
+          from bs4 import BeautifulSoup
+          out=pathlib.Path('qa/rts-final-sources');out.mkdir(parents=True,exist_ok=True)
+          ids=['jqlyMDiZHLE','eQ51eGSx38c','WVrUQwiJsv0','Ue0GNIAfd20','y9Z-TMwyoJc','WwbUOen0wFs','OIWbdRgnXjo','h4Wtim9Wgic','JgpL1UvmnrE','ioCRo2sj9Eo','Q2zfx5hQ3CE']
+          def video(v):
+            u='https://www.youtube.com/oembed?url='+urllib.parse.quote('https://www.youtube.com/watch?v='+v,safe='')+'&format=json'
+            try:return {'id':v,'sourceUrl':u,**net.api(u)}
+            except Exception as e:return {'id':v,'sourceUrl':u,'error':str(e)}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=4) as p:metadata=list(p.map(video,ids))
+          urls={
+            'sc-remastered-news':'https://news.blizzard.com/en-us/article/20977641/starcraft-remastered-is-live',
+            'sc-remastered-xbox':'https://www.xbox.com/en-US/games/store/starcraft-remastered/9n2gwlmchjtn',
+            'supcom-playlist':'https://video.gameswelt.de/source/23q0ze3d1x.json',
+            'dying-breed':'https://sarnayer.itch.io/dying-breed',
+            'machinefall':'https://machinefall.itch.io/machinefall',
+            'stellar-warfare':'https://tensegames.itch.io/stellar-warfare',
+            'diplomacy':'https://door407.itch.io/diplomacy-is-not-an-option',
+            'tooth-tail':'https://pocketwatch.itch.io/tooth-and-tail',
+            'total-annihilation':'https://www.gog.com/en/game/total_annihilation_commander_pack',
+            'tactical-warfare':'https://www.gog.com/en/game/tactical_warfare_bundle',
+            'warlords3':'https://www.gog.com/en/game/warlords_battlecry_3',
+            'zero-k':'https://zero-k.info/',
+            'warzone':'https://wz2100.net/',
+            'ea-collection':'https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection'
+          }
+          def page(pair):
+            key,u=pair
+            try:
+              raw,final,typ=net.read(u);(out/(key+'.txt')).write_text(raw)
+              if key=='supcom-playlist':return {'key':key,'url':u,'data':json.loads(raw)}
+              s=BeautifulSoup(raw,'html.parser');body=html.unescape(raw.replace('\\/','/'))
+              for x in list(s.select('#comments,.comments,.community_posts,footer,nav')):x.decompose()
+              area=s.select_one('.formatted_description') or s.select_one('article') or s
+              title=s.title.get_text(' ',strip=True) if s.title else ''
+              pictures=[dict(x.attrs) for x in s.select('meta[property="og:image"],.formatted_description img,article img')]
+              yt=list(dict.fromkeys(re.findall(r'(?:youtube(?:-nocookie)?\.com/(?:embed/|watch\?v=)|youtu\.be/)([A-Za-z0-9_-]{11})',body)))
+              result={'key':key,'url':u,'final':final,'title':title,'youtube':yt,'images':pictures,'description':area.get_text(' ',strip=True)[:30000],'uploads':[x.get_text(' ',strip=True) for x in s.select('.upload_list_widget .upload')],'metadata':s.select_one('.game_info_panel_widget').get_text(' ',strip=True) if s.select_one('.game_info_panel_widget') else '', 'outbound':[{'url':urllib.parse.urljoin(final,a['href']),'label':a.get_text(' ',strip=True)} for a in s.select('a[href]') if any(t in a['href'] for t in ['itch.io','gog.com','ea.com','eaapp','battle.net','patreon'])]}
+              match=re.search(r'cardProduct\s*:\s*',raw)
+              if match:
+                try:result['cardProduct']=json.JSONDecoder().raw_decode(raw[match.end():])[0]
+                except ValueError:pass
+              return result
+            except Exception as e:return {'key':key,'url':u,'error':str(e)}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=4) as p:pages=list(p.map(page,urls.items()))
+          report={'videos':metadata,'pages':pages};(out/'report.json').write_text(json.dumps(report,indent=2)+'\n')
+          print(json.dumps({'videos':metadata,'pages':[{k:v for k,v in r.items() if k not in ['description','cardProduct','outbound']} for r in pages]},indent=2))
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: rts-final-sources
+          path: qa/rts-final-sources
