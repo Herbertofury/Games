@@ -1,0 +1,42 @@
+name: Discover alternate stores
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/discover_storefronts.py','.github/workflows/discover-stores.yml']
+permissions:
+  contents: write
+concurrency:
+  group: store-discovery
+  cancel-in-progress: false
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Resolve exact official listings
+        run: |
+          python3 -m pip install beautifulsoup4==4.13.4
+          python3 -m py_compile scripts/discover_storefronts.py
+          python3 scripts/discover_storefronts.py
+      - name: Preserve verified discoveries and unresolved candidates
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/storefront-discovery.json data/storefront-discovery-report.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record exact alternate stores and per-game discovery coverage'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: storefront-discovery
+          path: |
+            data/storefront-discovery*.json
+            scripts/discover_storefronts.py
