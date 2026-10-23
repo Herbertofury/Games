@@ -1,0 +1,34 @@
+name: Recover RTS checkpoint
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/recover-rts-checkpoint.yml']
+permissions:
+  contents: read
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+      - name: Export exact source and recover the staged patch prefix
+        shell: python
+        run: |
+          import base64,hashlib,json,lzma,pathlib,subprocess,zipfile
+          root=pathlib.Path.cwd();out=root/'recovery';out.mkdir()
+          names=subprocess.check_output(['git','ls-files','-z']).decode().split('\0')
+          with zipfile.ZipFile(out/'source.zip','w',zipfile.ZIP_DEFLATED) as z:
+            for n in names:
+              if n:z.write(root/n,n)
+          chunks=sorted((root/'.bootstrap').glob('rts-*.b64'))
+          encoded=''.join(p.read_text().strip() for p in chunks)
+          encoded=encoded[:len(encoded)//4*4]
+          raw=base64.b64decode(encoded,validate=True)
+          dec=lzma.LZMADecompressor();text=dec.decompress(raw)
+          (out/'rts-recovered-prefix.json.part').write_bytes(text)
+          report={'sourceRevision':subprocess.check_output(['git','rev-parse','HEAD']).decode().strip(),'chunks':[p.name for p in chunks],'compressedBytes':len(raw),'recoveredBytes':len(text),'streamComplete':dec.eof,'sourceArchiveSha256':hashlib.sha256((out/'source.zip').read_bytes()).hexdigest()}
+          (out/'recovery.json').write_text(json.dumps(report,indent=2));print(json.dumps(report,indent=2))
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rts-recovered-checkpoint
+          path: recovery/
