@@ -6,16 +6,6 @@ on:
 permissions:
   contents: read
 jobs:
-  stop-superseded-wait:
-    runs-on: ubuntu-latest
-    permissions:
-      actions: write
-    steps:
-      - env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          STATE=$(gh api repos/Herbertofury/Games/actions/runs/39996322656 --jq .status)
-          if [ "$STATE" != completed ]; then gh api -X POST repos/Herbertofury/Games/actions/runs/39996322656/cancel; fi
   capture:
     runs-on: ubuntu-latest
     timeout-minutes: 6
@@ -23,10 +13,19 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
-      - name: Install only the small required tools using the existing package index
+      - name: Install only capture tools, without the unrelated Openbox and Ghostscript dependency chain
         run: |
           python3 -m pip install -r requirements-dev.txt
-          timeout 120 sudo apt-get -o Acquire::Retries=0 -o Acquire::http::Timeout=15 install -y --no-install-recommends xvfb openbox xdotool ffmpeg libgl1-mesa-dri
+          timeout 120 sudo apt-get -o Acquire::Retries=0 -o Acquire::http::Timeout=15 install -y --no-install-recommends xvfb xdotool ffmpeg libgl1-mesa-dri
+      - name: Use direct X11 focus when no desktop window manager is installed
+        shell: python
+        run: |
+          from pathlib import Path
+          p=Path('scripts/capture_metroidvania_native.py');s=p.read_text()
+          old="wm=subprocess.Popen(['openbox'],env=env,stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL);processes.append(wm)"
+          new="wm=subprocess.Popen(['openbox'],env=env,stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL) if shutil.which('openbox') else None\n  if wm:processes.append(wm)"
+          assert old in s
+          p.write_text(s.replace(old,new,1))
       - name: Record the actual public Linux build
         run: python3 scripts/capture_metroidvania_native.py reawakening
       - uses: actions/upload-artifact@v4
