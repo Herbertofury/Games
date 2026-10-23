@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-10-23T07:14:49.517424+00:00",
+  "gamesChecked": 126,
+  "recordsWithAlternates": 62,
+  "confirmedLinks": 118,
+  "pendingCandidates": 146,
+  "probes": [
+    {
+      "provider": "GOG",
+      "route": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=",
+      "keys": [
+        "pages",
+        "currentlyShownProductCount",
+        "productCount",
+        "products",
+        "dreamlistGames",
+        "filters",
+        "searchAlgo"
+      ],
+      "count": 28
+    },
+    {
+      "provider": "itch.io",
+      "searchAvailable": true
+    }
+  ]
+}
