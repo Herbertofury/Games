@@ -1,15 +1,19 @@
-# Games: the RTS command center
+# Games: the platformer study
 
-This release extends the same living library to 448 unique records, preserving all 170 roguelite and 150 shooter entries (two overlap) and adding 130 real-time strategy entries in 14 collections.
+The Platformers hub adds 439 source-verified records across ten routes: precision, expressive movement, 3D worlds, puzzle/cinematic journeys, exploration/Metroidvanias, authored action, roguelite platformers, co-op, colorful adventures and free creator releases. The bounded discovery set contains 420 exact Steam identities plus 19 reviewed console and creator releases. This is broad curated discovery, not an exhaustive inventory of the genre or a claim of hands-on playtesting.
 
-The RTS hub centers on Command & Conquer: Generals - Zero Hour. It includes C&C-style base builders, large-army RTS, modern tactical neighbors, free/open projects, historical/fantasy RTS, space warfare, survival defense, and carefully labelled mod conversions. Every RTS entry has artwork, exact video-source metadata, and confirmed source buttons.
+The comparative study is accompanied by 121 individual editorial notes, ten category guides, a sample-aware gem shortlist, separate released/Early Access/upcoming shelves, a complete illustrated atlas and an individual dossier for every game. Broader subgenre study lenses are clearly distinguished from individual editorial notes. Exact sources, edition dates, hardware requirements, community reception, editorial fit and cautions remain separate fields.
 
-Commander briefs distinguish base construction and AI/skirmish evidence. Original dates and storefront editions remain separate. Upcoming games, development builds, shareware, weak-review discoveries, and paid base-game requirements are visible rather than hidden.
+The existing roguelite, shooter and RTS collections remain intact. Cross-genre titles retain one stable identity; the platformer roguelites also appear in Roguelites without becoming duplicate games. Hades, previously added to the original recommendation ledger, is now present in the assembled snapshot. The mixed-source refresh no longer assumes every record has a Steam seed ID.
 
-Native wiki pages include Real-Time-Strategy, RTS-Media, and Zero-Hour-and-CNC-Mods, plus an individual page for every game. The wiki embeds artwork and links exact videos; the portable HTML provides embedded players.
+The interactive library retains search, filters, card/table/gallery views, comparisons, notes, favorites, personal ratings, backup/import and CSV/JSON exports under the existing games.library.v1 browser-storage identity. All records remain in the dataset and DOM. No scheduled crawler, paid subscription or account credential is introduced.
 
-Browser notes/favorites retain the existing storage identity. No auto-crawler, subscription, credentials, generated artwork, or viewport virtualization is introduced. HLS loading is single-flight and all records remain available to search and comparison.
+The native wiki includes Platformers, Platformers-Study, Platformers-Gems, Platformers-New-and-Upcoming, Platformers-Media, Platformers-Sources and ten route pages. GitHub Markdown links videos; the portable HTML supplies embedded players where a supported source stream exists. Missing media is disclosed rather than replaced with unrelated imagery. The generated platformers-study-report.json records the exact current artwork, video, review and editorial coverage.
 
-The publication workflow requires source/unit checks, full original-browser regression, shooter media/source acceptance, and RTS runtime acceptance before wiki/release publication. Actual reports and source/dataset/HTML hashes are included with the release. Media coverage is distinct from an assertion that every video was played end-to-end. Store coverage is the confirmed set, not a claim of every key reseller worldwide.
+Verification covers every platformer detail panel, exact source links and declared hardware; every declared primary artwork is decoded from real remote bytes. Separate tests actually play selected Celeste and MIO trailers. Desktop/mobile layouts, portable-file launch, complete exports and old/new personal-state persistence are exercised. Existing original, shooter and RTS browser suites remain required. Metadata coverage is not a claim that every trailer was played end-to-end.
 
-GitHub Pages requires separate repository enablement. The published native wiki and downloadable HTML are usable without it.
+The package includes the source-matched portable HTML, reproducible source/archive, study, CSV index, dated source snapshots and verification reports. Prices and availability are checked snapshots rather than a live worldwide offer. Upcoming games have no purchase recommendation. Remasters, later ports, classic collections and hardware-dependent editions retain their distinctions.
+
+Concurrent source research for an additional collection is retained without being advertised as installed. Its whole-app acceptance tests activate when that collection's explicit installation marker exists; all installed-collection gates remain mandatory.
+
+GitHub Pages requires separate repository enablement. The native wiki and downloadable HTML do not require Pages. Publication is established by the workflow reports, not merely by generated files in the source tree.

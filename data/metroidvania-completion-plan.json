@@ -1,0 +1,65 @@
+{
+  "schemaVersion":1,
+  "evidenceArtifact":12518943138,
+  "evidenceSha256":"3c60be52240ad62763c1fff9a63a5ab46d19194e2db6f902c8fb5916ab61e2b3",
+  "steam":[
+    {"name":"Kotama and Academy Citadel","appid":3639650,"aliases":["Kotama&Academy Citadel"],"collection":"Fresh discoveries & emerging worlds","fit":9,"scope":"Combat-focused Metroidvania"},
+    {"name":"Savior","appid":1093810,"collection":"Fresh discoveries & emerging worlds","fit":9,"scope":"Traditional Metroidvania"},
+    {"name":"Eagle Island Twist","appid":681110,"aliases":["Eagle Island"],"collection":"Randomized worlds & roguelite hybrids","fit":8,"scope":"Roguelite / Metroidvania hybrid"}
+  ],
+  "videos":{
+    "external:necrowave":{"youtube":"mJdLXD7rb4Y","titleContains":"Necrowave","official":true,"credit":"GameTrailers / Six One Indie Showcase","name":"Official trailer, May 2026 showcase"},
+    "external:senescence-protocol":{"youtube":"2g3HtwKKVVg","titleContains":"Senescence Protocol","official":true,"credit":"Looey","name":"Creator trailer"},
+    "external:fohh":{"youtube":"hpjZOLGG3pM","titleContains":"Fohh","official":false,"credit":"Overcouch","name":"Community gameplay: original Fohh"},
+    "external:block-neopolis":{"youtube":"hTzdVJCHTN8","titleContains":"BLOCK","official":false,"credit":"Mikan Hako","name":"Community gameplay: knowledge-based BLOCK"},
+    "external:momodora-2":{"youtube":"rE2Z88Q3YYg","titleContains":"Momodora 2","official":false,"credit":"No Games No Life","name":"Community walkthrough: Momodora II"},
+    "external:lyle-cube-sector":{"youtube":"0mXWA-RmF-I","titleContains":"Lyle in Cube Sector","official":false,"credit":"Metroidvania Review","name":"Credited review and gameplay: original freeware version"},
+    "external:super-metroid":{"youtube":"XKLIhdH_7jM","titleContains":"Super Metroid","official":false,"credit":"ShiryuGL","name":"Community gameplay: Nintendo Switch Online edition"},
+    "external:metroid-fusion":{"youtube":"8o-1bhvB1qk","titleContains":"Metroid Fusion","official":true,"credit":"Nintendo of America","name":"Official Nintendo Switch Online trailer"},
+    "external:metroid-zero-mission":{"youtube":"ycEceMUwRfc","titleContains":"Zero Mission","official":true,"credit":"Nintendo of America","name":"Official Nintendo Switch Online trailer"},
+    "external:treasure-adventure-game":{"youtube":"b-YvT2y3_I0","titleContains":"Treasure Adventure Game","official":true,"credit":"Stephen / Robit Studios","name":"Creator final trailer"},
+    "external:an-untitled-story":{"youtube":"Vl5h9DgmQCc","titleContains":"An Untitled Story","official":false,"credit":"Bros X Maker","name":"Community playthrough: original desktop game"},
+    "external:sunset-land":{"youtube":"Fz6gaLtbsVY","titleContains":"Sunset Land","official":true,"credit":"RivetGunGames","name":"Creator teaser trailer"}
+  },
+  "videoSearches":{
+    "external:metroid-dread":"Metroid Dread overview trailer Nintendo of America",
+    "external:metroid-prime-4":"Metroid Prime 4 Beyond overview trailer Nintendo of America",
+    "external:metroid-ravenous":"Metroid Ravenous Nintendo Direct 9.9.2026 Nintendo of America"
+  },
+  "nativeVideos":{
+    "external:metroid-prime-remastered":{"mp4":"https://assets.nintendo.com/video/upload/v1677191478/Microsites/snk28sksna0/assets-7dflFXqT/Switch_MPR_OverviewTRL_YT_H264.mp4","sourceUrl":"https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/","name":"Official overview trailer","official":true,"credit":"Nintendo"},
+    "external:castlevania-requiem":{"mp4":"https://apollo2.dl.playstation.net/cdn/UP0101/CUSA13434_00/FREE_CONTENT1f2aASAlV7TtQMj8t7ZM/PREVIEW_GAMEPLAY_VIDEO_169436.mp4","sourceUrl":"https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001","name":"Official PlayStation gameplay preview","official":true,"credit":"Konami / PlayStation"},
+    "steam:1439960":{"vimeo":"454755017","watchUrl":"https://vimeo.com/454755017","sourceUrl":"https://vimeo.com/454755017","name":"Creator early-alpha Old Garden gameplay (2020)","official":true,"credit":"David Holy / Holysoft","editionNote":"Historical alpha footage, not evidence that the full game has released."}
+  },
+  "imageCorrections":{
+    "external:lyle-cube-sector":{"image":"https://www.bogozone.net/games/lyle.gif","gallery":["https://www.bogozone.net/games/lyle01.png","https://www.bogozone.net/games/lyle02.png","https://www.bogozone.net/games/lyle03.png"],"sourceUrl":"https://www.bogozone.net/lyle.html"},
+    "external:hero-core":{"image":"https://www.remargames.se/games/herocore2.gif","gallery":["https://www.remargames.se/games/herocore1.jpg","https://www.remargames.se/games/herocore2.gif"],"sourceUrl":"https://www.remargames.se/herocore.php"},
+    "external:an-untitled-story":{"image":"https://www.maddymakesgames.com/images/an_untitled_story.png","sourceUrl":"https://www.maddymakesgames.com/"}
+  },
+  "sourceCorrections":{
+    "external:hero-core":"https://www.remargames.se/herocore.php",
+    "external:metroid-dread":"https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+    "external:metroid-prime-4":"https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/"
+  },
+  "externalAdds":[
+    {"slug":"super-metroid","name":"Super Metroid","url":"https://www.nintendo.com/us/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/","evidenceKey":"super-metroid","imageContains":"box-super-metroid","originalReleaseYear":1994,"releaseYear":1994,"scope":"Traditional Metroidvania","platforms":["Nintendo Switch","Nintendo Switch 2"],"free":false,"fit":10,"why":"A foundational interconnected-world adventure, still worth exploring for its atmosphere, secrets, and freedom of routing.","requirements":"Official modern access through the SNES Nintendo Classics library requires a paid Nintendo Switch Online membership. The original game dates to 1994; this is not a new 2026 release."},
+    {"slug":"metroid-fusion","name":"Metroid Fusion","url":"https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch/","evidenceKey":"gba","imageFromOfficialVideo":true,"originalReleaseYear":2002,"releaseYear":2002,"scope":"Traditional Metroidvania","platforms":["Nintendo Switch","Nintendo Switch 2"],"free":false,"fit":10,"why":"A tense, more directed Metroid adventure built around an abandoned research station and a dangerous pursuer. A classic rather than a newly released indie.","requirements":"Requires Nintendo Switch Online + Expansion Pack for the official GBA Nintendo Classics edition. Not a free standalone PC game."},
+    {"slug":"metroid-zero-mission","name":"Metroid: Zero Mission","url":"https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch/","evidenceKey":"gba","imageFromOfficialVideo":true,"originalReleaseYear":2004,"releaseYear":2004,"scope":"Traditional Metroidvania","platforms":["Nintendo Switch","Nintendo Switch 2"],"free":false,"fit":10,"why":"A compact and highly replayable remake of the original Metroid, with accessible movement and rewarding hidden routes.","requirements":"Requires Nintendo Switch Online + Expansion Pack for the official GBA Nintendo Classics edition. The original game is from 2004."},
+    {"slug":"metroid-ravenous","name":"Metroid Ravenous","url":"https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/","extraUrl":"https://www.nintendo.com/my/news/article/r4YhVFgDRDvAH4AcD9j9r","releaseDate":"2027-01-28","status":"Upcoming","scope":"Traditional Metroidvania","platforms":["Nintendo Switch 2"],"free":false,"fit":9,"why":"Nintendo's announced next 2D Metroid adventure, explicitly kept on the future-release watchlist rather than among playable games.","requirements":"Nintendo Switch 2. Scheduled for January 28, 2027; not released as of this catalog snapshot."},
+    {"slug":"treasure-adventure-game","name":"Treasure Adventure Game","url":"https://www.gog.com/en/game/treasure_adventure_game","evidenceKey":"treasure-adventure","originalReleaseYear":2011,"releaseYear":2011,"scope":"Traditional Metroidvania","platforms":["windows"],"free":true,"fit":9,"why":"A substantial free sailing-and-exploration adventure. This is the original freeware game, not the later Treasure Adventure World remake."},
+    {"slug":"an-untitled-story","name":"An Untitled Story","url":"https://www.maddymakesgames.com/","evidenceKey":"untitled","releaseDate":"2007-08-26","originalReleaseYear":2007,"scope":"Traditional Metroidvania","platforms":["windows"],"free":true,"fit":9,"why":"Maddy Thorson's freeware exploration classic, with a large world and increasingly demanding platforming. A direct author-hosted download, not an unofficial reupload.","downloadUrl":"https://www.maddymakesgames.com/games/AnUntitledStory.zip"},
+    {"slug":"sunset-land","name":"Sunset Land","url":"https://rivet-gun-games.itch.io/sunset-land","evidenceKey":"sunset-land","releaseDate":"2026-08-07","scope":"Traditional Metroidvania","platforms":["windows","NES ROM"],"free":false,"fit":8,"why":"A recent NES-style adventure available directly from its creator, with a Windows build and a native NES ROM. Do not confuse it with a similarly named Steam listing."}
+  ],
+  "sourceBoundMotion":[
+    {"id":"external:peppermint","url":"https://file.garden/aFqolA0oZ33wTliE/CombatGif.gif","sourceUrl":"https://salmoone.itch.io/peppermint","name":"Creator combat loop, converted from the original animated GIF","filename":"peppermint-combat.mp4"},
+    {"id":"external:peppermint","url":"https://file.garden/aFqolA0oZ33wTliE/PlatformingGif.gif","sourceUrl":"https://salmoone.itch.io/peppermint","name":"Creator platforming loop, converted from the original animated GIF","filename":"peppermint-platforming.mp4"}
+  ],
+  "editionCorrections":{
+    "https://dimensionomega.itch.io/astra-fading-stars-demo":{"kind":"demo"},
+    "https://emlise.itch.io/rusted-moss-demo":{"kind":"demo"},
+    "https://keveatscheese.itch.io/pith":{"kind":"demo"},
+    "https://norseboar.itch.io/auridia-demo":{"kind":"demo"}
+  },
+  "unconfirmedStoreLinks":["https://jessygt.itch.io/odallus"],
+  "consoleDates":{"external:metroid-prime-4":"2025-12-04","external:metroid-dread":"2021-10-08","external:metroid-prime-remastered":"2023-02-08","external:castlevania-requiem":"2018-10-26"}
+}
