@@ -1,0 +1,53 @@
+name: Inspect missing media sources
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/inspect-missing-media.yml']
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install beautifulsoup4==4.13.4
+      - name: Inspect only the six unresolved video records
+        shell: python
+        run: |
+          import concurrent.futures,html,json,pathlib,re,urllib.request,urllib.parse
+          from bs4 import BeautifulSoup
+          sources={
+            'external:arcane-dimensions':['https://www.moddb.com/mods/arcane-dimensions/videos','https://www.simonoc.com/pages/design/sp/ad.htm'],
+            'external:death-wish':['https://www.moddb.com/mods/death-wish-for-blood/videos','https://www.moddb.com/mods/death-wish-for-blood'],
+            'external:shrine':['https://www.moddb.com/mods/shrine/videos/shrine-trailer','https://store.steampowered.com/api/appdetails?appids=1271050&l=english&cc=us'],
+            'external:total-chaos-original':['https://www.moddb.com/mods/total-chaos/videos'],
+            'external:tremor':['https://modstalgia.com/quake/mods/tremor','https://www.slipseer.com/index.php?resources/tremor.614/'],
+            'external:blade-of-agony':['https://www.moddb.com/mods/wolfendoom-blade-of-agony/videos','https://boa.realm667.com/']
+          }
+          def inspect(pair):
+              ident,url=pair
+              try:
+                  req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0'})
+                  with urllib.request.urlopen(req,timeout=22) as r: raw=r.read(5000000).decode('utf-8',errors='replace')
+                  if '/api/appdetails' in url:
+                      d=json.loads(raw).get('1271050',{});d=d.get('data',{}) if d.get('success') else {}
+                      return {'id':ident,'url':url,'title':d.get('name'),'movies':d.get('movies',[]),'website':d.get('website'),'success':bool(d)}
+                  s=BeautifulSoup(raw,'html.parser')
+                  for x in s.select('#comments,.comments,.comment_list,.community_posts,.post_grid,footer,nav'):x.decompose()
+                  text=str(s)
+                  yt=list(dict.fromkeys(re.findall(r'(?:youtube(?:-nocookie)?\.com/(?:embed/|watch\?v=)|youtu\.be/)([A-Za-z0-9_-]{11})',html.unescape(text))))
+                  mp4=list(dict.fromkeys(re.findall(r'(?:https?:)?//[^\s\"\'<>]+\.(?:mp4|webm)(?:\?[^\s\"\'<>]*)?',text.replace('\\/','/'))))
+                  iframes=[x.get('src') or x.get('data-src') for x in s.select('iframe')]
+                  video=[dict(x.attrs) for x in s.select('video,video source')]
+                  embeds=[dict(x.attrs) for x in s.select('meta[property*="video"],meta[itemprop="contentUrl"],meta[itemprop="embedUrl"]')]
+                  media_links=[{'label':a.get_text(' ',strip=True),'url':urllib.parse.urljoin(url,a['href'])} for a in s.select('a[href]') if '/videos/' in a['href'] or 'youtube' in a['href'] or 'youtu.be' in a['href']]
+                  return {'id':ident,'url':url,'title':s.title.get_text(' ',strip=True) if s.title else '', 'youtube':yt,'files':mp4,'iframes':iframes,'videoTags':video,'meta':embeds,'mediaLinks':media_links[:45]}
+              except Exception as e:return {'id':ident,'url':url,'error':str(e)}
+          pairs=[(k,u) for k,urls in sources.items() for u in urls]
+          with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:report=list(pool.map(inspect,pairs))
+          p=pathlib.Path('qa');p.mkdir(exist_ok=True);(p/'missing-media-sources.json').write_text(json.dumps(report,indent=2)+'\n');print(json.dumps(report,indent=2))
+      - uses: actions/upload-artifact@v4
+        with:
+          name: missing-media-sources
+          path: qa/missing-media-sources.json
