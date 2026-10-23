@@ -2,7 +2,7 @@
 
 ![Trinity Fusion official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911360/9d6ef7caa37a69d9fe24a1d5a11ff613320231d2/header.jpg?t=1786373937)
 
-**[Open official page](https://store.steampowered.com/app/1911360/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1911360)** · [Platformers](Platformers) · [Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1911360/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1911360)** · [Platformers](Platformers) · [Roguelites](Roguelites) · [Roguelites](Roguelites)
 
 Three fractured realities. One collapsing multiverse. Fast, fluid combat in a dark sci-fi Roguevania where each run begins in a separate universe — then ...
 
@@ -12,7 +12,7 @@ Procedural runs, execution under uncertainty and meaningful build or route decis
 
 | Field | Value |
 |:--|:--|
-| Collection | Roguelite platformers |
+| Collection | Roguelite platformers, Fresh discoveries & emerging worlds |
 | Recommendation | 8/10 |
 | Community reception | 85.0% / 919 Steam reviews |
 | Release | Dec 15, 2023 |
@@ -25,7 +25,9 @@ Procedural runs, execution under uncertainty and meaningful build or route decis
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/1911360/)
+- [Steam: store](https://store.steampowered.com/app/1911360)
+- [GOG: store](https://www.gog.com/en/game/trinity_fusion) | Exact title in GOG official catalog: Trinity Fusion
+- [Steam: demo](https://store.steampowered.com/app/2230610)
 
 ## Videos and screenshots
 
@@ -59,11 +61,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/1911360/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1911360&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1911360%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Steam](https://store.steampowered.com/app/1911360/) · checked 2026-10-23T17:11:08.101395+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1911360&l=english&cc=us) · checked 2026-10-23T17:11:08.101395+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1911360%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:11:08.101395+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Traditional Metroidvania
+
+**Store-described mechanics:** Dash movement
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

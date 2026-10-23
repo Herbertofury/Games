@@ -2,7 +2,7 @@
 
 ![Batbarian: Testament of the Primordials official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837460/header.jpg?t=1784247873)
 
-**[Open official page](https://store.steampowered.com/app/837460/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A837460)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/837460/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A837460)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Batbarian: Testament of the Primordials is a snarky action-adventure puzzle game with a good dose of humor. Explore hundreds of secret-filled rooms, fight big ...
 
@@ -12,7 +12,7 @@ Ability-gated exploration, spatial memory and routes that change as the movement
 
 | Field | Value |
 |:--|:--|
-| Collection | Exploration & Metroidvanias |
+| Collection | Exploration & Metroidvanias, Puzzle & knowledge-led labyrinths |
 | Recommendation | 8/10 |
 | Community reception | 81.4% / 290 Steam reviews |
 | Release | Oct 15, 2020 |
@@ -25,7 +25,10 @@ Ability-gated exploration, spatial memory and routes that change as the movement
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/837460/)
+- [Steam: store](https://store.steampowered.com/app/837460)
+- [itch.io: store](https://dangen-entertainment.itch.io/batbarian-testament-of-the-primordials) | Exact title and creator page links to Steam app 837460
+- [GOG: store](https://www.gog.com/en/game/batbarian_testament_of_the_primordials) | Game-specific official website link with matching destination title
+- [Steam: demo](https://store.steampowered.com/app/1269330)
 
 ## Videos and screenshots
 
@@ -63,11 +66,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/837460/) · checked 2026-10-23T17:07:37.068525+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=837460&l=english&cc=us) · checked 2026-10-23T17:07:37.068525+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A837460%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:07:37.068525+00:00
+- [Steam](https://store.steampowered.com/app/837460/) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=837460&l=english&cc=us) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A837460%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:59:37.367270+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Puzzle-led Metroidvania
+
+**Store-described mechanics:** Explore the official gameplay and description for its progression systems.
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

@@ -105,3 +105,7 @@ Run `python3 scripts/collect_platformers.py` for a paced incremental Steam refre
 The study deliberately includes clearly marked traversal hybrids. Nintendo and PlayStation hardware requirements are explicit. PC operating systems returned by Steam are not a complete console-port inventory. New store editions are not automatically new original games. Future entries have no purchase score; demos are separate links rather than silently substituted identities. Gem labels are an editorial shortlist constrained by reception/sample evidence, not an objective popularity measurement. Missing artwork or playable video is reported, never replaced with unrelated media.
 
 The generated `wiki/Platformers*.md`, `data/platformers-study-report.json` and `data/platformers-index.csv` are derived from the same complete snapshot. The media atlas links every record, including honest gaps. GitHub Markdown cannot run embedded video players; the interactive HTML provides playback where a source stream exists. Publication is proved by the publishing workflow and its native-wiki/release/Pages reports, not merely by generated files.
+
+## Metroidvania source layers
+
+See [METROIDVANIA.md](METROIDVANIA.md). Preserve `metroidvania-curation.json`, `metroidvania-media.json`, and `metroidvania-review-decisions.json` when refreshing raw facts. Public preview provenance is retained under `media/metroidvania/` and `data/metroidvania-captured-previews.json`.

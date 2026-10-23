@@ -205,7 +205,7 @@ Smaller-audience discoveries, not a claim that obscurity guarantees quality. Nat
 | [G String](Game-1224600-G-String) | 8/10 | 84.1% / 1,325 Steam reviews | Oct 16, 2020 · Released | [Steam](https://store.steampowered.com/app/1224600/) · [ModDB](https://www.moddb.com/mods/g-string) · [ModDB](https://www.moddb.com/mods/g-string?filter=t&rating=8) · [ModDB](https://rss.moddb.com/mods/g-string/articles/feed/rss.xml) · [ModDB](https://rss.moddb.com/mods/g-string/downloads/feed/rss.xml) |
 | [Luna Abyss](Game-1933000-Luna-Abyss) | 8/10 | 87.4% / 1,079 Steam reviews | May 21, 2026 · Released | [Steam](https://store.steampowered.com/app/1933000/) |
 | [Guns and Nuns: Storming Hell](Game-3818000-Guns-and-Nuns-Storming-Hell) | 8/10 | 88.8% / 1,016 Steam reviews | Apr 3, 2026 · Released | [Steam](https://store.steampowered.com/app/3818000/) |
-| [Vomitoreum](Game-1549750-Vomitoreum) | 8/10 | 91.3% / 997 Steam reviews | Jul 30, 2021 · Released | [Steam](https://store.steampowered.com/app/1549750/) · [itch.io](https://scumhead.itch.io/vomitoreumgame) |
+| [Vomitoreum](Game-1549750-Vomitoreum) | 8/10 | 91.3% / 997 Steam reviews | Jul 30, 2021 · Released | [Steam](https://store.steampowered.com/app/1549750) · [itch.io](https://scumhead.itch.io/vomitoreumgame) |
 | [Agent 64: Spies Never Die](Game-1574480-Agent-64-Spies-Never-Die) | 8/10 | 87.0% / 987 Steam reviews | Aug 11, 2026 · Released | [Steam](https://store.steampowered.com/app/1574480/) |
 | [Shrine II](Game-1417010-Shrine-II) | 8/10 | 92.3% / 872 Steam reviews | Sep 22, 2020 · Released | [Steam](https://store.steampowered.com/app/1417010/) · [itch.io](https://scumhead.itch.io/shrine-ii) |
 | [Rise of the Triad: Ludicrous Edition](Game-1421490-Rise-of-the-Triad-Ludicrous-Edition) | 8/10 | 92.1% / 758 Steam reviews | Jul 31, 2023 · Released | [Steam](https://store.steampowered.com/app/1421490/) |
@@ -377,7 +377,7 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | [COVEN](Game-1785940-COVEN) | 9/10 | 92.3% / 286 Steam reviews | Oct 24, 2024 · Early Access | [Steam](https://store.steampowered.com/app/1785940/) |
 | [Forgive Me Father](Game-1590910-Forgive-Me-Father) | 8/10 | 83.6% / 6,183 Steam reviews | Apr 7, 2022 · Released | [Steam](https://store.steampowered.com/app/1590910/) · [GOG](https://www.gog.com/en/game/forgive_me_father) · [Epic Games](https://store.epicgames.com/p/forgive-me-father-133635) |
 | [Forgive Me Father 2](Game-2272250-Forgive-Me-Father-2) | 8/10 | 81.6% / 2,544 Steam reviews | Oct 24, 2024 · Released | [Steam](https://store.steampowered.com/app/2272250/) · [GOG](https://www.gog.com/en/game/forgive_me_father_2) · [Epic Games](https://store.epicgames.com/p/forgive-me-father-2-ea03a5) |
-| [Vomitoreum](Game-1549750-Vomitoreum) | 8/10 | 91.3% / 997 Steam reviews | Jul 30, 2021 · Released | [Steam](https://store.steampowered.com/app/1549750/) · [itch.io](https://scumhead.itch.io/vomitoreumgame) |
+| [Vomitoreum](Game-1549750-Vomitoreum) | 8/10 | 91.3% / 997 Steam reviews | Jul 30, 2021 · Released | [Steam](https://store.steampowered.com/app/1549750) · [itch.io](https://scumhead.itch.io/vomitoreumgame) |
 | [Shrine II](Game-1417010-Shrine-II) | 8/10 | 92.3% / 872 Steam reviews | Sep 22, 2020 · Released | [Steam](https://store.steampowered.com/app/1417010/) · [itch.io](https://scumhead.itch.io/shrine-ii) |
 | [DEAD TRASH](Game-3316470-DEAD-TRASH) | 8/10 | 89.1% / 512 Steam reviews | Mar 11, 2025 · Released | [Steam](https://store.steampowered.com/app/3316470/) · [itch.io](https://crowhillstudios.itch.io/dead-trash) · [IndieDB](https://www.indiedb.com/games/dead-trash) |
 | [Shrine](Game-external-shrine-Shrine) | 8/10 | 4.5/5 / 82 itch.io ratings | Original date unlisted · Released | [itch.io](https://scumhead.itch.io/shrine) · [Steam](https://store.steampowered.com/app/1271050/) |
@@ -408,6 +408,12 @@ A playable demo is not a released full game. Support subscriptions are not autom
 | [Beyond Sunset](Game-1665260-Beyond-Sunset) | 7/10 | 78.5% / 382 Steam reviews | Sep 12, 2025 · Released | [Steam](https://store.steampowered.com/app/1665260/) · [GOG](https://www.gog.com/en/game/beyond_sunset) · [itch.io](https://metacorp.itch.io/beyond-sunset) |
 | [Apocalyptic Vibes](Game-1840610-Apocalyptic-Vibes) | 7/10 | 73.8% / 343 Steam reviews | Mar 1, 2023 · Released | [Steam](https://store.steampowered.com/app/1840610/) · [itch.io](https://amanito-computing.itch.io/apocalyptic-vibes) |
 | [Voltage High Society](Game-2063480-Voltage-High-Society) | 7/10 | 89.7% / 234 Steam reviews | Jun 23, 2026 · Released | [Steam](https://store.steampowered.com/app/2063480/) |
+
+### Indie deep cuts & unusual mechanics
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Vomitoreum](Game-1549750-Vomitoreum) | 8/10 | 91.3% / 997 Steam reviews | Jul 30, 2021 · Released | [Steam](https://store.steampowered.com/app/1549750) · [itch.io](https://scumhead.itch.io/vomitoreumgame) |
 
 ### Movement shooters
 

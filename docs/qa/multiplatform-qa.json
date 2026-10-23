@@ -29,7 +29,7 @@
   ],
   "errors": [],
   "shooterCount": 150,
-  "datasetHash": "c3bbfcc92f2e4b27de744a7f3538159bdd4bcffaeeb9aca4eacf9dbd467ada1e",
-  "fullShooterRenderMs": 74.1,
+  "datasetHash": "62980fc8d4478615541ae5db8fb482090a36ded36ac98c5ec58f0125577555bc",
+  "fullShooterRenderMs": 55.4,
   "passed": true
 }

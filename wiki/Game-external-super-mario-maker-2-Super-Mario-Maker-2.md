@@ -30,11 +30,11 @@ The route for players who want to study, create and exchange levels as well as f
 
 Nintendo Switch Online is required for relevant online sharing and multiplayer features. User-generated courses are not uniformly curated, accessible or balanced.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Super Mario Maker 2 — Nintendo trailer](https://play.nintendo.com/media/videos/super-mario-maker-2-trailer-nintendo-switch/) | Play Nintendo — observed featured video
 
 ![Super Mario Maker™ 2 1](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000018694/aac100206f1c50349fd2c48595e55603259ae60a4ab4eefc28e71f41efb78b97)
 
@@ -54,9 +54,8 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Nintendo](https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/) · checked 2026-10-23T17:09:08.300141+00:00
 - [Exact-page media completion](https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/) · checked 2026-10-23T17:27:45.963246+00:00
+- [Exact Play Nintendo player](https://play.nintendo.com/media/videos/super-mario-maker-2-trailer-nintendo-switch/) · checked 2026-10-23T18:32:50.808874+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

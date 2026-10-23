@@ -2,7 +2,7 @@
 
 ![Alwa's Awakening official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/header.jpg?t=1705322736)
 
-**[Open official page](https://store.steampowered.com/app/549260/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A549260)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/549260/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A549260)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Use your magic staff and progress through a large interconnected world where you'll solve puzzles, fight enemies and defeat bosses in order to help ...
 
@@ -12,7 +12,7 @@ Ability-gated exploration, spatial memory and routes that change as the movement
 
 | Field | Value |
 |:--|:--|
-| Collection | Exploration & Metroidvanias |
+| Collection | Exploration & Metroidvanias, Puzzle & knowledge-led labyrinths |
 | Recommendation | 7/10 |
 | Community reception | 79.9% / 959 Steam reviews |
 | Release | Feb 2, 2017 |
@@ -25,7 +25,9 @@ Ability-gated exploration, spatial memory and routes that change as the movement
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/549260/)
+- [Steam: store](https://store.steampowered.com/app/549260)
+- [GOG: store](https://www.gog.com/en/game/alwas_awakening) | Exact title in GOG official catalog: Alwa's Awakening
+- [itch.io: store](https://eldenpixels.itch.io/alwas-awakening) | Exact title and creator page links to Steam app 549260
 
 ## Videos and screenshots
 
@@ -61,11 +63,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/549260/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=549260&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A549260%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Steam](https://store.steampowered.com/app/549260/) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=549260&l=english&cc=us) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A549260%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:59:37.367270+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Puzzle-led Metroidvania
+
+**Store-described mechanics:** Explore the official gameplay and description for its progression systems.
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

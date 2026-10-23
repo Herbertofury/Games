@@ -8,14 +8,14 @@ Procedural uncertainty, execution and progression. These records also appear in 
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [Dead Cells](Game-588650-Dead-Cells) | 10/10 | 97.0% / 184,520 Steam reviews | Aug 6, 2018 · Released | [Steam](https://store.steampowered.com/app/588650/) |
+| [Dead Cells](Game-588650-Dead-Cells) | 10/10 | 97.0% / 184,520 Steam reviews | Aug 6, 2018 · Released | [Steam](https://store.steampowered.com/app/588650) · [GOG](https://www.gog.com/en/game/dead_cells) |
 | [Spelunky 2](Game-418530-Spelunky-2) | 10/10 | 92.8% / 22,065 Steam reviews | Sep 29, 2020 · Released | [Steam](https://store.steampowered.com/app/418530/) |
 | [Spelunky](Game-239350-Spelunky) | 10/10 | 92.1% / 16,696 Steam reviews | Aug 8, 2013 · Released | [Steam](https://store.steampowered.com/app/239350/) |
-| [Rogue Legacy 2](Game-1253920-Rogue-Legacy-2) | 10/10 | 90.8% / 15,183 Steam reviews | Apr 28, 2022 · Released | [Steam](https://store.steampowered.com/app/1253920/) |
+| [Rogue Legacy 2](Game-1253920-Rogue-Legacy-2) | 10/10 | 90.8% / 15,183 Steam reviews | Apr 28, 2022 · Released | [Steam](https://store.steampowered.com/app/1253920) |
 | [Noita](Game-881100-Noita) | 9/10 | 95.1% / 89,501 Steam reviews | Oct 15, 2020 · Released | [Steam](https://store.steampowered.com/app/881100/) |
 | [Skul: The Hero Slayer](Game-1147560-Skul-The-Hero-Slayer) | 9/10 | 93.3% / 57,744 Steam reviews | Jan 20, 2021 · Released | [Steam](https://store.steampowered.com/app/1147560/) |
 | [Risk of Rain Returns](Game-1337520-Risk-of-Rain-Returns) | 9/10 | 90.0% / 28,786 Steam reviews | Nov 8, 2023 · Released | [Steam](https://store.steampowered.com/app/1337520/) |
-| [Rogue Legacy](Game-241600-Rogue-Legacy) | 9/10 | 92.3% / 18,875 Steam reviews | Jun 27, 2013 · Released | [Steam](https://store.steampowered.com/app/241600/) |
+| [Rogue Legacy](Game-241600-Rogue-Legacy) | 9/10 | 92.3% / 18,875 Steam reviews | Jun 27, 2013 · Released | [Steam](https://store.steampowered.com/app/241600) · [GOG](https://www.gog.com/en/game/rogue_legacy) |
 | [Astral Ascent](Game-1280930-Astral-Ascent) | 9/10 | 94.5% / 8,702 Steam reviews | Nov 14, 2023 · Released | [Steam](https://store.steampowered.com/app/1280930/) |
 | [30XX](Game-1029210-30XX) | 9/10 | 90.3% / 2,830 Steam reviews | Aug 9, 2023 · Released | [Steam](https://store.steampowered.com/app/1029210/) |
 | [Revita](Game-1175460-Revita) | 9/10 | 81.1% / 2,441 Steam reviews | Apr 21, 2022 · Released | [Steam](https://store.steampowered.com/app/1175460/) |
@@ -26,8 +26,8 @@ Procedural uncertainty, execution and progression. These records also appear in 
 | [20XX](Game-322110-20XX) | 8/10 | 90.8% / 4,594 Steam reviews | Aug 16, 2017 · Released | [Steam](https://store.steampowered.com/app/322110/) |
 | [ScourgeBringer](Game-1037020-ScourgeBringer) | 8/10 | 86.3% / 3,296 Steam reviews | Oct 21, 2020 · Released | [Steam](https://store.steampowered.com/app/1037020/) |
 | [Fury Unleashed](Game-465200-Fury-Unleashed) | 8/10 | 87.2% / 2,934 Steam reviews | May 8, 2020 · Released | [Steam](https://store.steampowered.com/app/465200/) |
-| [Oblivion Override](Game-1952370-Oblivion-Override) | 8/10 | 91.2% / 2,064 Steam reviews | Jan 24, 2024 · Released | [Steam](https://store.steampowered.com/app/1952370/) |
-| [Trinity Fusion](Game-1911360-Trinity-Fusion) | 8/10 | 85.0% / 919 Steam reviews | Dec 15, 2023 · Released | [Steam](https://store.steampowered.com/app/1911360/) |
+| [Oblivion Override](Game-1952370-Oblivion-Override) | 8/10 | 91.2% / 2,064 Steam reviews | Jan 24, 2024 · Released | [Steam](https://store.steampowered.com/app/1952370) · [Steam](https://store.steampowered.com/app/2250940) |
+| [Trinity Fusion](Game-1911360-Trinity-Fusion) | 8/10 | 85.0% / 919 Steam reviews | Dec 15, 2023 · Released | [Steam](https://store.steampowered.com/app/1911360) · [GOG](https://www.gog.com/en/game/trinity_fusion) · [Steam](https://store.steampowered.com/app/2230610) |
 | [Rising Hell](Game-657000-Rising-Hell) | 8/10 | 88.7% / 318 Steam reviews | May 19, 2021 · Released | [Steam](https://store.steampowered.com/app/657000/) |
 | [Metal Unit](Game-1173200-Metal-Unit) | 7/10 | 82.8% / 2,910 Steam reviews | Jan 27, 2021 · Released | [Steam](https://store.steampowered.com/app/1173200/) |
 | [Neon Abyss 2](Game-2235200-Neon-Abyss-2) | 7/10 | 71.0% / 2,644 Steam reviews | Oct 7, 2026 · Released | [Steam](https://store.steampowered.com/app/2235200/) |

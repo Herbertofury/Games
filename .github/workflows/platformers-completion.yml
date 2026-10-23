@@ -1,0 +1,112 @@
+name: Verify platformer completion
+on:
+  workflow_dispatch:
+  push:
+    branches: [platformers-completion-2026-10-23]
+    paths: [.github/workflows/platformers-completion.yml]
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: platformer-completion
+  cancel-in-progress: true
+jobs:
+  complete:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Recover the exact reviewed evidence artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: platformer-resolved-media-and-preview-review
+          run-id: 40004139539
+          github-token: ${{ github.token }}
+          path: qa/recovered-platformer-evidence
+      - name: Commit only the hash-approved browser recordings
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python3 scripts/install_platformer_completion.py --evidence qa/recovered-platformer-evidence --assets-only
+          git add -f site/assets/platformer-previews/celeste-classic.webm site/assets/platformer-previews/celeste-classic-2.webm
+          if ! git diff --cached --quiet; then
+            git commit -m 'Preserve visually approved public Celeste Classic browser previews with exact source attribution'
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+      - name: Build reviewed sources and run every unit test
+        run: |
+          set -o pipefail
+          python3 -m pip install -r requirements-dev.txt
+          python3 scripts/install_platformer_completion.py --evidence qa/recovered-platformer-evidence
+          python3 scripts/finalize_platformer_player.py
+          python3 scripts/build.py
+          node --check site/app.js
+          node --check site/platformers.js
+          python3 -m unittest discover -s tests -p 'test_*.py' 2>&1 | tee qa/unit-tests.log
+          python3 -c 'import json,re; s=open("qa/unit-tests.log").read();m=re.search(r"Ran (\d+) tests",s);json.dump({"passed":True,"tests":int(m[1]) if m else None,"skipsReported":"skipped=" in s},open("qa/unit-tests.json","w"),indent=2)'
+      - name: Configure actual Chromium
+        run: |
+          if command -v google-chrome >/dev/null; then
+            echo "CHROMIUM_PATH=$(command -v google-chrome)" >> "$GITHUB_ENV"
+            google-chrome --version
+          else
+            python3 -m playwright install --with-deps chromium
+          fi
+      - name: Verify the shared Metroidvania source and runtime contract
+        run: python3 scripts/metroidvania_qa.py
+      - name: Verify all newly added video sources and primary routes
+        run: python3 tests/platformer_completion_qa.py
+      - name: Verify every other installed collection and personal-library workflow
+        run: |
+          python3 tests/browser_qa.py
+          python3 tests/multiplatform_qa.py
+          python3 tests/source_completion_qa.py
+          python3 tests/rts_qa.py
+          python3 tests/platformers_qa.py
+      - name: Preserve successful evidence and source-matched release
+        run: |
+          mkdir -p docs/qa
+          cp qa/*.json docs/qa/
+          cp qa/platformers-*.png docs/qa/
+          python3 - <<'PY'
+          import json,os,pathlib
+          r=pathlib.Path('.');q=json.loads((r/'qa/platformers-completion-qa.json').read_text());u=json.loads((r/'qa/unit-tests.json').read_text());assert q['passed'] and u['passed'] and not u['skipsReported']
+          report=json.loads((r/'data/platformers-study-report.json').read_text());assert report['records']==report['withArtwork']==report['withPlayableVideoMetadata']==439 and not report['mediaGaps']
+          receipt={'sourceRevision':os.environ['GITHUB_SHA'],'runUrl':'https://github.com/'+os.environ['GITHUB_REPOSITORY']+'/actions/runs/'+os.environ['GITHUB_RUN_ID'],'unitTests':u['tests'],'platformerRecords':439,'newDirectStreamsPlayed':len(q['playback']),'newYouTubeEmbedsVerified':len(q['embeds']),'datasetHash':q['datasetHash'],'passed':True,'publication':'Native wiki and release publication is a separate workflow; Pages hosting is not assumed.'}
+          (r/'docs/qa/platformers-completion-receipt.json').write_text(json.dumps(receipt,indent=2)+'\n')
+          p=r/'docs/EXECUTION.md';s=p.read_text();heading='## Platformer completion - exact media and primary-route acceptance'
+          if heading not in s:s+='\n'+heading+'\n\nAll 439 platformer records now have artwork and supported video metadata. The twenty former video gaps are closed through reviewed sources or two explicitly credited public-browser previews. The production-browser gate played all fourteen added direct streams and verified six consent-first YouTube identities. Ten primary route counts and all installed genre memberships remain intact. Every unit test and installed-genre browser suite passed without skips.\n\nEvidence: `docs/qa/platformers-completion-receipt.json`, `docs/qa/platformers-completion-qa.json`, `data/platformers-study-report.json`, and `docs/PLATFORMERS-COMPLETION.md`. Native Wiki/release publication remains a separate gate.\n'
+          p.write_text(s)
+          p=r/'docs/RELEASE.md';s=p.read_text();heading='## Platformer media completion'
+          if heading not in s:s+='\n'+heading+'\n\nThe platformer study now supplies artwork and supported video metadata for all 439 entries, with twenty previously declared gaps resolved. Official publisher footage, credited editorial gameplay and two short library-captured public-browser previews have distinct labels and dated provenance. Fourteen added direct streams were actually played in Chrome; six added YouTube identities and opt-in embeds were verified separately. Ten primary platformer routes no longer inherit unrelated sidebar categories. All existing collections and personal-library workflows remain covered by the publication gates. See `docs/PLATFORMERS-COMPLETION.md` for exact evidence boundaries.\n'
+          p.write_text(s)
+          PY
+          TESTED_HTML_SHA=$(sha256sum dist/index.html | cut -d' ' -f1)
+          python3 scripts/build.py
+          test "$TESTED_HTML_SHA" = "$(sha256sum dist/index.html | cut -d' ' -f1)"
+          git add data docs site/app.js tests/platformer_completion_qa.py
+          git add -f dist wiki docs/qa
+          if ! git diff --cached --quiet; then
+            git commit -m 'Complete all 439 platformer video records, compatible playback and full-library runtime verification'
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: platformers-complete-library-and-qa
+          path: |
+            release/
+            qa/*.json
+            qa/*.log
+            qa/platformers-*.png
+            qa/platformer-completion-frames/
+            docs/qa/platformers-completion-receipt.json
+            data/platformers-media-reviewed.json
+            data/platformers-completion-report.json
+            data/platformers-study-report.json
+            docs/PLATFORMERS-COMPLETION.md

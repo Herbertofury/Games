@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-23",
+  "sourceRunId": 40004139539,
+  "artifactId": 12523537262,
+  "artifactSha256": "cc3e3fff61c024638e476ee132fc1a75128df31f4bc7e1539e9ab2a9ad5ce9b4",
+  "reviewedMediaSha256": "edf6b5ea44e2e99fc3f9b9bc5aa890ca17a1bb03abf12924f9f42e36872836ba",
+  "reviewMethod": "Assistant visual inspection of start/motion/end captures and independently extracted video frames at 10, 14, 18 and 22 seconds. Title-only footage from the earlier attempt was rejected. These short interactions do not constitute full playtests or completion.",
+  "previews": [
+    {
+      "id": "external:celeste-classic",
+      "path": "site/assets/platformer-previews/celeste-classic.webm",
+      "sha256": "a421c4c70cc82a84b63d7c08837501565a544cece2a80df4855ebfb75eb52172",
+      "durationSeconds": 27.8,
+      "visualReviewPassed": true,
+      "visualReview": "Title and transition are followed by the real first platforming room. Sampled frames show the character moving and attempting jumps around the snowy ledges. This is the free PICO-8 Classic, not commercial Celeste."
+    },
+    {
+      "id": "external:celeste-classic-2",
+      "path": "site/assets/platformer-previews/celeste-classic-2.webm",
+      "sha256": "6870a3c94dc11d7d68142e981c511275c7909638b9f47f44343c3f8ef14821f5",
+      "durationSeconds": 27.6,
+      "visualReviewPassed": true,
+      "visualReview": "The Lani's Trek title transitions into the actual outdoor room. Extracted frames show changing character position and horizontal camera movement around the vehicle and snowy ledges. Clearly labelled as a library-captured public browser preview, not an official trailer."
+    }
+  ]
+}

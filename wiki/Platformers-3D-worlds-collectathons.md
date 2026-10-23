@@ -9,7 +9,7 @@ Authored courses, compact retro worlds and open movement playgrounds. Check came
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
 | [A Hat in Time](Game-253230-A-Hat-in-Time) | 10/10 | 97.8% / 53,617 Steam reviews | Oct 5, 2017 · Released | [Steam](https://store.steampowered.com/app/253230/) |
-| [Pseudoregalia](Game-2365810-Pseudoregalia) | 10/10 | 96.8% / 19,225 Steam reviews | Jul 28, 2023 · Released | [Steam](https://store.steampowered.com/app/2365810/) |
+| [Pseudoregalia](Game-2365810-Pseudoregalia) | 10/10 | 96.8% / 19,225 Steam reviews | Jul 28, 2023 · Released | [Steam](https://store.steampowered.com/app/2365810) |
 | [Psychonauts 2](Game-607080-Psychonauts-2) | 10/10 | 95.5% / 14,602 Steam reviews | Aug 24, 2021 · Released | [Steam](https://store.steampowered.com/app/607080/) |
 | [Tinykin](Game-1599020-Tinykin) | 10/10 | 97.8% / 4,390 Steam reviews | Aug 30, 2022 · Released | [Steam](https://store.steampowered.com/app/1599020/) |
 | [ASTRO BOT](Game-external-astro-bot-ASTRO-BOT) | 10/10 | No aggregate rating | 2024-09-06 · Released | [PlayStation](https://www.playstation.com/en-us/games/astro-bot/) |
@@ -21,10 +21,10 @@ Authored courses, compact retro worlds and open movement playgrounds. Check came
 | [Spyro™ Reignited Trilogy](Game-996580-Spyro-Reignited-Trilogy) | 9/10 | 93.5% / 22,472 Steam reviews | Sep 3, 2019 · Released | [Steam](https://store.steampowered.com/app/996580/) |
 | [Psychonauts](Game-3830-Psychonauts) | 9/10 | 94.9% / 19,431 Steam reviews | Oct 11, 2006 · Released | [Steam](https://store.steampowered.com/app/3830/) |
 | [Ratchet & Clank: Rift Apart](Game-1895880-Ratchet-Clank-Rift-Apart) | 9/10 | 90.7% / 18,312 Steam reviews | Jul 26, 2023 · Released | [Steam](https://store.steampowered.com/app/1895880/) |
-| [Supraland](Game-813630-Supraland) | 9/10 | 95.2% / 15,509 Steam reviews | Apr 5, 2019 · Released | [Steam](https://store.steampowered.com/app/813630/) |
+| [Supraland](Game-813630-Supraland) | 9/10 | 95.2% / 15,509 Steam reviews | Apr 5, 2019 · Released | [Steam](https://store.steampowered.com/app/813630) · [Steam](https://store.steampowered.com/app/1000560) |
 | [Lil Gator Game](Game-1586800-Lil-Gator-Game) | 9/10 | 98.5% / 6,190 Steam reviews | Dec 14, 2022 · Released | [Steam](https://store.steampowered.com/app/1586800/) |
 | [Sackboy™: A Big Adventure](Game-1599660-Sackboy-A-Big-Adventure) | 9/10 | 83.5% / 4,553 Steam reviews | Oct 27, 2022 · Released | [Steam](https://store.steampowered.com/app/1599660/) |
-| [Supraland Six Inches Under](Game-1522870-Supraland-Six-Inches-Under) | 9/10 | 96.1% / 4,344 Steam reviews | Jan 14, 2022 · Released | [Steam](https://store.steampowered.com/app/1522870/) |
+| [Supraland Six Inches Under](Game-1522870-Supraland-Six-Inches-Under) | 9/10 | 96.1% / 4,344 Steam reviews | Jan 14, 2022 · Released | [Steam](https://store.steampowered.com/app/1522870) · [Steam](https://store.steampowered.com/app/1875080) |
 | [Crash Bandicoot™ 4: It’s About Time](Game-1378990-Crash-Bandicoot-4-It-s-About-Time) | 9/10 | 86.4% / 4,326 Steam reviews | Oct 18, 2022 · Released | [Steam](https://store.steampowered.com/app/1378990/) |
 | [Lunistice](Game-1701800-Lunistice) | 9/10 | 95.5% / 1,962 Steam reviews | Nov 10, 2022 · Released | [Steam](https://store.steampowered.com/app/1701800/) |
 | [Yellow Taxi Goes Vroom](Game-2011780-Yellow-Taxi-Goes-Vroom) | 9/10 | 96.7% / 1,947 Steam reviews | Apr 9, 2024 · Released | [Steam](https://store.steampowered.com/app/2011780/) |
@@ -41,7 +41,7 @@ Authored courses, compact retro worlds and open movement playgrounds. Check came
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](Game-969990-SpongeBob-SquarePants-Battle-for-Bikini-Bottom-Rehydrated) | 8/10 | 94.0% / 18,294 Steam reviews | Jun 23, 2020 · Released | [Steam](https://store.steampowered.com/app/969990/) |
 | [Pumpkin Jack](Game-1186640-Pumpkin-Jack) | 8/10 | 91.0% / 9,964 Steam reviews | Oct 23, 2020 · Released | [Steam](https://store.steampowered.com/app/1186640/) |
 | [SpongeBob SquarePants: The Cosmic Shake](Game-1282150-SpongeBob-SquarePants-The-Cosmic-Shake) | 8/10 | 92.2% / 5,083 Steam reviews | Jan 31, 2023 · Released | [Steam](https://store.steampowered.com/app/1282150/) |
-| [Blue Fire](Game-1220150-Blue-Fire) | 8/10 | 81.4% / 3,127 Steam reviews | Feb 4, 2021 · Released | [Steam](https://store.steampowered.com/app/1220150/) |
+| [Blue Fire](Game-1220150-Blue-Fire) | 8/10 | 81.4% / 3,127 Steam reviews | Feb 4, 2021 · Released | [Steam](https://store.steampowered.com/app/1220150) · [GOG](https://www.gog.com/en/game/blue_fire) · [itch.io](https://graffiti-games.itch.io/blue-fire) · [Steam](https://store.steampowered.com/app/1394220) |
 | [Lorn's Lure](Game-1417930-Lorn-s-Lure) | 8/10 | 85.4% / 2,961 Steam reviews | Sep 20, 2024 · Released | [Steam](https://store.steampowered.com/app/1417930/) |
 | [Smushi Come Home](Game-1740300-Smushi-Come-Home) | 8/10 | 99.0% / 2,834 Steam reviews | Jun 10, 2023 · Released | [Steam](https://store.steampowered.com/app/1740300/) |
 | [TY the Tasmanian Tiger](Game-411960-TY-the-Tasmanian-Tiger) | 8/10 | 97.8% / 2,743 Steam reviews | Dec 12, 2016 · Released | [Steam](https://store.steampowered.com/app/411960/) |
@@ -51,7 +51,7 @@ Authored courses, compact retro worlds and open movement playgrounds. Check came
 | [Hell Pie](Game-889910-Hell-Pie) | 8/10 | 89.4% / 1,807 Steam reviews | Jul 21, 2022 · Released | [Steam](https://store.steampowered.com/app/889910/) |
 | [Disney Epic Mickey: Rebrushed](Game-1522160-Disney-Epic-Mickey-Rebrushed) | 8/10 | 94.1% / 1,754 Steam reviews | Sep 24, 2024 · Released | [Steam](https://store.steampowered.com/app/1522160/) |
 | [Toree 3D](Game-1554840-Toree-3D) | 8/10 | 94.9% / 1,688 Steam reviews | Apr 9, 2021 · Released | [Steam](https://store.steampowered.com/app/1554840/) |
-| [Supraworld](Game-1869290-Supraworld) | 8/10 | 92.0% / 1,615 Steam reviews | Aug 15, 2025 · Early Access | [Steam](https://store.steampowered.com/app/1869290/) |
+| [Supraworld](Game-1869290-Supraworld) | 8/10 | 92.0% / 1,615 Steam reviews | Aug 15, 2025 · Early Access | [Steam](https://store.steampowered.com/app/1869290) |
 | [Here Comes Niko!](Game-925950-Here-Comes-Niko) | 8/10 | 91.6% / 1,513 Steam reviews | Aug 3, 2021 · Released | [Steam](https://store.steampowered.com/app/925950/) |
 | [Yooka-Replaylee](Game-2448020-Yooka-Replaylee) | 8/10 | 93.0% / 1,131 Steam reviews | Oct 9, 2025 · Released | [Steam](https://store.steampowered.com/app/2448020/) |
 | [Toree 2](Game-1722620-Toree-2) | 8/10 | 97.3% / 1,109 Steam reviews | Sep 30, 2021 · Released | [Steam](https://store.steampowered.com/app/1722620/) |

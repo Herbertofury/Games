@@ -30,16 +30,18 @@ A compact browser-playable look at the original mountain-climbing idea. Its smal
 
 PICO-8 original, not a free download of the full 2018 commercial game. Original date is left unspecified here rather than copied from a recent page update.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
+[CELESTE Classic — public browser gameplay preview](https://maddymakesgamesinc.itch.io/celesteclassic) | Games library capture of the creator-published PICO-8 browser build; not an official trailer
+
+> A short recorded interaction with the exact free browser release. This is not the commercial Celeste game, a full playthrough, or a claim of comprehensive hands-on review.
+
 ## Sources and evidence
 
-- [itch.io](https://maddymakesgamesinc.itch.io/celesteclassic) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://maddymakesgamesinc.itch.io/celesteclassic) · checked 2026-10-23T17:09:08.300141+00:00
+- [Creator browser build](https://maddymakesgamesinc.itch.io/celesteclassic) · checked 2026-10-23
+- [Exact played public build](https://html-classic.itch.zone/html/235259/Celeste/index.html) · checked 2026-10-23
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

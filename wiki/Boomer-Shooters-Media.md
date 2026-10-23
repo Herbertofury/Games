@@ -1036,7 +1036,7 @@ Vomitoreum is an FPS Metroidvania with a focus on atmosphere and horror, inspire
 
 [Watch: Vomitoreum Teaser](https://store.steampowered.com/app/1549750/)  
 
-[Steam](https://store.steampowered.com/app/1549750/) | [Patreon (support)](https://www.patreon.com/scumhead) | [itch.io](https://scumhead.itch.io/vomitoreumgame)
+[Steam](https://store.steampowered.com/app/1549750) | [Patreon (support)](https://www.patreon.com/scumhead) | [itch.io](https://scumhead.itch.io/vomitoreumgame)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=steam%3A1549750)
 

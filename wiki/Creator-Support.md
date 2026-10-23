@@ -30,7 +30,7 @@ Slip into the Standard Issue Biosuit as Myo Hyori, a gifted Korean teenage girl 
 
 Vomitoreum is an FPS Metroidvania with a focus on atmosphere and horror, inspired by the paintings of Zdzisław Beksiński.
 
-[Steam store](https://store.steampowered.com/app/1549750/) · [Patreon support / devlogs](https://www.patreon.com/scumhead) · [itch.io store](https://scumhead.itch.io/vomitoreumgame)
+[Steam store](https://store.steampowered.com/app/1549750) · [Patreon support / devlogs](https://www.patreon.com/scumhead) · [itch.io store](https://scumhead.itch.io/vomitoreumgame)
 
 ## Shrine II
 
@@ -73,6 +73,12 @@ Explore a decaying industrial world left behind in humanity's never-ending race 
 Worth trying after the first two games. Keep expectations at demo scope; Patreon is an optional support route, not a claim of full-game availability.
 
 [itch.io demo](https://batandy.itch.io/goldensouls3) · [Patreon support / devlogs](https://www.patreon.com/Batandy)
+
+## Necrowave
+
+A hand-animated exploration platformer built around lethal, tactical encounters. A creator-supported development project, not a finished commercial release.
+
+[Official site prototype](https://www.necrowave.com) · [Patreon support / devlogs](https://www.patreon.com/Necrowave)
 
 ## VietDoom - Public Alpha
 

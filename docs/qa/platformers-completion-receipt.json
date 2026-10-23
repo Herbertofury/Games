@@ -1,0 +1,11 @@
+{
+  "sourceRevision": "1177581079d62e1f63f5b81171b545bdd5912950",
+  "runUrl": "https://github.com/Herbertofury/Games/actions/runs/40007193774",
+  "unitTests": 83,
+  "platformerRecords": 439,
+  "newDirectStreamsPlayed": 14,
+  "newYouTubeEmbedsVerified": 6,
+  "datasetHash": "62980fc8d4478615541ae5db8fb482090a36ded36ac98c5ec58f0125577555bc",
+  "passed": true,
+  "publication": "Native wiki and release publication is a separate workflow; Pages hosting is not assumed."
+}

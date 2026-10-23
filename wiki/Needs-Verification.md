@@ -1,8 +1,131 @@
 # Discovery reconciliation
 
-Published catalog: 885 unique records. Unresolved new candidates: 4. Unresolved does not mean nonexistent.
+Published catalog: 1189 unique records. Unresolved new candidates: 127. Unresolved does not mean nonexistent.
 
+- **Alice in Abyss**: Exact identity needs reconciliation
+- **Super Zangyura**: Exact identity needs reconciliation
+- **XeoDusk**: Exact identity needs reconciliation
+- **Plague Huntress**: Exact identity needs reconciliation
+- **Sorrow of the Infernal**: Exact identity needs reconciliation
+- **Vigilant: The Lunar Rebellion**: Exact identity needs reconciliation
+- **Grim Symphony**: Exact identity needs reconciliation
+- **Silhouette: Animal**: Exact identity needs reconciliation
+- **Silhouette: Dawn of the Forest**: Exact identity needs reconciliation
+- **OVERHORIZON**: Exact identity needs reconciliation
+- **Outland**: Exact identity needs reconciliation
+- **Environmental Station Alpha 2**: Exact identity needs reconciliation
+- **Overon**: Exact identity needs reconciliation
 - **Armor Clash 4**: No exact published identity confirmed. Not silently replaced with another game.
 - **Rise of Legends**: No current official digital edition confirmed. Do not link an unrelated title or unofficial download.
 - **Battle Aces**: Development ended; do not advertise as an available recommendation.
 - **Warfare Incorporated**: Non-Steam project requires a separate current desktop distribution and media check.
+- **There Is No Light**: Linear combat-focused action adventure; omitted to keep the exploration selection focused.
+- **NoseBound**: Point-and-click adventure, not a Metroidvania.
+- **Nuclear Blaze**: Primarily linear firefighting platformer rather than ability-gated world exploration.
+- **Shantae and the Seven Sirens Spectacular Superstar Update**: An update, not a separate game identity.
+- **Doomed to Hell**: Arena roguelite, not a Metroidvania.
+- **Sunblaze**: Level-based precision platformer, not a Metroidvania.
+- **Primal Light**: Linear action platformer; not promoted as a Metroidvania.
+- **Castle of Heart**: Linear action platformer; not promoted as a Metroidvania.
+- **Mini Healer**: Boss-battle healer simulator, not a Metroidvania.
+- **Gooma**: Ambiguous candidate; no recommendation promoted from the name alone.
+- **Doomed Lands**: Survival crafting rather than a Metroidvania.
+- **Touhou Artificial Dream in Arcadia**: First-person turn-based dungeon RPG, not a Metroidvania.
+- **Alekon**: Photography adventure, not a Metroidvania.
+- **Castle of Vania**: Ambiguous candidate; no exact edition promoted.
+- **Doomsday Hunters**: Twin-stick roguelite, not a Metroidvania.
+- **FlipWitch - Forbidden Sex Hex**: Explicit adult title excluded from this general-audience game collection.
+- **Kunado Chronicles**: Visual novel, not a Metroidvania.
+- **Mystery of Fortune**: Different RPG lineage, not a Metroidvania.
+- **Plastomorphosis**: Survival horror rather than a Metroidvania.
+- **Salt 2: Shores of Gold**: Open-world survival rather than a Metroidvania.
+- **Sotano**: Puzzle escape game, not a Metroidvania.
+- **Sparks of Hope**: Unresolved ambiguous title; not promoted as a Metroidvania.
+- **The Tale of Onogoro**: VR puzzle adventure, not a Metroidvania.
+- **The Witch's House MV**: MV is an engine/edition label here, not the Metroidvania genre.
+- **Ninja Five-O**: Level-based action platformer, not a Metroidvania.
+- **Exorcist: Reviewer of Minds**: Ambiguous candidate; not promoted without an exact relevant identity.
+- **Touhou: New World**: Action RPG without the requested central world-unlocking loop.
+- **Blade & Bones**: Loose action-RPG neighbor; not promoted into this collection.
+- **BLADE & BASTARD**: Unresolved genre/identity mismatch.
+- **Earthblade**: Cancelled project; do not advertise as a playable recommendation.
+- **Ninja Gaiden: Ragebound**: Level-based action platformer, not a Metroidvania.
+- **Altered Beast**: Arcade beat-em-up, not a Metroidvania.
+- **Altheia: The Wrath of Aferi**: Loose adventure neighbor; omitted from the Metroidvania selection.
+- **Anima: Song from the Abyss**: Loose action-RPG neighbor; not promoted.
+- **Earthion**: Horizontal shoot-em-up, not a Metroidvania.
+- **Folly of the Wizards**: Roguelite rather than a persistent-world Metroidvania.
+- **Forge of the Fae**: Turn-based RPG, not a Metroidvania.
+- **Haplo**: Ambiguous discovery name; no exact genre identity promoted.
+- **Hirogami**: Primarily linear 3D platformer, not a Metroidvania.
+- **Project Anomaly: Urban Supernatural Investigator**: Different adventure format; not promoted.
+- **Rogue Flight**: Rail shooter, not a Metroidvania.
+- **The Witch of Fern Island**: Life/farming simulation, not a Metroidvania.
+- **TrinityS**: Co-op boss-rush game, not a Metroidvania.
+- **Whisper Mountain Outbreak**: Survival-horror co-op, not a Metroidvania.
+- **Witchbrook**: Life simulation, not a Metroidvania.
+- **Yes, Your Grace: Snowfall**: Kingdom-management game, not a Metroidvania.
+- **Darksiders Genesis**: Level-based isometric action; excluded from the exploration-focused neighbors.
+- **Haydee**: Adult-styled adjacent puzzle shooter; omitted from the central genre selection.
+- **Haydee 2**: Adult-styled adjacent puzzle shooter; omitted from the central genre selection.
+- **Haydee 3**: Adult-styled adjacent puzzle shooter; omitted from the central genre selection.
+- **A Valley Without Wind 2**: Strategy/platform hybrid rather than the requested exploration loop.
+- **RogueVania**: Ambiguous identity; not promoted by genre-sounding name alone.
+- **Fury Unleashed**: Run-and-gun roguelite, not a Metroidvania.
+- **Doomsday Hunters**: Twin-stick roguelite, not a Metroidvania.
+- **Oblivion Eagle**: No exact relevant identity established.
+- **Spiritfall**: Platform-fighter roguelite, not a Metroidvania.
+- **30XX**: Level-based roguelite; excluded from persistent-world exploration.
+- **20XX**: Level-based roguelite; excluded from persistent-world exploration.
+- **Revita**: Room-based roguelite, not a Metroidvania.
+- **Skul: The Hero Slayer**: Linear-run action roguelite, not a Metroidvania.
+- **Have a Nice Death**: Run-based action roguelite, not a Metroidvania.
+- **Oblivion Eagle**: No exact relevant identity established.
+- **Zoria: Age of Shattering**: Tactical RPG, not a Metroidvania.
+- **Touhou Genso Wanderer -FORESIGHT-**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Deedlit in Wonder Labyrinth**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Cat Girl Without Salad: Amuse-Bouche**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Super Metroidvania**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Sapper - Defuse The Bomb Simulator**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Cally's Caves 3**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Cally's Caves 4**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Shinsekai Into the Depths**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Over The Moon**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Escape from the Universe**: Explicit genre/identity review; not promoted merely to increase the count.
+- **The Fall of Aether Station**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Project Delta**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Himno**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Kingdom of the Dead**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Sakuna: Of Rice and Ruin**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Demon's Crest**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Quester**: Explicit genre/identity review; not promoted merely to increase the count.
+- **The Legend of Tian Ding**: Explicit genre/identity review; not promoted merely to increase the count.
+- **Mini Knight**: The named candidate is ambiguous; the returned Mini Knight's Journey is not assumed to be the intended game.
+- **Magenta Horizon**: Excellent stage-based character-action game, but not a Metroidvania. Retained in the discovery ledger rather than mislabeled.
+- **Saviorless**: Narrative platformer, not a traditional Metroidvania.
+- **Bionic Bay**: Level-based puzzle platformer, not a persistent-world Metroidvania.
+- **Big Hops**: Collectathon platforming rather than a persistent ability-gated Metroidvania.
+- **The Spirit of the Samurai**: Narrative action platformer, not a traditional Metroidvania.
+- **Windswept**: Primarily a level-based platformer rather than a persistent labyrinth.
+- **Valley**: A linear first-person adventure; not promoted as a traditional Metroidvania.
+- **Brave Earth: Prologue**: Stage-based Castlevania-style action, not a Metroidvania.
+- **Lords of Exile**: Stage-based action platformer, not a Metroidvania.
+- **Bail Force: Cyberpunk Bounty Hunters**: Run-based action roguelite, not a Metroidvania.
+- **Super Metroid**: Resolve through its exact creator or console distribution, not an unrelated Steam title.
+- **Shinsekai: Into the Depths**: Resolve through its exact creator or console distribution, not an unrelated Steam title.
+- **Shantae**: Resolve through its exact creator or console distribution, not an unrelated Steam title.
+- **Treasure Adventure Game**: Resolve through its exact creator or console distribution, not an unrelated Steam title.
+- **Momodora II**: Resolve through its exact creator or console distribution, not an unrelated Steam title.
+- **Lyle in Cube Sector**: Resolve through its exact creator or console distribution, not an unrelated Steam title.
+- **Metroid Prime Remastered**: Resolve through its exact creator or console distribution, not an unrelated Steam title.
+- **Metroid Prime 4: Beyond**: Resolve through its exact creator or console distribution, not an unrelated Steam title.
+- **Savior**: 
+- **Sunset Land**: 
+- **Distant Paradise**: 
+- **An Untitled Story**: 
+- **Eagle Island**: 
+- **The Light of the Darkness**: 
+- **Kotama&Academy Citadel**: 
+- **Grime 2**: 
+- **Mongrel Story (Demo)**: Media and playable-preview verification not met; not promoted as a recommendation. Original source data remains in metroidvania-external.json.
+- **Reawakening**: Public build identity verified but no usable gameplay video verified; retained in research, not recommended with blank footage.

@@ -33,8 +33,11 @@ try:
   page.locator('[data-view=table]').click();check('Sortable table contains every record',page.locator('tbody tr').count()==N);page.locator('[data-view=gallery]').click();check('Gallery contains every record',len(page.evaluate('GamesTest.filtered'))==N);page.locator('[data-view=grid]').click()
   report['renderMs']=page.evaluate('()=>{const a=[];for(let i=0;i<5;i++){const t=performance.now();render();a.push(performance.now()-t)}return a}');check('Measured render never culls results',page.locator('.game-card').count()==N)
   for i,g in enumerate(rows):
-   page.evaluate('(id)=>openGame(id)',g['id']);page.locator('.mv-brief').wait_for();links=page.locator('.storefronts a').evaluate_all('(xs)=>xs.map(x=>x.getAttribute("href"))');assert set(links)=={x['url'] for x in g['storefronts']},(g['name'],'source mismatch')
-   assert page.locator('#media-video,.youtube-consent').count()==1,(g['name'],'missing embedded player');source=page.locator('.media-source-line a').get_attribute('href');assert source==(g['trailers'][0].get('watchUrl') or g['trailers'][0]['sourceUrl']),(g['name'],'wrong source')
+   page.evaluate('(id)=>openGame(id)',g['id']);page.locator('.mv-brief').wait_for();links=page.locator('.storefronts a').evaluate_all('(xs)=>xs.map(x=>x.href)')
+   # URL() adds the canonical root slash and encodes paths. Compare complete
+   # destinations, including query and fragment, not raw spelling differences.
+   expected=page.evaluate('(urls)=>urls.map(u=>new URL(u).href)',[x['url'] for x in g['storefronts']]);assert set(links)==set(expected),(g['name'],'source mismatch',links,expected)
+   assert page.locator('#media-video,.youtube-consent').count()==1,(g['name'],'missing embedded player');source=page.locator('.media-source-line a').get_attribute('href');expected_source=page.evaluate('(u)=>new URL(u).href',g['trailers'][0].get('watchUrl') or g['trailers'][0]['sourceUrl']);assert source==expected_source,(g['name'],'wrong source',source,expected_source)
    if g.get('requirements'):assert page.locator('.requirements').count()==1
    report['details'].append({'id':g['id'],'sources':links,'videoSource':source,'brief':True});page.evaluate('closeModal()')
    if i%50==0:print('DETAILS',i+1,'/',N,flush=True)

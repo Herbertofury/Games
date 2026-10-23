@@ -2,7 +2,7 @@
 
 ![Iconoclasts official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393520/header.jpg?t=1745570624)
 
-**[Open official page](https://store.steampowered.com/app/393520/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A393520)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/393520/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A393520)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Join renegade mechanic Robin and uncover the secrets of a dying planet. Explore a big world filled with intricate puzzles, interesting characters and menacing ...
 
@@ -12,7 +12,7 @@ Spatial reasoning, environmental storytelling and movement as a problem-solving 
 
 | Field | Value |
 |:--|:--|
-| Collection | Puzzles & cinematic journeys |
+| Collection | Puzzles & cinematic journeys, Hand-drawn, charming & colorful |
 | Recommendation | 9/10 |
 | Community reception | 86.3% / 5,037 Steam reviews |
 | Release | Jan 23, 2018 |
@@ -25,7 +25,8 @@ Spatial reasoning, environmental storytelling and movement as a problem-solving 
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/393520/)
+- [Steam: store](https://store.steampowered.com/app/393520)
+- [GOG: store](https://www.gog.com/en/game/iconoclasts) | Exact title in GOG official catalog: Iconoclasts
 
 ## Videos and screenshots
 
@@ -49,11 +50,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/393520/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=393520&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A393520%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Steam](https://store.steampowered.com/app/393520/) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=393520&l=english&cc=us) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A393520%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:59:37.367270+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Traditional Metroidvania
+
+**Store-described mechanics:** Explore the official gameplay and description for its progression systems.
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

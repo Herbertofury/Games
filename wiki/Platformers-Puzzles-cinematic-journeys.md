@@ -21,13 +21,13 @@ Logical systems, physics puzzles and deliberately paced cinematic adventures. At
 | [Planet of Lana](Game-1608230-Planet-of-Lana) | 9/10 | 93.0% / 10,857 Steam reviews | May 23, 2023 · Released | [Steam](https://store.steampowered.com/app/1608230/) |
 | [REPLACED](Game-1663850-REPLACED) | 9/10 | 85.1% / 10,383 Steam reviews | Apr 14, 2026 · Released | [Steam](https://store.steampowered.com/app/1663850/) |
 | [Thomas Was Alone](Game-220780-Thomas-Was-Alone) | 9/10 | 93.7% / 9,400 Steam reviews | Nov 12, 2012 · Released | [Steam](https://store.steampowered.com/app/220780/) |
-| [The Swapper](Game-231160-The-Swapper) | 9/10 | 94.1% / 7,596 Steam reviews | May 30, 2013 · Released | [Steam](https://store.steampowered.com/app/231160/) |
+| [The Swapper](Game-231160-The-Swapper) | 9/10 | 94.1% / 7,596 Steam reviews | May 30, 2013 · Released | [Steam](https://store.steampowered.com/app/231160) · [GOG](https://www.gog.com/en/game/the_swapper) |
 | [The Pedestrian](Game-466630-The-Pedestrian) | 9/10 | 96.6% / 6,167 Steam reviews | Jan 29, 2020 · Released | [Steam](https://store.steampowered.com/app/466630/) |
-| [Yoku's Island Express](Game-334940-Yoku-s-Island-Express) | 9/10 | 95.7% / 5,378 Steam reviews | May 29, 2018 · Released | [Steam](https://store.steampowered.com/app/334940/) |
-| [Iconoclasts](Game-393520-Iconoclasts) | 9/10 | 86.3% / 5,037 Steam reviews | Jan 23, 2018 · Released | [Steam](https://store.steampowered.com/app/393520/) |
+| [Yoku's Island Express](Game-334940-Yoku-s-Island-Express) | 9/10 | 95.7% / 5,378 Steam reviews | May 29, 2018 · Released | [Steam](https://store.steampowered.com/app/334940) · [GOG](https://www.gog.com/en/game/yokus_island_express) |
+| [Iconoclasts](Game-393520-Iconoclasts) | 9/10 | 86.3% / 5,037 Steam reviews | Jan 23, 2018 · Released | [Steam](https://store.steampowered.com/app/393520) · [GOG](https://www.gog.com/en/game/iconoclasts) |
 | [Oddworld: New 'n' Tasty](Game-314660-Oddworld-New-n-Tasty) | 9/10 | 85.5% / 3,681 Steam reviews | Feb 25, 2015 · Released | [Steam](https://store.steampowered.com/app/314660/) |
 | [Braid, Anniversary Edition](Game-499180-Braid-Anniversary-Edition) | 9/10 | 92.3% / 1,936 Steam reviews | May 14, 2024 · Released | [Steam](https://store.steampowered.com/app/499180/) |
-| [ElecHead](Game-1456880-ElecHead) | 9/10 | 96.3% / 1,476 Steam reviews | Oct 14, 2021 · Released | [Steam](https://store.steampowered.com/app/1456880/) |
+| [ElecHead](Game-1456880-ElecHead) | 9/10 | 96.3% / 1,476 Steam reviews | Oct 14, 2021 · Released | [Steam](https://store.steampowered.com/app/1456880) · [GOG](https://www.gog.com/en/game/elechead) · [itch.io](https://namatakahashi.itch.io/elechead) |
 | [Planet of Lana II](Game-2997230-Planet-of-Lana-II) | 9/10 | 92.5% / 1,107 Steam reviews | Mar 5, 2026 · Released | [Steam](https://store.steampowered.com/app/2997230/) |
 | [Bionic Bay](Game-1928690-Bionic-Bay) | 9/10 | 84.8% / 956 Steam reviews | Apr 16, 2025 · Released | [Steam](https://store.steampowered.com/app/1928690/) |
 | [Toodee and Topdee](Game-1303950-Toodee-and-Topdee) | 9/10 | 93.4% / 874 Steam reviews | Aug 4, 2021 · Released | [Steam](https://store.steampowered.com/app/1303950/) |
@@ -51,15 +51,15 @@ Logical systems, physics puzzles and deliberately paced cinematic adventures. At
 | [Somerville](Game-1671410-Somerville) | 7/10 | 70.5% / 1,908 Steam reviews | Nov 14, 2022 · Released | [Steam](https://store.steampowered.com/app/1671410/) |
 | [Black The Fall](Game-308060-Black-The-Fall) | 7/10 | 78.1% / 1,839 Steam reviews | Jul 11, 2017 · Released | [Steam](https://store.steampowered.com/app/308060/) |
 | [Deadlight: Director's Cut](Game-423950-Deadlight-Director-s-Cut) | 7/10 | 71.9% / 1,666 Steam reviews | Jun 21, 2016 · Released | [Steam](https://store.steampowered.com/app/423950/) |
-| [Greak: Memories of Azur](Game-1311070-Greak-Memories-of-Azur) | 7/10 | 78.3% / 1,574 Steam reviews | Aug 17, 2021 · Released | [Steam](https://store.steampowered.com/app/1311070/) |
+| [Greak: Memories of Azur](Game-1311070-Greak-Memories-of-Azur) | 7/10 | 78.3% / 1,574 Steam reviews | Aug 17, 2021 · Released | [Steam](https://store.steampowered.com/app/1311070) |
 | [PLANET ALPHA](Game-485030-PLANET-ALPHA) | 7/10 | 70.1% / 1,133 Steam reviews | Sep 4, 2018 · Released | [Steam](https://store.steampowered.com/app/485030/) |
 | [Minute of Islands](Game-1049710-Minute-of-Islands) | 7/10 | 77.1% / 1,024 Steam reviews | Jun 13, 2021 · Released | [Steam](https://store.steampowered.com/app/1049710/) |
 | [The Eternal Castle [REMASTERED]](Game-963450-The-Eternal-Castle-REMASTERED) | 7/10 | 87.0% / 769 Steam reviews | Jan 5, 2019 · Released | [Steam](https://store.steampowered.com/app/963450/) |
 | [Stela](Game-1048600-Stela) | 7/10 | 78.8% / 744 Steam reviews | Mar 13, 2020 · Released | [Steam](https://store.steampowered.com/app/1048600/) |
 | [Flashback](Game-961620-Flashback) | 7/10 | 77.7% / 611 Steam reviews | Feb 28, 2019 · Released | [Steam](https://store.steampowered.com/app/961620/) |
-| [Teslagrad 2](Game-1698220-Teslagrad-2) | 7/10 | 75.8% / 608 Steam reviews | Apr 19, 2023 · Released | [Steam](https://store.steampowered.com/app/1698220/) |
+| [Teslagrad 2](Game-1698220-Teslagrad-2) | 7/10 | 75.8% / 608 Steam reviews | Apr 19, 2023 · Released | [Steam](https://store.steampowered.com/app/1698220) |
 | [SCHiM](Game-1519710-SCHiM) | 7/10 | 72.8% / 334 Steam reviews | Jul 18, 2024 · Released | [Steam](https://store.steampowered.com/app/1519710/) |
-| [Teslagrad Remastered](Game-2168150-Teslagrad-Remastered) | 7/10 | 76.8% / 284 Steam reviews | Apr 19, 2023 · Released | [Steam](https://store.steampowered.com/app/2168150/) |
+| [Teslagrad Remastered](Game-2168150-Teslagrad-Remastered) | 7/10 | 76.8% / 284 Steam reviews | Apr 19, 2023 · Released | [Steam](https://store.steampowered.com/app/2168150) |
 | [Out of Line](Game-1419290-Out-of-Line) | 7/10 | 90.1% / 243 Steam reviews | Jun 23, 2021 · Released | [Steam](https://store.steampowered.com/app/1419290/) |
 | [Oddworld: Soulstorm Enhanced Edition](Game-619390-Oddworld-Soulstorm-Enhanced-Edition) | 6/10 | 65.5% / 718 Steam reviews | Jun 21, 2022 · Released | [Steam](https://store.steampowered.com/app/619390/) |
 | [Little Nightmares III](Game-1392860-Little-Nightmares-III) | 5/10 | 47.1% / 21,407 Steam reviews | Oct 9, 2025 · Released | [Steam](https://store.steampowered.com/app/1392860/) |

@@ -4,15 +4,26 @@
  const hub='Platformers';
  const wiki='https://github.com/Herbertofury/Games/wiki/Platformers';
  const originalBestLabel=$('[data-preset="best"] small').textContent,originalNewLabel=$('[data-preset="new"] small').textContent;
- const featuredBefore=featuredGame,heroBefore=hero,renderHubBefore=renderHub,presetBefore=preset,sourceBefore=sourcePanel;
+ const featuredBefore=featuredGame,heroBefore=hero,renderHubBefore=renderHub,presetBefore=preset,sourceBefore=sourcePanel,cardBefore=card;
+ let primaryRoutesKey=null;
  if(!document.querySelector('[data-hub="Platformers"]'))document.querySelector('.genre-hubs').insertAdjacentHTML('beforeend','<button class="nav-item" data-hub="Platformers">Platformers <span class="new-pill">NEW</span></button>');
  document.querySelector('.featured').insertAdjacentHTML('afterend',`<section class="platformer-guide" hidden aria-label="Platformer study routes"><div><span class="eyebrow">MOVEMENT IS THE POINT / 04</span><h2>Find your kind of leap.</h2><p>Precision, playful worlds, impossible routes. Core platformers and clearly labelled hybrids, from established classics to the newest checked releases.</p></div><nav aria-label="Platformer routes"><button data-platformer-route="precision">Precision & mastery</button><button data-platformer-route="3d">3D worlds</button><button data-platformer-route="exploration">Exploration</button><button data-platformer-route="puzzles">Puzzles & atmosphere</button><button data-platformer-route="coop">Bring a friend</button><button data-platformer-route="gems">Gem shortlist</button><button data-platformer-route="free">Free creator games</button><button data-platformer-route="upcoming">Upcoming, not yet rated</button></nav><a class="quiet platformer-study-link" href="${wiki}" target="_blank" rel="noopener">Read the full study, source notes and illustrated dossiers ${icon('external')}</a></section>`);
  featuredGame=function(){return state.hub===hub?(games.find(g=>g.appid===504230&&g.verification==='verified')||games.find(g=>(g.hubs||[]).includes(hub))):featuredBefore();};
  hero=function(){heroBefore();if(state.hub===hub)$('#hero-summary').textContent='One dash. A thousand possibilities. Start with Celeste, then follow the movement into unfamiliar worlds, overlooked gems and the next generation of platformers.';};
+ card=function(g){return cardBefore(state.hub===hub&&g.platformerCollection?{...g,collection:g.platformerCollection}:g);};
  renderHub=function(){
   renderHubBefore();const active=state.hub===hub;
   $('.platformer-guide').hidden=!active;
-  if(!active){$('[data-preset="best"] small').textContent=originalBestLabel;$('[data-preset="new"] small').textContent=originalNewLabel;return;}
+  if(!active){primaryRoutesKey=null;$('[data-preset="best"] small').textContent=originalBestLabel;$('[data-preset="new"] small').textContent=originalNewLabel;return;}
+  // Each record has one primary platformer route. Other genre memberships
+  // remain on the canonical object but do not inflate this hub's navigation.
+  const key=CATALOG.build?.datasetHash||String(games.length);
+  if(primaryRoutesKey!==key){
+   const scoped=games.filter(g=>(g.hubs||[]).includes(hub));
+   $('#stat-collections').textContent=new Set(scoped.map(g=>g.platformerCollection)).size;
+   renderCollections(scoped.map(g=>({...g,collections:[g.platformerCollection]})));
+   primaryRoutesKey=key;
+  }
   document.body.dataset.hub='platformers';
   $('.intro h1').innerHTML='Make the leap<span>.</span>';
   $('.intro p').textContent='The platformer study. Precision classics, expressive 3D worlds, cinematic puzzles, co-op discoveries and the gems between them.';
@@ -49,7 +60,5 @@
   if(route==='upcoming'){state.status='Upcoming';state.sort='newest';}
   render();$('#library').scrollIntoView({block:'start',behavior:'smooth'});
  });
- // Functions are wrapped after the original app initializes; refresh its
- // rendered view once so deep-linked platformer pages are immediately correct.
  renderedHub=undefined;options();render();hero();if(currentGame)openGame(currentGame.id);
 })();

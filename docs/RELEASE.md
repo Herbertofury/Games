@@ -11,3 +11,7 @@ Native wiki: Metroidvanias, Metroidvania-Media and Metroidvania-Underground, plu
 Source coverage is the confirmed set, not a claim to every retailer worldwide. Patreon support is not a full-game license; Nintendo Classics membership access is not freeware. Review scores retain their provider and sample size. Editorial fit is not a claim of hands-on completion.
 
 The release gate retains all previous browser and unit tests and adds exhaustive new detail/source and artwork checks. Actual video-playback probes are distinct from a claim that every external video was watched end to end. GitHub Pages remains a separate hosting setting.
+
+## Platformer media completion
+
+The platformer study now supplies artwork and supported video metadata for all 439 entries, with twenty previously declared gaps resolved. Official publisher footage, credited editorial gameplay and two short library-captured public-browser previews have distinct labels and dated provenance. Fourteen added direct streams were actually played in Chrome; six added YouTube identities and opt-in embeds were verified separately. Ten primary platformer routes no longer inherit unrelated sidebar categories. All existing collections and personal-library workflows remain covered by the publication gates. See `docs/PLATFORMERS-COMPLETION.md` for exact evidence boundaries.

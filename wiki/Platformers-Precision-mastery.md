@@ -30,7 +30,7 @@ Compare momentum, checkpoint frequency, movement constraints and the cost of a m
 | [1001 Spikes](Game-260790-1001-Spikes) | 8/10 | 82.4% / 773 Steam reviews | Jun 3, 2014 · Released | [Steam](https://store.steampowered.com/app/260790/) |
 | [Electronic Super Joy 2](Game-1113940-Electronic-Super-Joy-2) | 8/10 | 87.1% / 730 Steam reviews | Aug 9, 2019 · Released | [Steam](https://store.steampowered.com/app/1113940/) |
 | [Pinkman](Game-516480-Pinkman) | 8/10 | 97.6% / 705 Steam reviews | Jan 16, 2017 · Released | [Steam](https://store.steampowered.com/app/516480/) |
-| [Super Win the Game](Game-310700-Super-Win-the-Game) | 8/10 | 89.0% / 654 Steam reviews | Oct 1, 2014 · Released | [Steam](https://store.steampowered.com/app/310700/) |
+| [Super Win the Game](Game-310700-Super-Win-the-Game) | 8/10 | 89.0% / 654 Steam reviews | Oct 1, 2014 · Released | [Steam](https://store.steampowered.com/app/310700) |
 | [Sunblaze](Game-1525660-Sunblaze) | 8/10 | 90.0% / 488 Steam reviews | Jun 3, 2021 · Released | [Steam](https://store.steampowered.com/app/1525660/) |
 | [Super Magbot](Game-1205170-Super-Magbot) | 8/10 | 83.6% / 428 Steam reviews | Jun 22, 2021 · Released | [Steam](https://store.steampowered.com/app/1205170/) |
 | [Garlic](Game-1250440-Garlic) | 8/10 | 89.1% / 394 Steam reviews | Jun 15, 2021 · Released | [Steam](https://store.steampowered.com/app/1250440/) |

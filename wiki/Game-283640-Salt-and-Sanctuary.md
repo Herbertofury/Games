@@ -2,7 +2,7 @@
 
 ![Salt and Sanctuary official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/header.jpg?t=1729712419)
 
-**[Open official page](https://store.steampowered.com/app/283640/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A283640)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/283640/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A283640)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Explore a haunting, punishing island in this stylized 2D action RPG. Salt and Sanctuary combines fast and brutal 2D combat with richly developed RPG ...
 
@@ -12,7 +12,7 @@ Ability-gated exploration, spatial memory and routes that change as the movement
 
 | Field | Value |
 |:--|:--|
-| Collection | Exploration & Metroidvanias |
+| Collection | Exploration & Metroidvanias, Dark fantasy & soulslike worlds |
 | Recommendation | 8/10 |
 | Community reception | 89.3% / 22,010 Steam reviews |
 | Release | May 17, 2016 |
@@ -25,7 +25,7 @@ Ability-gated exploration, spatial memory and routes that change as the movement
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/283640/)
+- [Steam: store](https://store.steampowered.com/app/283640)
 
 ## Videos and screenshots
 
@@ -57,11 +57,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/283640/) · checked 2026-10-23T17:07:37.068525+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=283640&l=english&cc=us) · checked 2026-10-23T17:07:37.068525+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A283640%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:07:37.068525+00:00
+- [Steam](https://store.steampowered.com/app/283640/) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=283640&l=english&cc=us) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A283640%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:59:37.367270+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Combat-focused Metroidvania
+
+**Store-described mechanics:** Explore the official gameplay and description for its progression systems.
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

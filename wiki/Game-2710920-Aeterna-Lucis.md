@@ -2,7 +2,7 @@
 
 ![Aeterna Lucis official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710920/3ae36b3a33ff9071e57b1af4ed224c8caacadba8/header.jpg?t=1792681124)
 
-**[Open official page](https://store.steampowered.com/app/2710920/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2710920)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/2710920/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2710920)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Aeterna Lucis is our purest metroidvania yet and the sequel to Aeterna Noctis. Become the Queen of Light, explore a vast, hand-drawn interconnected world, ...
 
@@ -12,7 +12,7 @@ Ability-gated exploration, spatial memory and routes that change as the movement
 
 | Field | Value |
 |:--|:--|
-| Collection | Exploration & Metroidvanias |
+| Collection | Exploration & Metroidvanias, Dark fantasy & soulslike worlds |
 | Recommendation | Unrated |
 | Community reception | No aggregate rating |
 | Release | Dec 3, 2026 |
@@ -25,7 +25,8 @@ Ability-gated exploration, spatial memory and routes that change as the movement
 
 ## Official stores and downloads
 
-- [Steam: project](https://store.steampowered.com/app/2710920/)
+- [Steam: wishlist](https://store.steampowered.com/app/2710920)
+- [Steam: demo](https://store.steampowered.com/app/3774290)
 
 > Small review sample
 
@@ -121,11 +122,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/2710920/) · checked 2026-10-23T17:07:37.068525+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2710920&l=english&cc=us) · checked 2026-10-23T17:07:37.068525+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2710920%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:07:37.068525+00:00
+- [Steam](https://store.steampowered.com/app/2710920/) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2710920&l=english&cc=us) · checked 2026-10-23T16:59:37.367270+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2710920%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:59:37.367270+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Combat-focused Metroidvania
+
+**Store-described mechanics:** Dash movement
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 

@@ -30,17 +30,19 @@ A concise grappling-focused variation that demonstrates how changing a movement 
 
 Free PICO-8 anniversary game, not a numbered commercial Celeste sequel. Native host ratings, when available, retain their original five-point scale.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
 
+[Celeste Classic 2: Lani's Trek — public browser gameplay preview](https://maddymakesgamesinc.itch.io/celeste-classic-2) | Games library capture of the creator-published PICO-8 browser build; not an official trailer
+
+> A short recorded interaction with the exact free browser release. This is not the commercial Celeste game, a full playthrough, or a claim of comprehensive hands-on review.
+
 ## Sources and evidence
 
-- [itch.io](https://maddymakesgamesinc.itch.io/celeste-classic-2) · checked 2026-10-23
+- [Creator browser build](https://maddymakesgamesinc.itch.io/celeste-classic-2) · checked 2026-10-23
 - [Creator release chronology](https://maddymakesgames.com/) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://maddymakesgamesinc.itch.io/celeste-classic-2) · checked 2026-10-23T17:09:08.300141+00:00
+- [Exact played public build](https://html-classic.itch.zone/html/3276960/index.html) · checked 2026-10-23
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 

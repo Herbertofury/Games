@@ -9,7 +9,7 @@ Characterful adventures and approachable starting routes. Cute presentation is n
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
 | [Super Mario Bros. Wonder](Game-external-super-mario-bros-wonder-Super-Mario-Bros-Wonder) | 10/10 | No aggregate rating | 2023-10-20 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/) |
-| [Owlboy](Game-115800-Owlboy) | 9/10 | 83.5% / 6,136 Steam reviews | Nov 1, 2016 · Released | [Steam](https://store.steampowered.com/app/115800/) |
+| [Owlboy](Game-115800-Owlboy) | 9/10 | 83.5% / 6,136 Steam reviews | Nov 1, 2016 · Released | [Steam](https://store.steampowered.com/app/115800) · [GOG](https://www.gog.com/en/game/owlboy) · [Steam](https://store.steampowered.com/app/1803680) |
 | [Promenade](Game-1781260-Promenade) | 9/10 | 94.5% / 913 Steam reviews | Feb 23, 2024 · Released | [Steam](https://store.steampowered.com/app/1781260/) |
 | [Yoshi and the Mysterious Book](Game-external-yoshi-mysterious-book-Yoshi-and-the-Mysterious-Book) | 9/10 | No aggregate rating | 2026-05-21 · Released | [Nintendo](https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/) |
 | [Arzette: The Jewel of Faramore](Game-1924780-Arzette-The-Jewel-of-Faramore) | 8/10 | 96.4% / 1,119 Steam reviews | Feb 13, 2024 · Released | [Steam](https://store.steampowered.com/app/1924780/) |

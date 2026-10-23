@@ -2,7 +2,7 @@
 
 ![Metroid Dread official artwork](https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2)
 
-**[Open official page](https://www.nintendo.com/us/store/products/metroid-dread-switch/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Ametroid-dread)** · [Platformers](Platformers)
+**[Open official page](https://www.nintendo.com/us/store/products/metroid-dread-switch/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Ametroid-dread)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Fluid movement, ability-gated route design and tense encounters make a central console reference for the exploration-platformer branch. Best for players who want traversal and combat to reinforce each other.
 
@@ -12,7 +12,7 @@ Fluid movement, ability-gated route design and tense encounters make a central c
 
 | Field | Value |
 |:--|:--|
-| Collection | Exploration & Metroidvanias |
+| Collection | Exploration & Metroidvanias, Console origins & genre landmarks |
 | Recommendation | 10/10 |
 | Community reception | No aggregate rating |
 | Release | 2021-10-08 |
@@ -24,17 +24,23 @@ Fluid movement, ability-gated route design and tense encounters make a central c
 
 ## Official stores and downloads
 
-- [Nintendo: store](https://www.nintendo.com/us/store/products/metroid-dread-switch/)
+- [Nintendo: store](https://www.nintendo.com/us/store/products/metroid-dread-switch)
 
 ### Before you play
 
 Single-player, combat-heavy and not a gentle exploration walk. This is an action-exploration game, not a stage-by-stage Mario-style platformer.
 
-> No independently parsed embedded trailer; use the official page for video.
-
 ## Videos and screenshots
 
 The interactive library plays compatible videos in-page. GitHub wiki links open the exact source. Creator media and community gameplay are credited separately.
+
+[Metroid™ Dread — official product video](https://www.nintendo.com/us/store/products/metroid-dread-switch/) | Nintendo — exact product gallery
+
+> Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted.
+
+[Metroid Dread - Overview Trailer - Nintendo Switch](https://www.youtube.com/watch?v=AOvefm5U250) | Nintendo of America
+
+[Source and provenance](https://metroid.nintendo.com/dread/)
 
 ![Metroid™ Dread 1](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2)
 
@@ -54,11 +60,19 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Nintendo](https://www.nintendo.com/us/store/products/metroid-dread-switch/) · checked 2026-10-23
-- [Exact-page Open Graph artwork](https://www.nintendo.com/us/store/products/metroid-dread-switch/) · checked 2026-10-23T17:09:08.300141+00:00
-- [Exact-page media completion](https://www.nintendo.com/us/store/products/metroid-dread-switch/) · checked 2026-10-23T17:27:45.963246+00:00
+- [Nintendo](https://www.nintendo.com/us/store/products/metroid-dread-switch/) · checked 2026-10-23T17:40:10.781347+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
+
+## Explorer's brief
+
+**Structure:** Traditional Metroidvania
+
+**Store-described mechanics:** Explore the official gameplay and description for its progression systems.
+
+Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
 
 ## Platformer field notes
 
