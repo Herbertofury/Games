@@ -37,6 +37,7 @@ jobs:
           git merge-base --is-ancestor origin/main HEAD || git merge --no-edit origin/main
           python3 -m pip install -r requirements-dev.txt
           python3 scripts/install_platformers.py
+          python3 scripts/prepare_parallel_collections.py
           python3 scripts/finalize_platformer_sources.py
           python3 scripts/complete_platformer_media.py
           python3 scripts/build.py
