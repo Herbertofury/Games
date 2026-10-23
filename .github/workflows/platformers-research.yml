@@ -1,0 +1,48 @@
+name: Collect platformer research
+on:
+  workflow_dispatch:
+  push:
+    branches: [platformers-study-2026-10-23]
+    paths:
+      - data/platformers-seeds.tsv
+      - scripts/collect_platformers.py
+      - .github/workflows/platformers-research.yml
+permissions:
+  contents: write
+concurrency:
+  group: platformer-research
+  cancel-in-progress: false
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify exact identities and collect official snapshots
+        run: |
+          python3 -m py_compile scripts/collect_platformers.py
+          python3 scripts/collect_platformers.py --workers 3
+      - name: Preserve checked source data on the study branch
+        if: success()
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/platformers-seeds.tsv data/platformers-steam.json data/platformers-enrichment-report.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Verify platformer identities, release states, reviews and exact official media'
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: platformer-research-snapshot
+          path: |
+            data/platformers-*.json
+            data/platformers-seeds.tsv
+            scripts/collect_platformers.py
