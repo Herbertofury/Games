@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "builtAt": "2026-10-23T03:54:22.812502+00:00",
+  "sourceRepository": "https://github.com/Herbertofury/Games",
+  "sourceRevision": "cf4a2d75facf161958c28aa5f017593f5f0dad9e",
+  "sourceWiki": "https://github.com/Herbertofury/Games/wiki",
+  "datasetHash": "1f6eb150cc51fbe5cd154a942c8e69eeedf16815bd29da3f782eae202856e2c0",
+  "records": 170,
+  "verified": 170,
+  "unresolved": 0,
+  "trailers": 170,
+  "collections": [
+    "Action roguelites",
+    "Bullet heaven",
+    "Dark fantasy",
+    "First-person action",
+    "Loot-driven ARPGs",
+    "Myth & magic",
+    "Offbeat hybrids",
+    "Sci-fi & machines",
+    "Zombies & horror"
+  ],
+  "html": {
+    "bytes": 1635316,
+    "sha256": "a1b530f676d95c70ff73e546b9e59af359629c580d97b28ff52a5617491a7d62"
+  },
+  "sourceFiles": {
+    "site/styles.css": "8d9956bd0a540763b688bad1c45b2aec6a7847bfb73f08cc7af37c31f33cdb3b",
+    "site/index.html": "eaad3ba9ef59f4e27bbf8e8e6d06bf42899790b67c8a8499941d9699ac9865f0",
+    "site/sw.js": "2b16756a7b6589a25f87c2aee8ad0a78ce4e986271f6bf3467809719f560813e",
+    "site/app.js": "e3bd7f620857dbe4ce53b7c927dff7d6b70a8f8f9da3203e1e0d2eac8740419c",
+    "scripts/refresh.py": "a974672fb49258a5ee92cdfba130c281a6963990d57e927494a3c8412a824a76",
+    "scripts/diagnose_media.py": "991e247ae2b3abe68e68fde3c75b0c3d4ebe926b6594e04d98fba51f7a31a7d4",
+    "scripts/reconcile.py": "49af96848fbb740037d5930d0595462713cf95e43f9e64d1ac3fd6d07594d04a",
+    "scripts/media_qa.py": "454348c50735a3f46afc84828da208b5b750d432867305ec6bfbf19eceef1d21",
+    "scripts/publish_wiki.py": "c82515e6f457f60de78f7b30ccb7a58c1ff8092ef50a7dedc45c4d6c7dc09512",
+    "scripts/add_game.py": "86aafdfc6ef902ae11be8c13a9da28f91d83eb58f9921559397d1ee9a28ae44f",
+    "scripts/build.py": "3941fe5688e5a099b1cf782a8b4a93672c7a78133933328260282207f1a94aad",
+    "tests/make_fixture.py": "207e115b3447d2632cc2c1b5a8884e122abc784da12fd6107077068d5b66b700",
+    "tests/test_catalog.py": "e6cbfe1a07822c8cf4968f23082af824522d15f92d6c4d5903b0a4256bdeb1c7",
+    "tests/test_reviews.py": "00388308aa34ad0d2af7a3c440fab0e631e3331ab849896a58ac236d1172e8fe",
+    "tests/browser_qa.py": "356b3e98d982d84cf0c4e71dca5c97e73bbeebf5063f3e5a4853840a07d37848",
+    "tests/inline_smoke.py": "8244baaae9f524918ea91ae9349161489b5db55abdaea64708d3ca7f144924d6",
+    "data/seeds.tsv": "e281fa7444b93245e032ce93b26f86e8b0be93727dde81b2a22d2b66f0577760",
+    "data/name-history.json": "8ba4b6e23f9d260335aaa4bd9cca774ed3264529204359811f81da43df66977f",
+    "data/catalog.json": "c7a60c3ea3d2bcc80118686ddcdd46f537023731d519bb3d3ae97a6e49ddddc3"
+  }
+}

@@ -1,0 +1,60 @@
+# Cult of Shadows
+
+![Cult of Shadows official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/fb30b336345ec492916c3e84eb923dad8b794d17/header.jpg?t=1784326613)
+
+**[Steam store](https://store.steampowered.com/app/3936450/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3936450)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+
+Uncover the secrets of Bel Noa. Fight hordes of cultists and the Mythos they summon. Defeat fearsome beasts, upgrade your character, acquire and enchant weapons. Die and return stronger to face the Cult of Shadows.
+
+| Field | Value |
+|:--|:--|
+| Collection | Dark fantasy |
+| Recommendation | 7/10 |
+| Steam positive reviews | 71.4% |
+| Review count | 14 |
+| Steam release date | Jul 17, 2026 |
+| Status | Released |
+| Developers | Squirrel Tail Games |
+| US price snapshot | $14.99 |
+| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+
+> **Check before buying:** Small review sample
+
+## Official media
+
+- [Cult of Shadows Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3936450/1057335123/edfca8ba74c58b8bd6c01b40ee0235e6328dad93/1783622716/hls_264_master.m3u8?t=1783623162)
+- [Cult of Shadows New Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/3936450/136351700/ea34527529f6f044760f3e817c44c1e4f8422a01/1768508721/hls_264_master.m3u8?t=1783623163)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/7b9d9ae1c8b56f37354c87c9a39eef81948c7238/ss_7b9d9ae1c8b56f37354c87c9a39eef81948c7238.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/9ab2f971d5a0f87e53ecb74ae930068ce11edc4d/ss_9ab2f971d5a0f87e53ecb74ae930068ce11edc4d.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/6d79ffa16b275b7d2070170d4721e4b8b92d3a1d/ss_6d79ffa16b275b7d2070170d4721e4b8b92d3a1d.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/cd0b9b46b1c893d6c5f9670a8dd138bf5154c9ee/ss_cd0b9b46b1c893d6c5f9670a8dd138bf5154c9ee.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/b2939141991e446a5823fe06756e3daf0c45c1d7/ss_b2939141991e446a5823fe06756e3daf0c45c1d7.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/935025b5ea566098f33bfdbbb5abedb81422376e/ss_935025b5ea566098f33bfdbbb5abedb81422376e.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/17930777f1c88aef4009e9ef71dfe0a58a9d77c0/ss_17930777f1c88aef4009e9ef71dfe0a58a9d77c0.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/e115a5bfb42f985ce98dbf268d5a761789693d2c/ss_e115a5bfb42f985ce98dbf268d5a761789693d2c.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/bfbcadf8d5b9d95a294c7e5daff38e66466ee9ef/ss_bfbcadf8d5b9d95a294c7e5daff38e66466ee9ef.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/c41a2d850693e4a4324a2684a9931fcb383976a5/ss_c41a2d850693e4a4324a2684a9931fcb383976a5.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/14d2fc1dba1f175331ecf889189d89ccfa12d52b/ss_14d2fc1dba1f175331ecf889189d89ccfa12d52b.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/92b5f7f49de8fa5e727c8e93cf3b23adeab8dc06/ss_92b5f7f49de8fa5e727c8e93cf3b23adeab8dc06.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/4279a2489888d1a49a2d92fab12789e1e8c13cb9/ss_4279a2489888d1a49a2d92fab12789e1e8c13cb9.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/846f2d5bd6cad1a4a8b2eb4860013716fb05b7c8/ss_846f2d5bd6cad1a4a8b2eb4860013716fb05b7c8.1920x1080.jpg?t=1784326613)
+
+![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/d9d46963359eee3f02077871e567a109d2122854/ss_d9d46963359eee3f02077871e567a109d2122854.1920x1080.jpg?t=1784326613)
+
+## Source and recommendation notes
+
+Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.

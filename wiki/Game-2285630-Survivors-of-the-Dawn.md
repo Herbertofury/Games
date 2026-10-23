@@ -1,0 +1,53 @@
+# Survivors of the Dawn
+
+![Survivors of the Dawn official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/header.jpg?t=1765396692)
+
+**[Steam store](https://store.steampowered.com/app/2285630/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2285630)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+
+A roguelite horde-survival bullet heaven with QUINTILLIONS of bullets over QUINTILLIONS of hordes. Mix weapons with items, modify, control chaos at terminals and break through tightening waves.
+
+| Field | Value |
+|:--|:--|
+| Collection | Sci-fi & machines |
+| Recommendation | 7/10 |
+| Steam positive reviews | 74.1% |
+| Review count | 777 |
+| Steam release date | Nov 6, 2023 |
+| Status | Early Access |
+| Developers | indieGiant |
+| US price snapshot | $7.99 |
+| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official media
+
+- [Survivors of the Dawn](https://video.akamai.steamstatic.com/store_trailers/2285630/782398/c3ae23b8d6a5f71d366af111d7e11089a46824f3/1750981843/hls_264_master.m3u8?t=1730963346)
+- [Survivors of the Dawn](https://video.akamai.steamstatic.com/store_trailers/2285630/625464/6aee8a09a4bd036143d248256a8a1e744ab25edc/1750981837/hls_264_master.m3u8?t=1699007519)
+- [BLEUMER Update](https://video.akamai.steamstatic.com/store_trailers/2285630/700696/f16cca368efe9a5940e51e9a361fac87171a586e/1750981841/hls_264_master.m3u8?t=1718917181)
+
+![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_80a6a15548d601dd2f791ef98918438a1d15ce83.1920x1080.jpg?t=1765396692)
+
+![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_782ef9f166f0d6297727405aa4a8a75e6fee6f40.1920x1080.jpg?t=1765396692)
+
+![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_55c4f4bb27b927746276fb80cae36eee50318888.1920x1080.jpg?t=1765396692)
+
+![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_965c52efd918b88067a94df30be180ebe88b0a9b.1920x1080.jpg?t=1765396692)
+
+![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_9ecb5375d2856c7294d24ba0dd0b27f8b0223760.1920x1080.jpg?t=1765396692)
+
+![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_774916622aaf27c400030b7ba422085eeb6fc802.1920x1080.jpg?t=1765396692)
+
+![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_5a7fb7f5401dc96b1fd3116ea6c4966d6038eb1c.1920x1080.jpg?t=1765396692)
+
+![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_7d6ac21b2390cb1d7e4a22fc5319a97f29884d27.1920x1080.jpg?t=1765396692)
+
+![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_c4811c17af23f6a11ccbf91f0447d8a3148ce26d.1920x1080.jpg?t=1765396692)
+
+![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_32e944370ec1cf7a51e2f5d36703fe3e0f426c0b.1920x1080.jpg?t=1765396692)
+
+![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_4ff60131f985898c924aeea48bff5eeab5439c0b.1920x1080.jpg?t=1765396692)
+
+![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_c6b3fa8e32256316cc59d48fc36da2a10db8c959.1920x1080.jpg?t=1765396692)
+
+## Source and recommendation notes
+
+Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.

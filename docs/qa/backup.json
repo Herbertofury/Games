@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "exportedAt": "2026-10-23T03:54:17.798Z",
+  "favorites": [
+    "steam:2218750"
+  ],
+  "notes": {
+    "steam:2218750": "QA note: build ideas, no data loss."
+  },
+  "statuses": {
+    "steam:2218750": "Backlog"
+  },
+  "ratings": {
+    "steam:2218750": 9
+  },
+  "recent": [
+    "steam:2218750"
+  ],
+  "views": [
+    {
+      "name": "QA saved view",
+      "filters": {
+        "q": "",
+        "collection": "",
+        "tag": "",
+        "rating": 0,
+        "reviews": 0,
+        "fit": 0,
+        "year": "",
+        "status": "",
+        "play": "",
+        "coop": false,
+        "free": false,
+        "trailer": false,
+        "verified": false,
+        "playable": false,
+        "sort": "newest",
+        "view": "grid",
+        "shelf": "all"
+      }
+    }
+  ],
+  "theme": "dark",
+  "compact": false,
+  "filters": {
+    "q": "",
+    "collection": "",
+    "tag": "",
+    "rating": 0,
+    "reviews": 0,
+    "fit": 0,
+    "year": "",
+    "status": "",
+    "play": "",
+    "coop": false,
+    "free": false,
+    "trailer": false,
+    "verified": false,
+    "playable": false,
+    "sort": "newest",
+    "view": "grid",
+    "shelf": "all"
+  }
+}

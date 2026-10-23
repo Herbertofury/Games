@@ -1,0 +1,45 @@
+# Net.Attack() - Code or Die!
+
+![Net.Attack() - Code or Die! official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047370/1ce93e92dd2b8f0b8572e60178fa592826cb6c32/header.jpg?t=1791893616)
+
+**[Steam store](https://store.steampowered.com/app/3047370/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3047370)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+
+CODE OR DIE! Hack enemy systems & survive the security response by engineering lethal bullet-heaven algorithms. Your brain power determines your firepower across 190+ programming nodes. Debug your failures. Optimize your code. Complete the heist. HACK THE PLANET!
+
+| Field | Value |
+|:--|:--|
+| Collection | Offbeat hybrids |
+| Recommendation | 7/10 |
+| Steam positive reviews | 80.0% |
+| Review count | 561 |
+| Steam release date | Mar 12, 2026 |
+| Status | Released |
+| Developers | ByteRockers' Games |
+| US price snapshot | $7.99 |
+| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official media
+
+- [Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3047370/632740091/7d9bb2f4d0f6de559674b717ce3c13e9b7d5b38a/1773307061/hls_264_master.m3u8?t=1773307756)
+
+![Net.Attack() - Code or Die! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047370/868f0b691f2815085d152a9d2ab4f72cde25b47b/ss_868f0b691f2815085d152a9d2ab4f72cde25b47b.1920x1080.jpg?t=1791893616)
+
+![Net.Attack() - Code or Die! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047370/cfcb03f7f53d84a977d6387f2da693a8a7c0ecad/ss_cfcb03f7f53d84a977d6387f2da693a8a7c0ecad.1920x1080.jpg?t=1791893616)
+
+![Net.Attack() - Code or Die! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047370/af6192ded5c6560052393eae9b7841a0a0cd468d/ss_af6192ded5c6560052393eae9b7841a0a0cd468d.1920x1080.jpg?t=1791893616)
+
+![Net.Attack() - Code or Die! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047370/49794628f5f985f18867b0ff50ca4180bd07080c/ss_49794628f5f985f18867b0ff50ca4180bd07080c.1920x1080.jpg?t=1791893616)
+
+![Net.Attack() - Code or Die! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047370/312a9b36410d6b7be0add457664e999462480d8f/ss_312a9b36410d6b7be0add457664e999462480d8f.1920x1080.jpg?t=1791893616)
+
+![Net.Attack() - Code or Die! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047370/e8ac3718a365944e79020c21a6281eb2cbd910ce/ss_e8ac3718a365944e79020c21a6281eb2cbd910ce.1920x1080.jpg?t=1791893616)
+
+![Net.Attack() - Code or Die! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047370/d74b75eae31e65be415950e9b7ae6c475718489f/ss_d74b75eae31e65be415950e9b7ae6c475718489f.1920x1080.jpg?t=1791893616)
+
+![Net.Attack() - Code or Die! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047370/d29f29c8db09e4a4e91ee891ec83cab3dff5e82f/ss_d29f29c8db09e4a4e91ee891ec83cab3dff5e82f.1920x1080.jpg?t=1791893616)
+
+![Net.Attack() - Code or Die! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047370/9d3245ba826ec8d8069e28de34735fd7cec0b755/ss_9d3245ba826ec8d8069e28de34735fd7cec0b755.1920x1080.jpg?t=1791893616)
+
+## Source and recommendation notes
+
+Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.

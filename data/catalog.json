@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "catalogId": "herbertofury-games",
   "title": "Games",
-  "generatedAt": "2026-10-23T03:38:48.963323+00:00",
+  "generatedAt": "2026-10-23T03:53:44.446117+00:00",
   "sourceRepository": "https://github.com/Herbertofury/Games",
   "sourceWiki": "https://github.com/Herbertofury/Games/wiki",
   "sources": [
@@ -19,12 +19,12 @@
   ],
   "build": {
     "generator": "games-catalog/1.0.0",
-    "seedHash": "2afe3cfde1d969b4f71dbe1cd89dff70aca3098e0e6ac3f61639168beecdf2f0",
+    "seedHash": "e281fa7444b93245e032ce93b26f86e8b0be93727dde81b2a22d2b66f0577760",
     "inputCount": 170,
-    "verifiedCount": 169,
-    "unresolvedCount": 1,
-    "mediaCount": 2449,
-    "datasetHash": "0a5e305ee9df0c15964caaac723979b5441cc7c543968a1846cca92c2affede7"
+    "verifiedCount": 170,
+    "unresolvedCount": 0,
+    "mediaCount": 2460,
+    "datasetHash": "1f6eb150cc51fbe5cd154a942c8e69eeedf16815bd29da3f782eae202856e2c0"
   },
   "items": [
     {
@@ -14082,6 +14082,181 @@
       "warnings": []
     },
     {
+      "id": "steam:3075410",
+      "appid": 3075410,
+      "seedId": "3075410",
+      "seedName": "Hand of Fate: Hordes",
+      "name": "Hand of Fate: Hordes",
+      "collection": "Dark fantasy",
+      "fit": 8,
+      "summary": "Control powerful heroes and carve your way through dungeons, quests, and endless monsters and bosses. Grow your powers every run with new weapons and enchantments. Choose your cards wisely and thrive in chaos.",
+      "developers": [
+        "Spitfire Interactive"
+      ],
+      "publishers": [
+        "Spicy Koala"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Boss fights",
+        "Dark fantasy",
+        "Dungeon crawler",
+        "Early Access",
+        "Indie"
+      ],
+      "features": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Custom Volume Controls",
+        "Playable without Timed Input",
+        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "Stereo Sound",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "status": "Early Access",
+      "releaseDate": "2026-07-22",
+      "releaseLabel": "Jul 22, 2026",
+      "comingSoon": false,
+      "free": false,
+      "price": "$11.99",
+      "priceMinor": 1199,
+      "currency": "USD",
+      "discount": 0,
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "rating": 79.0,
+      "reviewCount": 367,
+      "reviewLabel": "Mostly Positive",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T03:53:44.446117+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/c719b15e615e9c1d072c6a4f46e44f80a6ca024b/header.jpg?t=1792548358",
+      "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/7cf0c78c0352905cffba567bdc83dae730dba22a/page_bg_raw.jpg?t=1792548358",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8/ss_38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8.1920x1080.jpg?t=1792548358",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8/ss_38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8.600x338.jpg?t=1792548358",
+          "sourceUrl": "https://store.steampowered.com/app/3075410/",
+          "alt": "Hand of Fate: Hordes official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/b2a8095ea2ccf4196b746634287134f42240cf6a/ss_b2a8095ea2ccf4196b746634287134f42240cf6a.1920x1080.jpg?t=1792548358",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/b2a8095ea2ccf4196b746634287134f42240cf6a/ss_b2a8095ea2ccf4196b746634287134f42240cf6a.600x338.jpg?t=1792548358",
+          "sourceUrl": "https://store.steampowered.com/app/3075410/",
+          "alt": "Hand of Fate: Hordes official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/296148d777c27753181fc3ede4282d9fd4691f0f/ss_296148d777c27753181fc3ede4282d9fd4691f0f.1920x1080.jpg?t=1792548358",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/296148d777c27753181fc3ede4282d9fd4691f0f/ss_296148d777c27753181fc3ede4282d9fd4691f0f.600x338.jpg?t=1792548358",
+          "sourceUrl": "https://store.steampowered.com/app/3075410/",
+          "alt": "Hand of Fate: Hordes official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/9a8810d13cff6af474d5f22323a9bba2e6fff4f5/ss_9a8810d13cff6af474d5f22323a9bba2e6fff4f5.1920x1080.jpg?t=1792548358",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/9a8810d13cff6af474d5f22323a9bba2e6fff4f5/ss_9a8810d13cff6af474d5f22323a9bba2e6fff4f5.600x338.jpg?t=1792548358",
+          "sourceUrl": "https://store.steampowered.com/app/3075410/",
+          "alt": "Hand of Fate: Hordes official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/46c1e47a46e9ce73a75d597da18840fa155dcd07/ss_46c1e47a46e9ce73a75d597da18840fa155dcd07.1920x1080.jpg?t=1792548358",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/46c1e47a46e9ce73a75d597da18840fa155dcd07/ss_46c1e47a46e9ce73a75d597da18840fa155dcd07.600x338.jpg?t=1792548358",
+          "sourceUrl": "https://store.steampowered.com/app/3075410/",
+          "alt": "Hand of Fate: Hordes official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/5b7b38204df442e0342c042c8196d5521b71dc0d/ss_5b7b38204df442e0342c042c8196d5521b71dc0d.1920x1080.jpg?t=1792548358",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/5b7b38204df442e0342c042c8196d5521b71dc0d/ss_5b7b38204df442e0342c042c8196d5521b71dc0d.600x338.jpg?t=1792548358",
+          "sourceUrl": "https://store.steampowered.com/app/3075410/",
+          "alt": "Hand of Fate: Hordes official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/55c97ffc2026f8c2136da7d8cae624061469adb8/ss_55c97ffc2026f8c2136da7d8cae624061469adb8.1920x1080.jpg?t=1792548358",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/55c97ffc2026f8c2136da7d8cae624061469adb8/ss_55c97ffc2026f8c2136da7d8cae624061469adb8.600x338.jpg?t=1792548358",
+          "sourceUrl": "https://store.steampowered.com/app/3075410/",
+          "alt": "Hand of Fate: Hordes official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/358660580796f023df6be22b13bc8300bed27c4a/ss_358660580796f023df6be22b13bc8300bed27c4a.1920x1080.jpg?t=1792548358",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/358660580796f023df6be22b13bc8300bed27c4a/ss_358660580796f023df6be22b13bc8300bed27c4a.600x338.jpg?t=1792548358",
+          "sourceUrl": "https://store.steampowered.com/app/3075410/",
+          "alt": "Hand of Fate: Hordes official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/ss_e75294cada9215e5836ca696d7a5099f4ed9dee4.1920x1080.jpg?t=1792548358",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/ss_e75294cada9215e5836ca696d7a5099f4ed9dee4.600x338.jpg?t=1792548358",
+          "sourceUrl": "https://store.steampowered.com/app/3075410/",
+          "alt": "Hand of Fate: Hordes official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Early Access Trailer_GLB",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257381738/bb8d17d4197175ef99b2c1c8491f1d3941faae54/movie_600x337.jpg?t=1787865302",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/3075410/1256331585/b98b1130572f7705b6b4976172d5e202aba86302/1787862202/hls_264_master.m3u8?t=1787865302",
+          "sourceUrl": "https://store.steampowered.com/app/3075410/",
+          "id": 257381738
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/3075410/",
+      "website": "https://www.spitfireinteractive.com.au/",
+      "verifiedAt": "2026-10-23T03:53:44.446117+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/3075410/",
+          "verified": true,
+          "lastChecked": "2026-10-23T03:53:44.446117+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=3075410&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T03:53:44.446117+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3075410%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T03:53:44.446117+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
       "id": "steam:1782460",
       "appid": 1782460,
       "seedId": "1782460",
@@ -16145,37 +16320,6 @@
       "warnings": [
         "Small review sample"
       ]
-    },
-    {
-      "id": "pending:3075410",
-      "appid": 3075410,
-      "seedId": "3075410",
-      "seedName": "Hordes of Fate: A Hand of Fate Adventure",
-      "name": "Hordes of Fate: A Hand of Fate Adventure",
-      "collection": "Dark fantasy",
-      "fit": null,
-      "summary": "This recommendation is retained from the earlier conversation. Its Steam identity or current availability still needs verification.",
-      "tags": [
-        "Dark fantasy"
-      ],
-      "genres": [],
-      "developers": [],
-      "platforms": [],
-      "features": [],
-      "status": "Needs verification",
-      "verification": "unresolved",
-      "reviewCount": 0,
-      "rating": null,
-      "releaseDate": null,
-      "releaseLabel": "Unverified",
-      "free": false,
-      "steamUrl": "https://store.steampowered.com/app/3075410/",
-      "sources": [],
-      "warnings": [
-        "Steam identity not confirmed: Hand of Fate: Hordes"
-      ],
-      "trailers": [],
-      "screenshots": []
     },
     {
       "id": "steam:2157710",

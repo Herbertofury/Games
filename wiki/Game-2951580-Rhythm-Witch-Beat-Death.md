@@ -1,0 +1,44 @@
+# Rhythm Witch: Beat Death
+
+![Rhythm Witch: Beat Death official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/header.jpg?t=1767068525)
+
+**[Steam store](https://store.steampowered.com/app/2951580/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2951580)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+
+Rhythm Witch: Beat Death is a game that melds rhythm and survival. Attack to the rhythm of the music while dodging monsters who move and attack to the beat. On your journey to eternal beauty, defeat dancing freaks, ghouls, dragon, and more!
+
+| Field | Value |
+|:--|:--|
+| Collection | Offbeat hybrids |
+| Recommendation | 7/10 |
+| Steam positive reviews | 93.6% |
+| Review count | 594 |
+| Steam release date | May 8, 2025 |
+| Status | Released |
+| Developers | Dusklight CO., LTD. |
+| US price snapshot | $5.99 |
+| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official media
+
+- [Rhythm Witch:Beat Death Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2951580/2004870024/b18fe1f6f8030b33859c6c2f4fd0af39af7b6ff4/1750952508/hls_264_master.m3u8?t=1746751922)
+- [Rhythm Witch:Beat Death Trailer](https://video.akamai.steamstatic.com/store_trailers/2951580/693448/8fb1065b86f4d7a0ec520ad4804f0400e02f5d65/1750952503/hls_264_master.m3u8?t=1732483040)
+
+![Rhythm Witch: Beat Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/7d380db905c8e635f9264b567af5b78aa9bfc75e/ss_7d380db905c8e635f9264b567af5b78aa9bfc75e.1920x1080.jpg?t=1767068525)
+
+![Rhythm Witch: Beat Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/efd714f26b83c72a552adc7272057f3e36f8b73a/ss_efd714f26b83c72a552adc7272057f3e36f8b73a.1920x1080.jpg?t=1767068525)
+
+![Rhythm Witch: Beat Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/3c3050d122e8a06c691e8b573f38cbed40d9b774/ss_3c3050d122e8a06c691e8b573f38cbed40d9b774.1920x1080.jpg?t=1767068525)
+
+![Rhythm Witch: Beat Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/96678897683463b83aeb86c48bfc4bec7e8881fe/ss_96678897683463b83aeb86c48bfc4bec7e8881fe.1920x1080.jpg?t=1767068525)
+
+![Rhythm Witch: Beat Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/ss_ae6cd4c8e3eeeac9b361b8ca522797beba28786e.1920x1080.jpg?t=1767068525)
+
+![Rhythm Witch: Beat Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/ss_70291ea6e5f975edcb854fcab71a7a728638ac09.1920x1080.jpg?t=1767068525)
+
+![Rhythm Witch: Beat Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/4ab8177916f55218991b26ee1e4b9b8b406e64d6/ss_4ab8177916f55218991b26ee1e4b9b8b406e64d6.1920x1080.jpg?t=1767068525)
+
+![Rhythm Witch: Beat Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/20e75938e0ad74743bf30146cfe9877ca1d2e08a/ss_20e75938e0ad74743bf30146cfe9877ca1d2e08a.1920x1080.jpg?t=1767068525)
+
+## Source and recommendation notes
+
+Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
