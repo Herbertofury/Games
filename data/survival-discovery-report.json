@@ -1,0 +1,957 @@
+{
+  "inputs": 320,
+  "publishedCandidates": 283,
+  "hubCounts": {
+    "Survival": 222,
+    "Minecraft-like worlds": 61
+  },
+  "missingVideo": [
+    {
+      "id": "steam:4861650",
+      "name": "FrontierCraft"
+    },
+    {
+      "id": "steam:3604780",
+      "name": "Sunken Engine"
+    }
+  ],
+  "unresolved": [
+    {
+      "candidate": "Breakwaters",
+      "seed": {
+        "name": "Breakwaters",
+        "hub": "Survival",
+        "collection": "Oceans, pirates & floating homes",
+        "fit": 7,
+        "scope": "Survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [
+        {
+          "appid": 1203180,
+          "name": "Breakwaters: Crystal Tides"
+        },
+        {
+          "appid": 2062010,
+          "name": "Breakwaters: Crystal Tides - Soundtrack"
+        }
+      ],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Survive on Raft",
+      "seed": {
+        "name": "Survive on Raft",
+        "hub": "Survival",
+        "collection": "Oceans, pirates & floating homes",
+        "fit": 7,
+        "scope": "Survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Dreadmooring",
+      "seed": {
+        "name": "Dreadmooring",
+        "hub": "Survival",
+        "collection": "Oceans, pirates & floating homes",
+        "fit": 7,
+        "scope": "Survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Distrust",
+      "seed": {
+        "name": "Distrust",
+        "hub": "Survival",
+        "collection": "Harsh wilderness & realistic survival",
+        "fit": 8,
+        "scope": "Survival simulation",
+        "appid": 635200,
+        "aliases": []
+      },
+      "error": "Explicit ID/name mismatch: Distrust: Polar Survival",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Wild West Dynasty",
+      "seed": {
+        "name": "Wild West Dynasty",
+        "hub": "Survival",
+        "collection": "Harsh wilderness & realistic survival",
+        "fit": 6,
+        "scope": "Survival simulation",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "The Survivalist",
+      "seed": {
+        "name": "The Survivalist",
+        "hub": "Survival",
+        "collection": "Zombies, infection & fortification",
+        "fit": 8,
+        "scope": "Survival crafting / zombies",
+        "appid": 340050,
+        "aliases": []
+      },
+      "error": "Explicit ID/name mismatch: Survivalist",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Nearly Dead - Live and Let Die",
+      "seed": {
+        "name": "Nearly Dead - Live and Let Die",
+        "hub": "Survival",
+        "collection": "Zombies, infection & fortification",
+        "fit": 7,
+        "scope": "Survival crafting / zombies",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Withstand: Survival",
+      "seed": {
+        "name": "Withstand: Survival",
+        "hub": "Survival",
+        "collection": "Horror, strange worlds & expeditions",
+        "fit": 6,
+        "scope": "Survival / horror exploration",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Mars Survival",
+      "seed": {
+        "name": "Mars Survival",
+        "hub": "Survival",
+        "collection": "Space, planets & engineering",
+        "fit": 7,
+        "scope": "Sci-fi survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [
+        {
+          "appid": 2608200,
+          "name": "Mars Colonization.Survival Simulator"
+        },
+        {
+          "appid": 3158390,
+          "name": "Scavengers of Mars - Rover Survival Simulator"
+        }
+      ],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Stellar Settlers",
+      "seed": {
+        "name": "Stellar Settlers",
+        "hub": "Survival",
+        "collection": "Space, planets & engineering",
+        "fit": 7,
+        "scope": "Sci-fi survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [
+        {
+          "appid": 2628570,
+          "name": "Stellar Settlers: Space Base Builder"
+        },
+        {
+          "appid": 2578790,
+          "name": "Stellar Ghosts Settlers"
+        }
+      ],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "LIGHT OF MOTIRAM",
+      "seed": {
+        "name": "LIGHT OF MOTIRAM",
+        "hub": "Survival",
+        "collection": "Space, planets & engineering",
+        "fit": 8,
+        "scope": "Sci-fi survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Survival Machines",
+      "seed": {
+        "name": "Survival Machines",
+        "hub": "Survival",
+        "collection": "Tribes, settlements & historical frontiers",
+        "fit": 8,
+        "scope": "Survival / settlement building",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Tribes of Ellarian",
+      "seed": {
+        "name": "Tribes of Ellarian",
+        "hub": "Survival",
+        "collection": "Tribes, settlements & historical frontiers",
+        "fit": 8,
+        "scope": "Survival / settlement building",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Force of Nature 3",
+      "seed": {
+        "name": "Force of Nature 3",
+        "hub": "Survival",
+        "collection": "Independent survival discoveries",
+        "fit": 8,
+        "scope": "Survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Force of Nature 2",
+      "seed": {
+        "name": "Force of Nature 2",
+        "hub": "Survival",
+        "collection": "Independent survival discoveries",
+        "fit": 9,
+        "scope": "Survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [
+        {
+          "appid": 2244800,
+          "name": "Force of Nature 2: Prologue"
+        },
+        {
+          "appid": 1316230,
+          "name": "Force of Nature 2: Ghost Keeper"
+        },
+        {
+          "appid": 2247910,
+          "name": "Force of Nature 2 - Collector's Pack"
+        },
+        {
+          "appid": 292320,
+          "name": "Euro Truck Simulator 2 - Force of Nature Paint Jobs Pack"
+        }
+      ],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Frostpunk 2",
+      "seed": {
+        "name": "Frostpunk 2",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 9,
+        "scope": "Colony survival / adjacent",
+        "appid": 1601580,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "This War of Mine",
+      "seed": {
+        "name": "This War of Mine",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 10,
+        "scope": "Colony survival / adjacent",
+        "appid": 282070,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Sheltered",
+      "seed": {
+        "name": "Sheltered",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 8,
+        "scope": "Colony survival / adjacent",
+        "appid": 356040,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Sheltered 2",
+      "seed": {
+        "name": "Sheltered 2",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 7,
+        "scope": "Colony survival / adjacent",
+        "appid": 1289380,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Endzone - A World Apart",
+      "seed": {
+        "name": "Endzone - A World Apart",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 8,
+        "scope": "Colony survival / adjacent",
+        "appid": 933820,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Endzone 2",
+      "seed": {
+        "name": "Endzone 2",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 8,
+        "scope": "Colony survival / adjacent",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2144640,
+          "name": "Endzone 2"
+        },
+        {
+          "appid": 3124450,
+          "name": "Endzone 2: Soundtrack"
+        },
+        {
+          "appid": 3124440,
+          "name": "Endzone 2: Artbook"
+        },
+        {
+          "appid": 3142480,
+          "name": "Endzone 2: Wallpaper Pack"
+        }
+      ],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Surviving the Aftermath",
+      "seed": {
+        "name": "Surviving the Aftermath",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 8,
+        "scope": "Colony survival / adjacent",
+        "appid": 684450,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Surviving Mars",
+      "seed": {
+        "name": "Surviving Mars",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 9,
+        "scope": "Colony survival / adjacent",
+        "appid": 464920,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Surviving Mars: Relaunched",
+      "seed": {
+        "name": "Surviving Mars: Relaunched",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 8,
+        "scope": "Colony survival / adjacent",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 3215050,
+          "name": "Surviving Mars: Relaunched"
+        },
+        {
+          "appid": 3889430,
+          "name": "Surviving Mars: Relaunched - Feeding the Future"
+        },
+        {
+          "appid": 3889420,
+          "name": "Surviving Mars: Relaunched - Interplanetary Codex - Mission Sponsor"
+        },
+        {
+          "appid": 3889470,
+          "name": "Surviving Mars: Relaunched - Prime Mission"
+        }
+      ],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Timberborn",
+      "seed": {
+        "name": "Timberborn",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 9,
+        "scope": "Colony survival / adjacent",
+        "appid": 1062090,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Going Medieval",
+      "seed": {
+        "name": "Going Medieval",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 9,
+        "scope": "Colony survival / adjacent",
+        "appid": 1029780,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Clanfolk",
+      "seed": {
+        "name": "Clanfolk",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 9,
+        "scope": "Colony survival / adjacent",
+        "appid": 1700870,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Cataclismo",
+      "seed": {
+        "name": "Cataclismo",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 9,
+        "scope": "Colony survival / adjacent",
+        "appid": 1422440,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "They Are Billions",
+      "seed": {
+        "name": "They Are Billions",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 9,
+        "scope": "Colony survival / adjacent",
+        "appid": 644930,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Age of Darkness: Final Stand",
+      "seed": {
+        "name": "Age of Darkness: Final Stand",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 8,
+        "scope": "Colony survival / adjacent",
+        "appid": 1426450,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Against the Storm",
+      "seed": {
+        "name": "Against the Storm",
+        "hub": "Survival",
+        "collection": "Survival colonies & management neighbors",
+        "fit": 10,
+        "scope": "Colony survival / adjacent",
+        "appid": 1336490,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Barotrauma",
+      "seed": {
+        "name": "Barotrauma",
+        "hub": "Survival",
+        "collection": "Underwater, co-op & systems-heavy detours",
+        "fit": 9,
+        "scope": "Survival / systems adventure",
+        "appid": 602960,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "We Need To Go Deeper",
+      "seed": {
+        "name": "We Need To Go Deeper",
+        "hub": "Survival",
+        "collection": "Underwater, co-op & systems-heavy detours",
+        "fit": 8,
+        "scope": "Survival / systems adventure",
+        "appid": 307110,
+        "aliases": []
+      },
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Founders",
+      "seed": {
+        "name": "Founders",
+        "hub": "Survival",
+        "collection": "Underwater, co-op & systems-heavy detours",
+        "fit": 8,
+        "scope": "Survival / systems adventure",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [
+        {
+          "appid": 4812130,
+          "name": "Tyr Founder's Pack"
+        },
+        {
+          "appid": 1104330,
+          "name": "Founders' Fortune"
+        },
+        {
+          "appid": 3708940,
+          "name": "Palia - Founders Pack"
+        },
+        {
+          "appid": 996060,
+          "name": "Founders Club"
+        },
+        {
+          "appid": 5401680,
+          "name": "Escape from Playtime - Founders Pack"
+        },
+        {
+          "appid": 3351230,
+          "name": "Founders Legacy"
+        },
+        {
+          "appid": 3011930,
+          "name": "Sneak Out - Founders Pack"
+        },
+        {
+          "appid": 3354810,
+          "name": "skate.™ - skate Tees and Vans Founders Shoes"
+        },
+        {
+          "appid": 3788090,
+          "name": "Grounded 2: Founder’s Pack"
+        },
+        {
+          "appid": 4389890,
+          "name": "Hypernova - Founders Signal Pack"
+        }
+      ],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Realms of Magic 2",
+      "seed": {
+        "name": "Realms of Magic 2",
+        "hub": "Minecraft-like worlds",
+        "collection": "Terraria-like 2D worlds",
+        "fit": 9,
+        "scope": "2D sandbox survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Cavern",
+      "seed": {
+        "name": "Cavern",
+        "hub": "Minecraft-like worlds",
+        "collection": "Terraria-like 2D worlds",
+        "fit": 8,
+        "scope": "2D sandbox survival crafting",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [
+        {
+          "appid": 2848360,
+          "name": "Cavern Adventurers"
+        },
+        {
+          "appid": 2059660,
+          "name": "Cavern of Dreams"
+        },
+        {
+          "appid": 578660,
+          "name": "Kindled Cavern"
+        },
+        {
+          "appid": 321830,
+          "name": "Cavern Kings"
+        },
+        {
+          "appid": 583060,
+          "name": "The Cavern"
+        },
+        {
+          "appid": 496980,
+          "name": "Cosmic Cavern 3671　　宇宙最大の地底最大の作戦"
+        },
+        {
+          "appid": 5240890,
+          "name": "Cavern Wars"
+        },
+        {
+          "appid": 4707690,
+          "name": "Asylum x Cavern"
+        },
+        {
+          "appid": 546400,
+          "name": "Cavern Escape Extremely Hard game!!!"
+        },
+        {
+          "appid": 578830,
+          "name": "Cavern of Time"
+        }
+      ],
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Voxaria",
+      "seed": {
+        "name": "Voxaria",
+        "hub": "Minecraft-like worlds",
+        "collection": "New voxel discoveries & experimental worlds",
+        "fit": 8,
+        "scope": "Voxel / sandbox exploration",
+        "appid": null,
+        "aliases": []
+      },
+      "error": "Exact title requires reconciliation",
+      "matches": [],
+      "state": "unresolved-active"
+    }
+  ],
+  "dispositions": [
+    {
+      "candidate": "Shipwrecked 64",
+      "state": "excluded",
+      "reason": "Narrative/ARG horror, not the requested survival-crafting loop."
+    },
+    {
+      "candidate": "Survival: The Last Hope",
+      "state": "excluded",
+      "reason": "Unconfirmed ambiguous discovery name, not promoted."
+    },
+    {
+      "candidate": "Subsistence: River Basin",
+      "state": "excluded",
+      "reason": "Unconfirmed separate game identity; not duplicated from Subsistence."
+    },
+    {
+      "candidate": "Dead State: Reanimated",
+      "state": "excluded",
+      "reason": "Turn-based survival RPG, not the requested open-world crafting focus."
+    },
+    {
+      "candidate": "Dead Rising 3 Apocalypse Edition",
+      "state": "excluded",
+      "reason": "Action zombie sandbox without the requested survival-crafting emphasis."
+    },
+    {
+      "candidate": "Dead Age 2",
+      "state": "excluded",
+      "reason": "Turn-based RPG, not the requested survival crafting."
+    },
+    {
+      "candidate": "The Beast Inside",
+      "state": "excluded",
+      "reason": "Narrative horror, not open-world survival crafting."
+    },
+    {
+      "candidate": "Path of Titans",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Planet Crafter: Toxicity",
+      "state": "excluded",
+      "reason": "Expansion/discovery label, not assumed to be a standalone game."
+    },
+    {
+      "candidate": "The Planet Crafter: Eden Crafters",
+      "state": "excluded",
+      "reason": "Two distinct projects accidentally combined; both actual games have their own entries."
+    },
+    {
+      "candidate": "Rokh",
+      "state": "excluded",
+      "reason": "Historical experimental release with weak reception; kept as a research disposition rather than a current recommendation."
+    },
+    {
+      "candidate": "Deadzone: Rogue",
+      "state": "excluded",
+      "reason": "Roguelite shooter, not a survival-crafting world."
+    },
+    {
+      "candidate": "Thea: The Awakening",
+      "state": "excluded",
+      "reason": "Turn-based strategy survival neighbor; omitted to keep the added categories focused."
+    },
+    {
+      "candidate": "Thea 2: The Shattering",
+      "state": "excluded",
+      "reason": "Turn-based strategy survival neighbor; omitted from this collection."
+    },
+    {
+      "candidate": "Haven & Hearth",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Cast n Chill",
+      "state": "excluded",
+      "reason": "Relaxed fishing, not survival crafting."
+    },
+    {
+      "candidate": "Rising Front",
+      "state": "excluded",
+      "reason": "Battle simulator, not the requested survival crafting."
+    },
+    {
+      "candidate": "Dead District: Survival",
+      "state": "excluded",
+      "reason": "Low-confidence discovery retained in the source ledger, not a quality recommendation."
+    },
+    {
+      "candidate": "Survival Fountain",
+      "state": "excluded",
+      "reason": "Ambiguous duplicate-like discovery, not promoted."
+    },
+    {
+      "candidate": "Crash Dive",
+      "state": "excluded",
+      "reason": "Submarine combat, not survival crafting."
+    },
+    {
+      "candidate": "Vintage Story",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Hytale",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Minecraft",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Terra Nil",
+      "state": "excluded",
+      "reason": "Ecological puzzle strategy, not Minecraft-like survival."
+    },
+    {
+      "candidate": "Veloren",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Terasology",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "VoxeLibre",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Mineclonia",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Luanti",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Survivalcraft 2",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Mythruna",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Blockland",
+      "state": "excluded",
+      "reason": "Creative construction sandbox without survival; not promoted into the survival shelf."
+    },
+    {
+      "candidate": "Hytale: Adventure",
+      "state": "excluded",
+      "reason": "An unfinished mode/feature of Hytale, not a separate released game."
+    },
+    {
+      "candidate": "Necesse 2",
+      "state": "excluded",
+      "reason": "Unconfirmed sequel identity, not promoted."
+    },
+    {
+      "candidate": "Muck 2",
+      "state": "excluded",
+      "reason": "Unconfirmed sequel identity, not promoted."
+    },
+    {
+      "candidate": "Minicraft+",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Minicraft",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Minetest Game",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "ClassiCube",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Mine Blocks",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Orion Sandbox Enhanced",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Paper Minecraft",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "WILDRAFT",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    },
+    {
+      "candidate": "Vintage Story Classic",
+      "state": "external-route",
+      "reason": "Use exact creator distribution; no unrelated Steam substitute."
+    }
+  ]
+}
