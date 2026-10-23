@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json']
+    paths: ['site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json']
   workflow_run:
     workflows: ['Refresh Steam catalog','Add game recommendation','Install library source','Expand shooter library','Refresh shooter discoveries']
     types: [completed]
@@ -32,13 +32,15 @@ jobs:
       - name: Build the canonical snapshot
         run: |
           test -s data/catalog.json || { echo 'Official metadata refresh has not published its snapshot yet.'; exit 1; }
+          python3 -m pip install -r requirements-dev.txt
           python3 scripts/reconcile.py
+          python3 scripts/reconcile_shooter_sources.py
+          python3 scripts/collect_external_media.py
           python3 scripts/build.py
           node --check site/app.js
           python3 -m unittest discover -s tests -p 'test_*.py'
       - name: Install browser QA dependencies
         run: |
-          python3 -m pip install -r requirements-dev.txt
           if command -v google-chrome >/dev/null; then
             echo "CHROMIUM_PATH=$(command -v google-chrome)" >> "$GITHUB_ENV"
             google-chrome --version

@@ -4,7 +4,7 @@ import contextlib,json,os,pathlib,shutil,socket,subprocess,sys,time
 from playwright.sync_api import sync_playwright
 ROOT=pathlib.Path(__file__).resolve().parents[1];out=ROOT/'qa';out.mkdir(exist_ok=True)
 port=8877;server=subprocess.Popen([sys.executable,'-m','http.server',str(port),'--directory',str(ROOT/'dist')],stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
-report={'datasetHash':json.loads((ROOT/'data/catalog.json').read_text())['build']['datasetHash'],'tests':[],'scope':'Three actual streamed trailers plus portable-file playback. Catalog-wide URL and provenance checks are separate.'}
+report={'datasetHash':json.loads((ROOT/'data/catalog.json').read_text())['build']['datasetHash'],'tests':[],'scope':'Five actual streamed trailers across both genres plus portable-file playback. Catalog-wide URL and provenance checks are separate.'}
 p=None;browser=None;page=None
 try:
     for _ in range(50):
@@ -22,7 +22,7 @@ try:
     page.wait_for_function('window.GamesTest && GamesTest.count>0')
     page.wait_for_function('Array.from(document.images).filter(i=>i.naturalWidth>0).length>=3',timeout=45000)
     page.screenshot(path=str(out/'desktop.png'))
-    for appid in [2218750,2334730,1942280]:
+    for appid in [2218750,2334730,1942280,2680280,2881610]:
         page.goto(f'http://127.0.0.1:{port}/#game=steam%3A{appid}',wait_until='domcontentloaded')
         page.wait_for_selector('#media-video');page.locator('#media-video').scroll_into_view_if_needed()
         print('Testing official media',appid,flush=True)
@@ -38,7 +38,10 @@ try:
         if appid==2218750:
             page.locator('#modal').evaluate('(e)=>e.scrollTop=0');page.screenshot(path=str(out/'detail.png'))
     page.keyboard.press('Escape');page.set_viewport_size({'width':390,'height':844})
-    page.goto(f'http://127.0.0.1:{port}',wait_until='domcontentloaded');page.wait_for_function('Array.from(document.images).some(i=>i.naturalWidth>0)',timeout=30000)
+    page.goto(f'http://127.0.0.1:{port}/#hub=Boomer%20shooters',wait_until='domcontentloaded')
+    page.locator('.card-image img').first.scroll_into_view_if_needed()
+    page.wait_for_function('document.querySelector(".card-image img")?.naturalWidth>0',timeout=30000)
+    page.evaluate('window.scrollTo(0,0)')
     page.screenshot(path=str(out/'mobile.png'))
     assert page.evaluate('document.documentElement.scrollWidth<=innerWidth+1')
     page.goto((ROOT/'release/Games - Explorer.html').resolve().as_uri()+'#game=steam%3A2218750',wait_until='domcontentloaded')
@@ -54,8 +57,9 @@ except Exception as e:
     report['passed']=False;report['error']=str(e)
     if page:
         try:
-            report['videoState']=page.locator('#media-video').evaluate('(v)=>({src:v.currentSrc,readyState:v.readyState,networkState:v.networkState,error:v.error?.message,playError:window.__mediaPlayError,nativeHls:v.canPlayType("application/vnd.apple.mpegurl"),hlsVersion:window.Hls?.version,hlsState:typeof hls!=="undefined"&&hls?{loading:hls.loadingEnabled,buffering:hls.bufferingEnabled,levels:hls.levels.map(l=>({width:l.width,height:l.height,videoCodec:l.videoCodec,audioCodec:l.audioCodec})),level:hls.currentLevel,streamState:hls.streamController?.state,mediaAttached:hls.media===v}:null})')
-            page.screenshot(path=str(out/'media-failure.png'))
+            report['videoState']=page.locator('#media-video').evaluate('(v)=>({src:v.currentSrc,readyState:v.readyState,networkState:v.networkState,error:v.error?.message,playError:window.__mediaPlayError})')
+        except Exception:pass
+        try:page.screenshot(path=str(out/'media-failure.png'))
         except Exception:pass
     raise
 finally:
