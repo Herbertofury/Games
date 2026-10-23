@@ -15,7 +15,11 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Install source and media dependencies
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends ffmpeg
       - name: Reuse the exact validated source-pages artifact
         env:
           GH_TOKEN: ${{ github.token }}
