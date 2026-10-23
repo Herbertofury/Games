@@ -1,0 +1,2930 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T17:11:08.107674+00:00",
+  "items": [
+    {
+      "id": "external:necrowave",
+      "name": "Necrowave",
+      "seedName": "Necrowave",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 8,
+      "summary": "A hand-animated exploration platformer built around lethal, tactical encounters. A creator-supported development project, not a finished commercial release.",
+      "curatorWhy": "A hand-animated exploration platformer built around lethal, tactical encounters. A creator-supported development project, not a finished commercial release.",
+      "genreScope": "Combat-focused Metroidvania",
+      "requirements": "Use the public build offered by the creator. Patreon support and any paid early-access tiers are separate.",
+      "provider": "Official site",
+      "primaryUrl": "https://www.necrowave.com/",
+      "status": "Prototype",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Combat-focused Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://www.necrowave.com/",
+          "provider": "Official site",
+          "kind": "prototype",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.necrowave.com/",
+          "provider": "Official site",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://www.necrowave.com/assets/1280x720.png",
+          "thumbnail": "https://www.necrowave.com/assets/1280x720.png",
+          "sourceUrl": "https://www.necrowave.com/",
+          "credit": "Creator / Official site",
+          "alt": "Necrowave official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.necrowave.com/assets/hero.png",
+          "thumbnail": "https://www.necrowave.com/assets/hero.png",
+          "sourceUrl": "https://www.necrowave.com/",
+          "credit": "Creator / Official site",
+          "alt": "Necrowave official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.necrowave.com/assets/184x184.png",
+          "thumbnail": "https://www.necrowave.com/assets/184x184.png",
+          "sourceUrl": "https://www.necrowave.com/",
+          "credit": "Creator / Official site",
+          "alt": "Necrowave official image",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Necrowave",
+          "youtube": [],
+          "nativeRating": null,
+          "sourceUrl": "https://www.necrowave.com/",
+          "pageHash": "0317cae4c3df3c20d03fb334d810558836903e804a42a563eacb92d16ce77b6a",
+          "description": "Necrowave About the game Necrowave is a game about the emotional life of a zombie stuck in a microwave. It's a 2D platformer with critical thinking based combat where each different enemy feels like a puzzle to solve instead of relying on brute hack & slash tactics. Almost everything in the game dies in one hit, including you. So caution and critical thinking is highly incentivized. About the Author My name is Arfhis. I'm a solo game developer that dropped out of uni, quit his job in a country where the only way to survive was by becoming a doctor or engineer, and instead decided to make a game. Click the zombie link below for an interview with me by Gamers Nexus. Get the game Necrowave is free to play right now and can be found on Patreon! Also, your donated support helps expand and improve Necrowave for all.",
+          "outbound": [
+            {
+              "url": "https://www.patreon.com/Necrowave/posts",
+              "label": ""
+            }
+          ]
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://www.necrowave.com/assets/616x353.png",
+      "mediaErrors": [
+        {
+          "url": "https://www.patreon.com/Necrowave",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:stratum",
+      "name": "Stratum",
+      "seedName": "Stratum",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 8,
+      "summary": "A small first-person labyrinth with compact movement upgrades. A short, free discovery rather than a sprawling commercial campaign.",
+      "curatorWhy": "A small first-person labyrinth with compact movement upgrades. A short, free discovery rather than a sprawling commercial campaign.",
+      "genreScope": "3D Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://machinescreen.itch.io/stratum",
+      "status": "Released",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "3D Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://machinescreen.itch.io/stratum",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://machinescreen.itch.io/stratum",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0OS5wbmc=/347x500/EzO4QU.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0OS5wbmc=/347x500/EzO4QU.png",
+          "sourceUrl": "https://machinescreen.itch.io/stratum",
+          "credit": "Creator / itch.io",
+          "alt": "Stratum official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0Ny5wbmc=/347x500/Y5DxM%2B.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0Ny5wbmc=/347x500/Y5DxM%2B.png",
+          "sourceUrl": "https://machinescreen.itch.io/stratum",
+          "credit": "Creator / itch.io",
+          "alt": "Stratum official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE1MC5wbmc=/347x500/nF7diG.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE1MC5wbmc=/347x500/nF7diG.png",
+          "sourceUrl": "https://machinescreen.itch.io/stratum",
+          "credit": "Creator / itch.io",
+          "alt": "Stratum official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDYwMDc0Mi5wbmc=/347x500/xCTWvn.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDYwMDc0Mi5wbmc=/347x500/xCTWvn.png",
+          "sourceUrl": "https://machinescreen.itch.io/stratum",
+          "credit": "Creator / itch.io",
+          "alt": "Stratum official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDYwMDc0My5wbmc=/347x500/%2F3S1IH.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDYwMDc0My5wbmc=/347x500/%2F3S1IH.png",
+          "sourceUrl": "https://machinescreen.itch.io/stratum",
+          "credit": "Creator / itch.io",
+          "alt": "Stratum official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0OC5wbmc=/347x500/avxled.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDExNjg1Ny8yNDU3NzE0OC5wbmc=/347x500/avxled.png",
+          "sourceUrl": "https://machinescreen.itch.io/stratum",
+          "credit": "Creator / itch.io",
+          "alt": "Stratum official image",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "youtube": "6Iesq-UNNDY",
+          "name": "Creator-published video",
+          "sourceUrl": "https://machinescreen.itch.io/stratum",
+          "watchUrl": "https://www.youtube.com/watch?v=6Iesq-UNNDY",
+          "poster": "https://img.itch.zone/aW1nLzI0NTc3MzMwLnBuZw==/original/d7FGFv.png"
+        }
+      ],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Stratum by MachineScreen",
+          "youtube": [
+            "6Iesq-UNNDY"
+          ],
+          "nativeRating": null,
+          "sourceUrl": "https://machinescreen.itch.io/stratum",
+          "pageHash": "fde4f4cb1793b939a69d94500085b4d5795fbdff00f0ad9f5c772a66ebf00981",
+          "description": "You need to proceed through this section but there's a transponder controlled door in the way. Find the code. A minimalist 3D metroidvania set in a forboding megastructure. Watch the trailer A first playthrough takes around 30-60 minutes to complete. This version of the game includes various fixes and minor enhancements compared to the version originally submitted to the jam. You can still play the original jam version here and there is a post here detailing what's changed in v1.1. Music and some sounds by Adam. Thanks to Adam, Fi & Rich for playtesting. Controls Reference: W, A, S, D - Move Mouse - Look P (Web) or Esc (Windows) - Pause Space - Ability 1 Shift - Ability 2 LMB, RMB - Ability 3",
+          "outbound": [
+            {
+              "url": "https://machinescreen.itch.io/stratum-jam-version",
+              "label": "here"
+            },
+            {
+              "url": "https://machinescreen.itch.io/stratum/devlog/1278000/stratum-v11",
+              "label": "here"
+            }
+          ]
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://img.itch.zone/aW1nLzI0NTc3MzMwLnBuZw==/original/d7FGFv.png",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:fiends-fall",
+      "name": "Fiend's Fall",
+      "seedName": "Fiend's Fall",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 8,
+      "summary": "A bite-sized browser Metroidvania with multiple endings and a concentrated exploration loop.",
+      "curatorWhy": "A bite-sized browser Metroidvania with multiple endings and a concentrated exploration loop.",
+      "genreScope": "Compact Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://samppamon.itch.io/fiends-fall",
+      "status": "Released",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Compact Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://samppamon.itch.io/fiends-fall",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://samppamon.itch.io/fiends-fall",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNS5wbmc=/347x500/JNLlOm.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNS5wbmc=/347x500/JNLlOm.png",
+          "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+          "credit": "Creator / itch.io",
+          "alt": "Fiend's Fall official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNy5wbmc=/347x500/1kReqZ.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNy5wbmc=/347x500/1kReqZ.png",
+          "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+          "credit": "Creator / itch.io",
+          "alt": "Fiend's Fall official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNi5wbmc=/347x500/UeUgxs.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxNi5wbmc=/347x500/UeUgxs.png",
+          "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+          "credit": "Creator / itch.io",
+          "alt": "Fiend's Fall official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxOC5wbmc=/347x500/9yXzbo.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxOC5wbmc=/347x500/9yXzbo.png",
+          "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+          "credit": "Creator / itch.io",
+          "alt": "Fiend's Fall official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxOS5wbmc=/347x500/aSFlAS.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzgyMjYyOS8yMjgxOTMxOS5wbmc=/347x500/aSFlAS.png",
+          "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+          "credit": "Creator / itch.io",
+          "alt": "Fiend's Fall official image",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "youtube": "AbWb5TG4vsc",
+          "name": "Creator-published video",
+          "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+          "watchUrl": "https://www.youtube.com/watch?v=AbWb5TG4vsc",
+          "poster": "https://img.itch.zone/aW1nLzIyODE5MzExLnBuZw==/original/q8doEV.png"
+        }
+      ],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Fiend's Fall by Samppamon",
+          "youtube": [
+            "AbWb5TG4vsc"
+          ],
+          "nativeRating": null,
+          "sourceUrl": "https://samppamon.itch.io/fiends-fall",
+          "pageHash": "9ba25e42f0cfe45639f5acc43cbac446d8b912dcbdf704c2e9fd271059e1ae89",
+          "description": "Fiend's Fall is a minimalistic mini-metroidvania game. You take control of the Fiend, cast into the depths of the cursed hollow. The game features two endings. Design, programming, pixel art, music and sound FX by Samppamon. Font: Teeny Tiny Pixls by Chequered Ink",
+          "outbound": []
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://img.itch.zone/aW1nLzIyODE5MzExLnBuZw==/original/q8doEV.png",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:rabbits-quest",
+      "name": "Rabbit's Quest",
+      "seedName": "Rabbit's Quest",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 9,
+      "summary": "A substantial free run-and-gun exploration adventure with multiple regions and character upgrades.",
+      "curatorWhy": "A substantial free run-and-gun exploration adventure with multiple regions and character upgrades.",
+      "genreScope": "Traditional Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://directshift.itch.io/rabbits-quest",
+      "status": "Released",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://directshift.itch.io/rabbits-quest",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        },
+        {
+          "url": "https://itch.io/t/420551/rabbits-quest-metroidvania-shoot-em-up",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://directshift.itch.io/rabbits-quest",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        },
+        {
+          "url": "https://itch.io/t/420551/rabbits-quest-metroidvania-shoot-em-up",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzYucG5n/347x500/ZKzEo7.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzYucG5n/347x500/ZKzEo7.png",
+          "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+          "credit": "Creator / itch.io",
+          "alt": "Rabbit's Quest official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzcucG5n/347x500/71dwXp.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzcucG5n/347x500/71dwXp.png",
+          "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+          "credit": "Creator / itch.io",
+          "alt": "Rabbit's Quest official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1ODAucG5n/347x500/ASCzvU.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1ODAucG5n/347x500/ASCzvU.png",
+          "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+          "credit": "Creator / itch.io",
+          "alt": "Rabbit's Quest official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzgucG5n/347x500/E%2BNQfL.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1NzgucG5n/347x500/E%2BNQfL.png",
+          "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+          "credit": "Creator / itch.io",
+          "alt": "Rabbit's Quest official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1ODEucG5n/347x500/U0Rtcx.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzc4MjA2LzE4OTM1ODEucG5n/347x500/U0Rtcx.png",
+          "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+          "credit": "Creator / itch.io",
+          "alt": "Rabbit's Quest official image",
+          "verified": true
+        },
+        {
+          "src": "https://static.itch.io/images/itchio-textless-black.svg",
+          "thumbnail": "https://static.itch.io/images/itchio-textless-black.svg",
+          "sourceUrl": "https://itch.io/t/420551/rabbits-quest-metroidvania-shoot-em-up",
+          "credit": "Creator / itch.io",
+          "alt": "Rabbit's Quest official image",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "youtube": "bLwNajvwVLM",
+          "name": "Creator-published video",
+          "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+          "watchUrl": "https://www.youtube.com/watch?v=bLwNajvwVLM",
+          "poster": "https://img.itch.zone/aW1nLzE5NDA3MzEucG5n/original/fedTgm.png"
+        },
+        {
+          "youtube": "nEHP0D-mkWg",
+          "name": "Creator-published video",
+          "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+          "watchUrl": "https://www.youtube.com/watch?v=nEHP0D-mkWg",
+          "poster": "https://img.itch.zone/aW1nLzE5NDA3MzEucG5n/original/fedTgm.png"
+        }
+      ],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Rabbit's Quest by directshift",
+          "youtube": [
+            "bLwNajvwVLM",
+            "nEHP0D-mkWg"
+          ],
+          "nativeRating": null,
+          "sourceUrl": "https://directshift.itch.io/rabbits-quest",
+          "pageHash": "56f63714e0e25d4024286ca5590f8b7583c87d869fda2bbe11cfc9cfe43e3b0c",
+          "description": "Rabbit's Quest is a metroidvania with a retro aesthetic. Your team was exploring the galaxy looking for alternate sources of energies, until the radar detected something on a unknown planet. However, things go wrong and now you are many thousands feet under the ground in a hostile planet full of monsters and riddles. Will you be able to get back to your ship and get away from this planet? Featuring: + 13 colorful areas to explore + retro feel and graphics + more than 80 different enemies to destroy + easy to play, hard to master + a beautiful and immersive jazz fusion soundtrack + epic boss fights + 2 different endings (normal and secret) + 15 upgrades to find + inspired on Hero Core, An Untitled Story, Environmental Station Alpha",
+          "outbound": []
+        },
+        {
+          "title": "Rabbit's Quest (Metroidvania Shoot Em Up) - Release Announcements - itch.io",
+          "youtube": [],
+          "nativeRating": null,
+          "sourceUrl": "https://itch.io/t/420551/rabbits-quest-metroidvania-shoot-em-up",
+          "pageHash": "4ea16bb4bdee20f2d28d68ec936b421d0eaee26b03bbef3666dd39b0f4d38cb6",
+          "description": "Rabbit's Quest (Metroidvania Shoot Em Up) - Release Announcements - itch.io Skip to main content itch.io Browse Games Game Jams Upload Game Developer Logs Community Log in Register Indie game store Free games Fun games Horror games Game development Assets Comics Sales Bundles Jobs Tags Game Engines itch.io Community » General » Release Announcements 0 Rabbit's Quest (Metroidvania Shoot Em Up) A topic by directshift created Mar 17, 2019 Views: 580 Viewing posts 1 to 1 Log in to reply Join the discussion. Log in or create a free itch.io account to continue. itch.io on Twitter itch.io on Facebook About FAQ Blog Contact us Copyright © 2026 itch corp · Directory · Terms · Privacy · Cookies",
+          "outbound": [
+            {
+              "url": "https://itch.io/t/420551/rabbits-quest-metroidvania-shoot-em-up#maincontent",
+              "label": "Skip to main content"
+            },
+            {
+              "url": "https://itch.io/",
+              "label": "itch.io"
+            },
+            {
+              "url": "https://itch.io/games",
+              "label": "Browse Games"
+            },
+            {
+              "url": "https://itch.io/jams",
+              "label": "Game Jams"
+            },
+            {
+              "url": "https://itch.io/developers",
+              "label": "Upload Game"
+            },
+            {
+              "url": "https://itch.io/devlogs",
+              "label": "Developer Logs"
+            },
+            {
+              "url": "https://itch.io/community",
+              "label": "Community"
+            },
+            {
+              "url": "https://itch.io/login",
+              "label": "Log in"
+            },
+            {
+              "url": "https://itch.io/register",
+              "label": "Register"
+            },
+            {
+              "url": "https://itch.io/games/store",
+              "label": "Indie game store"
+            },
+            {
+              "url": "https://itch.io/games/free",
+              "label": "Free games"
+            },
+            {
+              "url": "https://itch.io/games/fun",
+              "label": "Fun games"
+            },
+            {
+              "url": "https://itch.io/games/tag-horror",
+              "label": "Horror games"
+            },
+            {
+              "url": "https://itch.io/tools",
+              "label": "Game development"
+            },
+            {
+              "url": "https://itch.io/game-assets",
+              "label": "Assets"
+            },
+            {
+              "url": "https://itch.io/comics",
+              "label": "Comics"
+            },
+            {
+              "url": "https://itch.io/sales",
+              "label": "Sales"
+            },
+            {
+              "url": "https://itch.io/bundles",
+              "label": "Bundles"
+            },
+            {
+              "url": "https://itch.io/jobs",
+              "label": "Jobs"
+            },
+            {
+              "url": "https://itch.io/tags",
+              "label": "Tags"
+            },
+            {
+              "url": "https://itch.io/game-development/engines",
+              "label": "Game Engines"
+            },
+            {
+              "url": "https://itch.io/community",
+              "label": "itch.io Community"
+            },
+            {
+              "url": "https://itch.io/board/10014/general",
+              "label": "General"
+            },
+            {
+              "url": "https://itch.io/board/10022/release-announcements",
+              "label": "Release Announcements"
+            },
+            {
+              "url": "https://directshift.itch.io/rabbits-quest",
+              "label": ""
+            },
+            {
+              "url": "https://itch.io/profile/directshift",
+              "label": "directshift"
+            },
+            {
+              "url": "https://itch.io/login?return_to=https%3A%2F%2Fitch.io%2Ft%2F420551%2Frabbits-quest-metroidvania-shoot-em-up&intent=community",
+              "label": "Log in to reply"
+            },
+            {
+              "url": "https://itch.io/docs/general/about",
+              "label": "About"
+            },
+            {
+              "url": "https://itch.io/docs/general/faq",
+              "label": "FAQ"
+            },
+            {
+              "url": "https://itch.io/blog",
+              "label": "Blog"
+            },
+            {
+              "url": "https://itch.io/support",
+              "label": "Contact us"
+            },
+            {
+              "url": "https://itch.io/directory",
+              "label": "Directory"
+            },
+            {
+              "url": "https://itch.io/docs/legal/terms",
+              "label": "Terms"
+            },
+            {
+              "url": "https://itch.io/docs/legal/privacy-policy",
+              "label": "Privacy"
+            },
+            {
+              "url": "https://itch.io/docs/legal/cookie-policy",
+              "label": "Cookies"
+            }
+          ]
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://img.itch.zone/aW1nLzE5NDA3MzEucG5n/original/fedTgm.png",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:mini-falafel-adventure",
+      "name": "A Mini Falafel Adventure",
+      "seedName": "A Mini Falafel Adventure",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 9,
+      "summary": "A free, compact adventure with inventive bosses and an intentionally silly premise. A strong freeware discovery.",
+      "curatorWhy": "A free, compact adventure with inventive bosses and an intentionally silly premise. A strong freeware discovery.",
+      "genreScope": "Compact Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+      "status": "Released",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Compact Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://beadybox.itch.io/a-mini-falafel-adventure",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://beadybox.itch.io/a-mini-falafel-adventure",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NzcwLmpwZw==/347x500/zlv0Ek.jpg",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NzcwLmpwZw==/347x500/zlv0Ek.jpg",
+          "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+          "credit": "Creator / itch.io",
+          "alt": "A Mini Falafel Adventure official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvMzA1ODQ3LnBuZw==/347x500/%2FNQHXC.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvMzA1ODQ3LnBuZw==/347x500/%2FNQHXC.png",
+          "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+          "credit": "Creator / itch.io",
+          "alt": "A Mini Falafel Adventure official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvMzA1ODQ2LnBuZw==/347x500/SbW4X9.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvMzA1ODQ2LnBuZw==/347x500/SbW4X9.png",
+          "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+          "credit": "Creator / itch.io",
+          "alt": "A Mini Falafel Adventure official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NjI3LnBuZw==/347x500/V5LZcs.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NjI3LnBuZw==/347x500/V5LZcs.png",
+          "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+          "credit": "Creator / itch.io",
+          "alt": "A Mini Falafel Adventure official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NTk1LnBuZw==/347x500/BkKuqz.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NTk1LnBuZw==/347x500/BkKuqz.png",
+          "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+          "credit": "Creator / itch.io",
+          "alt": "A Mini Falafel Adventure official image",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "youtube": "G3vjGACRU8k",
+          "name": "Creator-published video",
+          "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+          "watchUrl": "https://www.youtube.com/watch?v=G3vjGACRU8k",
+          "poster": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NzY4LnBuZw==/original/Wy0Aih.png"
+        }
+      ],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "A Mini Falafel Adventure by beadybox",
+          "youtube": [
+            "G3vjGACRU8k"
+          ],
+          "nativeRating": null,
+          "sourceUrl": "https://beadybox.itch.io/a-mini-falafel-adventure",
+          "pageHash": "adeb8094f7a949d569765ba06959f79d56aeb2ea1e1d3280bafde9eeba48ddca",
+          "description": "A Mini Falafel Adventure is a condensed, action-oriented Metroidvania with an emphasis on memorable boss fights, characters and gameplay-twisting power-ups. It features a chiptune/disco soundtrack by Reed Richards. This is the full version of A Mini Falafel Adventure, originally created for a Retro Remakes competition in March 2007. This version is much longer and contains many more bosses and power-ups. An average playthrough will take about 2 hours, so it's not a long game, but the goal of A Mini Falafel Adventure is to take you on a journey and surprise you. Have a good time! Trailer https://www.youtube-nocookie.com/embed/G3vjGACRU8k?rel=0 Cover Art by Ben Hickling",
+          "outbound": []
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://img.itch.zone/aW1hZ2UvMjkyODIvNzA3NzY4LnBuZw==/original/Wy0Aih.png",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:angel-shell",
+      "name": "Angel Shell",
+      "seedName": "Angel Shell",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 8,
+      "summary": "A short underwater exploration game built around a grappling hook, with a distinctly small-scale indie identity.",
+      "curatorWhy": "A short underwater exploration game built around a grappling hook, with a distinctly small-scale indie identity.",
+      "genreScope": "Compact Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://zahranworrell.itch.io/angel-shell",
+      "status": "Released",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Compact Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://zahranworrell.itch.io/angel-shell",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://zahranworrell.itch.io/angel-shell",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1nLzI3OTA3NjE0LmdpZg==/original/2IjJSF.gif",
+          "thumbnail": "https://img.itch.zone/aW1nLzI3OTA3NjE0LmdpZg==/original/2IjJSF.gif",
+          "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+          "credit": "Creator / itch.io",
+          "alt": "Angel Shell official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1nLzI3OTA3NjA5LmdpZg==/original/WuqcUq.gif",
+          "thumbnail": "https://img.itch.zone/aW1nLzI3OTA3NjA5LmdpZg==/original/WuqcUq.gif",
+          "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+          "credit": "Creator / itch.io",
+          "alt": "Angel Shell official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1nLzI3OTA3NjAwLmdpZg==/original/OkMoNV.gif",
+          "thumbnail": "https://img.itch.zone/aW1nLzI3OTA3NjAwLmdpZg==/original/OkMoNV.gif",
+          "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+          "credit": "Creator / itch.io",
+          "alt": "Angel Shell official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1nLzI3OTA3NTk3LmdpZg==/original/mTE0ka.gif",
+          "thumbnail": "https://img.itch.zone/aW1nLzI3OTA3NTk3LmdpZg==/original/mTE0ka.gif",
+          "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+          "credit": "Creator / itch.io",
+          "alt": "Angel Shell official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1nLzI3OTAwNzE3LnBuZw==/original/71%2Bdvi.png",
+          "thumbnail": "https://img.itch.zone/aW1nLzI3OTAwNzE3LnBuZw==/original/71%2Bdvi.png",
+          "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+          "credit": "Creator / itch.io",
+          "alt": "Angel Shell official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzQ1OS5naWY=/original/WDESxR.gif",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzQ1OS5naWY=/original/WDESxR.gif",
+          "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+          "credit": "Creator / itch.io",
+          "alt": "Angel Shell official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzUzNS5naWY=/original/trqFI6.gif",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzUzNS5naWY=/original/trqFI6.gif",
+          "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+          "credit": "Creator / itch.io",
+          "alt": "Angel Shell official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzU2OC5naWY=/original/rH7enl.gif",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzU2OC5naWY=/original/rH7enl.gif",
+          "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+          "credit": "Creator / itch.io",
+          "alt": "Angel Shell official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzU4Ny5naWY=/original/ZfzasA.gif",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDY4MjY3MC8yNzkwNzU4Ny5naWY=/original/ZfzasA.gif",
+          "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+          "credit": "Creator / itch.io",
+          "alt": "Angel Shell official image",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "youtube": "Pf8j5i_hxBA",
+          "name": "Creator-published video",
+          "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+          "watchUrl": "https://www.youtube.com/watch?v=Pf8j5i_hxBA",
+          "poster": "https://img.itch.zone/aW1nLzI3OTExNjE1LmdpZg==/original/Kkb5pP.gif"
+        }
+      ],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Angel Shell by ZahranW, KingW",
+          "youtube": [
+            "Pf8j5i_hxBA"
+          ],
+          "nativeRating": null,
+          "sourceUrl": "https://zahranworrell.itch.io/angel-shell",
+          "pageHash": "41cceb77370134dfece4bf3131526326785a57c1af29632e8e400b5cc7b2f089",
+          "description": "Angel Shell is a short Metroidvania about grapple-hooking around the ocean and finding your missing parts Made in 16 days for Metroidvania Month 32 https://www.youtube-nocookie.com/embed/Pf8j5i_hxBA?si=psrmRuiTHyk2YWXL Controls RMB Anchor LMB Shoot Cursor keys Move Q - E / Scroll wheel Cycle weapon Enter Pause Space Interact 1 Toggle fullscreen 2 - 5 Change window size Mouse and keyboard recommended, controllers are supported https://bandcamp.com/EmbeddedPlayer/album=3804436111/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/ Made by ZahranW and KingW",
+          "outbound": [
+            {
+              "url": "https://itch.io/jam/metroidvania-month-32",
+              "label": "Metroidvania Month 32"
+            },
+            {
+              "url": "https://zahranworrell.itch.io/",
+              "label": "ZahranW"
+            }
+          ]
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://img.itch.zone/aW1nLzI3OTExNjE1LmdpZg==/original/Kkb5pP.gif",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:reawakening",
+      "name": "Reawakening",
+      "seedName": "Reawakening",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 8,
+      "summary": "A free mining-suit exploration adventure, suited to players who like uncovering a world through tools and movement upgrades.",
+      "curatorWhy": "A free mining-suit exploration adventure, suited to players who like uncovering a world through tools and movement upgrades.",
+      "genreScope": "Traditional Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://hatbird-games.itch.io/reawakening",
+      "status": "Released",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://hatbird-games.itch.io/reawakening",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://hatbird-games.itch.io/reawakening",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMS5wbmc=/347x500/TMJc5Q.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMS5wbmc=/347x500/TMJc5Q.png",
+          "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+          "credit": "Creator / itch.io",
+          "alt": "Reawakening official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjc5OS5wbmc=/347x500/mWyFv%2B.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjc5OS5wbmc=/347x500/mWyFv%2B.png",
+          "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+          "credit": "Creator / itch.io",
+          "alt": "Reawakening official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMi5wbmc=/347x500/YF1iMi.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMi5wbmc=/347x500/YF1iMi.png",
+          "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+          "credit": "Creator / itch.io",
+          "alt": "Reawakening official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMC5wbmc=/347x500/EtaKxG.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMC5wbmc=/347x500/EtaKxG.png",
+          "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+          "credit": "Creator / itch.io",
+          "alt": "Reawakening official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMy5wbmc=/347x500/xkr%2FEf.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDg5ODAzMC8yOTQwNjgwMy5wbmc=/347x500/xkr%2FEf.png",
+          "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+          "credit": "Creator / itch.io",
+          "alt": "Reawakening official image",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Reawakening by HatBird Games, sleepicacti, Mister Coolest",
+          "youtube": [],
+          "nativeRating": null,
+          "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+          "pageHash": "ad81bdcec31edd697d56313e64af0f896ba68353f087600e61baf364b1b7f363",
+          "description": "Control a repurposed mining suit as you travel through a settlement worn by time and disaster. This metroidvania will take you through a journey filled with challenge, reward, and plenty of fellow survivors along the way. Can you discover the heart of what leaves this world in ruin? Estimated playtime: 2-3hrs We are a tiny little team of two, so we apologize if there are any bugs!! If you find anything gamebreaking, or if you would like to share your thoughts on our little game, please fill out our feedback form ! Game made by Chloe Healey and Ian Mark . You can find the OST on YouTube and YT Music ! We recommend playing through the game first, though!",
+          "outbound": []
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://img.itch.zone/aW1nLzI5NDA2MzgzLnBuZw==/original/LzM69M.png",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:senescence-protocol",
+      "name": "Senescence Protocol",
+      "seedName": "Senescence Protocol",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 7,
+      "summary": "A short, top-down jam-scale exploration game. Kept separate from the long-form genre essentials.",
+      "curatorWhy": "A short, top-down jam-scale exploration game. Kept separate from the long-form genre essentials.",
+      "genreScope": "Top-down Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://lui421.itch.io/senescence-protocol",
+      "status": "Released",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Top-down Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [],
+      "sources": [],
+      "screenshots": [],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [],
+      "verification": "unresolved",
+      "mediaErrors": [
+        {
+          "url": "https://lui421.itch.io/senescence-protocol",
+          "error": "HTTP Error 429: Too Many Requests"
+        }
+      ],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:spellsought",
+      "name": "Spellsought",
+      "seedName": "Spellsought",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 7,
+      "summary": "A small creator-hosted spellcasting exploration game for the deep-cut shelf.",
+      "curatorWhy": "A small creator-hosted spellcasting exploration game for the deep-cut shelf.",
+      "genreScope": "Compact Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://speedrockstrong.itch.io/spellsought",
+      "status": "Released",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Compact Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://speedrockstrong.itch.io/spellsought",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://speedrockstrong.itch.io/spellsought",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDMxNS5wbmc=/347x500/eUgOnS.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDMxNS5wbmc=/347x500/eUgOnS.png",
+          "sourceUrl": "https://speedrockstrong.itch.io/spellsought",
+          "credit": "Creator / itch.io",
+          "alt": "Spellsought official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDQxOC5wbmc=/347x500/VY2stA.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDQxOC5wbmc=/347x500/VY2stA.png",
+          "sourceUrl": "https://speedrockstrong.itch.io/spellsought",
+          "credit": "Creator / itch.io",
+          "alt": "Spellsought official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDQyNC5wbmc=/347x500/tdtqJ9.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNTAxMjc0OS8zMDAzMDQyNC5wbmc=/347x500/tdtqJ9.png",
+          "sourceUrl": "https://speedrockstrong.itch.io/spellsought",
+          "credit": "Creator / itch.io",
+          "alt": "Spellsought official image",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Spellsought by speedrockstrong",
+          "youtube": [],
+          "nativeRating": null,
+          "sourceUrl": "https://speedrockstrong.itch.io/spellsought",
+          "pageHash": "898e7d9a9b0de062a721ca299dcc19e990554ae2aa3300bffe123e6819cd4070",
+          "description": "A 2D platformer adventure game about exploring a blue place, and finding spells. Made in 2 weeks for Metroidvania Month 33. This time I made sure there was exploration! Please play the newest version for rating. The 1.0 version is from before the late submission period, and has some pretty bad bugs. Controls: WASD or Arrow Keys: move and aim Z or J: jump X or K: shoot Tab: Open map/pause Shift or L: alternate input for late game ability Credits: Programming, Design, Art, SFX: Speedrockstrong Game Engine: Godot BGM: NeRd and 1011686 Discord Sound: Discord Metroidvania System plugin by KoBeWi Laser sound effect by HeltonYan Update Changelog: v1.0 Finished adding hidden collectibles, changed enemy sprites. During late submission period: v1.0.1 Fixed crash on death. v1.0.2 Fixed bgm loop. v1.0.3 Adjusted input for late game ability, made a certain cell reachable, fixed window stretch issues, and made save points automatic.",
+          "outbound": []
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://img.itch.zone/aW1nLzMwMDMwNDc1LnBuZw==/original/y86ufV.png",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:peppermint",
+      "name": "Peppermint",
+      "seedName": "Peppermint",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 7,
+      "summary": "A candy-and-horror pixel-art exploration prototype. The available build is not presented as the completed game.",
+      "curatorWhy": "A candy-and-horror pixel-art exploration prototype. The available build is not presented as the completed game.",
+      "genreScope": "Traditional Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://salmoone.itch.io/peppermint",
+      "status": "Prototype",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://salmoone.itch.io/peppermint",
+          "provider": "itch.io",
+          "kind": "prototype",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://salmoone.itch.io/peppermint",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2Ni5wbmc=/347x500/FSM0Cb.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2Ni5wbmc=/347x500/FSM0Cb.png",
+          "sourceUrl": "https://salmoone.itch.io/peppermint",
+          "credit": "Creator / itch.io",
+          "alt": "Peppermint official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2NS5wbmc=/347x500/BbYn4f.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2NS5wbmc=/347x500/BbYn4f.png",
+          "sourceUrl": "https://salmoone.itch.io/peppermint",
+          "credit": "Creator / itch.io",
+          "alt": "Peppermint official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2OC5wbmc=/347x500/sGiqrM.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2OC5wbmc=/347x500/sGiqrM.png",
+          "sourceUrl": "https://salmoone.itch.io/peppermint",
+          "credit": "Creator / itch.io",
+          "alt": "Peppermint official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2Ny5wbmc=/347x500/xpjl%2Fy.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2Ny5wbmc=/347x500/xpjl%2Fy.png",
+          "sourceUrl": "https://salmoone.itch.io/peppermint",
+          "credit": "Creator / itch.io",
+          "alt": "Peppermint official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2OS5wbmc=/347x500/qjpCT0.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA4OTQ4Ni8yODQ2MjA2OS5wbmc=/347x500/qjpCT0.png",
+          "sourceUrl": "https://salmoone.itch.io/peppermint",
+          "credit": "Creator / itch.io",
+          "alt": "Peppermint official image",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Peppermint by salmoone",
+          "youtube": [],
+          "nativeRating": null,
+          "sourceUrl": "https://salmoone.itch.io/peppermint",
+          "pageHash": "ff3123ee68201551713023543c1a9ae5a37556d6f26f7519ae432ac44317c677",
+          "description": "Hi! This is my Solo dev project Peppermint! I'm an artist who decided I wanted to make a game and have been teaching myself how to program for the last 2 (and a bit) years! The current playable build is the build showcased at SAGE 2026! Peppermint is a platforming metroidvania with cutesy visuals, a candy theme and a focus on exploration and story. Peppermint is also a gritty, combat focused souls-like with strong elements of body horror. Peppermint Follows the player character Pepper Mint (aka. Pepper) as she battles through her decaying and melting candy world, as the people around her also begin to decay and melt. This itch page will be used to share early prototypes, demos and development progress! All feedback and thoughts throughout the development process are greatly appreciated and encouraged! My X/Twitter! My Instagram! My LinkedIn!",
+          "outbound": []
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://img.itch.zone/aW1nLzI4NDYyMDU3LnBuZw==/original/YgV8Pa.png",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:mongrel-story",
+      "name": "Mongrel Story",
+      "seedName": "Mongrel Story",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 7,
+      "summary": "A creator-hosted exploration demo. Useful as a discovery, with its demo status visible rather than counted as a full release.",
+      "curatorWhy": "A creator-hosted exploration demo. Useful as a discovery, with its demo status visible rather than counted as a full release.",
+      "genreScope": "Traditional Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+      "status": "Demo",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://mountainstork.itch.io/mongrel-story-demo",
+          "provider": "itch.io",
+          "kind": "demo",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://mountainstork.itch.io/mongrel-story-demo",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTQ3My5wbmc=/347x500/aOhMYR.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTQ3My5wbmc=/347x500/aOhMYR.png",
+          "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+          "credit": "Creator / itch.io",
+          "alt": "Mongrel Story official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTkwNjI0Ni5wbmc=/347x500/cPuwBW.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTkwNjI0Ni5wbmc=/347x500/cPuwBW.png",
+          "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+          "credit": "Creator / itch.io",
+          "alt": "Mongrel Story official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTU5Ny5wbmc=/347x500/7NOLe6.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTU5Ny5wbmc=/347x500/7NOLe6.png",
+          "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+          "credit": "Creator / itch.io",
+          "alt": "Mongrel Story official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTgyMi5wbmc=/347x500/POwBgE.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTg5MTgyMi5wbmc=/347x500/POwBgE.png",
+          "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+          "credit": "Creator / itch.io",
+          "alt": "Mongrel Story official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTkwNjI3My5wbmc=/347x500/2kblPJ.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY3OTI2Ny8yMTkwNjI3My5wbmc=/347x500/2kblPJ.png",
+          "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+          "credit": "Creator / itch.io",
+          "alt": "Mongrel Story official image",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Mongrel Story (Demo) by Mountain Stork",
+          "youtube": [],
+          "nativeRating": null,
+          "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+          "pageHash": "fe5fa6b22bd037c006a3cc023dead43a5f7fe1ab21cf6538625321df65545d89",
+          "description": "Spread your wings. Snap your whip-tail. Unsheath your claws. Get ready to explore a world of perilous caves, mysterious creatures, and long-forgotten secrets! Mongrel Story is an atmospheric metroidvania where you play as a strange hybrid creature — part bat, part rat (and perhaps somebody else?), with a body built for agility, stealth, and survival. Glide through vast caverns, climb sheer walls, strike down enemies, and uncover ancient mysteries as you forge your own path through a deep underground world. This is a demo showcasing the first 30–60 minutes of gameplay, depending on your pace. The game is still in active development — visuals, audio, and mechanics are subject to change. Feedback is always welcome and deeply appreciated! Stay tuned — the journey is just beginning!",
+          "outbound": []
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://img.itch.zone/aW1nLzIxOTExMDg5LnBuZw==/original/OUhyBq.png",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:block-neopolis",
+      "name": "BLOCK",
+      "seedName": "BLOCK",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 8,
+      "summary": "A minimalist metroidbrainia where understanding the rules opens new possibilities. A puzzle-led neighbor, not a combat-heavy Metroidvania.",
+      "curatorWhy": "A minimalist metroidbrainia where understanding the rules opens new possibilities. A puzzle-led neighbor, not a combat-heavy Metroidvania.",
+      "genreScope": "Puzzle / knowledge exploration",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://neopolis.itch.io/block",
+      "status": "Released",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Puzzle / knowledge exploration"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://neopolis.itch.io/block",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://neopolis.itch.io/block",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTQzNS5wbmc=/347x500/9HlBBu.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTQzNS5wbmc=/347x500/9HlBBu.png",
+          "sourceUrl": "https://neopolis.itch.io/block",
+          "credit": "Creator / itch.io",
+          "alt": "BLOCK official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTUzOC5wbmc=/347x500/3OqEc9.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTUzOC5wbmc=/347x500/3OqEc9.png",
+          "sourceUrl": "https://neopolis.itch.io/block",
+          "credit": "Creator / itch.io",
+          "alt": "BLOCK official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTU0MC5wbmc=/347x500/W7EjPp.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvNDA2MDY0Mi8yNDQ2MTU0MC5wbmc=/347x500/W7EjPp.png",
+          "sourceUrl": "https://neopolis.itch.io/block",
+          "credit": "Creator / itch.io",
+          "alt": "BLOCK official image",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "BLOCK by Neopolis",
+          "youtube": [],
+          "nativeRating": null,
+          "sourceUrl": "https://neopolis.itch.io/block",
+          "pageHash": "e8d1359d73820a9d5dca7ef200a4f8e254735321c133f7afa250a419066dbcb3",
+          "description": "A minimalist puzzle Metroidvania that can be played with only directional inputs. If you get stuck, think about what you've learned recently, and consider if it can be applied somewhere you've already been. Also, if the web build is causing issues, consider the downloadable version, sorry for the inconvenience!",
+          "outbound": []
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://img.itch.zone/aW1nLzI0NDQxMjgxLnBuZw==/original/pKvnh2.png",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:fohh",
+      "name": "Fohh",
+      "seedName": "Fohh",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 8,
+      "summary": "A short gravity-driven dinosaur exploration prototype with a playful visual identity.",
+      "curatorWhy": "A short gravity-driven dinosaur exploration prototype with a playful visual identity.",
+      "genreScope": "Compact Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://ismaelrodriguez.itch.io/fohh",
+      "status": "Prototype",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Compact Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [],
+      "sources": [],
+      "screenshots": [],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [],
+      "verification": "unresolved",
+      "mediaErrors": [
+        {
+          "url": "https://ismaelrodriguez.itch.io/fohh",
+          "error": "HTTP Error 429: Too Many Requests"
+        }
+      ],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:momodora-2",
+      "name": "Momodora II",
+      "seedName": "Momodora II",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 8,
+      "summary": "The early freeware Momodora entry that shifted the series toward interconnected exploration. An archival favorite with older-PC compatibility considerations.",
+      "curatorWhy": "The early freeware Momodora entry that shifted the series toward interconnected exploration. An archival favorite with older-PC compatibility considerations.",
+      "genreScope": "Compact Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "itch.io",
+      "primaryUrl": "https://rdein.itch.io/momodora-ii",
+      "status": "Released",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Compact Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": 2011,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://rdein.itch.io/momodora-ii",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://rdein.itch.io/momodora-ii",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4NS5wbmc=/347x500/73IfF%2B.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4NS5wbmc=/347x500/73IfF%2B.png",
+          "sourceUrl": "https://rdein.itch.io/momodora-ii",
+          "credit": "Creator / itch.io",
+          "alt": "Momodora II official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4Ni5wbmc=/347x500/UFU8zH.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4Ni5wbmc=/347x500/UFU8zH.png",
+          "sourceUrl": "https://rdein.itch.io/momodora-ii",
+          "credit": "Creator / itch.io",
+          "alt": "Momodora II official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4Ny5wbmc=/347x500/WbhXuy.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4Ny5wbmc=/347x500/WbhXuy.png",
+          "sourceUrl": "https://rdein.itch.io/momodora-ii",
+          "credit": "Creator / itch.io",
+          "alt": "Momodora II official image",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU5MC5wbmc=/347x500/%2FZjcYF.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU5MC5wbmc=/347x500/%2FZjcYF.png",
+          "sourceUrl": "https://rdein.itch.io/momodora-ii",
+          "credit": "Creator / itch.io",
+          "alt": "Momodora II official image",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Momodora II by rdein",
+          "youtube": [],
+          "nativeRating": null,
+          "sourceUrl": "https://rdein.itch.io/momodora-ii",
+          "pageHash": "2ea4e2448a82184697ba9bc73289694e7a5c2a9cab964cf454d58b94bd6284f6",
+          "description": "MOMODORA II is the second installment in the Momodora series. This sequel is much more polished and improved in every aspect in comparison with the first Momodora. It also abandoned the previous arcade-like progression for some gameplay that focuses slightly more on exploration. Momodora II follows the story of Momo, a priestess who is on a mission to banish evil nearby her home village. Cover artwork was drawn by Temmie Chang! I hope you enjoy it! Troubleshooting 1 - Controller Support Unfortunately, this game does not support any controllers natively. I recommend using a program called \"antimicro\" that allows you to bind keyboard keys to controller buttons. 2- If you are having trouble running the game, please try the following: Open Task Manager, go to the \"Services\" tab and disable \"Spooler\". Make sure your .NET framework, DirectX, Audio drivers, and Video drivers are updated. Alternatively, try running the game with XP compatibility mode or in Admin mode. Momodora ©2010-2022 Guilherme Melo Martins",
+          "outbound": []
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://img.itch.zone/aW1hZ2UvOTc1NS8yODU4NC5wbmc=/original/6nGksr.png",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:lyle-cube-sector",
+      "name": "Lyle in Cube Sector",
+      "seedName": "Lyle in Cube Sector",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 9,
+      "summary": "A distinctive freeware classic where throwing cubes and acquiring new abilities unlock a strange interconnected world.",
+      "curatorWhy": "A distinctive freeware classic where throwing cubes and acquiring new abilities unlock a strange interconnected world.",
+      "genreScope": "Traditional Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "Official site",
+      "primaryUrl": "https://www.bogozone.net/lyle.html",
+      "status": "Released",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": 2006,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://www.bogozone.net/lyle.html",
+          "provider": "Official site",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bogozone.net/lyle.html",
+          "provider": "Official site",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://www.bogozone.net/ck.gif",
+          "thumbnail": "https://www.bogozone.net/ck.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/lics.gif",
+          "thumbnail": "https://www.bogozone.net/lics.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/p2.gif",
+          "thumbnail": "https://www.bogozone.net/p2.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/other.gif",
+          "thumbnail": "https://www.bogozone.net/other.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/games/lyle.gif",
+          "thumbnail": "https://www.bogozone.net/games/lyle.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/games/lyle01.png",
+          "thumbnail": "https://www.bogozone.net/games/lyle01.png",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/games/lyle02.png",
+          "thumbnail": "https://www.bogozone.net/games/lyle02.png",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/games/lyle03.png",
+          "thumbnail": "https://www.bogozone.net/games/lyle03.png",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/games/dl.gif",
+          "thumbnail": "https://www.bogozone.net/games/dl.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/breaker.gif",
+          "thumbnail": "https://www.bogozone.net/breaker.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/comics.gif",
+          "thumbnail": "https://www.bogozone.net/comics.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/fc.gif",
+          "thumbnail": "https://www.bogozone.net/fc.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/acb.gif",
+          "thumbnail": "https://www.bogozone.net/acb.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/more.gif",
+          "thumbnail": "https://www.bogozone.net/more.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/art.gif",
+          "thumbnail": "https://www.bogozone.net/art.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.bogozone.net/games/floorlyle.gif",
+          "thumbnail": "https://www.bogozone.net/games/floorlyle.gif",
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "credit": "Creator / Official site",
+          "alt": "Lyle in Cube Sector official image",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "BogoZone - Lyle in Cube Sector",
+          "youtube": [],
+          "nativeRating": null,
+          "sourceUrl": "https://www.bogozone.net/lyle.html",
+          "pageHash": "530e7493bb92b53499d09207a1b8d5af7ef0c42573e8526c9c79405ab8b22f80",
+          "description": "BogoZone - Lyle in Cube Sector DATE: 1/19/06 CREATED ON: MMF BLOCK THROWING ACTION/ADVENTURE GAME. \"STORY\": OHNO! LYLE'S KITTY HAS BEEN STOLENED AND NOW HE MUST JOURNEY THROUGH THE WONKED OUT LANDS OF THE CUBESECTOR TO RETRIEVE HIS MEOWMEOW COMPANION! FEATURES: * Throw cubes to defeat enemies * * Explore to aquire new cube powers * * Non-linear gameplay * * Retro 80's style graphics * * Map system * * Graphics by me * * Music NOT by me * * Many different cube types * * Health & magic upgrades * * Warp room * SCREENSHOTS VERSION 1.11 (3/25/15) SIZE: 2.51MB OTHER VERSIONS: SEGA GENESIS / MEGA DRIVE VERSION by Mike Moffitt : DOWNLOAD ON ITCH.IO Version 1.11 Russian translation by Xitilon.HD408 and SaintHeiser : DOWNLOAD RUSSIAN VERSION 1.11 SIZE: 2.52MB Version 1.05: DOWNLOAD VERSION 1.05 (640x480) SIZE: 1.44MB DOWNLOAD VERSION 1.05a (320x240) SIZE: 1.24MB Version 1.04: Old MMF1 version. DOWNLOAD VERSION 1.04 SIZE: 1.14MB OPEN SOURCE v1.11: DOWNLOAD SOURCE SIZE: 931KB Requires MMF2, platform movement object, onu audio objects, joystick 2 object With apologies to the late Floppi who has allegedly passed on before I could get around to asking permission to use his excellent music track. Other music used with permission from Arachno, Butka, Dubmood, Estrayk, Gammis and Smirk.",
+          "outbound": [
+            {
+              "url": "https://mikejmoffitt.itch.io/lics-md",
+              "label": "DOWNLOAD ON ITCH.IO"
+            }
+          ]
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://www.bogozone.net/games.gif",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:hero-core",
+      "name": "Hero Core",
+      "seedName": "Hero Core",
+      "collection": "Freeware & creator-hosted worlds",
+      "collections": [
+        "Freeware & creator-hosted worlds"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 9,
+      "summary": "A compact, monochrome shooting-and-exploration classic. The original desktop game is distinct from later fan ports.",
+      "curatorWhy": "A compact, monochrome shooting-and-exploration classic. The original desktop game is distinct from later fan ports.",
+      "genreScope": "Traditional Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "Official site",
+      "primaryUrl": "https://www.remar.se/daniel/herocore.php",
+      "status": "Released",
+      "kind": "Browser / desktop game",
+      "free": true,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "platforms": [],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": 2010,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://www.remargames.se/herocore.php",
+          "provider": "Official site",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.remargames.se/herocore.php",
+          "provider": "Official site",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://www.remargames.se/siteimg/socials_bs.png",
+          "thumbnail": "https://www.remargames.se/siteimg/socials_bs.png",
+          "sourceUrl": "https://www.remargames.se/herocore.php",
+          "credit": "Creator / Official site",
+          "alt": "Hero Core official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.remargames.se/siteimg/socials_yt.png",
+          "thumbnail": "https://www.remargames.se/siteimg/socials_yt.png",
+          "sourceUrl": "https://www.remargames.se/herocore.php",
+          "credit": "Creator / Official site",
+          "alt": "Hero Core official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.remargames.se/games/herocore1.jpg",
+          "thumbnail": "https://www.remargames.se/games/herocore1.jpg",
+          "sourceUrl": "https://www.remargames.se/herocore.php",
+          "credit": "Creator / Official site",
+          "alt": "Hero Core official image",
+          "verified": true
+        },
+        {
+          "src": "https://www.remargames.se/games/herocore2.gif",
+          "thumbnail": "https://www.remargames.se/games/herocore2.gif",
+          "sourceUrl": "https://www.remargames.se/herocore.php",
+          "credit": "Creator / Official site",
+          "alt": "Hero Core official image",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "youtube": "Cu_xdCHdSqg",
+          "name": "Creator-published video",
+          "sourceUrl": "https://www.remargames.se/herocore.php",
+          "watchUrl": "https://www.youtube.com/watch?v=Cu_xdCHdSqg",
+          "poster": "https://www.remargames.se/siteimg/socials_pa.png"
+        }
+      ],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Remar Games",
+          "youtube": [
+            "Cu_xdCHdSqg"
+          ],
+          "nativeRating": null,
+          "sourceUrl": "https://www.remargames.se/herocore.php",
+          "pageHash": "dcdd85d8bca5e5f347de86cf753e13fae6706f8943dcc920850145fcb8731c1a",
+          "description": "Remar Games Remar Games News Games Game guides Resources Doom II levels Quake levels UT99 levels SMM2 levels DDR Simfiles Comics Pics Ludosity games About/FAQ Links ﻿ Games Hero Core Genre: Action/Exploration Content: Mild fantasy violence Original release: 2010 Download Version 1.5 (11 July 2021) The download contains two versions of the game for maximum compatibility. If one doesn't work, please try the other. Watch trailer Flip Hero returns for the final battle against his nemesis Cruiser Tetron - but can he really stop the reign of the machine warlord for all time? Like the first game, the controls are simple and the gameplay is easy to learn. The non-linear game world allows you to tackle the boss machines in nearly any order, or head straight for Tetron's headquarters if you know how. The \"Normal\" difficulty is about as tough as the first Hero, while \"Hard\" features a different game world and enemy patterns that will tax even the veterans. You can also turn off the map and hint system for an extra challenge. Beating the game on either difficulty unlocks a bonus screen with additional features, game modes, maps etc. Thanks to Brother Android for the game's music! You can also download the soundtrack on his page. Back to the games menu Other versions Mac Version 1.3 (14 May 2012) ported by Leon Arnott",
+          "outbound": [
+            {
+              "url": "https://www.patreon.com/remargames",
+              "label": ""
+            }
+          ]
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://www.remargames.se/siteimg/socials_pa.png",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:castlevania-requiem",
+      "name": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
+      "seedName": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
+      "collection": "Console origins & genre landmarks",
+      "collections": [
+        "Console origins & genre landmarks"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 10,
+      "summary": "An official modern route to Symphony of the Night, bundled with the stage-based Rondo of Blood. One collection record, with both games searchable.",
+      "curatorWhy": "An official modern route to Symphony of the Night, bundled with the stage-based Rondo of Blood. One collection record, with both games searchable.",
+      "genreScope": "Metroidvania collection / mixed formats",
+      "requirements": "PlayStation edition. Rondo of Blood is a stage-based action game, not a Metroidvania; Symphony of the Night is the exploration recommendation.",
+      "provider": "PlayStation",
+      "primaryUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+      "status": "Released",
+      "kind": "Console game",
+      "free": false,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Metroidvania collection / mixed formats"
+      ],
+      "platforms": [
+        "PlayStation 4",
+        "PlayStation 5 backward compatibility"
+      ],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "2018",
+      "releaseYear": 2018,
+      "originalReleaseYear": 1997,
+      "aliases": [
+        "Castlevania: Symphony of the Night",
+        "Symphony of the Night",
+        "Castlevania: Rondo of Blood"
+      ],
+      "storefronts": [
+        {
+          "url": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "provider": "PlayStation",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        },
+        {
+          "url": "https://www.konami.com/games/us/en/topics/1190/",
+          "provider": "Konami",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "provider": "PlayStation",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        },
+        {
+          "url": "https://www.konami.com/games/us/en/topics/1190/",
+          "provider": "Konami",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/pDpTfEI9XZw40gWCXGRQa3VA2gutIvXv.jpg",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/pDpTfEI9XZw40gWCXGRQa3VA2gutIvXv.jpg",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTBXuArZjqPMlhDqfXhFVV/PREVIEW_SCREENSHOT1_169436.jpg?w=54&thumb=true",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTBXuArZjqPMlhDqfXhFVV/PREVIEW_SCREENSHOT1_169436.jpg?w=54&thumb=true",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTBXuArZjqPMlhDqfXhFVV/PREVIEW_SCREENSHOT1_169436.jpg",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTBXuArZjqPMlhDqfXhFVV/PREVIEW_SCREENSHOT1_169436.jpg",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTDLt8uYjyWJTZPFs4P2Kh/PREVIEW_SCREENSHOT2_169436.jpg?w=54&thumb=true",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTDLt8uYjyWJTZPFs4P2Kh/PREVIEW_SCREENSHOT2_169436.jpg?w=54&thumb=true",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTDLt8uYjyWJTZPFs4P2Kh/PREVIEW_SCREENSHOT2_169436.jpg",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTDLt8uYjyWJTZPFs4P2Kh/PREVIEW_SCREENSHOT2_169436.jpg",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTcu6Jvzwsk5pvXP7qb2UY/PREVIEW_SCREENSHOT3_169436.jpg?w=54&thumb=true",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTcu6Jvzwsk5pvXP7qb2UY/PREVIEW_SCREENSHOT3_169436.jpg?w=54&thumb=true",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTcu6Jvzwsk5pvXP7qb2UY/PREVIEW_SCREENSHOT3_169436.jpg",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTcu6Jvzwsk5pvXP7qb2UY/PREVIEW_SCREENSHOT3_169436.jpg",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENToOL1ytVmDqm9SzElg9fy/PREVIEW_SCREENSHOT4_169436.jpg?w=54&thumb=true",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENToOL1ytVmDqm9SzElg9fy/PREVIEW_SCREENSHOT4_169436.jpg?w=54&thumb=true",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENToOL1ytVmDqm9SzElg9fy/PREVIEW_SCREENSHOT4_169436.jpg",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENToOL1ytVmDqm9SzElg9fy/PREVIEW_SCREENSHOT4_169436.jpg",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTK0cwc8vdqeAXT6QiOJ5A/PREVIEW_SCREENSHOT5_169436.jpg?w=54&thumb=true",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTK0cwc8vdqeAXT6QiOJ5A/PREVIEW_SCREENSHOT5_169436.jpg?w=54&thumb=true",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTK0cwc8vdqeAXT6QiOJ5A/PREVIEW_SCREENSHOT5_169436.jpg",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTK0cwc8vdqeAXT6QiOJ5A/PREVIEW_SCREENSHOT5_169436.jpg",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTCnTZu6rLLrXkq2R5G0SU/PREVIEW_SCREENSHOT6_169436.jpg?w=54&thumb=true",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTCnTZu6rLLrXkq2R5G0SU/PREVIEW_SCREENSHOT6_169436.jpg?w=54&thumb=true",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTCnTZu6rLLrXkq2R5G0SU/PREVIEW_SCREENSHOT6_169436.jpg",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTCnTZu6rLLrXkq2R5G0SU/PREVIEW_SCREENSHOT6_169436.jpg",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTesbuuJYp9eQQjXiZ9Urc/PREVIEW_SCREENSHOT7_169436.jpg?w=54&thumb=true",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTesbuuJYp9eQQjXiZ9Urc/PREVIEW_SCREENSHOT7_169436.jpg?w=54&thumb=true",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTesbuuJYp9eQQjXiZ9Urc/PREVIEW_SCREENSHOT7_169436.jpg",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTesbuuJYp9eQQjXiZ9Urc/PREVIEW_SCREENSHOT7_169436.jpg",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTwkxU9TsoU0qqIecTKxRt/PREVIEW_SCREENSHOT8_169436.jpg?w=54&thumb=true",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTwkxU9TsoU0qqIecTKxRt/PREVIEW_SCREENSHOT8_169436.jpg?w=54&thumb=true",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTwkxU9TsoU0qqIecTKxRt/PREVIEW_SCREENSHOT8_169436.jpg",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTwkxU9TsoU0qqIecTKxRt/PREVIEW_SCREENSHOT8_169436.jpg",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENT1xA0NtY7zrtYMr8oNPGM/PREVIEW_SCREENSHOT9_169436.jpg?w=54&thumb=true",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENT1xA0NtY7zrtYMr8oNPGM/PREVIEW_SCREENSHOT9_169436.jpg?w=54&thumb=true",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENT1xA0NtY7zrtYMr8oNPGM/PREVIEW_SCREENSHOT9_169436.jpg",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENT1xA0NtY7zrtYMr8oNPGM/PREVIEW_SCREENSHOT9_169436.jpg",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTp0V7Als9IvRcQYvWX8XO/PREVIEW_SCREENSHOT10_169436.jpg?w=54&thumb=true",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTp0V7Als9IvRcQYvWX8XO/PREVIEW_SCREENSHOT10_169436.jpg?w=54&thumb=true",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        },
+        {
+          "src": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTp0V7Als9IvRcQYvWX8XO/PREVIEW_SCREENSHOT10_169436.jpg",
+          "thumbnail": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/FREE_CONTENTp0V7Als9IvRcQYvWX8XO/PREVIEW_SCREENSHOT10_169436.jpg",
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "credit": "Creator / PlayStation",
+          "alt": "Castlevania Requiem: Symphony of the Night & Rondo of Blood official image",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "youtube": "jm9KHCFedAc",
+          "name": "Creator-published video",
+          "sourceUrl": "https://www.konami.com/games/us/en/topics/1190/",
+          "watchUrl": "https://www.youtube.com/watch?v=jm9KHCFedAc",
+          "poster": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/pDpTfEI9XZw40gWCXGRQa3VA2gutIvXv.jpg?w=54&thumb=true"
+        }
+      ],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
+          "youtube": [],
+          "nativeRating": null,
+          "sourceUrl": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+          "pageHash": "8c41df30b61bbf1f9c7d1741ddfabb3513a79ece06f10b035b5e45b9e680e4db",
+          "description": "Castlevania Requiem: Symphony of the Night & Rondo of Blood Search Latest Collections Deals Subscriptions Browse Castlevania Requiem: Symphony of the Night & Rondo of Blood KONAMI PS4 Average rating 4.69 stars out of five stars from 13K ratings 4.69 13K ratings $19.99 Add to Cart Add to Wishlist Add to Cart Add to Wishlist 1 player Remote Play supported PS4 Version DUALSHOCK 4 vibration Blood and Gore, Partial Nudity, Violence 1 player Remote Play supported PS4 Version DUALSHOCK 4 vibration Ratings and reviews Global player ratings 4.69 Average rating 4.69 stars out of five stars from 13385 ratings 13385 ratings 85% 8% 2% 1% 4% Editions: All Editions Filter by: All Reviews 5 Stars 4 Stars 3 Stars 2 Stars 1 Star Sort by: Most Recent Most Helpful Every review comes from a verified owner of this game or item and is evaluated by a team of moderators. Check the Ratings and Reviews Policy for more details. There aren't any matching reviews. Try a different search combination. Castlevania Requiem: Symphony of the Night & Rondo of Blood Sign In to Rate Share your thoughts and help other players in the community. 'Castlevania: Rondo of Blood', first released in 1993 and 'Castlevania: Symphony of the Night', first released in 1997 are now available in one combined package for the PS4! Experience two of the greatest games from the famous Castlevania series. Make your way to the top of Dracula's castle as Richter Belmont, descendant of the famed clan of vampire hunters, in 'Rondo of Blood', or take the leading role as Dracula's son Alucard in 'Symphony of the Night'. Enjoy the unique world, the epic classical background music, and the side-scrolling action of the Castlevania series! Platform: PS4 Release: 10/26/2018 Publisher: KONAMI Genres: Action To play this game on PS5, your system may need to be updated to the latest system software. Although this game is playable on PS5, some features available on PS4 may be absent. See PlayStation.com/bc for more details. Online features require an account for PlayStation and are subject to terms of service and applicable privacy policy (playstation.com/Terms and playstation.com/legal/privacy-policy). Software subject to license (us.playstation.com/softwarelicense). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account. © Konami Digital Entertainment Published by Konami Digital Entertainment Co., Ltd.",
+          "outbound": [
+            {
+              "url": "https://store.playstation.com/en-us/pages/latest",
+              "label": ""
+            },
+            {
+              "url": "https://store.playstation.com/en-us/pages/latest",
+              "label": "Latest"
+            },
+            {
+              "url": "https://store.playstation.com/en-us/pages/collections",
+              "label": "Collections"
+            },
+            {
+              "url": "https://store.playstation.com/en-us/pages/deals",
+              "label": "Deals"
+            },
+            {
+              "url": "https://store.playstation.com/en-us/pages/subscriptions",
+              "label": "Subscriptions"
+            },
+            {
+              "url": "https://store.playstation.com/en-us/pages/browse",
+              "label": "Browse"
+            },
+            {
+              "url": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001#star-rating",
+              "label": "Average rating 4.69 stars out of five stars from 13K ratings 4.69 13K ratings"
+            },
+            {
+              "url": "https://www.playstation.com/legal/reviews-policy/",
+              "label": "Ratings and Reviews Policy"
+            }
+          ]
+        },
+        {
+          "title": "CASTLEVANIA REQUIEM: SYMPHONY OF THE NIGHT AND RONDO OF BLOOD NOW AVAILABLE ON THE PLAYSTATION®STORE | Konami Digital Entertainment,Inc.",
+          "youtube": [
+            "jm9KHCFedAc"
+          ],
+          "nativeRating": null,
+          "sourceUrl": "https://www.konami.com/games/us/en/topics/1190/",
+          "pageHash": "88e9b8168dc73391de265f425e0b194bd86038b2dbc070380fb1ddbef4c3fa8d",
+          "description": "CASTLEVANIA REQUIEM: SYMPHONY OF THE NIGHT AND RONDO OF BLOOD NOW AVAILABLE ON THE PLAYSTATION®STORE 10.26.2018 10:00 Konami Digital Entertainment, Inc. announced today that Castlevania Requiem: Symphony of the Night and Rondo of Blood is now available exclusively on PlayStation®Store. Castlevania Requiem: Symphony of the Night and Rondo of Blood is a bundle of the classic titles, but re-formatted to feature modern game elements. Fans can experience the saga of the whip-cracking, vampire hunting Belmont Clan through several updates, including 4K/1080p upscaling, multiple high resolution backgrounds, different rendering options, Trophies, as well as other enhanced elements. Fans can also be excited to learn that both English and Japanese voice options are now available for the first time in Castlevania: Symphony of the Night. In conjunction with the game’s release, Season 2 of the Netflix original, Castlevania, also launches today. To watch the latest trailer or for more information, visit: http://www.netflix.com/castlevania . Castlevania Requiem: Symphony of the Night and Rondo of Blood is available now at SRP $19.99 USD exclusively on PlayStation®Store at https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001 . Official trailer: https://youtu.be/jm9KHCFedAc For more information visit: www.konami.com/games/castlevania .",
+          "outbound": [
+            {
+              "url": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+              "label": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001"
+            }
+          ]
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/pDpTfEI9XZw40gWCXGRQa3VA2gutIvXv.jpg?w=54&thumb=true",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:metroid-dread",
+      "name": "Metroid Dread",
+      "seedName": "Metroid Dread",
+      "collection": "Console origins & genre landmarks",
+      "collections": [
+        "Console origins & genre landmarks"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 10,
+      "summary": "A modern 2D genre benchmark with fluid movement and high-pressure encounters. Kept on an explicitly console-only shelf, not passed off as a Steam game.",
+      "curatorWhy": "A modern 2D genre benchmark with fluid movement and high-pressure encounters. Kept on an explicitly console-only shelf, not passed off as a Steam game.",
+      "genreScope": "Traditional Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "Nintendo",
+      "primaryUrl": "https://metroid.nintendo.com/dread/",
+      "status": "Released",
+      "kind": "Console game",
+      "free": false,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "Traditional Metroidvania"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "2021",
+      "releaseYear": 2021,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "provider": "Nintendo",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Metroid™ Dread for Nintendo Switch - Nintendo Official Site",
+          "youtube": [],
+          "nativeRating": null,
+          "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+          "pageHash": "61b9996cfd7d2ae107c1b8b52915038e11ab29c9d055c4f59148893f731849ca",
+          "description": "Metroid™ Dread for Nintendo Switch - Nintendo Official Site Skip to main content Nintendo Nintendo Slide 1 of 12 Game Voucher eligible Animated Blood, Fantasy Violence Nintendo Switch 2 Compatibility Information Supported – Game behavior is consistent with Nintendo Switch. Games Metroid™ Dread Version Nintendo Switch Edition Digital Animated Blood, Fantasy Violence Loading Redeem a Nintendo Switch Game Voucher Nintendo Switch 2 Compatibility Information Supported – Game behavior is consistent with Nintendo Switch. Join bounty hunter Samus Aran as she tries to escape a deadly alien world in the critically-acclaimed Metroid Dread Upon investigating a mysterious transmission on Planet ZDR, Samus faces a mysterious foe that traps her in this dangerous world. The remote planet has been overrun by vicious alien lifeforms and murderous robots called E.M.M.I. Hunt or be hunted as you make your way through a labyrinth of enemies in Samus’ most intense side-scrolling adventure yet. Samus is more agile and capable than ever Guide Samus Aran, an intergalactic bounty hunter raised by an ancient tribe, and traverse the many environments of a dangerous world. Parkour over obstacles, slide through tight spaces, counter enemies, and battle your way through the planet. Through her countless missions, Samus has never experienced a threat like the dread of ZDR. Power up and find more ways to explore and secrets to uncover Gain abilities and return to previous areas to find new areas and hidden upgrades in classic Metroid™ gameplay. Planet ZDR’s sprawling map is home to many secrets to discover and powers to find. You’ll need to be prepared to evade and destroy E.M.M.I. robots and overcome the dread plaguing ZDR. New modes let you ease into ZDR, experience true dread, or take on a boss gauntlet If this is your first time sprinting and shooting as Samus, the new Rookie Mode increases health gained from items and decreases damage from bosses. Bounty Hunters looking for a true challenge can face the new Dread Mode, which can be unlocked if the Hard Mode is finished. Complete the game to unlock Boss Rush* and fight Samus’ most formidable foes one-after-another to try to get the best time possible! A new Samus amiibo™ figure featuring her suit from Metroid Dread and an E.M.M.I. amiibo figure are available in a 2-pack set. Scan the Samus amiibo for an extra energy tank to increase your health by 100; additionally, the Samus amiibo can be tapped again to receive health once per day. The E.M.M.I. amiibo grants Samus a Missile Plus tank, increasing her missile capacity by 10; additionally, the E.M.M.I. amiibo can be tapped again to replenish some missiles once per day. Software description provided by the publisher. Explore this game's official website Related tags Action Adventure Shooting Explore to open up new areas Play for the fastest time Show more About this item Game file size Nintendo Switch: 4.3 GB Nintendo Switch 2: 4.3 GB Supported play modes TV mode Tabletop mode Handheld mode Software compatibility and play experience may differ on Nintendo Switch Lite. Additional accessories may be required(sold separately). See support for details. No. of players Single system (1) Nintendo Account family-group lending Supported Nintendo Switch Online Save Data Cloud Play online, access classic NES™ and Super NES™ games, and more with a Nintendo Switch Online membership. Learn more System Nintendo Switch Publisher Nintendo Supported languages Japanese, French, German, Italian, Spanish, Korean, Dutch, Russian, Simplified Chinese, Latin American Spanish, Canadian French, Traditional Chinese, American English Release date October 8, 2021 ESRB rating Animated Blood, Fantasy Violence About Supported Features This software supports the following features and accessories: - amiibo - Surround sound (linear PCM) More like this Metroid Prime™ 4: Beyond 12/4/25 Regular Price: $59.99 Games Metroid Prime™ Remastered 2/8/23 Regular Price: $39.99 Games Mina the Hollower 5/29/26 Regular Price: $19.99 Games Castlevania Dominus Collection 8/27/24 Regular Price: $24.99 Games Axiom Verge 2 8/11/21 Regular Price: $19.99 Games Cyber Shadow 1/26/21 Regular Price: $19.99 Games The Messenger 8/30/18 Regular Price: $19.99 Games Blaster Master Zero 2 3/20/19 Regular Price: $9.99 Games Gato Roboto 5/30/19 Regular Price: $7.99 Games A Robot Named Fight 4/26/18 Regular Price: $12.99 Games Timespinner 6/4/19 Regular Price: $19.99 Games Bloodstained: Curse of the Moon 5/24/18 Regular Price: $9.99 Games Iconoclasts 8/2/18 Sale ends: Current Price: $3.99 Regular Price: $19.99 -80% Games Bloodstained: Curse of the Moon 2 7/10/20 Regular Price: $14.99 Games NINJA GAIDEN: Ragebound 7/31/25 Regular Price: $24.99 Games Shantae and the Seven Sirens 5/28/20 Regular Price: $29.99 Games WARNING: If you have epilepsy or have had seizures or other unusual reactions to flashing lights or patterns, consult a doctor before playing video games. All users should read the Health and Safety Information available in the system settings before using this software.",
+          "outbound": [
+            {
+              "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/#main",
+              "label": "Skip to main content"
+            },
+            {
+              "url": "https://www.nintendo.com/",
+              "label": "Nintendo"
+            },
+            {
+              "url": "https://www.nintendo.com/us/",
+              "label": "Nintendo"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/",
+              "label": ""
+            },
+            {
+              "url": "https://www.nintendo.com/region-selector/",
+              "label": ""
+            },
+            {
+              "url": "https://ec.nintendo.com/title_purchase_confirm?title=70010000042924&v_loggedin=false&v_currency=USD&v_price=59.99&v_country=US",
+              "label": "Loading"
+            },
+            {
+              "url": "https://ec.nintendo.com/use_preticket_confirm?pt_right_id=21&target=70010000042924",
+              "label": "Redeem a Nintendo Switch Game Voucher"
+            },
+            {
+              "url": "https://metroid.nintendo.com/",
+              "label": "Explore this game's official website"
+            },
+            {
+              "url": "https://www.nintendo.com/store/games/tags/action-games/",
+              "label": "Action"
+            },
+            {
+              "url": "https://www.nintendo.com/store/games/tags/adventure-games/",
+              "label": "Adventure"
+            },
+            {
+              "url": "https://www.nintendo.com/store/games/tags/shooting-games/",
+              "label": "Shooting"
+            },
+            {
+              "url": "https://www.nintendo.com/store/games/tags/games-where-you-explore-to-open-up-areas/",
+              "label": "Explore to open up new areas"
+            },
+            {
+              "url": "https://www.nintendo.com/store/games/tags/play-for-fastest-time-games/",
+              "label": "Play for the fastest time"
+            },
+            {
+              "url": "https://www.nintendo.com/us/search/#cat=gme&f=playerCount&playerCount=Single%20Player",
+              "label": "Single system (1)"
+            },
+            {
+              "url": "https://www.nintendo.com/us/switch/online/",
+              "label": "Save Data Cloud"
+            },
+            {
+              "url": "https://www.nintendo.com/switch/online/",
+              "label": "Learn more"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/games/#p=1&sort=df&show=0&f=corePlatforms&corePlatforms=Nintendo+Switch",
+              "label": "Nintendo Switch"
+            },
+            {
+              "url": "https://www.nintendo.com/us/search/#cat=gme&f=softwarePublisher&softwarePublisher=Nintendo",
+              "label": "Nintendo"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/",
+              "label": "Metroid Prime™ 4: Beyond 12/4/25 Regular Price: $59.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/",
+              "label": "Metroid Prime™ Remastered 2/8/23 Regular Price: $39.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/mina-the-hollower-switch/",
+              "label": "Mina the Hollower 5/29/26 Regular Price: $19.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/castlevania-dominus-collection-switch/",
+              "label": "Castlevania Dominus Collection 8/27/24 Regular Price: $24.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/axiom-verge-2-switch/",
+              "label": "Axiom Verge 2 8/11/21 Regular Price: $19.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/cyber-shadow-switch/",
+              "label": "Cyber Shadow 1/26/21 Regular Price: $19.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/the-messenger-switch/",
+              "label": "The Messenger 8/30/18 Regular Price: $19.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/blaster-master-zero-2-switch/",
+              "label": "Blaster Master Zero 2 3/20/19 Regular Price: $9.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/gato-roboto-switch/",
+              "label": "Gato Roboto 5/30/19 Regular Price: $7.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/a-robot-named-fight-switch/",
+              "label": "A Robot Named Fight 4/26/18 Regular Price: $12.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/timespinner-switch/",
+              "label": "Timespinner 6/4/19 Regular Price: $19.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/bloodstained-curse-of-the-moon-switch/",
+              "label": "Bloodstained: Curse of the Moon 5/24/18 Regular Price: $9.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/iconoclasts-switch/",
+              "label": "Iconoclasts 8/2/18 Sale ends: Current Price: $3.99 Regular Price: $19.99 -80% Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/bloodstained-curse-of-the-moon-2-switch/",
+              "label": "Bloodstained: Curse of the Moon 2 7/10/20 Regular Price: $14.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/ninja-gaiden-ragebound-switch/",
+              "label": "NINJA GAIDEN: Ragebound 7/31/25 Regular Price: $24.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/shantae-and-the-seven-sirens-switch/",
+              "label": "Shantae and the Seven Sirens 5/28/20 Regular Price: $29.99 Games"
+            }
+          ]
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2",
+      "mediaErrors": [
+        {
+          "url": "https://metroid.nintendo.com/dread/",
+          "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>"
+        }
+      ],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:metroid-prime-remastered",
+      "name": "Metroid Prime Remastered",
+      "seedName": "Metroid Prime Remastered",
+      "collection": "Console origins & genre landmarks",
+      "collections": [
+        "Console origins & genre landmarks"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 10,
+      "summary": "First-person exploration, scanning and interconnected alien environments. An official console remaster of a genre cornerstone.",
+      "curatorWhy": "First-person exploration, scanning and interconnected alien environments. An official console remaster of a genre cornerstone.",
+      "genreScope": "3D Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "Nintendo",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/",
+      "status": "Released",
+      "kind": "Console game",
+      "free": false,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "3D Metroidvania"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "2023",
+      "releaseYear": 2023,
+      "originalReleaseYear": 2002,
+      "aliases": [],
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/",
+          "provider": "Nintendo",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:11:08.107674+00:00"
+        }
+      ],
+      "screenshots": [],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [
+        {
+          "title": "Metroid Prime™ Remastered for Nintendo Switch - Nintendo Official Site",
+          "youtube": [],
+          "nativeRating": null,
+          "sourceUrl": "https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/",
+          "pageHash": "378658d71ea4ccfa5bfe73924e38f8c4ea3db1c0ad671d73f8e56947c6f11639",
+          "description": "Metroid Prime™ Remastered for Nintendo Switch - Nintendo Official Site Skip to main content Nintendo Nintendo Slide 1 of 9 Animated Blood, Violence Nintendo Switch 2 Compatibility Information Supported – Game behavior is consistent with Nintendo Switch. Games Metroid Prime™ Remastered Version Nintendo Switch Select an edition Digital - Metroid Prime™ Remastered Animated Blood, Violence Loading Nintendo Switch 2 Compatibility Information Supported – Game behavior is consistent with Nintendo Switch. Suit up for an iconic adventure Intergalactic bounty hunter Samus Aran receives a distress signal from a wrecked frigate in orbit around planet Tallon IV. Upon investigation, the frigate reveals itself to be a Space Pirate research vessel home to terrifying genetic experiments using the mysterious Phazon substance. There, Samus encounters her nemesis, Meta Ridley, whom she pursues to the surface of Tallon IV. It’s up to her alone to explore the planet’s interconnected regions, investigate its dark secrets, and end the intergalactic threat posed by Phazon. Experience this critically acclaimed first-person adventure like never before with remastered visuals, audio, controls, and more. Tools of the Hunter Trained as a warrior and infused with Chozo DNA, the indomitable Samus Aran patrols the galaxy as a feared freelance bounty hunter. Explore some of the Chozo-created weapons and abilities Samus has at her fingertips on this adventure. Power Suit An advanced Chozo exoskeleton modified for use by Samus Aran, the Power Suit provides life-support functions and is well shielded from attack. The modular nature of the Power Suit allows for the addition of weapons, Visors, climate resistance, and other gear as needed. Visors Signature abilities of the Metroid Prime series, the Power Suit’s selectable user interfaces help Samus analyze and interact with the world around her. The Scan Visor allows Samus to investigate objects and enemies from an accumulated database. Upgrades like the Thermal Visor and X-ray Visor allow Samus to see her environment in new ways. Arm Cannon Samus’ main weapon converts her bioenergy into a Beam, which can be fired rapidly or charged up for greater power. Upgrades like explosive Missiles, the electrified Wave Beam, and others can expand her arsenal in essential ways. Many doors can only be unlocked with specific Arm Cannon abilities. Morph Ball Samus can transform into Morph Ball form—approximately one meter in diameter—to roll through narrow passages and other hard-to-reach areas. Like the Power Suit, the Morph Ball is modular. There are several modifications that can be added to improve performance, including the Bomb attack and Boost Ball maneuver. Explore in eerie isolation Journey through the diverse biomes of planet Tallon IV as you uncover the Space Pirates’ sinister experiments and gather information about the toxic substance that left the planet in ruin. Slide 1 of undefined Awe-inspiring landscapes From the quiet stillness of the snowy Phendrana Drifts to the magma geysers of Magmoor Caverns, this alien planet introduces beautifully harsh landscapes and labyrinths. Scan your surroundings When exploring, the Power Suit visor can interface with machines or uncover helpful information about Tallon IV’s mysterious history. In combat, scanning an enemy can help reveal their weak points. Interconnected world As you acquire abilities, revisit areas to uncover different routes and secrets hiding in a beautiful-yet-threatening interconnected world. Take on extraterrestrial terrors Research some of the deadly forces that Samus encounters on her adventure. Slide 1 of undefined Meta Ridley Reborn and evolved through Space Pirate technology, Meta Ridley is a fearsome enforcer with several potent weapons fused to it. Meta Ridley is also a formidable melee combatant, making any sort of engagement a risky proposition. Space Pirates This species seeks to become the dominant force in the galaxy and pursue technology to help them realize this goal. Ruthless and amoral, the Space Pirates care little for the cost of their ambition. Tallon Metroid The effects of Phazon have turned these Metroids—a species of alpha predator native to SR388—into a unique subspecies found only on Tallon IV. A Tallon Metroid will latch onto its prey and drain energy, growing larger as it does. Parasite Queen A parasite that has undergone radical mutations due to Space Pirate bioengineering experiments. As a result, its body grew larger by orders of magnitude, and it can fire beam-shaped energy from its mouth. Remastered for Nintendo Switch New improvements help Samus Aran’s first-person-adventure debut reach greater heights. Revamped visuals and sound See—and hear—the classic first-person adventure in a new way with high-definition visuals and modernized, nostalgic audio. New (and classic) controls Experience Tallon IV with modern dual-analog controls for the first time, as well as nostalgic setups inspired by the original Metroid Prime game for the Nintendo GameCube™ system and the Metroid Prime: Trilogy games for the Nintendo Wii™ system. Multiple difficulty options The Casual difficulty reduces the amount of damage Samus takes in combat, helping you worry less about fighting to focus on exploring. Bonus content Unlock art created during the development of the original game as well as this remaster, a Soundtrack Gallery, and a 3D Character Gallery. Related news and events 12/05/25 Metroid Prime 1–3: A Visual Retrospective artbook is available now Read more Related tags Action Adventure Shooting Choose your difficulty Explore to open up new areas First-person Motion controls Show more About this item Game file size Nintendo Switch: 6.8 GB Nintendo Switch 2: 6.8 GB Supported play modes TV mode Tabletop mode Handheld mode Software compatibility and play experience may differ on Nintendo Switch Lite. Additional accessories may be required(sold separately). See support for details. No. of players Single system (1) Nintendo Account family-group lending Supported Nintendo Switch Online Save Data Cloud Play online, access classic NES™ and Super NES™ games, and more with a Nintendo Switch Online membership. Learn more System Nintendo Switch Publisher Nintendo Supported languages Japanese, British English, French, German, Italian, Spanish, Korean, Dutch, Simplified Chinese, Latin American Spanish, Canadian French, Traditional Chinese, American English Release date February 8, 2023 ESRB rating Animated Blood, Violence About Supported Features This software supports the following features and accessories: - Surround sound (linear PCM) More like this Metroid Prime™ 4: Beyond 12/4/25 Regular Price: $59.99 Games Castlevania Dominus Collection 8/27/24 Regular Price: $24.99 Games Mina the Hollower 5/29/26 Regular Price: $19.99 Games Axiom Verge 2 8/11/21 Regular Price: $19.99 Games Cyber Shadow 1/26/21 Regular Price: $19.99 Games Fast Fusion 6/5/25 Sale ends: Current Price: $9.99 Regular Price: $14.99 -33% Games Castlevania Advance Collection 9/23/21 Regular Price: $19.99 Games Metroid™ Dread 10/8/21 Free demo Regular Price: $59.99 Games NINJA GAIDEN: Ragebound 7/31/25 Regular Price: $24.99 Games Blaster Master Zero 2 3/20/19 Regular Price: $9.99 Games Bloodstained: Curse of the Moon 2 7/10/20 Regular Price: $14.99 Games Shadow Labyrinth Nintendo Switch™ 2 Edition 7/18/25 Sale ends: Current Price: $14.99 Regular Price: $29.99 -50% Games SHINOBI: Art of Vengeance 8/29/25 Free demo Regular Price: $29.99 Games Yooka-Replaylee 10/9/25 Free demo Regular Price: $29.99 Games Panzer Dragoon: Remake 3/26/20 Regular Price: $24.99 Games UFO 50 8/7/25 Sale ends: Current Price: $18.74 Regular Price: $24.99 -25% Games WARNING: If you have epilepsy or have had seizures or other unusual reactions to flashing lights or patterns, consult a doctor before playing video games. All users should read the Health and Safety Information available in the system settings before using this software.",
+          "outbound": [
+            {
+              "url": "https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/#main",
+              "label": "Skip to main content"
+            },
+            {
+              "url": "https://www.nintendo.com/",
+              "label": "Nintendo"
+            },
+            {
+              "url": "https://www.nintendo.com/us/",
+              "label": "Nintendo"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/",
+              "label": ""
+            },
+            {
+              "url": "https://www.nintendo.com/region-selector/",
+              "label": ""
+            },
+            {
+              "url": "https://ec.nintendo.com/title_purchase_confirm?title=70010000063709&v_loggedin=false&v_currency=USD&v_price=39.99&v_country=US",
+              "label": "Loading"
+            },
+            {
+              "url": "https://www.nintendo.com/us/whatsnew/metroid-prime-1-3-a-visual-retrospective-artbook-arrives-on-oct-28/",
+              "label": "12/05/25 Metroid Prime 1–3: A Visual Retrospective artbook is available now Read more"
+            },
+            {
+              "url": "https://www.nintendo.com/store/games/tags/action-games/",
+              "label": "Action"
+            },
+            {
+              "url": "https://www.nintendo.com/store/games/tags/adventure-games/",
+              "label": "Adventure"
+            },
+            {
+              "url": "https://www.nintendo.com/store/games/tags/shooting-games/",
+              "label": "Shooting"
+            },
+            {
+              "url": "https://www.nintendo.com/store/games/tags/choose-your-difficulty-games/",
+              "label": "Choose your difficulty"
+            },
+            {
+              "url": "https://www.nintendo.com/store/games/tags/games-where-you-explore-to-open-up-areas/",
+              "label": "Explore to open up new areas"
+            },
+            {
+              "url": "https://www.nintendo.com/store/games/tags/first-person-games/",
+              "label": "First-person"
+            },
+            {
+              "url": "https://www.nintendo.com/store/games/tags/motion-control-games/",
+              "label": "Motion controls"
+            },
+            {
+              "url": "https://www.nintendo.com/us/search/#cat=gme&f=playerCount&playerCount=Single%20Player",
+              "label": "Single system (1)"
+            },
+            {
+              "url": "https://www.nintendo.com/us/switch/online/",
+              "label": "Save Data Cloud"
+            },
+            {
+              "url": "https://www.nintendo.com/switch/online/",
+              "label": "Learn more"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/games/#p=1&sort=df&show=0&f=corePlatforms&corePlatforms=Nintendo+Switch",
+              "label": "Nintendo Switch"
+            },
+            {
+              "url": "https://www.nintendo.com/us/search/#cat=gme&f=softwarePublisher&softwarePublisher=Nintendo",
+              "label": "Nintendo"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/",
+              "label": "Metroid Prime™ 4: Beyond 12/4/25 Regular Price: $59.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/castlevania-dominus-collection-switch/",
+              "label": "Castlevania Dominus Collection 8/27/24 Regular Price: $24.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/mina-the-hollower-switch/",
+              "label": "Mina the Hollower 5/29/26 Regular Price: $19.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/axiom-verge-2-switch/",
+              "label": "Axiom Verge 2 8/11/21 Regular Price: $19.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/cyber-shadow-switch/",
+              "label": "Cyber Shadow 1/26/21 Regular Price: $19.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/fast-fusion-switch-2/",
+              "label": "Fast Fusion 6/5/25 Sale ends: Current Price: $9.99 Regular Price: $14.99 -33% Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/castlevania-advance-collection-switch/",
+              "label": "Castlevania Advance Collection 9/23/21 Regular Price: $19.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+              "label": "Metroid™ Dread 10/8/21 Free demo Regular Price: $59.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/ninja-gaiden-ragebound-switch/",
+              "label": "NINJA GAIDEN: Ragebound 7/31/25 Regular Price: $24.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/blaster-master-zero-2-switch/",
+              "label": "Blaster Master Zero 2 3/20/19 Regular Price: $9.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/bloodstained-curse-of-the-moon-2-switch/",
+              "label": "Bloodstained: Curse of the Moon 2 7/10/20 Regular Price: $14.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/shadow-labyrinth-nintendo-switch-2-edition-switch-2/",
+              "label": "Shadow Labyrinth Nintendo Switch™ 2 Edition 7/18/25 Sale ends: Current Price: $14.99 Regular Price: $29.99 -50% Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/shinobi-art-of-vengeance-switch/",
+              "label": "SHINOBI: Art of Vengeance 8/29/25 Free demo Regular Price: $29.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/yooka-replaylee-switch-2/",
+              "label": "Yooka-Replaylee 10/9/25 Free demo Regular Price: $29.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/panzer-dragoon-remake-switch/",
+              "label": "Panzer Dragoon: Remake 3/26/20 Regular Price: $24.99 Games"
+            },
+            {
+              "url": "https://www.nintendo.com/us/store/products/ufo-50-switch/",
+              "label": "UFO 50 8/7/25 Sale ends: Current Price: $18.74 Regular Price: $24.99 -25% Games"
+            }
+          ]
+        }
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T17:11:08.107674+00:00",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000063709/32b85837beea0eee31220a59e247219662de4011f7a8c18fce61cf99a4933eb7",
+      "mediaErrors": [],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    },
+    {
+      "id": "external:metroid-prime-4",
+      "name": "Metroid Prime 4: Beyond",
+      "seedName": "Metroid Prime 4: Beyond",
+      "collection": "Console origins & genre landmarks",
+      "collections": [
+        "Console origins & genre landmarks"
+      ],
+      "hubs": [
+        "Metroidvanias"
+      ],
+      "fit": 9,
+      "summary": "The newer first-person Metroid entry, cataloged through Nintendo rather than an invented PC edition.",
+      "curatorWhy": "The newer first-person Metroid entry, cataloged through Nintendo rather than an invented PC edition.",
+      "genreScope": "3D Metroidvania",
+      "requirements": "See the exact creator release for supported systems.",
+      "provider": "Nintendo",
+      "primaryUrl": "https://metroid.nintendo.com/prime-4-beyond/",
+      "status": "Released",
+      "kind": "Console game",
+      "free": false,
+      "comingSoon": false,
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Metroidvanias",
+        "3D Metroidvania"
+      ],
+      "platforms": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "developers": [],
+      "features": [],
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator release",
+      "releaseYear": null,
+      "originalReleaseYear": null,
+      "aliases": [],
+      "storefronts": [],
+      "sources": [],
+      "screenshots": [],
+      "trailers": [],
+      "warnings": [],
+      "mediaEvidence": [],
+      "verification": "unresolved",
+      "mediaErrors": [
+        {
+          "url": "https://metroid.nintendo.com/prime-4-beyond/",
+          "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>"
+        }
+      ],
+      "mediaCheckedAt": "2026-10-23T17:11:08.107674+00:00"
+    }
+  ]
+}

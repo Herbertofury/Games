@@ -1,0 +1,368 @@
+{
+  "generatedAt": "2026-10-23T17:11:08.107674+00:00",
+  "steam": 402,
+  "external": 20,
+  "sourceLinks": 175,
+  "missingArtwork": [
+    {
+      "id": "external:senescence-protocol",
+      "name": "Senescence Protocol",
+      "url": "https://lui421.itch.io/senescence-protocol"
+    },
+    {
+      "id": "external:fohh",
+      "name": "Fohh",
+      "url": "https://ismaelrodriguez.itch.io/fohh"
+    },
+    {
+      "id": "external:metroid-prime-4",
+      "name": "Metroid Prime 4: Beyond",
+      "url": "https://metroid.nintendo.com/prime-4-beyond/"
+    }
+  ],
+  "missingVideo": [
+    {
+      "id": "steam:1439960",
+      "name": "The Doomed Knight",
+      "url": "https://store.steampowered.com/app/1439960/"
+    },
+    {
+      "id": "external:necrowave",
+      "name": "Necrowave",
+      "url": "https://www.necrowave.com/"
+    },
+    {
+      "id": "external:reawakening",
+      "name": "Reawakening",
+      "url": "https://hatbird-games.itch.io/reawakening"
+    },
+    {
+      "id": "external:senescence-protocol",
+      "name": "Senescence Protocol",
+      "url": "https://lui421.itch.io/senescence-protocol"
+    },
+    {
+      "id": "external:spellsought",
+      "name": "Spellsought",
+      "url": "https://speedrockstrong.itch.io/spellsought"
+    },
+    {
+      "id": "external:peppermint",
+      "name": "Peppermint",
+      "url": "https://salmoone.itch.io/peppermint"
+    },
+    {
+      "id": "external:mongrel-story",
+      "name": "Mongrel Story",
+      "url": "https://mountainstork.itch.io/mongrel-story-demo"
+    },
+    {
+      "id": "external:block-neopolis",
+      "name": "BLOCK",
+      "url": "https://neopolis.itch.io/block"
+    },
+    {
+      "id": "external:fohh",
+      "name": "Fohh",
+      "url": "https://ismaelrodriguez.itch.io/fohh"
+    },
+    {
+      "id": "external:momodora-2",
+      "name": "Momodora II",
+      "url": "https://rdein.itch.io/momodora-ii"
+    },
+    {
+      "id": "external:lyle-cube-sector",
+      "name": "Lyle in Cube Sector",
+      "url": "https://www.bogozone.net/lyle.html"
+    },
+    {
+      "id": "external:metroid-dread",
+      "name": "Metroid Dread",
+      "url": "https://metroid.nintendo.com/dread/"
+    },
+    {
+      "id": "external:metroid-prime-remastered",
+      "name": "Metroid Prime Remastered",
+      "url": "https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/"
+    },
+    {
+      "id": "external:metroid-prime-4",
+      "name": "Metroid Prime 4: Beyond",
+      "url": "https://metroid.nintendo.com/prime-4-beyond/"
+    }
+  ],
+  "unresolved": [
+    {
+      "candidate": "Alice in Abyss",
+      "collection": "Combat, parries & beautiful worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Super Zangyura",
+      "collection": "Retro castles & pixel-art adventures",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "XeoDusk",
+      "collection": "Short, sweet & miniature worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Plague Huntress",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Savior",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 3609080,
+          "name": "StarSavior"
+        },
+        {
+          "appid": 4409740,
+          "name": "SaviorS : Oath of the Blade"
+        },
+        {
+          "appid": 372000,
+          "name": "Tree of Savior (English Ver.)"
+        },
+        {
+          "appid": 3158070,
+          "name": "Deadline Savior"
+        },
+        {
+          "appid": 3282040,
+          "name": "Stray Savior"
+        },
+        {
+          "appid": 3620430,
+          "name": "Astral Savior"
+        },
+        {
+          "appid": 4263440,
+          "name": "Dream Savior"
+        },
+        {
+          "appid": 1290770,
+          "name": "Mushroom Savior"
+        },
+        {
+          "appid": 871310,
+          "name": "Arc Savior"
+        },
+        {
+          "appid": 3173680,
+          "name": "Deadline Savior Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Sorrow of the Infernal",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Vigilant: The Lunar Rebellion",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Grim Symphony",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 1407810,
+          "name": "Fantasy Grounds - Pathfinder 2 RPG - Pathfinder Society Scenario #1-25: Grim Symphony"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Silhouette: Animal",
+      "collection": "Upcoming & playable demo watchlist",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Silhouette: Dawn of the Forest",
+      "collection": "Upcoming & playable demo watchlist",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "OVERHORIZON",
+      "collection": "Upcoming & playable demo watchlist",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Sunset Land",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 3818920,
+          "name": "The Sunset Land"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Distant Paradise",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "An Untitled Story",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Eagle Island",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 681110,
+          "name": "Eagle Island Twist"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "The Light of the Darkness",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 2490890,
+          "name": "The Light of the Darkness: Origins"
+        },
+        {
+          "appid": 1369430,
+          "name": "The Light of the Darkness: Renascence"
+        },
+        {
+          "appid": 2659260,
+          "name": "The Light of the Darkness: Origins DEMO"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Outland",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 2073220,
+          "name": "Outland Kingdoms"
+        },
+        {
+          "appid": 1361900,
+          "name": "Outland Rapture"
+        },
+        {
+          "appid": 4228480,
+          "name": "Rustborn - Outland Threat Prologue"
+        },
+        {
+          "appid": 3745430,
+          "name": "Rustborn - Outland Threat"
+        },
+        {
+          "appid": 2402530,
+          "name": "Outland Rogue - A Wicked but Serious RPG"
+        },
+        {
+          "appid": 3294060,
+          "name": "AN OUTLAND VILLAGE"
+        },
+        {
+          "appid": 4199480,
+          "name": "Outlanders - Exiles of Veridion"
+        },
+        {
+          "appid": 1766720,
+          "name": "Outlanders"
+        },
+        {
+          "appid": 862450,
+          "name": "Hand of Fate 2 - Outlands and Outsiders"
+        },
+        {
+          "appid": 4873850,
+          "name": "Outlanders VR"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Environmental Station Alpha 2",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Kotama&Academy Citadel",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Grime 2",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 2529790,
+          "name": "GRIME II"
+        },
+        {
+          "appid": 4025170,
+          "name": "GRIME II Demo"
+        },
+        {
+          "appid": 4557290,
+          "name": "GRIME II - Original Soundtrack"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Overon",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    }
+  ],
+  "itchSearchAvailable": true
+}
