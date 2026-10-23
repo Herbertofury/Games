@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [platformers-completion-2026-10-23]
-    paths: [scripts/resolve_platformer_videos.py, scripts/capture_platformer_classics.py, .github/workflows/platformer-video-resolution.yml]
+    paths: [scripts/resolve_platformer_videos.py, scripts/resolve_platformer_legacy.py, scripts/capture_platformer_classics.py, .github/workflows/platformer-video-resolution.yml]
 permissions:
   contents: read
 concurrency:
@@ -22,15 +22,18 @@ jobs:
         run: |
           python3 -m pip install -r requirements-dev.txt
           python3 scripts/resolve_platformer_videos.py
-      - name: Configure the actual browser
+      - name: Configure the actual browser and capture encoder
         run: |
+          python3 -m playwright install ffmpeg
           if command -v google-chrome >/dev/null; then
             echo "CHROMIUM_PATH=$(command -v google-chrome)" >> "$GITHUB_ENV"
           else
             python3 -m playwright install --with-deps chromium
           fi
-      - name: Capture public creator builds with explicit attribution
-        run: python3 scripts/capture_platformer_classics.py
+      - name: Observe legacy featured streams and capture public creator builds
+        run: |
+          python3 scripts/resolve_platformer_legacy.py
+          python3 scripts/capture_platformer_classics.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
