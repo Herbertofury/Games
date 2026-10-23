@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['site/**','scripts/**','tests/**','docs/UPDATING.md','.github/workflows/publish.yml']
+    paths: ['site/**','scripts/build.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','tests/**','docs/UPDATING.md','.github/workflows/publish.yml']
   workflow_run:
     workflows: ['Refresh Steam catalog','Add game recommendation','Install library source']
     types: [completed]
@@ -13,7 +13,7 @@ permissions:
   id-token: write
 concurrency:
   group: library-publish
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   build:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
@@ -43,6 +43,7 @@ jobs:
       - name: Real browser acceptance tests
         run: python3 tests/browser_qa.py
       - name: Verify actual official trailer playback and image decoding
+        timeout-minutes: 5
         run: python3 scripts/media_qa.py
       - name: Publish native wiki
         env:
@@ -68,6 +69,9 @@ jobs:
           cp qa/desktop.png docs/qa/desktop.png
           cp qa/mobile.png docs/qa/mobile.png
           cp qa/detail.png docs/qa/detail.png
+          TESTED_HTML_SHA=$(sha256sum dist/index.html | cut -d' ' -f1)
+          python3 scripts/build.py
+          test "$TESTED_HTML_SHA" = "$(sha256sum dist/index.html | cut -d' ' -f1)"
           git config user.name 'Games catalog bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add dist wiki data
