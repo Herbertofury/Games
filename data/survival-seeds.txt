@@ -1,0 +1,383 @@
+# Discovery candidates only. Every identity, current release, review and media source is verified before publication.
+# [hub|collection|fit|scope]. Optional name|fit|Steam ID|known name aliases (semicolon separated).
+[Survival|Shared-world adventures|10|Open-world survival crafting]
+Conan Exiles|10|440900|Conan Exiles Enhanced
+ARK: Survival Ascended|9|2399830
+ARK: Survival Evolved|9|346110
+Windrose|10|3041230|Crosswind
+Valheim|10|892970
+Enshrouded|10|1203620
+V Rising|10|1604030
+Palworld|9|1623730
+Soulmask|9|2646460
+Bellwright|9|1812450
+Nightingale|8|1928980
+Dune: Awakening|9|1172710
+The Lord of the Rings: Return to Moria|9|2933130
+Myth of Empires|8|1371580
+Smalland: Survive the Wilds|9|768200
+Grounded|10|962130
+Grounded 2|9
+Abiotic Factor|10|427410
+Craftopia|8|1307550
+Frozen Flame|7|715400
+Citadel: Forged with Fire|7|487120
+Outward Definitive Edition|8|794260|Outward
+Outward 2|8
+[Survival|Oceans, pirates & floating homes|9|Survival crafting]
+Subnautica|10|264710
+Subnautica: Below Zero|9|848450
+Subnautica 2|10
+Raft|10|648800
+Stranded Deep|8|313120
+Sunkenland|8|2080690
+Salt 2: Shores of Gold|9|1574900
+Salt|7|327860
+ATLAS|6|834910
+Aloft|9|1660080
+Forever Skies|9|1641960
+Voidtrain|9|1159690
+Lost Skies|8
+Aground Zero|8
+Breakwaters|7
+Survival: Fountain of Youth|9|1967630
+Survive on Raft|7
+Project Castaway|7
+Sunken Engine|8
+Voyagers of Nera|9
+Dreadmooring|7
+DREADMOOR|8
+Shipwrecked 64|6
+[Survival|Harsh wilderness & realistic survival|9|Survival simulation]
+The Long Dark|10|305620
+Green Hell|10|815370
+Green Hell VR|8
+ICARUS|9|1149460
+Subsistence|8|418030
+The Infected|8|1360000
+The Last Plague: Blight|9|1564600
+SCUM|8|513710
+Survisland|7|839630
+UnReal World|9|351700
+Wayward|9|379210
+Card Survival: Tropical Island|9|1694420
+Card Survival: Fantasy Forest|9
+Survival: The Last Hope|6
+Arid|8|1463730
+Among Trees|7|897730
+Northern Lights|7
+Winter Survival|8
+Winter Burrow|8
+Miasmata|8|223510
+The Flame in the Flood|8|318600
+The Wild Eight|8|526160
+Distrust|8|635200
+Wild West Dynasty|6
+Wild Terra 2: New Lands|7
+Wild Terra Online|7
+Subsistence: River Basin|6
+Rooted|8
+[Survival|Zombies, infection & fortification|9|Survival crafting / zombies]
+Project Zomboid|10|108600
+7 Days to Die|10|251570
+DayZ|9|221100
+Unturned|9|304930
+Surroundead|9|1645820
+HumanitZ|9|1766060
+Deadside|8|895400
+Night of the Dead|9|1377380
+No One Survived|8|1963370
+VEIN|9|1857950
+Deadpoly|8|1621070
+Mist Survival|7|914620
+Dead State: Reanimated|7
+The Front|7|2285150
+State of Decay 2: Juggernaut Edition|9|495420
+State of Decay: YOSE|8|329430
+State of Decay 3|9
+Terminus: Zombie Survivors|9|1534980
+The Survivalist|8|340050
+The Survivalists|8|897450
+Survivalist: Invisible Strain|9|1054510
+Survival Nation|7
+Survival Nation: Lost Horizon|7
+Welcome to ParadiZe|8
+How to Survive|7|250400
+How to Survive 2|7|360170
+Dead Rising 3 Apocalypse Edition|7
+ZED ZONE|8|1211600
+Zompiercer|8|1262460
+Zelter|6
+Night Raider|8
+Nearly Dead|6
+Nearly Dead - Live and Let Die|7
+Dead Age 2|7
+[Survival|Horror, strange worlds & expeditions|9|Survival / horror exploration]
+Sons Of The Forest|10|1326470
+The Forest|10|242760
+Don't Starve Together|10|322330
+Don't Starve|9|219740
+Darkwood|9|274520
+Once Human|8|2139460
+Pacific Drive|9|1458140
+Chernobylite Enhanced Edition|8|1016800|Chernobylite Complete Edition
+Chernobylite 2: Exclusion Zone|7
+The Solus Project|8|313630
+Desolate|7|671510
+The Beast Inside|7
+The Isle|7|376210
+Beasts of Bermuda|7|719890
+The Cenozoic Era|6
+Path of Titans|8
+Ancestors: The Humankind Odyssey|9|536270
+Fear the Night|6
+Outbreak Island|8
+Vorax|7
+The Parasites|8
+The Midnight Walkers|7
+Withstand: Survival|6
+[Survival|Space, planets & engineering|9|Sci-fi survival crafting]
+No Man's Sky|10|275850
+The Planet Crafter|10|1284190
+Planet Crafter: Toxicity|8
+The Planet Crafter: Eden Crafters|7
+Eden Crafters|9|2570210
+Astroneer|10|361420
+Occupy Mars: The Game|8|758690
+Stationeers|9|544550
+Space Engineers|9|244850
+Space Engineers 2|9
+Empyrion - Galactic Survival|9|383120
+Osiris: New Dawn|6|402710
+FarSky|7|286340
+Breathedge|8|738520
+The Alters|9|1601570
+Astrometica|9|2353250
+Planet Nomads|7|504050
+Planet Explorers|6|237870
+Planetbase|8|403190
+Starsand|7|1380220
+Stranded: Alien Dawn|9|1324130
+Mars Survival|7
+Mars First Logistics|9|1532200
+Rokh|5|462440
+Avorion|9|445220
+StarMade|7|244770
+Stellar Settlers|7
+AETHUS|9
+Moon Mystery|7
+LIGHT OF MOTIRAM|8
+Light No Fire|10
+[Survival|Road trips & mobile bases|9|Survival / vehicle adventure]
+The Long Drive|8|1017180
+My Summer Car|9|516750
+My Winter Car|8
+Mon Bazou|8|1520370
+Jalopy|8|446020
+Junkyard Truck|8
+Drive Beyond Horizons|8
+Drive 4 Survival|7
+The Slaverian Trucker|8
+Desert Skies|7
+Dustland Delivery|9
+Outbound|9
+SAND: Raiders of Sophie|8
+Last Oasis|6|903950
+Volcanoids|9|951440
+Forever Winter|8|2828860|The Forever Winter
+Road to Vostok|9
+Deadzone: Rogue|7
+Frostrail|9
+ATMOSFAR|9
+[Survival|Tribes, settlements & historical frontiers|9|Survival / settlement building]
+Medieval Dynasty|9|1129580
+Sengoku Dynasty|9|1702010
+ASKA|9|1898300
+Dawn of Defiance|8|2059530
+Polylithic|8|1839060
+Dawn of Man|9|858810
+Sapiens|9|1060230
+Tribes of Midgard|8|858820
+Thea: The Awakening|8
+Thea 2: The Shattering|8
+Life is Feudal: Your Own|7|290080
+Life is Feudal: Forest Village|7
+Survival Machine|8
+Survival Machines|8
+Of Ash and Steel|8
+Tribes of Ellarian|8
+[Survival|Relaxed crafting & restoration|9|Crafting / survival-adjacent]
+Dinkum|9|1062520
+Len's Island|9|1335830
+Luma Island|9|2408820
+Crashlands|9|391730
+Crashlands 2|9
+Wildmender|9|1599330
+Among the Trolls|8
+Solarpunk|9
+Blossom: The Seed of Life|9
+Under a Rock|9
+Breathedge 2|8
+Haven & Hearth|8
+Forager|8|751780
+Noble Fates|8|1769420
+The Wandering Village|9|1121640
+Cast n Chill|8
+[Survival|Independent survival discoveries|8|Survival crafting]
+Dysmantle|9|846770
+Dysplaced|9
+Atrio: The Dark Wild|9|1125390
+Force of Nature|8|568570
+Force of Nature 2: Ghost Keeper|9|1316230
+Force of Nature 3|8
+The Wild Darkness|7
+The Last Viking|7
+Ars Notoria|8
+Omega Crafter|9|2262080
+TerraTech Worlds|8|2313330
+TerraTech|8|285920
+TerraFirma|8
+Out of Reach|6|327090
+Heat|6|656240
+Stone Rage|6
+XERA: Survival|7|625340
+Rising Front|7
+Dead District: Survival|6
+Survival Scape|7
+Survival Fountain|6
+Rem Survival|7
+Remains|8|1309820
+Residual|8
+Wayward Terran Frontier: Zero Falls|8
+Crash Dive|6
+Force of Nature 2|9
+Survival Vacancy|8
+Survival: Lost Way|6
+[Survival|Survival colonies & management neighbors|9|Colony survival / adjacent]
+RimWorld|10|294100
+Oxygen Not Included|10|457140
+Frostpunk|10|323190
+Frostpunk 2|9|1601580
+This War of Mine|10|282070
+Sheltered|8|356040
+Sheltered 2|7|1289380
+Endzone - A World Apart|8|933820
+Endzone 2|8
+Surviving the Aftermath|8|684450
+Surviving Mars|9|464920
+Surviving Mars: Relaunched|8
+Timberborn|9|1062090
+Going Medieval|9|1029780
+Clanfolk|9|1700870
+Cataclismo|9|1422440
+They Are Billions|9|644930
+Age of Darkness: Final Stand|8|1426450
+Against the Storm|10|1336490
+[Survival|Underwater, co-op & systems-heavy detours|9|Survival / systems adventure]
+Barotrauma|9|602960
+We Need To Go Deeper|8|307110
+Diluvion: Resubmerged|7
+Sunless Sea|9|304650
+Sunless Skies: Sovereign Edition|9
+Escape The Pacific|7
+Wildsite|8
+DUSTBLOOM|8
+Mayday: The Survival Island|8
+Solaria|8
+Founders|8
+FrontierCraft|8
+Pinkwilds|8
+Walkers|8
+[Minecraft-like worlds|Block-building survival & voxel frontiers|9|Voxel survival crafting]
+Terraria|10|105600
+Vintage Story|10
+Hytale|10
+Minecraft|10
+Everwind|9
+Cubic Odyssey|9
+Reforj|9
+Lay of the Land|9
+Lucid Blocks|9
+Rising World|9|324080
+Creativerse|8|280790
+Boundless|8|324510
+Blockscape|7|223490
+Block Story|8|270110
+PixARK|8|593600
+Eco|9|382310
+Wurm Unlimited|8|366220
+Wurm Online|8|1179680
+Portal Knights|9|374040
+DRAGON QUEST BUILDERS 2|10|1072420
+DRAGON QUEST BUILDERS|9
+[Minecraft-like worlds|Terraria-like 2D worlds|9|2D sandbox survival crafting]
+Starbound|9|211820
+Core Keeper|10|1621690
+Necesse|10|1169040
+Keplerth|9|747200
+Dig or Die|9|315460
+Planet Centauri|8|385380
+Crea|7|280520
+Signs of Life|8|263200
+Junk Jack|8|414190
+It Lurks Below|9|697550
+Aground|9|876650
+Farworld Pioneers|7|1363900
+Windforge|7|266170
+Darkout|6|257050
+Edge of Space|5|238240
+Craft The World|9|248390
+Realms of Magic|9|490280
+Realms of Magic 2|9
+Tinkerlands|9
+Tinkertown|8|1276660
+Delverium|9
+Miniland Adventure|8
+Deep Despair|8
+Deep Despair 2|8
+Cavern|8
+Diggles: The Myth of Fenris|8
+[Minecraft-like worlds|Automation, factories & creative neighbors|9|Building / automation sandbox adjacent]
+FortressCraft Evolved!|9|254200
+Colony Survival|9|366090
+FOUNDRY|9|983870
+Satisfactory|10|526870
+Factorio|10|427520
+Techtonica|9|1457320
+Desynced|9|1450900
+Sandustry|9
+Hydroneer|8|1106840
+Scrap Mechanic|9|387990
+Trailmakers|9|585420
+LEGO Worlds|8|332310
+Trove|7|304050
+Terra Nil|8
+[Minecraft-like worlds|New voxel discoveries & experimental worlds|8|Voxel / sandbox exploration]
+Veloren|9
+Terasology|8
+VoxeLibre|9
+Mineclonia|9
+Luanti|8
+Survivalcraft 2|8
+Mythruna|7
+Voxaria|8
+Voxile|9
+Shores of Plunder|8
+BlockWorld|7
+Blockland|7
+Castle Story|7|227860
+Stonehearth|8|253250
+Hytale: Adventure|8
+Necesse 2|8
+[Minecraft-like worlds|Free & tiny crafting worlds|8|Small-scale survival sandbox]
+Muck|8|1625450
+Muck 2|8
+Minicraft+|9
+Minicraft|9
+Minetest Game|7
+ClassiCube|7
+Mine Blocks|8
+Orion Sandbox Enhanced|8
+Paper Minecraft|7
+WILDRAFT|8
+Vintage Story Classic|7
