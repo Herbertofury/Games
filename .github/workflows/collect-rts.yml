@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['data/rts-seeds.json','scripts/collect_rts.py','.github/workflows/collect-rts.yml']
+    paths: ['data/rts-seeds.json','scripts/collect_rts.py']
 permissions:
   contents: write
 concurrency:
@@ -18,15 +18,17 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-      - name: Resolve every RTS candidate without changing earlier genres
-        run: python3 scripts/collect_rts.py
+      - name: Refresh exact RTS editions and preserve reconciliation
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          python3 scripts/enrich_rts.py
       - name: Persist the discovery checkpoint
         run: |
           git config user.name 'Games catalog bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/rts-steam.json
+          git add data/rts-*.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Record exact RTS identities, current releases, ratings, and official media'
+            git commit -m 'Refresh reconciled RTS identities, creator editions, stores, and official media'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
@@ -34,6 +36,5 @@ jobs:
         with:
           name: rts-discovery
           path: |
-            data/rts-seeds.json
-            data/rts-steam.json
+            data/rts-*.json
             scripts/collect_rts.py
