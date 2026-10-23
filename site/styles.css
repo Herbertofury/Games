@@ -19,3 +19,18 @@ body[data-hub="rts"] .feature-art{filter:saturate(.82)}
 .rts-command-strip[hidden],.rts-only[hidden]{display:none!important}
 .rts-brief{margin:20px 0;padding:20px;border:1px solid var(--border);border-radius:12px;background:rgba(229,199,134,.04)}.rts-brief>span{font-size:10px;font-weight:800;letter-spacing:.17em;color:var(--accent)}.rts-brief>div{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:18px}.rts-brief section small{display:block;color:var(--muted);font-size:9px;letter-spacing:.1em;margin-bottom:7px}.rts-brief section strong{font-size:13px;line-height:1.5}.rts-brief p{font-size:12px;color:var(--muted);line-height:1.65;margin:16px 0 0}
 @media(max-width:700px){.rts-command-strip{flex-wrap:wrap;gap:9px}.rts-command-strip small{width:100%;margin:0}.rts-brief>div{grid-template-columns:1fr}.rts-command-strip strong{margin-left:auto}}
+
+/* Metroidvania exploration atlas */
+body[data-hub="metroidvanias"]{--accent:#c8b7ff;--accent-strong:#e3d9ff;--accent-dim:rgba(200,183,255,.12);--accent-soft:rgba(200,183,255,.09)}
+body[data-hub="metroidvanias"] .intro h1{font-size:clamp(34px,4vw,58px);letter-spacing:-.05em}
+body[data-hub="metroidvanias"] .featured{border-color:rgba(200,183,255,.23);background:#191425}
+body[data-hub="metroidvanias"] .feature-art{opacity:.8;filter:saturate(.9)}
+body[data-hub="metroidvanias"] .feature-noise{background:linear-gradient(90deg,rgba(20,15,32,.97),rgba(20,15,32,.73) 45%,rgba(20,15,32,.13))}
+body[data-hub="metroidvanias"] .featured:before{background:linear-gradient(0deg,rgba(20,15,32,.55),transparent)}
+body[data-hub="metroidvanias"] .feature-content{max-width:660px}
+.mv-explore-strip{display:flex;align-items:center;gap:22px;margin:26px 0 15px;padding:16px 19px;border:1px solid var(--border);border-left:2px solid var(--accent);border-radius:0 12px 12px 0;background:linear-gradient(100deg,rgba(200,183,255,.075),transparent)}
+.mv-explore-strip>span{font-size:9px;letter-spacing:.14em;color:var(--accent);font-weight:800}.mv-explore-strip>strong{font-size:12px}.mv-explore-strip>small{margin-left:auto;color:var(--muted);font-size:10px;max-width:240px;line-height:1.5}
+.mv-only[hidden],.mv-explore-strip[hidden],[data-preset="mods"][hidden]{display:none!important}
+.mv-brief{margin:22px 0;padding:21px;border:1px solid var(--border);border-radius:12px;background:rgba(200,183,255,.04)}.mv-brief>span{color:var(--accent);font-size:10px;font-weight:800;letter-spacing:.16em}.mv-brief>div{display:grid;grid-template-columns:1fr 1fr;gap:25px;margin-top:18px}.mv-brief small{display:block;color:var(--muted);font-size:9px;letter-spacing:.1em;margin-bottom:8px}.mv-brief strong{font-size:13px;line-height:1.6}.mv-brief p{font-size:11px;line-height:1.7;color:var(--muted);margin-top:15px}.mv-brief summary{cursor:pointer;font-size:11px}
+body.light[data-hub="metroidvanias"]{--accent:#7052ba;--accent-strong:#51398f}body.light[data-hub="metroidvanias"] .featured{--accent:#d4c5ff;color:#f5f2ff}
+@media(max-width:700px){.mv-explore-strip{flex-wrap:wrap;gap:9px}.mv-explore-strip>small{width:100%;max-width:none;margin:0}.mv-brief>div{grid-template-columns:1fr}.mv-explore-strip>strong{font-size:11px}body[data-hub="metroidvanias"] .feature-content{padding:25px}body[data-hub="metroidvanias"] .intro h1{font-size:39px}}

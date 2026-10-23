@@ -70,5 +70,4 @@ body.light[data-hub="metroidvanias"]{--accent:#7052ba;--accent-strong:#51398f}bo
 @media(max-width:700px){.mv-explore-strip{flex-wrap:wrap;gap:9px}.mv-explore-strip>small{width:100%;max-width:none;margin:0}.mv-brief>div{grid-template-columns:1fr}.mv-explore-strip>strong{font-size:11px}body[data-hub="metroidvanias"] .feature-content{padding:25px}body[data-hub="metroidvanias"] .intro h1{font-size:39px}}
 '''
  p.write_text(s)
-patch('tests/test_rts.py',"self.assertEqual(len(self.rows),130);self.assertEqual(len(self.data['items']),448);self.assertEqual(len({g['id'] for g in self.data['items']}),448)","self.assertEqual(len(self.rows),130);self.assertGreaterEqual(len(self.data['items']),448);self.assertEqual(len({g['id'] for g in self.data['items']}),len(self.data['items']));protected=json.loads((R/'data/metroidvania-protected.json').read_text());self.assertTrue(set(protected['ids']) <= {g['id'] for g in self.data['items']})")
 print('Metroidvania model, wiki, UI and protected-identity checks integrated.')

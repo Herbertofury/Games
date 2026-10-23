@@ -1,5 +1,5 @@
 """Deterministic Metroidvania overlay; other genre identities remain authoritative."""
-import copy,json,re
+import copy,json,re,html,urllib.parse
 HUB='Metroidvanias'
 ADJACENT={
  'Owlboy':'Narrative platform adventure / Metroidvania-adjacent',
@@ -24,11 +24,20 @@ ADJACENT={
 def read(root,name,default):
  p=root/'data'/name;return json.loads(p.read_text()) if p.exists() else default
 
+def clean_distribution_url(url):
+ p=urllib.parse.urlsplit(html.unescape(url));query=[]
+ for k,v in urllib.parse.parse_qsl(p.query):
+  k=k.lstrip(';')
+  while k.startswith('amp;'):k=k[4:].lstrip(';')
+  if k.lower().startswith(('utm_','hmb_')) or k in ['_xm','ref','referrer','snr']:continue
+  query.append((k,v))
+ return urllib.parse.urlunsplit((p.scheme,p.netloc,p.path,urllib.parse.urlencode(query),p.fragment))
+
 def integrate(root,games):
  from source_links import normalized_links
  sources=[read(root,'metroidvania-steam.json',{'items':[]}),read(root,'metroidvania-external.json',{'items':[]})]
  overrides={}
- for name in ['metroidvania-storefronts.json','metroidvania-curation.json','metroidvania-media.json']:
+ for name in ['metroidvania-storefronts.json','metroidvania-curation.json','metroidvania-media.json','metroidvania-review-decisions.json']:
   for ident,extra in read(root,name,{'overrides':{}}).get('overrides',{}).items():
    row=overrides.setdefault(ident,{})
    for k,v in extra.items():
@@ -71,12 +80,22 @@ def integrate(root,games):
    if ev:g['metroidvaniaEvidence']={k:v for k,v in ev.items() if k!='description'};g['metroidvaniaEvidence']['descriptionExcerpt']=about[:700]
    for link in g['storefronts']:link.pop('descriptionEvidence',None)
    g.pop('mediaEvidence',None);g.pop('creatorEvidence',None)
+   playable=lambda t:any(t.get(k) for k in ['mp4','webm','hls','dash','youtube','vimeo'])
+   g['unavailableVideos']=[t for t in g.get('trailers',[]) if not playable(t)]
+   g['trailers']=[t for t in g.get('trailers',[]) if playable(t)]
    for aid in g.get('demoAppids',[]):
     u=f'https://store.steampowered.com/app/{aid}'
     if not any(x['url'].rstrip('/')==u for x in g['storefronts']):g['storefronts'].append({'provider':'Steam','url':u,'kind':'demo','verified':True,'lastChecked':g.get('verifiedAt'),'sourceUrl':g['steamUrl'],'editionNote':'Demo app explicitly linked by the official Steam metadata.'})
    if ident in games and any(h!=HUB for h in games[ident].get('hubs',[])):
-    old=games[ident];old['hubs']=list(dict.fromkeys(old.get('hubs',[])+[HUB]));old['metroidvaniaInfo']=g['metroidvaniaInfo'];old['metroidvaniaFit']=g.get('fit');old['metroidvaniaCollection']=g['collection'];old['collections']=list(dict.fromkeys(old.get('collections',[])+g['collections']));old['tags']=sorted(set(old.get('tags',[])+g['tags']))
+    old=games[ident];old['hubs']=list(dict.fromkeys(old.get('hubs',[])+[HUB]));old['aliases']=list(dict.fromkeys(old.get('aliases',[])+g.get('aliases',[])));old['metroidvaniaInfo']=g['metroidvaniaInfo'];old['metroidvaniaFit']=g.get('fit');old['metroidvaniaCollection']=g['collection'];old['collections']=list(dict.fromkeys(old.get('collections',[])+g['collections']));old['tags']=sorted(set(t for t in old.get('tags',[]) if t not in genre_tags)|set(g['tags']))
+    for field in ['sources','storefronts']:
+     old[field]=list({x['url'].rstrip('/'):x for x in old.get(field,[])+g.get(field,[])}.values())
+    media_key=lambda t:t.get('youtube') or t.get('vimeo') or t.get('hls') or t.get('mp4') or t.get('webm') or t.get('dash') or t.get('id') or t.get('sourceUrl')
+    old['unavailableVideos']=list({str(media_key(t)):t for t in old.get('unavailableVideos',[])+g.get('unavailableVideos',[])+[t for t in old.get('trailers',[]) if not playable(t)]}.values())
+    old['trailers']=list({media_key(t):t for t in old.get('trailers',[])+g.get('trailers',[]) if playable(t)}.values())
    else:games[ident]=g
+   target=games[ident]
+   target['storefronts']=list({clean_distribution_url(x['url']).rstrip('/'):dict(x,url=clean_distribution_url(x['url'])) for x in target.get('storefronts',[])}.values())
    published.append(ident)
  dates=[s.get('generatedAt') for s in sources if s.get('generatedAt')];rec=read(root,'metroidvania-reconciliation.json',{})
- return {'ids':sorted(set(published)),'generatedAt':max(dates) if dates else None,'unresolved':sum([s.get('unresolved',[]) for s in sources],[]),'dispositions':rec.get('dispositions',[])}
+ return {'ids':sorted(set(published)),'generatedAt':max(dates) if dates else None,'unresolved':sum([s.get('unresolved',[]) for s in sources],[]),'dispositions':rec.get('dispositions',[])+read(root,'metroidvania-review-decisions.json',{}).get('dispositions',[])}

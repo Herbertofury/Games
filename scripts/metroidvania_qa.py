@@ -16,7 +16,7 @@ try:
  with sync_playwright() as pw:
   browser=pw.chromium.launch(executable_path=os.environ.get('CHROMIUM_PATH') or shutil.which('chromium'),headless=True,args=['--no-sandbox']);ctx=browser.new_context(viewport={'width':1536,'height':1100},accept_downloads=True,reduced_motion='reduce');page=ctx.new_page();page.set_default_timeout(15000);page.on('pageerror',lambda e:report['errors'].append(str(e)))
   url=f'http://127.0.0.1:{port}/';page.goto(url,wait_until='domcontentloaded');page.wait_for_function('window.GamesTest')
-  for hub,n in [('Roguelites',170),('Boomer shooters',150),('Real-time strategy',130),('Metroidvanias',N)]:
+  for hub,n in list(json.loads((R/'data/metroidvania-protected.json').read_text())['hubCounts'].items())+[('Metroidvanias',N)]:
    page.locator('[data-hub="'+hub+'"]').click();check(hub+' complete visible count',page.locator('.game-card').count()==n)
   check('Distinct exploration theme',page.locator('body').get_attribute('data-hub')=='metroidvanias');check('Enormous collection, not a short sample',N>=300)
   for preset in ['torment','mv-dark','mv-puzzle','mv-3d','mv-free','mv-hidden','mv-watchlist','new','demos']:

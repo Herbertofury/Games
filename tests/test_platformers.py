@@ -13,6 +13,9 @@ class PlatformerTests(unittest.TestCase):
   expected={'steam:'+s['appid'] for s in csv.DictReader((R/'data/seeds.tsv').open(),delimiter='\t')}
   for file in ['shooters-steam.json','shooters-external.json','rts-steam.json','rts-external.json','platformers-steam.json','platformers-external.json']:
    expected.update(g['id'] for g in json.loads((R/'data'/file).read_text())['items'])
+  held={i for i,x in json.loads((R/'data/metroidvania-review-decisions.json').read_text()).get('overrides',{}).items() if x.get('excludeFromPublication')}
+  for file in ['metroidvania-steam.json','metroidvania-external.json']:
+   expected.update(g['id'] for g in json.loads((R/'data'/file).read_text())['items'] if g['id'] not in held)
   self.assertEqual(expected,set(self.by));self.assertEqual(len(self.by),len(self.data['items']))
   self.assertEqual(self.data['build']['inputCount'],len(self.by))
  def test_all_discovery_candidates_reconciled(self):

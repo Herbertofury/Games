@@ -1,0 +1,408 @@
+{
+  "schemaVersion": 1,
+  "editorialBasis": "Genre fit and source-supported mechanics, not claimed hands-on reviews. Steam reception and your personal rating remain independent.",
+  "overrides": {
+    "steam:367520": {
+      "curatorWhy": "A sprawling, atmospheric benchmark: meaningful movement upgrades, memorable boss fights and a world that rewards curiosity long after the obvious route ends.",
+      "fit": 10
+    },
+    "steam:1030300": {
+      "curatorWhy": "For the top of the exploration queue: fluid movement, a strong sense of place and demanding encounters. Compare its current player reception and gameplay before choosing it as your first entry.",
+      "fit": 10
+    },
+    "steam:1057090": {
+      "curatorWhy": "The movement-first showcase: a luminous world, expressive traversal and a less equipment-heavy approach than the Castlevania branch.",
+      "fit": 10
+    },
+    "steam:692850": {
+      "curatorWhy": "One of the most direct fits for Symphony of the Night fans: equipment, loot, collectible powers and a gothic castle to gradually unravel.",
+      "fit": 10
+    },
+    "steam:1552550": {
+      "curatorWhy": "The official bundle for Circle of the Moon, Harmony of Dissonance and Aria of Sorrow. Excellent for exploring the equipment-and-ability side of the genre; Dracula X is the separate stage-based extra.",
+      "fit": 10,
+      "aliases": [
+        "Castlevania: Circle of the Moon",
+        "Circle of the Moon",
+        "Castlevania: Harmony of Dissonance",
+        "Harmony of Dissonance",
+        "Castlevania: Aria of Sorrow",
+        "Aria of Sorrow",
+        "Castlevania: Dracula X"
+      ],
+      "genreScope": "Metroidvania collection / mixed formats",
+      "recommendationCaution": "Includes three Metroidvanias and the stage-based Dracula X. One official bundle, not four duplicate purchase records."
+    },
+    "steam:2369900": {
+      "curatorWhy": "The official bundle for Dawn of Sorrow, Portrait of Ruin and Order of Ecclesia, with their distinct combat systems and castle exploration. The Haunted Castle extras are not Metroidvanias.",
+      "fit": 10,
+      "aliases": [
+        "Castlevania: Dawn of Sorrow",
+        "Dawn of Sorrow",
+        "Castlevania: Portrait of Ruin",
+        "Portrait of Ruin",
+        "Castlevania: Order of Ecclesia",
+        "Order of Ecclesia",
+        "Haunted Castle",
+        "Haunted Castle Revisited"
+      ],
+      "genreScope": "Metroidvania collection / mixed formats",
+      "recommendationCaution": "The three DS adventures are Metroidvanias; Haunted Castle and its revisited version are stage-based extras."
+    },
+    "steam:1809540": {
+      "curatorWhy": "Prioritize this for deliberate parry combat and demanding bosses. Its combat rhythm is a better reason to choose it than expecting a relaxed sightseeing adventure.",
+      "fit": 10
+    },
+    "steam:2751000": {
+      "curatorWhy": "A strong movement-and-combat choice, with an especially appealing mix of precision platforming, time-themed abilities and navigation tools.",
+      "fit": 10
+    },
+    "steam:2114740": {
+      "curatorWhy": "A strong dark-fantasy pick for grotesque religious imagery, interconnected exploration and a more traversal-driven structure than a simple stage-based action game.",
+      "fit": 9
+    },
+    "steam:2725260": {
+      "curatorWhy": "A good next stop for atmospheric dark fantasy, companion-driven combat and build choices without losing the exploration emphasis.",
+      "fit": 9
+    },
+    "steam:1123050": {
+      "curatorWhy": "Choose this for unusual organic environments, deliberate fights and a distinctive absorption-based identity rather than familiar castle corridors.",
+      "fit": 9
+    },
+    "steam:350070": {
+      "curatorWhy": "A tiny-looking but substantial science-fiction labyrinth. Especially rewarding for players who enjoy secrets and do not need lavish presentation.",
+      "fit": 9
+    },
+    "steam:813230": {
+      "curatorWhy": "The puzzle-first essential: knowledge, observation and the unexpected uses of your tools matter more than combat statistics. Best explored with minimal spoilers.",
+      "fit": 10,
+      "genreScope": "Puzzle-led Metroidvania"
+    },
+    "steam:230700": {
+      "curatorWhy": "An archaeological puzzle labyrinth for players who enjoy taking notes and solving opaque mysteries. This is intentionally not the easy first recommendation.",
+      "fit": 9,
+      "genreScope": "Puzzle-led Metroidvania"
+    },
+    "steam:835430": {
+      "curatorWhy": "A deep puzzle-and-exploration sequel for players who actively enjoy deciphering clues. Bring curiosity and patience rather than expecting a straightforward action route.",
+      "fit": 9,
+      "genreScope": "Puzzle-led Metroidvania"
+    },
+    "steam:1046400": {
+      "curatorWhy": "A compact-looking tower with layered routes and character switching. A strong pick for the exploration puzzle of reconnecting a hostile place.",
+      "fit": 9,
+      "genreScope": "Puzzle-led Metroidvania"
+    },
+    "steam:1436590": {
+      "curatorWhy": "A broad adventure with puzzles, towns, combat and exploration. More of an action-adventure hybrid than a pure combat gauntlet.",
+      "fit": 9,
+      "genreScope": "Puzzle-led Metroidvania"
+    },
+    "steam:1669420": {
+      "curatorWhy": "An approachable, charming choice when you want interconnected discovery without committing to the genre's harshest difficulty spikes.",
+      "fit": 9
+    },
+    "steam:1281790": {
+      "curatorWhy": "A compact, transformation-led adventure where traversal rather than conventional weapon combat is the central appeal.",
+      "fit": 9
+    },
+    "steam:3699590": {
+      "curatorWhy": "A recent, storybook-dark discovery from Kyle Thompson. A useful next stop after Islets when its strange fairytale world appeals to you.",
+      "fit": 9
+    },
+    "steam:1713730": {
+      "curatorWhy": "One of the newest alien-world discoveries in the collection. Watch the official footage and check the still-growing review sample before treating launch enthusiasm as long-term consensus.",
+      "fit": 9
+    },
+    "steam:1730790": {
+      "curatorWhy": "A very recent movement-oriented discovery. Best investigated through its current gameplay footage rather than assuming a tiny launch review sample proves lasting polish.",
+      "fit": 9
+    },
+    "steam:2184080": {
+      "curatorWhy": "A time-and-knowledge exploration twist for players who want a fresh world-unlocking idea rather than another familiar weapon ladder.",
+      "fit": 9,
+      "genreScope": "Puzzle-led Metroidvania"
+    },
+    "steam:1674780": {
+      "curatorWhy": "A particularly good movement-and-platforming choice, with lots of room to test what newly acquired abilities can do.",
+      "fit": 9
+    },
+    "steam:2463220": {
+      "curatorWhy": "For more of the mushroom-world exploration branch. Compare its footage with the first game rather than treating a related title as the same campaign.",
+      "fit": 9
+    },
+    "steam:1772830": {
+      "curatorWhy": "The grappling hook is the main attraction. A distinctive choice for players who enjoy mastering an unconventional movement system.",
+      "fit": 9
+    },
+    "steam:2365810": {
+      "curatorWhy": "A short, striking 3D exploration adventure where movement mastery matters. A strong route into the genre's third-person side.",
+      "fit": 9,
+      "genreScope": "3D Metroidvania"
+    },
+    "steam:1853760": {
+      "curatorWhy": "First-person shooting and ability-led exploration with an unusual creature-filled world. It also belongs to the shooter collection without becoming a duplicate record.",
+      "fit": 9,
+      "genreScope": "3D Metroidvania"
+    },
+    "steam:1549750": {
+      "curatorWhy": "A surreal, grotesque first-person world with Metroidvania structure. Keep this on the 3D shelf rather than comparing its presentation with a 2D platformer.",
+      "fit": 8,
+      "genreScope": "3D Metroidvania"
+    },
+    "steam:848080": {
+      "curatorWhy": "A distinctive underwater science-fiction and horror adventure. Worth examining when the standard castle-and-forest settings feel too familiar.",
+      "fit": 9
+    },
+    "steam:1231880": {
+      "curatorWhy": "A compact robot-world adventure with readable pixel art and conventional interconnected exploration. A useful smaller-scale alternative to the longest games here.",
+      "fit": 9
+    },
+    "steam:334940": {
+      "curatorWhy": "Pinball movement and an interconnected island make this one of the most unusual ways to enjoy the genre. A calmer alternative to boss-heavy combat picks.",
+      "fit": 9
+    },
+    "steam:2394650": {
+      "curatorWhy": "A top-down exploration choice with its own perspective and movement feel. Not a 2D side-scroller disguised by the genre label.",
+      "fit": 9,
+      "genreScope": "Top-down Metroidvania"
+    },
+    "steam:1634860": {
+      "curatorWhy": "A top-down exploration adventure built around shooting and movement upgrades. A useful bridge between bullet-dodging action and world-unlocking discovery.",
+      "fit": 9,
+      "genreScope": "Top-down Metroidvania"
+    },
+    "steam:2655470": {
+      "curatorWhy": "A compact, distinctive deep cut for players who enjoy experimenting with routes and abilities rather than only following the obvious critical path.",
+      "fit": 8
+    },
+    "steam:3440260": {
+      "curatorWhy": "A newer entry in the Alruna branch, kept separate from the earlier campaign. Check the current review count alongside the recommendation.",
+      "fit": 8
+    },
+    "steam:1219240": {
+      "curatorWhy": "A colorful microscopic science-fiction adventure. A strong thematic change from dark castles, with the official footage doing a better job than a generic genre description.",
+      "fit": 9
+    },
+    "steam:3099000": {
+      "curatorWhy": "Run-and-gun spectacle coupled with exploration. A promising fit when you want firearms and explosive action instead of another sword-focused adventure.",
+      "fit": 9
+    },
+    "steam:814370": {
+      "curatorWhy": "Turn-based monster battles inside an ability-gated exploration world. A worthwhile hybrid, explicitly not a real-time action platformer.",
+      "fit": 9,
+      "genreScope": "Turn-based RPG / Metroidvania hybrid"
+    },
+    "steam:312520": {
+      "curatorWhy": "A demanding survival ecosystem and exploration neighbor. Do not choose it expecting the standard permanent combat-upgrade ladder.",
+      "fit": 8,
+      "genreScope": "Survival exploration / Metroidvania-adjacent"
+    },
+    "steam:549260": {
+      "genreScope": "Puzzle-led Metroidvania"
+    },
+    "steam:1205900": {
+      "genreScope": "Puzzle-led Metroidvania"
+    },
+    "steam:837460": {
+      "genreScope": "Puzzle-led Metroidvania"
+    },
+    "steam:2834320": {
+      "genreScope": "Puzzle-led Metroidvania"
+    },
+    "steam:813630": {
+      "genreScope": "3D Metroidvania"
+    },
+    "steam:1522870": {
+      "genreScope": "3D Metroidvania"
+    },
+    "steam:1869290": {
+      "genreScope": "3D Metroidvania"
+    },
+    "steam:2938870": {
+      "genreScope": "3D Metroidvania"
+    },
+    "steam:1311070": {
+      "genreScope": "Narrative puzzle adventure / Metroidvania-adjacent"
+    },
+    "steam:598700": {
+      "genreScope": "Stage-based action RPG / Metroidvania-adjacent"
+    },
+    "steam:2656050": {
+      "originalReleaseYear": 2006,
+      "genreScope": "Atmospheric exploration / Metroidvania-adjacent",
+      "recommendationCaution": "The Steam date describes a later storefront edition of the 2006 freeware classic."
+    },
+    "steam:200900": {
+      "originalReleaseYear": 2004,
+      "genreScope": "Narrative exploration / Metroidvania-adjacent"
+    },
+    "steam:3525870": {
+      "aliases": [
+        "Distant Paradise",
+        "Silent Paradise"
+      ],
+      "curatorWhy": "A collected creator-world release. Distant Paradise remains searchable as part of its lineage rather than becoming an accidental duplicate purchase recommendation.",
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://dreamnoid.itch.io/distant-paradise",
+          "kind": "archive",
+          "verified": true,
+          "lastChecked": "2026-10-23T17:22:47+00:00",
+          "sourceUrl": "https://dreamnoid.itch.io/distant-paradise",
+          "editionNote": "Original creator-hosted Distant Paradise. The Steam anthology is a separate collected edition."
+        }
+      ]
+    },
+    "steam:2710920": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:2190700": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:2508440": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1666480": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1917990": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1558720": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1883810": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1046920": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:3276720": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:3744870": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1614330": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:5271260": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:3501850": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:2589980": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:2170390": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:347460": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:2899350": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:2387740": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1717730": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:2376260": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:3285880": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:3089580": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:2847780": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1132480": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:2352520": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:4775660": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1104600": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1093810": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1287930": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:2245420": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1439960": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1369430": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:2749920": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:2525210": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "steam:1205660": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "external:necrowave": {
+      "confidence": "Exploratory"
+    },
+    "external:stratum": {
+      "confidence": "Exploratory"
+    },
+    "external:fiends-fall": {
+      "confidence": "Exploratory"
+    },
+    "external:rabbits-quest": {
+      "confidence": "Exploratory"
+    },
+    "external:angel-shell": {
+      "confidence": "Exploratory"
+    },
+    "external:reawakening": {
+      "confidence": "Exploratory"
+    },
+    "external:senescence-protocol": {
+      "confidence": "Exploratory"
+    },
+    "external:spellsought": {
+      "confidence": "Exploratory"
+    },
+    "external:peppermint": {
+      "confidence": "Exploratory"
+    },
+    "external:mongrel-story": {
+      "confidence": "Exploratory",
+      "name": "Mongrel Story (Demo)",
+      "recommendationCaution": "A creator-hosted pre-alpha demo, not the unrelated commercial game Mongrel. The creator discloses AI-assisted graphics on the source page."
+    },
+    "external:block-neopolis": {
+      "confidence": "Exploratory"
+    },
+    "external:fohh": {
+      "confidence": "Exploratory"
+    },
+    "external:metroid-ravenous": {
+      "recommendationCaution": "Unreleased watchlist entry. Interest level is not a scored recommendation or a claim of a completed review."
+    },
+    "external:sunset-land": {
+      "confidence": "Exploratory"
+    }
+  }
+}

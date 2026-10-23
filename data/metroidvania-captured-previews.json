@@ -1,0 +1,45 @@
+{
+  "previews": {
+    "external:spellsought": {
+      "id": "external:spellsought",
+      "sourceUrl": "https://speedrockstrong.itch.io/spellsought",
+      "build": "Spellsought 1.0.3",
+      "type": "Catalog-recorded public build preview",
+      "approved": true,
+      "filename": "Spellsought.v1.0.3.zip",
+      "bytes": 42015810,
+      "sha256": "0c1e45c7f2c0e476cdba3160514a097b760d90b0155c9874c358593c0173f7f2",
+      "runtime": {
+        "version": "4.7.1",
+        "sourceUrl": "https://github.com/godotengine/godot-builds/releases/download/4.7.1-stable/Godot_v4.7.1-stable_linux.x86_64.zip",
+        "sha256": "c7ff14fd28472c8d4f193043de30278dcf7e5241a1dcf7566b02e27addaa33ba",
+        "packSha256": "18014edc1fd47544518f67105bafb40bee7ebf54bce693c7b81ace7715411fd4"
+      },
+      "command": [
+        "/tmp/mv-native/spellsought/engine/Godot_v4.7.1-stable_linux.x86_64",
+        "--main-pack",
+        "/tmp/mv-native/spellsought/game/Spellsought 1.0.3/spellsought.pck",
+        "--path",
+        "/tmp/mv-native/spellsought/game/Spellsought 1.0.3",
+        "--rendering-method",
+        "gl_compatibility",
+        "--rendering-driver",
+        "opengl3",
+        "--resolution",
+        "1280x720",
+        "--position",
+        "0,0",
+        "--audio-driver",
+        "Dummy"
+      ],
+      "window": "4194307",
+      "captureCompleted": true,
+      "video": "spellsought-preview.mp4",
+      "reviewClaim": "Short recorded preview only; screenshots must be visually approved before publication.",
+      "approval": "Menu, start and gameplay frames visually inspected: correct game, moving character, jumping, combat and respawn.",
+      "videoSha256": "9a0713d9109c2079d3e75f98820821d208d57172d683a58a843968d0c5f29285",
+      "artifactId": 12519782531,
+      "artifactSha256": "779bb395fb78e97a40aa51f33a0f994700e6157d5f2d60289219f96faa440fe2"
+    }
+  }
+}

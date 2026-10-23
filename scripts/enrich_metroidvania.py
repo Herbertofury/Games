@@ -51,6 +51,20 @@ def steam_phase(config,force=False):
    title=image.get('alt','')
    if title and core.key(title) not in bykey:
     x={'name':title,'collection':'Fresh discoveries & emerging worlds','fit':8,'scope':'Traditional Metroidvania','discoverySource':row['url']};candidates.append(x);bykey[core.key(title)]=x
+ # Preserve canonical IDs and all previously resolved candidates across index changes.
+ explicit={core.key(x['name']):x for x in load('metroidvania-completion-plan.json',{}).get('steam',[])}
+ previous={core.key(g.get('seedName',g['name'])):g for g in old}
+ present={core.key(x['name']) for x in candidates}
+ for g in old:
+  k=core.key(g.get('seedName',g['name']))
+  if k not in present:
+   candidates.append({'name':g.get('seedName',g['name']),'appid':g['appid'],'aliases':list(dict.fromkeys(g.get('aliases',[])+[g['name']])),'collection':g['collection'],'fit':g.get('fit') or 8,'scope':g.get('genreScope','Traditional Metroidvania'),'discoverySource':'Retained canonical identity'})
+   present.add(k)
+ for x in candidates:
+  k=core.key(x['name'])
+  if k in explicit:x.update(explicit[k])
+  elif not x.get('appid') and k in previous:
+   g=previous[k];x['appid']=g['appid'];x['aliases']=list(dict.fromkeys(x.get('aliases',[])+[g['name']]))
  accepted=[]
  for x in candidates:
   if x['name'] in config['excludeCandidates']:excluded.append({'candidate':x['name'],'state':'excluded','reason':config['excludeCandidates'][x['name']]})
@@ -95,9 +109,10 @@ def page_media(url):
  return p
 
 
-def external_phase(seed,old):
+def external_phase(seed,old,force=False):
  ident='external:'+seed['slug'];prior=old.get(ident)
- if prior and prior.get('image') and prior.get('trailers'):return prior
+ if prior and not force and prior.get('image') and prior.get('trailers') and prior.get('mediaCheckedAt'):
+  if (dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(prior['mediaCheckedAt'])).total_seconds()<86400:return prior
  url=seed['url'];g={'id':ident,'name':seed['name'],'seedName':seed['name'],'collection':'Console origins & genre landmarks' if seed.get('platforms') else 'Freeware & creator-hosted worlds','collections':[],'hubs':[HUB],'fit':seed['fit'],'summary':seed['why'],'curatorWhy':seed['why'],'genreScope':seed['scope'],'requirements':seed.get('requirements','See the exact creator release for supported systems.'),'provider':provider(url),'primaryUrl':url,'status':seed.get('status','Released'),'kind':'Console game' if seed.get('platforms') else 'Browser / desktop game','free':seed['free'],'comingSoon':False,'genres':['Adventure'],'tags':[HUB,seed['scope']],'platforms':seed.get('platforms',[]),'developers':[],'features':[],'rating':None,'reviewCount':0,'releaseDate':None,'releaseLabel':str(seed.get('releaseYear') or 'See creator release'),'releaseYear':seed.get('releaseYear'),'originalReleaseYear':seed.get('originalReleaseYear'),'aliases':seed.get('aliases',[]),'storefronts':[],'sources':[],'screenshots':[],'trailers':[],'warnings':[],'mediaEvidence':[]}
  g['collections']=[g['collection']];errors=[]
  for page in [url]+seed.get('extraUrls',[]):
@@ -117,8 +132,9 @@ def external_phase(seed,old):
  print('EXTERNAL',g['name'],bool(g.get('image')),len(g['trailers']),flush=True);return g
 
 
-def store_phase(g,old,itch_ready):
- if old and old.get('storeCoverage',{}).get('checkedAt'):return g['id'],old
+def store_phase(g,old,itch_ready,force=False):
+ if old and not force and old.get('storeCoverage',{}).get('checkedAt'):
+  if (dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(old['storeCoverage']['checkedAt'])).total_seconds()<604800:return g['id'],old
  links=[];pending=[];checks=[]
  methods=[('GOG',lambda:net.gog(g,'https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=')),('Official website',lambda:net.owned_site(g))]
  if itch_ready:methods.append(('itch.io',lambda:net.itch(g)))
@@ -141,7 +157,7 @@ def store_phase(g,old,itch_ready):
 def main():
  ap=argparse.ArgumentParser();ap.add_argument('--force',action='store_true');ap.add_argument('--skip-steam',action='store_true');a=ap.parse_args();cfg=load('metroidvania-expansion.json',{})
  old={g['id']:g for g in load('metroidvania-external.json',{'items':[]})['items']}
- with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:ext=list(pool.map(lambda s:external_phase(s,old),cfg['external']))
+ with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:ext=list(pool.map(lambda s:external_phase(s,old,a.force),cfg['external']))
  save('metroidvania-external.json',{'schemaVersion':1,'generatedAt':NOW,'items':ext})
  steam=load('metroidvania-steam.json',{'items':[]})['items'] if a.skip_steam else steam_phase(cfg,a.force)
  target=load('metroidvania-storefronts.json',{'overrides':{}});overrides=target['overrides']
@@ -149,7 +165,7 @@ def main():
   raw,_,_=net.read('https://itch.io/search?q=Hollow%20Knight');itch_ready=bool(BeautifulSoup(raw,'html.parser').select('.game_cell'))
  except Exception:itch_ready=False
  with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
-  for i,(ident,extra) in enumerate(pool.map(lambda g:store_phase(g,overrides.get(g['id']),itch_ready),steam)):
+  for i,(ident,extra) in enumerate(pool.map(lambda g:store_phase(g,overrides.get(g['id']),itch_ready,a.force),steam)):
    overrides[ident]=extra
    if i%40==0:save('metroidvania-storefronts.json',{'generatedAt':NOW,'overrides':overrides})
  for name,url,kind in cfg.get('creatorLinks',[]):

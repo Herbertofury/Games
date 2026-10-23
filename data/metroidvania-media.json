@@ -934,6 +934,16 @@
             "alt": "Spellsought screenshot",
             "verified": true
           }
+        ],
+        "trailers": [
+          {
+            "mp4": "https://raw.githubusercontent.com/Herbertofury/Games/main/media/metroidvania/spellsought-preview.mp4",
+            "name": "Catalog-recorded public build preview (32 seconds)",
+            "official": false,
+            "sourceUrl": "https://speedrockstrong.itch.io/spellsought",
+            "credit": "SpeedRockStrong game; Games Library preview capture",
+            "editionNote": "Unchanged public v1.0.3 assets run through their matching native Godot runtime. Short preview only, not a full review."
+          }
         ]
       },
       "verification": "verified",

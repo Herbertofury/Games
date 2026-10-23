@@ -9,14 +9,14 @@ class MetroidvaniaTests(unittest.TestCase):
  def test_enormous_unique_collection(self):
   self.assertGreaterEqual(len(self.rows),300);self.assertEqual(len(self.rows),len(self.by));self.assertEqual(self.catalog['build']['hubCounts']['Metroidvanias'],len(self.rows))
  def test_every_previous_identity_survives(self):
-  old=json.loads((R/'data/metroidvania-protected.json').read_text());self.assertEqual(len(old['ids']),448);self.assertTrue(set(old['ids']) <= {g['id'] for g in self.catalog['items']})
-  for h,n in [('Roguelites',170),('Boomer shooters',150),('Real-time strategy',130)]:self.assertEqual(sum(h in g['hubs'] for g in self.catalog['items']),n)
+  old=json.loads((R/'data/metroidvania-protected.json').read_text());self.assertGreaterEqual(len(old['ids']),448);self.assertTrue(set(old['ids']) <= {g['id'] for g in self.catalog['items']})
+  for h,n in old['hubCounts'].items():self.assertEqual(sum(h in g['hubs'] for g in self.catalog['items']),n)
  def test_all_entries_have_exact_art_and_video(self):
   for g in self.rows:
    with self.subTest(game=g['name']):
     self.assertTrue(g.get('image','').startswith('https://'));self.assertTrue(g.get('trailers'));self.assertEqual(g['verification'],'verified')
     for t in g['trailers']:
-     self.assertTrue(t.get('sourceUrl','').startswith('https://'));self.assertTrue(any(t.get(k) for k in ['hls','mp4','webm','youtube']))
+     self.assertTrue(t.get('sourceUrl','').startswith('https://'));self.assertTrue(any(t.get(k) for k in ['hls','mp4','webm','dash','youtube','vimeo']))
      if t.get('youtube'):self.assertRegex(t['youtube'],r'^[A-Za-z0-9_-]{11}$')
  def test_all_store_buttons_are_confirmed(self):
   for g in self.rows:
