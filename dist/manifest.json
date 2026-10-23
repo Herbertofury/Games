@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "version": "1.1.0",
-  "builtAt": "2026-10-23T07:04:52.803359+00:00",
+  "builtAt": "2026-10-23T07:05:01.318384+00:00",
   "sourceRepository": "https://github.com/Herbertofury/Games",
   "sourceRevision": "238d5b5db33b218da3a7e36fc3786d0a32f58909",
   "sourceWiki": "https://github.com/Herbertofury/Games/wiki",
-  "datasetHash": "8b438c5057a6994df70a74ae93a8b017215f981064a510b9965c229fe247e477",
+  "datasetHash": "bf31bbd7dce14be8dcd03c2ae9c8b81dd53a5b92fe4e103d14d2431eec4f14a0",
   "records": 318,
   "verified": 318,
   "unresolved": 0,
@@ -50,8 +50,8 @@
     "itch.io"
   ],
   "html": {
-    "bytes": 3177019,
-    "sha256": "33431a5557f28d7206bbe78ce4cd8b1fc83d7e2e67075d12064b318cec18dde5"
+    "bytes": 3102399,
+    "sha256": "f6aaab6c3fce9ea55748e27ab1fa6f3b85506138d1aea766fd657863d50d8ea7"
   },
   "sourceFiles": {
     "site/styles.css": "ab869b9ee7abf08d47038048cfd03b4e462fc446b7810efc7c1f88441d8cd764",
@@ -82,11 +82,11 @@
     "tests/inline_smoke.py": "8244baaae9f524918ea91ae9349161489b5db55abdaea64708d3ca7f144924d6",
     "data/seeds.tsv": "e281fa7444b93245e032ce93b26f86e8b0be93727dde81b2a22d2b66f0577760",
     "data/name-history.json": "8ba4b6e23f9d260335aaa4bd9cca774ed3264529204359811f81da43df66977f",
-    "data/external-media-report.json": "af0d597c3635be8309d5232e8cd8917bb95f5adcaf481fa2ff212f4a00098eb5",
+    "data/external-media-report.json": "07ae2c37c88e5b8c5a02b035144ed5b7ffd341489e64072149633bfa4f41a3e2",
     "data/shooters-curation.json": "b2d7b30e5dfd064ff7c2ee6f546a6fe595fe41e52bb81b2a46e45d93c4991a89",
     "data/shooters-seeds.json": "178fc6347a919e39caab2c00879658cd360f89748c3547589f4de5b67fbcbadc",
-    "data/shooters-steam.json": "e36a7e0b58808a97e9387e4aa32626402698bc5856e643be084426f5618c20bb",
-    "data/catalog.json": "298d9094484aa48afe782fb0ac7b35b232d80cdb953f05df7d49cd98aba11634",
-    "data/shooters-external.json": "c2599b359b115c81891964d6301afe516d808bfcc41fb95fd4af9652bf1d6607"
+    "data/shooters-steam.json": "81975fe9eb6a7ebf8d743b4bed5dfece310689c8fff7d39658b755c55e820155",
+    "data/catalog.json": "2c266bed08ab56d7d834f73622f68e1865a0d6b4391ee6de03a556b032548f6a",
+    "data/shooters-external.json": "879b0e8e8c1150c0c36a50aaefbfee556ddcb0b8c075dca89c3dbe4351adc00c"
   }
 }

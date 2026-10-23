@@ -60,6 +60,6 @@ The interactive library plays compatible trailers in-page. GitHub wiki links ope
 
 ## Sources and evidence
 
-- [Official media](https://batandy.itch.io/goldensouls2) · checked 2026-10-23T06:53:53.010353+00:00
+- [Official media](https://batandy.itch.io/goldensouls2) · checked 2026-10-23T07:04:56.149669+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

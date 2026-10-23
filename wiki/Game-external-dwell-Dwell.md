@@ -42,46 +42,16 @@ The interactive library plays compatible trailers in-page. GitHub wiki links ope
 
 [Creator-published video](https://www.youtube.com/watch?v=dpTfgODVMHw)
 
-![Dwell - creator-published image](https://media.moddb.com/cache/images/mods/1/48/47592/crop_120x90/d1m3_2026-04-09_13-54-14.png)
+![Dwell - creator-published image](https://media.moddb.com/images/mods/1/48/47592/d1m3_2026-04-09_13-54-14.png)
 
-![Dwell - creator-published image](https://media.moddb.com/cache/images/mods/1/48/47592/crop_120x90/d1m3_2026-04-09_13-44-47.png)
+![Dwell - creator-published image](https://media.moddb.com/images/mods/1/48/47592/d1m3_2026-04-09_13-44-47.png)
 
-![Dwell - creator-published image](https://media.moddb.com/cache/images/mods/1/48/47592/crop_120x90/d1m2_2026-03-27_14-27-05.png)
+![Dwell - creator-published image](https://media.moddb.com/images/mods/1/48/47592/d1m2_2026-03-27_14-27-05.png)
 
-![Dwell - creator-published image](https://media.moddb.com/cache/images/mods/1/48/47592/crop_120x90/d1m2_2026-03-27_14-03-15.png)
-
-![Dwell - creator-published image](https://media.moddb.com/images/members/5/4473/4472636/profile/d2m3_2023-02-02_11-59-55.png)
-
-![Dwell - creator-published image](https://media.moddb.com/images/members/5/4473/4472636/profile/d2m1_2023-02-02_12-00-37.png)
-
-![Dwell - creator-published image](https://media.moddb.com/images/members/5/4473/4472636/profile/d2m8_2023-02-02_12-01-21.png)
-
-![Dwell - creator-published image](https://media.moddb.com/cache/images/downloads/1/246/245157/crop_120x90/d2m3_2023-02-02_11-59-55.jpg)
-
-![Dwell - creator-published image](https://media.moddb.com/images/members/5/4792/4791076/1920x1080-black-solid-color-back.jpg)
-
-![Dwell - creator-published image](https://media.moddb.com/images/members/1/473/472421/ava.jpg)
-
-![Dwell - creator-published image](https://media.moddb.com/images/members/4/3271/3270547/how_did_thou_knoweth.jpg)
-
-![Dwell - creator-published image](https://media.moddb.com/images/games/1/1/2/Quake.png)
-
-![Dwell - creator-published image](https://media.moddb.com/images/global/moddb.png)
-
-![Dwell - creator-published image](https://media.moddb.com/cache/images/mods/1/3/2138/crop_120x90/logo.jpg)
-
-![Dwell - creator-published image](https://media.moddb.com/cache/images/mods/1/71/70991/crop_120x90/logo.png)
-
-![Dwell - creator-published image](https://media.moddb.com/cache/images/mods/1/69/68523/crop_120x90/rje2m4_2.png)
-
-![Dwell - creator-published image](https://media.moddb.com/cache/images/mods/1/45/44264/crop_120x90/banner_1024x768.png)
-
-![Dwell - creator-published image](https://media.moddb.com/cache/images/mods/1/73/72370/crop_120x90/ra2console.png)
-
-![Dwell - creator-published image](https://media.moddb.com/cache/images/mods/1/36/35351/crop_120x90/Q.1.jpg)
+![Dwell - creator-published image](https://media.moddb.com/images/mods/1/48/47592/d1m2_2026-03-27_14-03-15.png)
 
 ## Sources and evidence
 
-- [Official media](https://www.moddb.com/mods/dwell) · checked 2026-10-23T06:53:53.010353+00:00
+- [Official media](https://www.moddb.com/mods/dwell) · checked 2026-10-23T07:04:56.149669+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
