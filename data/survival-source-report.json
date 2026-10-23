@@ -1,0 +1,74 @@
+{
+  "checkedAt": "2026-10-23T22:46:18.392677+00:00",
+  "external": 15,
+  "steamStoreChecks": 0,
+  "alternateLinks": 0,
+  "mediaGaps": [
+    {
+      "id": "external:minecraft",
+      "name": "Minecraft: Java & Bedrock Edition",
+      "image": false,
+      "video": false
+    },
+    {
+      "id": "external:lego-fortnite-odyssey",
+      "name": "LEGO Fortnite Odyssey",
+      "image": false,
+      "video": false
+    },
+    {
+      "id": "external:veloren",
+      "name": "Veloren",
+      "image": true,
+      "video": false
+    },
+    {
+      "id": "external:voxelibre",
+      "name": "VoxeLibre",
+      "image": false,
+      "video": false
+    },
+    {
+      "id": "external:mineclonia",
+      "name": "Mineclonia",
+      "image": false,
+      "video": false
+    },
+    {
+      "id": "external:minicraft-plus",
+      "name": "Minicraft+",
+      "image": true,
+      "video": false
+    },
+    {
+      "id": "external:survivalcraft-2",
+      "name": "Survivalcraft 2",
+      "image": true,
+      "video": false
+    },
+    {
+      "id": "external:path-of-titans",
+      "name": "Path of Titans",
+      "image": true,
+      "video": false
+    },
+    {
+      "id": "external:stranded-2",
+      "name": "Stranded II",
+      "image": false,
+      "video": false
+    },
+    {
+      "id": "external:cataclysm-bright-nights",
+      "name": "Cataclysm: Bright Nights",
+      "image": false,
+      "video": false
+    },
+    {
+      "id": "external:luun",
+      "name": "LUUN",
+      "image": false,
+      "video": false
+    }
+  ]
+}

@@ -1,0 +1,1164 @@
+{
+  "checkedAt": "2026-10-23T22:46:18.392677+00:00",
+  "pages": [
+    {
+      "url": "https://wildforge.news/en/release-calendar/",
+      "records": [
+        {
+          "appid": 2939510,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 2939510,
+          "name": "Under Canopies",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 5431210,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 5431210,
+          "name": "Boa Survival",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 5187050,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 5187050,
+          "name": "INKBORN",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 1798230,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 1798230,
+          "name": "ATMOSFAR",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 4779470,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 4779470,
+          "name": "Walkers",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 2966240,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 2966240,
+          "name": "Factory Survival",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 3116870,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 3116870,
+          "name": "Deus Mantle",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 1686230,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 1686230,
+          "name": "Mayday: The Survival Island",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 2692740,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 2692740,
+          "name": "Swappy World",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 5379330,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 5379330,
+          "name": "Hazzard Hearth",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 2649120,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 2649120,
+          "name": "Wildsite",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 5157580,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 5157580,
+          "name": "DUSTBLOOM",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 2826790,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 2826790,
+          "name": "Stormforge",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 5019800,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 5019800,
+          "name": "System Arrival",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 4981810,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 4981810,
+          "name": "Escape the Flood!",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 3177710,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 3177710,
+          "name": "On The Train",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 4528040,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 4528040,
+          "name": "Sol One",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 4018330,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 4018330,
+          "name": "Lord of Undead",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 4790660,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 4790660,
+          "name": "Moose Builders",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 4861650,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 4861650,
+          "name": "FrontierCraft",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 3517740,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 3517740,
+          "name": "Frostrail",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 3130880,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 3130880,
+          "name": "Solaria",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 3152110,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 3152110,
+          "name": "Founders",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 3835100,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        },
+        {
+          "appid": 3835100,
+          "name": "Pinkwilds",
+          "discoverySource": "https://wildforge.news/en/release-calendar/"
+        }
+      ],
+      "hash": "521421e93a4a51d056c7c21690347962af3379dd615d1a2e663885624bfd00b8"
+    },
+    {
+      "url": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1",
+      "records": [
+        {
+          "appid": 3516590,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3516590,
+          "name": "Allumeria",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 4349940,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 4349940,
+          "name": "Hoarders Realm",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2412960,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2412960,
+          "name": "Breathedge 2",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5035340,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5035340,
+          "name": "Tidewrack",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3924020,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3924020,
+          "name": "Until North Ends",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2729830,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2729830,
+          "name": "Pumpkin Woods",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1510440,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1510440,
+          "name": "Honeycomb: The World Beyond",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2736900,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2736900,
+          "name": "Quest Industries",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1374490,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1374490,
+          "name": "RuneScape: Dragonwilds",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2710040,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2710040,
+          "name": "Delverium",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5214350,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5214350,
+          "name": "Soul Monsters: Gael's Survival",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3116730,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3116730,
+          "name": "BIG LOOT",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3461270,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3461270,
+          "name": "XenoHaven",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2254990,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2254990,
+          "name": "Permafrost",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3480890,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3480890,
+          "name": "Feudal Craft",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1617120,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1617120,
+          "name": "Good Heavens!",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1271150,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1271150,
+          "name": "Elsewhere",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5218590,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5218590,
+          "name": "Hustle",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2939510,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2939510,
+          "name": "Under Canopies",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5431210,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5431210,
+          "name": "Boa Survival",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5187050,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5187050,
+          "name": "INKBORN",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1798230,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1798230,
+          "name": "ATMOSFAR",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+        }
+      ],
+      "hash": "ac96f83f6934618d93a71431850b2fb9aa7d158bf7678899695a1c51d31b7273"
+    },
+    {
+      "url": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1",
+      "records": [
+        {
+          "appid": 3516590,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3516590,
+          "name": "Allumeria",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 4349940,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 4349940,
+          "name": "Hoarders Realm",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2412960,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2412960,
+          "name": "Breathedge 2",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5035340,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5035340,
+          "name": "Tidewrack",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3924020,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3924020,
+          "name": "Until North Ends",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2729830,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2729830,
+          "name": "Pumpkin Woods",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1510440,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1510440,
+          "name": "Honeycomb: The World Beyond",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2736900,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2736900,
+          "name": "Quest Industries",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1374490,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1374490,
+          "name": "RuneScape: Dragonwilds",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2710040,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2710040,
+          "name": "Delverium",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5214350,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5214350,
+          "name": "Soul Monsters: Gael's Survival",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3116730,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3116730,
+          "name": "BIG LOOT",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3461270,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3461270,
+          "name": "XenoHaven",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2254990,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 2254990,
+          "name": "Permafrost",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3480890,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 3480890,
+          "name": "Feudal Craft",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1617120,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1617120,
+          "name": "Good Heavens!",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1271150,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 1271150,
+          "name": "Elsewhere",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5218590,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        },
+        {
+          "appid": 5218590,
+          "name": "Hustle",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+        }
+      ],
+      "hash": "622ec9ab8949d3b487d80e2e3e9d1103e45f2473fef7e4ce37dd9c75860f32ef"
+    },
+    {
+      "url": "https://wildforge.news/en/release-calendar/?release_status=upcoming&release_year=all&release_month=all&release_q&&release_page=2",
+      "records": [
+        {
+          "appid": 2375790,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=upcoming&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 2375790,
+          "name": "Aftergods",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=upcoming&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4139890,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=upcoming&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4139890,
+          "name": "TROLLHEIM: GNOMES",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=upcoming&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3642910,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=upcoming&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3642910,
+          "name": "Wyldheart",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=upcoming&release_year=all&release_month=all&release_q&&release_page=2"
+        }
+      ],
+      "hash": "0b329f5482ec94f805c5fad24d739fb73ad6a75e9f51ddec9c766bd076eb8344"
+    },
+    {
+      "url": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2",
+      "records": [
+        {
+          "appid": 4779470,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4779470,
+          "name": "Walkers",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 2966240,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 2966240,
+          "name": "Factory Survival",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3116870,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3116870,
+          "name": "Deus Mantle",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 1686230,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 1686230,
+          "name": "Mayday: The Survival Island",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 2692740,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 2692740,
+          "name": "Swappy World",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 5379330,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 5379330,
+          "name": "Hazzard Hearth",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 2649120,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 2649120,
+          "name": "Wildsite",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 5157580,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 5157580,
+          "name": "DUSTBLOOM",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 2826790,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 2826790,
+          "name": "Stormforge",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 5019800,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 5019800,
+          "name": "System Arrival",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4981810,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4981810,
+          "name": "Escape the Flood!",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3177710,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3177710,
+          "name": "On The Train",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4528040,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4528040,
+          "name": "Sol One",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4018330,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4018330,
+          "name": "Lord of Undead",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4790660,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4790660,
+          "name": "Moose Builders",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4861650,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4861650,
+          "name": "FrontierCraft",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3517740,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3517740,
+          "name": "Frostrail",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3130880,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3130880,
+          "name": "Solaria",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3152110,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3152110,
+          "name": "Founders",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3835100,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3835100,
+          "name": "Pinkwilds",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 2375790,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 2375790,
+          "name": "Aftergods",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4139890,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 4139890,
+          "name": "TROLLHEIM: GNOMES",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3642910,
+          "name": "",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        },
+        {
+          "appid": 3642910,
+          "name": "Wyldheart",
+          "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+        }
+      ],
+      "hash": "7e8f6bd9e668da8eaf1da13e8a73aab62e71103203a3bd516030511204d35a92"
+    }
+  ],
+  "items": [
+    {
+      "appid": 2939510,
+      "name": "Under Canopies",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 5431210,
+      "name": "Boa Survival",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 5187050,
+      "name": "INKBORN",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 1798230,
+      "name": "ATMOSFAR",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 4779470,
+      "name": "Walkers",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 2966240,
+      "name": "Factory Survival",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 3116870,
+      "name": "Deus Mantle",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 1686230,
+      "name": "Mayday: The Survival Island",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 2692740,
+      "name": "Swappy World",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 5379330,
+      "name": "Hazzard Hearth",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 2649120,
+      "name": "Wildsite",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 5157580,
+      "name": "DUSTBLOOM",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 2826790,
+      "name": "Stormforge",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 5019800,
+      "name": "System Arrival",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 4981810,
+      "name": "Escape the Flood!",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 3177710,
+      "name": "On The Train",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 4528040,
+      "name": "Sol One",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 4018330,
+      "name": "Lord of Undead",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 4790660,
+      "name": "Moose Builders",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 4861650,
+      "name": "FrontierCraft",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 3517740,
+      "name": "Frostrail",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 3130880,
+      "name": "Solaria",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 3152110,
+      "name": "Founders",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 3835100,
+      "name": "Pinkwilds",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 3516590,
+      "name": "Allumeria",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 4349940,
+      "name": "Hoarders Realm",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 2412960,
+      "name": "Breathedge 2",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 5035340,
+      "name": "Tidewrack",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 3924020,
+      "name": "Until North Ends",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 2729830,
+      "name": "Pumpkin Woods",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 1510440,
+      "name": "Honeycomb: The World Beyond",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 2736900,
+      "name": "Quest Industries",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 1374490,
+      "name": "RuneScape: Dragonwilds",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 2710040,
+      "name": "Delverium",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 5214350,
+      "name": "Soul Monsters: Gael's Survival",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 3116730,
+      "name": "BIG LOOT",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 3461270,
+      "name": "XenoHaven",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 2254990,
+      "name": "Permafrost",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 3480890,
+      "name": "Feudal Craft",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 1617120,
+      "name": "Good Heavens!",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 1271150,
+      "name": "Elsewhere",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 5218590,
+      "name": "Hustle",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=released&release_year=all&release_month=all&release_q&&release_page=1"
+    },
+    {
+      "appid": 2375790,
+      "name": "Aftergods",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 4139890,
+      "name": "TROLLHEIM: GNOMES",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    },
+    {
+      "appid": 3642910,
+      "name": "Wyldheart",
+      "discoverySource": "https://wildforge.news/en/release-calendar/?release_status=all&release_year=all&release_month=all&release_q&&release_page=2"
+    }
+  ],
+  "terminal": true,
+  "scope": "All linked pages in the small publisher/discovery calendar, followed to terminal Next. Primary Steam facts are required before recommendation."
+}
