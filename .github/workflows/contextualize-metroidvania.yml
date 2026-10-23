@@ -1,0 +1,40 @@
+name: Correct Metroidvania genre context
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/contextualize-metroidvania.yml']
+permissions:
+  contents: write
+  actions: write
+jobs:
+  correct:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Apply the locally proven contextual classification fix
+        run: |
+          python3 scripts/contextualize_metroidvania.py
+          node --check site/app.js
+          python3 -m py_compile scripts/metroidvania_model.py scripts/metroidvania_qa.py
+          python3 scripts/build.py
+          python3 -m unittest discover -s tests -p 'test_*.py'
+      - name: Persist source before the full runtime gate
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/app.js scripts/metroidvania_model.py scripts/metroidvania_qa.py
+          if ! git diff --cached --quiet; then
+            git commit -m 'Use exact active-genre shelves, styles, and editorial fit for shared games'
+            git stash push --include-untracked -m 'Generated preview before contextual source checkpoint'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Run the existing complete publication and verification workflow
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publish.yml --ref main
