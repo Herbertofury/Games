@@ -1,0 +1,28 @@
+name: Audit remaining platformer videos
+on:
+  workflow_dispatch:
+  push:
+    branches: [platformers-completion-2026-10-23]
+    paths: [scripts/audit_platformer_video_gaps.py, .github/workflows/platformer-video-audit.yml]
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          python3 -m pip install beautifulsoup4==4.13.4
+          python3 scripts/audit_platformer_video_gaps.py
+          mkdir -p qa/platformer-video-audit
+          git log -1 --format='%H %s' > qa/platformer-video-audit/source-revision.txt
+          python3 -c "import pathlib,zipfile; r=pathlib.Path('.'); z=zipfile.ZipFile('qa/platformer-video-audit/source-snapshot.zip','w',zipfile.ZIP_DEFLATED); [z.write(p) for d in ['scripts','site','tests','data','.github','docs'] for p in (r/d).rglob('*') if p.is_file() and '__pycache__' not in str(p) and p.suffix not in ['.png','.jpg','.mp4']]; z.close()"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: platformer-video-source-audit
+          path: qa/platformer-video-audit/
