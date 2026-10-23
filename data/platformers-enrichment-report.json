@@ -1,0 +1,364 @@
+{
+  "checkedAt": "2026-10-23T16:58:22.046365+00:00",
+  "candidates": 366,
+  "verified": 316,
+  "unresolved": [
+    {
+      "candidate": "Aeterna Lucis",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Aeterna Noctis",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Aureole - Wings of Hope",
+      "collection": "Colorful & approachable",
+      "state": "unresolved-active",
+      "reason": "Exact identity unresolved or ambiguous; candidates=[]; rejected hints=[]",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Batbarian: Testament of the Primordials",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Big Hops",
+      "collection": "3D worlds & collectathons",
+      "state": "unresolved-active",
+      "reason": "Exact identity unresolved or ambiguous; candidates=[(1221480, 'Big Hops Together'), (4204860, 'Big Hops Soundtrack')]; rejected hints=[{'hintAppid': 1221480, 'returnedName': 'Big Hops Together', 'decision': 'Rejected mismatched or unavailable discovery hint'}]",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Blade Chimera",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "Exact identity unresolved or ambiguous; candidates=[(3345230, 'Blade Chimera - Original Soundtrack')]; rejected hints=[]",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Blast Brigade vs. the Evil Legion of Dr. Cread",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Castlevania Advance Collection",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Castlevania Dominus Collection",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Constance",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "CONVERGENCE: A League of Legends Story",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Crash Bandicoot 4: It's About Time",
+      "collection": "3D worlds & collectathons",
+      "state": "unresolved-active",
+      "reason": "Exact identity unresolved or ambiguous; candidates=[(1378990, 'Crash Bandicoot\u2122 4: It\u2019s About Time')]; rejected hints=[{'hintAppid': 1378990, 'returnedName': 'Crash Bandicoot\u2122 4: It\u2019s About Time', 'decision': 'Rejected mismatched or unavailable discovery hint'}]",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Crash Bandicoot N. Sane Trilogy",
+      "collection": "3D worlds & collectathons",
+      "state": "unresolved-active",
+      "reason": "Exact identity unresolved or ambiguous; candidates=[(731490, 'Crash Bandicoot\u2122 N. Sane Trilogy')]; rejected hints=[{'hintAppid': 731490, 'returnedName': 'Crash Bandicoot\u2122 N. Sane Trilogy', 'decision': 'Rejected mismatched or unavailable discovery hint'}]",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Crowsworn",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Dandara: Trials of Fear Edition",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Death's Gambit: Afterlife",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Demon Turf",
+      "collection": "Speed & expressive movement",
+      "state": "unresolved-active",
+      "reason": "Exact identity unresolved or ambiguous; candidates=[(1325900, 'Demon Turf: Queens Edition'), (1451650, 'Demon Turf: Trials'), (1747890, 'Demon Turf: Neon Splash')]; rejected hints=[{'hintAppid': 1325900, 'returnedName': 'Demon Turf: Queens Edition', 'decision': 'Rejected mismatched or unavailable discovery hint'}]",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Disney Illusion Island",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Dungeon Munchies",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "F.I.S.T.: Forged In Shadow Torch",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Fearmonium",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Gestalt: Steam & Cinder",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "GRIME",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "GRIME II",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Guacamelee! 2",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Guacamelee! Super Turbo Championship Edition",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "HAAK",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "kuso",
+      "collection": "Precision & mastery",
+      "state": "unresolved-active",
+      "reason": "Exact identity unresolved or ambiguous; candidates=[(578930, 'LOVE 2: kuso'), (578940, 'kuso Demo'), (1263870, 'LOVE 2: kuso - Hat'), (979280, 'LOVE 2: kuso - Soundtrack Vol 2'), (748790, \"kuso - Soundtrack Vol 1 + Collector's Content\"), (2909230, 'This Curse Is Metal as Hell! | Kusodeka Bayashi'), (5155390, 'Pretty Home Run Derby - Re: Return of KUSOGAKI'), (787140, 'The Adventures of Kusoge')]; rejected hints=[{'hintAppid': 578930, 'returnedName': 'LOVE 2: kuso', 'decision': 'Rejected mismatched or unavailable discovery hint'}]",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Lone Fungus 2",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "Exact identity unresolved or ambiguous; candidates=[]; rejected hints=[]",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Lost Ruins",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Mandragora: Whispers of the Witch Tree",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "MIO: Memories in Orbit",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Nikoderiko: The Magical World",
+      "collection": "Colorful & approachable",
+      "state": "unresolved-active",
+      "reason": "Exact identity unresolved or ambiguous; candidates=[(2374190, 'Nikoderiko: The Magical World \u2014 Director\u2019s Cut'), (3365770, \"Nikoderiko: The Magical World - Director's Cut | Demo\"), (4202320, 'Nikoderiko: The Magical World - Original Soundtrack & Digital Artbook')]; rejected hints=[]",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "OUTBUDDIES DX",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Rain World",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Rebel Transmute",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "RUBATO",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Sackboy: A Big Adventure",
+      "collection": "3D worlds & collectathons",
+      "state": "unresolved-active",
+      "reason": "Exact identity unresolved or ambiguous; candidates=[(1599660, 'Sackboy\u2122: A Big Adventure'), (2228240, 'Sackboy\u2122: A Big Adventure - Emote Pack'), (2206300, 'Sackboy\u2122: A Big Adventure - Kratos Costume'), (2216230, 'Sackboy\u2122: A Big Adventure - Football Costume'), (2232520, 'Sackboy\u2122: A Big Adventure - ASTRO BOT Costume'), (2232502, \"Sackboy\u2122: A Big Adventure - Valentine's Costume\"), (2232510, 'Sackboy\u2122: A Big Adventure \u2013 Emotions Emote Pack'), (2232410, 'Sackboy\u2122: A Big Adventure - Monkey King Costume')]; rejected hints=[{'hintAppid': 1599660, 'returnedName': 'Sackboy\u2122: A Big Adventure', 'decision': 'Rejected mismatched or unavailable discovery hint'}]",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Salt and Sacrifice",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Salt and Sanctuary",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Spyro Reignited Trilogy",
+      "collection": "3D worlds & collectathons",
+      "state": "unresolved-active",
+      "reason": "Exact identity unresolved or ambiguous; candidates=[(996580, 'Spyro\u2122 Reignited Trilogy')]; rejected hints=[{'hintAppid': 996580, 'returnedName': 'Spyro\u2122 Reignited Trilogy', 'decision': 'Rejected mismatched or unavailable discovery hint'}]",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "SteamWorld Dig",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "SteamWorld Dig 2",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "The Last Faith",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "The Mummy Demastered",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "The Smurfs - Dreams",
+      "collection": "3D worlds & collectathons",
+      "state": "unresolved-active",
+      "reason": "Exact identity unresolved or ambiguous; candidates=[]; rejected hints=[]",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Treasure Adventure World",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Ultros",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Unbound: Worlds Apart",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    },
+    {
+      "candidate": "Voidwrought",
+      "collection": "Exploration & Metroidvanias",
+      "state": "unresolved-active",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-10-23T16:58:22.046365+00:00"
+    }
+  ],
+  "released": 311,
+  "earlyAccess": 1,
+  "upcoming": 4,
+  "withImages": 316,
+  "withVideos": 313,
+  "reviewErrors": [],
+  "sha256": "8e1323a33afcc05c6f415dad382cbb8c39d7e0642456c7210e712fb96284d784"
+}
