@@ -57,13 +57,14 @@ jobs:
           python3 scripts/media_qa.py
           mkdir -p qa/live-media
           cp qa/desktop.png qa/mobile.png qa/detail.png qa/live-media/
-      - name: Real browser acceptance for all genres and the entire Metroidvania hub
+      - name: Real browser acceptance for every genre and completed platformer media
         run: |
           python3 tests/browser_qa.py
           python3 tests/multiplatform_qa.py
           python3 tests/source_completion_qa.py
           python3 tests/rts_qa.py
           python3 tests/platformers_qa.py
+          python3 tests/platformer_completion_qa.py
           python3 scripts/metroidvania_qa.py
           cp qa/live-media/*.png qa/
       - name: Publish native wiki
@@ -100,7 +101,7 @@ jobs:
           git add dist wiki data
           git add -f docs/qa
           if ! git diff --cached --quiet; then
-            git commit -m 'Publish verified Metroidvania and platformer atlases with full-library runtime evidence'
+            git commit -m 'Publish verified Metroidvania and complete platformer atlases with full-library runtime evidence'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
