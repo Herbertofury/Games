@@ -3,9 +3,9 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['data/platformers-*','scripts/platformer*.py','scripts/collect_platformers.py','docs/PLATFORMERS-STUDY.md','site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','scripts/source_links.py','scripts/curate_rts.py','scripts/enrich_rts.py','scripts/collect_rts.py','data/rts-*.json','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json','data/media-completion.json','data/storefront-discovery.json','data/source-editions.json','.github/workflows/publish.yml']
+    paths: ['data/platformers-*','scripts/platformer*.py','scripts/collect_platformers.py','docs/PLATFORMERS-STUDY.md','site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','scripts/source_links.py','scripts/curate_rts.py','scripts/enrich_rts.py','scripts/collect_rts.py','data/rts-*.json','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json','data/media-completion.json','data/storefront-discovery.json','data/source-editions.json','scripts/metroidvania_model.py','scripts/metroidvania_wiki.py','scripts/metroidvania_qa.py','data/metroidvania-curation.json','data/metroidvania-media.json','data/metroidvania-review-decisions.json','data/metroidvania-storefronts.json','.github/workflows/publish.yml']
   workflow_run:
-    workflows: ['Refresh Steam catalog','Add game recommendation','Install library source','Expand shooter library','Refresh shooter discoveries','Refresh RTS discoveries','Enrich RTS collection']
+    workflows: ['Refresh Steam catalog','Add game recommendation','Install library source','Expand shooter library','Refresh shooter discoveries','Refresh RTS discoveries','Enrich RTS collection','Refresh Metroidvania discoveries','Enrich Metroidvania collection','Finalize Metroidvania source']
     types: [completed]
 permissions:
   contents: write
@@ -18,7 +18,7 @@ jobs:
   build:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     outputs:
       pages-ready: ${{ steps.pages-probe.outputs.ready }}
     steps:
@@ -29,8 +29,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Build the canonical snapshot
+      - name: Build the canonical snapshot and run every source regression
         run: |
+          set -o pipefail
           test -s data/catalog.json || { echo 'Official metadata refresh has not published its snapshot yet.'; exit 1; }
           python3 -m pip install -r requirements-dev.txt
           python3 scripts/reconcile.py
@@ -39,7 +40,9 @@ jobs:
           python3 scripts/build.py
           node --check site/app.js
           node --check site/platformers.js
-          python3 -m unittest discover -s tests -p 'test_*.py'
+          mkdir -p qa
+          python3 -m unittest discover -s tests -p 'test_*.py' 2>&1 | tee qa/unit-tests.log
+          python3 -c 'import json,re; s=open("qa/unit-tests.log").read();m=re.search(r"Ran (\d+) tests",s);json.dump({"passed":True,"tests":int(m[1]) if m else None},open("qa/unit-tests.json","w"),indent=2)'
       - name: Install browser QA dependencies
         run: |
           if command -v google-chrome >/dev/null; then
@@ -54,13 +57,14 @@ jobs:
           python3 scripts/media_qa.py
           mkdir -p qa/live-media
           cp qa/desktop.png qa/mobile.png qa/detail.png qa/live-media/
-      - name: Real browser acceptance tests
+      - name: Real browser acceptance for all genres and the entire Metroidvania hub
         run: |
           python3 tests/browser_qa.py
           python3 tests/multiplatform_qa.py
           python3 tests/source_completion_qa.py
           python3 tests/rts_qa.py
           python3 tests/platformers_qa.py
+          python3 scripts/metroidvania_qa.py
           cp qa/live-media/*.png qa/
       - name: Publish native wiki
         env:
@@ -87,6 +91,7 @@ jobs:
           cp qa/shooters-*.png docs/qa/
           cp qa/rts-*.png docs/qa/
           cp qa/platformers-*.png docs/qa/
+          cp qa/metroidvania-*.png docs/qa/
           TESTED_HTML_SHA=$(sha256sum dist/index.html | cut -d' ' -f1)
           python3 scripts/build.py
           test "$TESTED_HTML_SHA" = "$(sha256sum dist/index.html | cut -d' ' -f1)"
@@ -95,7 +100,7 @@ jobs:
           git add dist wiki data
           git add -f docs/qa
           if ! git diff --cached --quiet; then
-            git commit -m 'Publish verified platformer study and full-library runtime evidence'
+            git commit -m 'Publish verified Metroidvania and platformer atlases with full-library runtime evidence'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
@@ -104,7 +109,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           TAG="catalog-${GITHUB_RUN_NUMBER}"
-          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title 'Games - Living Library with Platformers' --notes-file docs/RELEASE.md --target main
+          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title 'Games - Living Library' --notes-file docs/RELEASE.md --target main
           gh release upload "$TAG" 'release/Games - Explorer.html' 'release/Games - Library.zip' release/SHA256SUMS.txt --clobber
           gh release view "$TAG" --json url,assets > qa/release-publication.json
       - uses: actions/upload-pages-artifact@v3
@@ -119,6 +124,9 @@ jobs:
             release/
             qa/
             data/external-media-report.json
+            data/metroidvania-reconciliation.json
+            data/metroidvania-review-decisions.json
+            docs/METROIDVANIA.md
   deploy:
     needs: build
     if: needs.build.outputs.pages-ready == 'true'
