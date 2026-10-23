@@ -111,3 +111,33 @@ Exact next action for later content work: reuse catalog-16, the same stable IDs,
 All 439 platformer records now have artwork and supported video metadata. The twenty former video gaps are closed through reviewed sources or two explicitly credited public-browser previews. The production-browser gate played all fourteen added direct streams and verified six consent-first YouTube identities. Ten primary route counts and all installed genre memberships remain intact. Every unit test and installed-genre browser suite passed without skips.
 
 Evidence: `docs/qa/platformers-completion-receipt.json`, `docs/qa/platformers-completion-qa.json`, `data/platformers-study-report.json`, and `docs/PLATFORMERS-COMPLETION.md`. Native Wiki/release publication remains a separate gate.
+
+## Metroidvania release and current backup verified, October 23, 2026
+
+This is the latest verified checkpoint and supersedes the historical next-action instructions above. Resume from catalog-24, not interrupted source-completion or preview-capture runs.
+
+Release: https://github.com/Herbertofury/Games/releases/tag/catalog-24
+Runtime source: `611e0965462c14b82c4b1c93e3bd0013fdc4e9a7`.
+Published source/artifact commit: `82754ff9656cf03b362c9815e1db3a3a196bb2c2`.
+Successful full publication run: `40008375914`, artifact `12524909178`.
+
+The current library contains 1,189 unique records. The Metroidvania hub has 430 unique entries in 16 collections: 405 Steam identities and 25 external identities, with 382 released, 9 Early Access, 3 prototypes and 36 explicitly upcoming games. All 448 identities from catalog-16 are preserved, as is the newer platformer work. Current hub memberships are 198 Roguelites, 150 Boomer shooters, 130 Real-time strategy, 430 Metroidvanias and 439 Platformers; overlapping memberships are not counted as separate games.
+
+All 430 Metroidvania entries have source-grounded artwork, supported embedded-video metadata and direct distribution links. The 723 per-game source references comprise 522 Steam links (including separately labelled demos), 108 GOG, 70 itch.io, 5 official-site, 2 IndieDB, 1 PlayStation, 1 Konami, 5 Humble Store, 7 Nintendo and 2 Patreon references. This is confirmed coverage, not a claim to every worldwide retailer. Creator support, console subscriptions, demos, prototypes, historical footage and full releases remain distinct.
+
+The successful production run contains 83 unit tests and 256 checks across seven browser suites, including 41 Metroidvania checks. All 430 detail panels and source-button sets were verified, and all 430 primary artworks decoded from actual remote bytes. Hollow Knight, Moadra and Nine Sols had advancing video playback with decoded frames. Creator YouTube consent, exact embed identities, personal-state persistence, all-record exports, mobile bounds and the exact portable artifact were verified. No uncaught JavaScript errors were reported. This is not a claim that every external video was played end to end. The existing test evidence was reused on continuation because the release bytes had not changed.
+
+Native wiki publication/readback: commit `2dc8948450b72ffe807117f129e7e9042774c869`, 1,223 generated pages. Metroidvanias, Metroidvania-Media and Metroidvania-Underground file hashes match that publication report. The wiki embeds artwork and links exact videos; the interactive HTML supplies in-page players. Desktop and mobile Metroidvania screenshots were inspected.
+
+Dataset SHA-256: `62980fc8d4478615541ae5db8fb482090a36ded36ac98c5ec58f0125577555bc`.
+HTML: 13,095,527 bytes; SHA-256 `12e22d9e126f8f41d6ee4651a3de063288bad55b4200e042ef564e539ee6a04c`.
+Source/library ZIP: 18,078,379 bytes; SHA-256 `ea86fed1b87b1a3ea284ffa644272cf50d4ea31dfe7f8940b7a7c6151d6ba7d5`.
+Full artifact: 40,801,721 bytes; SHA-256 `5fbef7ecd653cf05cee8cb08227ef1ff47aee9b08873c53c8bfc1e00858e079d`.
+
+The stable Drive backup `12wRptA5HBFWZALjgM5mBBxqE2-X-yzIR` was still catalog-16 at the start of this continuation. It was updated in place on October 23, 2026 at 20:51:01 UTC, downloaded again, and matched the complete catalog-24 artifact byte-for-byte. The release HTML and ZIP match the GitHub release API digests. No tested release asset was rebuilt or replaced merely for documentation.
+
+Research boundaries remain explicit: 13 unresolved discovery names and two unpromoted media candidates, Mongrel Story and Reawakening, remain in the source ledgers. They are not silently counted as published recommendations and have not been declared nonexistent. Every one of the 430 published entries has media. The final challenge pass checked unique identities, preservation of all prior 448 IDs, every Metroidvania source URL in its wiki atlas, exact three-page wiki hashes, and the Drive/GitHub artifact hashes. Targeted official Steam and Nintendo checks also confirmed Moadra's October 22, 2026 release, MIO's January 20, 2026 release, and the future January 28, 2027 date of Metroid Ravenous.
+
+Remaining hosting prerequisite: GitHub Pages was disabled in catalog-24's publication report. Native Wiki, GitHub release and portable HTML are published, and Drive is synchronized. Activate Settings > Pages > Source: GitHub Actions, then run Publish library for the hosted interactive site. Do not claim that the Pages URL is live.
+
+Exact next action: use catalog-24 and the current canonical source layers for requested additions or corrections. Preserve the 430 Metroidvania entries, five installed hubs, exact edition/media provenance and `games.library.v1` storage. Do not restart the old broad searches, failed preview jobs, or source-transfer bootstraps. Process only newly requested or genuinely invalidated records. This documentation-only checkpoint does not alter the verified catalog-24 app or its release lineage.
