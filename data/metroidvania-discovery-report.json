@@ -1,0 +1,1441 @@
+{
+  "inputs": 335,
+  "resolved": 259,
+  "excluded": 63,
+  "duplicates": 58,
+  "externalRoutes": [
+    {
+      "candidate": "Super Metroid",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Shinsekai: Into the Depths",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Shantae",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Treasure Adventure Game",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Momodora II",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Lyle in Cube Sector",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Metroid Prime Remastered",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    },
+    {
+      "candidate": "Metroid Prime 4: Beyond",
+      "state": "external-route",
+      "reason": "Resolve through its exact creator or console distribution, not an unrelated Steam title."
+    }
+  ],
+  "missingVideo": [
+    {
+      "id": "steam:1439960",
+      "name": "The Doomed Knight"
+    }
+  ],
+  "unresolved": [
+    {
+      "candidate": "The Last Case of Benedict Fox",
+      "collection": "Dark fantasy & soulslike worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 2023360,
+          "name": "The Last Case of Benedict Fox Definitive Edition"
+        },
+        {
+          "appid": 2402840,
+          "name": "The Last Case of Benedict Fox Soundtrack"
+        },
+        {
+          "appid": 2402850,
+          "name": "The Last Case of Benedict Fox Art Book"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Lucid",
+      "collection": "Dark fantasy & soulslike worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 4778540,
+          "name": "Lucid Cats"
+        },
+        {
+          "appid": 3495730,
+          "name": "Lucid Blocks"
+        },
+        {
+          "appid": 4026510,
+          "name": "Lucid Falls"
+        },
+        {
+          "appid": 5318690,
+          "name": "Lucid Desire"
+        },
+        {
+          "appid": 1264740,
+          "name": "Lucid Dream"
+        },
+        {
+          "appid": 389260,
+          "name": "Lucid Trips"
+        },
+        {
+          "appid": 3834120,
+          "name": "Lucid Clowder"
+        },
+        {
+          "appid": 1144290,
+          "name": "Lucid Nina"
+        },
+        {
+          "appid": 917910,
+          "name": "Lucid Path"
+        },
+        {
+          "appid": 1514480,
+          "name": "Lucid Cycle"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Convergence: A League of Legends Story",
+      "collection": "Combat, parries & beautiful worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 1276800,
+          "name": "CONVERGENCE: A League of Legends Story\u2122"
+        },
+        {
+          "appid": 2074170,
+          "name": "CONVERGENCE: A League of Legends Story\u2122 - Golden Ekko Skin"
+        },
+        {
+          "appid": 2074172,
+          "name": "CONVERGENCE: A League of Legends Story\u2122 - Ruined Ekko Skin"
+        },
+        {
+          "appid": 2074171,
+          "name": "CONVERGENCE: A League of Legends Story\u2122 - Star Guardian Ekko Skin"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Alice in Abyss",
+      "collection": "Combat, parries & beautiful worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Omega Strike",
+      "collection": "Science fiction & alien worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 1869590,
+          "name": "Omega Strikers"
+        },
+        {
+          "appid": 4352440,
+          "name": "Rift of the NecroDancer: Omega Strikers Music Pack"
+        },
+        {
+          "appid": 4352430,
+          "name": "Rift of the NecroDancer: Omega Strikers - \"The Girl Who Glitched (Ai.Mi's Theme)\" - Garrett Williamson"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Strider",
+      "collection": "Science fiction & alien worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 235210,
+          "name": "STRIDER\u2122 / \u30b9\u30c8\u30e9\u30a4\u30c0\u30fc\u98db\u7adc\u00ae"
+        },
+        {
+          "appid": 4701320,
+          "name": "Nova Strider"
+        },
+        {
+          "appid": 1768590,
+          "name": "Dune Strider"
+        },
+        {
+          "appid": 404100,
+          "name": "STEEL STRIDER"
+        },
+        {
+          "appid": 1556710,
+          "name": "Capcom Arcade Stadium\uff1aSTRIDER"
+        },
+        {
+          "appid": 3394790,
+          "name": "Strider Arena"
+        },
+        {
+          "appid": 2536250,
+          "name": "Vagrant Strider"
+        },
+        {
+          "appid": 4238310,
+          "name": "Chaos Strider"
+        },
+        {
+          "appid": 2669210,
+          "name": "Space Strider"
+        },
+        {
+          "appid": 2266980,
+          "name": "Cyber Strider"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Disney Illusion Island",
+      "collection": "Hand-drawn, charming & colorful",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 2054660,
+          "name": "Disney Illusion Island Starring Mickey and Friends"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Shantae: Risky's Revenge - Director's Cut",
+      "collection": "Hand-drawn, charming & colorful",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Mystik Belle",
+      "collection": "Retro castles & pixel-art adventures",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 332610,
+          "name": "Mystik Belle: Enchanted Edition"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Super Zangyura",
+      "collection": "Retro castles & pixel-art adventures",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Mini Knight",
+      "collection": "Short, sweet & miniature worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 2222250,
+          "name": "Mini Knight's Journey"
+        },
+        {
+          "appid": 2290820,
+          "name": "Mini Knight's Journey Demo"
+        },
+        {
+          "appid": 698470,
+          "name": "Hyper Knights - Minion Football"
+        },
+        {
+          "appid": 4072150,
+          "name": "Cosmo Knight Zion - Special Mini Comic - DLC"
+        },
+        {
+          "appid": 2087760,
+          "name": "Capcom Arcade 2nd Stadium: Mini-Album Track 10 - A.K.A Knights of the Round - Start Waiting Screen"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "XeoDusk",
+      "collection": "Short, sweet & miniature worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Magenta Horizon",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 2109060,
+          "name": "Magenta Horizon - Neverending Harvest"
+        },
+        {
+          "appid": 2455830,
+          "name": "Magenta Horizon Soundtrack"
+        },
+        {
+          "appid": 2110030,
+          "name": "Magenta Horizon Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Plague Huntress",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Savior",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 3609080,
+          "name": "StarSavior"
+        },
+        {
+          "appid": 4409740,
+          "name": "SaviorS : Oath of the Blade"
+        },
+        {
+          "appid": 372000,
+          "name": "Tree of Savior (English Ver.)"
+        },
+        {
+          "appid": 3158070,
+          "name": "Deadline Savior"
+        },
+        {
+          "appid": 3282040,
+          "name": "Stray Savior"
+        },
+        {
+          "appid": 3620430,
+          "name": "Astral Savior"
+        },
+        {
+          "appid": 4263440,
+          "name": "Dream Savior"
+        },
+        {
+          "appid": 1290770,
+          "name": "Mushroom Savior"
+        },
+        {
+          "appid": 871310,
+          "name": "Arc Savior"
+        },
+        {
+          "appid": 3173680,
+          "name": "Deadline Savior Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Sorrow of the Infernal",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Vigilant: The Lunar Rebellion",
+      "collection": "Indie deep cuts & unusual mechanics",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Constance",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2313700,
+          "name": "Constance"
+        },
+        {
+          "appid": 1211479,
+          "name": "Train Simulator: Lake Constance: Schaffhausen \u2013 Kreuzlingen Route Add-On"
+        },
+        {
+          "appid": 4176300,
+          "name": "Constance Original Soundtrack"
+        },
+        {
+          "appid": 4511990,
+          "name": "Everlusting Life - Mascot Constance"
+        },
+        {
+          "appid": 1922047,
+          "name": "TS Marketplace: Lake Constance Scenario Pack"
+        },
+        {
+          "appid": 3351070,
+          "name": "ConsTance"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Blade Chimera",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 3345230,
+          "name": "Blade Chimera - Original Soundtrack"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Voidwrought",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2014550,
+          "name": "Voidwrought"
+        },
+        {
+          "appid": 3001910,
+          "name": "Voidwrought Soundtrack"
+        },
+        {
+          "appid": 2865740,
+          "name": "Voidwrought Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Biogun",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1219240,
+          "name": "BioGun"
+        },
+        {
+          "appid": 3498160,
+          "name": "BioGun Soundtrack"
+        },
+        {
+          "appid": 1861680,
+          "name": "BioGun Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Awaken: Astral Blade",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1716310,
+          "name": "AWAKEN - Astral Blade"
+        },
+        {
+          "appid": 3268980,
+          "name": "AWAKEN - Astral Blade Soundtrack"
+        },
+        {
+          "appid": 3269010,
+          "name": "AWAKEN - Astral Blade Digital Artbook"
+        },
+        {
+          "appid": 3266670,
+          "name": "AWAKEN - Astral Blade Golden Scale Set"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Bioframe Outpost",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 463730,
+          "name": "Bioframe Outpost"
+        },
+        {
+          "appid": 2133340,
+          "name": "Bioframe Outpost Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Turbo Kid",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1733250,
+          "name": "Turbo Kid"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Marko: Beyond Brave",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1186470,
+          "name": "Marko: Beyond Brave"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Rebel Engine",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1977200,
+          "name": "Rebel Engine"
+        },
+        {
+          "appid": 2849090,
+          "name": "Rebel Engine Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Yars Rising",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2534370,
+          "name": "Yars Rising"
+        },
+        {
+          "appid": 3226170,
+          "name": "The Sound of Yars Rising - Official Soundtrack"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Ultros",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2386310,
+          "name": "Ultros"
+        },
+        {
+          "appid": 2649740,
+          "name": "Ultros: Soundtrack"
+        },
+        {
+          "appid": 2709040,
+          "name": "Ultros - Demo"
+        },
+        {
+          "appid": 2649730,
+          "name": "Ultros: Digital Artbook"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Worldless",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1898500,
+          "name": "Worldless"
+        },
+        {
+          "appid": 1180670,
+          "name": "Worldless: Mercenaries"
+        },
+        {
+          "appid": 2546820,
+          "name": "Worldless Soundtrack"
+        },
+        {
+          "appid": 2262290,
+          "name": "Worldless Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Trinity Fusion",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1911360,
+          "name": "Trinity Fusion"
+        },
+        {
+          "appid": 2230610,
+          "name": "Trinity Fusion Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Venture to the Vile",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2153750,
+          "name": "Venture to the Vile"
+        },
+        {
+          "appid": 2517890,
+          "name": "Venture to the Vile Demo"
+        },
+        {
+          "appid": 2928180,
+          "name": "Venture to the Vile - Original Soundtrack-"
+        },
+        {
+          "appid": 2928170,
+          "name": "Venture to the Vile -Original Comic-"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Moonlight Pulse",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2243250,
+          "name": "Moonlight Pulse"
+        },
+        {
+          "appid": 2291860,
+          "name": "Moonlight Pulse Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Exil",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2694490,
+          "name": "Path of Exile 2"
+        },
+        {
+          "appid": 440900,
+          "name": "Conan Exiles Enhanced"
+        },
+        {
+          "appid": 3347400,
+          "name": "GIRLS' FRONTLINE 2: EXILIUM"
+        },
+        {
+          "appid": 4131390,
+          "name": "Exil Island"
+        },
+        {
+          "appid": 2170390,
+          "name": "EXIL"
+        },
+        {
+          "appid": 238960,
+          "name": "Path of Exile"
+        },
+        {
+          "appid": 1206200,
+          "name": "Conan Exiles Enhanced: Isle of Siptah"
+        },
+        {
+          "appid": 1123400,
+          "name": "The Land of Exile"
+        },
+        {
+          "appid": 3077400,
+          "name": "WhatRogue\uff1aExile Land"
+        },
+        {
+          "appid": 3801750,
+          "name": "Exile 2097: Space Odyssey"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Exographer",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2834320,
+          "name": "Exographer"
+        },
+        {
+          "appid": 3225410,
+          "name": "Exographer Original Game Soundtrack"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Crypt Custodian",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2394650,
+          "name": "Crypt Custodian"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Zau",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 2316580,
+          "name": "Tales of Kenzera\u2122: ZAU"
+        },
+        {
+          "appid": 2739950,
+          "name": "Tales of Kenzera\u2122: ZAU Demo"
+        },
+        {
+          "appid": 4943990,
+          "name": "Prinzessin Lillifee \u2013 Zauberhafte Spielesammlung"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "MARS 2120",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1424290,
+          "name": "MARS 2120"
+        },
+        {
+          "appid": 3802560,
+          "name": "MARS 2120 - The more, the merrier"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Iron Diamond",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2226980,
+          "name": "Iron Diamond"
+        },
+        {
+          "appid": 3043750,
+          "name": "Iron Diamond Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Guns of Fury",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 3099000,
+          "name": "Guns of Fury"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Beyond the Ice Palace 2",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2384730,
+          "name": "Beyond the Ice Palace 2"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Shadow Labyrinth",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1859430,
+          "name": "Shadow Labyrinth"
+        },
+        {
+          "appid": 3082690,
+          "name": "Dead Soul TowerDefense:Shadow Labyrinth"
+        },
+        {
+          "appid": 3349710,
+          "name": "Shadow Labyrinth - Original Arcade SFX"
+        },
+        {
+          "appid": 3349720,
+          "name": "Shadow Labyrinth - Digital Artbook & Soundtrack"
+        },
+        {
+          "appid": 3358790,
+          "name": "Dead Soul TowerDefense:Shadow Labyrinth Demo"
+        },
+        {
+          "appid": 2505200,
+          "name": "Shadows Labyrinth"
+        },
+        {
+          "appid": 3158950,
+          "name": "Labyrinth Of Shadows"
+        },
+        {
+          "appid": 3049540,
+          "name": "Shadows Labyrinth Demo"
+        },
+        {
+          "appid": 1074590,
+          "name": "Pon Para and the Great Southern Labyrinth - Love and Shadows"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Shinobi: Art of Vengeance",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2361770,
+          "name": "SHINOBI: Art of Vengeance"
+        },
+        {
+          "appid": 3489510,
+          "name": "SHINOBI: Art of Vengeance Demo"
+        },
+        {
+          "appid": 3381240,
+          "name": "SHINOBI: Art of Vengeance - SEGA Villains Stage"
+        },
+        {
+          "appid": 3381210,
+          "name": "SHINOBI: Art of Vengeance - SEGA Blue Outfit"
+        },
+        {
+          "appid": 3381260,
+          "name": "SHINOBI: Art of Vengeance Digital Deluxe Upgrade"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Anima Flux",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 763180,
+          "name": "Anima Flux"
+        },
+        {
+          "appid": 2606280,
+          "name": "Anima Flux Demo"
+        },
+        {
+          "appid": 3826700,
+          "name": "Anima Flux Soundtrack"
+        },
+        {
+          "appid": 3487550,
+          "name": "Anima Flux - Digital Artbook"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Awita: Journey of Hope",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2382240,
+          "name": "Awita: Journey of Hope"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Altered Alma",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2190700,
+          "name": "Altered Alma"
+        },
+        {
+          "appid": 3119940,
+          "name": "Altered Alma Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Akurra",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Big Hops",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 1221480,
+          "name": "Big Hops Together"
+        },
+        {
+          "appid": 4204860,
+          "name": "Big Hops Soundtrack"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Bloodstained: The Scarlet Engagement",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1883810,
+          "name": "Bloodstained: The Scarlet Engagement"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Crowsworn",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1614330,
+          "name": "Crowsworn"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Deviator",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2620730,
+          "name": "DEVIATOR"
+        },
+        {
+          "appid": 3085930,
+          "name": "Deviator Soundtrack"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Eden's Guardian",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2589980,
+          "name": "Eden's Guardian"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Faeland",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1280080,
+          "name": "Faeland"
+        },
+        {
+          "appid": 1007190,
+          "name": "Fantasy Grounds - Meanders Map Pack: The Faelands (Map Pack)"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Grim Symphony",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 1407810,
+          "name": "Fantasy Grounds - Pathfinder 2 RPG - Pathfinder Society Scenario #1-25: Grim Symphony"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Mariachi Legends",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2376260,
+          "name": "Mariachi Legends"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Morkull Ragast's Rage",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2191540,
+          "name": "Morkull Ragast's Rage"
+        },
+        {
+          "appid": 2643440,
+          "name": "Morkull Ragast's Rage Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Morkull Ascend to the Gods",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 4108490,
+          "name": "Morkull Ascend to the Gods"
+        },
+        {
+          "appid": 4301080,
+          "name": "Morkull Ascend to the Gods Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Pale Cinder",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2352520,
+          "name": "Pale Cinder"
+        },
+        {
+          "appid": 2362500,
+          "name": "Pale Cinder Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Perennial Order",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1411020,
+          "name": "Perennial Order"
+        },
+        {
+          "appid": 2508660,
+          "name": "Perennial Order Demo"
+        },
+        {
+          "appid": 3164050,
+          "name": "Perennial Order Original Soundtrack"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "ReSetna",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2936080,
+          "name": "ReSetna"
+        },
+        {
+          "appid": 3587410,
+          "name": "ReSetna Official Soundtrack"
+        },
+        {
+          "appid": 3589800,
+          "name": "ReSetna Official Artbook"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Silent Santicado",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1287930,
+          "name": "Silent Santicado"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Souno's Curse",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1711700,
+          "name": "Souno's Curse"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "The Siege and the Sandfox",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 653060,
+          "name": "The Siege and the Sandfox"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "The Spirit of the Samurai",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1507120,
+          "name": "The Spirit of the Samurai"
+        },
+        {
+          "appid": 2208650,
+          "name": "The Spirit of the Samurai Demo"
+        },
+        {
+          "appid": 3358330,
+          "name": "The Spirit of the Samurai Soundtrack"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "The Transylvania Adventure of Simon Quest",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2749920,
+          "name": "The Transylvania Adventure of Simon Quest"
+        },
+        {
+          "appid": 3147990,
+          "name": "The Transylvania Adventure of Simon Quest Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Windswept",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1660960,
+          "name": "Windswept"
+        },
+        {
+          "appid": 585880,
+          "name": "Once on a windswept night"
+        },
+        {
+          "appid": 2333150,
+          "name": "Windswept Demo"
+        },
+        {
+          "appid": 4108870,
+          "name": "Windswept - Official Soundtrack"
+        },
+        {
+          "appid": 588280,
+          "name": "Once on a windswept night - OST"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "YesterSol",
+      "collection": "Fresh discoveries & emerging worlds",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2248230,
+          "name": "YesterSol"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Revenge of the Savage Planet",
+      "collection": "3D & first-person labyrinths",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2787320,
+          "name": "Revenge of the Savage Planet"
+        },
+        {
+          "appid": 3986890,
+          "name": "Revenge of the Savage Planet - Remix Mode"
+        },
+        {
+          "appid": 3874140,
+          "name": "Revenge of the Savage Planet Demo"
+        },
+        {
+          "appid": 4141000,
+          "name": "Revenge of the Savage Planet - Bingo Brawl"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "High on Life",
+      "collection": "3D & first-person labyrinths",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 1583230,
+          "name": "High On Life"
+        },
+        {
+          "appid": 2069250,
+          "name": "High On Life 2"
+        },
+        {
+          "appid": 4462540,
+          "name": "High On Life 2 Demo"
+        },
+        {
+          "appid": 2447000,
+          "name": "High On Life: High On Knife"
+        },
+        {
+          "appid": 3951190,
+          "name": "High On Life VR"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "High On Life 2",
+      "collection": "3D & first-person labyrinths",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 2069250,
+          "name": "High On Life 2"
+        },
+        {
+          "appid": 4462540,
+          "name": "High On Life 2 Demo"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Batman: Arkham Asylum Game of the Year Edition",
+      "collection": "3D & first-person labyrinths",
+      "error": "HTTP Error 429: Too Many Requests",
+      "matches": [
+        {
+          "appid": 35140,
+          "name": "Batman: Arkham Asylum Game of the Year Edition"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Star Wars Jedi: Fallen Order",
+      "collection": "3D & first-person labyrinths",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 1172380,
+          "name": "STAR WARS Jedi: Fallen Order\u2122"
+        },
+        {
+          "appid": 401587,
+          "name": "STAR WARS Jedi: Fallen Order Deluxe Edition"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Star Wars Jedi: Survivor",
+      "collection": "3D & first-person labyrinths",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 1774580,
+          "name": "STAR WARS Jedi: Survivor\u2122"
+        },
+        {
+          "appid": 2161370,
+          "name": "STAR WARS Jedi: Survivor\u2122 Deluxe Upgrade"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Valley",
+      "collection": "3D & first-person labyrinths",
+      "error": "Exact identity needs reconciliation",
+      "matches": [
+        {
+          "appid": 413150,
+          "name": "Stardew Valley"
+        },
+        {
+          "appid": 1401590,
+          "name": "Disney Dreamlight Valley"
+        },
+        {
+          "appid": 588030,
+          "name": "Derail Valley"
+        },
+        {
+          "appid": 4376930,
+          "name": "Disney Dreamlight Valley: Honeyglow Woods"
+        },
+        {
+          "appid": 3979520,
+          "name": "Disney Dreamlight Valley: Wishblossom Ranch"
+        },
+        {
+          "appid": 2632050,
+          "name": "Disney Dreamlight Valley: A Rift in Time"
+        },
+        {
+          "appid": 2649480,
+          "name": "Spirit Valley"
+        },
+        {
+          "appid": 3259120,
+          "name": "Disney Dreamlight Valley: The Storybook Vale"
+        },
+        {
+          "appid": 602320,
+          "name": "Train Valley 2"
+        },
+        {
+          "appid": 5090170,
+          "name": "Disney Dreamlight Valley: The Keepsake Sea"
+        }
+      ],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Silhouette: Animal",
+      "collection": "Upcoming & playable demo watchlist",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "Silhouette: Dawn of the Forest",
+      "collection": "Upcoming & playable demo watchlist",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    },
+    {
+      "candidate": "OVERHORIZON",
+      "collection": "Upcoming & playable demo watchlist",
+      "error": "Exact identity needs reconciliation",
+      "matches": [],
+      "verification": "unresolved"
+    }
+  ]
+}
