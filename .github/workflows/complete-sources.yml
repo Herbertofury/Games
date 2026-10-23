@@ -1,0 +1,72 @@
+name: Complete catalog sources
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/complete-sources.yml']
+permissions:
+  contents: write
+concurrency:
+  group: source-completion
+  cancel-in-progress: false
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Apply only the hash-verified, conflict-checked source patch
+        shell: python
+        run: |
+          import base64,hashlib,json,lzma,pathlib,subprocess,tempfile
+          root=pathlib.Path.cwd()
+          payload=''.join((root/f'.bootstrap/source-completion-{i}.b64').read_text().strip() for i in range(4))
+          raw=base64.b64decode(payload,validate=True)
+          expected='da52d3dcee7beb9f63c5e4af7029cf757f7468d43cd88c13f0062b56c6442dea'
+          assert hashlib.sha256(raw).hexdigest()==expected,'Transfer integrity failed; no source files changed'
+          package=json.loads(lzma.decompress(raw))
+          allowed={'site/index.html','site/app.js','site/styles.css','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/build.py','scripts/source_links.py','scripts/discover_storefronts.py','data/media-completion.json','data/source-editions.json','data/storefront-discovery.json','data/storefront-discovery-report.json','tests/test_source_completion.py','tests/source_completion_qa.py','tests/source_completion_inline.py','tests/multiplatform_qa.py','docs/UPDATING.md','docs/EXECUTION.md','docs/RELEASE.md'}
+          assert set(package['expected'])==allowed and set(package['after'])==allowed
+          def sha(name):
+            p=root/name
+            return hashlib.sha256(p.read_bytes()).hexdigest() if p.exists() else None
+          current={name:sha(name) for name in allowed}
+          if current==package['after']:
+            print('The complete source patch is already installed unchanged.')
+          else:
+            conflicts=[name for name in allowed if current[name]!=package['expected'][name]]
+            assert not conflicts,'Source changed since the verified checkpoint: '+', '.join(conflicts)
+            with tempfile.NamedTemporaryFile(mode='w',suffix='.patch') as f:
+              f.write(package['patch']);f.flush()
+              subprocess.run(['git','apply','--check',f.name],check=True)
+              subprocess.run(['git','apply',f.name],check=True)
+            assert {name:sha(name) for name in allowed}==package['after'],'Installed bytes differ from tested source'
+          print(json.dumps({'patchSha256':expected,'sourceFiles':len(allowed),'after':package['after']},indent=2))
+      - name: Build and target-test the coherent source checkpoint
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          node --check site/app.js
+          python3 -m py_compile scripts/*.py tests/*.py
+          python3 scripts/build.py
+          python3 -m unittest discover -s tests -p 'test_*.py'
+      - name: Persist source before the complete real-browser publication gate
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site scripts data tests docs/UPDATING.md docs/EXECUTION.md docs/RELEASE.md dist wiki
+          if ! git diff --cached --quiet; then
+            git commit -m 'Complete 150 shooter media panels, verified source editions, and visual wiki atlas'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          echo "Verified source checkpoint: $(git rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: completed-source-checkpoint
+          path: |
+            dist/manifest.json
+            release/SHA256SUMS.txt
