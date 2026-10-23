@@ -5,6 +5,11 @@
       "excludeFromPublication": true,
       "reviewState": "unresolved-active",
       "reviewReason": "The exact public Linux demo was downloaded and launched in two isolated preview routes, but neither produced usable gameplay footage. No matching external gameplay source was verified. Retain this candidate and its creator page for review rather than publish a blank video or substitute the unrelated commercial game Mongrel. This is not a claim that every build of the game is unplayable."
+    },
+    "external:reawakening": {
+      "excludeFromPublication": true,
+      "reviewState": "unresolved-active",
+      "reviewReason": "The exact public Linux executable was downloaded and launched, but the captured frames were blank. No matching external gameplay source was verified. Keep the creator page and research evidence without promoting the game as a fully documented recommendation. This is not a claim that the game cannot run on a normal player computer."
     }
   },
   "dispositions": [
@@ -18,6 +23,17 @@
       "evidenceArtifact": 12519379288,
       "evidenceSha256": "2f7171d848c695cdb144ab63a0375c970da972cf2afe0de5b8177dc7d8659f44",
       "publicBuildSha256": "a17c0950e98c5c8cf649bc44a66a31d8ab5927ac996ae0186fad9a63a26c8972"
+    },
+    {
+      "candidate": "Reawakening",
+      "id": "external:reawakening",
+      "state": "unresolved-active",
+      "sourceUrl": "https://hatbird-games.itch.io/reawakening",
+      "reason": "Public build identity verified but no usable gameplay video verified; retained in research, not recommended with blank footage.",
+      "evidenceRun": 39998243989,
+      "evidenceArtifact": 12521630194,
+      "evidenceSha256": "4b4372f0244dea10557d0d6bc5adcaa5ae25b35d4b31a832a4aa6d0fcc2c0aeb",
+      "publicBuildSha256": "e09894f80d85579fc37aaaebd857a9834695608099cb5627f1792fa226442727"
     }
   ]
 }
