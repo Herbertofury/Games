@@ -1,0 +1,34 @@
+name: Refresh Steam catalog
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - data/seeds.tsv
+      - scripts/refresh.py
+      - .github/workflows/refresh.yml
+permissions:
+  contents: write
+concurrency:
+  group: catalog-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch official Steam metadata and preserve unresolved entries
+        run: python3 scripts/refresh.py --force
+      - name: Publish verified snapshot
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/catalog.json
+          git diff --cached --quiet && exit 0
+          git commit -m 'Refresh official Steam catalog snapshot'
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - uses: actions/upload-artifact@v4
+        with:
+          name: verified-steam-catalog
+          path: data/catalog.json
