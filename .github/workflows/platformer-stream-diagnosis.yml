@@ -1,0 +1,37 @@
+name: Diagnose legacy platformer streams
+on:
+  workflow_dispatch:
+  push:
+    branches: [platformers-completion-2026-10-23]
+    paths: [.github/workflows/platformer-stream-diagnosis.yml]
+permissions:
+  contents: read
+  actions: read
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          name: platformers-complete-library-and-qa
+          run-id: 40005101646
+          github-token: ${{ github.token }}
+          path: qa/failed-build
+      - run: |
+          python3 -m pip install -r requirements-dev.txt
+          cp qa/failed-build/data/platformers-media-reviewed.json data/
+          cp 'qa/failed-build/release/Games - Explorer.html' dist/index.html
+          echo "CHROMIUM_PATH=$(command -v google-chrome)" >> "$GITHUB_ENV"
+      - run: python3 scripts/diagnose_platformer_streams.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: platformer-legacy-stream-diagnostics
+          path: |
+            qa/platformer-stream-diagnostics.json
+            qa/*-stream-diagnostic.png
