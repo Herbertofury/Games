@@ -43,6 +43,7 @@ jobs:
           set -o pipefail
           python3 -m pip install -r requirements-dev.txt
           python3 scripts/install_platformer_completion.py --evidence qa/recovered-platformer-evidence
+          python3 scripts/finalize_platformer_player.py
           python3 scripts/build.py
           node --check site/app.js
           node --check site/platformers.js
@@ -87,10 +88,10 @@ jobs:
           TESTED_HTML_SHA=$(sha256sum dist/index.html | cut -d' ' -f1)
           python3 scripts/build.py
           test "$TESTED_HTML_SHA" = "$(sha256sum dist/index.html | cut -d' ' -f1)"
-          git add data docs
+          git add data docs site/app.js tests/platformer_completion_qa.py
           git add -f dist wiki docs/qa
           if ! git diff --cached --quiet; then
-            git commit -m 'Complete all 439 platformer video records and preserve full-library runtime verification'
+            git commit -m 'Complete all 439 platformer video records, compatible playback and full-library runtime verification'
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
       - uses: actions/upload-artifact@v4
