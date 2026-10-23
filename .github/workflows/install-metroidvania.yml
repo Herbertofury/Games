@@ -1,0 +1,56 @@
+name: Install Metroidvania hub
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/install-metroidvania.yml']
+permissions:
+  contents: write
+concurrency:
+  group: metroidvania-install
+  cancel-in-progress: false
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Compose only the requested additive genre changes
+        run: |
+          python3 scripts/install_metroidvania_checkpoint.py
+          python3 scripts/curate_metroidvania.py
+          node --check site/app.js
+          node --check site/platformers.js
+          python3 -m py_compile scripts/*.py tests/*.py
+          python3 scripts/build.py
+      - name: Targeted identity and deterministic-merge protection
+        run: |
+          python3 -m unittest discover -s tests -p 'test_rts.py'
+          cd tests
+          python3 -m unittest test_metroidvania.MetroidvaniaTests.test_every_previous_identity_survives test_metroidvania.MetroidvaniaTests.test_enormous_unique_collection test_metroidvania.MetroidvaniaTests.test_repeated_build_preserves_every_record test_metroidvania.MetroidvaniaTests.test_traditional_and_adjacent_formats_are_separate
+      - name: Persist the coherent source before complete media and runtime acceptance
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site scripts tests data/metroidvania-curation.json data/metroidvania-protected.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Install additive Metroidvania hub and protect all current genre identities'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: metroidvania-ui-checkpoint
+          path: |
+            site/
+            scripts/
+            tests/
+            data/metroidvania-curation.json
+            data/metroidvania-protected.json
+            dist/manifest.json
+            dist/catalog.json
+            release/Games - Explorer.html
