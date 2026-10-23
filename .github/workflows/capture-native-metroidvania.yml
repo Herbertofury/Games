@@ -1,0 +1,31 @@
+name: Capture native Metroidvania previews
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/capture-native-metroidvania.yml']
+permissions:
+  contents: read
+jobs:
+  capture:
+    strategy:
+      fail-fast: false
+      matrix:
+        game: [spellsought,reawakening,mongrel-story]
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Install the exact capture dependencies
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends xvfb openbox xdotool ffmpeg libgl1-mesa-dri
+      - name: Run public builds and record diagnostic frames
+        run: python3 scripts/capture_metroidvania_native.py '${{ matrix.game }}'
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: native-metroidvania-${{ matrix.game }}
+          path: qa/native-${{ matrix.game }}
