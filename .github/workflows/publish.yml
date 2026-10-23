@@ -3,9 +3,9 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['data/platformers-*','scripts/platformer*.py','scripts/collect_platformers.py','docs/PLATFORMERS-STUDY.md','site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','scripts/source_links.py','scripts/curate_rts.py','scripts/enrich_rts.py','scripts/collect_rts.py','data/rts-*.json','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json','data/media-completion.json','data/storefront-discovery.json','data/source-editions.json','scripts/metroidvania_model.py','scripts/metroidvania_wiki.py','scripts/metroidvania_qa.py','data/metroidvania-curation.json','data/metroidvania-media.json','data/metroidvania-review-decisions.json','data/metroidvania-storefronts.json','.github/workflows/publish.yml']
+    paths: ['data/platformers-*','scripts/platformer*.py','scripts/collect_platformers.py','docs/PLATFORMERS-STUDY.md','site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','scripts/source_links.py','scripts/curate_rts.py','scripts/enrich_rts.py','scripts/collect_rts.py','data/rts-*.json','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json','data/media-completion.json','data/storefront-discovery.json','data/source-editions.json','scripts/metroidvania_model.py','scripts/metroidvania_wiki.py','scripts/metroidvania_qa.py','data/metroidvania-curation.json','data/metroidvania-media.json','data/metroidvania-review-decisions.json','data/metroidvania-storefronts.json','scripts/survival_model.py','scripts/survival_wiki.py','scripts/survival_qa.py','scripts/survival_release_notes.py','data/survival-steam.json','data/survival-external.json','data/survival-curation.json','data/survival-media.json','data/survival-storefronts.json','.github/workflows/publish.yml']
   workflow_run:
-    workflows: ['Refresh Steam catalog','Add game recommendation','Install library source','Expand shooter library','Refresh shooter discoveries','Refresh RTS discoveries','Enrich RTS collection','Refresh Metroidvania discoveries','Enrich Metroidvania collection','Finalize Metroidvania source']
+    workflows: ['Refresh Steam catalog','Add game recommendation','Install library source','Expand shooter library','Refresh shooter discoveries','Refresh RTS discoveries','Enrich RTS collection','Refresh Metroidvania discoveries','Enrich Metroidvania collection','Finalize Metroidvania source','Collect survival sources','Enrich survival collection']
     types: [completed]
 permissions:
   contents: write
@@ -18,7 +18,7 @@ jobs:
   build:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 35
     outputs:
       pages-ready: ${{ steps.pages-probe.outputs.ready }}
     steps:
@@ -33,13 +33,17 @@ jobs:
         run: |
           set -o pipefail
           test -s data/catalog.json || { echo 'Official metadata refresh has not published its snapshot yet.'; exit 1; }
+          test -s data/survival-protected.json || { echo 'The tested survival source checkpoint is required.'; exit 1; }
           python3 -m pip install -r requirements-dev.txt
           python3 scripts/reconcile.py
           python3 scripts/reconcile_shooter_sources.py
           python3 scripts/collect_external_media.py
           python3 scripts/build.py
+          python3 scripts/survival_release_notes.py
+          python3 scripts/build.py
           node --check site/app.js
           node --check site/platformers.js
+          node --check site/survival.js
           mkdir -p qa
           python3 -m unittest discover -s tests -p 'test_*.py' 2>&1 | tee qa/unit-tests.log
           python3 -c 'import json,re; s=open("qa/unit-tests.log").read();m=re.search(r"Ran (\d+) tests",s);json.dump({"passed":True,"tests":int(m[1]) if m else None},open("qa/unit-tests.json","w"),indent=2)'
@@ -52,12 +56,12 @@ jobs:
             python3 -m playwright install --with-deps chromium
           fi
       - name: Verify actual official trailer playback and image decoding
-        timeout-minutes: 5
+        timeout-minutes: 6
         run: |
           python3 scripts/media_qa.py
           mkdir -p qa/live-media
           cp qa/desktop.png qa/mobile.png qa/detail.png qa/live-media/
-      - name: Real browser acceptance for every genre and completed platformer media
+      - name: Real browser acceptance for every genre and complete survival media
         run: |
           python3 tests/browser_qa.py
           python3 tests/multiplatform_qa.py
@@ -66,6 +70,7 @@ jobs:
           python3 tests/platformers_qa.py
           python3 tests/platformer_completion_qa.py
           python3 scripts/metroidvania_qa.py
+          python3 scripts/survival_qa.py
           cp qa/live-media/*.png qa/
       - name: Publish native wiki
         env:
@@ -88,20 +93,23 @@ jobs:
         run: |
           mkdir -p docs/qa
           cp qa/*.json docs/qa/
+          cp qa/unit-tests.log docs/qa/
           cp qa/desktop.png qa/mobile.png qa/detail.png docs/qa/
           cp qa/shooters-*.png docs/qa/
           cp qa/rts-*.png docs/qa/
           cp qa/platformers-*.png docs/qa/
           cp qa/metroidvania-*.png docs/qa/
+          cp qa/survival-*.png docs/qa/
+          cp qa/minecraft-like-*.png docs/qa/
           TESTED_HTML_SHA=$(sha256sum dist/index.html | cut -d' ' -f1)
           python3 scripts/build.py
           test "$TESTED_HTML_SHA" = "$(sha256sum dist/index.html | cut -d' ' -f1)"
           git config user.name 'Games catalog bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add dist wiki data
+          git add dist wiki data docs/RELEASE.md docs/SURVIVAL.md
           git add -f docs/qa
           if ! git diff --cached --quiet; then
-            git commit -m 'Publish verified Metroidvania and complete platformer atlases with full-library runtime evidence'
+            git commit -m 'Publish verified Survival and Minecraft-like atlases with full-library runtime evidence'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
@@ -127,7 +135,10 @@ jobs:
             data/external-media-report.json
             data/metroidvania-reconciliation.json
             data/metroidvania-review-decisions.json
+            data/survival-study-report.json
+            data/survival-reconciliation.json
             docs/METROIDVANIA.md
+            docs/SURVIVAL.md
   deploy:
     needs: build
     if: needs.build.outputs.pages-ready == 'true'
