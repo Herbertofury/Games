@@ -1,0 +1,40 @@
+name: Enrich RTS collection
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/enrich_rts.py','data/rts-expansion.json','.github/workflows/enrich-rts.yml']
+permissions:
+  contents: write
+concurrency:
+  group: rts-collection
+  cancel-in-progress: false
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - run: python3 scripts/enrich_rts.py
+      - name: Checkpoint exact facts and media gaps
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/rts-*.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record RTS community releases, exact store editions, and media evidence'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: rts-enrichment
+          path: |
+            data/rts-*.json
+            scripts/enrich_rts.py
+            scripts/collect_rts.py
