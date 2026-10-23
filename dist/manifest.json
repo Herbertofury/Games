@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "version": "1.4.0",
-  "builtAt": "2026-10-23T19:02:24.627159+00:00",
+  "builtAt": "2026-10-23T19:13:30.410666+00:00",
   "sourceRepository": "https://github.com/Herbertofury/Games",
-  "sourceRevision": "1177581079d62e1f63f5b81171b545bdd5912950",
+  "sourceRevision": "611e0965462c14b82c4b1c93e3bd0013fdc4e9a7",
   "sourceWiki": "https://github.com/Herbertofury/Games/wiki",
   "datasetHash": "62980fc8d4478615541ae5db8fb482090a36ded36ac98c5ec58f0125577555bc",
   "records": 1189,
@@ -212,7 +212,7 @@
     "data/platformers-media-reviewed.json": "d5155cb1b0d9a8cf79b46f6fad13a6adc1219fefb88345d291d4b2289164fd3b",
     "data/name-history.json": "8ba4b6e23f9d260335aaa4bd9cca774ed3264529204359811f81da43df66977f",
     "data/platformers-completion-report.json": "e7d14ba547057aa3b28611809a1bf6cd74ebf0e265fa0210f7ff1ade328964aa",
-    "data/external-media-report.json": "c333100f56ada20d38b7817a3e9859bc4da77aaa55c50c732080a1ec85076b12",
+    "data/external-media-report.json": "f75f788a8073b366bdfe02f16f7ed351e2b980ff747a6c0e82826ab71220f219",
     "data/platformers-index.csv": "8951a932928e0ea79b4811ad8029bb4bce4640f4045ab845554c94a2037ba021",
     "data/rts-steam.json": "6d65f92e7042e0562ae9ef671c63e699ef788d7abf03e96f7d340b678d4d22a9",
     "data/platformers-external-seeds.json": "094fe162c4dcd109dbcd863a12ec6b01886774a9d9f4012777aef8502de5d904",
@@ -238,6 +238,6 @@
     "data/platformers-study-report.json": "44e4a35aa60c847be02bb0a30dcc2af41346e257b3e57d002021c19728adc7a6",
     "data/metroidvania-reconciliation.json": "0be40b953d0a615947c6dcb81ff314503d95f2ff92ea46b977628b59d338ba57",
     "data/catalog.json": "523f451fa09d61fa3f03cbaec3a6d1024fdccd318bb370cd06070f7986485b8a",
-    "data/shooters-external.json": "41b793ea64573257f5d53cb11e0f79ecceaff12bf8223375242ae1d8021b9329"
+    "data/shooters-external.json": "9c1496a35070a6dc825bb73dbb917bb33987e8bb4459b726ef32ccef7c9c5076"
   }
 }
