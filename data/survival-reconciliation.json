@@ -202,21 +202,6 @@
       "state": "unresolved-active"
     },
     {
-      "candidate": "Wild West Dynasty",
-      "seed": {
-        "name": "Wild West Dynasty",
-        "hub": "Survival",
-        "collection": "Harsh wilderness & realistic survival",
-        "fit": 6,
-        "scope": "Survival simulation",
-        "appid": 1329880,
-        "aliases": []
-      },
-      "error": "Explicit ID/name mismatch: Wild West Legacy",
-      "matches": [],
-      "state": "unresolved-active"
-    },
-    {
       "candidate": "ChunkForge",
       "seed": {
         "name": "ChunkForge",
@@ -540,6 +525,31 @@
       "candidate": "Voxaria",
       "state": "unresolved-active",
       "reason": "No exact current creator or store identity confirmed."
+    },
+    {
+      "id": "steam:3604780",
+      "state": "not-promoted",
+      "reason": "Genre review: a Lovecraftian ship-repair business simulator, not the survival-crafting world requested. Source metadata retained in research."
+    },
+    {
+      "id": "steam:1933840",
+      "state": "not-promoted",
+      "reason": "Genre review: Moon Mystery is a narrative sci-fi shooter, not an open-world survival-crafting recommendation."
+    },
+    {
+      "id": "steam:1567190",
+      "state": "not-promoted",
+      "reason": "Genre review: Shores of Plunder emphasizes competitive pirate modes, not the Minecraft-like survival world category."
+    },
+    {
+      "id": "steam:4861650",
+      "state": "not-promoted",
+      "reason": "Unresolved media: the unreleased FrontierCraft listing has no confirmed matching video. Retained as a research candidate, not a fully documented recommendation."
+    },
+    {
+      "id": "external:wildraft",
+      "state": "not-promoted",
+      "reason": "Unresolved media: the creator page's linked video resolves to an unrelated Doctor Who title. Do not publish it as game footage; keep the discovery for further verification."
     }
   ],
   "calendarPages": 5,

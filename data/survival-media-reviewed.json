@@ -1,0 +1,590 @@
+{
+  "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+  "videos": {
+    "qNMfF9TYETM": {
+      "id": "qNMfF9TYETM",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqNMfF9TYETM&format=json",
+      "title": "Minecraft: Java & Bedrock Edition – Official Trailer",
+      "author_name": "Minecraft",
+      "author_url": "https://www.youtube.com/@minecraft",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/qNMfF9TYETM/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/qNMfF9TYETM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Minecraft: Java &amp; Bedrock Edition – Official Trailer\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=qNMfF9TYETM",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:minecraft"
+    },
+    "YMhUV1hnzHE": {
+      "id": "YMhUV1hnzHE",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYMhUV1hnzHE&format=json",
+      "title": "Hytale Early Access: Chapter I (Official Trailer)",
+      "author_name": "Hytale",
+      "author_url": "https://www.youtube.com/@Hytale",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/YMhUV1hnzHE/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/YMhUV1hnzHE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Hytale Early Access: Chapter I (Official Trailer)\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=YMhUV1hnzHE",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:hytale"
+    },
+    "NJjifFq1NGY": {
+      "id": "NJjifFq1NGY",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNJjifFq1NGY&format=json",
+      "title": "Vintage Story Feature Trailer 2022",
+      "author_name": "Vintage Story",
+      "author_url": "https://www.youtube.com/@VintageStory",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/NJjifFq1NGY/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/NJjifFq1NGY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Vintage Story Feature Trailer 2022\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=NJjifFq1NGY",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:vintage-story"
+    },
+    "GyQAcUmhV-g": {
+      "id": "GyQAcUmhV-g",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGyQAcUmhV-g&format=json",
+      "title": "LEGO Fortnite Odyssey: Brick or Treat | Official Gameplay Trailer",
+      "author_name": "LEGO Fortnite",
+      "author_url": "https://www.youtube.com/@LEGOFortnite",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/GyQAcUmhV-g/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/GyQAcUmhV-g?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"LEGO Fortnite Odyssey: Brick or Treat | Official Gameplay Trailer\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=GyQAcUmhV-g",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:lego-fortnite-odyssey"
+    },
+    "weIK41W3tX0": {
+      "id": "weIK41W3tX0",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DweIK41W3tX0&format=json",
+      "title": "Veloren 0.15 Release Party Trailer",
+      "author_name": "Veloren",
+      "author_url": "https://www.youtube.com/@Veloren",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/weIK41W3tX0/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/weIK41W3tX0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Veloren 0.15 Release Party Trailer\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=weIK41W3tX0",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:veloren"
+    },
+    "nv1A8O8WMec": {
+      "id": "nv1A8O8WMec",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dnv1A8O8WMec&format=json",
+      "title": "A VoxeLibre Let's Play - The First Night",
+      "author_name": "Enada",
+      "author_url": "https://www.youtube.com/@enadasa",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/nv1A8O8WMec/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nv1A8O8WMec?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"A VoxeLibre Let&#39;s Play - The First Night\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=nv1A8O8WMec",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:voxelibre"
+    },
+    "nUTIt5P_K-w": {
+      "id": "nUTIt5P_K-w",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnUTIt5P_K-w&format=json",
+      "title": "Mineclonia gameplay",
+      "author_name": "Mineclonia (Minecraft clone)",
+      "author_url": "https://www.youtube.com/@mineclonia_luanti",
+      "type": "video",
+      "height": 150,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/nUTIt5P_K-w/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/nUTIt5P_K-w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Mineclonia gameplay\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=nUTIt5P_K-w",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:mineclonia"
+    },
+    "Wpa2aiadwE8": {
+      "id": "Wpa2aiadwE8",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWpa2aiadwE8&format=json",
+      "title": "Teaser - Stable #31",
+      "author_name": "Terasology",
+      "author_url": "https://www.youtube.com/@Terasology",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/Wpa2aiadwE8/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Wpa2aiadwE8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Teaser - Stable #31\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=Wpa2aiadwE8",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:terasology"
+    },
+    "CXb8R-yLbDc": {
+      "title": "Minicraft | #4: Beating Minicraft Plus, Again! (v2.2.1)",
+      "author_name": "Green Eye",
+      "author_url": "https://www.youtube.com/@sureslendy",
+      "type": "video",
+      "height": 150,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/CXb8R-yLbDc/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/CXb8R-yLbDc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Minicraft | #4: Beating Minicraft Plus, Again! (v2.2.1)\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=CXb8R-yLbDc",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:minicraft-plus"
+    },
+    "TA__7nTBUHY": {
+      "id": "TA__7nTBUHY",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTA__7nTBUHY&format=json",
+      "title": "Survivalcraft 2",
+      "author_name": "Survivalcraft",
+      "author_url": "https://www.youtube.com/@kaalus",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/TA__7nTBUHY/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/TA__7nTBUHY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Survivalcraft 2\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=TA__7nTBUHY",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:survivalcraft-2"
+    },
+    "HzQnRm3FmOE": {
+      "id": "HzQnRm3FmOE",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHzQnRm3FmOE&format=json",
+      "title": "Path of Titans: Gondwa Gameplay Trailer - Featuring Robert Irwin",
+      "author_name": "Path of Titans",
+      "author_url": "https://www.youtube.com/@PathofTitans",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/HzQnRm3FmOE/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/HzQnRm3FmOE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Path of Titans: Gondwa Gameplay Trailer - Featuring Robert Irwin\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=HzQnRm3FmOE",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:path-of-titans"
+    },
+    "TFE9s-psT40": {
+      "id": "TFE9s-psT40",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTFE9s-psT40&format=json",
+      "title": "Stranded II Trailer",
+      "author_name": "Unreal Software",
+      "author_url": "https://www.youtube.com/@unrealsoftware",
+      "type": "video",
+      "height": 150,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/TFE9s-psT40/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/TFE9s-psT40?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Stranded II Trailer\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=TFE9s-psT40",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:stranded-2"
+    },
+    "lE7xKsbWD04": {
+      "id": "lE7xKsbWD04",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlE7xKsbWD04&format=json",
+      "title": "Cataclysm: Bright Nights, Stable Release v0.13.0, Unofficial Trailer",
+      "author_name": "Chaosvolt",
+      "author_url": "https://www.youtube.com/@chaosvolt",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/lE7xKsbWD04/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/lE7xKsbWD04?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Cataclysm: Bright Nights, Stable Release v0.13.0, Unofficial Trailer\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=lE7xKsbWD04",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:cataclysm-bright-nights"
+    },
+    "6MxpI8lNjvQ": {
+      "id": "6MxpI8lNjvQ",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6MxpI8lNjvQ&format=json",
+      "title": "Current progress on my Crafting Survival Game | Devlog 1 | LUUN.0.216",
+      "author_name": "LUUN",
+      "author_url": "https://www.youtube.com/@luungame",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/6MxpI8lNjvQ/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/6MxpI8lNjvQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Current progress on my Crafting Survival Game | Devlog 1 | LUUN.0.216\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=6MxpI8lNjvQ",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:luun"
+    },
+    "fnR7djDnkyo": {
+      "id": "fnR7djDnkyo",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfnR7djDnkyo&format=json",
+      "title": "I added multiplayer! — Mine Blocks 1.31: Scavenger Hunt",
+      "author_name": "Zanzlanz",
+      "author_url": "https://www.youtube.com/@zanzlanz",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/fnR7djDnkyo/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/fnR7djDnkyo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"I added multiplayer! — Mine Blocks 1.31: Scavenger Hunt\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=fnR7djDnkyo",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:mine-blocks"
+    },
+    "Da2QQ8x4WFU": {
+      "id": "Da2QQ8x4WFU",
+      "sourceUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDa2QQ8x4WFU&format=json",
+      "title": "I made a SECOND 2D Minecraft!",
+      "author_name": "Zanzlanz",
+      "author_url": "https://www.youtube.com/@zanzlanz",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/Da2QQ8x4WFU/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Da2QQ8x4WFU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"I made a SECOND 2D Minecraft!\"></iframe>",
+      "watchUrl": "https://www.youtube.com/watch?v=Da2QQ8x4WFU",
+      "checkedAt": "2026-10-23T23:10:44.693291+00:00",
+      "gameId": "external:mine-blocks-2"
+    }
+  },
+  "images": {
+    "external:hytale": {
+      "role": "Official trailer thumbnail",
+      "sourceUrl": "https://www.youtube.com/watch?v=YMhUV1hnzHE",
+      "credit": "Hytale"
+    },
+    "external:voxelibre": {
+      "role": "Credited community gameplay thumbnail",
+      "sourceUrl": "https://www.youtube.com/watch?v=nv1A8O8WMec",
+      "credit": "Enada"
+    },
+    "external:mineclonia": {
+      "role": "Credited community gameplay thumbnail",
+      "sourceUrl": "https://www.youtube.com/watch?v=nUTIt5P_K-w",
+      "credit": "Mineclonia (Minecraft clone)"
+    },
+    "external:terasology": {
+      "role": "Official trailer thumbnail",
+      "sourceUrl": "https://www.youtube.com/watch?v=Wpa2aiadwE8",
+      "credit": "Terasology"
+    },
+    "external:minicraft-plus": {
+      "role": "Credited community gameplay thumbnail",
+      "sourceUrl": "https://www.youtube.com/watch?v=CXb8R-yLbDc",
+      "credit": "Green Eye"
+    },
+    "external:survivalcraft-2": {
+      "role": "Official trailer thumbnail",
+      "sourceUrl": "https://www.youtube.com/watch?v=TA__7nTBUHY",
+      "credit": "Survivalcraft"
+    },
+    "external:minecraft": {
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-US-Bundle-Screenshot-2.png",
+      "gallery": [
+        "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-US-Bundle-Screenshot-2.png",
+        "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-Gallery_OV_2_16x9.jpg",
+        "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-Gallery_OV_6_16x9.jpg"
+      ],
+      "sourceUrl": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc",
+      "credit": "Mojang / official Minecraft PC edition screenshots"
+    },
+    "external:lego-fortnite-odyssey": {
+      "image": "https://cdn2.unrealengine.com/links-admin-FNJN_42-40_Odyssey_MasterBuild_BrickorTreat_DiscoverTile_1920x1080-2abe32fe.jpg",
+      "sourceUrl": "https://www.fortnite.com/@epic/lego-fortnite-odyssey",
+      "credit": "Epic Games / official Odyssey artwork"
+    },
+    "external:veloren": {
+      "image": "https://veloren.net/processed_images/gallery-0.50cacb0aa6b9efab.jpg",
+      "sourceUrl": "https://veloren.net/",
+      "credit": "Veloren / official gallery"
+    },
+    "external:stranded-2": {
+      "image": "https://www.unrealsoftware.de/img/games/stranded2_01.png",
+      "sourceUrl": "https://www.unrealsoftware.de/game_stranded2.php",
+      "credit": "Unreal Software / Stranded II artwork"
+    },
+    "external:cataclysm-bright-nights": {
+      "image": "https://github.com/cataclysmbn/Cataclysm-BN/raw/main/docs/en/contribute/img/readme-title.png",
+      "sourceUrl": "https://github.com/cataclysmbn/Cataclysm-BN",
+      "credit": "Cataclysm: Bright Nights project artwork"
+    },
+    "external:path-of-titans": {
+      "image": "https://web-cdn.pathoftitans.com/Uploads/227/conversions/MultiplayerBanner2-large.jpg",
+      "sourceUrl": "https://pathoftitans.com/",
+      "credit": "Alderon Games / official gameplay image"
+    },
+    "external:luun": {
+      "image": "https://luungame.com/images/site_topimage.jpg",
+      "sourceUrl": "https://luungame.com/index.html",
+      "credit": "LUUN / official project image"
+    }
+  },
+  "sources": {
+    "luun-itch": {
+      "sourceUrl": "https://countsie.itch.io/luun",
+      "title": "LUUN by countsie",
+      "pageHash": "e05743050a6502cf25abe9196773fd585d685a037c191292e735786e610a0cda",
+      "error": null
+    },
+    "mine-blocks": {
+      "sourceUrl": "https://mineblocks.com/",
+      "title": "Mine Blocks",
+      "pageHash": "00d84a7c625290cdc48fa9780cbfddbef2e53ab40945722d265101972b249f96",
+      "error": null
+    },
+    "hytale-latest": {
+      "sourceUrl": "https://hytale.com/news/2026/10/chapter-i-out-of-the-breach",
+      "title": "CHAPTER I: OUT OF THE BREACH | Hytale",
+      "pageHash": "a4ea501d7a17e70cf02f5e753d53919793946a3ec851698742e9674ede47f8cb",
+      "error": null
+    },
+    "hytale-download": {
+      "sourceUrl": "https://support.hytale.com/hc/en-us/articles/45305997507739-How-to-Download-and-Play-Hytale",
+      "title": null,
+      "pageHash": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "vintage-store": {
+      "sourceUrl": "https://www.vintagestory.at/store/category/1-game-account-game-servers/",
+      "title": "Game Account & Game Servers - Vintage Story",
+      "pageHash": "284bd8dfbcf00cc8f0370c79ec61b621f58c7ead69b0ad68462b35d84e22b328",
+      "error": null
+    },
+    "vintage-humble": {
+      "sourceUrl": "https://www.humblebundle.com/store/vintage-story",
+      "title": "The Humble Store: Great games. Fantastic prices. Support charity.",
+      "pageHash": "3702a874e986ffa43703e77e2bf479c88b840b679016dd1151d447ab79231f60",
+      "error": null
+    },
+    "windrose": {
+      "sourceUrl": "https://playwindrose.com/",
+      "title": "Windrose — Pirate Survival Game on Steam & Epic | Open World Co-op",
+      "pageHash": "c40daac566db41b5a65035c46c5e0c959e52dab60cdd1149f72066bc16564282",
+      "error": null
+    },
+    "windrose-epic": {
+      "sourceUrl": "https://store.epicgames.com/en-US/p/windrose-831c86",
+      "title": null,
+      "pageHash": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "path-titans-buy": {
+      "sourceUrl": "https://alderongames.com/store/path-of-titans",
+      "title": "Buy Path of Titans - Alderon Games",
+      "pageHash": "005b498599b239c357102c174af5070801b2511a779d62b2aea5eeb607d07f9e",
+      "error": null
+    },
+    "survivalcraft": {
+      "sourceUrl": "https://kaalus.wordpress.com/2019/12/13/survivalcraft-2-day-one/",
+      "title": "Survivalcraft 2 Day One « Survivalcraft",
+      "pageHash": "997b77fa778fa0a52f71da9dfbbb50ca8ee4a2913f4c7e5d0479c39536653a89",
+      "error": null
+    },
+    "unrealworld-downloads": {
+      "sourceUrl": "https://www.unrealworld.fi/urw_downloads.html",
+      "title": "UnReal World RPG - Downloads",
+      "pageHash": "9fa128b1580b1e5c112de9e0595072861970283f9a2149b7c42763d984e93197",
+      "error": null
+    },
+    "haven": {
+      "sourceUrl": "https://www.havenandhearth.com/portal/about",
+      "title": "Haven & Hearth — About",
+      "pageHash": "a49a666fd64b53884ec6aedcc94d53c791f2a454911da2ebf0e4553817f71de1",
+      "error": null
+    },
+    "minecraft": {
+      "sourceUrl": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc",
+      "title": null,
+      "pageHash": null,
+      "error": "The read operation timed out"
+    },
+    "lego-odyssey": {
+      "sourceUrl": "https://www.fortnite.com/@epic/lego-fortnite-odyssey",
+      "title": null,
+      "pageHash": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://fancyfishgames.itch.io/aground": {
+      "title": "Aground by Fancy Fish Games",
+      "uploads": "aground-mac_full.zip 356 MB Version 2.1.2 aground-linux_full.zip 360 MB Version 2.1.2 aground-windows_full.zip 354 MB Version 2.1.2 Download aground-windows_demo.zip 74 MB Version 2.1.2 Download aground-linux_demo.zip 81 MB Version 2.1.2 Download aground-mac_demo.zip 76 MB Version 2.1.2",
+      "metadata": "Status In development Platforms HTML5 , Windows , macOS , Linux Release date Aug 08, 2018 Rating Rated 4.7 out of 5 stars (164 total ratings ) Author Fancy Fish Games Genre Adventure , Role Playing , Survival Made with OpenFL Tags 8-Bit , Controller , Crafting , mining , Moddable , Multiplayer , Pixel Art Average session A few hours Languages English Inputs Keyboard , Xbox controller , Playstation controller , Gamepad (any) Accessibility Configurable controls Links Steam , Homepage , Community , Kickstarter"
+    },
+    "https://fancyfishgames.itch.io/aground-zero": {
+      "title": "Aground Zero by Fancy Fish Games",
+      "uploads": "aground-zero-full.zip 450 MB Version 1.0.2 Download aground-zero-demo.zip 217 MB Version 1.0.2",
+      "metadata": "Status Released Platforms Windows , Linux Release date Apr 04, 2025 Rating Rated 4.2 out of 5 stars (5 total ratings ) Author Fancy Fish Games Genre Adventure , Survival Made with Haxe Tags Automation , City Builder , Co-op , Crafting , Multiplayer , Post-apocalyptic , Sandbox , Sci-fi , Voxel Average session About an hour Languages German , English , Spanish; Latin America , French , Portuguese (Brazil) , Russian , Chinese (Simplified) Inputs Keyboard , Gamepad (any) Accessibility Configurable controls , Interactive tutorial Multiplayer Local multiplayer , Server-based networked multiplayer Player count 1 - 4 Links Steam , Homepage , Discord , YouTube , Steam Content No generative AI was used"
+    },
+    "https://bekkerdev-studio.itch.io/deep-despair-2": {
+      "title": "Deep Despair 2 by BekkerDev Studio",
+      "uploads": "Deep Despair 2.zip 255 MB Download Deep Despair 2 Demo.zip 142 MB",
+      "metadata": "Status Released Rating Rated 4.7 out of 5 stars (10 total ratings ) Author BekkerDev Studio Genre Survival , Adventure , Role Playing , Simulation Tags Atmospheric , Crafting , Pixel Art , Retro , Sandbox , Survival Horror Links Steam"
+    },
+    "https://monosw2000.itch.io/nearly-dead": {
+      "title": "Nearly Dead by Mono Software",
+      "uploads": "Download Nearly_Dead_Open_Alpha_2100801_64bit External Download Nearly_Dead_Modding_Tool_210801 External",
+      "metadata": "Status In development Platforms Windows Rating Rated 4.0 out of 5 stars (12 total ratings ) Author Mono Software Genre Survival Made with Unity Tags 2D , Horror , Singleplayer , Top-Down , Zombies Links YouTube , Steam , Twitter/X"
+    },
+    "https://orangepixel.itch.io/residual": {
+      "title": "Residual by Orangepixel",
+      "uploads": "Residual Windows 120 MB Version 76 Residual Linux 123 MB Version 76 Residual Mac 123 MB Version 75",
+      "metadata": "Status Released Platforms Windows , macOS , Linux Rating Rated 5.0 out of 5 stars (7 total ratings ) Author Orangepixel Genre Adventure , Platformer , Survival Tags 2D , Pixel Art , Singleplayer Links Steam Mentions Welcome to the itch.io Summer Sale!"
+    },
+    "https://lanttogames.itch.io/sandustry": {
+      "title": "Sandustry by Lantto",
+      "uploads": "",
+      "metadata": "Status In development Platforms HTML5 Rating Rated 4.3 out of 5 stars (67 total ratings ) Author Lantto Genre Simulation Tags Automation , base-building , mining , Sandbox Links Steam"
+    },
+    "https://rocketwerkz.itch.io/stationeers": {
+      "title": "Stationeers by Rocketwerkz",
+      "uploads": "Stationeers Windows Client (Beta) 5.2 GB Version 0.2.6429.27802 Stationeers Linux Server (Beta) 4.2 GB Version 0.2.6429.27802 Stationeers Windows Server (Beta) 4.2 GB Version 0.2.6429.27802",
+      "metadata": "Updated 23 hours ago Status In development Platforms Windows , Linux Rating Rated 4.9 out of 5 stars (17 total ratings ) Author Rocketwerkz Genre Simulation , Survival Made with Unity Tags Atmospheric , Automation , Crafting , Management , Multiplayer , Physics , Sci-fi , Space , Unity Average session Days or more Languages English Multiplayer Server-based networked multiplayer , Ad-hoc networked multiplayer Links Steam"
+    },
+    "https://odinsoftgames.itch.io/survival-fountain-of-youth": {
+      "title": "Survival: Fountain of Youth by odinsoftgames",
+      "uploads": "Download Download our demo from Dropbox! External",
+      "metadata": "Status In development Platforms Windows Author odinsoftgames Genre Survival , Simulation Made with Unity Tags 3D , Crafting , Difficult , Historical , Immersive , Open World , Singleplayer , Unity Links Steam"
+    },
+    "https://longplay.itch.io/terminus-zombie-survivors": {
+      "title": "Terminus: Zombie Survivors by longplay",
+      "uploads": "Download Terminus: Zombie Survivors - Free 50 Turn Demo 324 MB",
+      "metadata": "Status In development Platforms Windows Rating Rated 2.5 out of 5 stars (2 total ratings ) Author longplay Genre Survival , Role Playing , Strategy Tags Pixel Art , Post-apocalyptic , Roguelike , Roguelite , Top-Down , Turn-based , Turn-based Strategy , Zombies Average session A few hours Languages English , Spanish; Castilian , Spanish; Latin America , Korean , Russian Links Steam"
+    },
+    "https://enormous-elk.itch.io/unreal-world": {
+      "title": "UnReal World by Enormous Elk",
+      "uploads": "urw-3.89.1.exe 41 MB urw-3.89.1.dmg 42 MB urw_3.89.1_amd64.deb 35 MB urw-3.89.1-x86_64-linux-gnu.tar.gz 38 MB urw-3.89.1-1-x86_64.pkg.tar.zst 38 MB urw-3.88.exe 41 MB urw-3.88.dmg 42 MB urw_3.88_amd64.deb 35 MB urw-3.88-1-x86_64.pkg.tar.zst 38 MB urw-3.88-x86_64-linux-gnu.tar.gz 38 MB urw-3.81.exe 39 MB",
+      "metadata": "Updated 1 day ago Status Released Platforms Windows , macOS , Linux Rating Rated 4.9 out of 5 stars (51 total ratings ) Author Enormous Elk Genre Role Playing , Adventure , Simulation , Strategy , Survival Made with SDL Tags Historical , Open World , Roguelike , Sandbox , Singleplayer Average session A few hours Languages English Inputs Keyboard , Mouse Links Steam , Homepage , YouTube Content No generative AI was used"
+    }
+  },
+  "quarantinedLinks": [
+    {
+      "id": "steam:1766060",
+      "source": {
+        "provider": "itch.io",
+        "url": "https://casey-lisa.itch.io/humanitz",
+        "kind": "store",
+        "verified": true,
+        "lastChecked": "2026-10-23T22:47:17.566664+00:00",
+        "sourceUrl": "https://itch.io/search?q=HumanitZ",
+        "evidence": "Exact title and creator page links to Steam app 1766060",
+        "editionEvidence": "HumanitZ is an isometric sandbox survival game set in an open world ravaged by a zombie apocalypse. Survive alone or with friends by exploring, crafting, building, and fighting. The past is immutable, but the future is worth fighting for. A zombie outbreak has devastated civilization. Hordes of zeeks have clawed their way to the top, becoming the world's top predator. Ordinary humans are now an endangered species, and scattered groups struggle to survive in this new, merciless world. Welcome to HumanitZ—an isometric, open-world sandbox survival game where you can try to change the situation and return humanity to where it belongs—at the top of the food chain. Will you dare venture into the c"
+      },
+      "state": "not-published",
+      "reason": "Uploader/edition mismatch or auxiliary repository, not a confirmed game distribution."
+    },
+    {
+      "id": "steam:3495730",
+      "source": {
+        "provider": "GitHub",
+        "url": "https://github.com/MILK-FOR-FREE/Lucid-Blocks-Chinese-Localization",
+        "kind": "store",
+        "verified": true,
+        "lastChecked": "2026-10-23T22:47:17.566664+00:00",
+        "sourceUrl": "https://lucidblocks.com/",
+        "evidence": "Game-specific official website link with matching destination title"
+      },
+      "state": "not-published",
+      "reason": "Uploader/edition mismatch or auxiliary repository, not a confirmed game distribution."
+    },
+    {
+      "id": "steam:1380910",
+      "source": {
+        "provider": "GitHub",
+        "url": "https://github.com/kodolinija/stardeus-mod-template",
+        "kind": "store",
+        "verified": true,
+        "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+        "sourceUrl": "https://stardeusgame.com",
+        "evidence": "Game-specific official website link with matching destination title"
+      },
+      "state": "not-published",
+      "reason": "Uploader/edition mismatch or auxiliary repository, not a confirmed game distribution."
+    },
+    {
+      "id": "steam:340050",
+      "source": {
+        "provider": "IndieDB",
+        "url": "https://www.indiedb.com/games/survivalist-invisible-strain",
+        "kind": "project",
+        "verified": true,
+        "lastChecked": "2026-10-23T22:53:46.327727+00:00",
+        "sourceUrl": "https://survivalistgame.blogspot.com/",
+        "evidence": "Game-specific official website link with matching destination title"
+      },
+      "state": "not-published",
+      "reason": "Uploader/edition mismatch or auxiliary repository, not a confirmed game distribution."
+    }
+  ]
+}

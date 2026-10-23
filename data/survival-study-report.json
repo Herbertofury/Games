@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-10-23T23:16:07.168570+00:00",
+  "records": 1567,
+  "studyRecords": 381,
+  "hubCounts": {
+    "Survival": 299,
+    "Minecraft-like worlds": 82
+  },
+  "collections": {
+    "Survival": 18,
+    "Minecraft-like worlds": 6
+  },
+  "statuses": {
+    "Released": 240,
+    "Early Access": 95,
+    "Upcoming": 42,
+    "Prototype": 1,
+    "Playable alpha": 3
+  },
+  "sourceReferences": 561,
+  "providers": {
+    "Steam": 438,
+    "GOG": 60,
+    "itch.io": 14,
+    "Patreon": 5,
+    "Epic Games": 7,
+    "Humble Store": 5,
+    "Official site": 14,
+    "GitHub": 5,
+    "Hytale": 2,
+    "IndieDB": 2,
+    "Minecraft": 1,
+    "Alderon Games": 1,
+    "PlayStation": 1,
+    "Xbox": 1,
+    "Microsoft Store": 1,
+    "Google Play": 1,
+    "App Store": 1,
+    "Vintage Story": 2
+  },
+  "artwork": 381,
+  "video": 381,
+  "datasetHash": "273127738defe2755f092d4efd75ae4e37af32b15e2da0ac443594ea6ec70d7c"
+}

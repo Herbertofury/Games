@@ -1,6 +1,6 @@
 # Discovery reconciliation
 
-Published catalog: 1189 unique records. Unresolved new candidates: 127. Unresolved does not mean nonexistent.
+Published catalog: 1567 unique records. Unresolved new candidates: 209. Unresolved does not mean nonexistent.
 
 - **Alice in Abyss**: Exact identity needs reconciliation
 - **Super Zangyura**: Exact identity needs reconciliation
@@ -15,6 +15,17 @@ Published catalog: 1189 unique records. Unresolved new candidates: 127. Unresolv
 - **Outland**: Exact identity needs reconciliation
 - **Environmental Station Alpha 2**: Exact identity needs reconciliation
 - **Overon**: Exact identity needs reconciliation
+- **Dreadmooring**: Exact title requires reconciliation
+- **Withstand: Survival**: Exact title requires reconciliation
+- **Mars Survival**: Exact title requires reconciliation
+- **LIGHT OF MOTIRAM**: Exact title requires reconciliation
+- **Tribes of Ellarian**: Exact title requires reconciliation
+- **Force of Nature 3**: Exact title requires reconciliation
+- **Realms of Magic 2**: Exact title requires reconciliation
+- **Cavern**: Exact title requires reconciliation
+- **Voxaria**: Exact title requires reconciliation
+- **Survive on Raft**: Official store did not confirm a standalone game
+- **ChunkForge**: Exact title requires reconciliation
 - **Armor Clash 4**: No exact published identity confirmed. Not silently replaced with another game.
 - **Rise of Legends**: No current official digital edition confirmed. Do not link an unrelated title or unofficial download.
 - **Battle Aces**: Development ended; do not advertise as an available recommendation.
@@ -129,3 +140,74 @@ Published catalog: 1189 unique records. Unresolved new candidates: 127. Unresolv
 - **Grime 2**: 
 - **Mongrel Story (Demo)**: Media and playable-preview verification not met; not promoted as a recommendation. Original source data remains in metroidvania-external.json.
 - **Reawakening**: Public build identity verified but no usable gameplay video verified; retained in research, not recommended with blank footage.
+- **Shipwrecked 64**: Narrative/ARG horror, not the requested survival-crafting loop.
+- **Survival: The Last Hope**: Unconfirmed ambiguous discovery name, not promoted.
+- **Subsistence: River Basin**: Unconfirmed separate game identity; not duplicated from Subsistence.
+- **Dead State: Reanimated**: Turn-based survival RPG, not the requested open-world crafting focus.
+- **Dead Rising 3 Apocalypse Edition**: Action zombie sandbox without the requested survival-crafting emphasis.
+- **Dead Age 2**: Turn-based RPG, not the requested survival crafting.
+- **The Beast Inside**: Narrative horror, not open-world survival crafting.
+- **Path of Titans**: Use exact creator distribution; no unrelated Steam substitute.
+- **Planet Crafter: Toxicity**: Expansion/discovery label, not assumed to be a standalone game.
+- **The Planet Crafter: Eden Crafters**: Two distinct projects accidentally combined; both actual games have their own entries.
+- **Rokh**: Historical experimental release with weak reception; kept as a research disposition rather than a current recommendation.
+- **Deadzone: Rogue**: Roguelite shooter, not a survival-crafting world.
+- **Thea: The Awakening**: Turn-based strategy survival neighbor; omitted to keep the added categories focused.
+- **Thea 2: The Shattering**: Turn-based strategy survival neighbor; omitted from this collection.
+- **Haven & Hearth**: Use exact creator distribution; no unrelated Steam substitute.
+- **Cast n Chill**: Relaxed fishing, not survival crafting.
+- **Rising Front**: Battle simulator, not the requested survival crafting.
+- **Dead District: Survival**: Low-confidence discovery retained in the source ledger, not a quality recommendation.
+- **Survival Fountain**: Ambiguous duplicate-like discovery, not promoted.
+- **Crash Dive**: Submarine combat, not survival crafting.
+- **Vintage Story**: Use exact creator distribution; no unrelated Steam substitute.
+- **Hytale**: Use exact creator distribution; no unrelated Steam substitute.
+- **Minecraft**: Use exact creator distribution; no unrelated Steam substitute.
+- **Terra Nil**: Ecological puzzle strategy, not Minecraft-like survival.
+- **Veloren**: Use exact creator distribution; no unrelated Steam substitute.
+- **Terasology**: Use exact creator distribution; no unrelated Steam substitute.
+- **VoxeLibre**: Use exact creator distribution; no unrelated Steam substitute.
+- **Mineclonia**: Use exact creator distribution; no unrelated Steam substitute.
+- **Luanti**: Use exact creator distribution; no unrelated Steam substitute.
+- **Survivalcraft 2**: Use exact creator distribution; no unrelated Steam substitute.
+- **Mythruna**: Use exact creator distribution; no unrelated Steam substitute.
+- **Blockland**: Creative construction sandbox without survival; not promoted into the survival shelf.
+- **Hytale: Adventure**: An unfinished mode/feature of Hytale, not a separate released game.
+- **Necesse 2**: Unconfirmed sequel identity, not promoted.
+- **Muck 2**: Unconfirmed sequel identity, not promoted.
+- **Minicraft+**: Use exact creator distribution; no unrelated Steam substitute.
+- **Minicraft**: Use exact creator distribution; no unrelated Steam substitute.
+- **Minetest Game**: Use exact creator distribution; no unrelated Steam substitute.
+- **ClassiCube**: Use exact creator distribution; no unrelated Steam substitute.
+- **Mine Blocks**: Use exact creator distribution; no unrelated Steam substitute.
+- **Orion Sandbox Enhanced**: Use exact creator distribution; no unrelated Steam substitute.
+- **Paper Minecraft**: Use exact creator distribution; no unrelated Steam substitute.
+- **WILDRAFT**: Use exact creator distribution; no unrelated Steam substitute.
+- **Vintage Story Classic**: Use exact creator distribution; no unrelated Steam substitute.
+- **FOUNTAINS**: Action RPG, not the requested survival-crafting loop.
+- **Outlive**: Ambiguous project name; no different-genre substitute promoted.
+- **Sunderfolk**: Turn-based tactical party game, not survival crafting.
+- **Voxeland**: Ambiguous game/tool identity, not promoted without exact evidence.
+- **Boulders**: Ambiguous identity, not promoted by voxel-sounding name alone.
+- **TUG**: Historical unfinished/delisted project; not a current buy recommendation.
+- **Verdant Skies**: Farming life simulation, not the survival/crafting focus here.
+- **Dreadmooring**: No exact official current identity confirmed; not conflated with DREADMOOR.
+- **Nearly Dead - Live and Let Die**: Official description identifies a co-op action roguelite with short expedition/defense runs, not the persistent survival world requested.
+- **Mars Survival**: Ambiguous name; no unrelated Mars simulator silently substituted.
+- **Survival Machines**: The published project now uses the singular Survival Machine; no duplicate title row.
+- **Tribes of Ellarian**: No exact published identity confirmed.
+- **Force of Nature 3**: No exact current game identity confirmed.
+- **Force of Nature 2**: Alias of the already accepted Ghost Keeper edition.
+- **Realms of Magic 2**: No exact current sequel identity confirmed.
+- **Cavern**: Ambiguous name; unrelated platformers and management games not substituted.
+- **Voxaria**: No exact current creator or store identity confirmed.
+- **Sunken Engine**: Genre review: a Lovecraftian ship-repair business simulator, not the survival-crafting world requested. Source metadata retained in research.
+- **Moon Mystery**: Genre review: Moon Mystery is a narrative sci-fi shooter, not an open-world survival-crafting recommendation.
+- **Shores of Plunder**: Genre review: Shores of Plunder emphasizes competitive pirate modes, not the Minecraft-like survival world category.
+- **FrontierCraft**: Unresolved media: the unreleased FrontierCraft listing has no confirmed matching video. Retained as a research candidate, not a fully documented recommendation.
+- **WILDRAFT**: Unresolved media: the creator page's linked video resolves to an unrelated Doctor Who title. Do not publish it as game footage; keep the discovery for further verification.
+- **FrontierCraft**: Unresolved media: the unreleased FrontierCraft listing has no confirmed matching video. Retained as a research candidate, not a fully documented recommendation.
+- **Moon Mystery**: Genre review: Moon Mystery is a narrative sci-fi shooter, not an open-world survival-crafting recommendation.
+- **Shores of Plunder**: Genre review: Shores of Plunder emphasizes competitive pirate modes, not the Minecraft-like survival world category.
+- **Sunken Engine**: Genre review: a Lovecraftian ship-repair business simulator, not the survival-crafting world requested. Source metadata retained in research.
+- **WILDRAFT**: Unresolved media: the creator page's linked video resolves to an unrelated Doctor Who title. Do not publish it as game footage; keep the discovery for further verification.

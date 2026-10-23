@@ -1,26 +1,407 @@
 {
-  "schemaVersion":1,
-  "items":[
-    {"id":"external:minecraft","name":"Minecraft: Java & Bedrock Edition","aliases":["Minecraft","Minecraft Java","Minecraft Bedrock"],"hub":"Minecraft-like worlds","collection":"Block-building survival & voxel frontiers","scope":"Voxel survival crafting","url":"https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc","extraUrls":["https://www.minecraft.net/en-us/about-minecraft"],"fit":10,"status":"Released","free":false,"releaseDate":"2011-11-18","platforms":["windows","mac","linux"],"why":"The reference point for worlds you can reshape, extensive survival progression and enormous modding possibilities. Keep Java mods, Bedrock add-ons and the two editions' multiplayer ecosystems distinct.","requirements":"The PC bundle includes Java and Bedrock. Bedrock is for Windows; Java also supports macOS and Linux. Java and Bedrock are separate editions, not automatically cross-compatible multiplayer clients."},
-    {"id":"external:vintage-story","name":"Vintage Story","hub":"Minecraft-like worlds","collection":"Block-building survival & voxel frontiers","scope":"Voxel wilderness survival","url":"https://www.vintagestory.at/","extraUrls":["https://www.vintagestory.at/presskit.html/","https://tyronx.itch.io/vintage-story"],"fit":10,"status":"Early Access","free":false,"originalReleaseYear":2016,"platforms":["windows","mac","linux"],"why":"The strongest match for deeper Minecraft-like survival: hands-on crafting, seasons, food preservation, metallurgy and a world built for long-term settlement. A distinct standalone game, not a Minecraft modpack.","requirements":"Buy through a currently enabled official seller. The creator's itch.io page currently says purchasing is disabled; it is retained as an archival source, not a working purchase button.","sourceKinds":{"https://tyronx.itch.io/vintage-story":"archive","https://www.vintagestory.at/presskit.html/":"media"}},
-    {"id":"external:hytale","name":"Hytale","hub":"Minecraft-like worlds","collection":"New voxel discoveries & experimental worlds","scope":"Voxel survival / sandbox RPG","url":"https://hytale.com/","extraUrls":["https://hytale.com/media","https://hytale.com/news/2026/1/hytale-is-finally-here","https://store.hytale.com/"],"fit":9,"status":"Early Access","free":false,"releaseDate":"2026-01-13","platforms":["windows","linux","mac"],"why":"A block-built adventure sandbox with combat, exploration and creator tools. The current playable Early Access is distinct from older pre-release promises; follow the live update notes for feature availability.","requirements":"Standalone Hytale launcher and a purchased game edition. Early Access is unfinished; the original announcement trailer is historical footage, not a guarantee of every advertised system.","sourceKinds":{"https://hytale.com/media":"media","https://hytale.com/news/2026/1/hytale-is-finally-here":"news","https://store.hytale.com/":"store"}},
-    {"id":"external:lego-fortnite-odyssey","name":"LEGO Fortnite Odyssey","hub":"Minecraft-like worlds","collection":"Block-building survival & voxel frontiers","scope":"Brick-building survival crafting","url":"https://www.fortnite.com/@epic/lego-fortnite-odyssey","extraUrls":["https://www.fortnite.com/news/lego-fortnite-becomes-lego-fortnite-odyssey-with-the-storm-chasers-update"],"fit":9,"status":"Released","free":true,"originalReleaseYear":2023,"platforms":["windows","PlayStation","Xbox","Nintendo Switch","mobile"],"why":"Free cooperative survival built around LEGO structures, villages, resource gathering and contraptions. A substantial playable mode within Fortnite, not a separate Steam game.","requirements":"Requires Fortnite, an Epic account and online access. Optional cosmetics and paid passes are separate from free gameplay.","sourceKinds":{"https://www.fortnite.com/news/lego-fortnite-becomes-lego-fortnite-odyssey-with-the-storm-chasers-update":"news"}},
-    {"id":"external:veloren","name":"Veloren","hub":"Minecraft-like worlds","collection":"Free & open voxel worlds","scope":"Voxel action RPG / survival-adjacent","url":"https://veloren.net/","extraUrls":["https://veloren.net/download/"],"fit":8,"status":"Playable alpha","free":true,"platforms":["windows","mac","linux"],"why":"A free open-source voxel adventure with climbing, gliding, dungeons and multiplayer. More of an exploration RPG than a Minecraft-style base-building survival simulator.","requirements":"Use the official launcher. This is an evolving alpha; do not expect every Minecraft building or survival system."},
-    {"id":"external:voxelibre","name":"VoxeLibre","aliases":["MineClone2"],"hub":"Minecraft-like worlds","collection":"Free & open voxel worlds","scope":"Voxel survival crafting","url":"https://github.com/VoxeLibre/VoxeLibre","extraUrls":["https://www.luanti.org/"],"fit":9,"status":"Released","free":true,"platforms":["windows","mac","linux","Android"],"why":"A free Minecraft-inspired survival game with mining, farming, monsters and building, developed for the open-source Luanti engine.","requirements":"Install Luanti, then install VoxeLibre through its game browser. Luanti is the engine; VoxeLibre is the actual game. This is not a Minecraft account or modpack."},
-    {"id":"external:mineclonia","name":"Mineclonia","hub":"Minecraft-like worlds","collection":"Free & open voxel worlds","scope":"Voxel survival crafting","url":"https://github.com/mineclonia-mirror/mineclonia","extraUrls":["https://www.luanti.org/"],"fit":9,"status":"Released","free":true,"platforms":["windows","mac","linux","Android"],"why":"A separate community fork focused on a familiar Minecraft-style survival loop and multiplayer stability. Compare it with VoxeLibre instead of assuming their features and world formats are identical.","requirements":"Requires the free Luanti engine. The linked GitHub project is the project's public mirror; use the upstream download directions in its README."},
-    {"id":"external:terasology","name":"Terasology","hub":"Minecraft-like worlds","collection":"Free & open voxel worlds","scope":"Modular voxel sandbox / experimental","url":"https://terasology.org/","extraUrls":["https://github.com/MovingBlocks/Terasology"],"fit":7,"status":"Playable alpha","free":true,"platforms":["windows","mac","linux"],"why":"An experimental open-source voxel platform with modular gameplay. Best for people interested in unusual systems and community modules, not a substitute for a finished survival campaign.","requirements":"Gameplay depends on the selected modules and current launcher build. Development software with variable module compatibility."},
-    {"id":"external:minicraft-plus","name":"Minicraft+","aliases":["Minicraft Plus","Minicraft"],"hub":"Minecraft-like worlds","collection":"Free & tiny crafting worlds","scope":"2D sandbox survival crafting","url":"https://minicraftplus.github.io/","extraUrls":["https://github.com/MinicraftPlus/minicraft-plus-revived"],"fit":9,"status":"Released","free":true,"platforms":["windows","mac","linux"],"why":"A compact, free top-down crafting adventure descended from the original Minicraft. A good smaller-scale alternative to committing to an enormous Terraria world.","requirements":"Java-based community project. Use the current official release instructions; the original jam game is not counted as a separate recommendation."},
-    {"id":"external:survivalcraft-2","name":"Survivalcraft 2","hub":"Minecraft-like worlds","collection":"Block-building survival & voxel frontiers","scope":"Voxel wilderness survival","url":"https://kaalus.wordpress.com/","extraUrls":["https://kaalus.wordpress.com/downloads/"],"fit":8,"status":"Released","free":false,"platforms":["windows","Android","iOS"],"why":"A wilderness-focused block survival game with weather, animals, crafting and building. Check the exact platform edition instead of treating its mobile and desktop releases as one purchase.","requirements":"Paid platform-specific editions; verify the current device requirements on the official store linked by the creator."},
-    {"id":"external:wildraft","name":"WILDRAFT","hub":"Minecraft-like worlds","collection":"New voxel discoveries & experimental worlds","scope":"Voxel survival crafting","url":"https://lucifer6767.itch.io/wildraft","fit":7,"status":"Demo","free":true,"releaseDate":"2026-09-27","platforms":["windows"],"why":"A small creator-hosted voxel fantasy survival discovery. The currently advertised public build is a limited demo rather than a completed large-scale game.","requirements":"The creator describes a 30-minute demo. Treat it as an exploratory recommendation with a very small feedback base.","confidence":"Exploratory"},
-    {"id":"external:path-of-titans","name":"Path of Titans","hub":"Survival","collection":"Creature survival & animal worlds","scope":"Online creature-survival MMO","url":"https://pathoftitans.com/","extraUrls":["https://pathoftitans.com/store"],"fit":8,"status":"Early Access","free":false,"platforms":["windows","mac","linux","consoles","mobile"],"why":"Play the dinosaur rather than tame one. A multiplayer creature-survival alternative to ARK, with a fundamentally different progression and combat loop.","requirements":"Official account and platform-specific access. This is not an ARK-style base-building game; check the exact edition and online requirements."},
-    {"id":"external:stranded-2","name":"Stranded II","hub":"Survival","collection":"Freeware & creator-hosted survival","scope":"First-person survival crafting","url":"https://www.unrealsoftware.de/game_stranded2.php","fit":8,"status":"Released","free":true,"originalReleaseYear":2007,"platforms":["windows"],"why":"An influential freeware island-survival game with gathering, crafting and construction. A worthwhile historical curiosity, clearly separated from modern releases.","requirements":"Older Windows freeware. Use the author's download; compatibility and controls reflect its age."},
-    {"id":"external:cataclysm-bright-nights","name":"Cataclysm: Bright Nights","hub":"Survival","collection":"Freeware & creator-hosted survival","scope":"Turn-based systemic survival / adjacent","url":"https://cataclysmbn.org/","extraUrls":["https://github.com/cataclysmbnteam/Cataclysm-BN"],"fit":9,"status":"Released","free":true,"platforms":["windows","linux","mac"],"why":"Deep, free systemic survival with crafting, vehicles and a dangerous simulated world. Turn-based and interface-heavy, not a first-person Conan substitute.","requirements":"Separate community fork from Cataclysm: Dark Days Ahead. Follow the official release's supported-platform instructions."},
-    {"id":"external:luun","name":"LUUN","hub":"Survival","collection":"Freeware & creator-hosted survival","scope":"Island survival crafting / prototype","url":"https://luungame.com/index.html","fit":7,"status":"Prototype","free":false,"platforms":["windows"],"why":"A creator-led island survival and ship-building project. Its old roadmap is not treated as proof of a finished or actively maintained release.","requirements":"Check the creator-linked playable build and current development status before paying. An exploratory project, not an established buy recommendation.","confidence":"Exploratory"}
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "external:minecraft",
+      "name": "Minecraft: Java & Bedrock Edition",
+      "aliases": [
+        "Minecraft",
+        "Minecraft Java",
+        "Minecraft Bedrock"
+      ],
+      "hub": "Minecraft-like worlds",
+      "collection": "Block-building survival & voxel frontiers",
+      "scope": "Voxel survival crafting",
+      "url": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc",
+      "extraUrls": [
+        "https://www.minecraft.net/en-us/about-minecraft"
+      ],
+      "fit": 10,
+      "status": "Released",
+      "free": false,
+      "releaseDate": "2011-11-18",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "why": "The reference point for worlds you can reshape, extensive survival progression and enormous modding possibilities. Keep Java mods, Bedrock add-ons and the two editions' multiplayer ecosystems distinct.",
+      "requirements": "The PC bundle includes Java and Bedrock. Bedrock is for Windows; Java also supports macOS and Linux. Java and Bedrock are separate editions, not automatically cross-compatible multiplayer clients."
+    },
+    {
+      "id": "external:vintage-story",
+      "name": "Vintage Story",
+      "hub": "Minecraft-like worlds",
+      "collection": "Block-building survival & voxel frontiers",
+      "scope": "Voxel wilderness survival",
+      "url": "https://www.vintagestory.at/",
+      "extraUrls": [
+        "https://www.vintagestory.at/presskit.html/",
+        "https://tyronx.itch.io/vintage-story"
+      ],
+      "fit": 10,
+      "status": "Early Access",
+      "free": false,
+      "originalReleaseYear": 2016,
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "why": "The strongest match for deeper Minecraft-like survival: hands-on crafting, seasons, food preservation, metallurgy and a world built for long-term settlement. A distinct standalone game, not a Minecraft modpack.",
+      "requirements": "Buy through a currently enabled official seller. The creator's itch.io page currently says purchasing is disabled; it is retained as an archival source, not a working purchase button.",
+      "sourceKinds": {
+        "https://tyronx.itch.io/vintage-story": "archive",
+        "https://www.vintagestory.at/presskit.html/": "media"
+      }
+    },
+    {
+      "id": "external:hytale",
+      "name": "Hytale",
+      "hub": "Minecraft-like worlds",
+      "collection": "New voxel discoveries & experimental worlds",
+      "scope": "Voxel survival / sandbox RPG",
+      "url": "https://hytale.com/",
+      "extraUrls": [
+        "https://hytale.com/media",
+        "https://hytale.com/news/2026/1/hytale-is-finally-here",
+        "https://store.hytale.com/"
+      ],
+      "fit": 9,
+      "status": "Early Access",
+      "free": false,
+      "releaseDate": "2026-01-13",
+      "platforms": [
+        "windows",
+        "linux",
+        "mac"
+      ],
+      "why": "A block-built adventure sandbox with combat, exploration and creator tools. The current playable Early Access is distinct from older pre-release promises; follow the live update notes for feature availability.",
+      "requirements": "Standalone Hytale launcher and a purchased game edition. Early Access is unfinished; the original announcement trailer is historical footage, not a guarantee of every advertised system.",
+      "sourceKinds": {
+        "https://hytale.com/media": "media",
+        "https://hytale.com/news/2026/1/hytale-is-finally-here": "news",
+        "https://store.hytale.com/": "store"
+      }
+    },
+    {
+      "id": "external:lego-fortnite-odyssey",
+      "name": "LEGO Fortnite Odyssey",
+      "hub": "Minecraft-like worlds",
+      "collection": "Block-building survival & voxel frontiers",
+      "scope": "Brick-building survival crafting",
+      "url": "https://www.fortnite.com/@epic/lego-fortnite-odyssey",
+      "extraUrls": [
+        "https://www.fortnite.com/news/lego-fortnite-becomes-lego-fortnite-odyssey-with-the-storm-chasers-update"
+      ],
+      "fit": 9,
+      "status": "Released",
+      "free": true,
+      "originalReleaseYear": 2023,
+      "platforms": [
+        "windows",
+        "PlayStation",
+        "Xbox",
+        "Nintendo Switch",
+        "mobile"
+      ],
+      "why": "Free cooperative survival built around LEGO structures, villages, resource gathering and contraptions. A substantial playable mode within Fortnite, not a separate Steam game.",
+      "requirements": "Requires Fortnite, an Epic account and online access. Optional cosmetics and paid passes are separate from free gameplay.",
+      "sourceKinds": {
+        "https://www.fortnite.com/news/lego-fortnite-becomes-lego-fortnite-odyssey-with-the-storm-chasers-update": "news"
+      }
+    },
+    {
+      "id": "external:veloren",
+      "name": "Veloren",
+      "hub": "Minecraft-like worlds",
+      "collection": "Free & open voxel worlds",
+      "scope": "Voxel action RPG / survival-adjacent",
+      "url": "https://veloren.net/",
+      "extraUrls": [
+        "https://veloren.net/download/"
+      ],
+      "fit": 8,
+      "status": "Playable alpha",
+      "free": true,
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "why": "A free open-source voxel adventure with climbing, gliding, dungeons and multiplayer. More of an exploration RPG than a Minecraft-style base-building survival simulator.",
+      "requirements": "Use the official launcher. This is an evolving alpha; do not expect every Minecraft building or survival system."
+    },
+    {
+      "id": "external:voxelibre",
+      "name": "VoxeLibre",
+      "aliases": [
+        "MineClone2"
+      ],
+      "hub": "Minecraft-like worlds",
+      "collection": "Free & open voxel worlds",
+      "scope": "Voxel survival crafting",
+      "url": "https://github.com/VoxeLibre/VoxeLibre",
+      "extraUrls": [
+        "https://www.luanti.org/"
+      ],
+      "fit": 9,
+      "status": "Released",
+      "free": true,
+      "platforms": [
+        "windows",
+        "mac",
+        "linux",
+        "Android"
+      ],
+      "why": "A free Minecraft-inspired survival game with mining, farming, monsters and building, developed for the open-source Luanti engine.",
+      "requirements": "Install Luanti, then install VoxeLibre through its game browser. Luanti is the engine; VoxeLibre is the actual game. This is not a Minecraft account or modpack."
+    },
+    {
+      "id": "external:mineclonia",
+      "name": "Mineclonia",
+      "hub": "Minecraft-like worlds",
+      "collection": "Free & open voxel worlds",
+      "scope": "Voxel survival crafting",
+      "url": "https://github.com/mineclonia-mirror/mineclonia",
+      "extraUrls": [
+        "https://www.luanti.org/"
+      ],
+      "fit": 9,
+      "status": "Released",
+      "free": true,
+      "platforms": [
+        "windows",
+        "mac",
+        "linux",
+        "Android"
+      ],
+      "why": "A separate community fork focused on a familiar Minecraft-style survival loop and multiplayer stability. Compare it with VoxeLibre instead of assuming their features and world formats are identical.",
+      "requirements": "Requires the free Luanti engine. The linked GitHub project is the project's public mirror; use the upstream download directions in its README."
+    },
+    {
+      "id": "external:terasology",
+      "name": "Terasology",
+      "hub": "Minecraft-like worlds",
+      "collection": "Free & open voxel worlds",
+      "scope": "Modular voxel sandbox / experimental",
+      "url": "https://terasology.org/",
+      "extraUrls": [
+        "https://github.com/MovingBlocks/Terasology"
+      ],
+      "fit": 7,
+      "status": "Playable alpha",
+      "free": true,
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "why": "An experimental open-source voxel platform with modular gameplay. Best for people interested in unusual systems and community modules, not a substitute for a finished survival campaign.",
+      "requirements": "Gameplay depends on the selected modules and current launcher build. Development software with variable module compatibility."
+    },
+    {
+      "id": "external:minicraft-plus",
+      "name": "Minicraft+",
+      "aliases": [
+        "Minicraft Plus",
+        "Minicraft"
+      ],
+      "hub": "Minecraft-like worlds",
+      "collection": "Free & tiny crafting worlds",
+      "scope": "2D sandbox survival crafting",
+      "url": "https://minicraftplus.github.io/",
+      "extraUrls": [
+        "https://github.com/MinicraftPlus/minicraft-plus-revived"
+      ],
+      "fit": 9,
+      "status": "Released",
+      "free": true,
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "why": "A compact, free top-down crafting adventure descended from the original Minicraft. A good smaller-scale alternative to committing to an enormous Terraria world.",
+      "requirements": "Java-based community project. Use the current official release instructions; the original jam game is not counted as a separate recommendation."
+    },
+    {
+      "id": "external:survivalcraft-2",
+      "name": "Survivalcraft 2",
+      "hub": "Minecraft-like worlds",
+      "collection": "Block-building survival & voxel frontiers",
+      "scope": "Voxel wilderness survival",
+      "url": "https://kaalus.wordpress.com/",
+      "extraUrls": [
+        "https://kaalus.wordpress.com/downloads/"
+      ],
+      "fit": 8,
+      "status": "Released",
+      "free": false,
+      "platforms": [
+        "windows",
+        "Android",
+        "iOS"
+      ],
+      "why": "A wilderness-focused block survival game with weather, animals, crafting and building. Check the exact platform edition instead of treating its mobile and desktop releases as one purchase.",
+      "requirements": "Paid platform-specific editions; verify the current device requirements on the official store linked by the creator."
+    },
+    {
+      "id": "external:wildraft",
+      "name": "WILDRAFT",
+      "hub": "Minecraft-like worlds",
+      "collection": "New voxel discoveries & experimental worlds",
+      "scope": "Voxel survival crafting",
+      "url": "https://lucifer6767.itch.io/wildraft",
+      "fit": 7,
+      "status": "Demo",
+      "free": true,
+      "releaseDate": "2026-09-27",
+      "platforms": [
+        "windows"
+      ],
+      "why": "A small creator-hosted voxel fantasy survival discovery. The currently advertised public build is a limited demo rather than a completed large-scale game.",
+      "requirements": "The creator describes a 30-minute demo. Treat it as an exploratory recommendation with a very small feedback base.",
+      "confidence": "Exploratory"
+    },
+    {
+      "id": "external:path-of-titans",
+      "name": "Path of Titans",
+      "hub": "Survival",
+      "collection": "Creature survival & animal worlds",
+      "scope": "Online creature-survival MMO",
+      "url": "https://pathoftitans.com/",
+      "extraUrls": [
+        "https://pathoftitans.com/store"
+      ],
+      "fit": 8,
+      "status": "Early Access",
+      "free": false,
+      "platforms": [
+        "windows",
+        "mac",
+        "linux",
+        "consoles",
+        "mobile"
+      ],
+      "why": "Play the dinosaur rather than tame one. A multiplayer creature-survival alternative to ARK, with a fundamentally different progression and combat loop.",
+      "requirements": "Official account and platform-specific access. This is not an ARK-style base-building game; check the exact edition and online requirements."
+    },
+    {
+      "id": "external:stranded-2",
+      "name": "Stranded II",
+      "hub": "Survival",
+      "collection": "Freeware & creator-hosted survival",
+      "scope": "First-person survival crafting",
+      "url": "https://www.unrealsoftware.de/game_stranded2.php",
+      "fit": 8,
+      "status": "Released",
+      "free": true,
+      "originalReleaseYear": 2007,
+      "platforms": [
+        "windows"
+      ],
+      "why": "An influential freeware island-survival game with gathering, crafting and construction. A worthwhile historical curiosity, clearly separated from modern releases.",
+      "requirements": "Older Windows freeware. Use the author's download; compatibility and controls reflect its age."
+    },
+    {
+      "id": "external:cataclysm-bright-nights",
+      "name": "Cataclysm: Bright Nights",
+      "hub": "Survival",
+      "collection": "Freeware & creator-hosted survival",
+      "scope": "Turn-based systemic survival / adjacent",
+      "url": "https://cataclysmbn.org/",
+      "extraUrls": [
+        "https://github.com/cataclysmbnteam/Cataclysm-BN"
+      ],
+      "fit": 9,
+      "status": "Released",
+      "free": true,
+      "platforms": [
+        "windows",
+        "linux",
+        "mac"
+      ],
+      "why": "Deep, free systemic survival with crafting, vehicles and a dangerous simulated world. Turn-based and interface-heavy, not a first-person Conan substitute.",
+      "requirements": "Separate community fork from Cataclysm: Dark Days Ahead. Follow the official release's supported-platform instructions."
+    },
+    {
+      "id": "external:luun",
+      "name": "LUUN",
+      "hub": "Survival",
+      "collection": "Freeware & creator-hosted survival",
+      "scope": "Island survival crafting / prototype",
+      "url": "https://luungame.com/index.html",
+      "fit": 7,
+      "status": "Prototype",
+      "free": false,
+      "platforms": [
+        "windows"
+      ],
+      "why": "A creator-led island survival and ship-building project. Its old roadmap is not treated as proof of a finished or actively maintained release.",
+      "requirements": "Check the creator-linked playable build and current development status before paying. An exploratory project, not an established buy recommendation.",
+      "confidence": "Exploratory"
+    },
+    {
+      "id": "external:mine-blocks",
+      "name": "Mine Blocks",
+      "hub": "Minecraft-like worlds",
+      "collection": "Free & tiny crafting worlds",
+      "scope": "2D sandbox survival crafting",
+      "url": "https://mineblocks.com/1",
+      "extraUrls": [
+        "https://mineblocks.com/"
+      ],
+      "fit": 8,
+      "status": "Released",
+      "free": true,
+      "platforms": [
+        "Web browser"
+      ],
+      "why": "A free creator-made 2D Minecraft-inspired browser game with mining, crafting and building. The original is now playable in HTML5; it is a fan game, not a Mojang product.",
+      "requirements": "Play in a modern browser from the original creator. Optional Patreon support is not a required game purchase."
+    },
+    {
+      "id": "external:mine-blocks-2",
+      "name": "Mine Blocks 2",
+      "hub": "Minecraft-like worlds",
+      "collection": "Free & tiny crafting worlds",
+      "scope": "2D sandbox survival crafting",
+      "url": "https://mineblocks.com/2",
+      "extraUrls": [
+        "https://mineblocks.com/"
+      ],
+      "fit": 8,
+      "status": "Playable alpha",
+      "free": true,
+      "platforms": [
+        "Web browser"
+      ],
+      "why": "A free creator-made 2D Minecraft-inspired browser game with mining, crafting and building. This is the separate HTML5 alpha sequel, not the cancelled third project.",
+      "requirements": "Play in a modern browser from the original creator. Optional Patreon support is not a required game purchase."
+    }
   ],
-  "dispositions":[
-    {"candidate":"Luanti","state":"engine-not-game","reason":"Linked as the required free engine on its games, not inflated into a separate survival recommendation."},
-    {"candidate":"Minicraft","state":"merged","canonical":"external:minicraft-plus","reason":"Original and maintained community lineage explained together."},
-    {"candidate":"ClassiCube","state":"genre-neighbor-not-promoted","reason":"Classic creative building lacks the requested survival loop."},
-    {"candidate":"Vintage Story Classic","state":"edition-not-game","reason":"Old creative edition is not a separate survival recommendation."}
+  "dispositions": [
+    {
+      "candidate": "Luanti",
+      "state": "engine-not-game",
+      "reason": "Linked as the required free engine on its games, not inflated into a separate survival recommendation."
+    },
+    {
+      "candidate": "Minicraft",
+      "state": "merged",
+      "canonical": "external:minicraft-plus",
+      "reason": "Original and maintained community lineage explained together."
+    },
+    {
+      "candidate": "ClassiCube",
+      "state": "genre-neighbor-not-promoted",
+      "reason": "Classic creative building lacks the requested survival loop."
+    },
+    {
+      "candidate": "Vintage Story Classic",
+      "state": "edition-not-game",
+      "reason": "Old creative edition is not a separate survival recommendation."
+    }
   ]
 }

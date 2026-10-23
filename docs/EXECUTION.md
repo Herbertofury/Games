@@ -141,3 +141,8 @@ Research boundaries remain explicit: 13 unresolved discovery names and two unpro
 Remaining hosting prerequisite: GitHub Pages was disabled in catalog-24's publication report. Native Wiki, GitHub release and portable HTML are published, and Drive is synchronized. Activate Settings > Pages > Source: GitHub Actions, then run Publish library for the hosted interactive site. Do not claim that the Pages URL is live.
 
 Exact next action: use catalog-24 and the current canonical source layers for requested additions or corrections. Preserve the 430 Metroidvania entries, five installed hubs, exact edition/media provenance and `games.library.v1` storage. Do not restart the old broad searches, failed preview jobs, or source-transfer bootstraps. Process only newly requested or genuinely invalidated records. This documentation-only checkpoint does not alter the verified catalog-24 app or its release lineage.
+
+
+## Survival source checkpoint, October 23, 2026
+
+The requested Survival and Minecraft-like worlds hubs are integrated. Source checkpoint artifact 12538271115 (SHA-256 73d536a3d65ea3193204a1f1139705061c013446ffdd598330d5d98042202302) retained all reviewed media and source mutations after two integration findings. Repairs normalized the new research-ledger names and extended the existing exact-union assertion to include the new canonical sources, without removing original checks. Source/unit tests precede this coherent checkpoint; complete Chrome validation, actual native Wiki publication, release hashes and Drive synchronization remain required. Next action: the full publication workflow, with scripts/survival_qa.py alongside every previous browser suite. Do not rerun initial source discovery or unmodified failed searches.

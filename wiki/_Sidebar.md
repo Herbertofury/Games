@@ -3,6 +3,11 @@
 [Open interactive library](https://herbertofury.github.io/Games/)
 
 - [Home](Home)
+- [Survival](Survival)
+- [Minecraft-like worlds](Minecraft-Like-Worlds)
+- [Survival: complete media atlas](Survival-Media)
+- [Minecraft-like: complete media atlas](Minecraft-Like-Media)
+- [Survival field guide](Survival-Field-Guide)
 - [Platformers](Platformers)
 - [Platformer study](Platformers-Study)
 - [Platformer gems](Platformers-Gems)

@@ -8,11 +8,23 @@ A detailed tactical-combat and exploration pick built on GZDoom. Its Early Acces
 
 [Steam store](https://store.steampowered.com/app/1592280/) · [Patreon support / devlogs](https://www.patreon.com/PlaySelaco)
 
+## Road to Vostok
+
+For tense survival expeditions and careful equipment management. Creator support, public development builds and the current full-game edition are distinguished.
+
+[Steam store](https://store.steampowered.com/app/1963610) · [Patreon support / devlogs](https://www.patreon.com/roadtovostok) · [Steam demo](https://store.steampowered.com/app/2141300/)
+
 ## Mohrta
 
 A particularly interesting dark-fantasy exploration FPS for your taste in atmospheric worlds and unusual weapons.
 
 [Steam store](https://store.steampowered.com/app/2881610/) · [Patreon support / devlogs](https://www.patreon.com/scumhead) · [GOG store](https://www.gog.com/en/game/mohrta)
+
+## Allumeria
+
+A newer voxel-sandbox discovery for the dedicated Minecraft-like section. Its creator support page is separate from the game purchase.
+
+[Steam store](https://store.steampowered.com/app/3516590) · [Patreon support / devlogs](https://www.patreon.com/cw/Unomelon) · [Steam demo](https://store.steampowered.com/app/4247370/)
 
 ## Doom: The Golden Souls 2
 
@@ -56,6 +68,18 @@ A creative change of pace when you want secrets, jumping challenges, and whimsic
 
 [itch.io download](https://batandy.itch.io/goldensouls) · [Patreon support / devlogs](https://www.patreon.com/Batandy)
 
+## Mine Blocks
+
+A free creator-made 2D Minecraft-inspired browser game with mining, crafting and building. The original is now playable in HTML5; it is a fan game, not a Mojang product.
+
+[Official site browser](https://mineblocks.com/1) · [Official site download](https://mineblocks.com/1/download) · [Patreon support / devlogs](https://patreon.com/Zanzlanz)
+
+## Mine Blocks 2
+
+A free creator-made 2D Minecraft-inspired browser game with mining, crafting and building. This is the separate HTML5 alpha sequel, not the cancelled third project.
+
+[Official site browser](https://mineblocks.com/2) · [Official site download](https://mineblocks.com/2/download) · [Patreon support / devlogs](https://patreon.com/Zanzlanz)
+
 ## Shrine
 
 An approachable free introduction to Scumhead's horror work. The original Shrine belongs here even though its sequel has a Steam listing.
@@ -97,6 +121,12 @@ Diluvian Ultra is a single-player, first-person shooter focusing on a retro aest
 A very promising-looking old-school RTS with striking industrial factions and detailed pixel artwork. It is an upcoming project, not something this catalog claims you can buy and play today.
 
 [Steam wishlist](https://store.steampowered.com/app/2388620/) · [Patreon support / devlogs](https://www.patreon.com/dorfRTS)
+
+## Derelicts
+
+Years after an ancient and enigmatic mechanism flooded Earth with radiation, you and your team are tasked with investigating the source of the incident. Build, craft and explore alone or with friends in this hostile, mysterious wasteland, using the power of electricity and water to survive.
+
+[Steam wishlist](https://store.steampowered.com/app/1572000) · [Patreon support / devlogs](https://www.patreon.com/Derelicts/posts)
 
 ## Sanctuary: Shattered Sun
 

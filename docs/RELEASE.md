@@ -1,17 +1,13 @@
-# Games: the Metroidvania exploration atlas
+# Games: Survival and Minecraft-like worlds
 
-This release adds a dedicated hub with 430 source-grounded Metroidvania and explicitly labelled adjacent entries to the same living library. The complete library now contains 1189 unique records. Every previous genre identity and the existing browser-storage key remain intact.
+This release adds two distinct homes with 381 unique survival-study entries to the shared library of 1567 records. All 1,189 prior identities and all prior genre memberships are preserved.
 
-Every published Metroidvania entry has real artwork, an exact embedded-video source, and confirmed distribution links. Creator trailers, credited community gameplay, historical alpha footage, creator animated gameplay loops, and a catalog-recorded public Spellsought preview are labelled distinctly. Two candidate previews that could not be verified remain in the research ledger, not among recommendations.
+Survival centers on Conan Exiles, ARK and Windrose: shared-world adventures, wilderness, oceans, zombies, space and engineering. Minecraft-like worlds has separate navigation, collections, filters and a distinct visual theme for Minecraft, Terraria, Hytale, Vintage Story, 2D sandboxes, free voxel games and explicitly labelled automation/colony neighbors.
 
-Separate shelves cover traditional Metroidvanias, dark fantasy, parry-focused combat, alien worlds, movement challenges, puzzle-led labyrinths, miniature freeware, top-down/3D neighbors and roguelite hybrids. Recent releases, demos, prototypes, console editions and upcoming games are clearly distinguished. Original Castlevania titles are searchable inside their official collections.
+Every published study entry has real artwork, supported embedded-video metadata and confirmed distribution links. Official trailers, credited community gameplay and historical development footage are distinguished. Full games, demos, prototypes, Early Access, upcoming releases, archived listings, support memberships and required engines are not conflated.
 
-Native wiki: Metroidvanias, Metroidvania-Media and Metroidvania-Underground, plus individual game dossiers. The wiki renders artwork and links videos; the portable HTML supplies the embedded players.
+Survival field notes distinguish source-listed solo/co-op, server mentions, modding and terrain systems. Single-player does not guarantee offline access; co-op does not guarantee cross-play or a particular player count. Editorial recommendation strength is separate from Steam or creator-platform ratings and sample sizes.
 
-Source coverage is the confirmed set, not a claim to every retailer worldwide. Patreon support is not a full-game license; Nintendo Classics membership access is not freeware. Review scores retain their provider and sample size. Editorial fit is not a claim of hands-on completion.
+Native wiki: Survival, Survival-Media, Minecraft-Like-Worlds, Minecraft-Like-Media and Survival-Field-Guide. The wiki renders images and links exact videos; the portable HTML has in-page players. Favorites, ratings, notes and saved views retain games.library.v1. No scheduled crawler, generated artwork or viewport culling is introduced.
 
-The release gate retains all previous browser and unit tests and adds exhaustive new detail/source and artwork checks. Actual video-playback probes are distinct from a claim that every external video was watched end to end. GitHub Pages remains a separate hosting setting.
-
-## Platformer media completion
-
-The platformer study now supplies artwork and supported video metadata for all 439 entries, with twenty previously declared gaps resolved. Official publisher footage, credited editorial gameplay and two short library-captured public-browser previews have distinct labels and dated provenance. Fourteen added direct streams were actually played in Chrome; six added YouTube identities and opt-in embeds were verified separately. Ten primary platformer routes no longer inherit unrelated sidebar categories. All existing collections and personal-library workflows remain covered by the publication gates. See `docs/PLATFORMERS-COMPLETION.md` for exact evidence boundaries.
+The publication gate retains every earlier unit and browser suite and adds complete new detail/source-panel and primary-image checks. Actual playback probes are distinct from a claim of watching every external video end to end. Confirmed store coverage is not every retailer worldwide. GitHub Pages remains a separate hosting prerequisite.

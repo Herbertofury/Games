@@ -189,7 +189,7 @@ One of the strongest older alternatives for the modern-military, resource-and-ba
 
 [Watch: Act of War Direct Action - Gameplay (PC/HD)](https://www.youtube.com/watch?v=jqlyMDiZHLE)  
 
-[Steam](https://store.steampowered.com/app/2710/) | [GOG Gold Edition bundle](https://www.gog.com/en/game/act_of_war_gold_edition)
+[Steam](https://store.steampowered.com/app/2710/) | [GOG Gold Edition bundle (bundle)](https://www.gog.com/en/game/act_of_war_gold_edition)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=steam%3A2710)
 
@@ -206,7 +206,7 @@ The expanded Act of War experience, with additional units and scenarios. A good 
 
 [Watch: Act of War - High Treason Gameplay](https://www.youtube.com/watch?v=eQ51eGSx38c)  
 
-[Steam](https://store.steampowered.com/app/9760/) | [GOG Gold Edition bundle](https://www.gog.com/en/game/act_of_war_gold_edition)
+[Steam](https://store.steampowered.com/app/9760/) | [GOG Gold Edition bundle (bundle)](https://www.gog.com/en/game/act_of_war_gold_edition)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=steam%3A9760)
 
@@ -789,7 +789,7 @@ An essential C&C branch with wonderfully excessive faction identities. Yuri's Re
 
 [Watch: Yuri's Revenge Allied campaign gameplay](https://www.youtube.com/watch?v=ZLTnOVh2zNA)  
 
-[Steam](https://store.steampowered.com/app/2229850/) | [EA](https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection)
+[Steam](https://store.steampowered.com/app/2229850/) | [EA (bundle)](https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=steam%3A2229850)
 
@@ -825,7 +825,7 @@ The reference point: specialized generals, supply-line raids, memorable factions
 
 [Watch: Zero Hour USA campaign gameplay](https://www.youtube.com/watch?v=AaiFxQYv0Aw)  
 
-[Steam](https://store.steampowered.com/app/2732960/) | [EA](https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection)
+[Steam](https://store.steampowered.com/app/2732960/) | [EA (bundle)](https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=steam%3A2732960)
 
@@ -859,7 +859,7 @@ The original Generals campaigns and faction foundations. Zero Hour is the deeper
 
 [Watch: Generals GLA campaign gameplay](https://www.youtube.com/watch?v=JgpL1UvmnrE)  
 
-[Steam](https://store.steampowered.com/app/2229870/) | [EA](https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection)
+[Steam](https://store.steampowered.com/app/2229870/) | [EA (bundle)](https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=steam%3A2229870)
 
@@ -913,7 +913,7 @@ Atmospheric, asymmetric futuristic C&C with the Firestorm expansion. Choose it f
 
 [Watch: Tiberian Sun GDI mission gameplay](https://www.youtube.com/watch?v=ioCRo2sj9Eo)  
 
-[Steam](https://store.steampowered.com/app/2229880/) | [EA](https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection)
+[Steam](https://store.steampowered.com/app/2229880/) | [EA (bundle)](https://www.ea.com/games/command-and-conquer/command-and-conquer-the-ultimate-collection)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=steam%3A2229880)
 
@@ -1355,7 +1355,7 @@ A surprisingly complete small-scale fantasy RTS running in a browser, with base 
 
 [Watch: I discovered a (new) amazing RTS and it's called Littlewargame - Grubby](https://www.youtube.com/watch?v=WwbUOen0wFs)  
 
-[Official site](https://littlewargame.com/)
+[Official site (browser)](https://littlewargame.com/)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=external%3Alittlewargame)
 
@@ -1372,7 +1372,7 @@ A compact, free sci-fi RTS with clear pixel art and a genuinely different econom
 
 [Watch: Yuruki v Synapol \| Skirmish Conquest on Silverman \| OpenHV (Hard Vacuum)](https://www.youtube.com/watch?v=JPlglQtK1gY)  
 
-[Official site (project)](https://www.openhv.net/) | [itch.io](https://openhv.itch.io/openhv)
+[Official site (project)](https://www.openhv.net/) | [itch.io (download)](https://openhv.itch.io/openhv)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=external%3Aopenhv)
 
@@ -1588,7 +1588,7 @@ The classic foundation for economy-heavy, mass-army RTS. Its streaming economy a
 
 [Watch: Total Annihilation Trailer](https://store.steampowered.com/app/298030/)  
 
-[Steam](https://store.steampowered.com/app/298030/) | [GOG Commander Pack](https://www.gog.com/en/game/total_annihilation_commander_pack)
+[Steam](https://store.steampowered.com/app/298030/) | [GOG Commander Pack (bundle)](https://www.gog.com/en/game/total_annihilation_commander_pack)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=steam%3A298030)
 
@@ -1629,7 +1629,7 @@ A fresh sci-fi RTS discovery with a small but encouraging audience. A good title
 [Watch: Machinefall Trailer](https://store.steampowered.com/app/3213120/)  
 [Watch: Machinefall gameplay trailer](https://store.steampowered.com/app/3213120/)  
 
-[Steam](https://store.steampowered.com/app/3213120/) | [itch.io](https://machinefall.itch.io/machinefall)
+[Steam](https://store.steampowered.com/app/3213120/) | [itch.io (prototype)](https://machinefall.itch.io/machinefall)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=steam%3A3213120)
 
@@ -2305,7 +2305,7 @@ An indie fleet RTS with space-base construction and modular fleets. A promising 
 
 [Watch: 2023 trailer](https://store.steampowered.com/app/1113030/)  
 
-[Steam](https://store.steampowered.com/app/1113030/) | [GOG](https://www.gog.com/en/game/stellar_warfare) | [itch.io](https://tensegames.itch.io/stellar-warfare)
+[Steam](https://store.steampowered.com/app/1113030/) | [GOG](https://www.gog.com/en/game/stellar_warfare) | [itch.io (prototype)](https://tensegames.itch.io/stellar-warfare)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=steam%3A1113030)
 
@@ -2394,7 +2394,7 @@ A classic survival RTS for building a fortified colony against overwhelming hord
 [Watch: The New Empire](https://store.steampowered.com/app/644930/)  
 [Watch: They Are Billions - Teaser](https://store.steampowered.com/app/644930/)  
 
-[Steam](https://store.steampowered.com/app/644930/) | [GOG](https://www.gog.com/en/game/they_are_billions)
+[Steam](https://store.steampowered.com/app/644930) | [GOG](https://www.gog.com/en/game/they_are_billions)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=steam%3A644930)
 
@@ -2442,7 +2442,7 @@ A creative fortress-building and defense RTS. Its architectural construction is 
 [Watch: Launch Trailer](https://store.steampowered.com/app/1422440/)  
 [Watch: Release Date Announcement Trailer](https://store.steampowered.com/app/1422440/)  
 
-[Steam](https://store.steampowered.com/app/1422440/) | [GOG](https://www.gog.com/en/game/cataclismo)
+[Steam](https://store.steampowered.com/app/1422440) | [GOG](https://www.gog.com/en/game/cataclismo) | [Steam (demo)](https://store.steampowered.com/app/2459000)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=steam%3A1422440)
 
@@ -2500,7 +2500,7 @@ A dark-fantasy survival alternative with large enemy swarms. Worth investigating
 [Watch: Age of Darkness - Exile's Return Trailer](https://store.steampowered.com/app/1426450/)  
 [Watch: Age of Darkness - Early Access Launch Trailer](https://store.steampowered.com/app/1426450/)  
 
-[Steam](https://store.steampowered.com/app/1426450/)
+[Steam](https://store.steampowered.com/app/1426450)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Real-time+strategy&game=steam%3A1426450)
 

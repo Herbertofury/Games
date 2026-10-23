@@ -3824,18 +3824,7 @@
     },
     "steam:1766060": {
       "checkedAt": "2026-10-23T22:47:17.568798+00:00",
-      "storefronts": [
-        {
-          "provider": "itch.io",
-          "url": "https://casey-lisa.itch.io/humanitz",
-          "kind": "store",
-          "verified": true,
-          "lastChecked": "2026-10-23T22:47:17.566664+00:00",
-          "sourceUrl": "https://itch.io/search?q=HumanitZ",
-          "evidence": "Exact title and creator page links to Steam app 1766060",
-          "editionEvidence": "HumanitZ is an isometric sandbox survival game set in an open world ravaged by a zombie apocalypse. Survive alone or with friends by exploring, crafting, building, and fighting. The past is immutable, but the future is worth fighting for. A zombie outbreak has devastated civilization. Hordes of zeeks have clawed their way to the top, becoming the world's top predator. Ordinary humans are now an endangered species, and scattered groups struggle to survive in this new, merciless world. Welcome to HumanitZ—an isometric, open-world sandbox survival game where you can try to change the situation and return humanity to where it belongs—at the top of the food chain. Will you dare venture into the c"
-        }
-      ],
+      "storefronts": [],
       "storeCoverage": {
         "checkedAt": "2026-10-23T22:47:17.568798+00:00",
         "checks": [
@@ -4377,17 +4366,7 @@
     },
     "steam:3495730": {
       "checkedAt": "2026-10-23T22:47:17.568798+00:00",
-      "storefronts": [
-        {
-          "provider": "GitHub",
-          "url": "https://github.com/MILK-FOR-FREE/Lucid-Blocks-Chinese-Localization",
-          "kind": "store",
-          "verified": true,
-          "lastChecked": "2026-10-23T22:47:17.566664+00:00",
-          "sourceUrl": "https://lucidblocks.com/",
-          "evidence": "Game-specific official website link with matching destination title"
-        }
-      ],
+      "storefronts": [],
       "storeCoverage": {
         "checkedAt": "2026-10-23T22:47:17.568798+00:00",
         "checks": [
@@ -5964,12 +5943,13 @@
         {
           "provider": "itch.io",
           "url": "https://raft.itch.io/raft",
-          "kind": "store",
+          "kind": "prototype",
           "verified": true,
           "lastChecked": "2026-10-23T22:47:17.566664+00:00",
           "sourceUrl": "https://itch.io/search?q=Raft",
           "evidence": "Exact title and creator page links to Steam app 648800",
-          "editionEvidence": "DESCRIPTION All New Raft is now out on Steam! By yourself or with friends, your mission is to survive an epic oceanic adventure across a perilous sea! Gather debris to survive, expand your raft and be wary of the dangers of the ocean! Trapped on a small raft with nothing but a hook made of old plastic, players awake on a vast, blue ocean totally alone and with no land in sight! With a dry throat and an empty stomach, survival will not be easy! Raft throws you and your friends into an epic adventure out on the big open sea, with the objective to stay alive, gather resources and build yourself a floating home worthy of survival. Resources are tough to come by at sea: Players will have to make "
+          "editionEvidence": "DESCRIPTION All New Raft is now out on Steam! By yourself or with friends, your mission is to survive an epic oceanic adventure across a perilous sea! Gather debris to survive, expand your raft and be wary of the dangers of the ocean! Trapped on a small raft with nothing but a hook made of old plastic, players awake on a vast, blue ocean totally alone and with no land in sight! With a dry throat and an empty stomach, survival will not be easy! Raft throws you and your friends into an epic adventure out on the big open sea, with the objective to stay alive, gather resources and build yourself a floating home worthy of survival. Resources are tough to come by at sea: Players will have to make ",
+          "editionNote": "Original free prototype, not the current commercial Steam game."
         }
       ],
       "storeCoverage": {
@@ -7889,12 +7869,13 @@
         {
           "provider": "itch.io",
           "url": "https://mindleak.itch.io/survival-vacancy",
-          "kind": "store",
+          "kind": "demo",
           "verified": true,
           "lastChecked": "2026-10-23T22:47:17.566664+00:00",
           "sourceUrl": "https://itch.io/search?q=Survival%20Vacancy",
           "evidence": "Exact title and creator page links to Steam app 1140130",
-          "editionEvidence": "This is a demo alpha version,full version is available on steam Survival Vacancy is a game about mining, crafting, automation, and building an underground city for survivors. You're a talented engineer in the middle of a nuclear war, your mission is to save as many survivors as possible. You found a great isolated place to start digging and create your underground community. You have to use your engineering skills to create survivable underground shelters. Craft components and machines manually, then automate and create large scale production lines. You will have to find nutrition sources “Algae, farming..etc”, and prepare foods for incoming survivors. Decide how many vacancies are available"
+          "editionEvidence": "This is a demo alpha version,full version is available on steam Survival Vacancy is a game about mining, crafting, automation, and building an underground city for survivors. You're a talented engineer in the middle of a nuclear war, your mission is to save as many survivors as possible. You found a great isolated place to start digging and create your underground community. You have to use your engineering skills to create survivable underground shelters. Craft components and machines manually, then automate and create large scale production lines. You will have to find nutrition sources “Algae, farming..etc”, and prepare foods for incoming survivors. Decide how many vacancies are available",
+          "editionNote": "Creator explicitly describes an alpha demo, not the full Steam edition."
         }
       ],
       "storeCoverage": {
@@ -7929,12 +7910,13 @@
         {
           "provider": "itch.io",
           "url": "https://odinsoftgames.itch.io/survival-fountain-of-youth",
-          "kind": "store",
+          "kind": "demo",
           "verified": true,
           "lastChecked": "2026-10-23T22:47:17.566664+00:00",
           "sourceUrl": "https://itch.io/search?q=Survival%3A%20Fountain%20of%20Youth",
           "evidence": "Exact title and creator page links to Steam app 1967630",
-          "editionEvidence": "Survival: Fountain of Youth is a challenging single-player open-world survival game set on Caribbean islands. You play as a stranded 16th-century explorer crafting your way through the struggles of survival in order to unveil the secrets of an ancient civilization and your own fate. WISHLIST THE GAME & FOLLOW THE DEVELOPMENT You are a member of Juan Ponce de Leon's expedition in search of the Fountain of Youth, based on an actual historic event of the Age of Discovery. After surviving a shipwreck, you need to learn to live on an uninhabited island: hunt, gather and manage resources, build shelters, discover new technologies, develop skills, resist diseases, cope with weather conditions, figh"
+          "editionEvidence": "Survival: Fountain of Youth is a challenging single-player open-world survival game set on Caribbean islands. You play as a stranded 16th-century explorer crafting your way through the struggles of survival in order to unveil the secrets of an ancient civilization and your own fate. WISHLIST THE GAME & FOLLOW THE DEVELOPMENT You are a member of Juan Ponce de Leon's expedition in search of the Fountain of Youth, based on an actual historic event of the Age of Discovery. After surviving a shipwreck, you need to learn to live on an uninhabited island: hunt, gather and manage resources, build shelters, discover new technologies, develop skills, resist diseases, cope with weather conditions, figh",
+          "editionNote": "Available download files are explicitly demo editions."
         }
       ],
       "storeCoverage": {
@@ -8094,12 +8076,13 @@
         {
           "provider": "itch.io",
           "url": "https://longplay.itch.io/terminus-zombie-survivors",
-          "kind": "store",
+          "kind": "demo",
           "verified": true,
           "lastChecked": "2026-10-23T22:47:17.566664+00:00",
           "sourceUrl": "https://itch.io/search?q=Terminus%3A%20Zombie%20Survivors",
           "evidence": "Exact title and creator page links to Steam app 1534980",
-          "editionEvidence": "Terminus: Zombie Survivors Terminus: Zombie Survivors is a 2D turn-based survival roguelike set during a zombie apocalypse. Each journey is unique, and every decision can mean the difference between life and death. Can you brave hunger, cold, and the undead in order to reach the Terminus and find salvation? Follow Terminus: Zombie Survivors Terminus on Steam Terminus on YouTube Terminus on Twitter Reviews “Terminus is a huge, procedural open-world game about surviving a zombie apocalypse and one of the most promising projects in the genre in a long time. It's utterly fantastic, a lot of fun, and infinitely replayable.” Splattercat “Terminus is Project Zomboid meets Cataclysm: DDA with NEO Sc"
+          "editionEvidence": "Terminus: Zombie Survivors Terminus: Zombie Survivors is a 2D turn-based survival roguelike set during a zombie apocalypse. Each journey is unique, and every decision can mean the difference between life and death. Can you brave hunger, cold, and the undead in order to reach the Terminus and find salvation? Follow Terminus: Zombie Survivors Terminus on Steam Terminus on YouTube Terminus on Twitter Reviews “Terminus is a huge, procedural open-world game about surviving a zombie apocalypse and one of the most promising projects in the genre in a long time. It's utterly fantastic, a lot of fun, and infinitely replayable.” Splattercat “Terminus is Project Zomboid meets Cataclysm: DDA with NEO Sc",
+          "editionNote": "Available download files are explicitly demo editions."
         }
       ],
       "storeCoverage": {
@@ -12236,15 +12219,6 @@
           "lastChecked": "2026-10-23T22:53:46.327727+00:00",
           "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Stardeus",
           "evidence": "Exact title in GOG official catalog: Stardeus"
-        },
-        {
-          "provider": "GitHub",
-          "url": "https://github.com/kodolinija/stardeus-mod-template",
-          "kind": "store",
-          "verified": true,
-          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
-          "sourceUrl": "https://stardeusgame.com",
-          "evidence": "Game-specific official website link with matching destination title"
         }
       ],
       "storeCoverage": {
@@ -12358,17 +12332,7 @@
     },
     "steam:340050": {
       "checkedAt": "2026-10-23T22:53:46.329600+00:00",
-      "storefronts": [
-        {
-          "provider": "IndieDB",
-          "url": "https://www.indiedb.com/games/survivalist-invisible-strain",
-          "kind": "project",
-          "verified": true,
-          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
-          "sourceUrl": "https://survivalistgame.blogspot.com/",
-          "evidence": "Game-specific official website link with matching destination title"
-        }
-      ],
+      "storefronts": [],
       "storeCoverage": {
         "checkedAt": "2026-10-23T22:53:46.329600+00:00",
         "checks": [
@@ -13138,6 +13102,175 @@
             "provider": "Official website",
             "state": "no-confirmed-match",
             "sourceUrl": "https://modernwolf.net/game-for-cabo-studio/zero-sievert",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:3051280": {
+      "checkedAt": "2026-10-23T23:15:35.586173+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T23:15:35.586173+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Haven%20%26%20Hearth",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://www.havenandhearth.com/portal/",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://itch.io/search?q=Haven%20%26%20Hearth",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1329880": {
+      "checkedAt": "2026-10-23T23:15:35.586173+00:00",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/wild_west_legacy",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:15:35.583624+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Wild%20West%20Legacy",
+          "evidence": "Exact title in GOG official catalog: Wild West Legacy"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T23:15:35.586173+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "state": "matched",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Wild%20West%20Legacy",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://www.toplitz-productions.com/home.html",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://itch.io/search?q=Wild%20West%20Legacy",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:1572000": {
+      "checkedAt": "2026-10-23T23:15:35.586173+00:00",
+      "storefronts": [
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/Derelicts/posts",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:15:35.583624+00:00",
+          "sourceUrl": "https://derelictsgame.com/",
+          "evidence": "Creator support linked from the game website supplied by Steam"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T23:15:35.586173+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Derelicts",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "matched",
+            "sourceUrl": "https://derelictsgame.com/",
+            "matches": 3
+          },
+          {
+            "provider": "itch.io",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://itch.io/search?q=Derelicts",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Deep Sky Derelicts: Definitive Edition",
+            "url": "https://www.gog.com/en/game/deep_sky_derelicts_definitive_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Deep Sky Derelicts",
+            "url": "https://www.gog.com/en/game/deep_sky_derelicts",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "url": "https://store.epicgames.com/en-US/p/derelicts-675012?lang=fr",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          },
+          {
+            "url": "https://store.epicgames.com/en-US/p/derelicts-675012?lang=fr",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          },
+          {
+            "url": "https://store.epicgames.com/en-US/p/derelicts-675012?lang=fr",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          },
+          {
+            "url": "https://store.epicgames.com/en-US/p/derelicts-675012",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          }
+        ],
+        "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      }
+    },
+    "steam:2682580": {
+      "checkedAt": "2026-10-23T23:15:35.586173+00:00",
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-23T23:15:35.586173+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=DUCKSIDE",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://www.duckside.online/",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "state": "no-confirmed-match",
+            "sourceUrl": "https://itch.io/search?q=DUCKSIDE",
             "matches": 0
           }
         ],

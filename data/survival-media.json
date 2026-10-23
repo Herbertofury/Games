@@ -1,0 +1,1927 @@
+{
+  "generatedAt": "2026-10-23T23:10:44.693291+00:00",
+  "overrides": {
+    "external:minecraft": {
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T23:10:44.693291+00:00",
+      "_replace": {
+        "storefronts": [
+          {
+            "url": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc",
+            "provider": "Minecraft",
+            "kind": "store",
+            "verified": true,
+            "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+            "sourceUrl": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc",
+            "editionNote": "Exact official product page read via the web retrieval route; runner HTTP access was restricted."
+          }
+        ],
+        "trailers": [
+          {
+            "youtube": "qNMfF9TYETM",
+            "name": "Official Java & Bedrock Edition trailer",
+            "official": true,
+            "credit": "Minecraft",
+            "watchUrl": "https://www.youtube.com/watch?v=qNMfF9TYETM",
+            "sourceUrl": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc",
+            "poster": "https://i.ytimg.com/vi/qNMfF9TYETM/hqdefault.jpg"
+          }
+        ],
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-US-Bundle-Screenshot-2.png",
+        "screenshots": [
+          {
+            "src": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-US-Bundle-Screenshot-2.png",
+            "thumbnail": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-US-Bundle-Screenshot-2.png",
+            "sourceUrl": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc",
+            "credit": "Mojang / official Minecraft PC edition screenshots",
+            "alt": "Minecraft: Java & Bedrock Edition official screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-Gallery_OV_2_16x9.jpg",
+            "thumbnail": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-Gallery_OV_2_16x9.jpg",
+            "sourceUrl": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc",
+            "credit": "Mojang / official Minecraft PC edition screenshots",
+            "alt": "Minecraft: Java & Bedrock Edition official screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-Gallery_OV_6_16x9.jpg",
+            "thumbnail": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-Gallery_OV_6_16x9.jpg",
+            "sourceUrl": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc",
+            "credit": "Mojang / official Minecraft PC edition screenshots",
+            "alt": "Minecraft: Java & Bedrock Edition official screenshot",
+            "verified": true
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc",
+          "provider": "Minecraft",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc"
+        }
+      ]
+    },
+    "external:lego-fortnite-odyssey": {
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T23:10:44.693291+00:00",
+      "_replace": {
+        "storefronts": [
+          {
+            "url": "https://www.fortnite.com/@epic/lego-fortnite-odyssey",
+            "provider": "Epic Games",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+            "sourceUrl": "https://www.fortnite.com/@epic/lego-fortnite-odyssey",
+            "editionNote": "Exact official product page read via the web retrieval route; runner HTTP access was restricted."
+          }
+        ],
+        "trailers": [
+          {
+            "youtube": "GyQAcUmhV-g",
+            "name": "Official Brick or Treat gameplay trailer",
+            "official": true,
+            "credit": "LEGO Fortnite",
+            "watchUrl": "https://www.youtube.com/watch?v=GyQAcUmhV-g",
+            "sourceUrl": "https://www.fortnite.com/@epic/lego-fortnite-odyssey",
+            "poster": "https://i.ytimg.com/vi/GyQAcUmhV-g/hqdefault.jpg"
+          }
+        ],
+        "image": "https://cdn2.unrealengine.com/links-admin-FNJN_42-40_Odyssey_MasterBuild_BrickorTreat_DiscoverTile_1920x1080-2abe32fe.jpg",
+        "screenshots": []
+      },
+      "sources": [
+        {
+          "url": "https://www.fortnite.com/@epic/lego-fortnite-odyssey",
+          "provider": "Epic Games",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://www.fortnite.com/@epic/lego-fortnite-odyssey"
+        }
+      ]
+    },
+    "external:hytale": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "YMhUV1hnzHE",
+            "name": "Chapter I: Out of the Breach, official October 2026 trailer",
+            "official": true,
+            "credit": "Hytale",
+            "watchUrl": "https://www.youtube.com/watch?v=YMhUV1hnzHE",
+            "sourceUrl": "https://hytale.com/",
+            "poster": "https://i.ytimg.com/vi/YMhUV1hnzHE/hqdefault.jpg"
+          }
+        ],
+        "image": "https://i.ytimg.com/vi/YMhUV1hnzHE/hqdefault.jpg",
+        "screenshots": [
+          {
+            "src": "https://cdn.hytale.com/ebae0fa6-65a1-40a8-a4a4-8ab59bb9b80b.png",
+            "thumbnail": "https://cdn.hytale.com/ebae0fa6-65a1-40a8-a4a4-8ab59bb9b80b.png",
+            "sourceUrl": "https://hytale.com/",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/c2cfce93-4518-4215-b2bc-82dc99974479.png",
+            "thumbnail": "https://cdn.hytale.com/c2cfce93-4518-4215-b2bc-82dc99974479.png",
+            "sourceUrl": "https://hytale.com/",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/8741a96c-dba4-4dbe-aaa6-e5d6dcf670be.png",
+            "thumbnail": "https://cdn.hytale.com/8741a96c-dba4-4dbe-aaa6-e5d6dcf670be.png",
+            "sourceUrl": "https://hytale.com/",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/590dd9c7-5081-400b-8c09-5d5549309e46.png",
+            "thumbnail": "https://cdn.hytale.com/590dd9c7-5081-400b-8c09-5d5549309e46.png",
+            "sourceUrl": "https://hytale.com/",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/48a2a28a-09c5-455a-9192-53feaffd9014.png",
+            "thumbnail": "https://cdn.hytale.com/48a2a28a-09c5-455a-9192-53feaffd9014.png",
+            "sourceUrl": "https://hytale.com/",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/968f87e2-6506-4a12-8e42-6af15e5fd714.png",
+            "thumbnail": "https://cdn.hytale.com/968f87e2-6506-4a12-8e42-6af15e5fd714.png",
+            "sourceUrl": "https://hytale.com/",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/c1c86d7f-9a13-4940-a775-183d75f0add2.png",
+            "thumbnail": "https://cdn.hytale.com/c1c86d7f-9a13-4940-a775-183d75f0add2.png",
+            "sourceUrl": "https://hytale.com/",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/a9193efe-06c7-4b67-b425-b0ec0ec5451c-blog-cover.png",
+            "thumbnail": "https://cdn.hytale.com/a9193efe-06c7-4b67-b425-b0ec0ec5451c-blog-cover.png",
+            "sourceUrl": "https://hytale.com/",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_thumb_5e7b9e9b50cbcd001176c5ad_1___zone_1_shadows.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_thumb_5e7b9e9b50cbcd001176c5ad_1___zone_1_shadows.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_thumb_5e7b9ea050cbcd001176c5af_2___graphics_update_example_3.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_thumb_5e7b9ea050cbcd001176c5af_2___graphics_update_example_3.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_thumb_5e7b9ea850cbcd001176c5b1_3___helipack_cruising.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_thumb_5e7b9ea850cbcd001176c5b1_3___helipack_cruising.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_thumb_5e7b9eab50cbcd001176c5b3_4___fight_with_skeleton_archer.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_thumb_5e7b9eab50cbcd001176c5b3_4___fight_with_skeleton_archer.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_thumb_5e7b9ead50cbcd001176c5b5_5___zone_3_exploration.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_thumb_5e7b9ead50cbcd001176c5b5_5___zone_3_exploration.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_thumb_5e7b9eb050cbcd001176c5b7_6___watering_corn.png",
+            "thumbnail": "https://cdn.hytale.com/variants/media_thumb_5e7b9eb050cbcd001176c5b7_6___watering_corn.png",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_thumb_5e7b9eb350cbcd001176c5b9_7___zone_2_shadows_2.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_thumb_5e7b9eb350cbcd001176c5b9_7___zone_2_shadows_2.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_thumb_5e7b9eb650cbcd001176c5bb_8___fleeing_from_scaraks.png",
+            "thumbnail": "https://cdn.hytale.com/variants/media_thumb_5e7b9eb650cbcd001176c5bb_8___fleeing_from_scaraks.png",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_thumb_5e7b9ebd50cbcd001176c5bd_9___goblin_fight.png",
+            "thumbnail": "https://cdn.hytale.com/variants/media_thumb_5e7b9ebd50cbcd001176c5bd_9___goblin_fight.png",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_thumb_5e7b9ec650cbcd001176c5bf_10___exploring_sunken_ship.png",
+            "thumbnail": "https://cdn.hytale.com/variants/media_thumb_5e7b9ec650cbcd001176c5bf_10___exploring_sunken_ship.png",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_thumb_5e7b9ecb50cbcd001176c5c1_11___z2_camels.png",
+            "thumbnail": "https://cdn.hytale.com/variants/media_thumb_5e7b9ecb50cbcd001176c5c1_11___z2_camels.png",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_thumb_5e7b9ed350cbcd001176c5c3_12___ice_effects_2.png",
+            "thumbnail": "https://cdn.hytale.com/variants/media_thumb_5e7b9ed350cbcd001176c5c3_12___ice_effects_2.png",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_desktop_wallpaper_thumb_5e7a961e5e334000189a2a7a_1__1_.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_desktop_wallpaper_thumb_5e7a961e5e334000189a2a7a_1__1_.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_desktop_wallpaper_thumb_5e7a961e5e334000189a2a7b_2.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_desktop_wallpaper_thumb_5e7a961e5e334000189a2a7b_2.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_desktop_wallpaper_thumb_5e7a961d5e334000189a2a76_3.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_desktop_wallpaper_thumb_5e7a961d5e334000189a2a76_3.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_desktop_wallpaper_thumb_5e7a961e5e334000189a2a79_4.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_desktop_wallpaper_thumb_5e7a961e5e334000189a2a79_4.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_desktop_wallpaper_thumb_5e7a961d5e334000189a2a77_5.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_desktop_wallpaper_thumb_5e7a961d5e334000189a2a77_5.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_desktop_wallpaper_thumb_5e7a961d5e334000189a2a78_6.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_desktop_wallpaper_thumb_5e7a961d5e334000189a2a78_6.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b977550cbcd001176c565_1.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b977550cbcd001176c565_1.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b977e50cbcd001176c567_2.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b977e50cbcd001176c567_2.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b978950cbcd001176c569_3.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b978950cbcd001176c569_3.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b978c50cbcd001176c56b_4.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b978c50cbcd001176c56b_4.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b979250cbcd001176c56d_5.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b979250cbcd001176c56d_5.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b97a050cbcd001176c56f_6.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b97a050cbcd001176c56f_6.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b97a350cbcd001176c571_7.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_mobile_wallpaper_thumb_5e7b97a350cbcd001176c571_7.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4f4_1___void_spider.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4f4_1___void_spider.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4f6_2___kweebecs.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4f6_2___kweebecs.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4e8_3___gaian_portal.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4e8_3___gaian_portal.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4f3_4___dungeon_entrances_research.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4f3_4___dungeon_entrances_research.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4e9_5___temple_of_gaia_dungeon.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4e9_5___temple_of_gaia_dungeon.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4ec_6___garden_of_elements.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4ec_6___garden_of_elements.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4f7_7___trork_archetypes.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4f7_7___trork_archetypes.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4f0_8___world_zones_research.jpg",
+            "thumbnail": "https://cdn.hytale.com/variants/media_concept_art_thumb_5e7b92a950cbcd001176c4f0_8___world_zones_research.jpg",
+            "sourceUrl": "https://hytale.com/media",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/blog_cover_dd054ee29f8e29ebfa37dd86098957db_96be32b5425708122899eb9421866216_feran_cover_art.png",
+            "thumbnail": "https://cdn.hytale.com/variants/blog_cover_dd054ee29f8e29ebfa37dd86098957db_96be32b5425708122899eb9421866216_feran_cover_art.png",
+            "sourceUrl": "https://hytale.com/news/2026/1/hytale-is-finally-here",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/blog_cover_4666219169b117610c44205c41707e4f_e208b945a93c8dc6a00a8257309badb9_undergroundjungledinorun_01_raw.png",
+            "thumbnail": "https://cdn.hytale.com/variants/blog_cover_4666219169b117610c44205c41707e4f_e208b945a93c8dc6a00a8257309badb9_undergroundjungledinorun_01_raw.png",
+            "sourceUrl": "https://hytale.com/news/2026/1/hytale-is-finally-here",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/variants/blog_cover_141140f01e6d5efde1b239619412e2d0_image8.png",
+            "thumbnail": "https://cdn.hytale.com/variants/blog_cover_141140f01e6d5efde1b239619412e2d0_image8.png",
+            "sourceUrl": "https://hytale.com/news/2026/1/hytale-is-finally-here",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/896adc97306367230c4aabfbdef4101a_image3.png",
+            "thumbnail": "https://cdn.hytale.com/896adc97306367230c4aabfbdef4101a_image3.png",
+            "sourceUrl": "https://hytale.com/news/2026/1/hytale-is-finally-here",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/dca6b5eec1a69b2f027b0c42311d0907_image5.png",
+            "thumbnail": "https://cdn.hytale.com/dca6b5eec1a69b2f027b0c42311d0907_image5.png",
+            "sourceUrl": "https://hytale.com/news/2026/1/hytale-is-finally-here",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/368481e0690340a986b1cc15f505b1c3_image1.png",
+            "thumbnail": "https://cdn.hytale.com/368481e0690340a986b1cc15f505b1c3_image1.png",
+            "sourceUrl": "https://hytale.com/news/2026/1/hytale-is-finally-here",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/3b4d82044ad5dd88e511e75beaf97cfb_image7.png",
+            "thumbnail": "https://cdn.hytale.com/3b4d82044ad5dd88e511e75beaf97cfb_image7.png",
+            "sourceUrl": "https://hytale.com/news/2026/1/hytale-is-finally-here",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/6cadbb8f4c843a0c28591cc53d732554_image6.png",
+            "thumbnail": "https://cdn.hytale.com/6cadbb8f4c843a0c28591cc53d732554_image6.png",
+            "sourceUrl": "https://hytale.com/news/2026/1/hytale-is-finally-here",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/7203fd56a13bdae0c43b617457b64e14_image2.png",
+            "thumbnail": "https://cdn.hytale.com/7203fd56a13bdae0c43b617457b64e14_image2.png",
+            "sourceUrl": "https://hytale.com/news/2026/1/hytale-is-finally-here",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/4380bda62478783fa1fbdbccc6540621_image4.png",
+            "thumbnail": "https://cdn.hytale.com/4380bda62478783fa1fbdbccc6540621_image4.png",
+            "sourceUrl": "https://hytale.com/news/2026/1/hytale-is-finally-here",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.hytale.com/658117040b35f4692bd407cb0de30852_image9.png",
+            "thumbnail": "https://cdn.hytale.com/658117040b35f4692bd407cb0de30852_image9.png",
+            "sourceUrl": "https://hytale.com/news/2026/1/hytale-is-finally-here",
+            "credit": "Creator / Hytale",
+            "alt": "Hytale source image",
+            "verified": true
+          }
+        ],
+        "storefronts": [
+          {
+            "provider": "Hytale",
+            "url": "https://hytale.com/",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          },
+          {
+            "provider": "Hytale",
+            "url": "https://hytale.com/media",
+            "kind": "media",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          },
+          {
+            "provider": "Hytale",
+            "url": "https://hytale.com/news/2026/1/hytale-is-finally-here",
+            "kind": "news",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          },
+          {
+            "provider": "Hytale",
+            "url": "https://store.hytale.com/",
+            "kind": "store",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": []
+    },
+    "external:vintage-story": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "NJjifFq1NGY",
+            "name": "Official feature trailer (2022); current build may include later changes",
+            "official": true,
+            "credit": "Vintage Story",
+            "watchUrl": "https://www.youtube.com/watch?v=NJjifFq1NGY",
+            "sourceUrl": "https://www.vintagestory.at/",
+            "poster": "https://i.ytimg.com/vi/NJjifFq1NGY/hqdefault.jpg"
+          }
+        ],
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjI4MzIwLzE4OTk2NTUxLnBuZw==/347x500/vgP2nX.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjI4MzIwLzE4OTk2NTUxLnBuZw==/347x500/vgP2nX.png",
+            "sourceUrl": "https://tyronx.itch.io/vintage-story",
+            "credit": "Creator / itch.io",
+            "alt": "Vintage Story source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjI4MzIwLzE4OTk2NTU0LnBuZw==/347x500/mkjK6p.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjI4MzIwLzE4OTk2NTU0LnBuZw==/347x500/mkjK6p.png",
+            "sourceUrl": "https://tyronx.itch.io/vintage-story",
+            "credit": "Creator / itch.io",
+            "alt": "Vintage Story source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjI4MzIwLzE4OTk2NTU1LnBuZw==/347x500/rED2dP.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjI4MzIwLzE4OTk2NTU1LnBuZw==/347x500/rED2dP.png",
+            "sourceUrl": "https://tyronx.itch.io/vintage-story",
+            "credit": "Creator / itch.io",
+            "alt": "Vintage Story source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjI4MzIwLzE4OTk2NTU2LnBuZw==/347x500/J882Ti.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjI4MzIwLzE4OTk2NTU2LnBuZw==/347x500/J882Ti.png",
+            "sourceUrl": "https://tyronx.itch.io/vintage-story",
+            "credit": "Creator / itch.io",
+            "alt": "Vintage Story source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjI4MzIwLzE4OTk2NTUyLnBuZw==/347x500/2vny%2B%2B.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjI4MzIwLzE4OTk2NTUyLnBuZw==/347x500/2vny%2B%2B.png",
+            "sourceUrl": "https://tyronx.itch.io/vintage-story",
+            "credit": "Creator / itch.io",
+            "alt": "Vintage Story source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMjI4MzIwLzE4OTk2NTUzLnBuZw==/347x500/dDsC6w.png",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMjI4MzIwLzE4OTk2NTUzLnBuZw==/347x500/dDsC6w.png",
+            "sourceUrl": "https://tyronx.itch.io/vintage-story",
+            "credit": "Creator / itch.io",
+            "alt": "Vintage Story source image",
+            "verified": true
+          }
+        ],
+        "storefronts": [
+          {
+            "provider": "Vintage Story",
+            "url": "https://www.vintagestory.at/",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          },
+          {
+            "provider": "Vintage Story",
+            "url": "https://www.vintagestory.at/presskit.html/",
+            "kind": "media",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          },
+          {
+            "provider": "itch.io",
+            "url": "https://tyronx.itch.io/vintage-story",
+            "kind": "archive",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": [],
+      "storefronts": [
+        {
+          "url": "https://www.vintagestory.at/store/category/1-single-game-account/",
+          "provider": "Vintage Story",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://www.vintagestory.at/"
+        },
+        {
+          "url": "https://www.humblebundle.com/store/vintage-story",
+          "provider": "Humble Store",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://www.vintagestory.at/"
+        }
+      ]
+    },
+    "external:veloren": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "weIK41W3tX0",
+            "name": "Official 0.15 release trailer; historical version footage",
+            "official": true,
+            "credit": "Veloren",
+            "watchUrl": "https://www.youtube.com/watch?v=weIK41W3tX0",
+            "sourceUrl": "https://veloren.net/",
+            "poster": "https://i.ytimg.com/vi/weIK41W3tX0/hqdefault.jpg"
+          }
+        ],
+        "image": "https://veloren.net/processed_images/gallery-0.50cacb0aa6b9efab.jpg",
+        "screenshots": [
+          {
+            "src": "https://veloren.net/processed_images/gallery-0.50cacb0aa6b9efab.jpg",
+            "thumbnail": "https://veloren.net/processed_images/gallery-0.50cacb0aa6b9efab.jpg",
+            "sourceUrl": "https://veloren.net/",
+            "credit": "Creator / Official site",
+            "alt": "Veloren source image",
+            "verified": true
+          },
+          {
+            "src": "https://veloren.net/processed_images/gallery-1.d9d7c2ae50411199.jpg",
+            "thumbnail": "https://veloren.net/processed_images/gallery-1.d9d7c2ae50411199.jpg",
+            "sourceUrl": "https://veloren.net/",
+            "credit": "Creator / Official site",
+            "alt": "Veloren source image",
+            "verified": true
+          },
+          {
+            "src": "https://veloren.net/processed_images/gallery-2.aad0ddaa8cb1e1a1.jpg",
+            "thumbnail": "https://veloren.net/processed_images/gallery-2.aad0ddaa8cb1e1a1.jpg",
+            "sourceUrl": "https://veloren.net/",
+            "credit": "Creator / Official site",
+            "alt": "Veloren source image",
+            "verified": true
+          },
+          {
+            "src": "https://veloren.net/processed_images/gallery-3.7a2099f859483d2d.jpg",
+            "thumbnail": "https://veloren.net/processed_images/gallery-3.7a2099f859483d2d.jpg",
+            "sourceUrl": "https://veloren.net/",
+            "credit": "Creator / Official site",
+            "alt": "Veloren source image",
+            "verified": true
+          },
+          {
+            "src": "https://veloren.net/processed_images/gallery-4.81fb44a21846a896.jpg",
+            "thumbnail": "https://veloren.net/processed_images/gallery-4.81fb44a21846a896.jpg",
+            "sourceUrl": "https://veloren.net/",
+            "credit": "Creator / Official site",
+            "alt": "Veloren source image",
+            "verified": true
+          },
+          {
+            "src": "https://veloren.net/processed_images/gallery-5.13080ae9c5bce220.jpg",
+            "thumbnail": "https://veloren.net/processed_images/gallery-5.13080ae9c5bce220.jpg",
+            "sourceUrl": "https://veloren.net/",
+            "credit": "Creator / Official site",
+            "alt": "Veloren source image",
+            "verified": true
+          },
+          {
+            "src": "https://veloren.net/processed_images/gallery-6.6101cfac9d36229e.jpg",
+            "thumbnail": "https://veloren.net/processed_images/gallery-6.6101cfac9d36229e.jpg",
+            "sourceUrl": "https://veloren.net/",
+            "credit": "Creator / Official site",
+            "alt": "Veloren source image",
+            "verified": true
+          },
+          {
+            "src": "https://veloren.net/processed_images/gallery-7.a94169a916a5505b.jpg",
+            "thumbnail": "https://veloren.net/processed_images/gallery-7.a94169a916a5505b.jpg",
+            "sourceUrl": "https://veloren.net/",
+            "credit": "Creator / Official site",
+            "alt": "Veloren source image",
+            "verified": true
+          },
+          {
+            "src": "https://veloren.net/processed_images/gallery-8.55c7834e34abd91f.jpg",
+            "thumbnail": "https://veloren.net/processed_images/gallery-8.55c7834e34abd91f.jpg",
+            "sourceUrl": "https://veloren.net/",
+            "credit": "Creator / Official site",
+            "alt": "Veloren source image",
+            "verified": true
+          },
+          {
+            "src": "https://veloren.net/processed_images/gallery-9.c23c86d91521bb30.png",
+            "thumbnail": "https://veloren.net/processed_images/gallery-9.c23c86d91521bb30.png",
+            "sourceUrl": "https://veloren.net/",
+            "credit": "Creator / Official site",
+            "alt": "Veloren source image",
+            "verified": true
+          }
+        ],
+        "storefronts": [
+          {
+            "provider": "Official site",
+            "url": "https://veloren.net/",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          },
+          {
+            "provider": "Official site",
+            "url": "https://veloren.net/download/",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": []
+    },
+    "external:voxelibre": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "nv1A8O8WMec",
+            "name": "Community gameplay: The First Night",
+            "official": false,
+            "credit": "Enada",
+            "watchUrl": "https://www.youtube.com/watch?v=nv1A8O8WMec",
+            "sourceUrl": "https://github.com/VoxeLibre/VoxeLibre",
+            "poster": "https://i.ytimg.com/vi/nv1A8O8WMec/hqdefault.jpg"
+          }
+        ],
+        "image": "https://i.ytimg.com/vi/nv1A8O8WMec/hqdefault.jpg",
+        "screenshots": [],
+        "storefronts": [
+          {
+            "provider": "GitHub",
+            "url": "https://github.com/VoxeLibre/VoxeLibre",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "provider": "Official site",
+          "url": "https://www.luanti.org/",
+          "kind": "engine",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+        }
+      ]
+    },
+    "external:mineclonia": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "nUTIt5P_K-w",
+            "name": "Credited community gameplay",
+            "official": false,
+            "credit": "Mineclonia (Minecraft clone)",
+            "watchUrl": "https://www.youtube.com/watch?v=nUTIt5P_K-w",
+            "sourceUrl": "https://github.com/mineclonia-mirror/mineclonia",
+            "poster": "https://i.ytimg.com/vi/nUTIt5P_K-w/hqdefault.jpg"
+          }
+        ],
+        "image": "https://i.ytimg.com/vi/nUTIt5P_K-w/hqdefault.jpg",
+        "screenshots": [],
+        "storefronts": [
+          {
+            "provider": "GitHub",
+            "url": "https://github.com/mineclonia-mirror/mineclonia",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "provider": "Official site",
+          "url": "https://www.luanti.org/",
+          "kind": "engine",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+        }
+      ]
+    },
+    "external:terasology": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "Wpa2aiadwE8",
+            "name": "Creator teaser for Stable 31; historical version footage",
+            "official": true,
+            "credit": "Terasology",
+            "watchUrl": "https://www.youtube.com/watch?v=Wpa2aiadwE8",
+            "sourceUrl": "https://terasology.org/",
+            "poster": "https://i.ytimg.com/vi/Wpa2aiadwE8/hqdefault.jpg"
+          }
+        ],
+        "image": "https://i.ytimg.com/vi/Wpa2aiadwE8/hqdefault.jpg",
+        "screenshots": [
+          {
+            "src": "https://terasology.org/static/8dba75013caaac735f5f1e8251cb3b78/c4bc1/cover.png",
+            "thumbnail": "https://terasology.org/static/8dba75013caaac735f5f1e8251cb3b78/c4bc1/cover.png",
+            "sourceUrl": "https://terasology.org/",
+            "credit": "Creator / Official site",
+            "alt": "Terasology source image",
+            "verified": true
+          },
+          {
+            "src": "https://terasology.org/static/7e4fc793d6f325defa36502a2519522d/a764f/cover.jpg",
+            "thumbnail": "https://terasology.org/static/7e4fc793d6f325defa36502a2519522d/a764f/cover.jpg",
+            "sourceUrl": "https://terasology.org/",
+            "credit": "Creator / Official site",
+            "alt": "Terasology source image",
+            "verified": true
+          },
+          {
+            "src": "https://terasology.org/static/699d805a7e17b44bd0005a9f005f9f30/a764f/cover.jpg",
+            "thumbnail": "https://terasology.org/static/699d805a7e17b44bd0005a9f005f9f30/a764f/cover.jpg",
+            "sourceUrl": "https://terasology.org/",
+            "credit": "Creator / Official site",
+            "alt": "Terasology source image",
+            "verified": true
+          }
+        ],
+        "storefronts": [
+          {
+            "provider": "Official site",
+            "url": "https://terasology.org/",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          },
+          {
+            "provider": "GitHub",
+            "url": "https://github.com/MovingBlocks/Terasology",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": []
+    },
+    "external:minicraft-plus": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "CXb8R-yLbDc",
+            "name": "Community playthrough of Minicraft+ v2.2.1",
+            "official": false,
+            "credit": "Green Eye",
+            "watchUrl": "https://www.youtube.com/watch?v=CXb8R-yLbDc",
+            "sourceUrl": "https://minicraftplus.github.io/",
+            "poster": "https://i.ytimg.com/vi/CXb8R-yLbDc/hqdefault.jpg"
+          }
+        ],
+        "image": "https://i.ytimg.com/vi/CXb8R-yLbDc/hqdefault.jpg",
+        "screenshots": [],
+        "storefronts": [
+          {
+            "provider": "Official site",
+            "url": "https://minicraftplus.github.io/",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          },
+          {
+            "provider": "GitHub",
+            "url": "https://github.com/MinicraftPlus/minicraft-plus-revived",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": []
+    },
+    "external:survivalcraft-2": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "TA__7nTBUHY",
+            "name": "Creator gameplay presentation: Survivalcraft 2",
+            "official": true,
+            "credit": "Survivalcraft",
+            "watchUrl": "https://www.youtube.com/watch?v=TA__7nTBUHY",
+            "sourceUrl": "https://kaalus.wordpress.com/",
+            "poster": "https://i.ytimg.com/vi/TA__7nTBUHY/hqdefault.jpg"
+          }
+        ],
+        "image": "https://i.ytimg.com/vi/TA__7nTBUHY/hqdefault.jpg",
+        "screenshots": [
+          {
+            "src": "https://kaalus.wordpress.com/wp-content/uploads/2026/05/untitled.jpg?w=1024",
+            "thumbnail": "https://kaalus.wordpress.com/wp-content/uploads/2026/05/untitled.jpg?w=1024",
+            "sourceUrl": "https://kaalus.wordpress.com/",
+            "credit": "Creator / Official site",
+            "alt": "Survivalcraft 2 source image",
+            "verified": true
+          },
+          {
+            "src": "https://kaalus.wordpress.com/wp-content/uploads/2025/01/5885259f6f293bbfae451a36.png?w=1024",
+            "thumbnail": "https://kaalus.wordpress.com/wp-content/uploads/2025/01/5885259f6f293bbfae451a36.png?w=1024",
+            "sourceUrl": "https://kaalus.wordpress.com/",
+            "credit": "Creator / Official site",
+            "alt": "Survivalcraft 2 source image",
+            "verified": true
+          },
+          {
+            "src": "https://kaalus.wordpress.com/wp-content/uploads/2015/12/musket.png?w=128",
+            "thumbnail": "https://kaalus.wordpress.com/wp-content/uploads/2015/12/musket.png?w=128",
+            "sourceUrl": "https://kaalus.wordpress.com/",
+            "credit": "Creator / Official site",
+            "alt": "Survivalcraft 2 source image",
+            "verified": true
+          },
+          {
+            "src": "https://kaalus.wordpress.com/wp-content/uploads/2024/12/poplartree.jpg?w=1024",
+            "thumbnail": "https://kaalus.wordpress.com/wp-content/uploads/2024/12/poplartree.jpg?w=1024",
+            "sourceUrl": "https://kaalus.wordpress.com/",
+            "credit": "Creator / Official site",
+            "alt": "Survivalcraft 2 source image",
+            "verified": true
+          },
+          {
+            "src": "https://kaalus.wordpress.com/wp-content/uploads/2024/12/oddsun.jpg?w=1024",
+            "thumbnail": "https://kaalus.wordpress.com/wp-content/uploads/2024/12/oddsun.jpg?w=1024",
+            "sourceUrl": "https://kaalus.wordpress.com/",
+            "credit": "Creator / Official site",
+            "alt": "Survivalcraft 2 source image",
+            "verified": true
+          },
+          {
+            "src": "https://kaalus.files.wordpress.com/2012/11/googleplay.png",
+            "thumbnail": "https://kaalus.files.wordpress.com/2012/11/googleplay.png",
+            "sourceUrl": "https://kaalus.wordpress.com/",
+            "credit": "Creator / Official site",
+            "alt": "Survivalcraft 2 source image",
+            "verified": true
+          },
+          {
+            "src": "https://kaalus.files.wordpress.com/2012/11/amazonappstore.png",
+            "thumbnail": "https://kaalus.files.wordpress.com/2012/11/amazonappstore.png",
+            "sourceUrl": "https://kaalus.wordpress.com/",
+            "credit": "Creator / Official site",
+            "alt": "Survivalcraft 2 source image",
+            "verified": true
+          },
+          {
+            "src": "https://pixel.wp.com/b.gif?v=noscript",
+            "thumbnail": "https://pixel.wp.com/b.gif?v=noscript",
+            "sourceUrl": "https://kaalus.wordpress.com/",
+            "credit": "Creator / Official site",
+            "alt": "Survivalcraft 2 source image",
+            "verified": true
+          }
+        ],
+        "storefronts": [
+          {
+            "provider": "Official site",
+            "url": "https://kaalus.wordpress.com/",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": [],
+      "storefronts": [
+        {
+          "url": "https://www.microsoft.com/p/survivalcraft-2/9phc48p58nb2",
+          "provider": "Microsoft Store",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://www.microsoft.com/p/survivalcraft-2/9phc48p58nb2",
+          "editionNote": "Windows edition linked by the creator."
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft2",
+          "provider": "Google Play",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft2",
+          "editionNote": "Android edition linked by the creator."
+        },
+        {
+          "url": "https://itunes.apple.com/app/survivalcraft2/id1185580782",
+          "provider": "App Store",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://itunes.apple.com/app/survivalcraft2/id1185580782",
+          "editionNote": "iOS edition linked by the creator."
+        }
+      ]
+    },
+    "external:path-of-titans": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "HzQnRm3FmOE",
+            "name": "Official Gondwa gameplay trailer",
+            "official": true,
+            "credit": "Path of Titans",
+            "watchUrl": "https://www.youtube.com/watch?v=HzQnRm3FmOE",
+            "sourceUrl": "https://pathoftitans.com/",
+            "poster": "https://i.ytimg.com/vi/HzQnRm3FmOE/hqdefault.jpg"
+          }
+        ],
+        "image": "https://web-cdn.pathoftitans.com/Uploads/227/conversions/MultiplayerBanner2-large.jpg",
+        "screenshots": [
+          {
+            "src": "https://web-cdn.pathoftitans.com/Uploads/377/conversions/267e071ba48484d77e598ec37ced0e91-thumbnail.jpg",
+            "thumbnail": "https://web-cdn.pathoftitans.com/Uploads/377/conversions/267e071ba48484d77e598ec37ced0e91-thumbnail.jpg",
+            "sourceUrl": "https://pathoftitans.com/",
+            "credit": "Creator / Official site",
+            "alt": "Path of Titans source image",
+            "verified": true
+          },
+          {
+            "src": "https://web-cdn.pathoftitans.com/Uploads/227/conversions/MultiplayerBanner2-large.jpg",
+            "thumbnail": "https://web-cdn.pathoftitans.com/Uploads/227/conversions/MultiplayerBanner2-large.jpg",
+            "sourceUrl": "https://pathoftitans.com/",
+            "credit": "Creator / Official site",
+            "alt": "Path of Titans source image",
+            "verified": true
+          },
+          {
+            "src": "https://web-cdn.pathoftitans.com/Uploads/224/conversions/CustomizationBanner2-large.jpg",
+            "thumbnail": "https://web-cdn.pathoftitans.com/Uploads/224/conversions/CustomizationBanner2-large.jpg",
+            "sourceUrl": "https://pathoftitans.com/",
+            "credit": "Creator / Official site",
+            "alt": "Path of Titans source image",
+            "verified": true
+          },
+          {
+            "src": "https://web-cdn.pathoftitans.com/Uploads/225/conversions/GrowthBanner2-large.jpg",
+            "thumbnail": "https://web-cdn.pathoftitans.com/Uploads/225/conversions/GrowthBanner2-large.jpg",
+            "sourceUrl": "https://pathoftitans.com/",
+            "credit": "Creator / Official site",
+            "alt": "Path of Titans source image",
+            "verified": true
+          },
+          {
+            "src": "https://web-cdn.pathoftitans.com/Uploads/226/conversions/CombatBanner2-large.jpg",
+            "thumbnail": "https://web-cdn.pathoftitans.com/Uploads/226/conversions/CombatBanner2-large.jpg",
+            "sourceUrl": "https://pathoftitans.com/",
+            "credit": "Creator / Official site",
+            "alt": "Path of Titans source image",
+            "verified": true
+          },
+          {
+            "src": "https://web-cdn.pathoftitans.com/Uploads/122/conversions/AbilitiesCard-large.jpg",
+            "thumbnail": "https://web-cdn.pathoftitans.com/Uploads/122/conversions/AbilitiesCard-large.jpg",
+            "sourceUrl": "https://pathoftitans.com/",
+            "credit": "Creator / Official site",
+            "alt": "Path of Titans source image",
+            "verified": true
+          },
+          {
+            "src": "https://web-cdn.pathoftitans.com/Uploads/143/conversions/iPhone8PathofTitansNEW-large.jpg",
+            "thumbnail": "https://web-cdn.pathoftitans.com/Uploads/143/conversions/iPhone8PathofTitansNEW-large.jpg",
+            "sourceUrl": "https://pathoftitans.com/",
+            "credit": "Creator / Official site",
+            "alt": "Path of Titans source image",
+            "verified": true
+          },
+          {
+            "src": "https://web-cdn.pathoftitans.com/Uploads/15/conversions/modding_large-large.jpg",
+            "thumbnail": "https://web-cdn.pathoftitans.com/Uploads/15/conversions/modding_large-large.jpg",
+            "sourceUrl": "https://pathoftitans.com/",
+            "credit": "Creator / Official site",
+            "alt": "Path of Titans source image",
+            "verified": true
+          }
+        ],
+        "storefronts": [
+          {
+            "provider": "Official site",
+            "url": "https://pathoftitans.com/",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": [],
+      "storefronts": [
+        {
+          "url": "https://alderongames.com/store/path-of-titans",
+          "provider": "Alderon Games",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://pathoftitans.com/"
+        },
+        {
+          "url": "https://store.playstation.com/concept/10000950",
+          "provider": "PlayStation",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://store.playstation.com/concept/10000950",
+          "editionNote": "Exact console edition linked by Alderon Games."
+        },
+        {
+          "url": "https://www.xbox.com/games/store/pathoftitans/9PGDD5NS7JF3",
+          "provider": "Xbox",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://www.xbox.com/games/store/pathoftitans/9PGDD5NS7JF3",
+          "editionNote": "Exact console edition linked by Alderon Games."
+        }
+      ]
+    },
+    "external:stranded-2": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "TFE9s-psT40",
+            "name": "Original creator trailer: Stranded II",
+            "official": true,
+            "credit": "Unreal Software",
+            "watchUrl": "https://www.youtube.com/watch?v=TFE9s-psT40",
+            "sourceUrl": "https://www.unrealsoftware.de/game_stranded2.php",
+            "poster": "https://i.ytimg.com/vi/TFE9s-psT40/hqdefault.jpg"
+          }
+        ],
+        "image": "https://www.unrealsoftware.de/img/games/stranded2_01.png",
+        "screenshots": [
+          {
+            "src": "https://www.unrealsoftware.de/img/screens/stranded201_pre.jpg",
+            "thumbnail": "https://www.unrealsoftware.de/img/screens/stranded201_pre.jpg",
+            "sourceUrl": "https://www.unrealsoftware.de/game_stranded2.php",
+            "credit": "Creator / Official site",
+            "alt": "Stranded II source image",
+            "verified": true
+          },
+          {
+            "src": "https://www.unrealsoftware.de/img/screens/stranded202_pre.jpg",
+            "thumbnail": "https://www.unrealsoftware.de/img/screens/stranded202_pre.jpg",
+            "sourceUrl": "https://www.unrealsoftware.de/game_stranded2.php",
+            "credit": "Creator / Official site",
+            "alt": "Stranded II source image",
+            "verified": true
+          },
+          {
+            "src": "https://www.unrealsoftware.de/img/screens/stranded203_pre.jpg",
+            "thumbnail": "https://www.unrealsoftware.de/img/screens/stranded203_pre.jpg",
+            "sourceUrl": "https://www.unrealsoftware.de/game_stranded2.php",
+            "credit": "Creator / Official site",
+            "alt": "Stranded II source image",
+            "verified": true
+          },
+          {
+            "src": "https://www.unrealsoftware.de/img/screens/stranded204_pre.jpg",
+            "thumbnail": "https://www.unrealsoftware.de/img/screens/stranded204_pre.jpg",
+            "sourceUrl": "https://www.unrealsoftware.de/game_stranded2.php",
+            "credit": "Creator / Official site",
+            "alt": "Stranded II source image",
+            "verified": true
+          },
+          {
+            "src": "https://www.unrealsoftware.de/img/screens/stranded205_pre.jpg",
+            "thumbnail": "https://www.unrealsoftware.de/img/screens/stranded205_pre.jpg",
+            "sourceUrl": "https://www.unrealsoftware.de/game_stranded2.php",
+            "credit": "Creator / Official site",
+            "alt": "Stranded II source image",
+            "verified": true
+          }
+        ],
+        "storefronts": [
+          {
+            "provider": "Official site",
+            "url": "https://www.unrealsoftware.de/game_stranded2.php",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": []
+    },
+    "external:cataclysm-bright-nights": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "lE7xKsbWD04",
+            "name": "Unofficial community trailer for v0.13.0",
+            "official": false,
+            "credit": "Chaosvolt",
+            "watchUrl": "https://www.youtube.com/watch?v=lE7xKsbWD04",
+            "sourceUrl": "https://cataclysmbn.org/",
+            "poster": "https://i.ytimg.com/vi/lE7xKsbWD04/hqdefault.jpg"
+          }
+        ],
+        "image": "https://github.com/cataclysmbn/Cataclysm-BN/raw/main/docs/en/contribute/img/readme-title.png",
+        "screenshots": [],
+        "storefronts": [
+          {
+            "provider": "Official site",
+            "url": "https://cataclysmbn.org/",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          },
+          {
+            "provider": "GitHub",
+            "url": "https://github.com/cataclysmbn/Cataclysm-BN",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": []
+    },
+    "external:luun": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "6MxpI8lNjvQ",
+            "name": "Creator development footage, LUUN 0.216; not a finished release trailer",
+            "official": true,
+            "credit": "LUUN",
+            "watchUrl": "https://www.youtube.com/watch?v=6MxpI8lNjvQ",
+            "sourceUrl": "https://luungame.com/index.html",
+            "poster": "https://i.ytimg.com/vi/6MxpI8lNjvQ/hqdefault.jpg"
+          }
+        ],
+        "image": "https://luungame.com/images/site_topimage.jpg",
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1nLzEwNTQxODQzLmdpZg==/original/qRICsK.gif",
+            "thumbnail": "https://img.itch.zone/aW1nLzEwNTQxODQzLmdpZg==/original/qRICsK.gif",
+            "sourceUrl": "https://countsie.itch.io/luun",
+            "credit": "countsie / original creator gameplay animation",
+            "alt": "LUUN gameplay",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1nLzEwOTcxMzYxLmdpZg==/original/V5FMlQ.gif",
+            "thumbnail": "https://img.itch.zone/aW1nLzEwOTcxMzYxLmdpZg==/original/V5FMlQ.gif",
+            "sourceUrl": "https://countsie.itch.io/luun",
+            "credit": "countsie / original creator gameplay animation",
+            "alt": "LUUN gameplay",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMTc5MDQ0My8xMDk3MTk4NS5naWY=/original/99JdJw.gif",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMTc5MDQ0My8xMDk3MTk4NS5naWY=/original/99JdJw.gif",
+            "sourceUrl": "https://countsie.itch.io/luun",
+            "credit": "countsie / original creator gameplay animation",
+            "alt": "LUUN gameplay",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMTc5MDQ0My8xMDk3MjA0My5qcGc=/347x500/l%2FwztP.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMTc5MDQ0My8xMDk3MjA0My5qcGc=/347x500/l%2FwztP.jpg",
+            "sourceUrl": "https://countsie.itch.io/luun",
+            "credit": "countsie / original creator gameplay animation",
+            "alt": "LUUN gameplay",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMTc5MDQ0My8xMDk3MjA0Mi5qcGc=/347x500/VCxHX4.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMTc5MDQ0My8xMDk3MjA0Mi5qcGc=/347x500/VCxHX4.jpg",
+            "sourceUrl": "https://countsie.itch.io/luun",
+            "credit": "countsie / original creator gameplay animation",
+            "alt": "LUUN gameplay",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMTc5MDQ0My8xMDk3MjA0MC5qcGc=/347x500/d0yHK4.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMTc5MDQ0My8xMDk3MjA0MC5qcGc=/347x500/d0yHK4.jpg",
+            "sourceUrl": "https://countsie.itch.io/luun",
+            "credit": "countsie / original creator gameplay animation",
+            "alt": "LUUN gameplay",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMTc5MDQ0My8xMDk3MjA0MS5qcGc=/347x500/LwUeBB.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMTc5MDQ0My8xMDk3MjA0MS5qcGc=/347x500/LwUeBB.jpg",
+            "sourceUrl": "https://countsie.itch.io/luun",
+            "credit": "countsie / original creator gameplay animation",
+            "alt": "LUUN gameplay",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvMTc5MDQ0My8xMDUzOTQ2MS5qcGc=/347x500/hdddN6.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvMTc5MDQ0My8xMDUzOTQ2MS5qcGc=/347x500/hdddN6.jpg",
+            "sourceUrl": "https://countsie.itch.io/luun",
+            "credit": "countsie / original creator gameplay animation",
+            "alt": "LUUN gameplay",
+            "verified": true
+          }
+        ],
+        "storefronts": [
+          {
+            "provider": "Official site",
+            "url": "https://luungame.com/index.html",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://countsie.itch.io/luun",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://countsie.itch.io/luun"
+        }
+      ],
+      "storefronts": [
+        {
+          "url": "https://countsie.itch.io/luun",
+          "provider": "itch.io",
+          "kind": "prototype",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://luungame.com/index.html",
+          "editionNote": "Paid unfinished build and free demo are separately offered on the creator page."
+        }
+      ]
+    },
+    "external:mine-blocks": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "fnR7djDnkyo",
+            "name": "Creator update video: Mine Blocks 1.31",
+            "official": true,
+            "credit": "Zanzlanz",
+            "watchUrl": "https://www.youtube.com/watch?v=fnR7djDnkyo",
+            "sourceUrl": "https://mineblocks.com/1",
+            "poster": "https://i.ytimg.com/vi/fnR7djDnkyo/hqdefault.jpg"
+          }
+        ],
+        "screenshots": [
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot01.jpg",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot01.jpg",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot02.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot02.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot03.jpg",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot03.jpg",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot04.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot04.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot05.jpg",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot05.jpg",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot06.jpg",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot06.jpg",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot07.jpg",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot07.jpg",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot08.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot08.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot09.jpg",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot09.jpg",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot10.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot10.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot11.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot11.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot12.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot12.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks screenshot",
+            "verified": true
+          }
+        ],
+        "storefronts": [
+          {
+            "url": "https://mineblocks.com/1",
+            "provider": "Official site",
+            "kind": "browser",
+            "verified": true,
+            "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+            "sourceUrl": "https://mineblocks.com/"
+          },
+          {
+            "url": "https://mineblocks.com/1/download",
+            "provider": "Official site",
+            "kind": "download",
+            "verified": true,
+            "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+            "sourceUrl": "https://mineblocks.com/"
+          },
+          {
+            "url": "https://patreon.com/Zanzlanz",
+            "provider": "Patreon",
+            "kind": "support",
+            "verified": true,
+            "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+            "sourceUrl": "https://mineblocks.com/",
+            "editionNote": "Optional support for the creator, not a game license."
+          }
+        ]
+      },
+      "sources": []
+    },
+    "external:mine-blocks-2": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "Da2QQ8x4WFU",
+            "name": "Creator presentation: Mine Blocks 2 HTML5 return",
+            "official": true,
+            "credit": "Zanzlanz",
+            "watchUrl": "https://www.youtube.com/watch?v=Da2QQ8x4WFU",
+            "sourceUrl": "https://mineblocks.com/2",
+            "poster": "https://i.ytimg.com/vi/Da2QQ8x4WFU/hqdefault.jpg"
+          }
+        ],
+        "screenshots": [
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot01.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot01.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks 2 screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot02.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot02.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks 2 screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot03.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot03.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks 2 screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot04.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot04.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks 2 screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot05.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot05.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks 2 screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot06.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot06.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks 2 screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot07.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot07.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks 2 screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot08.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot08.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks 2 screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot09.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot09.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks 2 screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot10.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot10.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks 2 screenshot",
+            "verified": true
+          },
+          {
+            "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot11.png",
+            "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot11.png",
+            "sourceUrl": "https://mineblocks.com/",
+            "credit": "Zanzlanz / official Mine Blocks gallery",
+            "alt": "Mine Blocks 2 screenshot",
+            "verified": true
+          }
+        ],
+        "storefronts": [
+          {
+            "url": "https://mineblocks.com/2",
+            "provider": "Official site",
+            "kind": "browser",
+            "verified": true,
+            "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+            "sourceUrl": "https://mineblocks.com/"
+          },
+          {
+            "url": "https://mineblocks.com/2/download",
+            "provider": "Official site",
+            "kind": "download",
+            "verified": true,
+            "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+            "sourceUrl": "https://mineblocks.com/"
+          },
+          {
+            "url": "https://patreon.com/Zanzlanz",
+            "provider": "Patreon",
+            "kind": "support",
+            "verified": true,
+            "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+            "sourceUrl": "https://mineblocks.com/",
+            "editionNote": "Optional support for the creator, not a game license."
+          }
+        ]
+      },
+      "sources": []
+    },
+    "external:wildraft": {
+      "_replace": {
+        "screenshots": [
+          {
+            "src": "https://img.itch.zone/aW1nLzMwOTA2NDE4LnBuZw==/original/1uoTzM.png",
+            "thumbnail": "https://img.itch.zone/aW1nLzMwOTA2NDE4LnBuZw==/original/1uoTzM.png",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM1MS5qcGc=/347x500/lSFKwN.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM1MS5qcGc=/347x500/lSFKwN.jpg",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM1NS5qcGc=/347x500/sE3iS7.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM1NS5qcGc=/347x500/sE3iS7.jpg",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM2MS5qcGc=/347x500/NxRSWN.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM2MS5qcGc=/347x500/NxRSWN.jpg",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM2Mi5qcGc=/347x500/LNg%2Fqt.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM2Mi5qcGc=/347x500/LNg%2Fqt.jpg",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM2OC5qcGc=/347x500/EL16ct.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM2OC5qcGc=/347x500/EL16ct.jpg",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM3MS5qcGc=/347x500/EshMhX.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM3MS5qcGc=/347x500/EshMhX.jpg",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM3OC5qcGc=/347x500/Sgs9c%2F.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM3OC5qcGc=/347x500/Sgs9c%2F.jpg",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM4Mi5qcGc=/347x500/Z%2F8nnq.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM4Mi5qcGc=/347x500/Z%2F8nnq.jpg",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM4NS5qcGc=/347x500/JPfYD%2B.jpg",
+            "thumbnail": "https://img.itch.zone/aW1hZ2UvNTA2MTA5MS8zMDMwMjM4NS5qcGc=/347x500/JPfYD%2B.jpg",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.discordapp.com/attachments/1554133571214643291/1560244188627599390/explore.png?ex=6ad20222&is=6ad0b0a2&hm=bd8dc0fed66f377b0a51f9e0d208cd089500a595cb319c890caded7710a3d551&",
+            "thumbnail": "https://cdn.discordapp.com/attachments/1554133571214643291/1560244188627599390/explore.png?ex=6ad20222&is=6ad0b0a2&hm=bd8dc0fed66f377b0a51f9e0d208cd089500a595cb319c890caded7710a3d551&",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.discordapp.com/attachments/1554133571214643291/1560245129623904337/the_world.png?ex=6ad20302&is=6ad0b182&hm=9215ec7e0e7de9ea52b3aaf7d6571712dbce4b70c06f20b9eb1ca6ed4bf9dfd9&",
+            "thumbnail": "https://cdn.discordapp.com/attachments/1554133571214643291/1560245129623904337/the_world.png?ex=6ad20302&is=6ad0b182&hm=9215ec7e0e7de9ea52b3aaf7d6571712dbce4b70c06f20b9eb1ca6ed4bf9dfd9&",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.discordapp.com/attachments/1554133571214643291/1560246373729706115/survival.png?ex=6ad2042b&is=6ad0b2ab&hm=937a2bbec98fdc2467345d01aa4eaf617b3cdd9adcb2535127da603ab52b5b18&",
+            "thumbnail": "https://cdn.discordapp.com/attachments/1554133571214643291/1560246373729706115/survival.png?ex=6ad2042b&is=6ad0b2ab&hm=937a2bbec98fdc2467345d01aa4eaf617b3cdd9adcb2535127da603ab52b5b18&",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.discordapp.com/attachments/1554133571214643291/1560246746414719066/combat.png?ex=6ad20484&is=6ad0b304&hm=a54d5defa6054ed05a7fe95011941622df2d02851e2ca8629ff8036cac91e127&",
+            "thumbnail": "https://cdn.discordapp.com/attachments/1554133571214643291/1560246746414719066/combat.png?ex=6ad20484&is=6ad0b304&hm=a54d5defa6054ed05a7fe95011941622df2d02851e2ca8629ff8036cac91e127&",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          },
+          {
+            "src": "https://cdn.discordapp.com/attachments/1554133571214643291/1560246992503050281/mystery.png?ex=6ad204bf&is=6ad0b33f&hm=a98797cc92785f55449709b1d141692360bd54f8a108ce3cec8b41d05f6034ba&",
+            "thumbnail": "https://cdn.discordapp.com/attachments/1554133571214643291/1560246992503050281/mystery.png?ex=6ad204bf&is=6ad0b33f&hm=a98797cc92785f55449709b1d141692360bd54f8a108ce3cec8b41d05f6034ba&",
+            "sourceUrl": "https://lucifer6767.itch.io/wildraft",
+            "credit": "Creator / itch.io",
+            "alt": "WILDRAFT source image",
+            "verified": true
+          }
+        ],
+        "storefronts": [
+          {
+            "provider": "itch.io",
+            "url": "https://lucifer6767.itch.io/wildraft",
+            "kind": "project",
+            "verified": true,
+            "lastChecked": "2026-10-23T22:46:18.392677+00:00"
+          }
+        ]
+      },
+      "sources": []
+    },
+    "steam:440900": {
+      "storefronts": [
+        {
+          "url": "https://store.epicgames.com/p/conan-exiles",
+          "provider": "Epic Games",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://store.epicgames.com/p/conan-exiles",
+          "editionNote": "Exact official Epic product read during research; check edition differences from Steam's Enhanced branding."
+        }
+      ]
+    },
+    "steam:346110": {
+      "storefronts": [
+        {
+          "url": "https://store.epicgames.com/p/ark",
+          "provider": "Epic Games",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://store.epicgames.com/p/ark",
+          "editionNote": "Exact original Survival Evolved product, not Survival Ascended."
+        }
+      ]
+    },
+    "steam:1928980": {
+      "storefronts": [
+        {
+          "url": "https://store.epicgames.com/p/nightingale",
+          "provider": "Epic Games",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://store.epicgames.com/p/nightingale",
+          "editionNote": "Exact official Nightingale product."
+        }
+      ]
+    },
+    "steam:264710": {
+      "storefronts": [
+        {
+          "url": "https://store.epicgames.com/p/subnautica",
+          "provider": "Epic Games",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://store.epicgames.com/p/subnautica",
+          "editionNote": "Exact official original Subnautica product."
+        }
+      ]
+    },
+    "steam:526870": {
+      "storefronts": [
+        {
+          "url": "https://store.epicgames.com/p/satisfactory",
+          "provider": "Epic Games",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://store.epicgames.com/p/satisfactory",
+          "editionNote": "Exact official Satisfactory product."
+        }
+      ]
+    },
+    "steam:3041230": {
+      "storefronts": [
+        {
+          "url": "https://store.epicgames.com/p/windrose-831c86",
+          "provider": "Epic Games",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://store.epicgames.com/p/windrose-831c86",
+          "editionNote": "Exact destination linked by the official Windrose website."
+        }
+      ]
+    },
+    "steam:2330750": {
+      "storefronts": [
+        {
+          "provider": "Official site",
+          "url": "https://cataclysmdda.org",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:15:41.834608+00:00",
+          "sourceUrl": "https://store.steampowered.com/app/2330750/",
+          "editionNote": "Official free open-source project; the paid Steam distribution is a distinct edition."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Official site",
+          "url": "https://cataclysmdda.org",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:15:41.834608+00:00",
+          "sourceUrl": "https://store.steampowered.com/app/2330750/",
+          "editionNote": "Official free open-source project; the paid Steam distribution is a distinct edition."
+        }
+      ]
+    }
+  }
+}

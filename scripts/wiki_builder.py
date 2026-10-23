@@ -24,7 +24,7 @@ def media_atlas(rows,hub='Boomer shooters'):
                 text+=m(g.get('curatorWhy') or g.get('summary'))+'\n\n'
                 for t in g.get('trailers',[]):
                     text+=f"[Watch: {m(t.get('name','Video'))}]({video_url(t,g)})  \n"
-                text+='\n'+' | '.join(f"[{m(x.get('label') or x['provider'])}{' (support)' if x.get('kind')=='support' else ' ('+m(x['kind'])+')' if x.get('kind') in ['demo','project'] else ''}]({x['url']})" for x in g.get('storefronts',[]))+'\n\n'
+                text+='\n'+' | '.join(f"[{m(x.get('label') or x['provider'])}{' (support)' if x.get('kind')=='support' else ' ('+m(x['kind'])+')' if x.get('kind') in ['demo','project','archive','subscription','prototype','download','browser','bundle'] else ''}]({x['url']})" for x in g.get('storefronts',[]))+'\n\n'
                 text+=f"[Embedded player and gallery]({link({'hub':hub,'game':g['id']})})\n\n</td>\n"
             text+='</tr>\n'
         text+='</table>\n\n'

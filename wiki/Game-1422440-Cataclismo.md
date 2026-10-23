@@ -2,7 +2,7 @@
 
 ![Cataclismo official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/header.jpg?t=1792736886)
 
-**[Open official page](https://store.steampowered.com/app/1422440/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1422440)** · [Real-time strategy](Real-Time-Strategy)
+**[Open official page](https://store.steampowered.com/app/1422440/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1422440)** · [Real-time strategy](Real-Time-Strategy) · [Roguelites](Roguelites)
 
 Design and build fortresses brick by brick to stand against endless hordes of Horrors in this real-time strategy game with resource management, siege defense, and exploration. Lead from the ramparts, push back the darkness, and hold fast against the creatures of the Mist.
 
@@ -12,7 +12,7 @@ A creative fortress-building and defense RTS. Its architectural construction is 
 
 | Field | Value |
 |:--|:--|
-| Collection | Survival & defense RTS |
+| Collection | Survival & defense RTS, Survival colonies & management neighbors |
 | Recommendation | 9/10 |
 | Community reception | 88.3% / 4,424 Steam reviews |
 | Release | Mar 20, 2025 |
@@ -27,8 +27,9 @@ A creative fortress-building and defense RTS. Its architectural construction is 
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/1422440/)
+- [Steam: store](https://store.steampowered.com/app/1422440)
 - [GOG: store](https://www.gog.com/en/game/cataclismo) | Exact title in GOG official catalog: Cataclismo
+- [Steam: demo](https://store.steampowered.com/app/2459000)
 
 **Store coverage:** Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence. Last checked: 2026-10-23T08:04:56.549239+00:00.
 
@@ -62,8 +63,28 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/1422440/) · checked 2026-10-23T07:57:35.524175+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1422440&l=english&cc=us) · checked 2026-10-23T07:57:35.524175+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1422440%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T07:57:35.524175+00:00
+- [Steam](https://store.steampowered.com/app/1422440/) · checked 2026-10-23T22:52:09.992135+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1422440&l=english&cc=us) · checked 2026-10-23T22:52:09.992135+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1422440%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T22:52:09.992135+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+## Survival field notes
+
+[Back to Survival](Survival)
+
+**World and systems:** Colony survival / adjacent
+
+**Solo:** Listed by Steam
+
+**Co-op:** Not confirmed by the source feature list
+
+**Hosting:** Dedicated-server support not independently confirmed
+
+**Modding:** Check the creator documentation; not inferred from genre
+
+**Terrain and building:** See gameplay for terrain-editing and construction limits
+
+Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.
+
+**Why it is here:** Design and build fortresses brick by brick to stand against endless hordes of Horrors in this real-time strategy game with resource management, siege defense, and exploration. Lead from the ramparts, push back the darkness, and hold fast against the creatures of the Mist.

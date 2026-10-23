@@ -2,7 +2,7 @@
 
 ![They Are Billions official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644930/header.jpg?t=1595631876)
 
-**[Open official page](https://store.steampowered.com/app/644930/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A644930)** · [Real-time strategy](Real-Time-Strategy)
+**[Open official page](https://store.steampowered.com/app/644930/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A644930)** · [Real-time strategy](Real-Time-Strategy) · [Roguelites](Roguelites)
 
 They Are Billions is a Steampunk strategy game set on a post-apocalyptic planet. Build and defend colonies to survive against the billions of the infected that seek to annihilate the few remaining living humans. Can humanity survive after the zombie apocalypse?
 
@@ -12,7 +12,7 @@ A classic survival RTS for building a fortified colony against overwhelming hord
 
 | Field | Value |
 |:--|:--|
-| Collection | Survival & defense RTS |
+| Collection | Survival & defense RTS, Survival colonies & management neighbors |
 | Recommendation | 9/10 |
 | Community reception | 85.1% / 51,580 Steam reviews |
 | Release | Jun 18, 2019 |
@@ -27,7 +27,7 @@ A classic survival RTS for building a fortified colony against overwhelming hord
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/644930/)
+- [Steam: store](https://store.steampowered.com/app/644930)
 - [GOG: store](https://www.gog.com/en/game/they_are_billions) | Exact title in GOG official catalog: They Are Billions
 
 **Store coverage:** Exact official GOG, itch.io, and game-site destinations; no-match does not prove absence. Last checked: 2026-10-23T08:04:56.549239+00:00.
@@ -78,8 +78,28 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/644930/) · checked 2026-10-23T07:57:35.524175+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=644930&l=english&cc=us) · checked 2026-10-23T07:57:35.524175+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A644930%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T07:57:35.524175+00:00
+- [Steam](https://store.steampowered.com/app/644930/) · checked 2026-10-23T22:52:09.992135+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=644930&l=english&cc=us) · checked 2026-10-23T22:52:09.992135+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A644930%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T22:52:09.992135+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+## Survival field notes
+
+[Back to Survival](Survival)
+
+**World and systems:** Colony survival / adjacent
+
+**Solo:** Listed by Steam
+
+**Co-op:** Not confirmed by the source feature list
+
+**Hosting:** Dedicated-server support not independently confirmed
+
+**Modding:** Check the creator documentation; not inferred from genre
+
+**Terrain and building:** See gameplay for terrain-editing and construction limits
+
+Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.
+
+**Why it is here:** They Are Billions is a Steampunk strategy game set on a post-apocalyptic planet. Build and defend colonies to survive against the billions of the infected that seek to annihilate the few remaining living humans. Can humanity survive after the zombie apocalypse?

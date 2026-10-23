@@ -87,7 +87,7 @@ A tense, more directed Metroid adventure built around an abandoned research stat
 
 [Watch: Official Nintendo Switch Online trailer](https://www.youtube.com/watch?v=8o-1bhvB1qk)  
 
-[Nintendo](https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch)
+[Nintendo (subscription)](https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Metroidvanias&game=external%3Ametroid-fusion)
 
@@ -123,7 +123,7 @@ A compact and highly replayable remake of the original Metroid, with accessible 
 
 [Watch: Official Nintendo Switch Online trailer](https://www.youtube.com/watch?v=ycEceMUwRfc)  
 
-[Nintendo](https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch)
+[Nintendo (subscription)](https://www.nintendo.com/us/store/products/game-boy-advance-nintendo-switch-online-switch)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Metroidvanias&game=external%3Ametroid-zero-mission)
 
@@ -140,7 +140,7 @@ A foundational interconnected-world adventure, still worth exploring for its atm
 
 [Watch: Community gameplay: Nintendo Switch Online edition](https://www.youtube.com/watch?v=XKLIhdH_7jM)  
 
-[Nintendo](https://www.nintendo.com/us/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch)
+[Nintendo (subscription)](https://www.nintendo.com/us/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Metroidvanias&game=external%3Asuper-metroid)
 
@@ -450,7 +450,7 @@ Maddy Thorson's freeware exploration classic, with a large world and increasingl
 
 [Watch: Community playthrough: original desktop game](https://www.youtube.com/watch?v=Vl5h9DgmQCc)  
 
-[Official site (project)](https://www.maddymakesgames.com) | [Official site](https://www.maddymakesgames.com/games/AnUntitledStory.zip)
+[Official site (project)](https://www.maddymakesgames.com) | [Official site (download)](https://www.maddymakesgames.com/games/AnUntitledStory.zip)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Metroidvanias&game=external%3Aan-untitled-story)
 
@@ -592,7 +592,7 @@ A short gravity-driven dinosaur exploration prototype with a playful visual iden
 
 [Watch: Community gameplay: original Fohh](https://www.youtube.com/watch?v=hpjZOLGG3pM)  
 
-[itch.io](https://ismaelrodriguez.itch.io/fohh)
+[itch.io (prototype)](https://ismaelrodriguez.itch.io/fohh)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Metroidvanias&game=external%3Afohh)
 
@@ -609,7 +609,7 @@ A hand-animated exploration platformer built around lethal, tactical encounters.
 
 [Watch: Official trailer, May 2026 showcase](https://www.youtube.com/watch?v=mJdLXD7rb4Y)  
 
-[Official site](https://www.necrowave.com) | [Patreon (support)](https://www.patreon.com/Necrowave)
+[Official site (prototype)](https://www.necrowave.com) | [Patreon (support)](https://www.patreon.com/Necrowave)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Metroidvanias&game=external%3Anecrowave)
 
@@ -627,7 +627,7 @@ A candy-and-horror pixel-art exploration prototype. The available build is not p
 [Watch: Creator combat loop, converted from the original animated GIF](https://salmoone.itch.io/peppermint)  
 [Watch: Creator platforming loop, converted from the original animated GIF](https://salmoone.itch.io/peppermint)  
 
-[itch.io](https://salmoone.itch.io/peppermint)
+[itch.io (prototype)](https://salmoone.itch.io/peppermint)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Metroidvanias&game=external%3Apeppermint)
 
@@ -892,7 +892,7 @@ A collected creator-world release. Distant Paradise remains searchable as part o
 
 [Watch: Anthology Trailer](https://store.steampowered.com/app/3525870/)  
 
-[Steam](https://store.steampowered.com/app/3525870) | [itch.io](https://dreamnoid.itch.io/distant-paradise)
+[Steam](https://store.steampowered.com/app/3525870) | [itch.io (archive)](https://dreamnoid.itch.io/distant-paradise)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Metroidvanias&game=steam%3A3525870)
 

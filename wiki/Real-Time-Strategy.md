@@ -379,12 +379,20 @@ Promising projects remain visible without being presented as playable full relea
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [They Are Billions](Game-644930-They-Are-Billions) | 9/10 | 85.1% / 51,580 Steam reviews | Jun 18, 2019 · Released | [Steam](https://store.steampowered.com/app/644930/) · [GOG](https://www.gog.com/en/game/they_are_billions) |
+| [They Are Billions](Game-644930-They-Are-Billions) | 9/10 | 85.1% / 51,580 Steam reviews | Jun 18, 2019 · Released | [Steam](https://store.steampowered.com/app/644930) · [GOG](https://www.gog.com/en/game/they_are_billions) |
 | [Diplomacy is Not an Option](Game-1272320-Diplomacy-is-Not-an-Option) | 9/10 | 85.6% / 12,804 Steam reviews | Oct 4, 2024 · Released | [Steam](https://store.steampowered.com/app/1272320/) · [GOG](https://www.gog.com/en/game/diplomacy_is_not_an_option) · [itch.io](https://door407.itch.io/diplomacy-is-not-an-option) |
-| [Cataclismo](Game-1422440-Cataclismo) | 9/10 | 88.3% / 4,424 Steam reviews | Mar 20, 2025 · Released | [Steam](https://store.steampowered.com/app/1422440/) · [GOG](https://www.gog.com/en/game/cataclismo) |
+| [Cataclismo](Game-1422440-Cataclismo) | 9/10 | 88.3% / 4,424 Steam reviews | Mar 20, 2025 · Released | [Steam](https://store.steampowered.com/app/1422440) · [GOG](https://www.gog.com/en/game/cataclismo) · [Steam](https://store.steampowered.com/app/2459000) |
 | [Thronefall](Game-2239150-Thronefall) | 8/10 | 96.1% / 23,937 Steam reviews | Oct 11, 2024 · Released | [Steam](https://store.steampowered.com/app/2239150/) |
 | [Here Comes The Swarm](Game-3052730-Here-Comes-The-Swarm) | 8/10 | 86.1% / 388 Steam reviews | Mar 5, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3052730/) |
-| [Age of Darkness: Final Stand](Game-1426450-Age-of-Darkness-Final-Stand) | 7/10 | 74.3% / 10,701 Steam reviews | Jan 15, 2025 · Released | [Steam](https://store.steampowered.com/app/1426450/) |
+| [Age of Darkness: Final Stand](Game-1426450-Age-of-Darkness-Final-Stand) | 7/10 | 74.3% / 10,701 Steam reviews | Jan 15, 2025 · Released | [Steam](https://store.steampowered.com/app/1426450) |
+
+### Survival colonies & management neighbors
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [They Are Billions](Game-644930-They-Are-Billions) | 9/10 | 85.1% / 51,580 Steam reviews | Jun 18, 2019 · Released | [Steam](https://store.steampowered.com/app/644930) · [GOG](https://www.gog.com/en/game/they_are_billions) |
+| [Cataclismo](Game-1422440-Cataclismo) | 9/10 | 88.3% / 4,424 Steam reviews | Mar 20, 2025 · Released | [Steam](https://store.steampowered.com/app/1422440) · [GOG](https://www.gog.com/en/game/cataclismo) · [Steam](https://store.steampowered.com/app/2459000) |
+| [Age of Darkness: Final Stand](Game-1426450-Age-of-Darkness-Final-Stand) | 7/10 | 74.3% / 10,701 Steam reviews | Jan 15, 2025 · Released | [Steam](https://store.steampowered.com/app/1426450) |
 
 ### Zero Hour mods & overhauls
 

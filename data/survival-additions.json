@@ -1,0 +1,42 @@
+{
+  "steam": [
+    {
+      "name": "Haven & Hearth",
+      "appid": 3051280,
+      "hub": "Survival",
+      "collection": "Persistent servers & competitive survival",
+      "fit": 8,
+      "scope": "Hardcore online survival crafting",
+      "aliases": []
+    },
+    {
+      "name": "Wild West Legacy",
+      "appid": 1329880,
+      "hub": "Survival",
+      "collection": "Tribes, settlements & historical frontiers",
+      "fit": 7,
+      "scope": "Survival / settlement building",
+      "aliases": [
+        "Wild West Dynasty"
+      ]
+    },
+    {
+      "name": "Derelicts",
+      "appid": 1572000,
+      "hub": "Survival",
+      "collection": "Horror, strange worlds & expeditions",
+      "fit": 9,
+      "scope": "Survival crafting / horror",
+      "aliases": []
+    },
+    {
+      "name": "DUCKSIDE",
+      "appid": 2682580,
+      "hub": "Survival",
+      "collection": "Persistent servers & competitive survival",
+      "fit": 8,
+      "scope": "Online survival crafting",
+      "aliases": []
+    }
+  ]
+}

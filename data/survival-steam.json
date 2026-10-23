@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T22:52:09.995325+00:00",
+  "generatedAt": "2026-10-23T23:10:44.693291+00:00",
   "inputCount": 380,
   "items": [
     {
@@ -675,7 +675,6 @@
         "Early Access",
         "Fishing",
         "Indie",
-        "Minecraft-like worlds",
         "New voxel discoveries & experimental worlds",
         "Single-player listed",
         "Voxel survival crafting"
@@ -31083,7 +31082,6 @@
       ],
       "tags": [
         "Farming",
-        "Minecraft-like worlds",
         "New voxel discoveries & experimental worlds",
         "Simulation",
         "Single-player listed",
@@ -33362,7 +33360,6 @@
         "Massively Multiplayer",
         "Modding mentioned",
         "RPG",
-        "Survival",
         "Survival / systems adventure",
         "Underwater, co-op & systems-heavy detours"
       ],
@@ -61068,7 +61065,6 @@
         "Simulation",
         "Single-player listed",
         "Strategy",
-        "Survival",
         "Survival crafting"
       ],
       "features": [
@@ -81518,7 +81514,6 @@
         "Adventure",
         "Early Access",
         "Indie",
-        "Minecraft-like worlds",
         "New voxel discoveries & experimental worlds",
         "Procedural worlds",
         "Simulation",
@@ -103512,6 +103507,902 @@
         "descriptionExcerpt": "Take control of the train which will become your haven on the rails. Collect resources, craft equipment, construct a cozy house on railway cars, and travel through the carefully handcrafted locations to explore the story of a zombie apocalypse world. Features   Take control of the train  which will become your haven on the rails.            Explore the story  by traveling through the extensive and carefully handcrafted locations where each of which will require you to overcome some specific challenges.           Find a robotic companion.  Equip your robot with combat and support equipment to make your adventures easier.           Construct a home on railway cars.  Various workbenches, storage containers, dozens of decoration elements, and the possibility to place any inventory item on any surface, will allow you to unleash your creativity and build a cozy mobile house that will keep you safe from the dangers of the outer world.                   Fight against a horde of various zombies.  Each type of zombie has its own behavior, tactics, strengths, and weakness. Loot and craft different weapons to improve your survival capabilities.",
         "singlePlayerListed": true,
         "coopListed": false,
+        "dedicatedServerMentioned": false,
+        "moddingMentioned": false,
+        "terrainMentioned": false,
+        "basis": "Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option."
+      }
+    },
+    {
+      "id": "steam:3051280",
+      "appid": 3051280,
+      "seedId": "3051280",
+      "seedName": "Haven & Hearth",
+      "name": "Haven & Hearth",
+      "collection": "Persistent servers & competitive survival",
+      "fit": 8,
+      "summary": "A free-to-play MMORPG with crafting, building, landscaping, foraging, hunting, fishing, a dash of poetry, and open PvP combat,",
+      "developers": [
+        "Seatribe"
+      ],
+      "publishers": [
+        "Seatribe"
+      ],
+      "genres": [
+        "Massively Multiplayer",
+        "RPG",
+        "Free To Play",
+        "Early Access"
+      ],
+      "tags": [
+        "Creature taming",
+        "Early Access",
+        "Farming",
+        "Fishing",
+        "Free To Play",
+        "Hardcore online survival crafting",
+        "Massively Multiplayer",
+        "Persistent servers & competitive survival",
+        "Procedural worlds",
+        "PvP mentioned",
+        "RPG",
+        "Survival",
+        "Terrain / voxel systems"
+      ],
+      "features": [
+        "Multi-player",
+        "MMO",
+        "PvP",
+        "Online PvP",
+        "In-App Purchases",
+        "Family Sharing"
+      ],
+      "status": "Early Access",
+      "releaseDate": "2024-11-01",
+      "releaseLabel": "Nov 1, 2024",
+      "comingSoon": false,
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "discount": 0,
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "rating": 72.7,
+      "reviewCount": 1031,
+      "reviewLabel": "Mostly Positive",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T22:58:34.695786+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051280/header.jpg?t=1730481659",
+      "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051280/page_bg_raw.jpg?t=1730481659",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051280/ss_cf0887a7c869de4ed53ea1514683190274f2e59a.1920x1080.jpg?t=1730481659",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051280/ss_cf0887a7c869de4ed53ea1514683190274f2e59a.600x338.jpg?t=1730481659",
+          "sourceUrl": "https://store.steampowered.com/app/3051280/",
+          "alt": "Haven & Hearth official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051280/ss_1a337a001ee1139b7ec5891756fa667160c186c2.1920x1080.jpg?t=1730481659",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051280/ss_1a337a001ee1139b7ec5891756fa667160c186c2.600x338.jpg?t=1730481659",
+          "sourceUrl": "https://store.steampowered.com/app/3051280/",
+          "alt": "Haven & Hearth official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051280/ss_f4f420a747ea4c64dbafebe22f2f021e389d9955.1920x1080.jpg?t=1730481659",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051280/ss_f4f420a747ea4c64dbafebe22f2f021e389d9955.600x338.jpg?t=1730481659",
+          "sourceUrl": "https://store.steampowered.com/app/3051280/",
+          "alt": "Haven & Hearth official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051280/ss_f70eae89552bfcf08314738cf8f2cedbeae55e3b.1920x1080.jpg?t=1730481659",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051280/ss_f70eae89552bfcf08314738cf8f2cedbeae55e3b.600x338.jpg?t=1730481659",
+          "sourceUrl": "https://store.steampowered.com/app/3051280/",
+          "alt": "Haven & Hearth official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051280/ss_0002f265a1481a3490895b0f47116ae451c7147d.1920x1080.jpg?t=1730481659",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051280/ss_0002f265a1481a3490895b0f47116ae451c7147d.600x338.jpg?t=1730481659",
+          "sourceUrl": "https://store.steampowered.com/app/3051280/",
+          "alt": "Haven & Hearth official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Haven Medley",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257050375/movie.293x165.jpg?t=1727637494",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/3051280/747621/14327a30b6d1ef7d8cdc35324a5dd44228ac2d96/1750970830/hls_264_master.m3u8?t=1727637494",
+          "sourceUrl": "https://store.steampowered.com/app/3051280/",
+          "id": 257050375
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/3051280/",
+      "website": "https://www.havenandhearth.com/",
+      "verifiedAt": "2026-10-23T22:58:34.695786+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/3051280/",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:58:34.695786+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=3051280&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:58:34.695786+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3051280%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:58:34.695786+00:00"
+        }
+      ],
+      "warnings": [],
+      "hubs": [
+        "Survival"
+      ],
+      "collections": [
+        "Persistent servers & competitive survival"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/3051280/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "Hardcore online survival crafting",
+      "aliases": [],
+      "survivalSourceVersion": 1,
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/3051280/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:58:34.695862+00:00"
+        }
+      ],
+      "demoAppids": [],
+      "survivalEvidence": {
+        "sourceUrl": "https://store.steampowered.com/app/3051280/",
+        "descriptionExcerpt": "Haven & Hearth is a MMORPG (Massive Multiplayer Online Roleplaying Game) set in a fictional world loosely inspired by Slavic and Germanic myth and legend. The game sets itself apart from other games in the genre in its aim to provide players with an interactive, affectable and mutable game world, which can be permanently and fundamentally changed and affected through actions undertaken by the players. Our fundamental goal with Haven & Hearth is to create a game in which player choices have permanent and/or lasting effects and, thus, providing said players with a meaningful and fun gaming experience. Skills & Attributes    Develop your character to unlock new  Skills ,  Abilities , and  Credos .    Devour sumptuous feasts of food and drink to increase your  Strength ,  Intelligence ,  Agility  and other base  Attributes .    Study sundry  Curiosities  of nature and artifice to gain  Learning Points  to increase your  Farming ,  Masonry ,  Exploration  and other  Abilities .    Experience oddities and obscure situations to gain experience points and cast or incant the spells and charms of  Hearth Magic .     Discover materials  previously unknown to you to unlock new recipes for  Crafting  &  Building .   Hunting & Gathering    Slay vicious beasts of nature, flay their hides and tan for leather.    Make sausages of Boar, and smoke Sea Gull Meat.  Feasting  and a varied diet is im",
+        "singlePlayerListed": false,
+        "coopListed": false,
+        "dedicatedServerMentioned": false,
+        "moddingMentioned": false,
+        "terrainMentioned": true,
+        "basis": "Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option."
+      }
+    },
+    {
+      "id": "steam:1329880",
+      "appid": 1329880,
+      "seedId": "1329880",
+      "seedName": "Wild West Legacy",
+      "name": "Wild West Legacy",
+      "collection": "Tribes, settlements & historical frontiers",
+      "fit": 7,
+      "summary": "Conquer the Wild West. Explore the open world of a fictitious American Midwest and survive the harsh environment. Convince other settlers to join you and manage your ever-growing settlements. Build a home, take care of your farm and become a legend in Wild West Legacy.",
+      "developers": [
+        "Moon Punch Studio"
+      ],
+      "publishers": [
+        "Toplitz Productions"
+      ],
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Simulation"
+      ],
+      "tags": [
+        "Adventure",
+        "Farming",
+        "RPG",
+        "Simulation",
+        "Single-player listed",
+        "Survival",
+        "Survival / settlement building",
+        "Tribes, settlements & historical frontiers"
+      ],
+      "features": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Family Sharing"
+      ],
+      "status": "Released",
+      "releaseDate": "2024-08-22",
+      "releaseLabel": "Aug 22, 2024",
+      "comingSoon": false,
+      "free": false,
+      "price": "$26.99",
+      "priceMinor": 2699,
+      "currency": "USD",
+      "discount": 0,
+      "platforms": [
+        "windows"
+      ],
+      "rating": 36.8,
+      "reviewCount": 2149,
+      "reviewLabel": "Mostly Negative",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T22:58:34.695786+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/2619bc7f3907d36001177eca428670ab3508f93b/header.jpg?t=1774006419",
+      "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/53f18fc373a04db9ab66505888f31d3a9808c3a6/page_bg_raw.jpg?t=1774006419",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/16ae1916b291701fd9641cc09bb0650be1c68a49/ss_16ae1916b291701fd9641cc09bb0650be1c68a49.1920x1080.jpg?t=1774006419",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/16ae1916b291701fd9641cc09bb0650be1c68a49/ss_16ae1916b291701fd9641cc09bb0650be1c68a49.600x338.jpg?t=1774006419",
+          "sourceUrl": "https://store.steampowered.com/app/1329880/",
+          "alt": "Wild West Legacy official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/3e850810d35eea1104695b7876522b0c7c551a46/ss_3e850810d35eea1104695b7876522b0c7c551a46.1920x1080.jpg?t=1774006419",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/3e850810d35eea1104695b7876522b0c7c551a46/ss_3e850810d35eea1104695b7876522b0c7c551a46.600x338.jpg?t=1774006419",
+          "sourceUrl": "https://store.steampowered.com/app/1329880/",
+          "alt": "Wild West Legacy official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/865da320106176b712ef4363415a12b5cd105aaf/ss_865da320106176b712ef4363415a12b5cd105aaf.1920x1080.jpg?t=1774006419",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/865da320106176b712ef4363415a12b5cd105aaf/ss_865da320106176b712ef4363415a12b5cd105aaf.600x338.jpg?t=1774006419",
+          "sourceUrl": "https://store.steampowered.com/app/1329880/",
+          "alt": "Wild West Legacy official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/8e400e4855cb352b5ed273150b0d802ff1703b69/ss_8e400e4855cb352b5ed273150b0d802ff1703b69.1920x1080.jpg?t=1774006419",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/8e400e4855cb352b5ed273150b0d802ff1703b69/ss_8e400e4855cb352b5ed273150b0d802ff1703b69.600x338.jpg?t=1774006419",
+          "sourceUrl": "https://store.steampowered.com/app/1329880/",
+          "alt": "Wild West Legacy official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/afea92ba78a13d07811daa4fd13e61856899bce7/ss_afea92ba78a13d07811daa4fd13e61856899bce7.1920x1080.jpg?t=1774006419",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/afea92ba78a13d07811daa4fd13e61856899bce7/ss_afea92ba78a13d07811daa4fd13e61856899bce7.600x338.jpg?t=1774006419",
+          "sourceUrl": "https://store.steampowered.com/app/1329880/",
+          "alt": "Wild West Legacy official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/864e2f67b0fb563f85812e2e295286f53dfdead8/ss_864e2f67b0fb563f85812e2e295286f53dfdead8.1920x1080.jpg?t=1774006419",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/864e2f67b0fb563f85812e2e295286f53dfdead8/ss_864e2f67b0fb563f85812e2e295286f53dfdead8.600x338.jpg?t=1774006419",
+          "sourceUrl": "https://store.steampowered.com/app/1329880/",
+          "alt": "Wild West Legacy official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Wild West Legacy - Release Trailer (EN)",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257305287/c900cbb36383859e003b7fb0449f54fa15925c16/movie_600x337.jpg?t=1774006412",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/1329880/1144253057/773abacf7e99c0f5ed37781d0c0d16f0256ba9bf/1773826749/hls_264_master.m3u8?t=1774006412",
+          "sourceUrl": "https://store.steampowered.com/app/1329880/",
+          "id": 257305287
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/1329880/",
+      "website": "https://www.toplitz-productions.com/home.html",
+      "verifiedAt": "2026-10-23T22:58:34.695786+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/1329880/",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:58:34.695786+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=1329880&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:58:34.695786+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1329880%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:58:34.695786+00:00"
+        }
+      ],
+      "warnings": [],
+      "hubs": [
+        "Survival"
+      ],
+      "collections": [
+        "Tribes, settlements & historical frontiers"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/1329880/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "Survival / settlement building",
+      "aliases": [
+        "Wild West Dynasty"
+      ],
+      "survivalSourceVersion": 1,
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/1329880/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:58:34.695862+00:00"
+        }
+      ],
+      "demoAppids": [],
+      "survivalEvidence": {
+        "sourceUrl": "https://store.steampowered.com/app/1329880/",
+        "descriptionExcerpt": "Explore the open world of a fictitious American Midwest and survive the harsh environment. Convince other settlers to join you and manage your ever-growing settlements. Build a home, take care of your farm and become a legend in Wild West Legacy.   SURVIVE, BUILD, MANAGE   Conquer the harsh environment. Survive the elements. Build your homestead and convince other settlers to join you. Manage natural and human resources, so not only you but also the whole settlement will prosper. This is your chance to show how the West was won.               A STORY OF HOPE AND REDEMPTION   After an attack on your trek, you are left for dead in the middle of nowhere. Fueled by the sheer will to survive, you have to uncover the dark secret that the frontier holds and become the driving force behind the expansion of the Wild West.    BUILDING A LIFE   You might start by just building a simple house for yourself. But before you know it, you have to manage a full settlement with inhabitants and their needs and of course the required resources to progress. And don’t forget to decorate the buildings with a huge number of craftable items and furniture. DIY has never been this easy.     SURVIVAL OF THE FITTEST   Blistering cold nights, searing midday sun, seasonal changes and even wild animals: Surviving the frontier is not easy. Make sure you have everything you need to withstand whatever nature thro",
+        "singlePlayerListed": true,
+        "coopListed": false,
+        "dedicatedServerMentioned": false,
+        "moddingMentioned": false,
+        "terrainMentioned": false,
+        "basis": "Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option."
+      }
+    },
+    {
+      "id": "steam:1572000",
+      "appid": 1572000,
+      "seedId": "1572000",
+      "seedName": "Derelicts",
+      "name": "Derelicts",
+      "collection": "Horror, strange worlds & expeditions",
+      "fit": 9,
+      "summary": "Years after an ancient and enigmatic mechanism flooded Earth with radiation, you and your team are tasked with investigating the source of the incident. Build, craft and explore alone or with friends in this hostile, mysterious wasteland, using the power of electricity and water to survive.",
+      "developers": [
+        "Romain"
+      ],
+      "publishers": [
+        "Romain "
+      ],
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Co-op",
+        "Horror, strange worlds & expeditions",
+        "Single-player listed",
+        "Survival",
+        "Survival crafting / horror"
+      ],
+      "features": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "LAN Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Family Sharing"
+      ],
+      "status": "Upcoming",
+      "releaseDate": null,
+      "releaseLabel": "To be announced",
+      "comingSoon": true,
+      "free": false,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "discount": 0,
+      "platforms": [
+        "windows"
+      ],
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": "No user reviews",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T23:10:44.683098+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/header.jpg?t=1717947695",
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1572000?t=1717947695",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_714e4c785a8cba97c94fdf90478add4b486be107.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_714e4c785a8cba97c94fdf90478add4b486be107.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_66d6ea387d35b5112c6410e32deae624d3854bdc.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_66d6ea387d35b5112c6410e32deae624d3854bdc.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_a28ad65bb5d72911e5b38dd0733b28d22edbe788.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_a28ad65bb5d72911e5b38dd0733b28d22edbe788.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_edd0fd1c08a9a5f7c7f151ce579e694e505d1cf3.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_edd0fd1c08a9a5f7c7f151ce579e694e505d1cf3.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_3054897d9354493b9d78f8ec0c5ecbe310728c21.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_3054897d9354493b9d78f8ec0c5ecbe310728c21.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_2cabae895cb6ad7d7dee51ea16aea5cebb9ae438.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_2cabae895cb6ad7d7dee51ea16aea5cebb9ae438.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_debbe1faecf7c4e06b0cef8e61fb4f5b96cb6fb0.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_debbe1faecf7c4e06b0cef8e61fb4f5b96cb6fb0.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_bafc9dd8bf9b6747186a25be51f1d66d139aa98a.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_bafc9dd8bf9b6747186a25be51f1d66d139aa98a.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_420c439129cfea0747ad7a2aaf26310f15b012b2.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_420c439129cfea0747ad7a2aaf26310f15b012b2.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_1034935c3a72a3544d9b82e9476f0bb622713189.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_1034935c3a72a3544d9b82e9476f0bb622713189.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_dc8c41056bfa390988170b5a94330c407b58a079.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_dc8c41056bfa390988170b5a94330c407b58a079.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_e0ba18f83b44c2681b6648e80181ac302eb0704e.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_e0ba18f83b44c2681b6648e80181ac302eb0704e.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_f1e9bf4d59ef753cd968eececdc73a3de0abc25f.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_f1e9bf4d59ef753cd968eececdc73a3de0abc25f.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_4c06267fbb2f218f4caf0eca7003b135a68c601c.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_4c06267fbb2f218f4caf0eca7003b135a68c601c.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_3ae23fa61c70188c588781a1618f082dc67d6e22.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_3ae23fa61c70188c588781a1618f082dc67d6e22.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_cf5a5b7b6b04f80fdc0b5b429609089a1d7d9787.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_cf5a5b7b6b04f80fdc0b5b429609089a1d7d9787.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_d139241141a154649931dcfbc6422e84bffa0fa8.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_d139241141a154649931dcfbc6422e84bffa0fa8.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_4a5467453cab9998e031344da23c9d73cf483e14.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_4a5467453cab9998e031344da23c9d73cf483e14.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_52c3fe8f8786066fa33c1b865fde3053fca13027.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_52c3fe8f8786066fa33c1b865fde3053fca13027.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_f97a1a0c4539dae683a2cd6e6aa91cf36646a8c8.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_f97a1a0c4539dae683a2cd6e6aa91cf36646a8c8.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_363a8d0dead6fabdd23204b7b17a5c49f466bc73.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_363a8d0dead6fabdd23204b7b17a5c49f466bc73.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_e3fbce9c32e041182b1558c3bfa4cfe8dfbc8bea.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_e3fbce9c32e041182b1558c3bfa4cfe8dfbc8bea.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_e3fbce9c32e041182b1558c3bfa4cfe8dfbc8bea.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_e3fbce9c32e041182b1558c3bfa4cfe8dfbc8bea.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_e3fbce9c32e041182b1558c3bfa4cfe8dfbc8bea.1920x1080.jpg?t=1717947695",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572000/ss_e3fbce9c32e041182b1558c3bfa4cfe8dfbc8bea.600x338.jpg?t=1717947695",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "alt": "Derelicts official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Trailer1",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256868648/movie.293x165.jpg?t=1682433020",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/1572000/430935/9c42a855ee069b7769c9f4782d7274c36c73dfbe/1751004858/hls_264_master.m3u8?t=1682433020",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "id": 256868648
+        },
+        {
+          "name": "Trailer2",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256868669/movie.293x165.jpg?t=1642415647",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/1572000/430964/97caeb6f9b9d57f5c13befe0750da90c9ba8dfef/1751004858/hls_264_master.m3u8?t=1642415647",
+          "sourceUrl": "https://store.steampowered.com/app/1572000/",
+          "id": 256868669
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/1572000/",
+      "website": "https://derelictsgame.com/",
+      "verifiedAt": "2026-10-23T23:10:44.683098+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/1572000/",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.683098+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=1572000&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.683098+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1572000%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.683098+00:00"
+        }
+      ],
+      "warnings": [
+        "Small review sample"
+      ],
+      "hubs": [
+        "Survival"
+      ],
+      "collections": [
+        "Horror, strange worlds & expeditions"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/1572000/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "Survival crafting / horror",
+      "aliases": [],
+      "survivalSourceVersion": 1,
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/1572000/",
+          "kind": "wishlist",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.687554+00:00"
+        }
+      ],
+      "demoAppids": [],
+      "survivalEvidence": {
+        "sourceUrl": "https://store.steampowered.com/app/1572000/",
+        "descriptionExcerpt": "After crashing on Earth with a space shuttle, you and your friends have to start from scratch. Explore and build a base, then defend it against mutated animals and humans. Find the origin of the defense mechanism that triggered a wave of radiations on Earth, forcing the most privileged part of mankind to go and live on space stations.         Key features  Chop down trees, find metals and gather resources to build a cozy base to defend yourself from mutated wildlife.  Use the power of wind, sun and water to generate electricity and power up your base by building water wheels, wind turbines and solar panels.  Brace yourself for weather changes that will affect your electricity production (frozen rivers stopping your water wheels, night affecting your solar panel production...).    Build wooden gutters and use the water pumps & pipes to transport wood logs to your sawmills, automating your system to make planks.  Explore the world and find new recipes to make new tools and build parts that will allow you to progress further.  Be ready for thunderstorms, blizzards and other forces of nature affecting your daily life.  Find a dog companion to join you in this survival hell and help you fight.",
+        "singlePlayerListed": true,
+        "coopListed": true,
+        "dedicatedServerMentioned": false,
+        "moddingMentioned": false,
+        "terrainMentioned": false,
+        "basis": "Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option."
+      },
+      "recommendationCaution": "Watchlist only. Any offered demo is a separate development build, not the released full game."
+    },
+    {
+      "id": "steam:2682580",
+      "appid": 2682580,
+      "seedId": "2682580",
+      "seedName": "DUCKSIDE",
+      "name": "DUCKSIDE",
+      "collection": "Persistent servers & competitive survival",
+      "fit": 8,
+      "summary": "Imagine DayZ or Rust but you're a duck. A persistent world survival game with PVP, PVE, crafting, base building and hat wearing ducks, wielding weapons.",
+      "developers": [
+        "tinyBuild Riga"
+      ],
+      "publishers": [
+        "tinyBuild"
+      ],
+      "genres": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer",
+        "Simulation",
+        "Early Access"
+      ],
+      "tags": [
+        "Action",
+        "Co-op",
+        "Early Access",
+        "Indie",
+        "Massively Multiplayer",
+        "Online survival crafting",
+        "Persistent servers & competitive survival",
+        "Simulation",
+        "Survival"
+      ],
+      "features": [
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Co-op",
+        "Online Co-op",
+        "Family Sharing"
+      ],
+      "status": "Early Access",
+      "releaseDate": "2024-09-25",
+      "releaseLabel": "Sep 25, 2024",
+      "comingSoon": false,
+      "free": false,
+      "price": "$14.99",
+      "priceMinor": 1499,
+      "currency": "USD",
+      "discount": 0,
+      "platforms": [
+        "windows"
+      ],
+      "rating": 72.0,
+      "reviewCount": 3119,
+      "reviewLabel": "Mostly Positive",
+      "reviewError": null,
+      "reviewsVerifiedAt": "2026-10-23T23:10:44.683098+00:00",
+      "metacritic": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/header.jpg?t=1789402364",
+      "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/page_bg_raw.jpg?t=1789402364",
+      "screenshots": [
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/ss_f052e846b43fb25262983ec42156d027a8c784a9.1920x1080.jpg?t=1789402364",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/ss_f052e846b43fb25262983ec42156d027a8c784a9.600x338.jpg?t=1789402364",
+          "sourceUrl": "https://store.steampowered.com/app/2682580/",
+          "alt": "DUCKSIDE official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/ss_1042837381a754e04545debe27bf6f92f19be635.1920x1080.jpg?t=1789402364",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/ss_1042837381a754e04545debe27bf6f92f19be635.600x338.jpg?t=1789402364",
+          "sourceUrl": "https://store.steampowered.com/app/2682580/",
+          "alt": "DUCKSIDE official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/ss_fa0e0193869da256363c6690ec41db6834c48425.1920x1080.jpg?t=1789402364",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/ss_fa0e0193869da256363c6690ec41db6834c48425.600x338.jpg?t=1789402364",
+          "sourceUrl": "https://store.steampowered.com/app/2682580/",
+          "alt": "DUCKSIDE official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/ss_e4e73e642bb280a7a3d56f1d9ff555c77be07dab.1920x1080.jpg?t=1789402364",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/ss_e4e73e642bb280a7a3d56f1d9ff555c77be07dab.600x338.jpg?t=1789402364",
+          "sourceUrl": "https://store.steampowered.com/app/2682580/",
+          "alt": "DUCKSIDE official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        },
+        {
+          "src": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/ss_4a38b8b1cf17970609d9327abdc85377e2b24416.1920x1080.jpg?t=1789402364",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/ss_4a38b8b1cf17970609d9327abdc85377e2b24416.600x338.jpg?t=1789402364",
+          "sourceUrl": "https://store.steampowered.com/app/2682580/",
+          "alt": "DUCKSIDE official Steam screenshot",
+          "credit": "Developer / Steam",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "DUCKSIDE - EA!",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257058376/movie.293x165.jpg?t=1727273140",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/2682580/761170/5931e7a0ff071fd747eb9a5a4b5a6d6939354ed2/1750818621/hls_264_master.m3u8?t=1727273140",
+          "sourceUrl": "https://store.steampowered.com/app/2682580/",
+          "id": 257058376
+        },
+        {
+          "name": "DUCKSIDE - Demo Trailer!",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028864/movie.293x165.jpg?t=1721397468",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/2682580/710199/6ae737a41ee04d1ba6281375b32f135e4e1990ab/1750818621/hls_264_master.m3u8?t=1721397468",
+          "sourceUrl": "https://store.steampowered.com/app/2682580/",
+          "id": 257028864
+        },
+        {
+          "name": "DUCKSIDE - JOIN THE FLOCK",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257024860/movie.293x165.jpg?t=1727277089",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/2682580/703173/28ce8b05c097b8a1940c5c0332c5bc56c06db0ef/1750818617/hls_264_master.m3u8?t=1727277089",
+          "sourceUrl": "https://store.steampowered.com/app/2682580/",
+          "id": 257024860
+        },
+        {
+          "name": "DUCKSIDE - Gameplay",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257012500/movie.293x165.jpg?t=1711990815",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/2682580/681799/36e1b3de418ee6c91f8cc122fa52c0ec03327f23/1750818617/hls_264_master.m3u8?t=1711990815",
+          "sourceUrl": "https://store.steampowered.com/app/2682580/",
+          "id": 257012500
+        },
+        {
+          "name": "DUCKSIDE - Basics of survival",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010444/movie.293x165.jpg?t=1711119428",
+          "mp4": null,
+          "webm": null,
+          "hls": "https://video.akamai.steamstatic.com/store_trailers/2682580/678309/5e67d5eb6795df4714c68780d08fa6f7e5bd34de/1750818616/hls_264_master.m3u8?t=1711119428",
+          "sourceUrl": "https://store.steampowered.com/app/2682580/",
+          "id": 257010444
+        }
+      ],
+      "steamUrl": "https://store.steampowered.com/app/2682580/",
+      "website": "https://www.duckside.online/",
+      "verifiedAt": "2026-10-23T23:10:44.683098+00:00",
+      "verification": "verified",
+      "sources": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/2682580/",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.683098+00:00"
+        },
+        {
+          "provider": "Steam store API",
+          "url": "https://store.steampowered.com/api/appdetails?appids=2682580&l=english&cc=us",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.683098+00:00"
+        },
+        {
+          "provider": "Steam reviews API",
+          "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2682580%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.683098+00:00"
+        }
+      ],
+      "warnings": [],
+      "hubs": [
+        "Survival"
+      ],
+      "collections": [
+        "Persistent servers & competitive survival"
+      ],
+      "primaryUrl": "https://store.steampowered.com/app/2682580/",
+      "provider": "Steam",
+      "kind": "Standalone game",
+      "genreScope": "Online survival crafting",
+      "aliases": [],
+      "survivalSourceVersion": 1,
+      "storefronts": [
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/2682580/",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.687554+00:00"
+        }
+      ],
+      "demoAppids": [],
+      "survivalEvidence": {
+        "sourceUrl": "https://store.steampowered.com/app/2682580/",
+        "descriptionExcerpt": "Welcome to DUCKSIDE: persistent world survival... on QUACK             Over 10 million ducks get killed per year by hunters, a statistic that would be much lower if ducks were combat trained. Enter DUCKSIDE, a persistent world survival game like DayZ or Rust… but you’re a duck, and so is everybody else!!  It’s a hard Duck life     Wake up at the quack of dawn and put those webbed feet to use or take flight across an expansive island, where valuable resources and egg-citing treasures await any lucky duckys fortunate enough to discover them.            Are you a chicken? No, you’re a DUCK.     DUCKSIDE isn't just about surviving; it’s about getting into the mind of a duck. Being a duck. Feeling the cold steel of a machine gun on your feathers. The heat of a grenade exploding next to you. And the peace of mind that comes with settling down after a long day, in a house you built out of trash that you’d looted off some guy's corpse. Don’t be a chicken, be a firequacker.   Get your ducks in a row     Harvest resources, craft weapons and tools, and build shelters to protect your loot and your life.           How do Ducks even hold weapons and tools, you ask? Who cares silly goose? With a crafting system as deep and robust as this, they were wise to adapt, else they’d just be hanging around in ponds all day waiting to be added to that “10 million” statistic.   The sky(box) is the limit",
+        "singlePlayerListed": false,
+        "coopListed": true,
         "dedicatedServerMentioned": false,
         "moddingMentioned": false,
         "terrainMentioned": false,

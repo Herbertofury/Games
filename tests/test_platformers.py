@@ -16,6 +16,15 @@ class PlatformerTests(unittest.TestCase):
   held={i for i,x in json.loads((R/'data/metroidvania-review-decisions.json').read_text()).get('overrides',{}).items() if x.get('excludeFromPublication')}
   for file in ['metroidvania-steam.json','metroidvania-external.json']:
    expected.update(g['id'] for g in json.loads((R/'data'/file).read_text())['items'] if g['id'] not in held)
+  # The catalog has additional canonical hubs; preserve exact equality, not a subset check.
+  survival_overrides={}
+  for filename in ['survival-curation.json','survival-media.json']:
+   path=R/'data'/filename
+   if path.exists():
+    for ident,row in json.loads(path.read_text()).get('overrides',{}).items():survival_overrides.setdefault(ident,{}).update(row)
+  for filename in ['survival-steam.json','survival-external.json']:
+   path=R/'data'/filename
+   if path.exists():expected.update(g['id'] for g in json.loads(path.read_text())['items'] if not survival_overrides.get(g['id'],{}).get('excludeFromPublication'))
   self.assertEqual(expected,set(self.by));self.assertEqual(len(self.by),len(self.data['items']))
   self.assertEqual(self.data['build']['inputCount'],len(self.by))
  def test_all_discovery_candidates_reconciled(self):

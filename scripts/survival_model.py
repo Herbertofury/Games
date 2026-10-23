@@ -6,6 +6,9 @@ def load(root,name,default):
 
 def integrate(root,games):
  from source_links import normalized_links
+ for ident,previous in list(games.items()):
+  if previous.get("hubs") and set(previous["hubs"])<=set(HUBS):del games[ident]
+  elif any(h in HUBS for h in previous.get("hubs",[])):previous["hubs"]=[h for h in previous["hubs"] if h not in HUBS]
  steam=load(root,'survival-steam.json',{'items':[]});external=load(root,'survival-external.json',{'items':[]});overrides={}
  for filename in ['survival-storefronts.json','survival-curation.json','survival-media.json']:
   for ident,row in load(root,filename,{'overrides':{}}).get('overrides',{}).items():
@@ -63,4 +66,8 @@ def integrate(root,games):
   else:games[ident]=g
   ids.append(ident)
  dates=[x.get('generatedAt') for x in [steam,external] if x.get('generatedAt')];review=load(root,'survival-reconciliation.json',{})
- return {'ids':sorted(set(ids)),'generatedAt':max(dates) if dates else None,'unresolved':review.get('unresolved',steam.get('unresolved',[])),'dispositions':review.get('dispositions',steam.get('dispositions',[])+external.get('dispositions',[]))+excluded}
+ names={g['id']:g['name'] for g in steam['items']+external['items']}
+ dispositions=copy.deepcopy(review.get('dispositions',steam.get('dispositions',[])+external.get('dispositions',[]))+excluded)
+ for record in dispositions:
+  record.setdefault('candidate',names.get(record.get('id'),record.get('id') or 'Unresolved discovery'))
+ return {'ids':sorted(set(ids)),'generatedAt':max(dates) if dates else None,'unresolved':review.get('unresolved',steam.get('unresolved',[])),'dispositions':dispositions}

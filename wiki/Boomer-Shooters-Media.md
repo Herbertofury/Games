@@ -542,7 +542,7 @@ A characterful tiny-audience discovery. Try the prototype first rather than trea
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=r1OXEEewNeY)  
 
-[itch.io](https://anttironkkagames.itch.io/kauna)
+[itch.io (download)](https://anttironkkagames.itch.io/kauna)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Akauna-prototype)
 
@@ -559,7 +559,7 @@ An experimental deep cut, not a polished 2026 standalone release. The old public
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=nZgowdanpIA)  
 
-[ModDB](https://www.moddb.com/mods/vietdoom) | [Patreon (support)](https://www.patreon.com/sgtmarkiv)
+[ModDB (download)](https://www.moddb.com/mods/vietdoom) | [Patreon (support)](https://www.patreon.com/sgtmarkiv)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Avietdoom)
 
@@ -806,7 +806,7 @@ A stylish adjacent pick, not a conventional gun shooter. Its handcrafted first-p
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=gF8Z90Saz0Q)  
 
-[itch.io](https://batandy.itch.io/simonsdestiny) | [Patreon (support)](https://www.patreon.com/Batandy)
+[itch.io (download)](https://batandy.itch.io/simonsdestiny) | [Patreon (support)](https://www.patreon.com/Batandy)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Asimons-destiny)
 
@@ -1053,7 +1053,7 @@ Shrine II is a retro FPS game with a focus on atmosphere and exploration. Explor
 
 [Watch: Shrine 2 Trailer](https://store.steampowered.com/app/1417010/)  
 
-[Steam](https://store.steampowered.com/app/1417010/) | [Patreon (support)](https://www.patreon.com/scumhead) | [itch.io - free full game](https://scumhead.itch.io/shrine-ii)
+[Steam](https://store.steampowered.com/app/1417010/) | [Patreon (support)](https://www.patreon.com/scumhead) | [itch.io - free full game (download)](https://scumhead.itch.io/shrine-ii)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=steam%3A1417010)
 
@@ -1091,7 +1091,7 @@ An approachable free introduction to Scumhead's horror work. The original Shrine
 
 [Watch: Shrine - official release trailer](https://store.steampowered.com/app/1271050/)  
 
-[itch.io](https://scumhead.itch.io/shrine) | [Patreon (support)](https://www.patreon.com/scumhead) | [Steam](https://store.steampowered.com/app/1271050/)
+[itch.io (download)](https://scumhead.itch.io/shrine) | [Patreon (support)](https://www.patreon.com/scumhead) | [Steam](https://store.steampowered.com/app/1271050/)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Ashrine)
 
@@ -1108,7 +1108,7 @@ A striking example of what the Doom mod scene can build, but slower and more sur
 
 [Watch: Total Chaos - original mod trailer](https://www.youtube.com/watch?v=6J0jmlAdDo4)  
 
-[ModDB](https://www.moddb.com/mods/total-chaos) | [ModDB](https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140) | [GOG - free mod edition](https://www.gog.com/en/game/total_chaos_mod)
+[ModDB (download)](https://www.moddb.com/mods/total-chaos) | [ModDB (download)](https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140) | [GOG - free mod edition (download)](https://www.gog.com/en/game/total_chaos_mod)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Atotal-chaos-original)
 
@@ -1181,7 +1181,7 @@ A small paid curiosity for fans of the base game's grimy tone. The itch.io versi
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=MmuTnblLduQ)  
 
-[itch.io](https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow)
+[itch.io (download)](https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Adead-trash-yellow-snow)
 
@@ -1882,7 +1882,7 @@ The essential older counterweight to the newest jams: worth keeping beside Dwell
 
 [Watch: Arcane Dimensions - part 1 gameplay](https://www.youtube.com/watch?v=Ro6k5xAAknQ)  
 
-[ModDB](https://www.moddb.com/mods/arcane-dimensions)
+[ModDB (download)](https://www.moddb.com/mods/arcane-dimensions)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Aarcane-dimensions)
 
@@ -1899,7 +1899,7 @@ One of the richer Quake-world discoveries. The released episodes are substantial
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=dpTfgODVMHw)  
 
-[ModDB](https://www.moddb.com/mods/dwell) | [Slipseer](https://www.slipseer.com/index.php?resources/dwell.21/)
+[ModDB (download)](https://www.moddb.com/mods/dwell) | [Slipseer (download)](https://www.slipseer.com/index.php?resources/dwell.21/)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Adwell)
 
@@ -1916,7 +1916,7 @@ One of the strongest free discoveries here: striking environments and a full-siz
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=vquTPCYbOxk)  
 
-[ModDB](https://www.moddb.com/mods/quake-brutalist-jam-iii) | [ModDB standalone](https://www.moddb.com/mods/quake-brutalist-jam-iii/downloads/qbj3-v13-standalone) | [Slipseer](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/)
+[ModDB (download)](https://www.moddb.com/mods/quake-brutalist-jam-iii) | [ModDB standalone (download)](https://www.moddb.com/mods/quake-brutalist-jam-iii/downloads/qbj3-v13-standalone) | [Slipseer (download)](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Aqbj3)
 
@@ -1935,7 +1935,7 @@ A big 2026 campaign for someone who wants more Quake exploration rather than a n
 
 [Watch: Tremor - episode 1 community playthrough](https://www.youtube.com/watch?v=pNJt3fR97f0)  
 
-[ModDB](https://www.moddb.com/mods/tremor-an-alternate-version-of-quake) | [Slipseer](https://www.slipseer.com/index.php?resources/tremor.614/)
+[ModDB (download)](https://www.moddb.com/mods/tremor-an-alternate-version-of-quake) | [Slipseer (download)](https://www.slipseer.com/index.php?resources/tremor.614/)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Atremor)
 
@@ -2731,7 +2731,7 @@ Start here for the free underground scene: a substantial world and atmosphere ra
 [Watch: Creator-published video](https://www.youtube.com/watch?v=jSFOMWy2YDs)  
 [Watch: Creator-published video](https://www.youtube.com/watch?v=1BR-BHKqGq4)  
 
-[ModDB](https://www.moddb.com/mods/ashes-2063)
+[ModDB (download)](https://www.moddb.com/mods/ashes-2063)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Aashes-2063)
 
@@ -2748,7 +2748,7 @@ A must-investigate pick for Blood fans. The new overhaul matters more than its o
 
 [Watch: Death Wish - 2026 Refreshed Supply edition trailer](https://www.youtube.com/watch?v=PCP0yZtq2OQ)  
 
-[ModDB](https://www.moddb.com/mods/death-wish-for-blood)
+[ModDB (download)](https://www.moddb.com/mods/death-wish-for-blood)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Adeath-wish)
 
@@ -2765,7 +2765,7 @@ One of the most distinctive free mod recommendations: an entire adventure rather
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=yFiuRKPftoA)  
 
-[itch.io](https://batandy.itch.io/goldensouls2) | [Patreon (support)](https://www.patreon.com/Batandy)
+[itch.io (download)](https://batandy.itch.io/goldensouls2) | [Patreon (support)](https://www.patreon.com/Batandy)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Agolden-souls-2)
 
@@ -2784,7 +2784,7 @@ A substantial standalone campaign outside the big stores. Its ambitious presenta
 
 [Watch: Blade of Agony - intro and first mission briefing](https://www.youtube.com/watch?v=eBvWz4KHlEE)  
 
-[Official site](https://boa.realm667.com/) | [ModDB](https://www.moddb.com/mods/wolfendoom-blade-of-agony)
+[Official site (download)](https://boa.realm667.com/) | [ModDB (download)](https://www.moddb.com/mods/wolfendoom-blade-of-agony)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Ablade-of-agony)
 
@@ -2801,7 +2801,7 @@ A genuinely recent reason to revisit Ashes. Expect remixed spaces, new dialogue,
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=A5NwC_VKKt4)  
 
-[ModDB](https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater)
+[ModDB (download)](https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Aashes-blackwater)
 
@@ -2818,7 +2818,7 @@ Keep it as a gameplay-mod recommendation, not a separate campaign. Pair it only 
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=Ae9DNXrUInM)  
 
-[ModDB](https://www.moddb.com/mods/brutal-doom) | [Patreon (support)](https://www.patreon.com/sgtmarkiv)
+[ModDB (download)](https://www.moddb.com/mods/brutal-doom) | [Patreon (support)](https://www.patreon.com/sgtmarkiv)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Abrutal-doom)
 
@@ -2837,7 +2837,7 @@ A creative change of pace when you want secrets, jumping challenges, and whimsic
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=KuB89FTcpps)  
 
-[itch.io](https://batandy.itch.io/goldensouls) | [Patreon (support)](https://www.patreon.com/Batandy)
+[itch.io (download)](https://batandy.itch.io/goldensouls) | [Patreon (support)](https://www.patreon.com/Batandy)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Agolden-souls)
 
@@ -2854,7 +2854,7 @@ A promising mod-scene discovery for horror FPS fans; it is deliberately separate
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=6OA-PANaPPY)  
 
-[itch.io](https://dithered-output.itch.io/siren-doom-ii-mod)
+[itch.io (download)](https://dithered-output.itch.io/siren-doom-ii-mod)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Asiren)
 
@@ -2878,7 +2878,7 @@ A sharp, free older pick from Vlambeer. Best approached as a replayable score-an
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=L7JNczDp3UM)  
 
-[itch.io](https://vlambeer.itch.io/gun-godz)
+[itch.io (download)](https://vlambeer.itch.io/gun-godz)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Agun-godz)
 
@@ -2895,7 +2895,7 @@ A genuinely unusual browser-first gem. It trades modern fidelity for clever desi
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=Dx7Zr9M5IcA)  
 
-[itch.io](https://freds72.itch.io/poom) | [Newgrounds](https://www.newgrounds.com/portal/view/774331)
+[itch.io (download)](https://freds72.itch.io/poom) | [Newgrounds (browser)](https://www.newgrounds.com/portal/view/774331)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Apoom)
 
@@ -2912,7 +2912,7 @@ An excellent deep cut for chunky sci-fi environments and deliberate exploration,
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=EoCw7D01OWk)  
 
-[itch.io](https://arcturusdeluxe.itch.io/project-osiris)
+[itch.io (download)](https://arcturusdeluxe.itch.io/project-osiris)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Aproject-osiris)
 
@@ -2931,7 +2931,7 @@ A genuine niche-host discovery with a 2026 update trail. Its small review pool m
 
 [Watch: Creator-published video](https://www.youtube.com/watch?v=dkiKLAm2xEs)  
 
-[itch.io](https://ez4e99.itch.io/boom-defense-of-abydos)
+[itch.io (download)](https://ez4e99.itch.io/boom-defense-of-abydos)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Boomer+shooters&game=external%3Aboom-abydos)
 

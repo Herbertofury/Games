@@ -1,0 +1,773 @@
+{
+  "generatedAt": "2026-10-23T23:10:44.693291+00:00",
+  "overrides": {
+    "steam:3604780": {
+      "excludeFromPublication": true,
+      "publicationReason": "Genre review: a Lovecraftian ship-repair business simulator, not the survival-crafting world requested. Source metadata retained in research."
+    },
+    "steam:1933840": {
+      "excludeFromPublication": true,
+      "publicationReason": "Genre review: Moon Mystery is a narrative sci-fi shooter, not an open-world survival-crafting recommendation.",
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1567190": {
+      "excludeFromPublication": true,
+      "publicationReason": "Genre review: Shores of Plunder emphasizes competitive pirate modes, not the Minecraft-like survival world category.",
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:4861650": {
+      "excludeFromPublication": true,
+      "publicationReason": "Unresolved media: the unreleased FrontierCraft listing has no confirmed matching video. Retained as a research candidate, not a fully documented recommendation."
+    },
+    "external:wildraft": {
+      "excludeFromPublication": true,
+      "publicationReason": "Unresolved media: the creator page's linked video resolves to an unrelated Doctor Who title. Do not publish it as game footage; keep the discovery for further verification."
+    },
+    "steam:2692740": {
+      "hubs": [
+        "Survival"
+      ],
+      "collection": "Independent survival discoveries",
+      "collections": [
+        "Independent survival discoveries"
+      ],
+      "genreScope": "Card-based survival / adjacent",
+      "recommendationCaution": "Card-based resource survival, not a voxel construction game."
+    },
+    "steam:3480890": {
+      "hubs": [
+        "Survival"
+      ],
+      "collection": "Tribes, settlements & historical frontiers",
+      "collections": [
+        "Tribes, settlements & historical frontiers"
+      ],
+      "genreScope": "Settlement management / survival-adjacent",
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:3764710": {
+      "hubs": [
+        "Survival"
+      ],
+      "collection": "Oceans, pirates & floating homes",
+      "collections": [
+        "Oceans, pirates & floating homes"
+      ],
+      "genreScope": "Island survival crafting",
+      "confidence": "Exploratory",
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:227860": {
+      "genreScope": "Voxel colony strategy / survival-adjacent",
+      "collection": "Automation, factories & creative neighbors",
+      "collections": [
+        "Automation, factories & creative neighbors"
+      ],
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:253250": {
+      "genreScope": "Voxel colony survival / adjacent",
+      "collection": "Automation, factories & creative neighbors",
+      "collections": [
+        "Automation, factories & creative neighbors"
+      ]
+    },
+    "steam:2736900": {
+      "hubs": [
+        "Minecraft-like worlds"
+      ],
+      "collection": "Automation, factories & creative neighbors",
+      "collections": [
+        "Automation, factories & creative neighbors"
+      ],
+      "genreScope": "Factory automation / survival-adjacent",
+      "confidence": "Exploratory",
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:3116730": {
+      "genreScope": "Roguelite caravan survival / adjacent",
+      "collection": "Road trips & mobile bases",
+      "collections": [
+        "Road trips & mobile bases"
+      ],
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:1532200": {
+      "genreScope": "Physics construction / survival-adjacent"
+    },
+    "steam:1534980": {
+      "genreScope": "Turn-based zombie survival / adjacent"
+    },
+    "steam:351700": {
+      "genreScope": "Turn-based wilderness survival / adjacent",
+      "originalReleaseYear": 1992
+    },
+    "steam:3051280": {
+      "requirements": "Hardcore online PvP with permanent character death and world resets. Read the current rules and monetization details before committing; this is not a private, relaxed co-op sandbox.",
+      "curatorWhy": "A deep and unusual homesteading MMO with crafting, settlement growth and real danger from other players. Best for players who deliberately want harsh persistent-world stakes."
+    },
+    "steam:1329880": {
+      "aliases": [
+        "Wild West Dynasty"
+      ],
+      "originalReleaseYear": 2023,
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "external:luun": {
+      "status": "Prototype",
+      "recommendationCaution": "Exploratory unfinished project. Public demo and paid development build are different editions; development footage is historical."
+    },
+    "steam:3041230": {
+      "curatorWhy": "The most direct pirate-survival match for this request: a personal base, a ship, exploration, crafting and land/sea combat. Still Early Access, with separate storefronts and evolving systems."
+    },
+    "steam:440900": {
+      "curatorWhy": "For the Conan side of your taste: monumental bases, dangerous expeditions and character progression in a brutal fantasy setting. Choose solo, PvE co-op or competitive servers deliberately."
+    },
+    "steam:2399830": {
+      "curatorWhy": "For spectacular creature collecting, taming and ambitious bases. The newer ARK edition is demanding and its reception is mixed, so performance and server choice matter more than the screenshot appeal.",
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:346110": {
+      "curatorWhy": "The older, content-heavy ARK route. Keep its ecosystem and purchases separate from Survival Ascended rather than assuming an upgrade or cross-compatible saves."
+    },
+    "steam:892970": {
+      "curatorWhy": "A particularly strong long-term world for a small group: build a settlement, prepare expeditions and steadily push into more dangerous biomes. Its original Early Access release was in 2021."
+    },
+    "steam:1203620": {
+      "curatorWhy": "A strong choice when building and adventurous exploration matter as much as eating and drinking. Handcrafted fantasy discovery with an unusually expressive construction system."
+    },
+    "steam:1623730": {
+      "curatorWhy": "For creature-assisted production, collecting and cooperative base-building. A lighter systemic direction than hard wilderness simulation, with its development status kept visible."
+    },
+    "steam:2646460": {
+      "curatorWhy": "For the tribe-management side of Conan: recruit people, develop a settlement and explore a dangerous world. More systems-heavy than a simple gather-and-build loop."
+    },
+    "steam:427410": {
+      "curatorWhy": "A standout co-op change of setting: improvise a home and equipment inside a strange research facility rather than another familiar forest."
+    },
+    "steam:962130": {
+      "curatorWhy": "A backyard becomes an enormous survival world. Especially appealing for carefully designed exploration, distinctive creatures and creative bases."
+    },
+    "steam:264710": {
+      "curatorWhy": "One of the strongest exploration-first survival choices: build the equipment that lets you reach the next depth, then discover why you should be afraid of it. The original is single-player."
+    },
+    "steam:648800": {
+      "curatorWhy": "For turning a tiny floating platform into a moving home with friends. The old itch.io prototype is labelled separately from the much larger commercial release."
+    },
+    "steam:1564600": {
+      "curatorWhy": "A compelling lesser-known choice for tactile, demanding survival and settlement work. Better suited to deliberate preparation than fast arcade resource gathering."
+    },
+    "steam:1857950": {
+      "curatorWhy": "For a first-person, systems-heavy zombie sandbox with building and scavenging. Inspect its Early Access status and player feedback before expecting a finished Zomboid replacement."
+    },
+    "steam:2353250": {
+      "curatorWhy": "A good hidden-gem direction for players who want Subnautica-style progression in space: gather, craft and expand a base around the needs of exploration."
+    },
+    "steam:2570210": {
+      "curatorWhy": "For cooperative restoration and large-scale transformation of a hostile planet, with automation and crafting as the route forward."
+    },
+    "steam:951440": {
+      "curatorWhy": "A mobile drilling machine gives the usual survival base a purpose and a personality. Explore, manufacture and retreat underground instead of defending a static cabin."
+    },
+    "steam:1374490": {
+      "curatorWhy": "A recognizable fantasy setting with survival construction, magic and cooperative expeditions. Kept separate from the main RuneScape MMO."
+    },
+    "steam:105600": {
+      "curatorWhy": "The reference point for 2D survival progression: a dig becomes a mine, a mine becomes an expedition, and every boss opens more crafting possibilities."
+    },
+    "steam:1621690": {
+      "curatorWhy": "For the Terraria feeling from a top-down perspective: mining, food, equipment, bosses and a shared underground home."
+    },
+    "steam:1169040": {
+      "curatorWhy": "For a Terraria-like adventure with a settlement that can work alongside you. A strong choice for people who like both expedition progress and managing a growing home."
+    },
+    "steam:211820": {
+      "curatorWhy": "For a broader, more exploratory 2D sandbox with planets, building and a large community. Treat its current development and mod compatibility separately from newer games."
+    },
+    "steam:315460": {
+      "curatorWhy": "A smaller, focused 2D survival option where the engineering and defense of your base really matter, rather than building purely for decoration."
+    },
+    "steam:876650": {
+      "curatorWhy": "A compact-looking game that grows into a surprisingly broad mining, crafting and exploration adventure. Good when you want clear progression rather than a completely directionless sandbox."
+    },
+    "steam:324080": {
+      "curatorWhy": "A detailed building-focused sandbox for players who enjoy shaping terrain and constructing ambitious homes. Follow the current edition notes as its technology and content evolve."
+    },
+    "steam:382310": {
+      "curatorWhy": "An unusually social building world where a shared economy and ecological consequences matter. A deliberate community project rather than an uncomplicated solo Minecraft substitute."
+    },
+    "steam:2253100": {
+      "curatorWhy": "A newer floating-island voxel adventure with survival and construction. Worth investigating for the Minecraft-like shelf, with its Early Access limitations visible."
+    },
+    "steam:2776090": {
+      "curatorWhy": "A newer block-world discovery centered on a world you can reshape. Particularly relevant to the request, while current reception and sample size remain visible."
+    },
+    "steam:3495730": {
+      "curatorWhy": "An unusual, dreamlike block-world direction rather than a conventional realistic survival game. Explore its trailer before assuming it has the tone of Minecraft or Vintage Story."
+    },
+    "steam:3516590": {
+      "curatorWhy": "A newer voxel-sandbox discovery for the dedicated Minecraft-like section. Its creator support page is separate from the game purchase."
+    },
+    "steam:1072420": {
+      "curatorWhy": "For building with a strong campaign and a charming world rather than pure hunger pressure. An explicitly labelled sandbox-adventure neighbor with clear creative goals."
+    },
+    "steam:233860": {
+      "curatorWhy": "A harsh, open-ended squad RPG where survival stories emerge from the world. Not first-person crafting, but an excellent deep-systems detour."
+    },
+    "steam:1963610": {
+      "curatorWhy": "For tense survival expeditions and careful equipment management. Creator support, public development builds and the current full-game edition are distinguished."
+    },
+    "external:minecraft": {
+      "tags": [
+        "Co-op",
+        "Modding mentioned"
+      ],
+      "survivalInfoOverride": {
+        "solo": "Solo play supported by the creator; exact offline/authentication rules vary by edition",
+        "coop": "Multiplayer/co-op described by the creator; do not infer cross-play between editions",
+        "terrain": "Block or construction systems are a central part of the game",
+        "modding": "Java mods and Bedrock add-ons are distinct ecosystems",
+        "hosting": "Official Java and Bedrock server downloads and optional Realms; editions are separate"
+      }
+    },
+    "external:vintage-story": {
+      "tags": [
+        "Co-op",
+        "Modding mentioned"
+      ],
+      "survivalInfoOverride": {
+        "solo": "Solo play supported by the creator; exact offline/authentication rules vary by edition",
+        "coop": "Multiplayer/co-op described by the creator; do not infer cross-play between editions",
+        "terrain": "Block or construction systems are a central part of the game"
+      }
+    },
+    "external:hytale": {
+      "tags": [
+        "Co-op",
+        "Modding mentioned"
+      ],
+      "survivalInfoOverride": {
+        "solo": "Solo play supported by the creator; exact offline/authentication rules vary by edition",
+        "coop": "Multiplayer/co-op described by the creator; do not infer cross-play between editions",
+        "terrain": "Block or construction systems are a central part of the game"
+      }
+    },
+    "external:lego-fortnite-odyssey": {
+      "tags": [
+        "Co-op"
+      ],
+      "survivalInfoOverride": {
+        "solo": "Solo play supported by the creator; exact offline/authentication rules vary by edition",
+        "coop": "Multiplayer/co-op described by the creator; do not infer cross-play between editions",
+        "terrain": "Block or construction systems are a central part of the game"
+      }
+    },
+    "steam:251570": {},
+    "steam:2541530": {},
+    "steam:2375790": {},
+    "steam:1336490": {},
+    "steam:1426450": {},
+    "steam:1795570": {},
+    "steam:1660080": {},
+    "steam:1675260": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:897730": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:536270": {},
+    "steam:325210": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1463730": {},
+    "steam:2074620": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1898300": {},
+    "steam:1833210": {},
+    "steam:361420": {},
+    "steam:834910": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "steam:1798230": {},
+    "steam:1125390": {},
+    "steam:445220": {},
+    "steam:602960": {},
+    "steam:719890": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1812450": {},
+    "steam:270110": {},
+    "steam:223490": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "steam:1682000": {},
+    "steam:3576870": {},
+    "steam:5431210": {},
+    "steam:324510": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1203180": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:738520": {},
+    "steam:2412960": {},
+    "steam:2868860": {},
+    "steam:1694420": {},
+    "steam:1422440": {},
+    "steam:2330750": {
+      "requirements": "The Steam edition is a paid distribution of a free open-source project. Official free builds are a separate route; do not confuse this with the Bright Nights fork."
+    },
+    "steam:2075100": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1016800": {},
+    "steam:487120": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1700870": {},
+    "steam:366090": {},
+    "steam:248390": {},
+    "steam:1307550": {},
+    "steam:391730": {},
+    "steam:1401730": {},
+    "steam:280520": {},
+    "steam:280790": {},
+    "steam:829590": {},
+    "steam:3400000": {},
+    "steam:257050": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "steam:274520": {},
+    "steam:2059530": {},
+    "steam:858810": {},
+    "steam:221100": {},
+    "steam:1702260": {},
+    "steam:1621070": {},
+    "steam:895400": {},
+    "steam:1241040": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1686130": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:2710040": {},
+    "steam:1048950": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:671510": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1450900": {},
+    "steam:3116870": {},
+    "steam:1478650": {},
+    "steam:446790": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1062520": {},
+    "steam:635200": {},
+    "steam:219740": {},
+    "steam:322330": {},
+    "steam:2436570": {},
+    "steam:3629430": {},
+    "steam:1206670": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:2625420": {},
+    "steam:1172710": {},
+    "steam:5157580": {},
+    "steam:2943280": {},
+    "steam:846770": {},
+    "steam:2430390": {},
+    "steam:238240": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 5
+    },
+    "steam:2135150": {},
+    "steam:1271150": {},
+    "steam:383120": {},
+    "steam:933820": {},
+    "steam:2144640": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:4981810": {},
+    "steam:655290": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:427520": {},
+    "steam:2966240": {},
+    "steam:286340": {},
+    "steam:1363900": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "steam:764920": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:751780": {},
+    "steam:568570": {},
+    "steam:1316230": {},
+    "steam:1641960": {},
+    "steam:254200": {},
+    "steam:3152110": {},
+    "steam:983870": {},
+    "steam:323190": {},
+    "steam:1601580": {},
+    "steam:3517740": {},
+    "steam:715400": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1029780": {},
+    "steam:1617120": {},
+    "steam:815370": {},
+    "steam:1782330": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:2661300": {},
+    "steam:5379330": {},
+    "steam:656240": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "steam:4349940": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:632300": {},
+    "steam:1510440": {},
+    "steam:250400": {},
+    "steam:360170": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1766060": {},
+    "steam:5218590": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:1106840": {},
+    "steam:1149460": {},
+    "steam:4428380": {},
+    "steam:5187050": {},
+    "steam:697550": {},
+    "steam:446020": {},
+    "steam:414190": {},
+    "steam:1697880": {},
+    "steam:747200": {},
+    "steam:903950": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:332310": {},
+    "steam:1335830": {},
+    "steam:496460": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:290080": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:2719590": {},
+    "steam:4018330": {},
+    "steam:1931180": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:2408820": {},
+    "steam:1686230": {},
+    "steam:1129580": {},
+    "steam:223510": {},
+    "steam:1934040": {},
+    "steam:914620": {},
+    "steam:1520370": {},
+    "steam:4790660": {},
+    "steam:1625450": {},
+    "steam:516750": {},
+    "steam:4164420": {},
+    "steam:1371580": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1268900": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "steam:248860": {},
+    "steam:1377380": {},
+    "steam:2719290": {},
+    "steam:1928980": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:275850": {},
+    "steam:1963370": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1769420": {},
+    "steam:1090800": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:951240": {},
+    "steam:758690": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:2893820": {
+      "recommendationCaution": "An open-world action RPG with professions and survival themes, not a Conan-style base-building or settlement simulator.",
+      "genreScope": "Open-world action RPG / survival-adjacent"
+    },
+    "steam:2262080": {},
+    "steam:3177710": {},
+    "steam:2139460": {},
+    "steam:402710": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:327090": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:2681030": {},
+    "steam:1442530": {},
+    "steam:2237970": {},
+    "steam:2849490": {},
+    "steam:794260": {},
+    "steam:457140": {},
+    "steam:1458140": {},
+    "steam:2707930": {},
+    "steam:2254990": {},
+    "steam:3835100": {},
+    "steam:593600": {},
+    "steam:385380": {},
+    "steam:237870": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:504050": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:403190": {},
+    "steam:1839060": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:374040": {},
+    "steam:1713350": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:108600": {},
+    "steam:2729830": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:490280": {},
+    "steam:3202730": {},
+    "steam:574180": {},
+    "steam:1309820": {},
+    "steam:1290780": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:294100": {},
+    "steam:1940080": {},
+    "steam:252490": {},
+    "steam:327860": {},
+    "steam:1574900": {},
+    "steam:1431300": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "steam:2764460": {},
+    "steam:1060230": {},
+    "steam:526870": {},
+    "steam:387990": {},
+    "steam:513710": {},
+    "steam:1702010": {},
+    "steam:1610520": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "steam:356040": {},
+    "steam:1289380": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "steam:263200": {},
+    "steam:3335490": {},
+    "steam:768200": {},
+    "steam:4528040": {},
+    "steam:3130880": {},
+    "steam:1805110": {},
+    "steam:1326470": {},
+    "steam:5214350": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:244850": {},
+    "steam:1133870": {},
+    "steam:979110": {},
+    "steam:1380910": {},
+    "steam:244770": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1380220": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:495420": {},
+    "steam:1340720": {},
+    "steam:329430": {},
+    "steam:544550": {},
+    "steam:2628570": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:640860": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "steam:2826790": {},
+    "steam:313120": {},
+    "steam:3976770": {},
+    "steam:1324130": {},
+    "steam:1962700": {},
+    "steam:848450": {},
+    "steam:418030": {},
+    "steam:2080690": {},
+    "steam:304650": {},
+    "steam:596970": {},
+    "steam:1645820": {},
+    "steam:839630": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1601330": {},
+    "steam:2153780": {},
+    "steam:2504380": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1140130": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:1967630": {},
+    "steam:1343520": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "steam:340050": {},
+    "steam:1054510": {},
+    "steam:2862660": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:464920": {},
+    "steam:3215050": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:684450": {},
+    "steam:5019800": {},
+    "steam:1457320": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1482770": {},
+    "steam:285920": {},
+    "steam:2313330": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1601570": {},
+    "steam:2230170": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:318600": {},
+    "steam:242760": {},
+    "steam:2828860": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:2285150": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1360000": {},
+    "steam:376210": {},
+    "steam:1783560": {},
+    "steam:3142500": {},
+    "steam:305620": {},
+    "steam:1017180": {},
+    "steam:2933130": {},
+    "steam:2795540": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1723610": {},
+    "steam:1284190": {},
+    "steam:780310": {},
+    "steam:1822450": {},
+    "steam:313630": {},
+    "steam:897450": {},
+    "steam:1121640": {},
+    "steam:4123780": {},
+    "steam:526160": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:644930": {},
+    "steam:282070": {},
+    "steam:5035340": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:1062090": {},
+    "steam:2617700": {},
+    "steam:1276660": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:585420": {},
+    "steam:858820": {},
+    "steam:4139890": {},
+    "steam:304050": {},
+    "steam:1667040": {},
+    "steam:2939510": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:3924020": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:304930": {},
+    "steam:1604030": {},
+    "steam:1159690": {},
+    "steam:1874190": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:5161180": {},
+    "steam:4514350": {},
+    "steam:4468350": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:2283580": {},
+    "steam:2686630": {},
+    "steam:4779470": {},
+    "steam:379210": {},
+    "steam:392080": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:307110": {},
+    "steam:1519090": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1134700": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:500710": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1599330": {},
+    "steam:2649120": {},
+    "steam:266170": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:3008740": {},
+    "steam:1394960": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1179680": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:366220": {},
+    "steam:3642910": {},
+    "steam:3461270": {
+      "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus."
+    },
+    "steam:625340": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying."
+    },
+    "steam:1211600": {},
+    "steam:1193340": {
+      "recommendationCaution": "Mixed or weak aggregate reception. Included for breadth and specific mechanics, not among the safest purchases; inspect recent reviews before buying.",
+      "fit": 6
+    },
+    "steam:1782120": {},
+    "steam:1262460": {},
+    "steam:1572000": {},
+    "steam:2682580": {}
+  }
+}

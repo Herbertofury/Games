@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T22:53:46.329600+00:00",
+  "generatedAt": "2026-10-23T23:10:44.693291+00:00",
   "items": [
     {
       "id": "external:minecraft",
@@ -7963,6 +7963,360 @@
           }
         ]
       }
+    },
+    {
+      "id": "external:mine-blocks",
+      "name": "Mine Blocks",
+      "collection": "Free & tiny crafting worlds",
+      "fit": 8,
+      "status": "Released",
+      "free": true,
+      "platforms": [
+        "Web browser"
+      ],
+      "requirements": "Play in a modern browser from the original creator. Optional Patreon support is not a required game purchase.",
+      "seedName": "Mine Blocks",
+      "hubs": [
+        "Minecraft-like worlds"
+      ],
+      "collections": [
+        "Free & tiny crafting worlds"
+      ],
+      "genreScope": "2D sandbox survival crafting",
+      "summary": "A free creator-made 2D Minecraft-inspired browser game with mining, crafting and building. The original is now playable in HTML5; it is a fan game, not a Mojang product.",
+      "curatorWhy": "A free creator-made 2D Minecraft-inspired browser game with mining, crafting and building. The original is now playable in HTML5; it is a fan game, not a Mojang product.",
+      "provider": "Official site",
+      "primaryUrl": "https://mineblocks.com/1",
+      "kind": "Browser game",
+      "comingSoon": false,
+      "rating": null,
+      "reviewCount": 0,
+      "genres": [
+        "Survival",
+        "Sandbox"
+      ],
+      "tags": [
+        "Minecraft-like worlds",
+        "Terraria-like worlds"
+      ],
+      "features": [],
+      "developers": [
+        "Zanzlanz"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T23:10:44.693291+00:00",
+      "releaseDate": null,
+      "releaseLabel": "See creator update history",
+      "storefronts": [
+        {
+          "url": "https://mineblocks.com/1",
+          "provider": "Official site",
+          "kind": "browser",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://mineblocks.com/"
+        },
+        {
+          "url": "https://mineblocks.com/1/download",
+          "provider": "Official site",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://mineblocks.com/"
+        },
+        {
+          "url": "https://patreon.com/Zanzlanz",
+          "provider": "Patreon",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://mineblocks.com/",
+          "editionNote": "Optional support for the creator, not a game license."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://mineblocks.com/",
+          "provider": "Official site",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://mineblocks.com/"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot01.jpg",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot01.jpg",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot02.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot02.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot03.jpg",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot03.jpg",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot04.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot04.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot05.jpg",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot05.jpg",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot06.jpg",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot06.jpg",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot07.jpg",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot07.jpg",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot08.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot08.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot09.jpg",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot09.jpg",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot10.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot10.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot11.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot11.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot12.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot12.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks screenshot",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "image": "https://mineblocks.com/assets/images/home/screenshots/mb1/screenshot01.jpg"
+    },
+    {
+      "id": "external:mine-blocks-2",
+      "name": "Mine Blocks 2",
+      "collection": "Free & tiny crafting worlds",
+      "fit": 8,
+      "status": "Playable alpha",
+      "free": true,
+      "platforms": [
+        "Web browser"
+      ],
+      "requirements": "Play in a modern browser from the original creator. Optional Patreon support is not a required game purchase.",
+      "seedName": "Mine Blocks 2",
+      "hubs": [
+        "Minecraft-like worlds"
+      ],
+      "collections": [
+        "Free & tiny crafting worlds"
+      ],
+      "genreScope": "2D sandbox survival crafting",
+      "summary": "A free creator-made 2D Minecraft-inspired browser game with mining, crafting and building. This is the separate HTML5 alpha sequel, not the cancelled third project.",
+      "curatorWhy": "A free creator-made 2D Minecraft-inspired browser game with mining, crafting and building. This is the separate HTML5 alpha sequel, not the cancelled third project.",
+      "provider": "Official site",
+      "primaryUrl": "https://mineblocks.com/2",
+      "kind": "Browser game",
+      "comingSoon": false,
+      "rating": null,
+      "reviewCount": 0,
+      "genres": [
+        "Survival",
+        "Sandbox"
+      ],
+      "tags": [
+        "Minecraft-like worlds",
+        "Terraria-like worlds"
+      ],
+      "features": [],
+      "developers": [
+        "Zanzlanz"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T23:10:44.693291+00:00",
+      "releaseDate": null,
+      "releaseLabel": "See creator update history",
+      "storefronts": [
+        {
+          "url": "https://mineblocks.com/2",
+          "provider": "Official site",
+          "kind": "browser",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://mineblocks.com/"
+        },
+        {
+          "url": "https://mineblocks.com/2/download",
+          "provider": "Official site",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://mineblocks.com/"
+        },
+        {
+          "url": "https://patreon.com/Zanzlanz",
+          "provider": "Patreon",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://mineblocks.com/",
+          "editionNote": "Optional support for the creator, not a game license."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://mineblocks.com/",
+          "provider": "Official site",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T23:10:44.693291+00:00",
+          "sourceUrl": "https://mineblocks.com/"
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot01.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot01.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks 2 screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot02.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot02.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks 2 screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot03.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot03.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks 2 screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot04.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot04.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks 2 screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot05.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot05.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks 2 screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot06.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot06.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks 2 screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot07.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot07.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks 2 screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot08.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot08.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks 2 screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot09.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot09.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks 2 screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot10.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot10.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks 2 screenshot",
+          "verified": true
+        },
+        {
+          "src": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot11.png",
+          "thumbnail": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot11.png",
+          "sourceUrl": "https://mineblocks.com/",
+          "credit": "Zanzlanz / official Mine Blocks gallery",
+          "alt": "Mine Blocks 2 screenshot",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "image": "https://mineblocks.com/assets/images/home/screenshots/mb2/screenshot01.png"
     }
   ],
   "dispositions": [

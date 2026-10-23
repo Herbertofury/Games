@@ -4,6 +4,18 @@
 
 Alternate stores do not create duplicate game entries. Creator support is listed separately from buying or downloading a playable build.
 
+## Alderon Games
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Path of Titans](Game-external-path-of-titans-Path-of-Titans) | 8/10 | No aggregate rating | See creator release · Early Access | [Official site](https://pathoftitans.com) · [Alderon Games](https://alderongames.com/store/path-of-titans) · [PlayStation](https://store.playstation.com/concept/10000950) · [Xbox](https://www.xbox.com/games/store/pathoftitans/9PGDD5NS7JF3) |
+
+## App Store
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Survivalcraft 2](Game-external-survivalcraft-2-Survivalcraft-2) | 8/10 | No aggregate rating | See creator release · Released | [Official site](https://kaalus.wordpress.com) · [Microsoft Store](https://www.microsoft.com/p/survivalcraft-2/9phc48p58nb2) · [Google Play](https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft2) · [App Store](https://itunes.apple.com/app/survivalcraft2/id1185580782) |
+
 ## Battle.net
 
 | Game | Recommend | Community reception | Release / build | Where |
@@ -27,17 +39,24 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
+| [Subnautica](Game-264710-Subnautica) | 10/10 | 97.1% / 382,200 Steam reviews | Jan 23, 2018 · Released | [Steam](https://store.steampowered.com/app/264710) · [Epic Games](https://store.epicgames.com/en-US/p/subnautica) |
+| [Satisfactory](Game-526870-Satisfactory) | 10/10 | 97.3% / 281,667 Steam reviews | Sep 10, 2024 · Released | [Steam](https://store.steampowered.com/app/526870) · [Epic Games](https://store.epicgames.com/en-US/p/satisfactory) |
+| [Windrose](Game-3041230-Windrose) | 10/10 | 86.6% / 53,563 Steam reviews | Apr 14, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3041230) · [Epic Games](https://store.epicgames.com/en-US/p/windrose-831c86) |
 | [Turbo Overkill](Game-1328350-Turbo-Overkill) | 10/10 | 93.9% / 7,601 Steam reviews | Aug 11, 2023 · Released | [Steam](https://store.steampowered.com/app/1328350/) · [GOG](https://www.gog.com/en/game/turbo_overkill) · [Epic Games](https://store.epicgames.com/p/turbo-overkill-c5e3c7) |
+| [ARK: Survival Evolved](Game-346110-ARK-Survival-Evolved) | 9/10 | 83.3% / 779,930 Steam reviews | Aug 27, 2017 · Released | [Steam](https://store.steampowered.com/app/346110) · [Epic Games](https://store.epicgames.com/en-US/p/ark) |
 | [Wargame: Red Dragon](Game-251060-Wargame-Red-Dragon) | 9/10 | 88.6% / 19,785 Steam reviews | Apr 17, 2014 · Released | [Steam](https://store.steampowered.com/app/251060/) · [Epic Games](https://store.epicgames.com/en-US/p/wargame-red-dragon) · [Gamesplanet](https://gamesplanet.com/game/wargame-red-dragon-steam-key--2566-1) |
 | [Warhammer 40,000: Boltgun](Game-2005010-Warhammer-40-000-Boltgun) | 9/10 | 89.5% / 18,491 Steam reviews | May 23, 2023 · Released | [Steam](https://store.steampowered.com/app/2005010/) · [Epic Games](https://store.epicgames.com/en-US/p/boltgun-b1cb36) |
 | [Severed Steel](Game-1227690-Severed-Steel) | 9/10 | 95.4% / 10,391 Steam reviews | Sep 17, 2021 · Released | [Steam](https://store.steampowered.com/app/1227690/) · [GOG](https://www.gog.com/en/game/severed_steel) · [Epic Games](https://store.epicgames.com/tr/p/severed-steel) |
 | [SPRAWL](Game-1549690-SPRAWL) | 9/10 | 86.5% / 3,000 Steam reviews | Aug 23, 2023 · Released | [Steam](https://store.steampowered.com/app/1549690/) · [GOG](https://www.gog.com/en/game/sprawl) · [Epic Games](https://store.epicgames.com/p/sprawl-db4324) |
 | [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,037 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) · [GOG](https://www.gog.com/en/game/bloodshed) · [Epic Games](https://store.epicgames.com/en-US/p/bloodshed-849737) |
 | [Dread Templar](Game-1334730-Dread-Templar) | 9/10 | 81.9% / 1,747 Steam reviews | Jan 26, 2023 · Released | [Steam](https://store.steampowered.com/app/1334730/) · [GOG](https://www.gog.com/en/game/dread_templar) · [Epic Games](https://store.epicgames.com/nl/p/dread-templar-d8e8fa) |
+| [LEGO Fortnite Odyssey](Game-external-lego-fortnite-odyssey-LEGO-Fortnite-Odyssey) | 9/10 | No aggregate rating | See creator release · Released | [Epic Games](https://www.fortnite.com/@epic/lego-fortnite-odyssey) |
 | [Forgive Me Father](Game-1590910-Forgive-Me-Father) | 8/10 | 83.6% / 6,183 Steam reviews | Apr 7, 2022 · Released | [Steam](https://store.steampowered.com/app/1590910/) · [GOG](https://www.gog.com/en/game/forgive_me_father) · [Epic Games](https://store.epicgames.com/p/forgive-me-father-133635) |
 | [Forgive Me Father 2](Game-2272250-Forgive-Me-Father-2) | 8/10 | 81.6% / 2,544 Steam reviews | Oct 24, 2024 · Released | [Steam](https://store.steampowered.com/app/2272250/) · [GOG](https://www.gog.com/en/game/forgive_me_father_2) · [Epic Games](https://store.epicgames.com/p/forgive-me-father-2-ea03a5) |
 | [ROBOBEAT](Game-1456760-ROBOBEAT) | 8/10 | 94.2% / 1,850 Steam reviews | May 14, 2024 · Released | [Steam](https://store.steampowered.com/app/1456760/) · [Epic Games](https://store.epicgames.com/en-US/p/robobeat-5f084b) |
+| [Conan Exiles Enhanced](Game-440900-Conan-Exiles-Enhanced) | 7/10 | 79.1% / 118,045 Steam reviews | May 8, 2018 · Released | [Steam](https://store.steampowered.com/app/440900) · [Epic Games](https://store.epicgames.com/en-US/p/conan-exiles) |
 | [Blood: Refreshed Supply™](Game-3884520-Blood-Refreshed-Supply) | 7/10 | 72.9% / 752 Steam reviews | Dec 4, 2025 · Released | [Steam](https://store.steampowered.com/app/3884520/) · [Epic Games](https://store.epicgames.com/it/p/blood-refreshed-supply-f8bb7c) |
+| [Nightingale](Game-1928980-Nightingale) | 6/10 | 66.0% / 18,097 Steam reviews | Feb 20, 2024 · Early Access | [Steam](https://store.steampowered.com/app/1928980) · [Epic Games](https://store.epicgames.com/en-US/p/nightingale) |
 | [Diluvian Ultra](Game-1306970-Diluvian-Ultra) | 6/10 | 58.4% / 428 Steam reviews | Sep 28, 2023 · Released | [Steam](https://store.steampowered.com/app/1306970/) · [GOG](https://www.gog.com/en/game/diluvian_ultra) · [Epic Games](https://store.epicgames.com/en-US/p/diluvian-ultra-a5ad8c) |
 
 ## FAF community
@@ -50,9 +69,21 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
+| [Terraria](Game-105600-Terraria) | 10/10 | 97.4% / 1,564,617 Steam reviews | May 16, 2011 · Released | [Steam](https://store.steampowered.com/app/105600) · [GOG](https://www.gog.com/en/game/terraria) |
 | [Hollow Knight](Game-367520-Hollow-Knight) | 10/10 | 96.9% / 566,185 Steam reviews | Feb 24, 2017 · Released | [Steam](https://store.steampowered.com/app/367520) · [GOG](https://www.gog.com/en/game/hollow_knight) |
+| [Project Zomboid](Game-108600-Project-Zomboid) | 10/10 | 93.7% / 490,733 Steam reviews | Nov 8, 2013 · Early Access | [Steam](https://store.steampowered.com/app/108600) · [GOG](https://www.gog.com/en/game/project_zomboid) |
+| [No Man's Sky](Game-275850-No-Man-s-Sky) | 10/10 | 85.3% / 423,588 Steam reviews | Aug 12, 2016 · Released | [Steam](https://store.steampowered.com/app/275850) · [GOG](https://www.gog.com/en/game/no_mans_sky) |
+| [RimWorld](Game-294100-RimWorld) | 10/10 | 97.9% / 248,683 Steam reviews | Oct 17, 2018 · Released | [Steam](https://store.steampowered.com/app/294100) · [GOG](https://www.gog.com/en/game/rimworld) |
 | [ULTRAKILL](Game-1229490-ULTRAKILL) | 10/10 | 97.3% / 247,502 Steam reviews | Sep 3, 2020 · Early Access | [Steam](https://store.steampowered.com/app/1229490/) · [GOG](https://www.gog.com/en/game/ultrakill) |
+| [Factorio](Game-427520-Factorio) | 10/10 | 97.5% / 236,200 Steam reviews | Aug 14, 2020 · Released | [Steam](https://store.steampowered.com/app/427520) · [GOG](https://www.gog.com/en/game/factorio) · [Steam](https://store.steampowered.com/app/452280/) |
 | [Dead Cells](Game-588650-Dead-Cells) | 10/10 | 97.0% / 184,520 Steam reviews | Aug 6, 2018 · Released | [Steam](https://store.steampowered.com/app/588650) · [GOG](https://www.gog.com/en/game/dead_cells) |
+| [Frostpunk](Game-323190-Frostpunk) | 10/10 | 92.7% / 138,180 Steam reviews | Apr 24, 2018 · Released | [Steam](https://store.steampowered.com/app/323190) · [GOG](https://www.gog.com/en/game/frostpunk) |
+| [The Long Dark](Game-305620-The-Long-Dark) | 10/10 | 88.8% / 124,432 Steam reviews | Aug 1, 2017 · Released | [Steam](https://store.steampowered.com/app/305620) · [GOG](https://www.gog.com/en/game/the_long_dark) |
+| [Kenshi](Game-233860-Kenshi) | 10/10 | 95.6% / 117,590 Steam reviews | Dec 6, 2018 · Released | [Steam](https://store.steampowered.com/app/233860) · [GOG](https://www.gog.com/en/game/kenshi) |
+| [This War of Mine](Game-282070-This-War-of-Mine) | 10/10 | 93.8% / 98,009 Steam reviews | Nov 14, 2014 · Released | [Steam](https://store.steampowered.com/app/282070) · [GOG](https://www.gog.com/en/game/this_war_of_mine) |
+| [The Planet Crafter](Game-1284190-The-Planet-Crafter) | 10/10 | 96.0% / 74,860 Steam reviews | Apr 10, 2024 · Released | [Steam](https://store.steampowered.com/app/1284190) · [GOG](https://www.gog.com/en/game/the_planet_crafter) · [Steam](https://store.steampowered.com/app/1754850/) |
+| [Core Keeper](Game-1621690-Core-Keeper) | 10/10 | 92.9% / 68,089 Steam reviews | Aug 27, 2024 · Released | [Steam](https://store.steampowered.com/app/1621690) · [GOG](https://www.gog.com/en/game/core_keeper) |
+| [Against the Storm](Game-1336490-Against-the-Storm) | 10/10 | 94.4% / 37,817 Steam reviews | Dec 8, 2023 · Released | [Steam](https://store.steampowered.com/app/1336490) · [GOG](https://www.gog.com/en/game/against_the_storm) · [Steam](https://store.steampowered.com/app/1400860/) |
 | [DUSK](Game-519860-DUSK) | 10/10 | 96.9% / 25,595 Steam reviews | Dec 10, 2018 · Released | [Steam](https://store.steampowered.com/app/519860/) · [GOG](https://www.gog.com/en/game/dusk) |
 | [TUNIC](Game-553420-TUNIC) | 10/10 | 90.9% / 18,924 Steam reviews | Mar 16, 2022 · Released | [Steam](https://store.steampowered.com/app/553420) · [GOG](https://www.gog.com/en/game/tunic) · [itch.io](https://finji.itch.io/tunic) · [Humble Store](https://www.humblebundle.com/store/tunic) |
 | [Quake](Game-2310-Quake) | 10/10 | 96.4% / 16,560 Steam reviews | Aug 3, 2007 · Released | [Steam](https://store.steampowered.com/app/2310/) · [GOG](https://www.gog.com/en/game/quake_the_offering) |
@@ -61,25 +92,38 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [AMID EVIL](Game-673130-AMID-EVIL) | 10/10 | 92.9% / 7,765 Steam reviews | Jun 20, 2019 · Released | [Steam](https://store.steampowered.com/app/673130/) · [GOG](https://www.gog.com/en/game/amid_evil) |
 | [Turbo Overkill](Game-1328350-Turbo-Overkill) | 10/10 | 93.9% / 7,601 Steam reviews | Aug 11, 2023 · Released | [Steam](https://store.steampowered.com/app/1328350/) · [GOG](https://www.gog.com/en/game/turbo_overkill) · [Epic Games](https://store.epicgames.com/p/turbo-overkill-c5e3c7) |
 | [DOOM Eternal](Game-782330-DOOM-Eternal) | 9/10 | 91.4% / 217,931 Steam reviews | Mar 19, 2020 · Released | [Steam](https://store.steampowered.com/app/782330/) · [GOG](https://www.gog.com/en/game/doom_eternal) |
+| [Starbound](Game-211820-Starbound) | 9/10 | 89.9% / 123,346 Steam reviews | Jul 22, 2016 · Released | [Steam](https://store.steampowered.com/app/211820) · [GOG](https://www.gog.com/en/game/starbound) |
+| [Don't Starve](Game-219740-Don-t-Starve) | 9/10 | 96.5% / 113,666 Steam reviews | Apr 23, 2013 · Released | [Steam](https://store.steampowered.com/app/219740) · [GOG](https://www.gog.com/en/game/dont_starve) |
 | [Blasphemous](Game-774361-Blasphemous) | 9/10 | 89.8% / 68,068 Steam reviews | Sep 10, 2019 · Released | [Steam](https://store.steampowered.com/app/774361) · [GOG](https://www.gog.com/en/game/blasphemous) |
 | [CONTROL Ultimate Edition](Game-870780-CONTROL-Ultimate-Edition) | 9/10 | 86.1% / 66,538 Steam reviews | Aug 27, 2020 · Released | [Steam](https://store.steampowered.com/app/870780) · [GOG](https://www.gog.com/en/game/control_ultimate_edition) |
 | [Rain World](Game-312520-Rain-World) | 9/10 | 93.7% / 58,242 Steam reviews | Mar 28, 2017 · Released | [Steam](https://store.steampowered.com/app/312520) · [GOG](https://www.gog.com/en/game/rain_world) |
-| [They Are Billions](Game-644930-They-Are-Billions) | 9/10 | 85.1% / 51,580 Steam reviews | Jun 18, 2019 · Released | [Steam](https://store.steampowered.com/app/644930/) · [GOG](https://www.gog.com/en/game/they_are_billions) |
+| [Medieval Dynasty](Game-1129580-Medieval-Dynasty) | 9/10 | 90.3% / 52,774 Steam reviews | Sep 23, 2021 · Released | [Steam](https://store.steampowered.com/app/1129580) · [GOG](https://www.gog.com/en/game/medieval_dynasty) |
+| [They Are Billions](Game-644930-They-Are-Billions) | 9/10 | 85.1% / 51,580 Steam reviews | Jun 18, 2019 · Released | [Steam](https://store.steampowered.com/app/644930) · [GOG](https://www.gog.com/en/game/they_are_billions) |
 | [STAR WARS™ Empire at War - Gold Pack](Game-32470-STAR-WARS-Empire-at-War-Gold-Pack) | 9/10 | 97.7% / 43,357 Steam reviews | May 25, 2010 · Released | [Steam](https://store.steampowered.com/app/32470/) · [GOG](https://www.gog.com/en/game/star_wars_empire_at_war_gold_pack) |
+| [Timberborn](Game-1062090-Timberborn) | 9/10 | 96.0% / 42,273 Steam reviews | Mar 12, 2026 · Released | [Steam](https://store.steampowered.com/app/1062090) · [GOG](https://www.gog.com/en/game/timberborn) · [Humble Store](https://www.humblebundle.com/store/timberborn) |
 | [CARRION](Game-953490-CARRION) | 9/10 | 94.4% / 36,334 Steam reviews | Jul 23, 2020 · Released | [Steam](https://store.steampowered.com/app/953490) · [GOG](https://www.gog.com/en/game/carrion) |
 | [DOOM + DOOM II](Game-2280-DOOM-DOOM-II) | 9/10 | 96.7% / 29,307 Steam reviews | Aug 3, 2007 · Released | [Steam](https://store.steampowered.com/app/2280/) · [GOG](https://www.gog.com/en/game/doom_doom_ii) |
+| [Darkwood](Game-274520-Darkwood) | 9/10 | 94.8% / 25,263 Steam reviews | Aug 17, 2017 · Released | [Steam](https://store.steampowered.com/app/274520) · [GOG](https://www.gog.com/en/game/darkwood) |
+| [The Riftbreaker](Game-780310-The-Riftbreaker) | 9/10 | 90.4% / 25,119 Steam reviews | Oct 14, 2021 · Released | [Steam](https://store.steampowered.com/app/780310) · [GOG](https://www.gog.com/en/game/the_riftbreaker) · [Steam](https://store.steampowered.com/app/1317860/) |
 | [Roboquest](Game-692890-Roboquest) | 9/10 | 95.3% / 24,538 Steam reviews | Nov 7, 2023 · Released | [Steam](https://store.steampowered.com/app/692890/) · [GOG](https://www.gog.com/en/game/roboquest) |
 | [Death's Door](Game-894020-Death-s-Door) | 9/10 | 92.9% / 23,268 Steam reviews | Jul 20, 2021 · Released | [Steam](https://store.steampowered.com/app/894020) · [GOG](https://www.gog.com/en/game/deaths_door) · [Humble Store](https://www.humblebundle.com/store/deaths-door) |
 | [Blasphemous 2](Game-2114740-Blasphemous-2) | 9/10 | 90.7% / 22,180 Steam reviews | Aug 24, 2023 · Released | [Steam](https://store.steampowered.com/app/2114740) · [GOG](https://www.gog.com/en/game/blasphemous_2) |
+| [Going Medieval](Game-1029780-Going-Medieval) | 9/10 | 89.1% / 21,568 Steam reviews | Mar 17, 2026 · Released | [Steam](https://store.steampowered.com/app/1029780) · [GOG](https://www.gog.com/en/game/going_medieval) · [Steam](https://store.steampowered.com/app/1435830/) |
+| [The Alters](Game-1601570-The-Alters) | 9/10 | 90.2% / 20,126 Steam reviews | Jun 13, 2025 · Released | [Steam](https://store.steampowered.com/app/1601570) · [GOG](https://www.gog.com/en/game/the_alters) |
 | [Hyper Light Drifter](Game-257850-Hyper-Light-Drifter) | 9/10 | 92.9% / 19,291 Steam reviews | Mar 31, 2016 · Released | [Steam](https://store.steampowered.com/app/257850) · [GOG](https://www.gog.com/en/game/hyper_light_drifter) |
 | [Empires of the Undergrowth](Game-463530-Empires-of-the-Undergrowth) | 9/10 | 94.4% / 19,180 Steam reviews | Jun 7, 2024 · Released | [Steam](https://store.steampowered.com/app/463530/) · [GOG](https://www.gog.com/en/game/empires_of_the_undergrowth) |
 | [Rogue Legacy](Game-241600-Rogue-Legacy) | 9/10 | 92.3% / 18,875 Steam reviews | Jun 27, 2013 · Released | [Steam](https://store.steampowered.com/app/241600) · [GOG](https://www.gog.com/en/game/rogue_legacy) |
 | [CrossCode](Game-368340-CrossCode) | 9/10 | 92.3% / 18,558 Steam reviews | Sep 20, 2018 · Released | [Steam](https://store.steampowered.com/app/368340) · [GOG](https://www.gog.com/en/game/crosscode) · [itch.io](https://radicalfishgames.itch.io/crosscode) · [Steam](https://store.steampowered.com/app/370900) |
+| [Dawn of Man](Game-858810-Dawn-of-Man) | 9/10 | 86.8% / 17,903 Steam reviews | Mar 1, 2019 · Released | [Steam](https://store.steampowered.com/app/858810) · [GOG](https://www.gog.com/en/game/dawn_of_man) |
+| [Craft The World](Game-248390-Craft-The-World) | 9/10 | 88.4% / 17,170 Steam reviews | Nov 24, 2014 · Released | [Steam](https://store.steampowered.com/app/248390) · [GOG](https://www.gog.com/en/game/craft_the_world) |
 | [Homeworld Remastered Collection](Game-244160-Homeworld-Remastered-Collection) | 9/10 | 87.9% / 14,213 Steam reviews | Feb 25, 2015 · Released | [Steam](https://store.steampowered.com/app/244160/) · [GOG](https://www.gog.com/en/game/homeworld_remastered_collection) |
 | [Diplomacy is Not an Option](Game-1272320-Diplomacy-is-Not-an-Option) | 9/10 | 85.6% / 12,804 Steam reviews | Oct 4, 2024 · Released | [Steam](https://store.steampowered.com/app/1272320/) · [GOG](https://www.gog.com/en/game/diplomacy_is_not_an_option) · [itch.io](https://door407.itch.io/diplomacy-is-not-an-option) |
+| [DYSMANTLE](Game-846770-DYSMANTLE) | 9/10 | 90.6% / 11,660 Steam reviews | Nov 16, 2021 · Released | [Steam](https://store.steampowered.com/app/846770) · [GOG](https://www.gog.com/en/game/dysmantle) |
+| [Space Haven](Game-979110-Space-Haven) | 9/10 | 85.7% / 11,268 Steam reviews | May 13, 2026 · Released | [Steam](https://store.steampowered.com/app/979110) · [GOG](https://www.gog.com/en/game/space_haven) |
 | [Quake II](Game-2320-Quake-II) | 9/10 | 95.4% / 10,476 Steam reviews | Aug 3, 2007 · Released | [Steam](https://store.steampowered.com/app/2320/) · [GOG](https://www.gog.com/en/game/quake_ii_quad_damage) |
 | [Severed Steel](Game-1227690-Severed-Steel) | 9/10 | 95.4% / 10,391 Steam reviews | Sep 17, 2021 · Released | [Steam](https://store.steampowered.com/app/1227690/) · [GOG](https://www.gog.com/en/game/severed_steel) · [Epic Games](https://store.epicgames.com/tr/p/severed-steel) |
 | [MULLET MADJACK](Game-2111190-MULLET-MADJACK) | 9/10 | 97.7% / 9,669 Steam reviews | May 15, 2024 · Released | [Steam](https://store.steampowered.com/app/2111190/) · [GOG](https://www.gog.com/en/game/mullet_madjack) |
+| [SUNLESS SEA](Game-304650-SUNLESS-SEA) | 9/10 | 83.0% / 9,584 Steam reviews | Feb 6, 2015 · Released | [Steam](https://store.steampowered.com/app/304650) · [GOG](https://www.gog.com/en/game/sunless_sea) |
 | [Devil Daggers](Game-422970-Devil-Daggers) | 9/10 | 95.3% / 9,544 Steam reviews | Feb 18, 2016 · Released | [Steam](https://store.steampowered.com/app/422970/) · [GOG](https://www.gog.com/en/game/devil_daggers) |
 | [SteamWorld Dig 2](Game-571310-SteamWorld-Dig-2) | 9/10 | 95.5% / 9,173 Steam reviews | Sep 22, 2017 · Released | [Steam](https://store.steampowered.com/app/571310) · [GOG](https://www.gog.com/en/game/steamworld_dig_2) |
 | [Cave Story+](Game-200900-Cave-Story) | 9/10 | 92.8% / 8,379 Steam reviews | Nov 22, 2011 · Released | [Steam](https://store.steampowered.com/app/200900) · [GOG](https://www.gog.com/en/game/cave_story) |
@@ -92,12 +136,14 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Ion Fury](Game-562860-Ion-Fury) | 9/10 | 92.6% / 6,792 Steam reviews | Aug 15, 2019 · Released | [Steam](https://store.steampowered.com/app/562860/) · [GOG](https://www.gog.com/en/game/ion_fury) |
 | [HROT](Game-824600-HROT) | 9/10 | 96.5% / 6,572 Steam reviews | May 16, 2023 · Released | [Steam](https://store.steampowered.com/app/824600/) · [GOG](https://www.gog.com/en/game/hrot) |
 | [Owlboy](Game-115800-Owlboy) | 9/10 | 83.5% / 6,136 Steam reviews | Nov 1, 2016 · Released | [Steam](https://store.steampowered.com/app/115800) · [GOG](https://www.gog.com/en/game/owlboy) · [Steam](https://store.steampowered.com/app/1803680) |
+| [Sandustry](Game-2764460-Sandustry) | 9/10 | 97.2% / 5,835 Steam reviews | Aug 13, 2026 · Early Access | [Steam](https://store.steampowered.com/app/2764460) · [GOG](https://www.gog.com/en/game/sandustry) · [itch.io](https://lanttogames.itch.io/sandustry) · [Steam](https://store.steampowered.com/app/3490390/) |
 | [I Am Your Beast](Game-1876590-I-Am-Your-Beast) | 9/10 | 97.7% / 5,707 Steam reviews | Sep 10, 2024 · Released | [Steam](https://store.steampowered.com/app/1876590/) · [GOG](https://www.gog.com/en/game/i_am_your_beast) · [itch.io](https://strangescaffold.itch.io/i-am-your-beast) |
 | [Hob](Game-404680-Hob) | 9/10 | 88.1% / 5,640 Steam reviews | Sep 26, 2017 · Released | [Steam](https://store.steampowered.com/app/404680) · [GOG](https://www.gog.com/en/game/hob) |
+| [NEO Scavenger](Game-248860-NEO-Scavenger) | 9/10 | 89.6% / 5,432 Steam reviews | Dec 15, 2014 · Released | [Steam](https://store.steampowered.com/app/248860) · [GOG](https://www.gog.com/en/game/neo_scavenger) · [Steam](https://store.steampowered.com/app/270680/) |
 | [Yoku's Island Express](Game-334940-Yoku-s-Island-Express) | 9/10 | 95.7% / 5,378 Steam reviews | May 29, 2018 · Released | [Steam](https://store.steampowered.com/app/334940) · [GOG](https://www.gog.com/en/game/yokus_island_express) |
 | [Gato Roboto](Game-916730-Gato-Roboto) | 9/10 | 94.3% / 5,299 Steam reviews | May 30, 2019 · Released | [Steam](https://store.steampowered.com/app/916730) · [GOG](https://www.gog.com/en/game/gato_roboto) |
 | [Iconoclasts](Game-393520-Iconoclasts) | 9/10 | 86.3% / 5,037 Steam reviews | Jan 23, 2018 · Released | [Steam](https://store.steampowered.com/app/393520) · [GOG](https://www.gog.com/en/game/iconoclasts) |
-| [Cataclismo](Game-1422440-Cataclismo) | 9/10 | 88.3% / 4,424 Steam reviews | Mar 20, 2025 · Released | [Steam](https://store.steampowered.com/app/1422440/) · [GOG](https://www.gog.com/en/game/cataclismo) |
+| [Cataclismo](Game-1422440-Cataclismo) | 9/10 | 88.3% / 4,424 Steam reviews | Mar 20, 2025 · Released | [Steam](https://store.steampowered.com/app/1422440) · [GOG](https://www.gog.com/en/game/cataclismo) · [Steam](https://store.steampowered.com/app/2459000) |
 | [Well Dweller](Game-3699590-Well-Dweller) | 9/10 | 98.0% / 4,167 Steam reviews | Sep 22, 2026 · Released | [Steam](https://store.steampowered.com/app/3699590) · [GOG](https://www.gog.com/en/game/well_dweller) · [Steam](https://store.steampowered.com/app/4540890) |
 | [Nightmare Reaper](Game-1051690-Nightmare-Reaper) | 9/10 | 93.4% / 3,801 Steam reviews | Mar 28, 2022 · Released | [Steam](https://store.steampowered.com/app/1051690/) · [GOG](https://www.gog.com/en/game/nightmare_reaper) |
 | [Total Annihilation](Game-298030-Total-Annihilation) | 9/10 | 96.4% / 3,794 Steam reviews | Dec 18, 2015 · Released | [Steam](https://store.steampowered.com/app/298030/) · [GOG](https://www.gog.com/en/game/total_annihilation_commander_pack) |
@@ -114,17 +160,21 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [SpellForce 3 Soul Harvest](Game-817540-SpellForce-3-Soul-Harvest) | 9/10 | 84.7% / 2,338 Steam reviews | May 28, 2019 · Released | [Steam](https://store.steampowered.com/app/817540/) · [GOG](https://www.gog.com/en/game/spellforce_3_soul_harvest) |
 | [UNSIGHTED](Game-1062110-UNSIGHTED) | 9/10 | 92.9% / 2,262 Steam reviews | Sep 30, 2021 · Released | [Steam](https://store.steampowered.com/app/1062110) · [GOG](https://www.gog.com/en/game/unsighted) |
 | [Ghost 1.0](Game-463270-Ghost-1-0) | 9/10 | 90.7% / 2,120 Steam reviews | Jun 6, 2016 · Released | [Steam](https://store.steampowered.com/app/463270) · [GOG](https://www.gog.com/en/game/ghost_1_0) |
+| [Aground](Game-876650-Aground) | 9/10 | 93.8% / 2,046 Steam reviews | Apr 17, 2020 · Released | [Steam](https://store.steampowered.com/app/876650) · [GOG](https://www.gog.com/en/game/aground) · [itch.io](https://fancyfishgames.itch.io/aground) · [Steam](https://store.steampowered.com/app/876660/) |
 | [Bloodshed](Game-2747550-Bloodshed) | 9/10 | 84.5% / 2,037 Steam reviews | May 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2747550/) · [GOG](https://www.gog.com/en/game/bloodshed) · [Epic Games](https://store.epicgames.com/en-US/p/bloodshed-849737) |
 | [Hedon Bloodrite](Game-1072150-Hedon-Bloodrite) | 9/10 | 90.9% / 1,964 Steam reviews | May 16, 2019 · Released | [Steam](https://store.steampowered.com/app/1072150/) · [GOG](https://www.gog.com/en/game/hedon) · [itch.io](https://zanthebonebreaker.itch.io/hedon) |
 | [Worldless](Game-1898500-Worldless) | 9/10 | 94.3% / 1,760 Steam reviews | Nov 20, 2023 · Released | [Steam](https://store.steampowered.com/app/1898500) · [GOG](https://www.gog.com/en/game/worldless) · [Steam](https://store.steampowered.com/app/2262290) |
 | [Dread Templar](Game-1334730-Dread-Templar) | 9/10 | 81.9% / 1,747 Steam reviews | Jan 26, 2023 · Released | [Steam](https://store.steampowered.com/app/1334730/) · [GOG](https://www.gog.com/en/game/dread_templar) · [Epic Games](https://store.epicgames.com/nl/p/dread-templar-d8e8fa) |
 | [Mohrta](Game-2881610-Mohrta) | 9/10 | 92.0% / 1,609 Steam reviews | Oct 14, 2025 · Released | [Steam](https://store.steampowered.com/app/2881610/) · [GOG](https://www.gog.com/en/game/mohrta) |
 | [SpellForce 3 Fallen God](Game-1154040-SpellForce-3-Fallen-God) | 9/10 | 87.2% / 1,581 Steam reviews | Nov 3, 2020 · Released | [Steam](https://store.steampowered.com/app/1154040/) · [GOG](https://www.gog.com/en/game/spellforce_3_fallen_god) |
+| [Stardeus](Game-1380910-Stardeus) | 9/10 | 86.7% / 1,564 Steam reviews | Oct 12, 2022 · Early Access | [Steam](https://store.steampowered.com/app/1380910) · [GOG](https://www.gog.com/en/game/stardeus) · [Steam](https://store.steampowered.com/app/1719580/) |
 | [Moonscars](Game-1374970-Moonscars) | 9/10 | 83.0% / 1,550 Steam reviews | Sep 27, 2022 · Released | [Steam](https://store.steampowered.com/app/1374970) · [GOG](https://www.gog.com/en/game/moonscars) |
 | [Aquaria](Game-24420-Aquaria) | 9/10 | 88.2% / 1,536 Steam reviews | Dec 15, 2008 · Released | [Steam](https://store.steampowered.com/app/24420) · [GOG](https://www.gog.com/en/game/aquaria) |
 | [ElecHead](Game-1456880-ElecHead) | 9/10 | 96.3% / 1,476 Steam reviews | Oct 14, 2021 · Released | [Steam](https://store.steampowered.com/app/1456880) · [GOG](https://www.gog.com/en/game/elechead) · [itch.io](https://namatakahashi.itch.io/elechead) |
+| [UnReal World](Game-351700-UnReal-World) | 9/10 | 94.3% / 1,393 Steam reviews | Feb 26, 2016 · Released | [Steam](https://store.steampowered.com/app/351700) · [GOG](https://www.gog.com/en/game/unreal_world) · [itch.io](https://enormous-elk.itch.io/unreal-world) |
 | [Boomerang X](Game-1170060-Boomerang-X) | 9/10 | 95.2% / 1,388 Steam reviews | Jul 8, 2021 · Released | [Steam](https://store.steampowered.com/app/1170060/) · [GOG](https://www.gog.com/en/game/boomerang_x) |
 | [Pronty](Game-1286280-Pronty) | 9/10 | 90.9% / 1,340 Steam reviews | Nov 18, 2021 · Released | [Steam](https://store.steampowered.com/app/1286280) · [GOG](https://www.gog.com/en/game/pronty) |
+| [It Lurks Below](Game-697550-It-Lurks-Below) | 9/10 | 81.9% / 1,290 Steam reviews | May 29, 2019 · Released | [Steam](https://store.steampowered.com/app/697550) · [GOG](https://www.gog.com/en/game/it_lurks_below) |
 | [Waking Mars](Game-227200-Waking-Mars) | 9/10 | 88.7% / 1,202 Steam reviews | Dec 13, 2012 · Released | [Steam](https://store.steampowered.com/app/227200) · [GOG](https://www.gog.com/en/game/waking_mars) |
 | [INCISION](Game-1734680-INCISION) | 9/10 | 85.4% / 1,154 Steam reviews | Aug 28, 2025 · Released | [Steam](https://store.steampowered.com/app/1734680/) · [GOG](https://www.gog.com/en/game/incision) |
 | [La-Mulana 2](Game-835430-La-Mulana-2) | 9/10 | 85.6% / 1,097 Steam reviews | Jul 30, 2018 · Released | [Steam](https://store.steampowered.com/app/835430) · [GOG](https://www.gog.com/en/game/la_mulana_2) |
@@ -140,13 +190,16 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Empires: Dawn of the Modern World](Game-external-empires-dawn-modern-world-Empires-Dawn-of-the-Modern-World) | 9/10 | 4.2/5.0 / 379 GOG ratings | 2003 · Released | [GOG](https://www.gog.com/en/game/empires_dawn_of_the_modern_world) |
 | [Treasure Adventure Game](Game-external-treasure-adventure-game-Treasure-Adventure-Game) | 9/10 | No aggregate rating | 2011 · Released | [GOG](https://www.gog.com/en/game/treasure_adventure_game) |
 | [World in Conflict: Complete Edition](Game-external-world-in-conflict-World-in-Conflict-Complete-Edition) | 9/10 | 4.3/5.0 / 1120 GOG ratings | 2007 · Released | [GOG](https://www.gog.com/en/game/world_in_conflict_complete_edition) |
+| [Forager](Game-751780-Forager) | 8/10 | 89.5% / 44,264 Steam reviews | Apr 18, 2019 · Released | [Steam](https://store.steampowered.com/app/751780) · [GOG](https://www.gog.com/en/game/forager) · [Humble Store](https://www.humblebundle.com/store/forager) |
 | [Darksiders Warmastered Edition](Game-462780-Darksiders-Warmastered-Edition) | 8/10 | 88.0% / 19,138 Steam reviews | Nov 29, 2016 · Released | [Steam](https://store.steampowered.com/app/462780) · [GOG](https://www.gog.com/en/game/darksiders_warmastered_edition) |
+| [Breathedge](Game-738520-Breathedge) | 8/10 | 80.8% / 18,775 Steam reviews | Feb 25, 2021 · Released | [Steam](https://store.steampowered.com/app/738520) · [GOG](https://www.gog.com/en/game/breathedge) |
 | [Cossacks 3](Game-333420-Cossacks-3) | 8/10 | 82.3% / 16,247 Steam reviews | Sep 20, 2016 · Released | [Steam](https://store.steampowered.com/app/333420/) · [GOG](https://www.gog.com/en/game/cossacks_3) |
 | [Supreme Commander 2](Game-40100-Supreme-Commander-2) | 8/10 | 88.2% / 13,021 Steam reviews | Mar 1, 2010 · Released | [Steam](https://store.steampowered.com/app/40100/) · [GOG](https://www.gog.com/en/game/supreme_commander_2) |
 | [BPM: BULLETS PER MINUTE](Game-1286350-BPM-BULLETS-PER-MINUTE) | 8/10 | 90.4% / 11,449 Steam reviews | Sep 15, 2020 · Released | [Steam](https://store.steampowered.com/app/1286350/) · [GOG](https://www.gog.com/en/game/bpm_bullets_per_minute) |
 | [SteamWorld Dig](Game-252410-SteamWorld-Dig) | 8/10 | 93.5% / 11,064 Steam reviews | Dec 5, 2013 · Released | [Steam](https://store.steampowered.com/app/252410) · [GOG](https://www.gog.com/en/game/steamworld_dig) |
 | [UnEpic](Game-233980-UnEpic) | 8/10 | 91.4% / 8,197 Steam reviews | Jul 25, 2014 · Released | [Steam](https://store.steampowered.com/app/233980) · [GOG](https://www.gog.com/en/game/unepic) |
 | [Journey To The Savage Planet](Game-973810-Journey-To-The-Savage-Planet) | 8/10 | 86.9% / 6,934 Steam reviews | Jan 28, 2021 · Released | [Steam](https://store.steampowered.com/app/973810) · [GOG](https://www.gog.com/en/game/journey_to_the_savage_planet) |
+| [Sheltered](Game-356040-Sheltered) | 8/10 | 81.8% / 6,304 Steam reviews | Mar 15, 2016 · Released | [Steam](https://store.steampowered.com/app/356040) · [GOG](https://www.gog.com/en/game/sheltered) |
 | [Project Warlock](Game-893680-Project-Warlock) | 8/10 | 86.9% / 6,240 Steam reviews | Dec 6, 2018 · Released | [Steam](https://store.steampowered.com/app/893680/) · [GOG](https://www.gog.com/en/game/project_warlock) |
 | [Forgive Me Father](Game-1590910-Forgive-Me-Father) | 8/10 | 83.6% / 6,183 Steam reviews | Apr 7, 2022 · Released | [Steam](https://store.steampowered.com/app/1590910/) · [GOG](https://www.gog.com/en/game/forgive_me_father) · [Epic Games](https://store.epicgames.com/p/forgive-me-father-133635) |
 | [Lost Ruins](Game-1306630-Lost-Ruins) | 8/10 | 84.9% / 5,831 Steam reviews | May 13, 2021 · Released | [Steam](https://store.steampowered.com/app/1306630) · [GOG](https://www.gog.com/en/game/lost_ruins) · [itch.io](https://dangen-entertainment.itch.io/lost-ruins) |
@@ -195,16 +248,29 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Disney Illusion Island Starring Mickey and Friends](Game-2054660-Disney-Illusion-Island-Starring-Mickey-and-Friends) | 8/10 | 94.3% / 35 Steam reviews | May 30, 2025 · Released | [Steam](https://store.steampowered.com/app/2054660) · [GOG](https://www.gog.com/en/game/disney_illusion_island_starring_mickey_and_friends) |
 | [Total Chaos - Original GZDoom Mod](Game-external-total-chaos-original-Total-Chaos-Original-GZDoom-Mod) | 8/10 | No aggregate rating | Oct 30, 2018 · Released | [ModDB](https://www.moddb.com/mods/total-chaos) · [ModDB](https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140) · [GOG](https://www.gog.com/en/game/total_chaos_mod) |
 | [Warlords Battlecry II](Game-external-warlords-battlecry-2-Warlords-Battlecry-II) | 8/10 | 4.3/5.0 / 442 GOG ratings | 2002 · Released | [GOG](https://www.gog.com/en/game/warlords_battlecry_2) |
+| [Outward Definitive Edition](Game-794260-Outward-Definitive-Edition) | 7/10 | 72.6% / 31,670 Steam reviews | May 17, 2022 · Released | [Steam](https://store.steampowered.com/app/794260) · [GOG](https://www.gog.com/en/game/outward_definitive_edition) |
+| [Surviving Mars](Game-464920-Surviving-Mars) | 7/10 | 78.1% / 29,291 Steam reviews | Mar 15, 2018 · Released | [Steam](https://store.steampowered.com/app/464920) · [GOG](https://www.gog.com/en/game/surviving_mars) |
+| [Frostpunk 2](Game-1601580-Frostpunk-2) | 7/10 | 74.7% / 27,426 Steam reviews | Sep 20, 2024 · Released | [Steam](https://store.steampowered.com/app/1601580) · [GOG](https://www.gog.com/en/game/frostpunk_2) |
 | [Darksiders II Deathinitive Edition](Game-388410-Darksiders-II-Deathinitive-Edition) | 7/10 | 78.7% / 20,918 Steam reviews | Nov 5, 2015 · Released | [Steam](https://store.steampowered.com/app/388410) · [GOG](https://www.gog.com/en/game/darksiders_ii_deathinitive_edition) |
 | [Darksiders III](Game-606280-Darksiders-III) | 7/10 | 75.9% / 17,606 Steam reviews | Nov 27, 2018 · Released | [Steam](https://store.steampowered.com/app/606280) · [GOG](https://www.gog.com/en/game/darksiders_iii) |
 | [WARNO](Game-1611600-WARNO) | 7/10 | 79.8% / 16,303 Steam reviews | May 23, 2024 · Released | [Steam](https://store.steampowered.com/app/1611600/) · [GOG](https://www.gog.com/en/game/warno) |
 | [Iron Harvest](Game-826630-Iron-Harvest) | 7/10 | 72.6% / 16,032 Steam reviews | Aug 31, 2020 · Released | [Steam](https://store.steampowered.com/app/826630/) · [GOG](https://www.gog.com/en/game/iron_harvest) |
+| [Jalopy](Game-446020-Jalopy) | 7/10 | 75.9% / 11,390 Steam reviews | Mar 28, 2018 · Released | [Steam](https://store.steampowered.com/app/446020) · [GOG](https://www.gog.com/en/game/jalopy) |
+| [Planetbase](Game-403190-Planetbase) | 7/10 | 79.8% / 10,489 Steam reviews | Oct 15, 2015 · Released | [Steam](https://store.steampowered.com/app/403190) · [GOG](https://www.gog.com/en/game/planetbase) |
+| [Endzone - A World Apart](Game-933820-Endzone-A-World-Apart) | 7/10 | 76.7% / 10,072 Steam reviews | Mar 18, 2021 · Released | [Steam](https://store.steampowered.com/app/933820) · [GOG](https://www.gog.com/en/game/endzone_a_world_apart) |
 | [SpellForce 3 Reforced](Game-311290-SpellForce-3-Reforced) | 7/10 | 76.8% / 7,967 Steam reviews | Dec 7, 2017 · Released | [Steam](https://store.steampowered.com/app/311290/) · [GOG](https://www.gog.com/en/game/spellforce_3_reforced) |
+| [Sengoku Dynasty](Game-1702010-Sengoku-Dynasty) | 7/10 | 74.7% / 7,942 Steam reviews | Nov 7, 2024 · Released | [Steam](https://store.steampowered.com/app/1702010) · [GOG](https://www.gog.com/en/game/sengoku_dynasty) |
+| [The Flame in the Flood](Game-318600-The-Flame-in-the-Flood) | 7/10 | 75.9% / 7,309 Steam reviews | Feb 24, 2016 · Released | [Steam](https://store.steampowered.com/app/318600) · [GOG](https://www.gog.com/en/game/the_flame_in_the_flood) |
+| [Surviving the Aftermath](Game-684450-Surviving-the-Aftermath) | 7/10 | 70.7% / 4,604 Steam reviews | Nov 16, 2021 · Released | [Steam](https://store.steampowered.com/app/684450) · [GOG](https://www.gog.com/en/game/surviving_the_aftermath) |
 | [Tooth and Tail](Game-286000-Tooth-and-Tail) | 7/10 | 79.8% / 4,156 Steam reviews | Sep 12, 2017 · Released | [Steam](https://store.steampowered.com/app/286000/) · [GOG](https://www.gog.com/en/game/tooth_and_tail) · [itch.io](https://pocketwatch.itch.io/tooth-and-tail) |
 | [9 Years of Shadows](Game-1402120-9-Years-of-Shadows) | 7/10 | 76.6% / 3,404 Steam reviews | Mar 27, 2023 · Released | [Steam](https://store.steampowered.com/app/1402120) · [GOG](https://www.gog.com/en/game/9_years_of_shadows) |
+| [Cubic Odyssey](Game-3400000-Cubic-Odyssey) | 7/10 | 72.7% / 2,771 Steam reviews | May 14, 2025 · Released | [Steam](https://store.steampowered.com/app/3400000) · [GOG](https://www.gog.com/en/game/cubic_odyssey) · [Humble Store](https://www.humblebundle.com/store/cubic-odyssey) · [Steam](https://store.steampowered.com/app/3456560/) |
 | [Chasm](Game-312200-Chasm) | 7/10 | 73.9% / 2,746 Steam reviews | Jul 30, 2018 · Released | [Steam](https://store.steampowered.com/app/312200) · [GOG](https://www.gog.com/en/game/chasm) · [Humble Store](https://www.humblebundle.com/store/chasm) |
 | [Minoria](Game-940910-Minoria) | 7/10 | 80.8% / 2,667 Steam reviews | Aug 27, 2019 · Released | [Steam](https://store.steampowered.com/app/940910) · [GOG](https://www.gog.com/en/game/minoria) · [itch.io](https://dangen-entertainment.itch.io/minoria) |
+| [The Solus Project](Game-313630-The-Solus-Project) | 7/10 | 79.7% / 2,631 Steam reviews | Jun 7, 2016 · Released | [Steam](https://store.steampowered.com/app/313630) · [GOG](https://www.gog.com/en/game/the_solus_project) |
+| [Permafrost](Game-2254990-Permafrost) | 7/10 | 72.6% / 2,013 Steam reviews | Oct 9, 2026 · Early Access | [Steam](https://store.steampowered.com/app/2254990) · [GOG](https://www.gog.com/en/game/permafrost) |
 | [Earth 2160](Game-1900-Earth-2160) | 7/10 | 72.5% / 1,549 Steam reviews | Apr 1, 2006 · Released | [Steam](https://store.steampowered.com/app/1900/) · [GOG](https://www.gog.com/en/game/earth_2160) |
+| [Miasmata](Game-223510-Miasmata) | 7/10 | 77.0% / 1,239 Steam reviews | Nov 28, 2012 · Released | [Steam](https://store.steampowered.com/app/223510) · [GOG](https://www.gog.com/en/game/miasmata) |
 | [Earth 2150 Trilogy](Game-253880-Earth-2150-Trilogy) | 7/10 | 78.7% / 1,020 Steam reviews | Nov 1, 2013 · Released | [Steam](https://store.steampowered.com/app/253880/) · [GOG](https://www.gog.com/en/game/earth_2150_trilogy) |
 | [Feudal Alloy](Game-699670-Feudal-Alloy) | 7/10 | 71.2% / 979 Steam reviews | Jan 17, 2019 · Released | [Steam](https://store.steampowered.com/app/699670) · [GOG](https://www.gog.com/en/game/feudal_alloy) |
 | [The Knight Witch](Game-1872680-The-Knight-Witch) | 7/10 | 72.5% / 978 Steam reviews | Nov 29, 2022 · Released | [Steam](https://store.steampowered.com/app/1872680) · [GOG](https://www.gog.com/en/game/the_knight_witch) |
@@ -222,12 +288,19 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [DOOMBLADE](Game-922050-DOOMBLADE) | 7/10 | 79.1% / 387 Steam reviews | May 31, 2023 · Released | [Steam](https://store.steampowered.com/app/922050) · [GOG](https://www.gog.com/en/game/doomblade) · [itch.io](https://iceberg-int.itch.io/doomblade) · [Steam](https://store.steampowered.com/app/2119930) |
 | [Beyond Sunset](Game-1665260-Beyond-Sunset) | 7/10 | 78.5% / 382 Steam reviews | Sep 12, 2025 · Released | [Steam](https://store.steampowered.com/app/1665260/) · [GOG](https://www.gog.com/en/game/beyond_sunset) · [itch.io](https://metacorp.itch.io/beyond-sunset) |
 | [Alice Escaped!](Game-1489410-Alice-Escaped) | 7/10 | 81.9% / 337 Steam reviews | Jan 27, 2023 · Released | [Steam](https://store.steampowered.com/app/1489410) · [GOG](https://www.gog.com/en/game/alice_escaped) |
+| [Remains](Game-1309820-Remains) | 7/10 | 74.4% / 324 Steam reviews | Jun 8, 2021 · Early Access | [Steam](https://store.steampowered.com/app/1309820) · [GOG](https://www.gog.com/en/game/remains) · [Steam](https://store.steampowered.com/app/1940860/) |
 | [OUTBUDDIES DX](Game-1083310-OUTBUDDIES-DX) | 7/10 | 70.1% / 288 Steam reviews | Oct 15, 2019 · Released | [Steam](https://store.steampowered.com/app/1083310) · [GOG](https://www.gog.com/en/game/outbuddies) |
 | [Haunted Lands](Game-2980900-Haunted-Lands) | 7/10 | 77.0% / 278 Steam reviews | Mar 10, 2026 · Released | [Steam](https://store.steampowered.com/app/2980900) · [GOG](https://www.gog.com/en/game/haunted_lands) · [itch.io](https://alevgor.itch.io/haunted-lands) |
 | [SoulQuest](Game-2512450-SoulQuest) | 7/10 | 79.3% / 116 Steam reviews | May 1, 2026 · Released | [Steam](https://store.steampowered.com/app/2512450) · [GOG](https://www.gog.com/en/game/soulquest) |
+| [Residual](Game-1290780-Residual) | 7/10 | 75.0% / 32 Steam reviews | Sep 9, 2021 · Released | [Steam](https://store.steampowered.com/app/1290780) · [GOG](https://www.gog.com/en/game/residual) · [itch.io](https://orangepixel.itch.io/residual) · [Steam](https://store.steampowered.com/app/1314610/) |
 | [Souno's Curse](Game-1711700-Souno-s-Curse) | 7/10 | 66.7% / 24 Steam reviews | Oct 31, 2024 · Released | [Steam](https://store.steampowered.com/app/1711700) · [GOG](https://www.gog.com/en/game/sounos_curse) |
+| [Of Ash and Steel](Game-2893820-Of-Ash-and-Steel) | 6/10 | 66.3% / 7,102 Steam reviews | Nov 24, 2025 · Released | [Steam](https://store.steampowered.com/app/2893820) · [GOG](https://www.gog.com/en/game/of_ash_and_steel) |
 | [Souldiers](Game-1419160-Souldiers) | 6/10 | 69.4% / 3,177 Steam reviews | Jun 2, 2022 · Released | [Steam](https://store.steampowered.com/app/1419160) · [GOG](https://www.gog.com/en/game/souldiers) |
+| [Arctico](Game-325210-Arctico) | 6/10 | 69.8% / 2,584 Steam reviews | Feb 15, 2022 · Released | [Steam](https://store.steampowered.com/app/325210) · [GOG](https://www.gog.com/en/game/arctico) |
+| [Planet Nomads](Game-504050-Planet-Nomads) | 6/10 | 65.7% / 2,039 Steam reviews | May 3, 2019 · Released | [Steam](https://store.steampowered.com/app/504050) · [GOG](https://www.gog.com/en/game/planet_nomads) |
 | [GRAVEN](Game-1371690-GRAVEN) | 6/10 | 53.1% / 1,540 Steam reviews | Jan 23, 2024 · Released | [Steam](https://store.steampowered.com/app/1371690/) · [GOG](https://www.gog.com/en/game/graven) |
+| [Starsand](Game-1380220-Starsand) | 6/10 | 65.6% / 1,275 Steam reviews | Nov 17, 2022 · Released | [Steam](https://store.steampowered.com/app/1380220) · [GOG](https://www.gog.com/en/game/starsand) |
+| [Endzone 2](Game-2144640-Endzone-2) | 6/10 | 67.2% / 1,094 Steam reviews | Jul 24, 2025 · Released | [Steam](https://store.steampowered.com/app/2144640) · [GOG](https://www.gog.com/en/game/endzone_2) |
 | [The Tarnishing of Juxtia](Game-1428710-The-Tarnishing-of-Juxtia) | 6/10 | 67.5% / 719 Steam reviews | Jul 26, 2022 · Released | [Steam](https://store.steampowered.com/app/1428710) · [GOG](https://www.gog.com/en/game/the_tarnishing_of_juxtia) |
 | [HYPERVIOLENT](Game-1409200-HYPERVIOLENT) | 6/10 | 58.0% / 524 Steam reviews | Sep 23, 2025 · Released | [Steam](https://store.steampowered.com/app/1409200/) · [GOG](https://www.gog.com/en/game/hyperviolent) · [itch.io](https://fulqrumpublishing.itch.io/hv) |
 | [Diluvian Ultra](Game-1306970-Diluvian-Ultra) | 6/10 | 58.4% / 428 Steam reviews | Sep 28, 2023 · Released | [Steam](https://store.steampowered.com/app/1306970/) · [GOG](https://www.gog.com/en/game/diluvian_ultra) · [Epic Games](https://store.epicgames.com/en-US/p/diluvian-ultra-a5ad8c) |
@@ -237,6 +310,10 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Beyond the Ice Palace 2](Game-2384730-Beyond-the-Ice-Palace-2) | 6/10 | 67.4% / 132 Steam reviews | Mar 10, 2025 · Released | [Steam](https://store.steampowered.com/app/2384730) · [GOG](https://www.gog.com/en/game/beyond_the_ice_palace_2) |
 | [Mable & The Wood](Game-568070-Mable-The-Wood) | 6/10 | 57.1% / 91 Steam reviews | Aug 23, 2019 · Released | [Steam](https://store.steampowered.com/app/568070) · [GOG](https://www.gog.com/en/game/mable_the_wood) · [itch.io](https://graffiti-games.itch.io/mable-and-the-wood) |
 | [Vessels of Decay](Game-1425180-Vessels-of-Decay) | 6/10 | 51.4% / 35 Steam reviews | Jun 19, 2025 · Released | [Steam](https://store.steampowered.com/app/1425180) · [GOG](https://www.gog.com/en/game/vessels_of_decay) · [Steam](https://store.steampowered.com/app/2170110) |
+| [Sheltered 2](Game-1289380-Sheltered-2) | 5/10 | 45.3% / 2,226 Steam reviews | Sep 21, 2021 · Released | [Steam](https://store.steampowered.com/app/1289380) · [GOG](https://www.gog.com/en/game/sheltered_2) |
+| [Wild West Legacy](Game-1329880-Wild-West-Legacy) | 5/10 | 36.8% / 2,149 Steam reviews | Aug 22, 2024 · Released | [Steam](https://store.steampowered.com/app/1329880) · [GOG](https://www.gog.com/en/game/wild_west_legacy) |
+| [INKBORN](Game-5187050-INKBORN) | Unrated | No aggregate rating | Oct 27, 2026 · Upcoming | [Steam](https://store.steampowered.com/app/5187050) · [GOG](https://www.gog.com/en/game/inkborn) · [Steam](https://store.steampowered.com/app/5187060/) |
+| [Outward 2](Game-2849490-Outward-2) | Unrated | No aggregate rating | Feb 7, 2027 · Upcoming | [Steam](https://store.steampowered.com/app/2849490) · [GOG](https://www.gog.com/en/game/outward_2) |
 | [WOLFHOUND](Game-1205660-WOLFHOUND) | Unrated | No aggregate rating | To be announced · Upcoming | [Steam](https://store.steampowered.com/app/1205660) · [GOG](https://www.gog.com/en/game/wolfhound) |
 
 ## Gamesplanet
@@ -246,31 +323,72 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Wargame: Red Dragon](Game-251060-Wargame-Red-Dragon) | 9/10 | 88.6% / 19,785 Steam reviews | Apr 17, 2014 · Released | [Steam](https://store.steampowered.com/app/251060/) · [Epic Games](https://store.epicgames.com/en-US/p/wargame-red-dragon) · [Gamesplanet](https://gamesplanet.com/game/wargame-red-dragon-steam-key--2566-1) |
 | [Act of Aggression - Reboot Edition](Game-318020-Act-of-Aggression-Reboot-Edition) | 6/10 | 66.9% / 3,330 Steam reviews | Sep 2, 2015 · Released | [Steam](https://store.steampowered.com/app/318020/) · [Gamesplanet](https://gamesplanet.com/game/act-of-aggression-reboot-edition-steam-key--2824-1) |
 
+## GitHub
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Cataclysm: Bright Nights](Game-external-cataclysm-bright-nights-Cataclysm-Bright-Nights) | 9/10 | No aggregate rating | See creator release · Released | [Official site](https://cataclysmbn.org) · [GitHub](https://github.com/cataclysmbn/Cataclysm-BN) |
+| [Mineclonia](Game-external-mineclonia-Mineclonia) | 9/10 | No aggregate rating | See creator release · Released | [GitHub](https://github.com/mineclonia-mirror/mineclonia) |
+| [Minicraft+](Game-external-minicraft-plus-Minicraft) | 9/10 | No aggregate rating | See creator release · Released | [Official site](https://minicraftplus.github.io) · [GitHub](https://github.com/MinicraftPlus/minicraft-plus-revived) |
+| [VoxeLibre](Game-external-voxelibre-VoxeLibre) | 9/10 | No aggregate rating | See creator release · Released | [GitHub](https://github.com/VoxeLibre/VoxeLibre) |
+| [Terasology](Game-external-terasology-Terasology) | 7/10 | No aggregate rating | See creator release · Playable alpha | [Official site](https://terasology.org) · [GitHub](https://github.com/MovingBlocks/Terasology) |
+
+## Google Play
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Survivalcraft 2](Game-external-survivalcraft-2-Survivalcraft-2) | 8/10 | No aggregate rating | See creator release · Released | [Official site](https://kaalus.wordpress.com) · [Microsoft Store](https://www.microsoft.com/p/survivalcraft-2/9phc48p58nb2) · [Google Play](https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft2) · [App Store](https://itunes.apple.com/app/survivalcraft2/id1185580782) |
+
 ## Humble Store
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
+| [ASTRONEER](Game-361420-ASTRONEER) | 10/10 | 91.9% / 139,848 Steam reviews | Feb 5, 2019 · Released | [Steam](https://store.steampowered.com/app/361420) · [Humble Store](https://www.humblebundle.com/store/astroneer) |
 | [TUNIC](Game-553420-TUNIC) | 10/10 | 90.9% / 18,924 Steam reviews | Mar 16, 2022 · Released | [Steam](https://store.steampowered.com/app/553420) · [GOG](https://www.gog.com/en/game/tunic) · [itch.io](https://finji.itch.io/tunic) · [Humble Store](https://www.humblebundle.com/store/tunic) |
+| [Vintage Story](Game-external-vintage-story-Vintage-Story) | 10/10 | No aggregate rating | See creator release · Early Access | [Vintage Story](https://www.vintagestory.at) · [itch.io](https://tyronx.itch.io/vintage-story) · [Vintage Story](https://www.vintagestory.at/store/category/1-single-game-account) · [Humble Store](https://www.humblebundle.com/store/vintage-story) |
+| [Timberborn](Game-1062090-Timberborn) | 9/10 | 96.0% / 42,273 Steam reviews | Mar 12, 2026 · Released | [Steam](https://store.steampowered.com/app/1062090) · [GOG](https://www.gog.com/en/game/timberborn) · [Humble Store](https://www.humblebundle.com/store/timberborn) |
 | [Death's Door](Game-894020-Death-s-Door) | 9/10 | 92.9% / 23,268 Steam reviews | Jul 20, 2021 · Released | [Steam](https://store.steampowered.com/app/894020) · [GOG](https://www.gog.com/en/game/deaths_door) · [Humble Store](https://www.humblebundle.com/store/deaths-door) |
+| [Forager](Game-751780-Forager) | 8/10 | 89.5% / 44,264 Steam reviews | Apr 18, 2019 · Released | [Steam](https://store.steampowered.com/app/751780) · [GOG](https://www.gog.com/en/game/forager) · [Humble Store](https://www.humblebundle.com/store/forager) |
 | [Shadow Man Remastered](Game-1413870-Shadow-Man-Remastered) | 8/10 | 93.7% / 1,598 Steam reviews | Apr 15, 2021 · Released | [Steam](https://store.steampowered.com/app/1413870) · [GOG](https://www.gog.com/en/game/shadow_man_remastered) · [Humble Store](https://www.humblebundle.com/store/shadow-man-remastered) |
 | [Headlander](Game-340000-Headlander) | 8/10 | 90.0% / 1,059 Steam reviews | Jul 25, 2016 · Released | [Steam](https://store.steampowered.com/app/340000) · [Humble Store](https://www.humblebundle.com/store/headlander-plus-soundtrack) |
+| [Cubic Odyssey](Game-3400000-Cubic-Odyssey) | 7/10 | 72.7% / 2,771 Steam reviews | May 14, 2025 · Released | [Steam](https://store.steampowered.com/app/3400000) · [GOG](https://www.gog.com/en/game/cubic_odyssey) · [Humble Store](https://www.humblebundle.com/store/cubic-odyssey) · [Steam](https://store.steampowered.com/app/3456560/) |
 | [Chasm](Game-312200-Chasm) | 7/10 | 73.9% / 2,746 Steam reviews | Jul 30, 2018 · Released | [Steam](https://store.steampowered.com/app/312200) · [GOG](https://www.gog.com/en/game/chasm) · [Humble Store](https://www.humblebundle.com/store/chasm) |
+
+## Hytale
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Hytale](Game-external-hytale-Hytale) | 9/10 | No aggregate rating | 2026-01-13 · Early Access | [Hytale](https://hytale.com) · [Hytale](https://store.hytale.com) |
 
 ## IndieDB
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
+| [Survivalist: Invisible Strain](Game-1054510-Survivalist-Invisible-Strain) | 9/10 | 86.6% / 4,616 Steam reviews | Apr 25, 2025 · Released | [Steam](https://store.steampowered.com/app/1054510) · [IndieDB](https://www.indiedb.com/games/survivalist-invisible-strain) · [Steam](https://store.steampowered.com/app/1334380/) |
 | [Ato](Game-1096180-Ato) | 9/10 | 96.4% / 477 Steam reviews | May 8, 2020 · Released | [Steam](https://store.steampowered.com/app/1096180) · [itch.io](https://tinywarriorgames.itch.io/ato) · [IndieDB](https://www.indiedb.com/games/ato) · [Steam](https://store.steampowered.com/app/1292360) |
 | [Peripeteia](Game-1437760-Peripeteia) | 8/10 | 86.2% / 3,532 Steam reviews | Feb 21, 2025 · Early Access | [Steam](https://store.steampowered.com/app/1437760/) · [itch.io](https://9thexodus.itch.io/peripeteia) · [IndieDB](https://www.indiedb.com/games/peripeteia) |
 | [DEAD TRASH](Game-3316470-DEAD-TRASH) | 8/10 | 89.1% / 512 Steam reviews | Mar 11, 2025 · Released | [Steam](https://store.steampowered.com/app/3316470/) · [itch.io](https://crowhillstudios.itch.io/dead-trash) · [IndieDB](https://www.indiedb.com/games/dead-trash) |
 | [Marko: Beyond Brave](Game-1186470-Marko-Beyond-Brave) | 7/10 | 70.0% / 70 Steam reviews | Sep 17, 2024 · Released | [Steam](https://store.steampowered.com/app/1186470) · [IndieDB](https://www.indiedb.com/games/marko-beyond-brave) |
 | [Global Conflagration](Game-908770-Global-Conflagration) | Unrated | No aggregate rating | To be announced · Upcoming | [Steam](https://store.steampowered.com/app/908770/) · [IndieDB](https://www.indiedb.com/games/global-conflagration) |
+| [Infiniterra](Game-4428380-Infiniterra) | Unrated | No aggregate rating | 2026 · Upcoming | [Steam](https://store.steampowered.com/app/4428380) · [IndieDB](https://www.indiedb.com/games/infiniterra) · [Steam](https://store.steampowered.com/app/4443050/) |
 
 ## Konami
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
 | [Castlevania Requiem: Symphony of the Night & Rondo of Blood](Game-external-castlevania-requiem-Castlevania-Requiem-Symphony-of-the-Night-Rondo-of-Blood) | 10/10 | No aggregate rating | 2018-10-26 · Released | [PlayStation](https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001) · [Konami](https://www.konami.com/games/us/en/topics/1190) |
+
+## Microsoft Store
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Survivalcraft 2](Game-external-survivalcraft-2-Survivalcraft-2) | 8/10 | No aggregate rating | See creator release · Released | [Official site](https://kaalus.wordpress.com) · [Microsoft Store](https://www.microsoft.com/p/survivalcraft-2/9phc48p58nb2) · [Google Play](https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft2) · [App Store](https://itunes.apple.com/app/survivalcraft2/id1185580782) |
+
+## Minecraft
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Minecraft: Java & Bedrock Edition](Game-external-minecraft-Minecraft-Java-Bedrock-Edition) | 10/10 | No aggregate rating | 2011-11-18 · Released | [Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc) |
 
 ## ModDB
 
@@ -348,15 +466,26 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [OpenRA](Game-external-openra-OpenRA) | 10/10 | No aggregate rating | Community release; see project · Released | [itch.io](https://openra.itch.io/openra) · [Official site](https://www.openra.net/) · [Official site](https://www.openra.net/download/) |
 | [Zero-K](Game-334920-Zero-K) | 9/10 | 93.7% / 4,418 Steam reviews | Apr 27, 2018 · Released | [Steam](https://store.steampowered.com/app/334920/) · [Official site](https://zero-k.info/) |
 | [Warzone 2100](Game-1241950-Warzone-2100) | 9/10 | 89.9% / 1,633 Steam reviews | Feb 18, 2020 · Released | [Steam](https://store.steampowered.com/app/1241950/) · [Official site](https://wz2100.net/) |
+| [Cataclysm: Dark Days Ahead](Game-2330750-Cataclysm-Dark-Days-Ahead) | 9/10 | 86.1% / 553 Steam reviews | Mar 31, 2023 · Released | [Steam](https://store.steampowered.com/app/2330750) · [Official site](https://cataclysmdda.org) |
 | [0 A.D.](Game-external-0-ad-0-A-D) | 9/10 | No aggregate rating | Community release; see project · Released | [Official site](https://play0ad.com/) · [Official site](https://play0ad.com/download/) |
 | [An Untitled Story](Game-external-an-untitled-story-An-Untitled-Story) | 9/10 | No aggregate rating | 2007-08-26 · Released | [Official site](https://www.maddymakesgames.com) · [Official site](https://www.maddymakesgames.com/games/AnUntitledStory.zip) |
+| [Cataclysm: Bright Nights](Game-external-cataclysm-bright-nights-Cataclysm-Bright-Nights) | 9/10 | No aggregate rating | See creator release · Released | [Official site](https://cataclysmbn.org) · [GitHub](https://github.com/cataclysmbn/Cataclysm-BN) |
 | [Hero Core](Game-external-hero-core-Hero-Core) | 9/10 | No aggregate rating | See creator release · Released | [Official site](https://www.remargames.se/herocore.php) |
 | [Lyle in Cube Sector](Game-external-lyle-cube-sector-Lyle-in-Cube-Sector) | 9/10 | No aggregate rating | See creator release · Released | [Official site](https://www.bogozone.net/lyle.html) |
+| [Minicraft+](Game-external-minicraft-plus-Minicraft) | 9/10 | No aggregate rating | See creator release · Released | [Official site](https://minicraftplus.github.io) · [GitHub](https://github.com/MinicraftPlus/minicraft-plus-revived) |
 | [Wolfenstein: Blade of Agony](Game-external-blade-of-agony-Wolfenstein-Blade-of-Agony) | 9/10 | No aggregate rating | 2021 (year only) · Released | [Official site](https://boa.realm667.com/) · [ModDB](https://www.moddb.com/mods/wolfendoom-blade-of-agony) |
 | [Littlewargame](Game-external-littlewargame-Littlewargame) | 8/10 | No aggregate rating | Community release; see project · Released | [Official site](https://littlewargame.com/) |
+| [Mine Blocks](Game-external-mine-blocks-Mine-Blocks) | 8/10 | No aggregate rating | See creator update history · Released | [Official site](https://mineblocks.com/1) · [Official site](https://mineblocks.com/1/download) |
+| [Mine Blocks 2](Game-external-mine-blocks-2-Mine-Blocks-2) | 8/10 | No aggregate rating | See creator update history · Playable alpha | [Official site](https://mineblocks.com/2) · [Official site](https://mineblocks.com/2/download) |
 | [OpenHV](Game-external-openhv-OpenHV) | 8/10 | No aggregate rating | Community release; see project · Released | [Official site](https://www.openhv.net/) · [itch.io](https://openhv.itch.io/openhv) |
+| [Path of Titans](Game-external-path-of-titans-Path-of-Titans) | 8/10 | No aggregate rating | See creator release · Early Access | [Official site](https://pathoftitans.com) · [Alderon Games](https://alderongames.com/store/path-of-titans) · [PlayStation](https://store.playstation.com/concept/10000950) · [Xbox](https://www.xbox.com/games/store/pathoftitans/9PGDD5NS7JF3) |
+| [Stranded II](Game-external-stranded-2-Stranded-II) | 8/10 | No aggregate rating | See creator release · Released | [Official site](https://www.unrealsoftware.de/game_stranded2.php) |
 | [SuperTux](Game-external-supertux-SuperTux) | 8/10 | No aggregate rating | Original date not independently recorded · Released | [Official site](https://www.supertux.org/) · [Official downloads](https://www.supertux.org/download.html) |
+| [Survivalcraft 2](Game-external-survivalcraft-2-Survivalcraft-2) | 8/10 | No aggregate rating | See creator release · Released | [Official site](https://kaalus.wordpress.com) · [Microsoft Store](https://www.microsoft.com/p/survivalcraft-2/9phc48p58nb2) · [Google Play](https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft2) · [App Store](https://itunes.apple.com/app/survivalcraft2/id1185580782) |
+| [Veloren](Game-external-veloren-Veloren) | 8/10 | No aggregate rating | See creator release · Playable alpha | [Official site](https://veloren.net) · [Official site](https://veloren.net/download) |
+| [LUUN](Game-external-luun-LUUN) | 7/10 | No aggregate rating | See creator release · Prototype | [Official site](https://luungame.com/index.html) · [itch.io](https://countsie.itch.io/luun) |
 | [Necrowave](Game-external-necrowave-Necrowave) | 7/10 | No aggregate rating | See creator release · Prototype | [Official site](https://www.necrowave.com) |
+| [Terasology](Game-external-terasology-Terasology) | 7/10 | No aggregate rating | See creator release · Playable alpha | [Official site](https://terasology.org) · [GitHub](https://github.com/MovingBlocks/Terasology) |
 
 ## PlayStation
 
@@ -365,6 +494,7 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [ASTRO BOT](Game-external-astro-bot-ASTRO-BOT) | 10/10 | No aggregate rating | 2024-09-06 · Released | [PlayStation](https://www.playstation.com/en-us/games/astro-bot/) |
 | [Castlevania Requiem: Symphony of the Night & Rondo of Blood](Game-external-castlevania-requiem-Castlevania-Requiem-Symphony-of-the-Night-Rondo-of-Blood) | 10/10 | No aggregate rating | 2018-10-26 · Released | [PlayStation](https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001) · [Konami](https://www.konami.com/games/us/en/topics/1190) |
 | [ASTRO's Playroom](Game-external-astros-playroom-ASTRO-s-Playroom) | 9/10 | No aggregate rating | 2020-11-12 · Released | [PlayStation](https://www.playstation.com/en-us/games/astros-playroom/) |
+| [Path of Titans](Game-external-path-of-titans-Path-of-Titans) | 8/10 | No aggregate rating | See creator release · Early Access | [Official site](https://pathoftitans.com) · [Alderon Games](https://alderongames.com/store/path-of-titans) · [PlayStation](https://store.playstation.com/concept/10000950) · [Xbox](https://www.xbox.com/games/store/pathoftitans/9PGDD5NS7JF3) |
 
 ## Slipseer
 
@@ -373,6 +503,18 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Dwell](Game-external-dwell-Dwell) | 9/10 | No aggregate rating | 2020 (year only) · Released | [ModDB](https://www.moddb.com/mods/dwell) · [Slipseer](https://www.slipseer.com/index.php?resources/dwell.21/) |
 | [Quake Brutalist Jam III](Game-external-qbj3-Quake-Brutalist-Jam-III) | 9/10 | No aggregate rating | 2026-01-03 · Released | [ModDB](https://www.moddb.com/mods/quake-brutalist-jam-iii) · [ModDB standalone](https://www.moddb.com/mods/quake-brutalist-jam-iii/downloads/qbj3-v13-standalone) · [Slipseer](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/) |
 | [Tremor: An Alternate Version of Quake](Game-external-tremor-Tremor-An-Alternate-Version-of-Quake) | 9/10 | No aggregate rating | 2026-07-22 · Released | [ModDB](https://www.moddb.com/mods/tremor-an-alternate-version-of-quake) · [Slipseer](https://www.slipseer.com/index.php?resources/tremor.614/) |
+
+## Vintage Story
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Vintage Story](Game-external-vintage-story-Vintage-Story) | 10/10 | No aggregate rating | See creator release · Early Access | [Vintage Story](https://www.vintagestory.at) · [itch.io](https://tyronx.itch.io/vintage-story) · [Vintage Story](https://www.vintagestory.at/store/category/1-single-game-account) · [Humble Store](https://www.humblebundle.com/store/vintage-story) |
+
+## Xbox
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Path of Titans](Game-external-path-of-titans-Path-of-Titans) | 8/10 | No aggregate rating | See creator release · Early Access | [Official site](https://pathoftitans.com) · [Alderon Games](https://alderongames.com/store/path-of-titans) · [PlayStation](https://store.playstation.com/concept/10000950) · [Xbox](https://www.xbox.com/games/store/pathoftitans/9PGDD5NS7JF3) |
 
 ## Xbox PC
 
@@ -384,20 +526,28 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
+| [Raft](Game-648800-Raft) | 10/10 | 93.0% / 380,192 Steam reviews | Jun 20, 2022 · Released | [Steam](https://store.steampowered.com/app/648800) · [itch.io](https://raft.itch.io/raft) |
 | [TUNIC](Game-553420-TUNIC) | 10/10 | 90.9% / 18,924 Steam reviews | Mar 16, 2022 · Released | [Steam](https://store.steampowered.com/app/553420) · [GOG](https://www.gog.com/en/game/tunic) · [itch.io](https://finji.itch.io/tunic) · [Humble Store](https://www.humblebundle.com/store/tunic) |
 | [OpenRA](Game-external-openra-OpenRA) | 10/10 | No aggregate rating | Community release; see project · Released | [itch.io](https://openra.itch.io/openra) · [Official site](https://www.openra.net/) · [Official site](https://www.openra.net/download/) |
+| [Vintage Story](Game-external-vintage-story-Vintage-Story) | 10/10 | No aggregate rating | See creator release · Early Access | [Vintage Story](https://www.vintagestory.at) · [itch.io](https://tyronx.itch.io/vintage-story) · [Vintage Story](https://www.vintagestory.at/store/category/1-single-game-account) · [Humble Store](https://www.humblebundle.com/store/vintage-story) |
 | [CrossCode](Game-368340-CrossCode) | 9/10 | 92.3% / 18,558 Steam reviews | Sep 20, 2018 · Released | [Steam](https://store.steampowered.com/app/368340) · [GOG](https://www.gog.com/en/game/crosscode) · [itch.io](https://radicalfishgames.itch.io/crosscode) · [Steam](https://store.steampowered.com/app/370900) |
 | [Diplomacy is Not an Option](Game-1272320-Diplomacy-is-Not-an-Option) | 9/10 | 85.6% / 12,804 Steam reviews | Oct 4, 2024 · Released | [Steam](https://store.steampowered.com/app/1272320/) · [GOG](https://www.gog.com/en/game/diplomacy_is_not_an_option) · [itch.io](https://door407.itch.io/diplomacy-is-not-an-option) |
 | [Monster Sanctuary](Game-814370-Monster-Sanctuary) | 9/10 | 91.2% / 12,732 Steam reviews | Dec 8, 2020 · Released | [Steam](https://store.steampowered.com/app/814370) · [itch.io](https://sersch.itch.io/monster-sanctuary) · [Steam](https://store.steampowered.com/app/873570) |
+| [Stationeers](Game-544550-Stationeers) | 9/10 | 87.8% / 9,344 Steam reviews | Dec 12, 2017 · Early Access | [Steam](https://store.steampowered.com/app/544550) · [itch.io](https://rocketwerkz.itch.io/stationeers) |
 | [GRIME](Game-1123050-GRIME) | 9/10 | 84.8% / 6,833 Steam reviews | Aug 2, 2021 · Released | [Steam](https://store.steampowered.com/app/1123050) · [GOG](https://www.gog.com/en/game/grime) · [itch.io](https://akuparagames.itch.io/grime) · [Steam](https://store.steampowered.com/app/1524090) |
+| [Sandustry](Game-2764460-Sandustry) | 9/10 | 97.2% / 5,835 Steam reviews | Aug 13, 2026 · Early Access | [Steam](https://store.steampowered.com/app/2764460) · [GOG](https://www.gog.com/en/game/sandustry) · [itch.io](https://lanttogames.itch.io/sandustry) · [Steam](https://store.steampowered.com/app/3490390/) |
 | [I Am Your Beast](Game-1876590-I-Am-Your-Beast) | 9/10 | 97.7% / 5,707 Steam reviews | Sep 10, 2024 · Released | [Steam](https://store.steampowered.com/app/1876590/) · [GOG](https://www.gog.com/en/game/i_am_your_beast) · [itch.io](https://strangescaffold.itch.io/i-am-your-beast) |
 | [Sundered®: Eldritch Edition](Game-535480-Sundered-Eldritch-Edition) | 9/10 | 81.6% / 5,187 Steam reviews | Jul 28, 2017 · Released | [Steam](https://store.steampowered.com/app/535480) · [itch.io](https://thunderlotus.itch.io/sundered) |
+| [Survival: Fountain of Youth](Game-1967630-Survival-Fountain-of-Youth) | 9/10 | 85.3% / 4,546 Steam reviews | May 21, 2024 · Released | [Steam](https://store.steampowered.com/app/1967630) · [itch.io](https://odinsoftgames.itch.io/survival-fountain-of-youth) · [Steam](https://store.steampowered.com/app/1967730/) |
+| [Terminus: Zombie Survivors](Game-1534980-Terminus-Zombie-Survivors) | 9/10 | 94.2% / 4,519 Steam reviews | Aug 19, 2024 · Released | [Steam](https://store.steampowered.com/app/1534980) · [itch.io](https://longplay.itch.io/terminus-zombie-survivors) · [Steam](https://store.steampowered.com/app/1971460/) |
 | [HAAK](Game-1352930-HAAK) | 9/10 | 89.4% / 3,567 Steam reviews | Aug 24, 2022 · Released | [Steam](https://store.steampowered.com/app/1352930) · [itch.io](https://blingames.itch.io/haak) · [Steam](https://store.steampowered.com/app/1677820) |
+| [Aground](Game-876650-Aground) | 9/10 | 93.8% / 2,046 Steam reviews | Apr 17, 2020 · Released | [Steam](https://store.steampowered.com/app/876650) · [GOG](https://www.gog.com/en/game/aground) · [itch.io](https://fancyfishgames.itch.io/aground) · [Steam](https://store.steampowered.com/app/876660/) |
 | [Hedon Bloodrite](Game-1072150-Hedon-Bloodrite) | 9/10 | 90.9% / 1,964 Steam reviews | May 16, 2019 · Released | [Steam](https://store.steampowered.com/app/1072150/) · [GOG](https://www.gog.com/en/game/hedon) · [itch.io](https://zanthebonebreaker.itch.io/hedon) |
 | [Rusted Moss](Game-1772830-Rusted-Moss) | 9/10 | 89.1% / 1,775 Steam reviews | Apr 11, 2023 · Released | [Steam](https://store.steampowered.com/app/1772830) · [itch.io](https://emlise.itch.io/rusted-moss-demo) |
 | [Astalon: Tears of the Earth](Game-1046400-Astalon-Tears-of-the-Earth) | 9/10 | 90.4% / 1,591 Steam reviews | Jun 3, 2021 · Released | [Steam](https://store.steampowered.com/app/1046400) · [itch.io](https://dangen-entertainment.itch.io/astalon-tears-of-the-earth) |
 | [ElecHead](Game-1456880-ElecHead) | 9/10 | 96.3% / 1,476 Steam reviews | Oct 14, 2021 · Released | [Steam](https://store.steampowered.com/app/1456880) · [GOG](https://www.gog.com/en/game/elechead) · [itch.io](https://namatakahashi.itch.io/elechead) |
 | [Zortch](Game-2443360-Zortch) | 9/10 | 98.3% / 1,409 Steam reviews | Jun 8, 2023 · Released | [Steam](https://store.steampowered.com/app/2443360/) · [itch.io](https://mutantleg.itch.io/zortch) |
+| [UnReal World](Game-351700-UnReal-World) | 9/10 | 94.3% / 1,393 Steam reviews | Feb 26, 2016 · Released | [Steam](https://store.steampowered.com/app/351700) · [GOG](https://www.gog.com/en/game/unreal_world) · [itch.io](https://enormous-elk.itch.io/unreal-world) |
 | [ADACA](Game-1765780-ADACA) | 9/10 | 91.6% / 902 Steam reviews | Jul 25, 2022 · Released | [Steam](https://store.steampowered.com/app/1765780/) · [itch.io](https://siris-pendrake.itch.io/adaca) |
 | [Ato](Game-1096180-Ato) | 9/10 | 96.4% / 477 Steam reviews | May 8, 2020 · Released | [Steam](https://store.steampowered.com/app/1096180) · [itch.io](https://tinywarriorgames.itch.io/ato) · [IndieDB](https://www.indiedb.com/games/ato) · [Steam](https://store.steampowered.com/app/1292360) |
 | [Zapling Bygone](Game-1489110-Zapling-Bygone) | 9/10 | 80.3% / 198 Steam reviews | Aug 5, 2022 · Released | [Steam](https://store.steampowered.com/app/1489110) · [itch.io](https://9fingergames.itch.io/zapling-bygone) |
@@ -431,6 +581,7 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Auridia](Game-3443080-Auridia) | 8/10 | 96.3% / 215 Steam reviews | Sep 22, 2025 · Released | [Steam](https://store.steampowered.com/app/3443080) · [itch.io](https://norseboar.itch.io/auridia-demo) |
 | [Robot Wants It All](Game-834760-Robot-Wants-It-All) | 8/10 | 88.8% / 197 Steam reviews | Apr 4, 2019 · Released | [Steam](https://store.steampowered.com/app/834760) · [itch.io](https://hamumu.itch.io/robot-wants-it-all) |
 | [Little Nemo and the Guardians of Slumberland](Game-2074630-Little-Nemo-and-the-Guardians-of-Slumberland) | 8/10 | 94.0% / 133 Steam reviews | Mar 31, 2026 · Released | [Steam](https://store.steampowered.com/app/2074630) · [itch.io](https://diesoftgames.itch.io/little-nemo) |
+| [Aground Zero](Game-1795570-Aground-Zero) | 8/10 | 80.8% / 130 Steam reviews | Apr 4, 2025 · Released | [Steam](https://store.steampowered.com/app/1795570) · [itch.io](https://fancyfishgames.itch.io/aground-zero) · [Steam](https://store.steampowered.com/app/2255750/) |
 | [Machinefall](Game-3213120-Machinefall) | 8/10 | 83.6% / 128 Steam reviews | Jul 10, 2026 · Released | [Steam](https://store.steampowered.com/app/3213120/) · [itch.io](https://machinefall.itch.io/machinefall) |
 | [Extraneum](Game-1999140-Extraneum) | 8/10 | 95.0% / 119 Steam reviews | Sep 25, 2024 · Released | [Steam](https://store.steampowered.com/app/1999140/) · [itch.io](https://davidjalbert.itch.io/extraneum) |
 | [Magical Blush](Game-3488640-Magical-Blush) | 8/10 | 91.5% / 118 Steam reviews | Sep 10, 2026 · Released | [Steam](https://store.steampowered.com/app/3488640) · [GOG](https://www.gog.com/en/game/magical_blush) · [itch.io](https://dangen-entertainment.itch.io/magical-blush) · [Steam](https://store.steampowered.com/app/4448640) |
@@ -465,7 +616,9 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Dying Breed](Game-2088550-Dying-Breed) | 7/10 | 72.2% / 234 Steam reviews | Oct 7, 2025 · Early Access | [Steam](https://store.steampowered.com/app/2088550/) · [itch.io](https://sarnayer.itch.io/dying-breed) |
 | [Alchemist's Castle](Game-726340-Alchemist-s-Castle) | 7/10 | 77.9% / 145 Steam reviews | Nov 2, 2017 · Released | [Steam](https://store.steampowered.com/app/726340) · [itch.io](https://kabukgames.itch.io/alchemists-castle) |
 | [Faerie Afterlight](Game-1415280-Faerie-Afterlight) | 7/10 | 70.6% / 109 Steam reviews | Sep 28, 2023 · Released | [Steam](https://store.steampowered.com/app/1415280) · [itch.io](https://claygamestudio.itch.io/faerie-afterlight) |
+| [Deep Despair 2](Game-1686130-Deep-Despair-2) | 7/10 | 73.4% / 94 Steam reviews | Oct 8, 2021 · Released | [Steam](https://store.steampowered.com/app/1686130) · [itch.io](https://bekkerdev-studio.itch.io/deep-despair-2) · [Steam](https://store.steampowered.com/app/1710090/) |
 | [Marrow](Game-556710-Marrow) | 7/10 | 77.0% / 61 Steam reviews | Nov 25, 2016 · Released | [Steam](https://store.steampowered.com/app/556710) · [itch.io](https://vincentguff.itch.io/marrow) |
+| [Residual](Game-1290780-Residual) | 7/10 | 75.0% / 32 Steam reviews | Sep 9, 2021 · Released | [Steam](https://store.steampowered.com/app/1290780) · [GOG](https://www.gog.com/en/game/residual) · [itch.io](https://orangepixel.itch.io/residual) · [Steam](https://store.steampowered.com/app/1314610/) |
 | [Death Machine](Game-2741830-Death-Machine) | 7/10 | 52.6% / 19 Steam reviews | Jan 6, 2026 · Released | [Steam](https://store.steampowered.com/app/2741830) · [itch.io](https://philtacular.itch.io/death-machine) |
 | [Little Ghost](Game-1587380-Little-Ghost) | 7/10 | 100.0% / 15 Steam reviews | Sep 22, 2026 · Released | [Steam](https://store.steampowered.com/app/1587380) · [itch.io](https://littleghost2021.itch.io/little-ghost) · [Steam](https://store.steampowered.com/app/1588310) |
 | [MF-01 Aerostrike](Game-2303500-MF-01-Aerostrike) | 7/10 | 100.0% / 14 Steam reviews | Jul 31, 2023 · Released | [Steam](https://store.steampowered.com/app/2303500) · [itch.io](https://lmg3864.itch.io/aerostrike) · [Steam](https://store.steampowered.com/app/2303790) |
@@ -480,6 +633,7 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Fiend's Fall](Game-external-fiends-fall-Fiend-s-Fall) | 7/10 | 5.0/5 / 4 itch.io ratings | See creator release · Released | [itch.io](https://samppamon.itch.io/fiends-fall) |
 | [Fohh](Game-external-fohh-Fohh) | 7/10 | 4.8/5 / 153 itch.io ratings | See creator release · Prototype | [itch.io](https://ismaelrodriguez.itch.io/fohh) |
 | [KAUNA - Creator Prototype](Game-external-kauna-prototype-KAUNA-Creator-Prototype) | 7/10 | 4.2/5 / 4 itch.io ratings | Original date unlisted · Prototype | [itch.io](https://anttironkkagames.itch.io/kauna) |
+| [LUUN](Game-external-luun-LUUN) | 7/10 | No aggregate rating | See creator release · Prototype | [Official site](https://luungame.com/index.html) · [itch.io](https://countsie.itch.io/luun) |
 | [Peppermint](Game-external-peppermint-Peppermint) | 7/10 | No aggregate rating | See creator release · Prototype | [itch.io](https://salmoone.itch.io/peppermint) |
 | [Rabbit's Quest](Game-external-rabbits-quest-Rabbit-s-Quest) | 7/10 | 4.8/5 / 17 itch.io ratings | See creator release · Released | [itch.io](https://directshift.itch.io/rabbits-quest) |
 | [Senescence Protocol](Game-external-senescence-protocol-Senescence-Protocol) | 7/10 | 4.8/5 / 4 itch.io ratings | See creator release · Released | [itch.io](https://lui421.itch.io/senescence-protocol) |
@@ -489,6 +643,8 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [Wanted 3D: Dead or Alive - Demo](Game-external-wanted3d-demo-Wanted-3D-Dead-or-Alive-Demo) | 7/10 | 5/5 / 2 itch.io ratings | Original date unlisted · Demo | [itch.io](https://pavoent.itch.io/wanted-3d-dead-or-alive) |
 | [HYPERVIOLENT](Game-1409200-HYPERVIOLENT) | 6/10 | 58.0% / 524 Steam reviews | Sep 23, 2025 · Released | [Steam](https://store.steampowered.com/app/1409200/) · [GOG](https://www.gog.com/en/game/hyperviolent) · [itch.io](https://fulqrumpublishing.itch.io/hv) |
 | [Mable & The Wood](Game-568070-Mable-The-Wood) | 6/10 | 57.1% / 91 Steam reviews | Aug 23, 2019 · Released | [Steam](https://store.steampowered.com/app/568070) · [GOG](https://www.gog.com/en/game/mable_the_wood) · [itch.io](https://graffiti-games.itch.io/mable-and-the-wood) |
+| [Survival Vacancy](Game-1140130-Survival-Vacancy) | 6/10 | 64.0% / 86 Steam reviews | Feb 19, 2021 · Released | [Steam](https://store.steampowered.com/app/1140130) · [itch.io](https://mindleak.itch.io/survival-vacancy) |
+| [Nearly Dead](Game-1268900-Nearly-Dead) | 5/10 | 45.7% / 300 Steam reviews | Sep 10, 2021 · Early Access | [Steam](https://store.steampowered.com/app/1268900) · [itch.io](https://monosw2000.itch.io/nearly-dead) |
 | [Astra: Fading Stars](Game-1666480-Astra-Fading-Stars) | Unrated | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/1666480) · [itch.io](https://dimensionomega.itch.io/astra-fading-stars-demo) · [Steam](https://store.steampowered.com/app/1666490) |
 | [DRAGONBOMB](Game-5271260-DRAGONBOMB) | Unrated | No aggregate rating | Coming soon · Upcoming | [Steam](https://store.steampowered.com/app/5271260) · [itch.io](https://ad8xya.itch.io/dragonbomb) |
 | [PITH](Game-4775660-PITH) | Unrated | No aggregate rating | Nov 6, 2026 · Upcoming | [Steam](https://store.steampowered.com/app/4775660) · [itch.io](https://keveatscheese.itch.io/pith) · [Steam](https://store.steampowered.com/app/4950490) |
