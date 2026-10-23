@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "overrides": {
+    "external:mongrel-story": {
+      "excludeFromPublication": true,
+      "reviewState": "unresolved-active",
+      "reviewReason": "The exact public Linux demo was downloaded and launched in two isolated preview routes, but neither produced usable gameplay footage. No matching external gameplay source was verified. Retain this candidate and its creator page for review rather than publish a blank video or substitute the unrelated commercial game Mongrel. This is not a claim that every build of the game is unplayable."
+    }
+  },
+  "dispositions": [
+    {
+      "candidate": "Mongrel Story (Demo)",
+      "id": "external:mongrel-story",
+      "state": "unresolved-active",
+      "sourceUrl": "https://mountainstork.itch.io/mongrel-story-demo",
+      "reason": "Media and playable-preview verification not met; not promoted as a recommendation. Original source data remains in metroidvania-external.json.",
+      "evidenceRun": 39996322656,
+      "evidenceArtifact": 12519379288,
+      "evidenceSha256": "2f7171d848c695cdb144ab63a0375c970da972cf2afe0de5b8177dc7d8659f44",
+      "publicBuildSha256": "a17c0950e98c5c8cf649bc44a66a31d8ab5927ac996ae0186fad9a63a26c8972"
+    }
+  ]
+}
