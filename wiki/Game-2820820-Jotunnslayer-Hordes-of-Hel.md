@@ -2,7 +2,7 @@
 
 ![Jotunnslayer: Hordes of Hel official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/header.jpg?t=1789633603)
 
-**[Steam store](https://store.steampowered.com/app/2820820/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2820820)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2820820/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2820820)** · [Roguelites](Roguelites)
 
 Hordes of Hel is a gripping roguelike horde-survivor game set in the dark realms of Norse Mythology. Fight waves of enemies to earn divine blessings of ancient Viking Deities, explore hostile worlds and face powerful bosses. Become a god-like warrior in this ultimate showdown.
 
@@ -10,23 +10,35 @@ Hordes of Hel is a gripping roguelike horde-survivor game set in the dark realms
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 10/10 |
-| Steam positive reviews | 82.4% |
-| Review count | 7,854 |
-| Steam release date | Sep 3, 2025 |
-| Status | Released |
-| Developers | Games Farm, ARTillery |
-| US price snapshot | $14.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 82.4% / 7,854 Steam reviews |
+| Release | Sep 3, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Games Farm, ARTillery |
+| Price snapshot | $14.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2820820/)
 
 ## Official media
 
-- [Jotunnslayer: Hordes of Hel - Conan DLC & Local Co-Op Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2820820/736493144/649fd2cd4239f134b91d37773d3f29229c97e4a1/1775720393/hls_264_master.m3u8?t=1775739406)
-- [Jotunnslayer: Hordes of Hel - Official Launch Trailer \| PC & Consoles](https://video.akamai.steamstatic.com/store_trailers/2820820/842946038/1199b6c2dd2271d07b55713904be76fd789c6337/1756732641/hls_264_master.m3u8?t=1756917584)
-- [Jotunnslayer: Hordes of Hel \| Release Date Reveal Trailer ](https://video.akamai.steamstatic.com/store_trailers/2820820/1566759137/7af8b19d8b761efcbb304459a0a9a0731c8c1ab2/1752054594/hls_264_master.m3u8?t=1752152387)
-- [Jotunnslayer: Hordes of Hel - Content Update Trailer: Svartalfheim Descent](https://video.akamai.steamstatic.com/store_trailers/2820820/860191964/f1fa61dacdecbb2bb91b8844aede4d8df159c8c1/1750820312/hls_264_master.m3u8?t=1747145153)
-- [Jotunnslayer: Hordes of Hel - The Fall Of Alfheim \| Official Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2820820/698645625/075e972ee8bf5c5fd624cf9d04f9fe429b0cea0c/1764662418/hls_264_master.m3u8?t=1764859032)
-- [Jotunnslayer: Hordes of Hel - Content Update Trailer: Jotunheim and Skadi](https://video.akamai.steamstatic.com/store_trailers/2820820/844193/841f92aaa83e650050f07a7aa279fdb711c54937/1750820311/hls_264_master.m3u8?t=1741268677)
-- [Jotunnslayer: Hordes of Hel \| Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2820820/814774/c21ab0e25f862de1bdcc21eec6487ddca267bd81/1750820296/hls_264_master.m3u8?t=1737460861)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Jotunnslayer: Hordes of Hel - Conan DLC & Local Co-Op Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2820820/736493144/649fd2cd4239f134b91d37773d3f29229c97e4a1/1775720393/hls_264_master.m3u8?t=1775739406)
+
+[Jotunnslayer: Hordes of Hel - Official Launch Trailer \| PC & Consoles](https://video.akamai.steamstatic.com/store_trailers/2820820/842946038/1199b6c2dd2271d07b55713904be76fd789c6337/1756732641/hls_264_master.m3u8?t=1756917584)
+
+[Jotunnslayer: Hordes of Hel \| Release Date Reveal Trailer ](https://video.akamai.steamstatic.com/store_trailers/2820820/1566759137/7af8b19d8b761efcbb304459a0a9a0731c8c1ab2/1752054594/hls_264_master.m3u8?t=1752152387)
+
+[Jotunnslayer: Hordes of Hel - Content Update Trailer: Svartalfheim Descent](https://video.akamai.steamstatic.com/store_trailers/2820820/860191964/f1fa61dacdecbb2bb91b8844aede4d8df159c8c1/1750820312/hls_264_master.m3u8?t=1747145153)
+
+[Jotunnslayer: Hordes of Hel - The Fall Of Alfheim \| Official Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2820820/698645625/075e972ee8bf5c5fd624cf9d04f9fe429b0cea0c/1764662418/hls_264_master.m3u8?t=1764859032)
+
+[Jotunnslayer: Hordes of Hel - Content Update Trailer: Jotunheim and Skadi](https://video.akamai.steamstatic.com/store_trailers/2820820/844193/841f92aaa83e650050f07a7aa279fdb711c54937/1750820311/hls_264_master.m3u8?t=1741268677)
+
+[Jotunnslayer: Hordes of Hel \| Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2820820/814774/c21ab0e25f862de1bdcc21eec6487ddca267bd81/1750820296/hls_264_master.m3u8?t=1737460861)
 
 ![Jotunnslayer: Hordes of Hel official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/9103b05d68d9af42da9efb4cee30ffb1f681e679/ss_9103b05d68d9af42da9efb4cee30ffb1f681e679.1920x1080.jpg?t=1789633603)
 
@@ -94,6 +106,10 @@ Hordes of Hel is a gripping roguelike horde-survivor game set in the dark realms
 
 ![Jotunnslayer: Hordes of Hel official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/7fe114d4584d3a1f362b0a6a22354b49370e7a95/ss_7fe114d4584d3a1f362b0a6a22354b49370e7a95.1920x1080.jpg?t=1789633603)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2820820/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2820820&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2820820%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

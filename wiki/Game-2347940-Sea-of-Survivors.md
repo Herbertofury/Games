@@ -2,7 +2,7 @@
 
 ![Sea of Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347940/header.jpg?t=1759119813)
 
-**[Steam store](https://store.steampowered.com/app/2347940/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2347940)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2347940/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2347940)** · [Roguelites](Roguelites)
 
 In Sea of Survivors, you can sail your ship in any direction but you can never stop moving. Evade and destroy hordes of pirates and sea monsters to gain experience, level up and choose upgrades for your ship. Explore oceans filled with mysterious curses, unlock treasures and fight for survival.
 
@@ -10,18 +10,25 @@ In Sea of Survivors, you can sail your ship in any direction but you can never s
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 8/10 |
-| Steam positive reviews | 81.4% |
-| Review count | 419 |
-| Steam release date | Oct 18, 2023 |
-| Status | Early Access |
-| Developers | Nah Yeah Games |
-| US price snapshot | $6.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 81.4% / 419 Steam reviews |
+| Release | Oct 18, 2023 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Nah Yeah Games |
+| Price snapshot | $6.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2347940/)
 
 ## Official media
 
-- [Sea of Survivors - The Shifting Isles](https://video.akamai.steamstatic.com/store_trailers/2347940/775351/e999e207e50def473e8c59951848be44d45d35c5/1750909683/hls_264_master.m3u8?t=1730005356)
-- [Official trailer](https://video.akamai.steamstatic.com/store_trailers/2347940/556029/20c2b2cc3c203af9d698c7f49851b3e371e5162f/1750909679/hls_264_master.m3u8?t=1696852776)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Sea of Survivors - The Shifting Isles](https://video.akamai.steamstatic.com/store_trailers/2347940/775351/e999e207e50def473e8c59951848be44d45d35c5/1750909683/hls_264_master.m3u8?t=1730005356)
+
+[](https://video.akamai.steamstatic.com/store_trailers/2347940/556029/20c2b2cc3c203af9d698c7f49851b3e371e5162f/1750909679/hls_264_master.m3u8?t=1696852776)
 
 ![Sea of Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347940/ss_04bef178b1dfc86aa575315e1b0e43f4f050e3a4.1920x1080.jpg?t=1759119813)
 
@@ -45,6 +52,10 @@ In Sea of Survivors, you can sail your ship in any direction but you can never s
 
 ![Sea of Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347940/ss_e2e3241a0532f8a4384da3e6d501d0134b89a35f.1920x1080.jpg?t=1759119813)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2347940/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2347940&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2347940%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

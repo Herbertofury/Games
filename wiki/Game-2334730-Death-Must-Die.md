@@ -2,7 +2,7 @@
 
 ![Death Must Die official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2334730/70e0e4f26d9d6669fff784089ee35163c8401d0b/header.jpg?t=1744305567)
 
-**[Steam store](https://store.steampowered.com/app/2334730/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2334730)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2334730/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2334730)** · [Roguelites](Roguelites)
 
 Descend the nether in search of Death himself! Choose from God-given powers to slay his hordes of minions. Unlock new heroes, collect powerful items and create game-breaking synergies in this roguelite hack and slash survivors game.
 
@@ -10,17 +10,23 @@ Descend the nether in search of Death himself! Choose from God-given powers to s
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 10/10 |
-| Steam positive reviews | 90.1% |
-| Review count | 21,810 |
-| Steam release date | Nov 14, 2023 |
-| Status | Early Access |
-| Developers | Realm Archive |
-| US price snapshot | $6.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 90.1% / 21,810 Steam reviews |
+| Release | Nov 14, 2023 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Realm Archive |
+| Price snapshot | $6.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2334730/)
 
 ## Official media
 
-- [Death Must Die Trailer](https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/hls_264_master.m3u8?t=1744305567)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Death Must Die Trailer](https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/hls_264_master.m3u8?t=1744305567)
 
 ![Death Must Die official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2334730/ss_4c5dc0f9dde1a7dd5a73db9df0a7a6cc4f7b3ca9.1920x1080.jpg?t=1744305567)
 
@@ -40,6 +46,10 @@ Descend the nether in search of Death himself! Choose from God-given powers to s
 
 ![Death Must Die official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2334730/ss_fe6bef6f687f28d552fca8f2c605d5f8cbb06b61.1920x1080.jpg?t=1744305567)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2334730/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2334730&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2334730%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

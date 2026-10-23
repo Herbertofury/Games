@@ -2,7 +2,7 @@
 
 ![Fantasy Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220870/header.jpg?t=1791568303)
 
-**[Steam store](https://store.steampowered.com/app/2220870/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2220870)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2220870/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2220870)** · [Roguelites](Roguelites)
 
 A bullet heaven where you defeat thousands of creatures, unlocking characters and equipment, then challenge deeper levels. Team up with friends or go solo; all drops are instanced so you don't have to share. One-more-run becomes a no-brainer thanks to satisfying gameplay and constant unlocks.
 
@@ -10,17 +10,23 @@ A bullet heaven where you defeat thousands of creatures, unlocking characters an
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 9/10 |
-| Steam positive reviews | 86.9% |
-| Review count | 259 |
-| Steam release date | May 1, 2024 |
-| Status | Released |
-| Developers | ButtonSoft |
-| US price snapshot | $6.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 86.9% / 259 Steam reviews |
+| Release | May 1, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | ButtonSoft |
+| Price snapshot | $6.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2220870/)
 
 ## Official media
 
-- [Fantasy Survivors Full Release 2024](https://video.akamai.steamstatic.com/store_trailers/2220870/695277/9a5ffe61abe55fe193592cc24d4e60143f8f3a0e/1751091808/hls_264_master.m3u8?t=1714679252)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Fantasy Survivors Full Release 2024](https://video.akamai.steamstatic.com/store_trailers/2220870/695277/9a5ffe61abe55fe193592cc24d4e60143f8f3a0e/1751091808/hls_264_master.m3u8?t=1714679252)
 
 ![Fantasy Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220870/ss_891dd9fd8004c67998390f317594a3e5a4328ceb.1920x1080.jpg?t=1791568303)
 
@@ -42,6 +48,10 @@ A bullet heaven where you defeat thousands of creatures, unlocking characters an
 
 ![Fantasy Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220870/ss_4e504609e4b1370191342b01c52202620aee8e8e.1920x1080.jpg?t=1791568303)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2220870/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2220870&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2220870%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -1,1 +1,1 @@
-**GAMES** · A living collection, not another forgotten list. · [Steam facts and scoring](Ratings-and-Sources)
+**GAMES** · A living collection, not another forgotten list. · [Sources and scoring](Ratings-and-Sources)

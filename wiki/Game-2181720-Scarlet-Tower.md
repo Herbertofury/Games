@@ -2,7 +2,7 @@
 
 ![Scarlet Tower official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/header.jpg?t=1778015205)
 
-**[Steam store](https://store.steampowered.com/app/2181720/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2181720)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2181720/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2181720)** · [Roguelites](Roguelites)
 
 Hunt during the day, be hunted during the NIGHT! Scarlet Tower is a gothic horror casual game with roguelike and RPG elements, like talent trees, classes, familiars and more!
 
@@ -10,17 +10,23 @@ Hunt during the day, be hunted during the NIGHT! Scarlet Tower is a gothic horro
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 9/10 |
-| Steam positive reviews | 81.3% |
-| Review count | 2,399 |
-| Steam release date | Mar 25, 2024 |
-| Status | Released |
-| Developers | Pyxeralia LLC |
-| US price snapshot | $2.49 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 81.3% / 2,399 Steam reviews |
+| Release | Mar 25, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Pyxeralia LLC |
+| Price snapshot | $2.49 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2181720/)
 
 ## Official media
 
-- [Scarlet Tower Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2181720/643036/f548a58689810a41327069673a3fe99af551c16b/1751086474/hls_264_master.m3u8?t=1703196513)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Scarlet Tower Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2181720/643036/f548a58689810a41327069673a3fe99af551c16b/1751086474/hls_264_master.m3u8?t=1703196513)
 
 ![Scarlet Tower official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_83c4d2774aae709717a9fc62e21fd5c77a1ea8cf.1920x1080.jpg?t=1778015205)
 
@@ -66,6 +72,10 @@ Hunt during the day, be hunted during the NIGHT! Scarlet Tower is a gothic horro
 
 ![Scarlet Tower official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_c783f5806f17bf0ae6c8a2d6f28a3894cbf49e47.1920x1080.jpg?t=1778015205)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2181720/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2181720&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2181720%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

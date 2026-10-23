@@ -2,7 +2,7 @@
 
 ![Flock of the Seraphim official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290680/3b9320e78aeb91650b4461ae4bcc46443b2711d5/header.jpg?t=1790669671)
 
-**[Steam store](https://store.steampowered.com/app/4290680/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A4290680)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/4290680/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A4290680)** · [Roguelites](Roguelites)
 
 Exorcise hordes of demons using gun-wielding nuns and angels in this survivors-like bullet heaven! Collect and keep angels with unique weapons, stats, and abilities to create god-like builds as you fend off waves of enemies! Do you have enough faith to survive?
 
@@ -10,17 +10,23 @@ Exorcise hordes of demons using gun-wielding nuns and angels in this survivors-l
 |:--|:--|
 | Collection | Bullet heaven |
 | Recommendation | 7/10 |
-| Steam positive reviews | 84.7% |
-| Review count | 196 |
-| Steam release date | Aug 13, 2026 |
-| Status | Released |
-| Developers | GuuchanDev |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 84.7% / 196 Steam reviews |
+| Release | Aug 13, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | GuuchanDev |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/4290680/)
 
 ## Official media
 
-- [Flock of the Seraphim - Announce Trailer (updated)](https://video.akamai.steamstatic.com/store_trailers/4290680/1312111495/991f125082e9fe46aebc7849a54802074842e861/1786350651/hls_264_master.m3u8?t=1786351173)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Flock of the Seraphim - Announce Trailer (updated)](https://video.akamai.steamstatic.com/store_trailers/4290680/1312111495/991f125082e9fe46aebc7849a54802074842e861/1786350651/hls_264_master.m3u8?t=1786351173)
 
 ![Flock of the Seraphim official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290680/98013b0d73ec20ad930b72be2c900321b2189451/ss_98013b0d73ec20ad930b72be2c900321b2189451.1920x1080.jpg?t=1790669671)
 
@@ -36,6 +42,10 @@ Exorcise hordes of demons using gun-wielding nuns and angels in this survivors-l
 
 ![Flock of the Seraphim official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290680/7b0807e10e22bfd908177134486395d78b510be7/ss_7b0807e10e22bfd908177134486395d78b510be7.1920x1080.jpg?t=1790669671)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/4290680/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=4290680&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A4290680%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

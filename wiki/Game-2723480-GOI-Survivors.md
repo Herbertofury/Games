@@ -2,7 +2,7 @@
 
 ![GOI Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723480/header.jpg?t=1722689634)
 
-**[Steam store](https://store.steampowered.com/app/2723480/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2723480)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2723480/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2723480)** · [Roguelites](Roguelites)
 
 Humans, dwarves, and elves exploring diverse landscapes and dungeons, they combine their unique abilities in trios to combat mythical creatures and uncover ancient relics, striving to aid the goddess to cleanse the realm of malevolent forces.
 
@@ -10,21 +10,29 @@ Humans, dwarves, and elves exploring diverse landscapes and dungeons, they combi
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 7/10 |
-| Steam positive reviews | 86.2% |
-| Review count | 29 |
-| Steam release date | Dec 25, 2023 |
-| Status | Released |
-| Developers | Urihimura |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 86.2% / 29 Steam reviews |
+| Release | Dec 25, 2023 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Urihimura |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2723480/)
+
+> Small review sample
 
 ## Official media
 
-- [Unlock BoCa mode](https://video.akamai.steamstatic.com/store_trailers/2723480/644279/47f13608059751242c04254b1a26b3fb6e2237bc/1750894298/hls_264_master.m3u8?t=1703621447)
-- [ORCS are here!](https://video.akamai.steamstatic.com/store_trailers/2723480/649178/01f4e126210e2b4ba0ace46513741198963fabfa/1750894300/hls_264_master.m3u8?t=1705051971)
-- [PreRelease Trailer](https://video.akamai.steamstatic.com/store_trailers/2723480/636208/f84bee333b7e34fd344cc2ee7906370df1342878/1750894297/hls_264_master.m3u8?t=1702557047)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Unlock BoCa mode](https://video.akamai.steamstatic.com/store_trailers/2723480/644279/47f13608059751242c04254b1a26b3fb6e2237bc/1750894298/hls_264_master.m3u8?t=1703621447)
+
+[ORCS are here!](https://video.akamai.steamstatic.com/store_trailers/2723480/649178/01f4e126210e2b4ba0ace46513741198963fabfa/1750894300/hls_264_master.m3u8?t=1705051971)
+
+[PreRelease Trailer](https://video.akamai.steamstatic.com/store_trailers/2723480/636208/f84bee333b7e34fd344cc2ee7906370df1342878/1750894297/hls_264_master.m3u8?t=1702557047)
 
 ![GOI Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723480/ss_51008d58bbea5f91e4e6d32ce0ca68848bcf7163.1920x1080.jpg?t=1722689634)
 
@@ -36,6 +44,10 @@ Humans, dwarves, and elves exploring diverse landscapes and dungeons, they combi
 
 ![GOI Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723480/ss_eee8634298e3aa6fc4fda1f655ecbce4c3df0487.1920x1080.jpg?t=1722689634)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2723480/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2723480&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2723480%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

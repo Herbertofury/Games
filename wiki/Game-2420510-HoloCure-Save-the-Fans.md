@@ -2,7 +2,7 @@
 
 ![HoloCure - Save the Fans! official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/header.jpg?t=1740642230)
 
-**[Steam store](https://store.steampowered.com/app/2420510/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2420510)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2420510/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2420510)** · [Roguelites](Roguelites)
 
 Play as your favorite Vtubers from Hololive! Fight, explore, and clear your way through armies of fans and save them from their mind-control in this unofficial free fan-game.
 
@@ -10,18 +10,25 @@ Play as your favorite Vtubers from Hololive! Fight, explore, and clear your way 
 |:--|:--|
 | Collection | Bullet heaven |
 | Recommendation | 9/10 |
-| Steam positive reviews | 99.0% |
-| Review count | 40,898 |
-| Steam release date | Aug 16, 2023 |
-| Status | Released |
-| Developers | KayAnimate |
-| US price snapshot | Free |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 99.0% / 40,898 Steam reviews |
+| Release | Aug 16, 2023 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | KayAnimate |
+| Price snapshot | Free / optional donation |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2420510/)
 
 ## Official media
 
-- [0.6 Trailer](https://video.akamai.steamstatic.com/store_trailers/2420510/587885/b78b6bc5d5c7e4619d2b513050394e4f6a0ba624/1750917107/hls_264_master.m3u8?t=1689447106)
-- [Intro Cinematic](https://video.akamai.steamstatic.com/store_trailers/2420510/570939/208fd51b24f76a8d669d803915da993dd538ede4/1750917107/hls_264_master.m3u8?t=1684877665)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[0.6 Trailer](https://video.akamai.steamstatic.com/store_trailers/2420510/587885/b78b6bc5d5c7e4619d2b513050394e4f6a0ba624/1750917107/hls_264_master.m3u8?t=1689447106)
+
+[Intro Cinematic](https://video.akamai.steamstatic.com/store_trailers/2420510/570939/208fd51b24f76a8d669d803915da993dd538ede4/1750917107/hls_264_master.m3u8?t=1684877665)
 
 ![HoloCure - Save the Fans! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_0b4a50d12f737a522960ba3b3229546f536ff57f.1920x1080.jpg?t=1740642230)
 
@@ -47,6 +54,10 @@ Play as your favorite Vtubers from Hololive! Fight, explore, and clear your way 
 
 ![HoloCure - Save the Fans! official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_4986ba33112e0f501c93324cf7a6789bd7995a32.1920x1080.jpg?t=1740642230)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2420510/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2420510&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2420510%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

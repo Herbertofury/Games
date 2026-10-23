@@ -2,7 +2,7 @@
 
 ![R.I.P. - Reincarnation Insurance Program official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/42cbe63ef67d9aa85098f5dcec4d0d690248644e/header.jpg?t=1789518622)
 
-**[Steam store](https://store.steampowered.com/app/3985950/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3985950)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3985950/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3985950)** · [Roguelites](Roguelites)
 
 Welcome to the Reincarnation Insurance Program! This top-down roguelite shooter blends Diablo-style looting with Survivor-like mayhem. Face screen-filling zombie tides, use Divine Tech to liquidate them into ash, and farm god-tier gear to forge your OP build.
 
@@ -10,18 +10,25 @@ Welcome to the Reincarnation Insurance Program! This top-down roguelite shooter 
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 7/10 |
-| Steam positive reviews | 77.1% |
-| Review count | 3,466 |
-| Steam release date | Sep 15, 2026 |
-| Status | Released |
-| Developers | WarmCore Studio |
-| US price snapshot | $14.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 77.1% / 3,466 Steam reviews |
+| Release | Sep 15, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | WarmCore Studio |
+| Price snapshot | $14.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3985950/)
 
 ## Official media
 
-- [1.0PVEN](https://video.akamai.steamstatic.com/store_trailers/3985950/423470378/2fd2492c2c32ffe5530a7488276a64120934bcba/1789497320/hls_264_master.m3u8?t=1789518564)
-- [上线PVEN](https://video.akamai.steamstatic.com/store_trailers/3985950/1492893530/c4433a4cf2d41d239f49b82b8e0faf78b4c0538c/1769363650/hls_264_master.m3u8?t=1769392801)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[1.0PVEN](https://video.akamai.steamstatic.com/store_trailers/3985950/423470378/2fd2492c2c32ffe5530a7488276a64120934bcba/1789497320/hls_264_master.m3u8?t=1789518564)
+
+[上线PVEN](https://video.akamai.steamstatic.com/store_trailers/3985950/1492893530/c4433a4cf2d41d239f49b82b8e0faf78b4c0538c/1769363650/hls_264_master.m3u8?t=1769392801)
 
 ![R.I.P. - Reincarnation Insurance Program official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/95c849c101af54fde82939d6057a925ddc118e28/ss_95c849c101af54fde82939d6057a925ddc118e28.1920x1080.jpg?t=1789518622)
 
@@ -49,6 +56,10 @@ Welcome to the Reincarnation Insurance Program! This top-down roguelite shooter 
 
 ![R.I.P. - Reincarnation Insurance Program official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/79ad0b50c3f84d2581fb21baa50fb677effaee93/ss_79ad0b50c3f84d2581fb21baa50fb677effaee93.1920x1080.jpg?t=1789518622)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3985950/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3985950&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3985950%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

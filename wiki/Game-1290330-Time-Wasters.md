@@ -2,7 +2,7 @@
 
 ![Time Wasters official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290330/header.jpg?t=1736381331)
 
-**[Steam store](https://store.steampowered.com/app/1290330/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A1290330)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1290330/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1290330)** · [Roguelites](Roguelites)
 
 Time Wasters is a space shooter bullet heaven roguelite. Equip and upgrade weapons, destroy swarms of enemies, and collect Time & Space Cubes to bend the timeline to your advantage.
 
@@ -10,17 +10,23 @@ Time Wasters is a space shooter bullet heaven roguelite. Equip and upgrade weapo
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 8/10 |
-| Steam positive reviews | 88.3% |
-| Review count | 2,625 |
-| Steam release date | Sep 25, 2023 |
-| Status | Released |
-| Developers | Proton Studio |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 88.3% / 2,625 Steam reviews |
+| Release | Sep 25, 2023 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Proton Studio |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/1290330/)
 
 ## Official media
 
-- [Time Wasters 1.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/1290330/610706/44b7f033b20e905dd1bd2db39e203a6407f85952/1751215763/hls_264_master.m3u8?t=1695657344)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Time Wasters 1.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/1290330/610706/44b7f033b20e905dd1bd2db39e203a6407f85952/1751215763/hls_264_master.m3u8?t=1695657344)
 
 ![Time Wasters official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290330/ss_3e9d172ea9f59486c686bfea342801a5472280db.1920x1080.jpg?t=1736381331)
 
@@ -38,6 +44,10 @@ Time Wasters is a space shooter bullet heaven roguelite. Equip and upgrade weapo
 
 ![Time Wasters official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290330/ss_06b50b9889982ba564b3dff2449781755fa933f5.1920x1080.jpg?t=1736381331)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/1290330/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1290330&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1290330%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

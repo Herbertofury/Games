@@ -2,7 +2,7 @@
 
 ![Chronicon official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/header.jpg?t=1790762647)
 
-**[Steam store](https://store.steampowered.com/app/375480/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A375480)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/375480/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A375480)** · [Roguelites](Roguelites)
 
 Use the magical device known as the Chronicon to travel into the souls and memories of fallen heroes to re-live their grand tales! Epic adventures full of loot and monsters await!
 
@@ -10,18 +10,25 @@ Use the magical device known as the Chronicon to travel into the souls and memor
 |:--|:--|
 | Collection | Loot-driven ARPGs |
 | Recommendation | 10/10 |
-| Steam positive reviews | 94.0% |
-| Review count | 9,778 |
-| Steam release date | Aug 21, 2020 |
-| Status | Released |
-| Developers | Subworld |
-| US price snapshot | $13.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 94.0% / 9,778 Steam reviews |
+| Release | Aug 21, 2020 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Subworld |
+| Price snapshot | $13.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/375480/)
 
 ## Official media
 
-- [Chronicon Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/375480/331975/b704c98623ecd0a57f80af81b8073e05a4551114/1750520416/hls_264_master.m3u8?t=1607343038)
-- [1.20.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/375480/356839/aa89a91ac950dc5802eb7ec3f0dc55bce4ee79fb/1750520432/hls_264_master.m3u8?t=1616764424)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Chronicon Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/375480/331975/b704c98623ecd0a57f80af81b8073e05a4551114/1750520416/hls_264_master.m3u8?t=1607343038)
+
+[1.20.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/375480/356839/aa89a91ac950dc5802eb7ec3f0dc55bce4ee79fb/1750520432/hls_264_master.m3u8?t=1616764424)
 
 ![Chronicon official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/ss_9df1ebe0b394b7e649233b9c62dacee117915e06.1920x1080.jpg?t=1790762647)
 
@@ -41,6 +48,10 @@ Use the magical device known as the Chronicon to travel into the souls and memor
 
 ![Chronicon official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/ss_f1506be5673302532df14e540cce8175b0b240f8.1920x1080.jpg?t=1790762647)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/375480/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=375480&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A375480%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

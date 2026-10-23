@@ -2,7 +2,7 @@
 
 ![NIMRODS official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2086430/adf16392b340a0b092bda40102152e2ea866d65b/header.jpg?t=1791964238)
 
-**[Steam store](https://store.steampowered.com/app/2086430/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2086430)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2086430/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2086430)** · [Roguelites](Roguelites)
 
 Assemble a limitless arsenal in this survive-em-up roguelite shooter. As a Gun Manufacturer's testing force, your mission is simple: test the latest gun tech and scavenge alien planets. Collect insane weapon parts to invent crazy guns that slay thousands. You may not survive, but your guns will!
 
@@ -10,18 +10,25 @@ Assemble a limitless arsenal in this survive-em-up roguelite shooter. As a Gun M
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 9/10 |
-| Steam positive reviews | 85.3% |
-| Review count | 1,861 |
-| Steam release date | Oct 28, 2024 |
-| Status | Early Access |
-| Developers | Fiveamp |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 85.3% / 1,861 Steam reviews |
+| Release | Oct 28, 2024 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Fiveamp |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2086430/)
 
 ## Official media
 
-- [Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/2086430/774177/dbb7a300951a74642df514fa90610ccd03df35a1/1750746263/hls_264_master.m3u8?t=1747175786)
-- [Next Fest Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2086430/569335/8c3aeb03e64038215b14611351d87c1701c53a87/1750746262/hls_264_master.m3u8?t=1706310008)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/2086430/774177/dbb7a300951a74642df514fa90610ccd03df35a1/1750746263/hls_264_master.m3u8?t=1747175786)
+
+[Next Fest Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2086430/569335/8c3aeb03e64038215b14611351d87c1701c53a87/1750746262/hls_264_master.m3u8?t=1706310008)
 
 ![NIMRODS official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2086430/ss_02c959024e4a99fd4057918c6373ae3139433a73.1920x1080.jpg?t=1791964238)
 
@@ -63,6 +70,10 @@ Assemble a limitless arsenal in this survive-em-up roguelite shooter. As a Gun M
 
 ![NIMRODS official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2086430/ss_1d97473a0a86f6fa09c63354abdbf8c865d73c7c.1920x1080.jpg?t=1791964238)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2086430/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2086430&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2086430%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

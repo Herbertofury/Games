@@ -2,7 +2,7 @@
 
 ![Soul Stalker official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1714240/header.jpg?t=1756985899)
 
-**[Steam store](https://store.steampowered.com/app/1714240/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A1714240)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1714240/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1714240)** · [Roguelites](Roguelites)
 
 A bullet heaven roguelike where you assume the role of the steward of ghosts bound to eternal life on earth. Wield 4 to 6 weapons simultaneously to fend off waves of apparitions determined to defeat your spirited friends.
 
@@ -10,17 +10,23 @@ A bullet heaven roguelike where you assume the role of the steward of ghosts bou
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 76.5% |
-| Review count | 102 |
-| Steam release date | Oct 24, 2024 |
-| Status | Released |
-| Developers | Radhood, Conradical Games |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 76.5% / 102 Steam reviews |
+| Release | Oct 24, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Radhood, Conradical Games |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/1714240/)
 
 ## Official media
 
-- [1.4 Trailer](https://video.akamai.steamstatic.com/store_trailers/1714240/657779/a2f268e42eb9ae63122e61e1658d0ec9866ec2e9/1751022852/hls_264_master.m3u8?t=1706887643)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[1.4 Trailer](https://video.akamai.steamstatic.com/store_trailers/1714240/657779/a2f268e42eb9ae63122e61e1658d0ec9866ec2e9/1751022852/hls_264_master.m3u8?t=1706887643)
 
 ![Soul Stalker official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1714240/ss_9a7066530dfaaf5b5d07626a9af34cf7fdd1bc5f.1920x1080.jpg?t=1756985899)
 
@@ -56,6 +62,10 @@ A bullet heaven roguelike where you assume the role of the steward of ghosts bou
 
 ![Soul Stalker official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1714240/ss_9df429d3d56cd152a3ca1a78d9edc7032ff52eaa.1920x1080.jpg?t=1756985899)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/1714240/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1714240&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1714240%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

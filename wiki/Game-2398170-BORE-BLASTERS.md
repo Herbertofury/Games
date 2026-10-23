@@ -2,7 +2,7 @@
 
 ![BORE BLASTERS official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/header.jpg?t=1773341999)
 
-**[Steam store](https://store.steampowered.com/app/2398170/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2398170)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2398170/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2398170)** · [Roguelites](Roguelites)
 
 Blast through rocks with your machine gun drill. Collect rare gems, ores and ancient artefacts, upgrade your ship and unlock new abilities. Uncover the mysteries of the deep and the dangers that lurk below.
 
@@ -10,17 +10,23 @@ Blast through rocks with your machine gun drill. Collect rare gems, ores and anc
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 7/10 |
-| Steam positive reviews | 80.7% |
-| Review count | 772 |
-| Steam release date | Mar 8, 2024 |
-| Status | Released |
-| Developers | 8BitSkull |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 80.7% / 772 Steam reviews |
+| Release | Mar 8, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | 8BitSkull |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2398170/)
 
 ## Official media
 
-- [BORE BLASTERS launch trailer](https://video.akamai.steamstatic.com/store_trailers/2398170/665899/072ef06edae3f66b92e2b3921bbd0779892322c9/1750915013/hls_264_master.m3u8?t=1709906322)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[BORE BLASTERS launch trailer](https://video.akamai.steamstatic.com/store_trailers/2398170/665899/072ef06edae3f66b92e2b3921bbd0779892322c9/1750915013/hls_264_master.m3u8?t=1709906322)
 
 ![BORE BLASTERS official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_e30d599f585c53810b933bcd0f82ee1b1a1d8534.1920x1080.jpg?t=1773341999)
 
@@ -44,6 +50,10 @@ Blast through rocks with your machine gun drill. Collect rare gems, ores and anc
 
 ![BORE BLASTERS official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_737af557e681357ae0b40e9b7fdc6e8abcbc07b7.1920x1080.jpg?t=1773341999)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2398170/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2398170&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2398170%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

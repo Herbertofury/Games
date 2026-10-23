@@ -2,7 +2,7 @@
 
 ![Hell Forge official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118220/66618c201da913d356f85aecb8c05545e553c4ca/header.jpg?t=1782389457)
 
-**[Steam store](https://store.steampowered.com/app/4118220/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A4118220)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/4118220/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A4118220)** · [Roguelites](Roguelites)
 
 Hell Forge is a retro roguelite survivor where you battle endless monsters to mine souls for the ultimate gamble. Locate the Hell Forge on the map and risk your resources in a high-stakes lottery system to craft Legendary gear.
 
@@ -10,19 +10,25 @@ Hell Forge is a retro roguelite survivor where you battle endless monsters to mi
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 84.0% |
-| Review count | 25 |
-| Steam release date | Mar 4, 2026 |
-| Status | Released |
-| Developers | Gaby Rla |
-| US price snapshot | $3.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 84.0% / 25 Steam reviews |
+| Release | Mar 4, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Gaby Rla |
+| Price snapshot | $3.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/4118220/)
+
+> Small review sample
 
 ## Official media
 
-- [Hell Forge: Waken Your Weapon](https://video.akamai.steamstatic.com/store_trailers/4118220/1659755309/b316ecd674b114f4783f3ed30166368d7719e8a4/1772592703/hls_264_master.m3u8?t=1772593535)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Hell Forge: Waken Your Weapon](https://video.akamai.steamstatic.com/store_trailers/4118220/1659755309/b316ecd674b114f4783f3ed30166368d7719e8a4/1772592703/hls_264_master.m3u8?t=1772593535)
 
 ![Hell Forge official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118220/d04595255ff68f5c248fb247a83d70b06ab0d8e4/ss_d04595255ff68f5c248fb247a83d70b06ab0d8e4.1920x1080.jpg?t=1782389457)
 
@@ -36,6 +42,10 @@ Hell Forge is a retro roguelite survivor where you battle endless monsters to mi
 
 ![Hell Forge official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118220/d6007d773cc04e208be30c07b9affda1849d9288/ss_d6007d773cc04e208be30c07b9affda1849d9288.1920x1080.jpg?t=1782389457)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/4118220/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=4118220&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A4118220%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

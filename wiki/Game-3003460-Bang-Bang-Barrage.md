@@ -2,7 +2,7 @@
 
 ![Bang Bang Barrage official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003460/813cece334d24d5729b2f3bd2f4aaa65b45bb349/header.jpg?t=1786090689)
 
-**[Steam store](https://store.steampowered.com/app/3003460/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3003460)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3003460/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3003460)** · [Roguelites](Roguelites)
 
 Survive the treacherous sea in this quirky multiplayer shooter game! Play solo or team up and fight off Cthulhu's minions. Master a unique recoil-based mechanic to blast enemies and chart your course. Mix and match upgrades to craft the perfect sea-surviving strategy!
 
@@ -10,17 +10,23 @@ Survive the treacherous sea in this quirky multiplayer shooter game! Play solo o
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 7/10 |
-| Steam positive reviews | 95.8% |
-| Review count | 1,078 |
-| Steam release date | Aug 7, 2025 |
-| Status | Released |
-| Developers | Monkey Bread |
-| US price snapshot | $5.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 95.8% / 1,078 Steam reviews |
+| Release | Aug 7, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Monkey Bread |
+| Price snapshot | $5.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3003460/)
 
 ## Official media
 
-- [2025_Release_EN](https://video.akamai.steamstatic.com/store_trailers/3003460/984546556/308430a9edf13636835511f398048d6232600aba/1754618466/hls_264_master.m3u8?t=1754624372)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[2025_Release_EN](https://video.akamai.steamstatic.com/store_trailers/3003460/984546556/308430a9edf13636835511f398048d6232600aba/1754618466/hls_264_master.m3u8?t=1754624372)
 
 ![Bang Bang Barrage official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003460/57b431de71c9b7f9d29206ecf10d6a2dfc7f718b/ss_57b431de71c9b7f9d29206ecf10d6a2dfc7f718b.1920x1080.jpg?t=1786090689)
 
@@ -56,6 +62,10 @@ Survive the treacherous sea in this quirky multiplayer shooter game! Play solo o
 
 ![Bang Bang Barrage official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003460/ss_61e685d235d1c42b6ba17960fc1ed7ad39e849a6.1920x1080.jpg?t=1786090689)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3003460/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3003460&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3003460%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -2,7 +2,7 @@
 
 ![Dark Light: Survivor official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088070/67fac2154cb1277ad161f57425efe8585bfd85ce/header.jpg?t=1792474161)
 
-**[Steam store](https://store.steampowered.com/app/3088070/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3088070)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3088070/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3088070)** · [Roguelites](Roguelites)
 
 Dark Light: Survivor is a dark sci-fi action roguelike with ARPG loot and third-person shooter combat. Switch anytime between top-down view and TPS aiming as you build weapons, skills, and classes across brutal multiverse runs.
 
@@ -10,19 +10,27 @@ Dark Light: Survivor is a dark sci-fi action roguelike with ARPG loot and third-
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 7/10 |
-| Steam positive reviews | 76.0% |
-| Review count | 383 |
-| Steam release date | May 14, 2026 |
-| Status | Early Access |
-| Developers | Mirari&Co. |
-| US price snapshot | $16.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 76.0% / 383 Steam reviews |
+| Release | May 14, 2026 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Mirari&Co. |
+| Price snapshot | $16.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3088070/)
 
 ## Official media
 
-- [Endless Mode Update](https://video.akamai.steamstatic.com/store_trailers/3088070/519845281/787182608829a8a9ba39b200beb2fa6d331b710a/1790674068/hls_264_master.m3u8?t=1790677055)
-- [Dark Light Survivor Release Teaser](https://video.akamai.steamstatic.com/store_trailers/3088070/522575482/2611ea25e3e527a5d92df226167a145254f07c0a/1777690530/hls_264_master.m3u8?t=1777691781)
-- [Dark Light: Survivor EA Release Trailer 1](https://video.akamai.steamstatic.com/store_trailers/3088070/1281158993/9c19011da29b47275e2ed95f61db8593149199dc/1774599774/hls_264_master.m3u8?t=1774600438)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Endless Mode Update](https://video.akamai.steamstatic.com/store_trailers/3088070/519845281/787182608829a8a9ba39b200beb2fa6d331b710a/1790674068/hls_264_master.m3u8?t=1790677055)
+
+[Dark Light Survivor Release Teaser](https://video.akamai.steamstatic.com/store_trailers/3088070/522575482/2611ea25e3e527a5d92df226167a145254f07c0a/1777690530/hls_264_master.m3u8?t=1777691781)
+
+[Dark Light: Survivor EA Release Trailer 1](https://video.akamai.steamstatic.com/store_trailers/3088070/1281158993/9c19011da29b47275e2ed95f61db8593149199dc/1774599774/hls_264_master.m3u8?t=1774600438)
 
 ![Dark Light: Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088070/ss_d5ffc28d9b55641980774a8b9052d8d2458d21e5.1920x1080.jpg?t=1792474161)
 
@@ -68,6 +76,10 @@ Dark Light: Survivor is a dark sci-fi action roguelike with ARPG loot and third-
 
 ![Dark Light: Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088070/346f9818a4036f8b3183c07908ff92049952c7f3/ss_346f9818a4036f8b3183c07908ff92049952c7f3.1920x1080.jpg?t=1792474161)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3088070/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3088070&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3088070%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

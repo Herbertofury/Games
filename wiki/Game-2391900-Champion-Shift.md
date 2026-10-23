@@ -2,7 +2,7 @@
 
 ![Champion Shift official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391900/header.jpg?t=1725673028)
 
-**[Steam store](https://store.steampowered.com/app/2391900/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2391900)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2391900/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2391900)** · [Roguelites](Roguelites)
 
 Unleash mighty Champions in this thrilling co-op bullet heaven. Shift into battle, create builds with unique abilities, and battle endless enemies to stop the Dominion's path of conquest. Rev through high octane missions, conquer epic bosses, and become an absolute legend!
 
@@ -10,18 +10,25 @@ Unleash mighty Champions in this thrilling co-op bullet heaven. Shift into battl
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 7/10 |
-| Steam positive reviews | 77.4% |
-| Review count | 230 |
-| Steam release date | Jun 21, 2024 |
-| Status | Released |
-| Developers | SRG Studios |
-| US price snapshot | $11.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 77.4% / 230 Steam reviews |
+| Release | Jun 21, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | SRG Studios |
+| Price snapshot | $11.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2391900/)
 
 ## Official media
 
-- [Champion Shift - Launch Trailer 02](https://video.akamai.steamstatic.com/store_trailers/2391900/723550/13e781060360b2fa0eb864b358802edb5a9cb5b2/1750914460/hls_264_master.m3u8?t=1720466917)
-- [Champion Shift - Gameplay Trailer 02](https://video.akamai.steamstatic.com/store_trailers/2391900/658929/80e7fe4b7eb0c069ad03734d2c2ea69ff57318ab/1750914458/hls_264_master.m3u8?t=1707141024)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Champion Shift - Launch Trailer 02](https://video.akamai.steamstatic.com/store_trailers/2391900/723550/13e781060360b2fa0eb864b358802edb5a9cb5b2/1750914460/hls_264_master.m3u8?t=1720466917)
+
+[Champion Shift - Gameplay Trailer 02](https://video.akamai.steamstatic.com/store_trailers/2391900/658929/80e7fe4b7eb0c069ad03734d2c2ea69ff57318ab/1750914458/hls_264_master.m3u8?t=1707141024)
 
 ![Champion Shift official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391900/ss_091cc7faf6a1d8074c8b7fdb562bc16206743c27.1920x1080.jpg?t=1725673028)
 
@@ -45,6 +52,10 @@ Unleash mighty Champions in this thrilling co-op bullet heaven. Shift into battl
 
 ![Champion Shift official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391900/ss_384d3378bede2a8a5f941679d68d7df000f91006.1920x1080.jpg?t=1725673028)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2391900/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2391900&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2391900%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

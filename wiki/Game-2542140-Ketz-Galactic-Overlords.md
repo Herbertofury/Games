@@ -2,7 +2,7 @@
 
 ![Ketz: Galactic Overlords official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542140/647a67d2f5bd1338bbaa1e044c210f3be98c28f4/header.jpg?t=1789743130)
 
-**[Steam store](https://store.steampowered.com/app/2542140/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2542140)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2542140/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2542140)** · [Roguelites](Roguelites)
 
 Sci-fantasy themed roguelite horde survival game with RPG elements. Choose your character, collect various gear, and create game-breaking builds using powerful skills from the Galactic Leaders!
 
@@ -10,17 +10,23 @@ Sci-fantasy themed roguelite horde survival game with RPG elements. Choose your 
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 7/10 |
-| Steam positive reviews | 72.0% |
-| Review count | 410 |
-| Steam release date | May 9, 2025 |
-| Status | Early Access |
-| Developers | Keep Games |
-| US price snapshot | $8.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 72.0% / 410 Steam reviews |
+| Release | May 9, 2025 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Keep Games |
+| Price snapshot | $8.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2542140/)
 
 ## Official media
 
-- [Ketz: Galactic Overlords Trailer](https://video.akamai.steamstatic.com/store_trailers/2542140/2043156913/feb39d2c3616ebc53d5f73ff8c976f7f705f4d71/1753787139/hls_264_master.m3u8?t=1753788592)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Ketz: Galactic Overlords Trailer](https://video.akamai.steamstatic.com/store_trailers/2542140/2043156913/feb39d2c3616ebc53d5f73ff8c976f7f705f4d71/1753787139/hls_264_master.m3u8?t=1753788592)
 
 ![Ketz: Galactic Overlords official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542140/28f7831baff41013cc343f692e2479b9bf5bdded/ss_28f7831baff41013cc343f692e2479b9bf5bdded.1920x1080.jpg?t=1789743130)
 
@@ -40,6 +46,10 @@ Sci-fantasy themed roguelite horde survival game with RPG elements. Choose your 
 
 ![Ketz: Galactic Overlords official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542140/9325ff3676cdc7def4ad0ff19132a5b3aca8c358/ss_9325ff3676cdc7def4ad0ff19132a5b3aca8c358.1920x1080.jpg?t=1789743130)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2542140/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2542140&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2542140%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

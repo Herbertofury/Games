@@ -2,7 +2,7 @@
 
 ![Wildkeepers Rising official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995560/eacb6c6f76c06044fc68263cb2d2e972e09994da/header.jpg?t=1761225239)
 
-**[Steam store](https://store.steampowered.com/app/2995560/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2995560)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2995560/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2995560)** · [Roguelites](Roguelites)
 
 Tame monsters! Slay waves of enemy hordes! Explore fantasy lands! Wildkeepers Rising is a whimsical action-RPG roguelite set in a beautiful hand-drawn world that combines the power curve of bullet heaven games with the compulsive fun of a creature collector.
 
@@ -10,19 +10,27 @@ Tame monsters! Slay waves of enemy hordes! Explore fantasy lands! Wildkeepers Ri
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 7/10 |
-| Steam positive reviews | 79.1% |
-| Review count | 129 |
-| Steam release date | Oct 23, 2025 |
-| Status | Released |
-| Developers | Lioncode Games |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 79.1% / 129 Steam reviews |
+| Release | Oct 23, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Lioncode Games |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2995560/)
 
 ## Official media
 
-- [Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2995560/631168314/4bb0e2f105a754db9dd246ee2a1ea2b2435e2a52/1760742064/hls_264_master.m3u8?t=1761225004)
-- [Gameplay Features](https://video.akamai.steamstatic.com/store_trailers/2995560/793720/69f71ad71860ba33f72d692ca596e00ec9721701/1750822727/hls_264_master.m3u8?t=1743459928)
-- [Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/2995560/831848/1b84d242e7c2811d1c0c41142d2286cdcbd569ea/1750822727/hls_264_master.m3u8?t=1760752822)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2995560/631168314/4bb0e2f105a754db9dd246ee2a1ea2b2435e2a52/1760742064/hls_264_master.m3u8?t=1761225004)
+
+[Gameplay Features](https://video.akamai.steamstatic.com/store_trailers/2995560/793720/69f71ad71860ba33f72d692ca596e00ec9721701/1750822727/hls_264_master.m3u8?t=1743459928)
+
+[Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/2995560/831848/1b84d242e7c2811d1c0c41142d2286cdcbd569ea/1750822727/hls_264_master.m3u8?t=1760752822)
 
 ![Wildkeepers Rising official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995560/ss_05a99aaf86643c8a122a2d7909462e74407b01f3.1920x1080.jpg?t=1761225239)
 
@@ -56,6 +64,10 @@ Tame monsters! Slay waves of enemy hordes! Explore fantasy lands! Wildkeepers Ri
 
 ![Wildkeepers Rising official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995560/ss_a3b80b9acea13ec33fc3f8bbd872e74fada3db08.1920x1080.jpg?t=1761225239)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2995560/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2995560&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2995560%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

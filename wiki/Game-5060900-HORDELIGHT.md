@@ -2,7 +2,7 @@
 
 ![HORDELIGHT official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5060900/ad8ca599e665d6454a9cffea2268f63a737fcd36/header.jpg?t=1792236356)
 
-**[Steam store](https://store.steampowered.com/app/5060900/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A5060900)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/5060900/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A5060900)** · [Roguelites](Roguelites)
 
 Horde-survival roguelite: auto-firing weapons, screens full of enemies, one light against the endless dark. Clear 8 chapters, forge gear in a living village hub, stack curses and blessings, chase daily runs. The sun didn't die — someone put it out.
 
@@ -10,20 +10,27 @@ Horde-survival roguelite: auto-firing weapons, screens full of enemies, one ligh
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | Unknown |
-| Review count | 0 |
-| Steam release date | Sep 1, 2026 |
-| Status | Released |
-| Developers | AGAMED GAMES |
-| US price snapshot | $1.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | No aggregate rating |
+| Release | Sep 1, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | AGAMED GAMES |
+| Price snapshot | $1.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/5060900/)
+
+> Small review sample
 
 ## Official media
 
-- [HORDELIGHT — Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/5060900/1661919814/37cf5e735daa1bb65fcbc20800788e19cbc5ea4d/1792234440/hls_264_master.m3u8?t=1792236355)
-- [HORDELIGHT — Story Trailer](https://video.akamai.steamstatic.com/store_trailers/5060900/164042181/2817b4170969cbdb24d95edef315ee8685a3ee2b/1785929653/hls_264_master.m3u8?t=1786609504)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[HORDELIGHT — Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/5060900/1661919814/37cf5e735daa1bb65fcbc20800788e19cbc5ea4d/1792234440/hls_264_master.m3u8?t=1792236355)
+
+[HORDELIGHT — Story Trailer](https://video.akamai.steamstatic.com/store_trailers/5060900/164042181/2817b4170969cbdb24d95edef315ee8685a3ee2b/1785929653/hls_264_master.m3u8?t=1786609504)
 
 ![HORDELIGHT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5060900/060dd361850d4250d96710edfdc627160f2109d2/ss_060dd361850d4250d96710edfdc627160f2109d2.1920x1080.jpg?t=1792236356)
 
@@ -51,6 +58,10 @@ Horde-survival roguelite: auto-firing weapons, screens full of enemies, one ligh
 
 ![HORDELIGHT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5060900/b66ecdbee683fb4d815ea4e450952b8f5289a424/ss_b66ecdbee683fb4d815ea4e450952b8f5289a424.1920x1080.jpg?t=1792236356)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/5060900/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=5060900&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A5060900%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

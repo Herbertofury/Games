@@ -2,7 +2,7 @@
 
 ![BRUTUS MAXIMUS official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928450/header.jpg?t=1777810679)
 
-**[Steam store](https://store.steampowered.com/app/2928450/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2928450)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2928450/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2928450)** · [Roguelites](Roguelites)
 
 Embark on a hellish road trip around the Roman Empire. From Teutoburg to Rome, slay anything standing in your way, survival roguelite-style. Unlock new heroes, weapons, and skills to create synergies. Wipe out entire Roman legions in this hack-and-slash, stab, and shoot survivors game.
 
@@ -10,19 +10,25 @@ Embark on a hellish road trip around the Roman Empire. From Teutoburg to Rome, s
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 6/10 |
-| Steam positive reviews | 66.7% |
-| Review count | 33 |
-| Steam release date | Apr 19, 2026 |
-| Status | Released |
-| Developers | SuperStructureGames |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 66.7% / 33 Steam reviews |
+| Release | Apr 19, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | SuperStructureGames |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2928450/)
+
+> Small review sample
 
 ## Official media
 
-- [GAMEPLAY TRAILER I.](https://video.akamai.steamstatic.com/store_trailers/2928450/703559/460462e162ed73843b8922ba740c03e8bc05c611/1750889730/hls_264_master.m3u8?t=1717768339)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[GAMEPLAY TRAILER I.](https://video.akamai.steamstatic.com/store_trailers/2928450/703559/460462e162ed73843b8922ba740c03e8bc05c611/1750889730/hls_264_master.m3u8?t=1717768339)
 
 ![BRUTUS MAXIMUS official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928450/ss_45fc72807513a2236d5f61d706d087076512e2f8.1920x1080.jpg?t=1777810679)
 
@@ -56,6 +62,10 @@ Embark on a hellish road trip around the Roman Empire. From Teutoburg to Rome, s
 
 ![BRUTUS MAXIMUS official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928450/e05308e68d9544b945bc0a3e3974f463fd6c1810/ss_e05308e68d9544b945bc0a3e3974f463fd6c1810.1920x1080.jpg?t=1777810679)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2928450/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2928450&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2928450%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

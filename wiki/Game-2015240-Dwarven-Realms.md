@@ -2,7 +2,7 @@
 
 ![Dwarven Realms official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015240/header.jpg?t=1738315434)
 
-**[Steam store](https://store.steampowered.com/app/2015240/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2015240)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2015240/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2015240)** · [Roguelites](Roguelites)
 
 Face massive hordes of mobs and unleash chaotic abilities that paint the screen with mayhem. Dive into the largest mob density of any 3D ARPG and slay them all. Wield epic powers, create your build, and shape a world of endless possibilities in the action-packed ARPG experience.
 
@@ -10,17 +10,23 @@ Face massive hordes of mobs and unleash chaotic abilities that paint the screen 
 |:--|:--|
 | Collection | Loot-driven ARPGs |
 | Recommendation | 9/10 |
-| Steam positive reviews | 81.6% |
-| Review count | 3,662 |
-| Steam release date | Sep 27, 2024 |
-| Status | Released |
-| Developers | Crater Studios |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 81.6% / 3,662 Steam reviews |
+| Release | Sep 27, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Crater Studios |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2015240/)
 
 ## Official media
 
-- [Dwarven Realms Gameplay Trailer Launch](https://video.akamai.steamstatic.com/store_trailers/2015240/762264/ddabdcc5babecd239613a67c7a46e6e2199d19e3/1751067658/hls_264_master.m3u8?t=1727386629)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Dwarven Realms Gameplay Trailer Launch](https://video.akamai.steamstatic.com/store_trailers/2015240/762264/ddabdcc5babecd239613a67c7a46e6e2199d19e3/1751067658/hls_264_master.m3u8?t=1727386629)
 
 ![Dwarven Realms official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015240/ss_cb1e1e63c21efe1be18e625b70630034e7528c10.1920x1080.jpg?t=1738315434)
 
@@ -46,6 +52,10 @@ Face massive hordes of mobs and unleash chaotic abilities that paint the screen 
 
 ![Dwarven Realms official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015240/ss_fd1678da188fa1aa89ef512b0e3e159665cfb526.1920x1080.jpg?t=1738315434)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2015240/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2015240&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2015240%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

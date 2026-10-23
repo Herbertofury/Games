@@ -2,7 +2,7 @@
 
 ![Warlock Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352100/88cbb90a9e7e90c2e43180dfe721080cde50d3b8/header.jpg?t=1781035933)
 
-**[Steam store](https://store.steampowered.com/app/2352100/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2352100)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2352100/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2352100)** · [Roguelites](Roguelites)
 
 The hordes of chaos never stop, to survive the Warlocks War you need powerful skills and strategies. Warlock Survivors is the battleground where you will face hundreds of thousands of enemies in a single frantic run. Upgrade your build and grab all resources you can to reach enough power to survive.
 
@@ -10,20 +10,27 @@ The hordes of chaos never stop, to survive the Warlocks War you need powerful sk
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | 0.0% |
-| Review count | 2 |
-| Steam release date | Feb 26, 2026 |
-| Status | Released |
-| Developers | XPHUNT |
-| US price snapshot | $14.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 0.0% / 2 Steam reviews |
+| Release | Feb 26, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | XPHUNT |
+| Price snapshot | $14.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2352100/)
+
+> Small review sample
 
 ## Official media
 
-- [Trailer 2](https://video.akamai.steamstatic.com/store_trailers/2352100/1579063345/e1f4fb224adf5ec0672ae50fdcd4474ab50cba42/1770507236/hls_264_master.m3u8?t=1771385000)
-- [Trailer1](https://video.akamai.steamstatic.com/store_trailers/2352100/1366318366/582ae7ec0644df50dd8ba5ece51afc74d268696d/1750910179/hls_264_master.m3u8?t=1770587613)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Trailer 2](https://video.akamai.steamstatic.com/store_trailers/2352100/1579063345/e1f4fb224adf5ec0672ae50fdcd4474ab50cba42/1770507236/hls_264_master.m3u8?t=1771385000)
+
+[Trailer1](https://video.akamai.steamstatic.com/store_trailers/2352100/1366318366/582ae7ec0644df50dd8ba5ece51afc74d268696d/1750910179/hls_264_master.m3u8?t=1770587613)
 
 ![Warlock Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352100/91efd2fb6b39d7ed739597c913675928bfb04b6f/ss_91efd2fb6b39d7ed739597c913675928bfb04b6f.1920x1080.jpg?t=1781035933)
 
@@ -43,6 +50,10 @@ The hordes of chaos never stop, to survive the Warlocks War you need powerful sk
 
 ![Warlock Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352100/51774a6e4e7c1afdb647d00be13852c6e521b591/ss_51774a6e4e7c1afdb647d00be13852c6e521b591.1920x1080.jpg?t=1781035933)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2352100/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2352100&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2352100%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

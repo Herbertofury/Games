@@ -2,7 +2,7 @@
 
 ![Horde Hunters official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178560/be9ea87b8cc9c6cd1f60d79073177a7ccc570abe/header.jpg?t=1781786572)
 
-**[Steam store](https://store.steampowered.com/app/2178560/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2178560)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2178560/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2178560)** · [Roguelites](Roguelites)
 
 Horde Hunters is an objective-driven bullet heaven roguelite where you build powerful synergies, hire allies, use tactical items, and survive the hordes of hell.
 
@@ -10,17 +10,23 @@ Horde Hunters is an objective-driven bullet heaven roguelite where you build pow
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 9/10 |
-| Steam positive reviews | 87.7% |
-| Review count | 106 |
-| Steam release date | Apr 10, 2025 |
-| Status | Released |
-| Developers | Antti Vaihia |
-| US price snapshot | $6.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 87.7% / 106 Steam reviews |
+| Release | Apr 10, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Antti Vaihia |
+| Price snapshot | $6.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2178560/)
 
 ## Official media
 
-- [Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2178560/861478/c323c9f41e4d340a0ae49ab0f7692628b3e362ab/1751086089/hls_264_master.m3u8?t=1743493313)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2178560/861478/c323c9f41e4d340a0ae49ab0f7692628b3e362ab/1751086089/hls_264_master.m3u8?t=1743493313)
 
 ![Horde Hunters official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178560/d366b295d90ddd8674c331e56478fd831d95ced1/ss_d366b295d90ddd8674c331e56478fd831d95ced1.1920x1080.jpg?t=1781786572)
 
@@ -50,6 +56,10 @@ Horde Hunters is an objective-driven bullet heaven roguelite where you build pow
 
 ![Horde Hunters official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178560/4632a7102e50c0eda340bee831f01256832cdd9b/ss_4632a7102e50c0eda340bee831f01256832cdd9b.1920x1080.jpg?t=1781786572)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2178560/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2178560&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2178560%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

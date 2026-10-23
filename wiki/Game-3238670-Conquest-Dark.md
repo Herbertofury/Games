@@ -2,7 +2,7 @@
 
 ![Conquest Dark official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238670/ec5f8a4347c1aaa55b8657b75d98170333bcebcf/header_alt_assets_0.jpg?t=1790884525)
 
-**[Steam store](https://store.steampowered.com/app/3238670/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3238670)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3238670/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3238670)** · [Roguelites](Roguelites)
 
 Experience an ARPG's rapid ascension to power in minutes, packed with savage, survivors-like action and devastating sword & sorcery combat. Perfect your builds through Dark Ritual runs that will decide humanity's future as you battle endless hordes across haunting ruins and cursed kingdoms.
 
@@ -10,19 +10,27 @@ Experience an ARPG's rapid ascension to power in minutes, packed with savage, su
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 9/10 |
-| Steam positive reviews | 89.7% |
-| Review count | 2,813 |
-| Steam release date | Apr 30, 2025 |
-| Status | Early Access |
-| Developers | Eldritch Sword Games |
-| US price snapshot | $6.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 89.7% / 2,813 Steam reviews |
+| Release | Apr 30, 2025 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Eldritch Sword Games |
+| Price snapshot | $6.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3238670/)
 
 ## Official media
 
-- [Necrolord Class Trailer](https://video.akamai.steamstatic.com/store_trailers/3238670/500966362/9981a1e656832ae18a9b2b407f4d9349a208b76e/1789581172/hls_264_master.m3u8?t=1789653662)
-- [Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3238670/876601/6b60e4a1c3a9c992130a7caba617b0fd972ba681/1750825043/hls_264_master.m3u8?t=1745946365)
-- [Expo Update Trailer](https://video.akamai.steamstatic.com/store_trailers/3238670/1016771098/9dc9e44ea7fc075d403e61239049ef317b72054a/1763589413/hls_264_master.m3u8?t=1763840030)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Necrolord Class Trailer](https://video.akamai.steamstatic.com/store_trailers/3238670/500966362/9981a1e656832ae18a9b2b407f4d9349a208b76e/1789581172/hls_264_master.m3u8?t=1789653662)
+
+[Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3238670/876601/6b60e4a1c3a9c992130a7caba617b0fd972ba681/1750825043/hls_264_master.m3u8?t=1745946365)
+
+[Expo Update Trailer](https://video.akamai.steamstatic.com/store_trailers/3238670/1016771098/9dc9e44ea7fc075d403e61239049ef317b72054a/1763589413/hls_264_master.m3u8?t=1763840030)
 
 ![Conquest Dark official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238670/c6db3806a04dd7e52a78687f5b9d2c5f60915076/ss_c6db3806a04dd7e52a78687f5b9d2c5f60915076.1920x1080.jpg?t=1790884525)
 
@@ -44,6 +52,10 @@ Experience an ARPG's rapid ascension to power in minutes, packed with savage, su
 
 ![Conquest Dark official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238670/60cd58afb8de9df77adaf2115f366689da4079c8/ss_60cd58afb8de9df77adaf2115f366689da4079c8.1920x1080.jpg?t=1790884525)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3238670/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3238670&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3238670%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

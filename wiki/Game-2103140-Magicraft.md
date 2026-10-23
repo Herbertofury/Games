@@ -2,7 +2,7 @@
 
 ![Magicraft official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103140/c67d87d288165604423bcac5f3857d555f9dabd9/header.jpg?t=1790072393)
 
-**[Steam store](https://store.steampowered.com/app/2103140/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2103140)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2103140/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2103140)** · [Roguelites](Roguelites)
 
 "Magicraft" is a Roguelike game that uses a variety of spells to match unimaginable spell effects, and the construction of ultra-high degrees of freedom cannot even be exhausted by developers.
 
@@ -10,17 +10,23 @@
 |:--|:--|
 | Collection | Action roguelites |
 | Recommendation | 9/10 |
-| Steam positive reviews | 92.8% |
-| Review count | 17,010 |
-| Steam release date | Nov 1, 2024 |
-| Status | Released |
-| Developers | Wave Games |
-| US price snapshot | $15.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 92.8% / 17,010 Steam reviews |
+| Release | Nov 1, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Wave Games |
+| Price snapshot | $15.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2103140/)
 
 ## Official media
 
-- [1.0](https://video.akamai.steamstatic.com/store_trailers/2103140/780296/b92df6abcbe9613f976c41d6ac7809c30c9126bf/1750746753/hls_264_master.m3u8?t=1730514726)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[1.0](https://video.akamai.steamstatic.com/store_trailers/2103140/780296/b92df6abcbe9613f976c41d6ac7809c30c9126bf/1750746753/hls_264_master.m3u8?t=1730514726)
 
 ![Magicraft official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103140/ss_ae3641021cc465c951c6bfc5f11c61491b0f732a.1920x1080.jpg?t=1790072393)
 
@@ -64,6 +70,10 @@
 
 ![Magicraft official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103140/9b76a9229379186d1fbdd83360a92b09be2947b1/ss_9b76a9229379186d1fbdd83360a92b09be2947b1.1920x1080.jpg?t=1790072393)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2103140/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2103140&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2103140%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

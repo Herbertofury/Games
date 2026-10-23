@@ -2,7 +2,7 @@
 
 ![Pixel Survivors: Defense official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878090/e56907625e4a46d20800fc8f14b2d73ebced2c89/header.jpg?t=1792079008)
 
-**[Steam store](https://store.steampowered.com/app/3878090/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3878090)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3878090/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3878090)** · [Roguelites](Roguelites)
 
 Pixel Survivors: Defense is a roguelite tower defense game. Stand your ground as a lone hero against hordes of monsters, combine auto-casting spells with 200+ items, and survive up to 40 waves of elites and bosses to protect your base.
 
@@ -10,19 +10,25 @@ Pixel Survivors: Defense is a roguelite tower defense game. Stand your ground as
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 6/10 |
-| Steam positive reviews | 87.2% |
-| Review count | 86 |
-| Steam release date | Oct 13, 2026 |
-| Status | Released |
-| Developers | Amrita |
-| US price snapshot | $2.39 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 87.2% / 86 Steam reviews |
+| Release | Oct 13, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Amrita |
+| Price snapshot | $2.39 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3878090/)
+
+> Small review sample
 
 ## Official media
 
-- [Official Trailer](https://video.akamai.steamstatic.com/store_trailers/3878090/360802352/b4cfcd248c12cb69d9891261aafe35e006fc63e1/1790597627/hls_264_master.m3u8?t=1790599151)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Official Trailer](https://video.akamai.steamstatic.com/store_trailers/3878090/360802352/b4cfcd248c12cb69d9891261aafe35e006fc63e1/1790597627/hls_264_master.m3u8?t=1790599151)
 
 ![Pixel Survivors: Defense official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878090/732bdecce36c24da906bd12e9b1ce2f322382e84/ss_732bdecce36c24da906bd12e9b1ce2f322382e84.1920x1080.jpg?t=1792079008)
 
@@ -44,6 +50,10 @@ Pixel Survivors: Defense is a roguelite tower defense game. Stand your ground as
 
 ![Pixel Survivors: Defense official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878090/62c6a900d667775273f63381cf8039709f04c538/ss_62c6a900d667775273f63381cf8039709f04c538.1920x1080.jpg?t=1792079008)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3878090/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3878090&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3878090%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

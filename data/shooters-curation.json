@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-23T06:36:49.012133+00:00",
+  "overrides": {
+    "steam:3115160": {
+      "curatorWhy": "The first place to look for a fresh, loud campaign: a 2026 sequel with the chunky Warhammer style, rather than another Early Access prospect."
+    },
+    "steam:2680280": {
+      "curatorWhy": "A strong newest-release discovery for fast FPS action with a striking papercraft-horror identity. Start here when visual personality matters as much as speed."
+    },
+    "steam:3748520": {
+      "curatorWhy": "A recent cyberpunk movement-shooter pick for the wall-running and high-mobility side of your collection."
+    },
+    "steam:2067820": {
+      "curatorWhy": "A new retro-space exploration pick. Its immersive-sim emphasis makes it adjacent to straight run-and-gun campaigns, not an interchangeable Doom clone."
+    },
+    "steam:2416450": {
+      "curatorWhy": "A standout for unusual presentation: rubber-hose cartoon noir wrapped around first-person combat. More stylized campaign than hardcore Quake imitation."
+    },
+    "steam:3551190": {
+      "curatorWhy": "One of the newer smaller-audience discoveries worth checking before the obvious classics.",
+      "hiddenGem": true
+    },
+    "steam:2881610": {
+      "curatorWhy": "A particularly interesting dark-fantasy exploration FPS for your taste in atmospheric worlds and unusual weapons.",
+      "hiddenGem": true,
+      "storefronts": [
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/scumhead",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/scumhead",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ]
+    },
+    "steam:3808730": {
+      "curatorWhy": "A deeply under-the-radar custom-engine FPS with an older-school sensibility and an official itch.io alternative.",
+      "hiddenGem": true,
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://stomygame.itch.io/ctesiphon",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://stomygame.itch.io/ctesiphon",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ]
+    },
+    "steam:2443360": {
+      "curatorWhy": "A great hidden-gem starting point: compact, strange, old-school sci-fi action with a clear identity instead of a huge marketing footprint.",
+      "hiddenGem": true,
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://mutantleg.itch.io/zortch",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://mutantleg.itch.io/zortch",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ]
+    },
+    "steam:1684930": {
+      "curatorWhy": "A top recommendation for occult atmosphere, crunchy combat, and a deliberate campaign. It earns a place beside the newest releases even though its first chapter is older."
+    },
+    "steam:519860": {
+      "curatorWhy": "An essential foundation for this collection: fast movement, memorable spaces, and unsettling atmosphere. An older benchmark, not a newly released game.",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/dusk",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/dusk",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ]
+    },
+    "steam:673130": {
+      "curatorWhy": "The fantasy-shooter benchmark here, with spectacular weapon themes and imaginative environments. Especially relevant when you want magic rather than military rifles.",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/amid_evil",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/amid_evil",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ]
+    },
+    "steam:1328350": {
+      "curatorWhy": "One of the strongest picks for relentless movement and over-the-top weapon escalation. Look here for maximal action rather than subtle survival horror.",
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/turbo_overkill",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        },
+        {
+          "provider": "Epic Games",
+          "url": "https://store.epicgames.com/p/turbo-overkill-c5e3c7",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/turbo_overkill",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        },
+        {
+          "provider": "Epic Games",
+          "url": "https://store.epicgames.com/p/turbo-overkill-c5e3c7",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ]
+    },
+    "steam:1592280": {
+      "curatorWhy": "A detailed tactical-combat and exploration pick built on GZDoom. Its Early Access status remains explicit, and creator support is separate from the game purchase.",
+      "storefronts": [
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/PlaySelaco",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/PlaySelaco",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ]
+    },
+    "steam:1229490": {
+      "curatorWhy": "Best approached for expressive movement, weapon interactions, and score mastery. A top skill-driven pick, not a traditional slow secret-hunting campaign."
+    },
+    "steam:3371240": {
+      "curatorWhy": "A distinctive smaller-audience sci-fi campaign with a strong visual identity and more involved weapon handling.",
+      "hiddenGem": true
+    },
+    "steam:1734680": {
+      "curatorWhy": "A gritty industrial-horror option for aggressive combat and grotesque atmosphere.",
+      "hiddenGem": true
+    },
+    "steam:1785940": {
+      "curatorWhy": "An atmospheric occult FPS discovery with a strong identity; check its current Early Access scope before buying.",
+      "hiddenGem": true
+    },
+    "steam:1406780": {
+      "curatorWhy": "A frenetic sci-fi option where movement and aggression matter. A good fit for players who prefer combat pressure over leisurely exploration.",
+      "hiddenGem": true
+    },
+    "steam:1890950": {
+      "curatorWhy": "A high-mobility combat discovery for the movement-shooter shelf. Its developing build should be judged separately from finished campaigns.",
+      "hiddenGem": true
+    },
+    "steam:1836730": {
+      "curatorWhy": "A standout adjacent recommendation for expressive traversal and large spaces. The movement is the attraction, rather than a strict 1990s visual imitation."
+    },
+    "steam:3648730": {
+      "curatorWhy": "A recent small-audience shooter discovery with encouraging reception. Keep its arena/roguelite structure distinct from a linear campaign.",
+      "hiddenGem": true
+    },
+    "steam:2896260": {
+      "curatorWhy": "A newer arena-focused prospect with a distinctive visual tone. Early Access is clearly labelled rather than passed off as a completed campaign.",
+      "hiddenGem": true
+    },
+    "steam:3884520": {
+      "curatorWhy": "Useful for accessing the Blood ecosystem, but its more divided player reception makes it a conditional recommendation. Review current edition feedback before buying.",
+      "fit": 7,
+      "hiddenGem": false
+    },
+    "steam:1409200": {
+      "curatorWhy": "A niche horror-FPS curiosity with mixed player reception. Keep it in the deep-cut shelf, not among the safest purchases.",
+      "fit": 6,
+      "hiddenGem": false
+    },
+    "steam:1371690": {
+      "curatorWhy": "A fantasy exploration/action hybrid with substantial caveats. More suitable for a discounted experiment than a first-choice purchase.",
+      "fit": 6
+    },
+    "steam:3043760": {
+      "curatorWhy": "An arena-focused curiosity with less certain reception than the strongest recommendations. Check recent reviews and footage first.",
+      "fit": 7
+    },
+    "steam:5023480": {
+      "curatorWhy": "An extremely small-sample 2026 discovery. Promising, but a perfect percentage from a few dozen people is not the same evidence as thousands of reviews.",
+      "fit": 7,
+      "confidence": "Exploratory",
+      "hiddenGem": true
+    },
+    "steam:1897010": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://meister351.itch.io/machinicide",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://meister351.itch.io/machinicide",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ]
+    },
+    "steam:1549750": {
+      "storefronts": [
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/scumhead",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/scumhead",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ]
+    },
+    "steam:1417010": {
+      "storefronts": [
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/scumhead",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/scumhead",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ]
+    },
+    "steam:2319790": {
+      "curatorWhy": "A colorful, exuberant campaign and a strong late-2025 alternative to grim industrial shooters. Verified by its exact Steam app ID.",
+      "hiddenGem": true
+    },
+    "steam:3316470": {
+      "curatorWhy": "A grimy, small-audience horror FPS with a free creator demo route and a September 2026 content update. Worth investigating for atmosphere rather than only speed.",
+      "hiddenGem": true,
+      "updateNote": "Two new levels and grenades were announced in the creator devlog on September 6, 2026.",
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://crowhillstudios.itch.io/dead-trash",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        },
+        {
+          "provider": "IndieDB",
+          "url": "https://www.indiedb.com/games/dead-trash",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://crowhillstudios.itch.io/dead-trash",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        },
+        {
+          "provider": "IndieDB",
+          "url": "https://www.indiedb.com/games/dead-trash",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        },
+        {
+          "provider": "Creator content update",
+          "url": "https://crowhillstudios.itch.io/dead-trash/devlog/1654283/two-new-levels-grenades",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:36:49.012133+00:00"
+        }
+      ]
+    },
+    "steam:2723250": {
+      "curatorWhy": "A very small-audience July 2026 discovery. Treat it as an exploratory pick and inspect footage rather than relying on a tiny rating sample.",
+      "fit": 7,
+      "confidence": "Exploratory",
+      "hiddenGem": true
+    }
+  }
+}

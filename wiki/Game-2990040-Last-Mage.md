@@ -2,7 +2,7 @@
 
 ![Last Mage official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990040/ac8602217d1ea3633d18849a510e1f4e4b90986f/header.jpg?t=1789558292)
 
-**[Steam store](https://store.steampowered.com/app/2990040/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2990040)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2990040/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2990040)** · [Roguelites](Roguelites)
 
 Spellcrafting and backpack management combined in one bullet heaven rougelite. As the Last Mage you get a task to explore dungeons filled with monsters and find the source of the disaster plaguing this world.
 
@@ -10,19 +10,25 @@ Spellcrafting and backpack management combined in one bullet heaven rougelite. A
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 6/10 |
-| Steam positive reviews | 64.0% |
-| Review count | 86 |
-| Steam release date | Feb 24, 2026 |
-| Status | Early Access |
-| Developers | Weird Johnny Studio |
-| US price snapshot | $7.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 64.0% / 86 Steam reviews |
+| Release | Feb 24, 2026 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Weird Johnny Studio |
+| Price snapshot | $7.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2990040/)
+
+> Small review sample
 
 ## Official media
 
-- [Last Mage - Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2990040/79098925/7b5cd9499d90b566d5b2cd33c3e97e852b70985d/1771332789/hls_264_master.m3u8?t=1771763366)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Last Mage - Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2990040/79098925/7b5cd9499d90b566d5b2cd33c3e97e852b70985d/1771332789/hls_264_master.m3u8?t=1771763366)
 
 ![Last Mage official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990040/1ed2f6f8c813acb2b44a3da3954488e28e20a754/ss_1ed2f6f8c813acb2b44a3da3954488e28e20a754.1920x1080.jpg?t=1789558292)
 
@@ -36,6 +42,10 @@ Spellcrafting and backpack management combined in one bullet heaven rougelite. A
 
 ![Last Mage official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990040/58a7879ad736dc153f9dd453a4c4a52e0ec5b576/ss_58a7879ad736dc153f9dd453a4c4a52e0ec5b576.1920x1080.jpg?t=1789558292)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2990040/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2990040&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2990040%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

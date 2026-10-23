@@ -2,7 +2,7 @@
 
 ![Artifact Seeker: Resurrection official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/7aa457ce788408b44a2a993e67e949ab2d8e5d34/header.jpg?t=1792035520)
 
-**[Steam store](https://store.steampowered.com/app/3054610/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3054610)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3054610/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3054610)** · [Roguelites](Roguelites)
 
 Artifact Seeker: Resurrection is a 3D Roguelike Survivor RPG game. Aurorium continent is just a board of gods game. You can obtain artifacts by slaying enemies. How to use the power of artifacts, to play the game of gods? To end the game ? Or just be a god yourself. Artifact Seeker, Your choice.
 
@@ -10,18 +10,25 @@ Artifact Seeker: Resurrection is a 3D Roguelike Survivor RPG game. Aurorium cont
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 8/10 |
-| Steam positive reviews | 80.8% |
-| Review count | 804 |
-| Steam release date | Jul 26, 2024 |
-| Status | Released |
-| Developers | Lynkpin Game |
-| US price snapshot | $8.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 80.8% / 804 Steam reviews |
+| Release | Jul 26, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Lynkpin Game |
+| Price snapshot | $8.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3054610/)
 
 ## Official media
 
-- [pvz1](https://video.akamai.steamstatic.com/store_trailers/3054610/728175/981ca672c52311adfc3d8b1cf58cb1ff3fa4a9cb/1750823263/hls_264_master.m3u8?t=1721899609)
-- [PV_1](https://video.akamai.steamstatic.com/store_trailers/3054610/713876/46ffc03a081bfb3cc8c9fb4851bf9caf3ff13363/1750823262/hls_264_master.m3u8?t=1721899613)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[pvz1](https://video.akamai.steamstatic.com/store_trailers/3054610/728175/981ca672c52311adfc3d8b1cf58cb1ff3fa4a9cb/1750823263/hls_264_master.m3u8?t=1721899609)
+
+[PV_1](https://video.akamai.steamstatic.com/store_trailers/3054610/713876/46ffc03a081bfb3cc8c9fb4851bf9caf3ff13363/1750823262/hls_264_master.m3u8?t=1721899613)
 
 ![Artifact Seeker: Resurrection official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_342ca723f10cb80baefa8f20ac8da9accf52a834.1920x1080.jpg?t=1792035520)
 
@@ -59,6 +66,10 @@ Artifact Seeker: Resurrection is a 3D Roguelike Survivor RPG game. Aurorium cont
 
 ![Artifact Seeker: Resurrection official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_0cc4a0d0cef439021ece924d935b1343b5a4ae00.1920x1080.jpg?t=1792035520)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3054610/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3054610&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3054610%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

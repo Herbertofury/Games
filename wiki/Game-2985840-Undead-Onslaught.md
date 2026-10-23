@@ -2,7 +2,7 @@
 
 ![Undead Onslaught official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2985840/6e3046998bd4fb4b3bb26e9e6bf1296e5efdf1e1/header.jpg?t=1765730024)
 
-**[Steam store](https://store.steampowered.com/app/2985840/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2985840)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2985840/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2985840)** · [Roguelites](Roguelites)
 
 "Undead Onslaught" is a Bullet Heaven RPG where you ascend as the villain. Master unique mechanics and strategic combat to dominate a dark, evolving world.
 
@@ -10,19 +10,25 @@
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 81.9% |
-| Review count | 72 |
-| Steam release date | Jun 22, 2024 |
-| Status | Early Access |
-| Developers | Wish App Games |
-| US price snapshot | $7.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 81.9% / 72 Steam reviews |
+| Release | Jun 22, 2024 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Wish App Games |
+| Price snapshot | $7.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2985840/)
+
+> Small review sample
 
 ## Official media
 
-- [Undead Onslaught Trailer EA 1.3.0](https://video.akamai.steamstatic.com/store_trailers/2985840/795349/50904e7db3d4b835447e0c4ef17da62d3c5e4818/1750955416/hls_264_master.m3u8?t=1741977036)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Undead Onslaught Trailer EA 1.3.0](https://video.akamai.steamstatic.com/store_trailers/2985840/795349/50904e7db3d4b835447e0c4ef17da62d3c5e4818/1750955416/hls_264_master.m3u8?t=1741977036)
 
 ![Undead Onslaught official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2985840/bd4fc514c9a93b170967cb55d0c37353e41ad297/ss_bd4fc514c9a93b170967cb55d0c37353e41ad297.1920x1080.jpg?t=1765730024)
 
@@ -42,6 +48,10 @@
 
 ![Undead Onslaught official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2985840/1b0c1d3bca12c6fb52e22de4457f0404a7e71d5b/ss_1b0c1d3bca12c6fb52e22de4457f0404a7e71d5b.1920x1080.jpg?t=1765730024)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2985840/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2985840&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2985840%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

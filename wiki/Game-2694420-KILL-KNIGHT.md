@@ -2,7 +2,7 @@
 
 ![KILL KNIGHT official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694420/5e25e0f0aad7a87dfdc1180de104b38728299d46/header_alt_assets_0.jpg?t=1791930627)
 
-**[Steam store](https://store.steampowered.com/app/2694420/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2694420)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2694420/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2694420)** · [Roguelites](Roguelites)
 
 KILL KNIGHT is an ultra-responsive arcade-inspired isometric action shooter. Condemned to eternal sufferance, deep within the voids of an eldritch arena, you must wield an arsenal of devastating weaponry to obliterate swarms of otherworldly horrors - and MASTER THE DEMON WITHIN.
 
@@ -10,21 +10,31 @@ KILL KNIGHT is an ultra-responsive arcade-inspired isometric action shooter. Con
 |:--|:--|
 | Collection | Action roguelites |
 | Recommendation | 8/10 |
-| Steam positive reviews | 93.7% |
-| Review count | 2,051 |
-| Steam release date | Oct 2, 2024 |
-| Status | Released |
-| Developers | PlaySide |
-| US price snapshot | $14.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 93.7% / 2,051 Steam reviews |
+| Release | Oct 2, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | PlaySide |
+| Price snapshot | $14.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2694420/)
 
 ## Official media
 
-- [KK Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2694420/765126/1173e6c08b64bdb2e7d6eaa79006082bee35dfa0/1750818795/hls_264_master.m3u8?t=1727881224)
-- [Accolades Trailer](https://video.akamai.steamstatic.com/store_trailers/2694420/802624/b6ec1c2373418bff6cc3bd524cede4a68043054b/1750818796/hls_264_master.m3u8?t=1734655918)
-- [KK Date Announce](https://video.akamai.steamstatic.com/store_trailers/2694420/744574/26f93015cfc7286d82c170d3f2ca319e37c8458d/1750820882/hls_264_master.m3u8?t=1724377898)
-- [KK Announce Trailer](https://video.akamai.steamstatic.com/store_trailers/2694420/685091/2f5804c468eaed01f1501765c1cd3e30b36f6e81/1750818789/hls_264_master.m3u8?t=1712769444)
-- [KK Demo Next Fest Trailer](https://video.akamai.steamstatic.com/store_trailers/2694420/706760/d7af8de99ed8925fd161036ec0683c56a3f37b3d/1750818791/hls_264_master.m3u8?t=1717029190)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[KK Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2694420/765126/1173e6c08b64bdb2e7d6eaa79006082bee35dfa0/1750818795/hls_264_master.m3u8?t=1727881224)
+
+[Accolades Trailer](https://video.akamai.steamstatic.com/store_trailers/2694420/802624/b6ec1c2373418bff6cc3bd524cede4a68043054b/1750818796/hls_264_master.m3u8?t=1734655918)
+
+[KK Date Announce](https://video.akamai.steamstatic.com/store_trailers/2694420/744574/26f93015cfc7286d82c170d3f2ca319e37c8458d/1750820882/hls_264_master.m3u8?t=1724377898)
+
+[KK Announce Trailer](https://video.akamai.steamstatic.com/store_trailers/2694420/685091/2f5804c468eaed01f1501765c1cd3e30b36f6e81/1750818789/hls_264_master.m3u8?t=1712769444)
+
+[KK Demo Next Fest Trailer](https://video.akamai.steamstatic.com/store_trailers/2694420/706760/d7af8de99ed8925fd161036ec0683c56a3f37b3d/1750818791/hls_264_master.m3u8?t=1717029190)
 
 ![KILL KNIGHT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694420/ss_775410fac5ce41bfe0245d89129db0155f0e3999.1920x1080.jpg?t=1791930627)
 
@@ -46,6 +56,10 @@ KILL KNIGHT is an ultra-responsive arcade-inspired isometric action shooter. Con
 
 ![KILL KNIGHT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694420/ss_8460ad0b9e2964aac184556bc173f09ac60694fe.1920x1080.jpg?t=1791930627)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2694420/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2694420&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2694420%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

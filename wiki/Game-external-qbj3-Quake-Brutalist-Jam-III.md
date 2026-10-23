@@ -1,0 +1,47 @@
+# Quake Brutalist Jam III
+
+**[Open official page](https://www.moddb.com/mods/quake-brutalist-jam-iii)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Aqbj3)** · [Boomer shooters](Boomer-Shooters)
+
+A colossal community FPS built around brutalist architecture, a replacement arsenal, expanded monsters, and 77 maps.
+
+## Why it is here
+
+One of the strongest free discoveries here: striking environments and a full-sized collection, not just a short demo.
+
+| Field | Value |
+|:--|:--|
+| Collection | Quake worlds |
+| Recommendation | 9/10 |
+| Community reception | No aggregate rating |
+| Release | 2026-01-03 |
+| Availability | Released |
+| Build type | Free standalone / mod |
+| FPS style | Core retro / movement FPS |
+| Creators | QBJ3 community / stickflip |
+| Price snapshot | Free / optional donation |
+| Verified | 2026-10-23T06:35:12.994433+00:00 |
+
+## Official stores and downloads
+
+- [ModDB: download](https://www.moddb.com/mods/quake-brutalist-jam-iii)
+- [ModDB standalone: download](https://www.moddb.com/mods/quake-brutalist-jam-iii/downloads/qbj3-v13-standalone)
+- [Slipseer: download](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/)
+
+### Before you play
+
+Choose QBJ3 v1.3 STANDALONE for the bundled Windows game. That package uses LibreQuake assets and does not require an owned copy of Quake. The separate mod build has different requirements.
+
+### Latest verified update
+
+Standalone v1.3 download added March 21, 2026. Original jam release: January 3, 2026.
+
+## Official media
+
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+## Sources and evidence
+
+- [ModDB](https://www.moddb.com/mods/quake-brutalist-jam-iii) · checked 2026-10-23T06:35:12.994433+00:00
+- [Standalone release and installation](https://www.moddb.com/mods/quake-brutalist-jam-iii/downloads/qbj3-v13-standalone) · checked 2026-10-23T06:35:12.994433+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

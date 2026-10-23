@@ -2,7 +2,7 @@
 
 ![Boneraiser Minions official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/header.jpg?t=1790853284)
 
-**[Steam store](https://store.steampowered.com/app/1944570/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A1944570)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1944570/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1944570)** · [Roguelites](Roguelites)
 
 Amass an army of undead to fight endless waves of heroes intent to end your boneraising ways! In this gothic auto-battler rogue-lite Survivor-like, use the bones of slain heroes to raise your minions, collect relics and spells, and unlock meta upgrades, all to survive King Gigald's crusade!
 
@@ -10,17 +10,23 @@ Amass an army of undead to fight endless waves of heroes intent to end your bone
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 9/10 |
-| Steam positive reviews | 96.2% |
-| Review count | 5,383 |
-| Steam release date | Mar 9, 2023 |
-| Status | Released |
-| Developers | caiys |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 96.2% / 5,383 Steam reviews |
+| Release | Mar 9, 2023 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | caiys |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/1944570/)
 
 ## Official media
 
-- [Trailer](https://video.akamai.steamstatic.com/store_trailers/1944570/459666/389b3104e1e7b76b09f93d93aacdef1ace8a9936/1751051540/hls_264_master.m3u8?t=1693917932)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Trailer](https://video.akamai.steamstatic.com/store_trailers/1944570/459666/389b3104e1e7b76b09f93d93aacdef1ace8a9936/1751051540/hls_264_master.m3u8?t=1693917932)
 
 ![Boneraiser Minions official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/ss_08ff1e53a4b84baa09ed745562aa816ab2c48abe.1920x1080.jpg?t=1790853284)
 
@@ -38,6 +44,10 @@ Amass an army of undead to fight endless waves of heroes intent to end your bone
 
 ![Boneraiser Minions official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/ss_3ca80fc73584aa1cc389a28ab613d3522c4f5a02.1920x1080.jpg?t=1790853284)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/1944570/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1944570&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1944570%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

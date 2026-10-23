@@ -2,7 +2,7 @@
 
 ![Ascend to ZERO official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/2b50769aaa2d06f460a5e2ef6ef13ca9ed88305d/header.jpg?t=1791338709)
 
-**[Steam store](https://store.steampowered.com/app/2697940/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2697940)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2697940/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2697940)** · [Roguelites](Roguelites)
 
 Have you ever wondered what it feels like to stop time? Ascend to ZERO is a time-bending action-roguelike where you can use your unique ability to freeze time and fight your way to the top.
 
@@ -10,18 +10,25 @@ Have you ever wondered what it feels like to stop time? Ascend to ZERO is a time
 |:--|:--|
 | Collection | Action roguelites |
 | Recommendation | 7/10 |
-| Steam positive reviews | 83.0% |
-| Review count | 1,005 |
-| Steam release date | Jul 13, 2026 |
-| Status | Released |
-| Developers | Flyway Games, Inc. |
-| US price snapshot | $11.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 83.0% / 1,005 Steam reviews |
+| Release | Jul 13, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Flyway Games, Inc. |
+| Price snapshot | $11.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2697940/)
 
 ## Official media
 
-- [Ascend to ZERO \| Launch Trailer ](https://video.akamai.steamstatic.com/store_trailers/2697940/1128286692/4b8d1e7d317c434d53a53138ae5ef8ad378e5b55/1783663477/hls_264_master.m3u8?t=1783926664)
-- [Ascend to ZERO \| Launch Date Reveal](https://video.akamai.steamstatic.com/store_trailers/2697940/2004631958/2b2acd2262d934d78e7aaadb196be90ca89927a1/1774541422/hls_264_master.m3u8?t=1774548038)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Ascend to ZERO \| Launch Trailer ](https://video.akamai.steamstatic.com/store_trailers/2697940/1128286692/4b8d1e7d317c434d53a53138ae5ef8ad378e5b55/1783663477/hls_264_master.m3u8?t=1783926664)
+
+[Ascend to ZERO \| Launch Date Reveal](https://video.akamai.steamstatic.com/store_trailers/2697940/2004631958/2b2acd2262d934d78e7aaadb196be90ca89927a1/1774541422/hls_264_master.m3u8?t=1774548038)
 
 ![Ascend to ZERO official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/48bba650b0faeacd40de93d8b31a9ccd08112d18/ss_48bba650b0faeacd40de93d8b31a9ccd08112d18.1920x1080.jpg?t=1791338709)
 
@@ -39,6 +46,10 @@ Have you ever wondered what it feels like to stop time? Ascend to ZERO is a time
 
 ![Ascend to ZERO official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/f082d0d9c2541698ff98d28a3c54c918e2af2b09/ss_f082d0d9c2541698ff98d28a3c54c918e2af2b09.1920x1080.jpg?t=1791338709)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2697940/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2697940&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2697940%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

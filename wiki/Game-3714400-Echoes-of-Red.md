@@ -2,7 +2,7 @@
 
 ![Echoes of Red official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714400/856be379bddf561ef846f7a059d0308e465c231c/header.jpg?t=1788531558)
 
-**[Steam store](https://store.steampowered.com/app/3714400/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3714400)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3714400/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3714400)** · [Roguelites](Roguelites)
 
 ECHOES OF RED is a fast-paced roguelite shooter where you can carry unlimited weapons at once, face endless enemies ever stronger and build your perfect custom loadout. OBLITERATE tens of thousands of enemies who dared to challenge you and MAKE THEM REGRET STANDING AGAINST YOU.
 
@@ -10,17 +10,23 @@ ECHOES OF RED is a fast-paced roguelite shooter where you can carry unlimited we
 |:--|:--|
 | Collection | Zombies & horror |
 | Recommendation | 8/10 |
-| Steam positive reviews | 89.6% |
-| Review count | 154 |
-| Steam release date | Mar 3, 2026 |
-| Status | Released |
-| Developers | TERMAX Studios |
-| US price snapshot | $3.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 89.6% / 154 Steam reviews |
+| Release | Mar 3, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | TERMAX Studios |
+| Price snapshot | $3.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3714400/)
 
 ## Official media
 
-- [Trailer - Full Release](https://video.akamai.steamstatic.com/store_trailers/3714400/587208524/9714016698760bfd61d957a158933867e105aeb1/1772460956/hls_264_master.m3u8?t=1772462294)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Trailer - Full Release](https://video.akamai.steamstatic.com/store_trailers/3714400/587208524/9714016698760bfd61d957a158933867e105aeb1/1772460956/hls_264_master.m3u8?t=1772462294)
 
 ![Echoes of Red official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714400/f7b3e13517e1afae07f81e5b85a78276aca33ecc/ss_f7b3e13517e1afae07f81e5b85a78276aca33ecc.1920x1080.jpg?t=1788531558)
 
@@ -40,6 +46,10 @@ ECHOES OF RED is a fast-paced roguelite shooter where you can carry unlimited we
 
 ![Echoes of Red official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714400/4e750cc5183d105438e37fd01d03221f8da72c96/ss_4e750cc5183d105438e37fd01d03221f8da72c96.1920x1080.jpg?t=1788531558)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3714400/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3714400&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3714400%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -2,7 +2,7 @@
 
 ![Soulfall official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3062830/284e357616b26064ac6b8f1329e7845752aaf174/header.jpg?t=1782265141)
 
-**[Steam store](https://store.steampowered.com/app/3062830/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3062830)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3062830/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3062830)** · [Roguelites](Roguelites)
 
 Condemned to Hell against your will, eviscerate hordes of demons to reach the Dark Lord and reclaim your fallen soul. Forge your custom hero across nine class specializations with unique talent trees. Hunt powerful loot and carve through shifting labyrinths where your choices shape the final battle.
 
@@ -10,19 +10,25 @@ Condemned to Hell against your will, eviscerate hordes of demons to reach the Da
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 85.7% |
-| Review count | 28 |
-| Steam release date | Sep 30, 2025 |
-| Status | Early Access |
-| Developers | King's Crown Studio |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 85.7% / 28 Steam reviews |
+| Release | Sep 30, 2025 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | King's Crown Studio |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3062830/)
+
+> Small review sample
 
 ## Official media
 
-- [Main Trailer](https://video.akamai.steamstatic.com/store_trailers/3062830/960324442/46e5920a2c6fa53ce4f83707a3e4c047fc07c2f9/1780933198/hls_264_master.m3u8?t=1780933644)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Main Trailer](https://video.akamai.steamstatic.com/store_trailers/3062830/960324442/46e5920a2c6fa53ce4f83707a3e4c047fc07c2f9/1780933198/hls_264_master.m3u8?t=1780933644)
 
 ![Soulfall official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3062830/2514dd912a90fc5e56e0b05abb37e189deaebaf7/ss_2514dd912a90fc5e56e0b05abb37e189deaebaf7.1920x1080.jpg?t=1782265141)
 
@@ -52,6 +58,10 @@ Condemned to Hell against your will, eviscerate hordes of demons to reach the Da
 
 ![Soulfall official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3062830/ss_2b4d23792eb65910c02346ab8c9639d85fb39e37.1920x1080.jpg?t=1782265141)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3062830/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3062830&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3062830%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

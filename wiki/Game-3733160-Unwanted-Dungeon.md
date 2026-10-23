@@ -2,7 +2,7 @@
 
 ![Unwanted Dungeon official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733160/16a8131ec410ec2034d71fc87a107dcf6512eb15/header.jpg?t=1782533036)
 
-**[Steam store](https://store.steampowered.com/app/3733160/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3733160)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3733160/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3733160)** · [Roguelites](Roguelites)
 
 A dark fantasy survivorslike with classic ARPG essence: Deep builds, rare loot, NPC shops, shared storage, and a semi-procedural dungeon with bosses, events, and curses. Fast-paced roguelite action meets old-school dungeon crawling. Every lost run is a new idea. Welcome to Unwanted Dungeon!
 
@@ -10,20 +10,27 @@ A dark fantasy survivorslike with classic ARPG essence: Deep builds, rare loot, 
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 92.6% |
-| Review count | 27 |
-| Steam release date | Apr 7, 2026 |
-| Status | Released |
-| Developers | Conrado Saud, Conrado Saud |
-| US price snapshot | $7.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 92.6% / 27 Steam reviews |
+| Release | Apr 7, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Conrado Saud, Conrado Saud |
+| Price snapshot | $7.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3733160/)
+
+> Small review sample
 
 ## Official media
 
-- [Gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/3733160/1109539772/925528763a2061b3c63d3f5205b1e6205971d005/1771853970/hls_264_master.m3u8?t=1771854460)
-- [Lore Cinematic](https://video.akamai.steamstatic.com/store_trailers/3733160/312281265/842a59f3a79048469f85814c547b5dbf89bce52a/1771683033/hls_264_master.m3u8?t=1771854461)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/3733160/1109539772/925528763a2061b3c63d3f5205b1e6205971d005/1771853970/hls_264_master.m3u8?t=1771854460)
+
+[Lore Cinematic](https://video.akamai.steamstatic.com/store_trailers/3733160/312281265/842a59f3a79048469f85814c547b5dbf89bce52a/1771683033/hls_264_master.m3u8?t=1771854461)
 
 ![Unwanted Dungeon official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733160/0847d2cfce563d6942cf6737381deb12bf68de76/ss_0847d2cfce563d6942cf6737381deb12bf68de76.1920x1080.jpg?t=1782533036)
 
@@ -39,6 +46,10 @@ A dark fantasy survivorslike with classic ARPG essence: Deep builds, rare loot, 
 
 ![Unwanted Dungeon official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733160/33fe03da2f4f8de43db8e7f3aa1263fa810a2911/ss_33fe03da2f4f8de43db8e7f3aa1263fa810a2911.1920x1080.jpg?t=1782533036)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3733160/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3733160&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3733160%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

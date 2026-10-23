@@ -2,7 +2,7 @@
 
 ![Let Them Come: Onslaught official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050800/9e6ef76cdaa22759f699aab3947c659ec6182c6d/header.jpg?t=1782985715)
 
-**[Steam store](https://store.steampowered.com/app/2050800/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2050800)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2050800/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2050800)** · [Roguelites](Roguelites)
 
 Survive the relentless offensive of the alien horde in Let Them Come: Onslaught, a sci-fi survival roguelite. The pursuit of the perfect build and an ever-expanding arsenal of abilities are the keys to your success.
 
@@ -10,18 +10,25 @@ Survive the relentless offensive of the alien horde in Let Them Come: Onslaught,
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 8/10 |
-| Steam positive reviews | 90.2% |
-| Review count | 246 |
-| Steam release date | Nov 11, 2025 |
-| Status | Released |
-| Developers | Tuatara Games |
-| US price snapshot | $7.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 90.2% / 246 Steam reviews |
+| Release | Nov 11, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Tuatara Games |
+| Price snapshot | $7.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2050800/)
 
 ## Official media
 
-- [Let Them Come : Onslaught - Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2050800/1131618885/164aea22d5712f1e41b53732eb16778c15088dd3/1761670894/hls_264_master.m3u8?t=1762874720)
-- [Let Them Come : Onslaught - Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2050800/2083622453/f56a3b9ff3316387c04d6dbf0f3f421ead03e3c1/1755121437/hls_264_master.m3u8?t=1762543570)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Let Them Come : Onslaught - Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2050800/1131618885/164aea22d5712f1e41b53732eb16778c15088dd3/1761670894/hls_264_master.m3u8?t=1762874720)
+
+[Let Them Come : Onslaught - Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2050800/2083622453/f56a3b9ff3316387c04d6dbf0f3f421ead03e3c1/1755121437/hls_264_master.m3u8?t=1762543570)
 
 ![Let Them Come: Onslaught official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050800/8501660a7ebf5764b9eb6e003a89865f779bac3d/ss_8501660a7ebf5764b9eb6e003a89865f779bac3d.1920x1080.jpg?t=1782985715)
 
@@ -43,6 +50,10 @@ Survive the relentless offensive of the alien horde in Let Them Come: Onslaught,
 
 ![Let Them Come: Onslaught official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050800/843eb1607fd6662182a9ac6d2439cc22ceeb6b5f/ss_843eb1607fd6662182a9ac6d2439cc22ceeb6b5f.1920x1080.jpg?t=1782985715)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2050800/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2050800&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2050800%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

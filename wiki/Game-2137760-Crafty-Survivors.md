@@ -2,7 +2,7 @@
 
 ![Crafty Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/bff6502271bae8f0871b3d81a4d8b7ee8fd216c2/header.jpg?t=1789045565)
 
-**[Steam store](https://store.steampowered.com/app/2137760/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2137760)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2137760/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2137760)** · [Roguelites](Roguelites)
 
 All heroes got corrupted! Unlock a diverse cast of crafty professionals, use their unique skills, create your own builds and defend your home by eliminating hordes of monsters. Gather materials, rebuild your village and craft your way to the origin of this malignous curse!
 
@@ -10,19 +10,27 @@ All heroes got corrupted! Unlock a diverse cast of crafty professionals, use the
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 8/10 |
-| Steam positive reviews | 82.7% |
-| Review count | 764 |
-| Steam release date | May 16, 2025 |
-| Status | Released |
-| Developers | Flannel Bear Games |
-| US price snapshot | $11.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 82.7% / 764 Steam reviews |
+| Release | May 16, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Flannel Bear Games |
+| Price snapshot | $11.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2137760/)
 
 ## Official media
 
-- [Crafty Survivors - Full Release](https://video.akamai.steamstatic.com/store_trailers/2137760/1877020879/c951082e034e8322a7895422ff8764d8571620d0/1750747493/hls_264_master.m3u8?t=1747412611)
-- [Crafty Survivors - EA Trailer](https://video.akamai.steamstatic.com/store_trailers/2137760/548435/4e6d4c038d41f4780ab06b8612ac5c30a4ed4360/1750747489/hls_264_master.m3u8?t=1695917439)
-- [Crafty Survivors - Overcome](https://video.akamai.steamstatic.com/store_trailers/2137760/583230/30544adc223dfbc33979cdf523197f149f372710/1750747491/hls_264_master.m3u8?t=1693957043)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Crafty Survivors - Full Release](https://video.akamai.steamstatic.com/store_trailers/2137760/1877020879/c951082e034e8322a7895422ff8764d8571620d0/1750747493/hls_264_master.m3u8?t=1747412611)
+
+[Crafty Survivors - EA Trailer](https://video.akamai.steamstatic.com/store_trailers/2137760/548435/4e6d4c038d41f4780ab06b8612ac5c30a4ed4360/1750747489/hls_264_master.m3u8?t=1695917439)
+
+[Crafty Survivors - Overcome](https://video.akamai.steamstatic.com/store_trailers/2137760/583230/30544adc223dfbc33979cdf523197f149f372710/1750747491/hls_264_master.m3u8?t=1693957043)
 
 ![Crafty Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_c60bc07bfb460f1f1718f5aeef5afcb12bb1915c.1920x1080.jpg?t=1789045565)
 
@@ -56,6 +64,10 @@ All heroes got corrupted! Unlock a diverse cast of crafty professionals, use the
 
 ![Crafty Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_2fe7fdf1dc258a0a8679088efa69f734aa9f6135.1920x1080.jpg?t=1789045565)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2137760/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2137760&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2137760%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

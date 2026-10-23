@@ -2,7 +2,7 @@
 
 ![Rhythm Witch: Beat Death official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/header.jpg?t=1767068525)
 
-**[Steam store](https://store.steampowered.com/app/2951580/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2951580)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2951580/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2951580)** · [Roguelites](Roguelites)
 
 Rhythm Witch: Beat Death is a game that melds rhythm and survival. Attack to the rhythm of the music while dodging monsters who move and attack to the beat. On your journey to eternal beauty, defeat dancing freaks, ghouls, dragon, and more!
 
@@ -10,18 +10,25 @@ Rhythm Witch: Beat Death is a game that melds rhythm and survival. Attack to the
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 7/10 |
-| Steam positive reviews | 93.6% |
-| Review count | 594 |
-| Steam release date | May 8, 2025 |
-| Status | Released |
-| Developers | Dusklight CO., LTD. |
-| US price snapshot | $5.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 93.6% / 594 Steam reviews |
+| Release | May 8, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Dusklight CO., LTD. |
+| Price snapshot | $5.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2951580/)
 
 ## Official media
 
-- [Rhythm Witch:Beat Death Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2951580/2004870024/b18fe1f6f8030b33859c6c2f4fd0af39af7b6ff4/1750952508/hls_264_master.m3u8?t=1746751922)
-- [Rhythm Witch:Beat Death Trailer](https://video.akamai.steamstatic.com/store_trailers/2951580/693448/8fb1065b86f4d7a0ec520ad4804f0400e02f5d65/1750952503/hls_264_master.m3u8?t=1732483040)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Rhythm Witch:Beat Death Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2951580/2004870024/b18fe1f6f8030b33859c6c2f4fd0af39af7b6ff4/1750952508/hls_264_master.m3u8?t=1746751922)
+
+[Rhythm Witch:Beat Death Trailer](https://video.akamai.steamstatic.com/store_trailers/2951580/693448/8fb1065b86f4d7a0ec520ad4804f0400e02f5d65/1750952503/hls_264_master.m3u8?t=1732483040)
 
 ![Rhythm Witch: Beat Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/7d380db905c8e635f9264b567af5b78aa9bfc75e/ss_7d380db905c8e635f9264b567af5b78aa9bfc75e.1920x1080.jpg?t=1767068525)
 
@@ -39,6 +46,10 @@ Rhythm Witch: Beat Death is a game that melds rhythm and survival. Attack to the
 
 ![Rhythm Witch: Beat Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951580/20e75938e0ad74743bf30146cfe9877ca1d2e08a/ss_20e75938e0ad74743bf30146cfe9877ca1d2e08a.1920x1080.jpg?t=1767068525)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2951580/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2951580&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2951580%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

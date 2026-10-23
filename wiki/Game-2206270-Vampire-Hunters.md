@@ -2,26 +2,33 @@
 
 ![Vampire Hunters official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206270/header.jpg?t=1792075511)
 
-**[Steam store](https://store.steampowered.com/app/2206270/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2206270)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2206270/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2206270)** · [Roguelites](Roguelites) · [Boomer shooters](Boomer-Shooters)
 
 To hunt vampires, you'll need guns. Lots of guns. Mow down hordes of undead creatures by stacking your guns into absurd, over-the-top builds. Unleash your firepower and survive the mayhem in this Roguelite Survivors FPS.
 
 | Field | Value |
 |:--|:--|
-| Collection | First-person action |
+| Collection | First-person action, Arena & roguelite FPS |
 | Recommendation | 8/10 |
-| Steam positive reviews | 89.8% |
-| Review count | 2,238 |
-| Steam release date | Oct 30, 2024 |
-| Status | Released |
-| Developers | Gamecraft Studios |
-| US price snapshot | $14.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 89.8% / 2,238 Steam reviews |
+| Release | Oct 30, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Gamecraft Studios |
+| Price snapshot | $14.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2206270/)
 
 ## Official media
 
-- [Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2206270/778974/f5239b2a7af36a0cf5a48d74f1ba6063e97ac5e6/1750809552/hls_264_master.m3u8?t=1730298159)
-- [1.0 Release Date Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2206270/764254/8ad0a86aba3dae5514ca5139cee3b72e52758d19/1750809552/hls_264_master.m3u8?t=1730298164)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2206270/778974/f5239b2a7af36a0cf5a48d74f1ba6063e97ac5e6/1750809552/hls_264_master.m3u8?t=1730298159)
+
+[1.0 Release Date Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2206270/764254/8ad0a86aba3dae5514ca5139cee3b72e52758d19/1750809552/hls_264_master.m3u8?t=1730298164)
 
 ![Vampire Hunters official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206270/ss_81b32e8bad13e0fffaad248cf299ea75c5d02b9f.1920x1080.jpg?t=1792075511)
 
@@ -55,6 +62,10 @@ To hunt vampires, you'll need guns. Lots of guns. Mow down hordes of undead crea
 
 ![Vampire Hunters official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206270/ss_3ebcfa576fde6f71a23bfa20322f31d25357b11f.1920x1080.jpg?t=1792075511)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2206270/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2206270&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2206270%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

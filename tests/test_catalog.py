@@ -1,9 +1,10 @@
-import importlib.util,json,pathlib,unittest
-ROOT=pathlib.Path(__file__).resolve().parents[1]
-spec=importlib.util.spec_from_file_location('build',ROOT/'scripts/build.py');build=importlib.util.module_from_spec(spec);spec.loader.exec_module(build)
+import importlib.util,json,pathlib,sys,unittest
+ROOT=pathlib.Path(__file__).resolve().parents[1];sys.path.insert(0,str(ROOT/'scripts'))
+import build
+from catalog_model import validate,assemble
 class CatalogTests(unittest.TestCase):
     def test_scoring(self):
-        g={'verification':'verified','fit':10,'reviewCount':1000,'rating':96}
+        g={'verification':'verified','fit':10,'reviewCount':1000,'rating':96,'steamUrl':'https://store.steampowered.com/app/2218750/'}
         self.assertEqual(build.score(g),10)
         self.assertEqual(build.score({**g,'rating':65}),6)
         self.assertEqual(build.score({**g,'rating':45}),5)
@@ -17,7 +18,9 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual(len(items),d['build']['inputCount'])
         self.assertEqual(d['build']['verifiedCount']+d['build']['unresolvedCount'],len(items))
         for g in items:
-            self.assertRegex(g['steamUrl'],r'^https://store\.steampowered\.com/app/\d+/$')
+            validate(g)
+            if g.get('steamUrl'):self.assertRegex(g['steamUrl'],r'^https://store\.steampowered\.com/app/\d+/$')
+            else:self.assertTrue(g['id'].startswith('external:'));self.assertIsNone(g.get('rating'))
             if g['verification']=='verified':
                 self.assertTrue(g['verifiedAt']);self.assertTrue(g['sources'])
                 if g['rating'] is not None:self.assertTrue(0<=g['rating']<=100)
@@ -25,7 +28,5 @@ class CatalogTests(unittest.TestCase):
     def test_build_templates(self):
         html=(ROOT/'site/index.html').read_text();js=(ROOT/'site/app.js').read_text();css=(ROOT/'site/styles.css').read_text()
         for slot in ['/*__CSS__*/','/*__DATA__*/','/*__APP__*/']:self.assertIn(slot,html)
-        self.assertIn('prefers-reduced-motion',css)
-        self.assertIn('recommendation(g)',js)
-        self.assertNotIn('eval(',js)
+        self.assertIn('prefers-reduced-motion',css);self.assertIn('recommendation(g)',js);self.assertNotIn('eval(',js)
 if __name__=='__main__':unittest.main()

@@ -2,7 +2,7 @@
 
 ![The Slormancer official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1104280/d425c51526b26037fa7e4ebfd8bb5424164e95f7/header.jpg?t=1789383721)
 
-**[Steam store](https://store.steampowered.com/app/1104280/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A1104280)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1104280/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1104280)** · [Roguelites](Roguelites)
 
 Fight hordes of enemies led by The Slormancer, an evil warlock from the past, in an absurd yet epic Action RPG! Experience fast-paced gameplay, loads of shiny loot, tons of collectibles, countless hours of content, and carefully crafted pixel art.
 
@@ -10,18 +10,25 @@ Fight hordes of enemies led by The Slormancer, an evil warlock from the past, in
 |:--|:--|
 | Collection | Loot-driven ARPGs |
 | Recommendation | 10/10 |
-| Steam positive reviews | 81.4% |
-| Review count | 7,394 |
-| Steam release date | May 13, 2025 |
-| Status | Released |
-| Developers | Slormite Studios |
-| US price snapshot | $19.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 81.4% / 7,394 Steam reviews |
+| Release | May 13, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Slormite Studios |
+| Price snapshot | $19.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/1104280/)
 
 ## Official media
 
-- [The Slormancer - Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1104280/877189/4928376dff9e569cb3e39df7aeb86769551f5ce8/1750619869/hls_264_master.m3u8?t=1745502732)
-- [The Slormancer - Content Trailer](https://video.akamai.steamstatic.com/store_trailers/1104280/877224/3bfb226243c45f060760a4d2a17a4d3ba90609f2/1750619879/hls_264_master.m3u8?t=1745502735)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[The Slormancer - Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1104280/877189/4928376dff9e569cb3e39df7aeb86769551f5ce8/1750619869/hls_264_master.m3u8?t=1745502732)
+
+[The Slormancer - Content Trailer](https://video.akamai.steamstatic.com/store_trailers/1104280/877224/3bfb226243c45f060760a4d2a17a4d3ba90609f2/1750619879/hls_264_master.m3u8?t=1745502735)
 
 ![The Slormancer official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1104280/ss_3f44cf82abd3ad677fe416e7786285d1c5d677d9.1920x1080.jpg?t=1789383721)
 
@@ -53,6 +60,10 @@ Fight hordes of enemies led by The Slormancer, an evil warlock from the past, in
 
 ![The Slormancer official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1104280/ss_42505e26d6d14aa59169986d0e7fee6ba38a09cc.1920x1080.jpg?t=1789383721)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/1104280/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1104280&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1104280%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

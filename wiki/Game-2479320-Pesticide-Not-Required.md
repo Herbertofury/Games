@@ -2,7 +2,7 @@
 
 ![Pesticide Not Required official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/header.jpg?t=1789964041)
 
-**[Steam store](https://store.steampowered.com/app/2479320/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2479320)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2479320/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2479320)** · [Roguelites](Roguelites)
 
 Mow down countless crops and corrupt critters while crafting game-breaking builds! Pesticide Not Required is an action roguelite bullet heaven game with farming sim elements that offers a myriad of stats and special character traits to create wildly diverse run possibilities.
 
@@ -10,17 +10,23 @@ Mow down countless crops and corrupt critters while crafting game-breaking build
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 8/10 |
-| Steam positive reviews | 93.7% |
-| Review count | 951 |
-| Steam release date | Mar 18, 2024 |
-| Status | Released |
-| Developers | Jampacked Games |
-| US price snapshot | $6.50 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 93.7% / 951 Steam reviews |
+| Release | Mar 18, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Jampacked Games |
+| Price snapshot | $6.50 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2479320/)
 
 ## Official media
 
-- [Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2479320/584175/c0575b4e8f5559dcd78f3acc51b862ff314cd454/1750815601/hls_264_master.m3u8?t=1703195201)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2479320/584175/c0575b4e8f5559dcd78f3acc51b862ff314cd454/1750815601/hls_264_master.m3u8?t=1703195201)
 
 ![Pesticide Not Required official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_e4a71145f1c8d3a1981df1e847cb328837877df7.1920x1080.jpg?t=1789964041)
 
@@ -38,6 +44,10 @@ Mow down countless crops and corrupt critters while crafting game-breaking build
 
 ![Pesticide Not Required official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_e232ba4e70b273f28a224398d0670edbc41e2651.1920x1080.jpg?t=1789964041)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2479320/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2479320&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2479320%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

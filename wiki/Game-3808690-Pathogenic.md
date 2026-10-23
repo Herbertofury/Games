@@ -2,7 +2,7 @@
 
 ![Pathogenic official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808690/afa3fb7a2a8a0de9ff071a449cac4777ae70047b/header_alt_assets_1.jpg?t=1792503612)
 
-**[Steam store](https://store.steampowered.com/app/3808690/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3808690)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3808690/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3808690)** · [Roguelites](Roguelites)
 
 You are a disease. Infect the human body as a lone pathogen in this cellular roguelike shooter. Collect organelles to evolve your parasite in a microscopic arms race against your host's immune system. Conquer a beautiful, procedurally generated world of tiny proportions.
 
@@ -10,18 +10,25 @@ You are a disease. Infect the human body as a lone pathogen in this cellular rog
 |:--|:--|
 | Collection | Bullet heaven |
 | Recommendation | 7/10 |
-| Steam positive reviews | 93.2% |
-| Review count | 4,969 |
-| Steam release date | Jul 16, 2026 |
-| Status | Released |
-| Developers | Aberrant Labs |
-| US price snapshot | $6.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 93.2% / 4,969 Steam reviews |
+| Release | Jul 16, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Aberrant Labs |
+| Price snapshot | $6.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3808690/)
 
 ## Official media
 
-- [Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3808690/1249389595/4cbbcd614d134c44d18127eb3576db92a7d78dba/1784205167/hls_264_master.m3u8?t=1784205865)
-- [Infuser Guide Video](https://video.akamai.steamstatic.com/store_trailers/3808690/1606105104/c197f68ad58f69bec6a4af7b8e3b39cb666b7f27/1790348976/hls_264_master.m3u8?t=1791909128)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3808690/1249389595/4cbbcd614d134c44d18127eb3576db92a7d78dba/1784205167/hls_264_master.m3u8?t=1784205865)
+
+[Infuser Guide Video](https://video.akamai.steamstatic.com/store_trailers/3808690/1606105104/c197f68ad58f69bec6a4af7b8e3b39cb666b7f27/1790348976/hls_264_master.m3u8?t=1791909128)
 
 ![Pathogenic official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808690/eb7dd0466ace51651a1109b0dbc732ba89605dbd/ss_eb7dd0466ace51651a1109b0dbc732ba89605dbd.1920x1080.jpg?t=1792503612)
 
@@ -51,6 +58,10 @@ You are a disease. Infect the human body as a lone pathogen in this cellular rog
 
 ![Pathogenic official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808690/5aba434c2eced02693bb90093a5d7ed727ae1156/ss_5aba434c2eced02693bb90093a5d7ed727ae1156.1920x1080.jpg?t=1792503612)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3808690/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3808690&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3808690%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

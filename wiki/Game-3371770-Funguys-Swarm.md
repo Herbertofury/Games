@@ -2,7 +2,7 @@
 
 ![Funguys Swarm official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371770/788a21f84133c2659224fd6c23d67cf1b719e529/header.jpg?t=1790648961)
 
-**[Steam store](https://store.steampowered.com/app/3371770/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3371770)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3371770/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3371770)** · [Roguelites](Roguelites)
 
 Funguys Swarm is a cartoony survivor bullet hell where the forest is on fire. Become a Funguy, arm yourself with forest-crafted weapons, and unleash some bonkers powers on the Fireking’s army. And maybe... just maybe, save the day if you’re skilled (or lucky) enough.
 
@@ -10,18 +10,25 @@ Funguys Swarm is a cartoony survivor bullet hell where the forest is on fire. Be
 |:--|:--|
 | Collection | Bullet heaven |
 | Recommendation | 7/10 |
-| Steam positive reviews | 89.6% |
-| Review count | 1,177 |
-| Steam release date | Aug 25, 2026 |
-| Status | Released |
-| Developers | Stairway Games |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 89.6% / 1,177 Steam reviews |
+| Release | Aug 25, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Stairway Games |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3371770/)
 
 ## Official media
 
-- [Funguys Swarm 1.0 Update Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3371770/1719537116/32eae887d9e01982e0e0e7ff7d88ce9c5609c42e/1787547947/hls_264_master.m3u8?t=1787673618)
-- [Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3371770/47546672/e31794558a6d71288f41cacab81f044660b16964/1764753531/hls_264_master.m3u8?t=1764772976)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Funguys Swarm 1.0 Update Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3371770/1719537116/32eae887d9e01982e0e0e7ff7d88ce9c5609c42e/1787547947/hls_264_master.m3u8?t=1787673618)
+
+[Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3371770/47546672/e31794558a6d71288f41cacab81f044660b16964/1764753531/hls_264_master.m3u8?t=1764772976)
 
 ![Funguys Swarm official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371770/0d14418b7b78e53a124d0a1f788f08b9aa69b9b5/ss_0d14418b7b78e53a124d0a1f788f08b9aa69b9b5.1920x1080.jpg?t=1790648961)
 
@@ -45,6 +52,10 @@ Funguys Swarm is a cartoony survivor bullet hell where the forest is on fire. Be
 
 ![Funguys Swarm official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371770/5bd88f08790e4f2e0b3e5ba1aa8e9456e42f70e3/ss_5bd88f08790e4f2e0b3e5ba1aa8e9456e42f70e3.1920x1080.jpg?t=1790648961)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3371770/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3371770&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3371770%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

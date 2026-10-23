@@ -2,7 +2,7 @@
 
 ![Arcane Tower Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2433850/00208239723c5897d3044f3dff4cdb84795b1f3c/header.jpg?t=1775224444)
 
-**[Steam store](https://store.steampowered.com/app/2433850/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2433850)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2433850/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2433850)** · [Roguelites](Roguelites)
 
 Survive waves of enemies in this horde survival roguelite. Unleash devastating spells, master unique skills, and craft unstoppable builds. Between battles, fortify your tower and unlock powerful upgrades in a strategic meta-game. Will your magic outlast the chaos?
 
@@ -10,19 +10,25 @@ Survive waves of enemies in this horde survival roguelite. Unleash devastating s
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 7/10 |
-| Steam positive reviews | 76.5% |
-| Review count | 98 |
-| Steam release date | Oct 23, 2025 |
-| Status | Released |
-| Developers | Red Horde Games |
-| US price snapshot | $3.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 76.5% / 98 Steam reviews |
+| Release | Oct 23, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Red Horde Games |
+| Price snapshot | $3.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2433850/)
+
+> Small review sample
 
 ## Official media
 
-- [Gameplay](https://video.akamai.steamstatic.com/store_trailers/2433850/869263/35941dce9d9ab7dd23ec325b9cdd96459b9917f9/1750918613/hls_264_master.m3u8?t=1745177172)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Gameplay](https://video.akamai.steamstatic.com/store_trailers/2433850/869263/35941dce9d9ab7dd23ec325b9cdd96459b9917f9/1750918613/hls_264_master.m3u8?t=1745177172)
 
 ![Arcane Tower Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2433850/f19e18f9219f8e9aa5780061319ad5d4416b5484/ss_f19e18f9219f8e9aa5780061319ad5d4416b5484.1920x1080.jpg?t=1775224444)
 
@@ -36,6 +42,10 @@ Survive waves of enemies in this horde survival roguelite. Unleash devastating s
 
 ![Arcane Tower Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2433850/4034796c15b2e389718158c045f07d6c75093e4c/ss_4034796c15b2e389718158c045f07d6c75093e4c.1920x1080.jpg?t=1775224444)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2433850/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2433850&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2433850%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

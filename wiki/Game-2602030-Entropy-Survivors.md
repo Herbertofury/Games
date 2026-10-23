@@ -2,7 +2,7 @@
 
 ![Entropy Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/header.jpg?t=1768937525)
 
-**[Steam store](https://store.steampowered.com/app/2602030/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2602030)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2602030/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2602030)** · [Roguelites](Roguelites)
 
 Entropy Survivors is a bullet hell roguelike where you simultaneously control a powerful mech and a sharpshooting space frog, featuring outrageously creative abilities and powerful weapon customization. Save the universe in single player or 2-4 player online co-op!
 
@@ -10,22 +10,33 @@ Entropy Survivors is a bullet hell roguelike where you simultaneously control a 
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 8/10 |
-| Steam positive reviews | 80.4% |
-| Review count | 581 |
-| Steam release date | Dec 4, 2024 |
-| Status | Released |
-| Developers | Moving Pieces Interactive |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 80.4% / 581 Steam reviews |
+| Release | Dec 4, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Moving Pieces Interactive |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2602030/)
 
 ## Official media
 
-- [Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/790770/7372546eed30b484e815b9bc29ad456c32fda42f/1750817364/hls_264_master.m3u8?t=1733343528)
-- [Abilities Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/789269/0a803042ccfbc49bcb9beea2e79d2615f6fbe88a/1750817364/hls_264_master.m3u8?t=1732203027)
-- [Class System Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/775599/c0d5eb28f6063b3a5ce45c28ed6f0c183afa618c/1750817364/hls_264_master.m3u8?t=1729683277)
-- [Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/762313/9e6d0ffd84d30d42ec0d2a6c49f1f84317d94e70/1750817363/hls_264_master.m3u8?t=1727432977)
-- [Entropy Survivors 101](https://video.akamai.steamstatic.com/store_trailers/2602030/754165/6fca40bfd83b3228ae924cfbe8a774e4bb717e4f/1750817362/hls_264_master.m3u8?t=1726064392)
-- [Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/647167/4bd83092f1098c0040b3a78710a6766726378396/1750817360/hls_264_master.m3u8?t=1704564917)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/790770/7372546eed30b484e815b9bc29ad456c32fda42f/1750817364/hls_264_master.m3u8?t=1733343528)
+
+[Abilities Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/789269/0a803042ccfbc49bcb9beea2e79d2615f6fbe88a/1750817364/hls_264_master.m3u8?t=1732203027)
+
+[Class System Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/775599/c0d5eb28f6063b3a5ce45c28ed6f0c183afa618c/1750817364/hls_264_master.m3u8?t=1729683277)
+
+[Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/762313/9e6d0ffd84d30d42ec0d2a6c49f1f84317d94e70/1750817363/hls_264_master.m3u8?t=1727432977)
+
+[Entropy Survivors 101](https://video.akamai.steamstatic.com/store_trailers/2602030/754165/6fca40bfd83b3228ae924cfbe8a774e4bb717e4f/1750817362/hls_264_master.m3u8?t=1726064392)
+
+[Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2602030/647167/4bd83092f1098c0040b3a78710a6766726378396/1750817360/hls_264_master.m3u8?t=1704564917)
 
 ![Entropy Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_f0bc5c2215efb606ba50aaed2c55d37991b3c214.1920x1080.jpg?t=1768937525)
 
@@ -53,6 +64,10 @@ Entropy Survivors is a bullet hell roguelike where you simultaneously control a 
 
 ![Entropy Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_749688789e4ce53d0c90c974099f19557f946463.1920x1080.jpg?t=1768937525)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2602030/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2602030&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2602030%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

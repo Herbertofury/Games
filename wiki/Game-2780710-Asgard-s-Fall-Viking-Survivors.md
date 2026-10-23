@@ -2,7 +2,7 @@
 
 ![Asgard's Fall — Viking Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780710/1c622a1a0b975d3202448e2a17e6778a6dc95469/header.jpg?t=1792679720)
 
-**[Steam store](https://store.steampowered.com/app/2780710/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2780710)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2780710/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2780710)** · [Roguelites](Roguelites)
 
 Embark on an epic saga in Asgard's Fall, a norse Survivors-like Roguelite. Fight your way through hordes of creatures and let the gods feel your relentless wrath. How will your saga unfold?
 
@@ -10,17 +10,23 @@ Embark on an epic saga in Asgard's Fall, a norse Survivors-like Roguelite. Fight
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 7/10 |
-| Steam positive reviews | 78.8% |
-| Review count | 1,524 |
-| Steam release date | Sep 9, 2026 |
-| Status | Released |
-| Developers | Soulpotion |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 78.8% / 1,524 Steam reviews |
+| Release | Sep 9, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Soulpotion |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2780710/)
 
 ## Official media
 
-- [1.0 Full Release](https://video.akamai.steamstatic.com/store_trailers/2780710/1011089604/6b9aa2fd07db40bc154c525af7b2e285b2f32d42/1788959140/hls_264_master.m3u8?t=1788959809)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[1.0 Full Release](https://video.akamai.steamstatic.com/store_trailers/2780710/1011089604/6b9aa2fd07db40bc154c525af7b2e285b2f32d42/1788959140/hls_264_master.m3u8?t=1788959809)
 
 ![Asgard's Fall — Viking Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780710/160a688eda88743e5271eae87829c79eeec7bf57/ss_160a688eda88743e5271eae87829c79eeec7bf57.1920x1080.jpg?t=1792679720)
 
@@ -60,6 +66,10 @@ Embark on an epic saga in Asgard's Fall, a norse Survivors-like Roguelite. Fight
 
 ![Asgard's Fall — Viking Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780710/17c226245f710cf93d6d7daf6719011484c2ae5e/ss_17c226245f710cf93d6d7daf6719011484c2ae5e.1920x1080.jpg?t=1792679720)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2780710/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2780710&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2780710%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -2,7 +2,7 @@
 
 ![Deathless: Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2443090/header.jpg?t=1780615109)
 
-**[Steam store](https://store.steampowered.com/app/2443090/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2443090)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2443090/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2443090)** · [Roguelites](Roguelites)
 
 Embark on an online co-op Survival Roguelite adventure. Team up with friends, slash through endless waves of foes, conquer formidable bosses, fulfill quests, craft potent weapons, and unlock unique characters!
 
@@ -10,17 +10,23 @@ Embark on an online co-op Survival Roguelite adventure. Team up with friends, sl
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | 56.3% |
-| Review count | 199 |
-| Steam release date | Jul 29, 2024 |
-| Status | Early Access |
-| Developers | OneTwoPlay |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 56.3% / 199 Steam reviews |
+| Release | Jul 29, 2024 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | OneTwoPlay |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2443090/)
 
 ## Official media
 
-- [Deathless Combat](https://video.akamai.steamstatic.com/store_trailers/2443090/742593/42fba32b21963e39096fd0f393bbfa9acf401a1b/1750919643/hls_264_master.m3u8?t=1726587300)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Deathless Combat](https://video.akamai.steamstatic.com/store_trailers/2443090/742593/42fba32b21963e39096fd0f393bbfa9acf401a1b/1750919643/hls_264_master.m3u8?t=1726587300)
 
 ![Deathless: Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2443090/ss_e74b344ea4ce63baf96d3d9ec5a2ab413a12458d.1920x1080.jpg?t=1780615109)
 
@@ -32,6 +38,10 @@ Embark on an online co-op Survival Roguelite adventure. Team up with friends, sl
 
 ![Deathless: Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2443090/ss_8add75aa2dc8138cab6f073c1c0794356ca1c1e6.1920x1080.jpg?t=1780615109)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2443090/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2443090&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2443090%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

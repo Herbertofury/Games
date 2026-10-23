@@ -2,7 +2,7 @@
 
 ![Undead Kingdom Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944350/06ec6c296555123b4553bb4535b10b4e3cb89a17/header.jpg?t=1761328812)
 
-**[Steam store](https://store.steampowered.com/app/2944350/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2944350)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2944350/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2944350)** · [Roguelites](Roguelites)
 
 Prepare to face the relentless onslaught of the undead! Clear the undead realm either solo or with up to 2 friends in online multiplayer. Choose powerful abilities to vanquish hordes of undead. Upgrade stats and unlock new heroes as you strive for survival in this intense roguelite bullet hell.
 
@@ -10,19 +10,25 @@ Prepare to face the relentless onslaught of the undead! Clear the undead realm e
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | 88.9% |
-| Review count | 9 |
-| Steam release date | Oct 24, 2025 |
-| Status | Released |
-| Developers | Jinvira |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 88.9% / 9 Steam reviews |
+| Release | Oct 24, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Jinvira |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2944350/)
+
+> Small review sample
 
 ## Official media
 
-- [Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/2944350/699657/1abd0e9d3d17f9dfb626380bfecbb74cee07b037/1750891047/hls_264_master.m3u8?t=1717964260)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/2944350/699657/1abd0e9d3d17f9dfb626380bfecbb74cee07b037/1750891047/hls_264_master.m3u8?t=1717964260)
 
 ![Undead Kingdom Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944350/ss_bb9fc89f0632dd31051369a3f2c0f1e5a73de722.1920x1080.jpg?t=1761328812)
 
@@ -40,6 +46,10 @@ Prepare to face the relentless onslaught of the undead! Clear the undead realm e
 
 ![Undead Kingdom Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944350/ss_645ee895537c29b3931e8375861abf12cc5b1697.1920x1080.jpg?t=1761328812)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2944350/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2944350&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2944350%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

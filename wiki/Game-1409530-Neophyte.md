@@ -2,7 +2,7 @@
 
 ![Neophyte official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/header.jpg?t=1778834404)
 
-**[Steam store](https://store.steampowered.com/app/1409530/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A1409530)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1409530/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1409530)** · [Roguelites](Roguelites)
 
 A mini topdown action roguelike with chaotic spell-slinging hack-n-slash combat. Collect spells, choose perks and discover powerful synergies to become an unstoppable monster-slaying wizard.
 
@@ -10,17 +10,23 @@ A mini topdown action roguelike with chaotic spell-slinging hack-n-slash combat.
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 8/10 |
-| Steam positive reviews | 90.5% |
-| Review count | 682 |
-| Steam release date | May 15, 2026 |
-| Status | Released |
-| Developers | Regal Pigeon |
-| US price snapshot | $2.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 90.5% / 682 Steam reviews |
+| Release | May 15, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Regal Pigeon |
+| Price snapshot | $2.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/1409530/)
 
 ## Official media
 
-- [Neophyte](https://video.akamai.steamstatic.com/store_trailers/1409530/443773/97e7786c2703175dd1badd71193639339f7e9bb2/1751234100/hls_264_master.m3u8?t=1646283476)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Neophyte](https://video.akamai.steamstatic.com/store_trailers/1409530/443773/97e7786c2703175dd1badd71193639339f7e9bb2/1751234100/hls_264_master.m3u8?t=1646283476)
 
 ![Neophyte official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_7bee64999831496123f9945eb5c6848d131e9e9a.1920x1080.jpg?t=1778834404)
 
@@ -42,6 +48,10 @@ A mini topdown action roguelike with chaotic spell-slinging hack-n-slash combat.
 
 ![Neophyte official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_a7325a8188b56d5cce2d178475b065bb670464f7.1920x1080.jpg?t=1778834404)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/1409530/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1409530&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1409530%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

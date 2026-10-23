@@ -2,7 +2,7 @@
 
 ![Wanted Shadows official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2491670/header.jpg?t=1780877244)
 
-**[Steam store](https://store.steampowered.com/app/2491670/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2491670)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2491670/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2491670)** · [Roguelites](Roguelites)
 
 Decimate thousands of demons on All Hallows' Eve to protect your infernal home. Wanted Shadows is a bullet heaven roguelite where the difference between overpowering and being overpowered lies in your skill and wit.
 
@@ -10,19 +10,25 @@ Decimate thousands of demons on All Hallows' Eve to protect your infernal home. 
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 73.7% |
-| Review count | 57 |
-| Steam release date | Oct 31, 2023 |
-| Status | Released |
-| Developers | Radhood, Conradical Games |
-| US price snapshot | $1.49 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 73.7% / 57 Steam reviews |
+| Release | Oct 31, 2023 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Radhood, Conradical Games |
+| Price snapshot | $1.49 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2491670/)
+
+> Small review sample
 
 ## Official media
 
-- [Main Trailer](https://video.akamai.steamstatic.com/store_trailers/2491670/608625/612d5800a76d196125fd25fd0b2c2d18bbf2efb2/1750924522/hls_264_master.m3u8?t=1695221029)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Main Trailer](https://video.akamai.steamstatic.com/store_trailers/2491670/608625/612d5800a76d196125fd25fd0b2c2d18bbf2efb2/1750924522/hls_264_master.m3u8?t=1695221029)
 
 ![Wanted Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2491670/ss_748f26180d1ee969de642d7437baa7214b363036.1920x1080.jpg?t=1780877244)
 
@@ -48,6 +54,10 @@ Decimate thousands of demons on All Hallows' Eve to protect your infernal home. 
 
 ![Wanted Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2491670/ss_91bd26b636dd14b765fe96c7b431a0827d996489.1920x1080.jpg?t=1780877244)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2491670/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2491670&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2491670%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

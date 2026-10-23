@@ -2,7 +2,7 @@
 
 ![Striving for Light official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1646790/6cdb44cf7ab882b64b71858a53020821dca71a82/header_alt_assets_3.jpg?t=1790073558)
 
-**[Steam store](https://store.steampowered.com/app/1646790/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A1646790)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1646790/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1646790)** · [Roguelites](Roguelites)
 
 Blending deep Action RPG buildcrafting with roguelite action, Striving for Light lets you shape and customize an infinite skilltree. Hunt for powerful loot, craft and upgrade weapons to legendary power, slay hordes of enemies and challenging bosses in ever-changing dark worlds.
 
@@ -10,19 +10,27 @@ Blending deep Action RPG buildcrafting with roguelite action, Striving for Light
 |:--|:--|
 | Collection | Loot-driven ARPGs |
 | Recommendation | 7/10 |
-| Steam positive reviews | 79.4% |
-| Review count | 243 |
-| Steam release date | Jul 11, 2025 |
-| Status | Released |
-| Developers | Igniting Spark Games |
-| US price snapshot | $17.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 79.4% / 243 Steam reviews |
+| Release | Jul 11, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Igniting Spark Games |
+| Price snapshot | $17.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/1646790/)
 
 ## Official media
 
-- [Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/1646790/2107159931/a22166a0d9da6d09966ecd77535e043a94c224cb/1752242243/hls_264_master.m3u8?t=1752245799)
-- [Season 2 Era of Darkness Trailer](https://video.akamai.steamstatic.com/store_trailers/1646790/130330312/80463d3df5fcb75404852643449e9b3a21399ad5/1776937456/hls_264_master.m3u8?t=1776938112)
-- [Cinematic Trailer](https://video.akamai.steamstatic.com/store_trailers/1646790/512620/99f44632eb4515447c54f0b9dfef696c8cfeff70/1751013718/hls_264_master.m3u8?t=1746036502)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/1646790/2107159931/a22166a0d9da6d09966ecd77535e043a94c224cb/1752242243/hls_264_master.m3u8?t=1752245799)
+
+[Season 2 Era of Darkness Trailer](https://video.akamai.steamstatic.com/store_trailers/1646790/130330312/80463d3df5fcb75404852643449e9b3a21399ad5/1776937456/hls_264_master.m3u8?t=1776938112)
+
+[Cinematic Trailer](https://video.akamai.steamstatic.com/store_trailers/1646790/512620/99f44632eb4515447c54f0b9dfef696c8cfeff70/1751013718/hls_264_master.m3u8?t=1746036502)
 
 ![Striving for Light official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1646790/15702c677dd44daf52fa30b1cc5211ce802c9595/ss_15702c677dd44daf52fa30b1cc5211ce802c9595.1920x1080.jpg?t=1790073558)
 
@@ -76,6 +84,10 @@ Blending deep Action RPG buildcrafting with roguelite action, Striving for Light
 
 ![Striving for Light official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1646790/78894aae63c0be3b22df1d03eb391293f3695daa/ss_78894aae63c0be3b22df1d03eb391293f3695daa.1920x1080.jpg?t=1790073558)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/1646790/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1646790&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1646790%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -2,7 +2,7 @@
 
 ![Core Devourer official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2199060/header.jpg?t=1738371308)
 
-**[Steam store](https://store.steampowered.com/app/2199060/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2199060)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2199060/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2199060)** · [Roguelites](Roguelites)
 
 Hunt down huge hordes of droids, absorb their cores and become the strongest cybernetic being. In this sci-fi action-packed roguelite, you unlock weapons with unique effects, craft powerful gear and create endless combinations of upgrades for your character. Make your choice and break the game.
 
@@ -10,17 +10,23 @@ Hunt down huge hordes of droids, absorb their cores and become the strongest cyb
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 7/10 |
-| Steam positive reviews | 75.2% |
-| Review count | 113 |
-| Steam release date | Jan 25, 2024 |
-| Status | Released |
-| Developers | IcyQuill |
-| US price snapshot | $5.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 75.2% / 113 Steam reviews |
+| Release | Jan 25, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | IcyQuill |
+| Price snapshot | $5.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2199060/)
 
 ## Official media
 
-- [Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2199060/519508/906f22dcc3050b4e6535d83f70f52e456ec5c93b/1751088941/hls_264_master.m3u8?t=1705354595)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2199060/519508/906f22dcc3050b4e6535d83f70f52e456ec5c93b/1751088941/hls_264_master.m3u8?t=1705354595)
 
 ![Core Devourer official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2199060/ss_7e3629470fffb9f456e171fc86f5bf18f88756e1.1920x1080.jpg?t=1738371308)
 
@@ -56,6 +62,10 @@ Hunt down huge hordes of droids, absorb their cores and become the strongest cyb
 
 ![Core Devourer official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2199060/ss_fab8722727af384ab732765cdd4c48a048950974.1920x1080.jpg?t=1738371308)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2199060/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2199060&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2199060%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

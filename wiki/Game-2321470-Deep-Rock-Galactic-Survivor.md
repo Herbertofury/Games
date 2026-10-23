@@ -2,7 +2,7 @@
 
 ![Deep Rock Galactic: Survivor official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1790750403)
 
-**[Steam store](https://store.steampowered.com/app/2321470/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2321470)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2321470/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2321470)** · [Roguelites](Roguelites)
 
 DEEP ROCK GALACTIC: SURVIVOR is a single player survivor-like auto-shooter. Take on hordes of lethal aliens, mine riches, and unlock powerful upgrades to survive, as you wield the full arsenal of Deep Rock Galactic. It's one dwarf against all of Planet Hoxxes!
 
@@ -10,20 +10,29 @@ DEEP ROCK GALACTIC: SURVIVOR is a single player survivor-like auto-shooter. Take
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 9/10 |
-| Steam positive reviews | 86.2% |
-| Review count | 48,601 |
-| Steam release date | Sep 17, 2025 |
-| Status | Released |
-| Developers | Funday Games |
-| US price snapshot | $12.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 86.2% / 48,601 Steam reviews |
+| Release | Sep 17, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Funday Games |
+| Price snapshot | $12.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2321470/)
 
 ## Official media
 
-- [Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2321470/1362435163/08f575bd5584259123600c82d91ea6f3b3bbe4f2/1758103181/hls_264_master.m3u8?t=1758177979)
-- [Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2321470/657286/c203b60b6750d59487795fb887a18bc755c88e73/1750811708/hls_264_master.m3u8?t=1706795883)
-- [Update 4 Narrated Trailer](https://video.akamai.steamstatic.com/store_trailers/2321470/778197/03101b151286167371152c41e9a64f23e2916473/1750811708/hls_264_master.m3u8?t=1730122636)
-- [Narrated Trailer](https://video.akamai.steamstatic.com/store_trailers/2321470/662271/e0afc6936ab4b31668725217d6c2c5e23160f6c7/1750811708/hls_264_master.m3u8?t=1707911745)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2321470/1362435163/08f575bd5584259123600c82d91ea6f3b3bbe4f2/1758103181/hls_264_master.m3u8?t=1758177979)
+
+[Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2321470/657286/c203b60b6750d59487795fb887a18bc755c88e73/1750811708/hls_264_master.m3u8?t=1706795883)
+
+[Update 4 Narrated Trailer](https://video.akamai.steamstatic.com/store_trailers/2321470/778197/03101b151286167371152c41e9a64f23e2916473/1750811708/hls_264_master.m3u8?t=1730122636)
+
+[Narrated Trailer](https://video.akamai.steamstatic.com/store_trailers/2321470/662271/e0afc6936ab4b31668725217d6c2c5e23160f6c7/1750811708/hls_264_master.m3u8?t=1707911745)
 
 ![Deep Rock Galactic: Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_7580f5af5c21da17f7b19b92ca6c6acf8ffb4776.1920x1080.jpg?t=1790750403)
 
@@ -53,6 +62,10 @@ DEEP ROCK GALACTIC: SURVIVOR is a single player survivor-like auto-shooter. Take
 
 ![Deep Rock Galactic: Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/c44fa1fe2a1346a30f86b1447baab28349c60788/ss_c44fa1fe2a1346a30f86b1447baab28349c60788.1920x1080.jpg?t=1790750403)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2321470/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2321470&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2321470%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

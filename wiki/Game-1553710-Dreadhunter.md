@@ -2,7 +2,7 @@
 
 ![Dreadhunter official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553710/96518954e07986ffc511f5f2d44bbb34cf0b716e/header_alt_assets_0.jpg?t=1790714447)
 
-**[Steam store](https://store.steampowered.com/app/1553710/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A1553710)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1553710/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1553710)** · [Roguelites](Roguelites)
 
 Plough through hordes of deadly monsters and defeat vicious bosses in an intense fast paced shooter RPG where all items are “legendary”, levels are ever-changing and combat is razor-sharp.
 
@@ -10,22 +10,33 @@ Plough through hordes of deadly monsters and defeat vicious bosses in an intense
 |:--|:--|
 | Collection | Loot-driven ARPGs |
 | Recommendation | 7/10 |
-| Steam positive reviews | 78.4% |
-| Review count | 162 |
-| Steam release date | Oct 18, 2023 |
-| Status | Early Access |
-| Developers | Trickster Arts |
-| US price snapshot | $24.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 78.4% / 162 Steam reviews |
+| Release | Oct 18, 2023 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Trickster Arts |
+| Price snapshot | $24.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/1553710/)
 
 ## Official media
 
-- [Dreadhunter - Act IV](https://video.akamai.steamstatic.com/store_trailers/1553710/347962679/2ef37f5908723d5e5250c2f98d7727f939f587e1/1789845327/hls_264_master.m3u8?t=1790009889)
-- [Dreadhunter - Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/1553710/608580/c038640d112c2529fa49d2ab7a4838ed2ad8126e/1750700799/hls_264_master.m3u8?t=1739959460)
-- [Dreadhunter - Act III](https://video.akamai.steamstatic.com/store_trailers/1553710/831022/7c9e98878f5b63be8968407b7b2f2dacd1758551/1750700810/hls_264_master.m3u8?t=1739959457)
-- [Dreadhunter - Act II](https://video.akamai.steamstatic.com/store_trailers/1553710/696252/fd72d95820251cebb932ab0f2512bc00e97a127c/1750700802/hls_264_master.m3u8?t=1739959462)
-- [Dreadhunter - Gameplay - Electro Sets](https://video.akamai.steamstatic.com/store_trailers/1553710/789227/aa97f7ca94c2f5989e119a106d57377e53f234e4/1750700810/hls_264_master.m3u8?t=1732211961)
-- [Dreadhunter - Gameplay - Thunderhawk](https://video.akamai.steamstatic.com/store_trailers/1553710/639740/e562181ef0d60987be26e1bfa4ed4660682cd9d9/1750837071/hls_264_master.m3u8?t=1702408437)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Dreadhunter - Act IV](https://video.akamai.steamstatic.com/store_trailers/1553710/347962679/2ef37f5908723d5e5250c2f98d7727f939f587e1/1789845327/hls_264_master.m3u8?t=1790009889)
+
+[Dreadhunter - Early Access Trailer](https://video.akamai.steamstatic.com/store_trailers/1553710/608580/c038640d112c2529fa49d2ab7a4838ed2ad8126e/1750700799/hls_264_master.m3u8?t=1739959460)
+
+[Dreadhunter - Act III](https://video.akamai.steamstatic.com/store_trailers/1553710/831022/7c9e98878f5b63be8968407b7b2f2dacd1758551/1750700810/hls_264_master.m3u8?t=1739959457)
+
+[Dreadhunter - Act II](https://video.akamai.steamstatic.com/store_trailers/1553710/696252/fd72d95820251cebb932ab0f2512bc00e97a127c/1750700802/hls_264_master.m3u8?t=1739959462)
+
+[Dreadhunter - Gameplay - Electro Sets](https://video.akamai.steamstatic.com/store_trailers/1553710/789227/aa97f7ca94c2f5989e119a106d57377e53f234e4/1750700810/hls_264_master.m3u8?t=1732211961)
+
+[Dreadhunter - Gameplay - Thunderhawk](https://video.akamai.steamstatic.com/store_trailers/1553710/639740/e562181ef0d60987be26e1bfa4ed4660682cd9d9/1750837071/hls_264_master.m3u8?t=1702408437)
 
 ![Dreadhunter official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553710/9330c5a89718341989f9c4e340eb12d74b4440e8/ss_9330c5a89718341989f9c4e340eb12d74b4440e8.1920x1080.jpg?t=1790714447)
 
@@ -59,6 +70,10 @@ Plough through hordes of deadly monsters and defeat vicious bosses in an intense
 
 ![Dreadhunter official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553710/ss_fdb2faf364cee796d2c8c8ecb4bccf7900644024.1920x1080.jpg?t=1790714447)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/1553710/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1553710&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1553710%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

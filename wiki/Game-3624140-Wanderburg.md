@@ -2,7 +2,7 @@
 
 ![Wanderburg official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624140/a0a68815aac3899476a7365a04771e731008a406/header.jpg?t=1792688998)
 
-**[Steam store](https://store.steampowered.com/app/3624140/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3624140)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3624140/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3624140)** · [Roguelites](Roguelites)
 
 Drive your Castle on Wheels into battle in this minimalist medieval roguelike of roaming fortresses! Devour entire villages, build your modular arsenal of siege machinery and break the game as you grow with every stronghold you crush.
 
@@ -10,18 +10,25 @@ Drive your Castle on Wheels into battle in this minimalist medieval roguelike of
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 7/10 |
-| Steam positive reviews | 77.4% |
-| Review count | 3,427 |
-| Steam release date | Sep 8, 2026 |
-| Status | Early Access |
-| Developers | Randwerk |
-| US price snapshot | $9.74 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 77.4% / 3,427 Steam reviews |
+| Release | Sep 8, 2026 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Randwerk |
+| Price snapshot | $9.74 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3624140/)
 
 ## Official media
 
-- [Release Date Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/3624140/1140984624/b8e75596453b2f8642988d26873a757fc3eca015/1788271171/hls_264_master.m3u8?t=1788272368)
-- [Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/3624140/1526996276/96a3f8f586acaccecfd9e90e9f4f9a9d7e5f8719/1750455962/hls_264_master.m3u8?t=1749409840)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Release Date Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/3624140/1140984624/b8e75596453b2f8642988d26873a757fc3eca015/1788271171/hls_264_master.m3u8?t=1788272368)
+
+[Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/3624140/1526996276/96a3f8f586acaccecfd9e90e9f4f9a9d7e5f8719/1750455962/hls_264_master.m3u8?t=1749409840)
 
 ![Wanderburg official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624140/75b8b8f3dbb852c8764b7eb6ebf37146b09a8d3d/ss_75b8b8f3dbb852c8764b7eb6ebf37146b09a8d3d.1920x1080.jpg?t=1792688998)
 
@@ -47,6 +54,10 @@ Drive your Castle on Wheels into battle in this minimalist medieval roguelike of
 
 ![Wanderburg official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624140/31c905450f8431b641b55ff39cf1f2b1dc19db52/ss_31c905450f8431b641b55ff39cf1f2b1dc19db52.1920x1080.jpg?t=1792688998)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3624140/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3624140&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3624140%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

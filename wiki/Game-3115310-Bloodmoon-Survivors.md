@@ -2,7 +2,7 @@
 
 ![Bloodmoon Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115310/1b3ec428038bc645cc719316867e5290d749bef6/header.jpg?t=1785859214)
 
-**[Steam store](https://store.steampowered.com/app/3115310/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3115310)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3115310/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3115310)** · [Roguelites](Roguelites)
 
 You are a Lunar Knight of the blood moon, and tonight is your night. It's time for violence. Slay the twisted horrors conjured by the moon in this horde survival roguelite. Gain experience, grow stronger, and synergize your weapons to crush the enemy forces and survive the night.
 
@@ -10,19 +10,25 @@ You are a Lunar Knight of the blood moon, and tonight is your night. It's time f
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 8/10 |
-| Steam positive reviews | 100.0% |
-| Review count | 37 |
-| Steam release date | Aug 4, 2026 |
-| Status | Released |
-| Developers | Nicholas Evelson |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 100.0% / 37 Steam reviews |
+| Release | Aug 4, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Nicholas Evelson |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3115310/)
+
+> Small review sample
 
 ## Official media
 
-- [Bloodmoon Survivors Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3115310/44720574/129ce7090962e4266e9dde7b10e3f71cf639f922/1770080211/hls_264_master.m3u8?t=1770084066)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Bloodmoon Survivors Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3115310/44720574/129ce7090962e4266e9dde7b10e3f71cf639f922/1770080211/hls_264_master.m3u8?t=1770084066)
 
 ![Bloodmoon Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115310/14185abd729dfcbe425a32833ed2a060528c1ab5/ss_14185abd729dfcbe425a32833ed2a060528c1ab5.1920x1080.jpg?t=1785859214)
 
@@ -42,6 +48,10 @@ You are a Lunar Knight of the blood moon, and tonight is your night. It's time f
 
 ![Bloodmoon Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115310/59c029f36d0ef3078cc05f736ae0ef0584651bb5/ss_59c029f36d0ef3078cc05f736ae0ef0584651bb5.1920x1080.jpg?t=1785859214)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3115310/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3115310&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3115310%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -2,7 +2,7 @@
 
 ![Huntsman Against Darkness official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698720/0a4dee34d9dc7503db8c7a681854093f37bbd09e/header.jpg?t=1785267068)
 
-**[Steam store](https://store.steampowered.com/app/4698720/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A4698720)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/4698720/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A4698720)** · [Roguelites](Roguelites)
 
 A dark roguelite action experience where you fight through endless hordes of corrupted creatures, free your family and rebuild the village. Survive brutal arena battles, unlock powerful upgrades, defeat massive bosses, and rebuild a fallen medieval village one run at a time.
 
@@ -10,20 +10,27 @@ A dark roguelite action experience where you fight through endless hordes of cor
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | 66.7% |
-| Review count | 3 |
-| Steam release date | Jun 25, 2026 |
-| Status | Released |
-| Developers | RosDan Media |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 66.7% / 3 Steam reviews |
+| Release | Jun 25, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | RosDan Media |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/4698720/)
+
+> Small review sample
 
 ## Official media
 
-- [Huntsman Against Darkness short gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/4698720/1368910997/7dd6a09ed0b43d91a31b38857c0b24b4d798f985/1781363616/hls_264_master.m3u8?t=1781364173)
-- [Huntsman Against Darkness Story Trailer](https://video.akamai.steamstatic.com/store_trailers/4698720/1882223636/cdef89dcc697c92752fd97685b13768229fff93a/1785266546/hls_264_master.m3u8?t=1785267067)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Huntsman Against Darkness short gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/4698720/1368910997/7dd6a09ed0b43d91a31b38857c0b24b4d798f985/1781363616/hls_264_master.m3u8?t=1781364173)
+
+[Huntsman Against Darkness Story Trailer](https://video.akamai.steamstatic.com/store_trailers/4698720/1882223636/cdef89dcc697c92752fd97685b13768229fff93a/1785266546/hls_264_master.m3u8?t=1785267067)
 
 ![Huntsman Against Darkness official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698720/34f650533ba1a436b71dc5309e23bfbba7f28f89/ss_34f650533ba1a436b71dc5309e23bfbba7f28f89.1920x1080.jpg?t=1785267068)
 
@@ -37,6 +44,10 @@ A dark roguelite action experience where you fight through endless hordes of cor
 
 ![Huntsman Against Darkness official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698720/4361c3c83d80049e28c0ac7a82409a6d1f331693/ss_4361c3c83d80049e28c0ac7a82409a6d1f331693.1920x1080.jpg?t=1785267068)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/4698720/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=4698720&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A4698720%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

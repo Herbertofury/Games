@@ -1,23 +1,17 @@
-![Games: The Roguelite Collection](https://github.com/Herbertofury/Games/raw/main/dist/assets/collection-banner.svg)
+![Boomer shooters collection](https://github.com/Herbertofury/Games/raw/main/dist/assets/shooters-banner.svg)
 
 # A home for every great discovery
 
-### [Open the interactive collection](https://herbertofury.github.io/Games/)
+**[Open your interactive library](https://herbertofury.github.io/Games/)** · [Roguelites](Roguelites) · [Boomer shooters](Boomer-Shooters) · [Beyond Steam](Beyond-Steam) · [Creator support](Creator-Support)
 
-**Filters, sortable ratings, embedded trailers, comparison, favorites, notes, and personal play status live in the companion.** The wiki is the readable, versioned reference.
+**313 unique recommendations.** 170 in Roguelites; 145 in Boomer shooters. Cross-genre games appear in both hubs but exist only once in the master catalog.
 
-Start with **[Roguelites](Roguelites)**: survivors-likes, dark fantasy, bullet heavens, active-combat roguelites, and a clearly separated shelf of adjacent loot-driven action RPGs.
-
-Steam snapshot: **2026-10-23T03:53:44.446117+00:00**. **170 verified identities**, **0 awaiting verification**. Prices are US snapshots, not live quotes.
-
-| Explore | What is inside |
+| Start exploring | What you will find |
 |:--|:--|
-| [Roguelites](Roguelites) | Every recommendation from both discovery lists, deduplicated and rechecked. |
-| [Collections](Collections) | Theme and mechanic shelves, from dark fantasy to unusual hybrids. |
-| [How recommendations work](Ratings-and-Sources) | Steam ratings, review confidence, editorial fit, and provenance. |
-| [Add and update games](Updating-the-Library) | One canonical master list and a repeatable refresh pipeline. |
-| [Needs verification](Needs-Verification) | Preserved suggestions that still need official confirmation. |
-
-## Built to keep growing
-
-The master source is [`data/seeds.tsv`](https://github.com/Herbertofury/Games/blob/main/data/seeds.tsv). Verified facts and media live in [`data/catalog.json`](https://github.com/Herbertofury/Games/blob/main/data/catalog.json). Both the interactive library and these wiki pages are generated from that same snapshot. New genres can join this home without splitting the source of truth.
+| [Boomer shooters](Boomer-Shooters) | Recent launches, fast movement, occult campaigns, free standalone games, and mod-scene discoveries. |
+| [Roguelites](Roguelites) | Every original recommendation, with your Halls of Torment collection preserved. |
+| [Beyond Steam](Beyond-Steam) | itch.io, GOG, ModDB, creator sites, browser games, and explicit install requirements. |
+| [Creator support](Creator-Support) | Verified Patreon support links, kept separate from game purchase and download links. |
+| [Collections](Collections) | Every theme and subgenre. |
+| [Ratings and sources](Ratings-and-Sources) | Editorial recommendation versus platform reviews. |
+| [Add / update games](Updating-the-Library) | One repeatable pipeline, no disconnected lists. |

@@ -1,0 +1,45 @@
+# Brutal Doom
+
+**[Open official page](https://www.moddb.com/mods/brutal-doom)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Abrutal-doom)** · [Boomer shooters](Boomer-Shooters)
+
+A combat overhaul for classic Doom with expanded weapon behavior, more forceful feedback, and much more graphic enemy reactions.
+
+## Why it is here
+
+Keep it as a gameplay-mod recommendation, not a separate campaign. Pair it only with maps and other mods whose compatibility is documented.
+
+| Field | Value |
+|:--|:--|
+| Collection | Total conversions |
+| Recommendation | 8/10 |
+| Community reception | No aggregate rating |
+| Release | 2012 (year only) |
+| Availability | Released |
+| Build type | Gameplay mod |
+| FPS style | Core retro / movement FPS |
+| Creators | Sgt Mark IV |
+| Price snapshot | Free / optional donation |
+| Verified | 2026-10-23T06:35:12.994433+00:00 |
+
+## Official stores and downloads
+
+- [ModDB: download](https://www.moddb.com/mods/brutal-doom)
+- [Patreon: support](https://www.patreon.com/sgtmarkiv)
+
+### Before you play
+
+Requires compatible Doom game data and an engine supported by the selected release. Other gameplay mods can conflict.
+
+### Latest verified update
+
+Stable v21 is separate from v22 Beta Test 6, published April 1, 2026. Choose a version deliberately and read its included manual.
+
+## Official media
+
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+## Sources and evidence
+
+- [ModDB](https://www.moddb.com/mods/brutal-doom) · checked 2026-10-23T06:35:12.994433+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -2,7 +2,7 @@
 
 ![Genome Guardian 2 official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4130120/e9852597c1338855819ac0a0c183d95288ab0d29/header.jpg?t=1792245431)
 
-**[Steam store](https://store.steampowered.com/app/4130120/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A4130120)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/4130120/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A4130120)** · [Roguelites](Roguelites)
 
 COMBINE WEAPONS in the microscopic shooter with macroscopic depth. BUILD YOUR NANOBOT from hundreds of parts. SURVIVE the microbial onslaught once more in this psychedelic dive to the Abyss, full of mutations, minerals, anomalies and powerup polyps. SHMUP mode turns it into a vertical shoot 'em up!
 
@@ -10,17 +10,23 @@ COMBINE WEAPONS in the microscopic shooter with macroscopic depth. BUILD YOUR NA
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 7/10 |
-| Steam positive reviews | 94.3% |
-| Review count | 526 |
-| Steam release date | Oct 11, 2026 |
-| Status | Released |
-| Developers | Alpherior |
-| US price snapshot | $10.39 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 94.3% / 526 Steam reviews |
+| Release | Oct 11, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Alpherior |
+| Price snapshot | $10.39 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/4130120/)
 
 ## Official media
 
-- [Trailer](https://video.akamai.steamstatic.com/store_trailers/4130120/1923066418/61f233cd0e5e770f1a5c2d5f248eba397dff382e/1768541476/hls_264_master.m3u8?t=1770323986)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Trailer](https://video.akamai.steamstatic.com/store_trailers/4130120/1923066418/61f233cd0e5e770f1a5c2d5f248eba397dff382e/1768541476/hls_264_master.m3u8?t=1770323986)
 
 ![Genome Guardian 2 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4130120/d2808d3daca1029329f702ec71746a36323f23b2/ss_d2808d3daca1029329f702ec71746a36323f23b2.1920x1080.jpg?t=1792245431)
 
@@ -62,6 +68,10 @@ COMBINE WEAPONS in the microscopic shooter with macroscopic depth. BUILD YOUR NA
 
 ![Genome Guardian 2 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4130120/f8b3c38818bbfacafc9993ecb5ad4e5c0a6a7943/ss_f8b3c38818bbfacafc9993ecb5ad4e5c0a6a7943.1920x1080.jpg?t=1792245431)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/4130120/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=4130120&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A4130120%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

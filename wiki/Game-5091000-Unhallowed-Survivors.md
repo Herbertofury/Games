@@ -2,7 +2,7 @@
 
 ![Unhallowed Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091000/4e3727630174c3155adc09cef13b12e1bf746552/header.jpg?t=1788536952)
 
-**[Steam store](https://store.steampowered.com/app/5091000/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A5091000)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/5091000/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A5091000)** · [Roguelites](Roguelites)
 
 Unhallowed Survivors is a dark fantasy bullet heaven roguelite where every hero wields a unique signature weapon. Shape specialized builds, hunt cursed reliquaries, seal them for lasting progress or desecrate them for forbidden power — then face escalating hordes and corrupted bosses.
 
@@ -10,19 +10,25 @@ Unhallowed Survivors is a dark fantasy bullet heaven roguelite where every hero 
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | Unknown |
-| Review count | 0 |
-| Steam release date | Sep 4, 2026 |
-| Status | Early Access |
-| Developers | ShoninyasTube |
-| US price snapshot | $3.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | No aggregate rating |
+| Release | Sep 4, 2026 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | ShoninyasTube |
+| Price snapshot | $3.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/5091000/)
+
+> Small review sample
 
 ## Official media
 
-- [Unhallowed-Survivors-EA-v.07](https://video.akamai.steamstatic.com/store_trailers/5091000/591922704/2cce99fcc0ff4285adb40bbba01b42545f058455/1787384803/hls_264_master.m3u8?t=1787386599)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Unhallowed-Survivors-EA-v.07](https://video.akamai.steamstatic.com/store_trailers/5091000/591922704/2cce99fcc0ff4285adb40bbba01b42545f058455/1787384803/hls_264_master.m3u8?t=1787386599)
 
 ![Unhallowed Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091000/8168ecfa68e55595e9eaa96788f39612b6348923/ss_8168ecfa68e55595e9eaa96788f39612b6348923.1920x1080.jpg?t=1788536952)
 
@@ -42,6 +48,10 @@ Unhallowed Survivors is a dark fantasy bullet heaven roguelite where every hero 
 
 ![Unhallowed Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091000/b80314e946741b868dce446eb88004b390d21686/ss_b80314e946741b868dce446eb88004b390d21686.1920x1080.jpg?t=1788536952)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/5091000/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=5091000&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A5091000%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

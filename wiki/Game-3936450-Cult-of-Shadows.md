@@ -2,7 +2,7 @@
 
 ![Cult of Shadows official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/fb30b336345ec492916c3e84eb923dad8b794d17/header.jpg?t=1784326613)
 
-**[Steam store](https://store.steampowered.com/app/3936450/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3936450)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3936450/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3936450)** · [Roguelites](Roguelites)
 
 Uncover the secrets of Bel Noa. Fight hordes of cultists and the Mythos they summon. Defeat fearsome beasts, upgrade your character, acquire and enchant weapons. Die and return stronger to face the Cult of Shadows.
 
@@ -10,20 +10,27 @@ Uncover the secrets of Bel Noa. Fight hordes of cultists and the Mythos they sum
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 71.4% |
-| Review count | 14 |
-| Steam release date | Jul 17, 2026 |
-| Status | Released |
-| Developers | Squirrel Tail Games |
-| US price snapshot | $14.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 71.4% / 14 Steam reviews |
+| Release | Jul 17, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Squirrel Tail Games |
+| Price snapshot | $14.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3936450/)
+
+> Small review sample
 
 ## Official media
 
-- [Cult of Shadows Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3936450/1057335123/edfca8ba74c58b8bd6c01b40ee0235e6328dad93/1783622716/hls_264_master.m3u8?t=1783623162)
-- [Cult of Shadows New Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/3936450/136351700/ea34527529f6f044760f3e817c44c1e4f8422a01/1768508721/hls_264_master.m3u8?t=1783623163)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Cult of Shadows Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3936450/1057335123/edfca8ba74c58b8bd6c01b40ee0235e6328dad93/1783622716/hls_264_master.m3u8?t=1783623162)
+
+[Cult of Shadows New Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/3936450/136351700/ea34527529f6f044760f3e817c44c1e4f8422a01/1768508721/hls_264_master.m3u8?t=1783623163)
 
 ![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/7b9d9ae1c8b56f37354c87c9a39eef81948c7238/ss_7b9d9ae1c8b56f37354c87c9a39eef81948c7238.1920x1080.jpg?t=1784326613)
 
@@ -55,6 +62,10 @@ Uncover the secrets of Bel Noa. Fight hordes of cultists and the Mythos they sum
 
 ![Cult of Shadows official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/d9d46963359eee3f02077871e567a109d2122854/ss_d9d46963359eee3f02077871e567a109d2122854.1920x1080.jpg?t=1784326613)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3936450/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3936450&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3936450%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

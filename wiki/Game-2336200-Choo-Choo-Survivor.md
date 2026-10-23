@@ -2,7 +2,7 @@
 
 ![Choo Choo Survivor official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336200/header.jpg?t=1791811249)
 
-**[Steam store](https://store.steampowered.com/app/2336200/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2336200)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2336200/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2336200)** · [Roguelites](Roguelites)
 
 Drive your train to safety while shooting down endless hordes of zombies blocking your way. Upgrade your weapons and abilities and become absurdly powerful!
 
@@ -10,17 +10,23 @@ Drive your train to safety while shooting down endless hordes of zombies blockin
 |:--|:--|
 | Collection | Zombies & horror |
 | Recommendation | 7/10 |
-| Steam positive reviews | 84.9% |
-| Review count | 595 |
-| Steam release date | Jun 26, 2023 |
-| Status | Released |
-| Developers | GTGD |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 84.9% / 595 Steam reviews |
+| Release | Jun 26, 2023 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | GTGD |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2336200/)
 
 ## Official media
 
-- [Choo Choo Survivor Gameplay Short Clip](https://video.akamai.steamstatic.com/store_trailers/2336200/572211/df4171da1a1ea7fe266182a65bb73df36521055a/1750907925/hls_264_master.m3u8?t=1687174970)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Choo Choo Survivor Gameplay Short Clip](https://video.akamai.steamstatic.com/store_trailers/2336200/572211/df4171da1a1ea7fe266182a65bb73df36521055a/1750907925/hls_264_master.m3u8?t=1687174970)
 
 ![Choo Choo Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336200/ss_8f9ab565b8854f66fb8e8406ad8da2a28e318fbf.1920x1080.jpg?t=1791811249)
 
@@ -66,6 +72,10 @@ Drive your train to safety while shooting down endless hordes of zombies blockin
 
 ![Choo Choo Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336200/ss_9c9470b79ef3153fb0e6fa00e157ee0c0adef8cc.1920x1080.jpg?t=1791811249)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2336200/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2336200&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2336200%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -2,7 +2,7 @@
 
 ![Ocean Keeper: Dome Survival official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/header.jpg?t=1785404500)
 
-**[Steam store](https://store.steampowered.com/app/2845630/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2845630)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2845630/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2845630)** · [Roguelites](Roguelites)
 
 Explore dungeons, fight hordes of monsters and survive on a huge map. This is Ocean Keeper - an action roguelike with tower defense elements. Mine resources in caves, customize your Mech Spider, upgrade different weapons and face dangerous bosses that won't leave you a chance!
 
@@ -10,18 +10,25 @@ Explore dungeons, fight hordes of monsters and survive on a huge map. This is Oc
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 7/10 |
-| Steam positive reviews | 78.1% |
-| Review count | 863 |
-| Steam release date | May 2, 2025 |
-| Status | Released |
-| Developers | RetroStyle Games |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 78.1% / 863 Steam reviews |
+| Release | May 2, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | RetroStyle Games |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2845630/)
 
 ## Official media
 
-- [Ocean Keeper Dome Survival Gameplay Trailer ](https://video.akamai.steamstatic.com/store_trailers/2845630/2135325056/1e192a0cd88e84a9970b4dd50d12d74d1d453f17/1761831969/hls_264_master.m3u8?t=1761833535)
-- [Ocean Keeper Trailer ](https://video.akamai.steamstatic.com/store_trailers/2845630/882623/a01459aaae75fef7d539b26abf8e1033ce4e433d/1750820646/hls_264_master.m3u8?t=1746110813)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Ocean Keeper Dome Survival Gameplay Trailer ](https://video.akamai.steamstatic.com/store_trailers/2845630/2135325056/1e192a0cd88e84a9970b4dd50d12d74d1d453f17/1761831969/hls_264_master.m3u8?t=1761833535)
+
+[Ocean Keeper Trailer ](https://video.akamai.steamstatic.com/store_trailers/2845630/882623/a01459aaae75fef7d539b26abf8e1033ce4e433d/1750820646/hls_264_master.m3u8?t=1746110813)
 
 ![Ocean Keeper: Dome Survival official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/cc2e1e60efc630b31a2a338d37f4b6ebc90d58ad/ss_cc2e1e60efc630b31a2a338d37f4b6ebc90d58ad.1920x1080.jpg?t=1785404500)
 
@@ -57,6 +64,10 @@ Explore dungeons, fight hordes of monsters and survive on a huge map. This is Oc
 
 ![Ocean Keeper: Dome Survival official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/f754f0d893f21a270811b0280da8f66aee8ce3c8/ss_f754f0d893f21a270811b0280da8f66aee8ce3c8.1920x1080.jpg?t=1785404500)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2845630/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2845630&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2845630%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

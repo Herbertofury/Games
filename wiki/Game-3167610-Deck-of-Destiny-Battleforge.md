@@ -2,7 +2,7 @@
 
 ![Deck of Destiny: Battleforge official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167610/header.jpg?t=1769264716)
 
-**[Steam store](https://store.steampowered.com/app/3167610/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3167610)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3167610/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3167610)** · [Roguelites](Roguelites)
 
 "Deck of Destiny: Battleforge calls you to write your own legend in an endless battle! In this game that combines strategy, action, and roguelike deck-building elements, survive on the thin line between chance and strategy, shape your destiny, and become a legendary warrior!"
 
@@ -10,19 +10,25 @@
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 6/10 |
-| Steam positive reviews | 72.7% |
-| Review count | 11 |
-| Steam release date | Jan 24, 2026 |
-| Status | Released |
-| Developers | Furkan Selcuk |
-| US price snapshot | $1.19 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 72.7% / 11 Steam reviews |
+| Release | Jan 24, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Furkan Selcuk |
+| Price snapshot | $1.19 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3167610/)
+
+> Small review sample
 
 ## Official media
 
-- [Deck of Destiny: Battleforge - Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3167610/1801783572/c627d1db305c61fc1fb64e0378d85c36155da446/1755011922/hls_264_master.m3u8?t=1755013751)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Deck of Destiny: Battleforge - Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3167610/1801783572/c627d1db305c61fc1fb64e0378d85c36155da446/1755011922/hls_264_master.m3u8?t=1755013751)
 
 ![Deck of Destiny: Battleforge official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167610/9be9de3a7e95892979c29d48b642c49d98b5f180/ss_9be9de3a7e95892979c29d48b642c49d98b5f180.1920x1080.jpg?t=1769264716)
 
@@ -64,6 +70,10 @@
 
 ![Deck of Destiny: Battleforge official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167610/a4724bf3984896fc3bab28d25f8c17874b09370e/ss_a4724bf3984896fc3bab28d25f8c17874b09370e.1920x1080.jpg?t=1769264716)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3167610/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3167610&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3167610%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

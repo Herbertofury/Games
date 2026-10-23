@@ -2,7 +2,7 @@
 
 ![In Woods official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/d7e4789f05a0054361a7217dc92a30b6424b09bb/header.jpg?t=1791236055)
 
-**[Steam store](https://store.steampowered.com/app/2113770/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2113770)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2113770/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2113770)** · [Roguelites](Roguelites)
 
 In Woods is a roguelike survival game set in a forest. Fight monsters, level up, gather wood to craft items, and enhance your power to face stronger foes. Survive and defeat the final boss to claim ultimate victory!
 
@@ -10,17 +10,23 @@ In Woods is a roguelike survival game set in a forest. Fight monsters, level up,
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 86.5% |
-| Review count | 245 |
-| Steam release date | Aug 19, 2024 |
-| Status | Released |
-| Developers | Vision Party |
-| US price snapshot | $6.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 86.5% / 245 Steam reviews |
+| Release | Aug 19, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Vision Party |
+| Price snapshot | $6.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2113770/)
 
 ## Official media
 
-- [English Trailer](https://video.akamai.steamstatic.com/store_trailers/2113770/1027296936/b06d5c5b68cfb44b84e44b185d3923aa63893e63/1755775636/hls_264_master.m3u8?t=1757409924)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[English Trailer](https://video.akamai.steamstatic.com/store_trailers/2113770/1027296936/b06d5c5b68cfb44b84e44b185d3923aa63893e63/1755775636/hls_264_master.m3u8?t=1757409924)
 
 ![In Woods official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/a2c183cb0ac3b46ef1ba23199cee5f38dc652c91/ss_a2c183cb0ac3b46ef1ba23199cee5f38dc652c91.1920x1080.jpg?t=1791236055)
 
@@ -38,6 +44,10 @@ In Woods is a roguelike survival game set in a forest. Fight monsters, level up,
 
 ![In Woods official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/2272e9c10275e9f57219afd80590b55b9912473c/ss_2272e9c10275e9f57219afd80590b55b9912473c.1920x1080.jpg?t=1791236055)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2113770/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2113770&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2113770%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

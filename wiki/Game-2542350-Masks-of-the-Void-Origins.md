@@ -2,7 +2,7 @@
 
 ![Masks of the Void: Origins official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542350/49bd0390be0b5b7c567df7b29033289f705a09b5/header.jpg?t=1786581115)
 
-**[Steam store](https://store.steampowered.com/app/2542350/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2542350)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2542350/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2542350)** · [Roguelites](Roguelites)
 
 You don't carry a weapon. You are the weapon. Rip stone from the earth and hurl it at your enemies. Masks warp your powers into something new every single run. The Void is coming for your home. Make it regret it.
 
@@ -10,21 +10,31 @@ You don't carry a weapon. You are the weapon. Rip stone from the earth and hurl 
 |:--|:--|
 | Collection | Action roguelites |
 | Recommendation | 7/10 |
-| Steam positive reviews | 97.4% |
-| Review count | 117 |
-| Steam release date | Mar 6, 2026 |
-| Status | Released |
-| Developers | ROLLDBOX GAMES |
-| US price snapshot | $14.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 97.4% / 117 Steam reviews |
+| Release | Mar 6, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | ROLLDBOX GAMES |
+| Price snapshot | $14.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2542350/)
 
 ## Official media
 
-- [MOV Origins Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2542350/906977228/b06e05e6ec37e7bf2836af1ef2fc38bbc3ed81a4/1772806345/hls_264_master.m3u8?t=1772807328)
-- [MOV Origins second trailer](https://video.akamai.steamstatic.com/store_trailers/2542350/610206676/8290cf62270cef37f878ae14e2f6c1c7c159d0a6/1784134936/hls_264_master.m3u8?t=1784135948)
-- [MoV Origins Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2542350/344763582/30f06fc1b174e1067e41dec97d5cca523bc62c5a/1760518122/hls_264_master.m3u8?t=1760519374)
-- [GamePlay MoV Origins](https://video.akamai.steamstatic.com/store_trailers/2542350/1436086597/08ff4b7dc3eeb215161dcf3cece2c7aeeb4cdb88/1751301062/hls_264_master.m3u8?t=1751354718)
-- [Blood Mask at Masks of the Void](https://video.akamai.steamstatic.com/store_trailers/2542350/842040/a4ef24b798119bade53a3fa8d47c079a70061478/1750929728/hls_264_master.m3u8?t=1751300860)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[MOV Origins Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2542350/906977228/b06e05e6ec37e7bf2836af1ef2fc38bbc3ed81a4/1772806345/hls_264_master.m3u8?t=1772807328)
+
+[MOV Origins second trailer](https://video.akamai.steamstatic.com/store_trailers/2542350/610206676/8290cf62270cef37f878ae14e2f6c1c7c159d0a6/1784134936/hls_264_master.m3u8?t=1784135948)
+
+[MoV Origins Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2542350/344763582/30f06fc1b174e1067e41dec97d5cca523bc62c5a/1760518122/hls_264_master.m3u8?t=1760519374)
+
+[GamePlay MoV Origins](https://video.akamai.steamstatic.com/store_trailers/2542350/1436086597/08ff4b7dc3eeb215161dcf3cece2c7aeeb4cdb88/1751301062/hls_264_master.m3u8?t=1751354718)
+
+[Blood Mask at Masks of the Void](https://video.akamai.steamstatic.com/store_trailers/2542350/842040/a4ef24b798119bade53a3fa8d47c079a70061478/1750929728/hls_264_master.m3u8?t=1751300860)
 
 ![Masks of the Void: Origins official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542350/59e11634996b557a50f7c21b3e53061ef9fe590c/ss_59e11634996b557a50f7c21b3e53061ef9fe590c.1920x1080.jpg?t=1786581115)
 
@@ -62,6 +72,10 @@ You don't carry a weapon. You are the weapon. Rip stone from the earth and hurl 
 
 ![Masks of the Void: Origins official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542350/2b2148ec3a5bc9b557b1f50bfac0e316b0216650/ss_2b2148ec3a5bc9b557b1f50bfac0e316b0216650.1920x1080.jpg?t=1786581115)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2542350/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2542350&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2542350%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

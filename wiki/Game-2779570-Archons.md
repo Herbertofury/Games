@@ -2,7 +2,7 @@
 
 ![Archons official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/2af2f6faed0ec52601f2f3c11717d6a5e7a6503a/header.jpg?t=1787825311)
 
-**[Steam store](https://store.steampowered.com/app/2779570/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2779570)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2779570/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2779570)** · [Roguelites](Roguelites)
 
 Archons is a Roguelite/Survivor game where you control two characters, the Archons- simultaneously! Customize your build and abilities to fit your own unique playstyle and blast your way through enemy parasites and bosses!
 
@@ -10,17 +10,23 @@ Archons is a Roguelite/Survivor game where you control two characters, the Archo
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 8/10 |
-| Steam positive reviews | 92.6% |
-| Review count | 443 |
-| Steam release date | Dec 6, 2024 |
-| Status | Released |
-| Developers | BulletHell Studios |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 92.6% / 443 Steam reviews |
+| Release | Dec 6, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | BulletHell Studios |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2779570/)
 
 ## Official media
 
-- [Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2779570/850596/4951e3629c540ba00ded692d6a6c5a0c7db6bd63/1750899341/hls_264_master.m3u8?t=1742304109)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2779570/850596/4951e3629c540ba00ded692d6a6c5a0c7db6bd63/1750899341/hls_264_master.m3u8?t=1742304109)
 
 ![Archons official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_0e6bdfa1069866531df563284b6f8af1d2f55be1.1920x1080.jpg?t=1787825311)
 
@@ -58,6 +64,10 @@ Archons is a Roguelite/Survivor game where you control two characters, the Archo
 
 ![Archons official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_b81b85fdcef6bcaa0e57e8157e88403483fc0ab5.1920x1080.jpg?t=1787825311)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2779570/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2779570&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2779570%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

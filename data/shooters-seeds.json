@@ -1,133 +1,664 @@
 {
- "schemaVersion":1,
- "hub":"Boomer shooters",
- "steam":[
- ["Warhammer 40,000: Boltgun 2","Retro campaigns",9,3115160],
- ["PAPERHEAD","Movement shooters",9],
- ["SPRAWL zero","Movement shooters",9],
- ["MOUSE: P.I. For Hire","Retro campaigns",9],
- ["Starship Troopers: Ultimate Bug War!","Retro campaigns",8],
- ["Don't Stop, Girlypop!","Movement shooters",8],
- ["ODDCORE","Arena & roguelite FPS",9],
- ["Agent 64: Spies Never Die","Immersive & tactical FPS",8],
- ["The Last Salvage Squad","Retro campaigns",8],
- ["Luna Abyss","Movement shooters",8],
- ["Blood Vial","Arena & roguelite FPS",8],
- ["Guns and Nuns: Storming Hell","Arena & roguelite FPS",8],
- ["RetroSpace","Immersive & tactical FPS",8],
- ["Ctesiphon","Retro campaigns",8],
- ["Machinicide","Movement shooters",8],
- ["Darkenstein 3D","Retro campaigns",8],
- ["Mohrta","Fantasy FPS",9],
- ["Captain Wayne - Vacation Desperation","Retro campaigns",9],
- ["CULTIC","Horror & occult FPS",10],
- ["DUSK","Horror & occult FPS",10],
- ["AMID EVIL","Fantasy FPS",10],
- ["ULTRAKILL","Movement shooters",10],
- ["Turbo Overkill","Movement shooters",10],
- ["Selaco","Immersive & tactical FPS",10],
- ["Prodeus","Retro campaigns",9],
- ["HROT","Horror & occult FPS",9],
- ["Ion Fury","Retro campaigns",9],
- ["Warhammer 40,000: Boltgun","Retro campaigns",9,2005010],
- ["Viscerafest","Movement shooters",9],
- ["INCISION","Horror & occult FPS",9],
- ["COVEN","Horror & occult FPS",9],
- ["BRUTAL JOHN","Retro campaigns",8],
- ["Project Warlock II","Fantasy FPS",8],
- ["Project Warlock","Fantasy FPS",8],
- ["Wizordum","Fantasy FPS",9],
- ["Wrought Flesh","Horror & occult FPS",8],
- ["Forgive Me Father 2","Horror & occult FPS",8],
- ["Forgive Me Father","Horror & occult FPS",8],
- ["Zortch","Retro campaigns",9],
- ["Dread Templar","Retro campaigns",9],
- ["Nightmare Reaper","Arena & roguelite FPS",9],
- ["Hedon Bloodrite","Fantasy FPS",9],
- ["Fashion Police Squad","Retro campaigns",8],
- ["Slayers X: Terminal Aftermath: Vengance of the Slayer","Retro campaigns",8],
- ["POSTAL: Brain Damaged","Retro campaigns",9],
- ["ADACA","Immersive & tactical FPS",9],
- ["G String","Immersive & tactical FPS",8],
- ["Beyond Sunset","Immersive & tactical FPS",8],
- ["Supplice","Retro campaigns",9],
- ["Relentless Frontier","Retro campaigns",8],
- ["Hands of Necromancy","Fantasy FPS",8],
- ["Hands of Necromancy II","Fantasy FPS",8],
- ["Diluvian Ultra","Retro campaigns",8],
- ["Vomitoreum","Horror & occult FPS",8],
- ["Shrine","Horror & occult FPS",8],
- ["Shrine II","Horror & occult FPS",8],
- ["Arthurian Legends","Fantasy FPS",8],
- ["Extraneum","Retro campaigns",8],
- ["Kvark","Retro campaigns",8],
- ["Apocalyptic Vibes","Immersive & tactical FPS",7],
- ["Deadlink","Arena & roguelite FPS",9],
- ["MULLET MADJACK","Arena & roguelite FPS",9],
- ["Echo Point Nova","Movement shooters",10],
- ["Severed Steel","Movement shooters",9],
- ["REAVER","Movement shooters",9],
- ["HYPER DEMON","Arena & roguelite FPS",9],
- ["Devil Daggers","Arena & roguelite FPS",9],
- ["Post Void","Arena & roguelite FPS",9],
- ["Impaler","Arena & roguelite FPS",8],
- ["GRUEL","Arena & roguelite FPS",8],
- ["CROSSBOW: Bloodnight","Arena & roguelite FPS",8],
- ["GTTOD: Get To The Orange Door","Movement shooters",8],
- ["Boomerang X","Movement shooters",9],
- ["CRUEL","Arena & roguelite FPS",9],
- ["ENCHAIN","Movement shooters",9],
- ["Voidborn","Arena & roguelite FPS",8],
- ["ROBOBEAT","Arena & roguelite FPS",8],
- ["BPM: BULLETS PER MINUTE","Arena & roguelite FPS",8],
- ["WRATH: Aeon of Ruin","Retro campaigns",8],
- ["GRAVEN","Fantasy FPS",7],
- ["Blood West","Immersive & tactical FPS",9],
- ["Peripeteia","Immersive & tactical FPS",8],
- ["White Hell","Retro campaigns",8],
- ["HYPERVIOLENT","Horror & occult FPS",7],
- ["REKKR: Sunken Land","Fantasy FPS",8],
- ["AWOL","Immersive & tactical FPS",8],
- ["The Citadel","Retro campaigns",9],
- ["Beyond Citadel","Retro campaigns",9],
- ["SULFUR","Arena & roguelite FPS",9],
- ["Fortune's Run","Immersive & tactical FPS",8],
- ["I Am Your Beast","Movement shooters",9],
- ["Trepang2","Immersive & tactical FPS",9],
- ["SPRAWL","Movement shooters",9],
- ["Hellbound","Retro campaigns",7],
- ["Hellscreen","Retro campaigns",8],
- ["Devilated","Arena & roguelite FPS",8],
- ["STRAFE: Gold Edition","Arena & roguelite FPS",7],
- ["STRAFTAT","Arena & roguelite FPS",9],
- ["Ghostware: Arena of the Dead","Retro campaigns",8],
- ["Texnoplazm","Movement shooters",8],
- ["Cruelty Squad","Immersive & tactical FPS",9],
- ["Fallen Aces","Immersive & tactical FPS",9],
- ["SUFFER","Horror & occult FPS",7],
- ["Mala Petaka","Retro campaigns",8],
- ["DISDAIN","Retro campaigns",8],
- ["The Age of Hell","Horror & occult FPS",8],
- ["Reincarnage","Arena & roguelite FPS",8],
- ["Roboquest","Arena & roguelite FPS",9],
- ["Gunfire Reborn","Arena & roguelite FPS",8],
- ["Ziggurat 2","Fantasy FPS",8],
- ["Immortal Redneck","Arena & roguelite FPS",8],
- ["DOOM: The Dark Ages","Retro revivals",9],
- ["DOOM Eternal","Retro revivals",9],
- ["DOOM + DOOM II","Retro revivals",9,2280],
- ["Quake","Retro revivals",10,2310],
- ["Quake II","Retro revivals",9,2320],
- ["Blood: Fresh Supply","Retro revivals",9],
- ["Blood: Refreshed Supply","Retro revivals",7],
- ["PowerSlave Exhumed","Retro revivals",9],
- ["Rise of the Triad: Ludicrous Edition","Retro revivals",8],
- ["Chasm: The Rift","Retro revivals",8],
- ["PO'ed: Definitive Edition","Retro revivals",7],
- ["Voltage High Society","Immersive & tactical FPS",7],
- ["HELLBREAK","Arena & roguelite FPS",7],
- ["Vampire Hunters","Arena & roguelite FPS",8,2206270],
- ["Bloodshed","Arena & roguelite FPS",8,2747550]
- ],
- "notes":"Discovery candidates, not automatically endorsed. Resolve each exact official Steam identity, separate upcoming titles, retain prior records by stable ID, and review reception before publication. Non-Steam games are maintained separately with explicit official sources."
+  "schemaVersion": 1,
+  "hub": "Boomer shooters",
+  "steam": [
+    [
+      "Warhammer 40,000: Boltgun 2",
+      "Retro campaigns",
+      9,
+      3115160
+    ],
+    [
+      "PAPERHEAD",
+      "Movement shooters",
+      9
+    ],
+    [
+      "SPRAWL zero",
+      "Movement shooters",
+      9
+    ],
+    [
+      "MOUSE: P.I. For Hire",
+      "Retro campaigns",
+      9
+    ],
+    [
+      "Starship Troopers: Ultimate Bug War!",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "Don't Stop, Girlypop!",
+      "Movement shooters",
+      8
+    ],
+    [
+      "ODDCORE",
+      "Arena & roguelite FPS",
+      9
+    ],
+    [
+      "Agent 64: Spies Never Die",
+      "Immersive & tactical FPS",
+      8
+    ],
+    [
+      "The Last Salvage Squad",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "Luna Abyss",
+      "Movement shooters",
+      8
+    ],
+    [
+      "Blood Vial",
+      "Arena & roguelite FPS",
+      8
+    ],
+    [
+      "Guns and Nuns: Storming Hell",
+      "Arena & roguelite FPS",
+      8
+    ],
+    [
+      "RetroSpace",
+      "Immersive & tactical FPS",
+      8
+    ],
+    [
+      "Ctesiphon",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "Machinicide",
+      "Movement shooters",
+      8
+    ],
+    [
+      "Darkenstein 3D",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "Mohrta",
+      "Fantasy FPS",
+      9
+    ],
+    [
+      "Captain Wayne - Vacation Desperation",
+      "Retro campaigns",
+      9,
+      2319790
+    ],
+    [
+      "CULTIC",
+      "Horror & occult FPS",
+      10
+    ],
+    [
+      "DUSK",
+      "Horror & occult FPS",
+      10
+    ],
+    [
+      "AMID EVIL",
+      "Fantasy FPS",
+      10
+    ],
+    [
+      "ULTRAKILL",
+      "Movement shooters",
+      10
+    ],
+    [
+      "Turbo Overkill",
+      "Movement shooters",
+      10
+    ],
+    [
+      "Selaco",
+      "Immersive & tactical FPS",
+      10
+    ],
+    [
+      "Prodeus",
+      "Retro campaigns",
+      9
+    ],
+    [
+      "HROT",
+      "Horror & occult FPS",
+      9
+    ],
+    [
+      "Ion Fury",
+      "Retro campaigns",
+      9
+    ],
+    [
+      "Warhammer 40,000: Boltgun",
+      "Retro campaigns",
+      9,
+      2005010
+    ],
+    [
+      "Viscerafest",
+      "Movement shooters",
+      9
+    ],
+    [
+      "INCISION",
+      "Horror & occult FPS",
+      9
+    ],
+    [
+      "COVEN",
+      "Horror & occult FPS",
+      9
+    ],
+    [
+      "BRUTAL JOHN",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "Project Warlock II",
+      "Fantasy FPS",
+      8
+    ],
+    [
+      "Project Warlock",
+      "Fantasy FPS",
+      8
+    ],
+    [
+      "Wizordum",
+      "Fantasy FPS",
+      9
+    ],
+    [
+      "Wrought Flesh",
+      "Horror & occult FPS",
+      8
+    ],
+    [
+      "Forgive Me Father 2",
+      "Horror & occult FPS",
+      8
+    ],
+    [
+      "Forgive Me Father",
+      "Horror & occult FPS",
+      8
+    ],
+    [
+      "Zortch",
+      "Retro campaigns",
+      9
+    ],
+    [
+      "Dread Templar",
+      "Retro campaigns",
+      9
+    ],
+    [
+      "Nightmare Reaper",
+      "Arena & roguelite FPS",
+      9
+    ],
+    [
+      "Hedon Bloodrite",
+      "Fantasy FPS",
+      9
+    ],
+    [
+      "Fashion Police Squad",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "Slayers X: Terminal Aftermath: Vengance of the Slayer",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "POSTAL: Brain Damaged",
+      "Retro campaigns",
+      9
+    ],
+    [
+      "ADACA",
+      "Immersive & tactical FPS",
+      9
+    ],
+    [
+      "G String",
+      "Immersive & tactical FPS",
+      8
+    ],
+    [
+      "Beyond Sunset",
+      "Immersive & tactical FPS",
+      8
+    ],
+    [
+      "Supplice",
+      "Retro campaigns",
+      9
+    ],
+    [
+      "Relentless Frontier",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "Hands of Necromancy",
+      "Fantasy FPS",
+      8
+    ],
+    [
+      "Hands of Necromancy II",
+      "Fantasy FPS",
+      8
+    ],
+    [
+      "Diluvian Ultra",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "Vomitoreum",
+      "Horror & occult FPS",
+      8
+    ],
+    [
+      "Shrine II",
+      "Horror & occult FPS",
+      8
+    ],
+    [
+      "Arthurian Legends",
+      "Fantasy FPS",
+      8
+    ],
+    [
+      "Extraneum",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "Kvark",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "Apocalyptic Vibes",
+      "Immersive & tactical FPS",
+      7
+    ],
+    [
+      "Deadlink",
+      "Arena & roguelite FPS",
+      9
+    ],
+    [
+      "MULLET MADJACK",
+      "Arena & roguelite FPS",
+      9
+    ],
+    [
+      "Echo Point Nova",
+      "Movement shooters",
+      10
+    ],
+    [
+      "Severed Steel",
+      "Movement shooters",
+      9
+    ],
+    [
+      "REAVER",
+      "Movement shooters",
+      9
+    ],
+    [
+      "HYPER DEMON",
+      "Arena & roguelite FPS",
+      9
+    ],
+    [
+      "Devil Daggers",
+      "Arena & roguelite FPS",
+      9
+    ],
+    [
+      "Post Void",
+      "Arena & roguelite FPS",
+      9
+    ],
+    [
+      "Impaler Gold",
+      "Arena & roguelite FPS",
+      8,
+      1573090
+    ],
+    [
+      "GRUEL",
+      "Arena & roguelite FPS",
+      8
+    ],
+    [
+      "CROSSBOW: Bloodnight",
+      "Arena & roguelite FPS",
+      8
+    ],
+    [
+      "GTTOD",
+      "Movement shooters",
+      8,
+      541200
+    ],
+    [
+      "Boomerang X",
+      "Movement shooters",
+      9
+    ],
+    [
+      "CRUEL",
+      "Arena & roguelite FPS",
+      9
+    ],
+    [
+      "ENCHAIN",
+      "Movement shooters",
+      9
+    ],
+    [
+      "Voidborn",
+      "Arena & roguelite FPS",
+      8
+    ],
+    [
+      "ROBOBEAT",
+      "Arena & roguelite FPS",
+      8
+    ],
+    [
+      "BPM: BULLETS PER MINUTE",
+      "Arena & roguelite FPS",
+      8
+    ],
+    [
+      "WRATH: Aeon of Ruin",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "GRAVEN",
+      "Fantasy FPS",
+      7
+    ],
+    [
+      "Blood West",
+      "Immersive & tactical FPS",
+      9
+    ],
+    [
+      "Peripeteia",
+      "Immersive & tactical FPS",
+      8
+    ],
+    [
+      "White Hell",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "HYPERVIOLENT",
+      "Horror & occult FPS",
+      7
+    ],
+    [
+      "REKKR: Sunken Land",
+      "Fantasy FPS",
+      8
+    ],
+    [
+      "AWOL",
+      "Immersive & tactical FPS",
+      8
+    ],
+    [
+      "The Citadel",
+      "Retro campaigns",
+      9
+    ],
+    [
+      "Beyond Citadel",
+      "Retro campaigns",
+      9
+    ],
+    [
+      "SULFUR",
+      "Arena & roguelite FPS",
+      9
+    ],
+    [
+      "Fortune's Run",
+      "Immersive & tactical FPS",
+      8
+    ],
+    [
+      "I Am Your Beast",
+      "Movement shooters",
+      9
+    ],
+    [
+      "Trepang2",
+      "Immersive & tactical FPS",
+      9
+    ],
+    [
+      "SPRAWL",
+      "Movement shooters",
+      9
+    ],
+    [
+      "Hellbound",
+      "Retro campaigns",
+      7
+    ],
+    [
+      "Hellscreen",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "Devilated",
+      "Arena & roguelite FPS",
+      8
+    ],
+    [
+      "STRAFE: Gold Edition",
+      "Arena & roguelite FPS",
+      7
+    ],
+    [
+      "STRAFTAT",
+      "Arena & roguelite FPS",
+      9
+    ],
+    [
+      "Ghostware: Arena of the Dead",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "Texnoplazm",
+      "Movement shooters",
+      8
+    ],
+    [
+      "Cruelty Squad",
+      "Immersive & tactical FPS",
+      9
+    ],
+    [
+      "Fallen Aces",
+      "Immersive & tactical FPS",
+      9
+    ],
+    [
+      "SUFFER",
+      "Horror & occult FPS",
+      7
+    ],
+    [
+      "Mala Petaka",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "DISDAIN",
+      "Retro campaigns",
+      8
+    ],
+    [
+      "The Age of Hell",
+      "Horror & occult FPS",
+      8
+    ],
+    [
+      "Reincarnage",
+      "Arena & roguelite FPS",
+      8
+    ],
+    [
+      "Roboquest",
+      "Arena & roguelite FPS",
+      9
+    ],
+    [
+      "Gunfire Reborn",
+      "Arena & roguelite FPS",
+      8
+    ],
+    [
+      "Ziggurat 2",
+      "Fantasy FPS",
+      8
+    ],
+    [
+      "Immortal Redneck",
+      "Arena & roguelite FPS",
+      8
+    ],
+    [
+      "DOOM: The Dark Ages",
+      "Retro revivals",
+      9
+    ],
+    [
+      "DOOM Eternal",
+      "Retro revivals",
+      9
+    ],
+    [
+      "DOOM + DOOM II",
+      "Retro revivals",
+      9,
+      2280
+    ],
+    [
+      "Quake",
+      "Retro revivals",
+      10,
+      2310
+    ],
+    [
+      "Quake II",
+      "Retro revivals",
+      9,
+      2320
+    ],
+    [
+      "Blood: Refreshed Supply",
+      "Retro revivals",
+      7
+    ],
+    [
+      "PowerSlave Exhumed",
+      "Retro revivals",
+      9
+    ],
+    [
+      "Rise of the Triad: Ludicrous Edition",
+      "Retro revivals",
+      8
+    ],
+    [
+      "Chasm: The Rift",
+      "Retro revivals",
+      8
+    ],
+    [
+      "PO'ed: Definitive Edition",
+      "Retro revivals",
+      7
+    ],
+    [
+      "Voltage High Society",
+      "Immersive & tactical FPS",
+      7
+    ],
+    [
+      "HELLBREAK",
+      "Arena & roguelite FPS",
+      7
+    ],
+    [
+      "Vampire Hunters",
+      "Arena & roguelite FPS",
+      8,
+      2206270
+    ],
+    [
+      "Bloodshed",
+      "Arena & roguelite FPS",
+      8,
+      2747550
+    ],
+    [
+      "DEAD TRASH",
+      "Horror & occult FPS",
+      8,
+      3316470
+    ],
+    [
+      "MALEDICTOR",
+      "Horror & occult FPS",
+      7,
+      2723250
+    ]
+  ],
+  "notes": "Discovery candidates, not automatically endorsed. Resolve each exact official Steam identity, separate upcoming titles, retain prior records by stable ID, and review reception before publication. Non-Steam games are maintained separately with explicit official sources.",
+  "dispositions": [
+    {
+      "candidate": "Shrine",
+      "state": "resolved-external",
+      "id": "external:shrine",
+      "reason": "Official free standalone creator release on itch.io."
+    },
+    {
+      "candidate": "Blood: Fresh Supply",
+      "state": "archival-edition",
+      "replacement": "Blood: Refreshed Supply",
+      "reason": "Older store edition was removed from sale; do not advertise it as a currently purchasable new recommendation. Existing owners can still use compatible Blood mods.",
+      "source": "https://store.steampowered.com/app/3884520/"
+    }
+  ]
 }

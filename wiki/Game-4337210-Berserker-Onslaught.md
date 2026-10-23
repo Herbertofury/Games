@@ -2,7 +2,7 @@
 
 ![Berserker Onslaught official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337210/ddd1a0b9a41d28bde8b7e8f1df7b43771355c74e/header.jpg?t=1779346601)
 
-**[Steam store](https://store.steampowered.com/app/4337210/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A4337210)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/4337210/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A4337210)** · [Roguelites](Roguelites)
 
 "Berserker Onslaught" is an action roguelike infused with survival and loot-hunting elements. Face relentless waves of monsters, harness the blessings of the gods to strengthen yourself, repel evil forces, and return with bountiful rewards.
 
@@ -10,17 +10,23 @@
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | 64.2% |
-| Review count | 394 |
-| Steam release date | May 20, 2026 |
-| Status | Released |
-| Developers | Team Kernel |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 64.2% / 394 Steam reviews |
+| Release | May 20, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Team Kernel |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/4337210/)
 
 ## Official media
 
-- [Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/4337210/481608377/5e4f125ae03479717ec274ecc03f0fbca326a666/1778153795/hls_264_master.m3u8?t=1778294402)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/4337210/481608377/5e4f125ae03479717ec274ecc03f0fbca326a666/1778153795/hls_264_master.m3u8?t=1778294402)
 
 ![Berserker Onslaught official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337210/eb7bcd76e8d45a1cb68cd54ce8cc102f6ec4bb4d/ss_eb7bcd76e8d45a1cb68cd54ce8cc102f6ec4bb4d.1920x1080.jpg?t=1779346601)
 
@@ -50,6 +56,10 @@
 
 ![Berserker Onslaught official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337210/83c8d1323c94982126dd571284aed0af38bb7b48/ss_83c8d1323c94982126dd571284aed0af38bb7b48.1920x1080.jpg?t=1779346601)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/4337210/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=4337210&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A4337210%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

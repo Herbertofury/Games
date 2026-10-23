@@ -2,7 +2,7 @@
 
 ![TerraTech Legion official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/1478a3b3ffb23c415b31c1323dc2079df1ce6e9f/header.jpg?t=1782372678)
 
-**[Steam store](https://store.steampowered.com/app/3596700/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3596700)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3596700/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3596700)** · [Roguelites](Roguelites)
 
 TerraTech Legion, a chaotic Bullet Heaven Builder. Build the ultimate battle vehicle block by block and survive waves of robotic foes, ramming them at speed and shooting infinite projectiles.
 
@@ -10,18 +10,25 @@ TerraTech Legion, a chaotic Bullet Heaven Builder. Build the ultimate battle veh
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 7/10 |
-| Steam positive reviews | 81.9% |
-| Review count | 2,227 |
-| Steam release date | Apr 30, 2026 |
-| Status | Released |
-| Developers | Payload Studios |
-| US price snapshot | $7.69 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 81.9% / 2,227 Steam reviews |
+| Release | Apr 30, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Payload Studios |
+| Price snapshot | $7.69 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3596700/)
 
 ## Official media
 
-- [TerraTech Legion \| Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3596700/149596689/048d7a73439570fb0038d503e407a647763e8a80/1777412635/hls_264_master.m3u8?t=1777568490)
-- [TerraTech Legion \| Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3596700/292058684/df217d589fedecb07e50eb07974b65b09e7d424b/1776187862/hls_264_master.m3u8?t=1776257963)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[TerraTech Legion \| Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3596700/149596689/048d7a73439570fb0038d503e407a647763e8a80/1777412635/hls_264_master.m3u8?t=1777568490)
+
+[TerraTech Legion \| Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3596700/292058684/df217d589fedecb07e50eb07974b65b09e7d424b/1776187862/hls_264_master.m3u8?t=1776257963)
 
 ![TerraTech Legion official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/a059b29d8cf6cfdbe034d9a28debecef044e59a2/ss_a059b29d8cf6cfdbe034d9a28debecef044e59a2.1920x1080.jpg?t=1782372678)
 
@@ -45,6 +52,10 @@ TerraTech Legion, a chaotic Bullet Heaven Builder. Build the ultimate battle veh
 
 ![TerraTech Legion official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/2a77cdbea4a10a867e99194b24187670a6b23da7/ss_2a77cdbea4a10a867e99194b24187670a6b23da7.1920x1080.jpg?t=1782372678)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3596700/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3596700&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3596700%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

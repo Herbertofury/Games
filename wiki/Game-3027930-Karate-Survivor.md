@@ -2,7 +2,7 @@
 
 ![Karate Survivor official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/header.jpg?t=1780556996)
 
-**[Steam store](https://store.steampowered.com/app/3027930/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3027930)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3027930/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3027930)** · [Roguelites](Roguelites)
 
 Become a martial arts master in this survivor-like roguelite inspired by action movies of the ‘80s. Use your fists, feet, and the environment to fight off relentless thugs. Master powerful combos, enhance your skills, and remember: everything around you is a weapon!
 
@@ -10,18 +10,25 @@ Become a martial arts master in this survivor-like roguelite inspired by action 
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 8/10 |
-| Steam positive reviews | 85.0% |
-| Review count | 3,437 |
-| Steam release date | Oct 30, 2024 |
-| Status | Released |
-| Developers | Alawar |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 85.0% / 3,437 Steam reviews |
+| Release | Oct 30, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Alawar |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3027930/)
 
 ## Official media
 
-- [Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3027930/778883/2ea517da8eb8e1f31e7525a037467d7d83654b00/1750823058/hls_264_master.m3u8?t=1736500546)
-- [Endless Mode Update](https://video.akamai.steamstatic.com/store_trailers/3027930/801770/56216c3a3148b276b6d4c5c4d43464f3c545e400/1750823059/hls_264_master.m3u8?t=1736500551)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3027930/778883/2ea517da8eb8e1f31e7525a037467d7d83654b00/1750823058/hls_264_master.m3u8?t=1736500546)
+
+[Endless Mode Update](https://video.akamai.steamstatic.com/store_trailers/3027930/801770/56216c3a3148b276b6d4c5c4d43464f3c545e400/1750823059/hls_264_master.m3u8?t=1736500551)
 
 ![Karate Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_7e0f0b5e80bbeb326b96467ca8700d20bdfcc530.1920x1080.jpg?t=1780556996)
 
@@ -55,6 +62,10 @@ Become a martial arts master in this survivor-like roguelite inspired by action 
 
 ![Karate Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_b4ea9ddac55f496020d245a97cacd5a2fc8029cf.1920x1080.jpg?t=1780556996)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3027930/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3027930&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3027930%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

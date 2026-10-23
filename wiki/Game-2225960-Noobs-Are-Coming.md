@@ -2,7 +2,7 @@
 
 ![Noobs Are Coming official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225960/425f6fbdcab44710187348f88bf9a7ccf16ee193/header.jpg?t=1764945460)
 
-**[Steam store](https://store.steampowered.com/app/2225960/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2225960)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2225960/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2225960)** · [Roguelites](Roguelites)
 
 YOU ARE THE FINAL BOSS. Brutal synergy arena roguelike. Pick your Final Boss character, equip boss patterns and combine tons of attacks to create unique builds. Play solo or in co-op!
 
@@ -10,18 +10,25 @@ YOU ARE THE FINAL BOSS. Brutal synergy arena roguelike. Pick your Final Boss cha
 |:--|:--|
 | Collection | Bullet heaven |
 | Recommendation | 9/10 |
-| Steam positive reviews | 81.7% |
-| Review count | 1,630 |
-| Steam release date | Nov 27, 2025 |
-| Status | Released |
-| Developers | Overboy |
-| US price snapshot | $7.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 81.7% / 1,630 Steam reviews |
+| Release | Nov 27, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Overboy |
+| Price snapshot | $7.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2225960/)
 
 ## Official media
 
-- [1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2225960/1869444252/f095612844b1b638a5a5613915f6576d8363eb05/1764251182/hls_264_master.m3u8?t=1764252102)
-- [1.0 Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2225960/33369985/38af6b24a270981ea196bbfb4c7a2faac7c83fef/1764237925/hls_264_master.m3u8?t=1764252104)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2225960/1869444252/f095612844b1b638a5a5613915f6576d8363eb05/1764251182/hls_264_master.m3u8?t=1764252102)
+
+[1.0 Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2225960/33369985/38af6b24a270981ea196bbfb4c7a2faac7c83fef/1764237925/hls_264_master.m3u8?t=1764252104)
 
 ![Noobs Are Coming official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225960/e12698442607bb12e91f1ab6f2293f83b1e74a20/ss_e12698442607bb12e91f1ab6f2293f83b1e74a20.1920x1080.jpg?t=1764945460)
 
@@ -43,6 +50,10 @@ YOU ARE THE FINAL BOSS. Brutal synergy arena roguelike. Pick your Final Boss cha
 
 ![Noobs Are Coming official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225960/ed84998c4ae3eebbc76ae048969f22ba5155ccf1/ss_ed84998c4ae3eebbc76ae048969f22ba5155ccf1.1920x1080.jpg?t=1764945460)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2225960/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2225960&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2225960%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

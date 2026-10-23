@@ -2,7 +2,7 @@
 
 ![Soulstone Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066020/5ad29fb819dc6d01f1b239f4b9058b0c0cc445f8/header_alt_assets_2.jpg?t=1789657097)
 
-**[Steam store](https://store.steampowered.com/app/2066020/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2066020)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2066020/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2066020)** · [Roguelites](Roguelites)
 
 Face the Lords of the Void and their endless minions, collect their Soulstones and become a god! In this Action Roguelite, unveil secret spells, craft mighty weapons, unlock multiple characters, discover game-breaking synergies and conquer the power of the void.
 
@@ -10,18 +10,25 @@ Face the Lords of the Void and their endless minions, collect their Soulstones a
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 10/10 |
-| Steam positive reviews | 91.3% |
-| Review count | 26,939 |
-| Steam release date | Jun 17, 2025 |
-| Status | Released |
-| Developers | Game Smithing Limited |
-| US price snapshot | $10.49 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 91.3% / 26,939 Steam reviews |
+| Release | Jun 17, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Game Smithing Limited |
+| Price snapshot | $10.49 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2066020/)
 
 ## Official media
 
-- [Release trailer](https://video.akamai.steamstatic.com/store_trailers/2066020/1251042005/75aabaf128455da953155cbf7f4321d04afa858a/1750111517/hls_264_master.m3u8?t=1750179199)
-- [Announcement trailer](https://video.akamai.steamstatic.com/store_trailers/2066020/857656/db089c16e4d2b75eb070e7e26d57d3e18154a191/1750316241/hls_264_master.m3u8?t=1750179202)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Release trailer](https://video.akamai.steamstatic.com/store_trailers/2066020/1251042005/75aabaf128455da953155cbf7f4321d04afa858a/1750111517/hls_264_master.m3u8?t=1750179199)
+
+[Announcement trailer](https://video.akamai.steamstatic.com/store_trailers/2066020/857656/db089c16e4d2b75eb070e7e26d57d3e18154a191/1750316241/hls_264_master.m3u8?t=1750179202)
 
 ![Soulstone Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066020/cb5ddb50488c2444357758cada3e463f32dade2a/ss_cb5ddb50488c2444357758cada3e463f32dade2a.1920x1080.jpg?t=1789657097)
 
@@ -43,6 +50,10 @@ Face the Lords of the Void and their endless minions, collect their Soulstones a
 
 ![Soulstone Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066020/586cce12c95b647227f7c5b7229eaab07ec2b601/ss_586cce12c95b647227f7c5b7229eaab07ec2b601.1920x1080.jpg?t=1789657097)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2066020/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2066020&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2066020%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

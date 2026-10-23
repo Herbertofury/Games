@@ -2,7 +2,7 @@
 
 ![Tiny Rogues official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/header.jpg?t=1788537523)
 
-**[Steam store](https://store.steampowered.com/app/2088570/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2088570)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2088570/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2088570)** · [Roguelites](Roguelites)
 
 Tiny Rogues is a challenging fantasy rogue-lite bullet-hell dungeon crawler with rpg elements. Build a new unique character each run and fight one monster-infested room after another! Discover unique weapons, collect magical items and level up to become more and more powerful!
 
@@ -10,18 +10,25 @@ Tiny Rogues is a challenging fantasy rogue-lite bullet-hell dungeon crawler with
 |:--|:--|
 | Collection | Action roguelites |
 | Recommendation | 10/10 |
-| Steam positive reviews | 96.0% |
-| Review count | 10,814 |
-| Steam release date | Sep 23, 2022 |
-| Status | Early Access |
-| Developers | RubyDev |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 96.0% / 10,814 Steam reviews |
+| Release | Sep 23, 2022 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | RubyDev |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2088570/)
 
 ## Official media
 
-- [Tiny Rogues Expansion](https://video.akamai.steamstatic.com/store_trailers/2088570/643402/bc0f63bae1d1db8138cb00cffabd781016b14784/1750746317/hls_264_master.m3u8?t=1703258565)
-- [Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2088570/493306/b6f015d04e0ff06516e4ff1aae6794343594ca2d/1750746316/hls_264_master.m3u8?t=1662448012)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Tiny Rogues Expansion](https://video.akamai.steamstatic.com/store_trailers/2088570/643402/bc0f63bae1d1db8138cb00cffabd781016b14784/1750746317/hls_264_master.m3u8?t=1703258565)
+
+[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2088570/493306/b6f015d04e0ff06516e4ff1aae6794343594ca2d/1750746316/hls_264_master.m3u8?t=1662448012)
 
 ![Tiny Rogues official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/ss_7c92a16dc0b0b57c960cef58bd9d3df97a783a6e.1920x1080.jpg?t=1788537523)
 
@@ -39,6 +46,10 @@ Tiny Rogues is a challenging fantasy rogue-lite bullet-hell dungeon crawler with
 
 ![Tiny Rogues official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/ss_920baef15de62ce60a1636f88874f7ea048b9ab0.1920x1080.jpg?t=1788537523)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2088570/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2088570&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2088570%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

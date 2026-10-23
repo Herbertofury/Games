@@ -2,7 +2,7 @@
 
 ![Deadly Days: Roadtrip official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026450/4607b9f5ab54699d649a3d4d82a0679c5f8e53ad/header.jpg?t=1792653600)
 
-**[Steam store](https://store.steampowered.com/app/3026450/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3026450)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3026450/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3026450)** · [Roguelites](Roguelites)
 
 Loot, shoot, and mow down zombie hordes in this bullet heaven fever dream. Hit the road, decide when to extract, organize your backpack into game-breaking builds – and get that sweet inventory management kick when new loot fits just right.
 
@@ -10,18 +10,25 @@ Loot, shoot, and mow down zombie hordes in this bullet heaven fever dream. Hit t
 |:--|:--|
 | Collection | Zombies & horror |
 | Recommendation | 8/10 |
-| Steam positive reviews | 87.7% |
-| Review count | 3,074 |
-| Steam release date | Sep 22, 2025 |
-| Status | Early Access |
-| Developers | Pixelsplit |
-| US price snapshot | $14.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 87.7% / 3,074 Steam reviews |
+| Release | Sep 22, 2025 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Pixelsplit |
+| Price snapshot | $14.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3026450/)
 
 ## Official media
 
-- [Deadly Days: Roadtrip - Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3026450/169435461/7b3ac9cb835b1da93c998769b605f175526ff0f6/1758472872/hls_264_master.m3u8?t=1758545785)
-- [2025-03 Trailer](https://video.akamai.steamstatic.com/store_trailers/3026450/858986/42e0c13d8ef2a6526e35365db9dbbcb1bc65f705/1750959001/hls_264_master.m3u8?t=1748257244)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Deadly Days: Roadtrip - Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3026450/169435461/7b3ac9cb835b1da93c998769b605f175526ff0f6/1758472872/hls_264_master.m3u8?t=1758545785)
+
+[2025-03 Trailer](https://video.akamai.steamstatic.com/store_trailers/3026450/858986/42e0c13d8ef2a6526e35365db9dbbcb1bc65f705/1750959001/hls_264_master.m3u8?t=1748257244)
 
 ![Deadly Days: Roadtrip official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026450/4469422e7be3a06c7dc39ec10369ca85c8d9063c/ss_4469422e7be3a06c7dc39ec10369ca85c8d9063c.1920x1080.jpg?t=1792653600)
 
@@ -51,6 +58,10 @@ Loot, shoot, and mow down zombie hordes in this bullet heaven fever dream. Hit t
 
 ![Deadly Days: Roadtrip official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026450/ea0dd211cf73b1aaae8934fb46cf2bc91d6e58c4/ss_ea0dd211cf73b1aaae8934fb46cf2bc91d6e58c4.1920x1080.jpg?t=1792653600)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3026450/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3026450&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3026450%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

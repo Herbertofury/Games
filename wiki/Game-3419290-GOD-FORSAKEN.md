@@ -2,7 +2,7 @@
 
 ![GOD FORSAKEN official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419290/header.jpg?t=1770361739)
 
-**[Steam store](https://store.steampowered.com/app/3419290/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3419290)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3419290/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3419290)** · [Roguelites](Roguelites)
 
 The God - Forsaken Land is a roguelike survival adventure game that combines the features of Diablo. In this abandoned land of despair, you fend off endless monsters, light a fire in the darkness, and search for that faint glimmer of hope.
 
@@ -10,17 +10,23 @@ The God - Forsaken Land is a roguelike survival adventure game that combines the
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | 67.2% |
-| Review count | 1,823 |
-| Steam release date | Feb 3, 2026 |
-| Status | Released |
-| Developers | insight studio |
-| US price snapshot | $6.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 67.2% / 1,823 Steam reviews |
+| Release | Feb 3, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | insight studio |
+| Price snapshot | $6.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3419290/)
 
 ## Official media
 
-- [PV](https://video.akamai.steamstatic.com/store_trailers/3419290/816897/8bb970e8a82f780978660c5e6538b775acd777ac/1750849127/hls_264_master.m3u8?t=1740040906)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[PV](https://video.akamai.steamstatic.com/store_trailers/3419290/816897/8bb970e8a82f780978660c5e6538b775acd777ac/1750849127/hls_264_master.m3u8?t=1740040906)
 
 ![GOD FORSAKEN official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419290/ss_69fd0c424f5eabd04d56ff6fa57c334e19f42875.1920x1080.jpg?t=1770361739)
 
@@ -46,6 +52,10 @@ The God - Forsaken Land is a roguelike survival adventure game that combines the
 
 ![GOD FORSAKEN official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419290/ss_1f2f57674d1ad5db5648f06231ffa7c6d47dca46.1920x1080.jpg?t=1770361739)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3419290/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3419290&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3419290%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

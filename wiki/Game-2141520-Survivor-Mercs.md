@@ -2,7 +2,7 @@
 
 ![Survivor Mercs official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141520/header.jpg?t=1785195652)
 
-**[Steam store](https://store.steampowered.com/app/2141520/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2141520)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2141520/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2141520)** · [Roguelites](Roguelites)
 
 Purge the billionaires' robot army with your Merc squad! Fast-paced twin-stick action, frantic horde survival, tactical squad-building & tons of loot! Exploit game-breaking synergies to beat the M.E.G.A. Corp. bosses in ever-changing operations. Lock, load, and loot, Commander!
 
@@ -10,17 +10,23 @@ Purge the billionaires' robot army with your Merc squad! Fast-paced twin-stick a
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 7/10 |
-| Steam positive reviews | 73.9% |
-| Review count | 176 |
-| Steam release date | Apr 30, 2026 |
-| Status | Released |
-| Developers | Wolpertinger Games |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 73.9% / 176 Steam reviews |
+| Release | Apr 30, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Wolpertinger Games |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2141520/)
 
 ## Official media
 
-- [Survivor Mercs V1.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/2141520/630502196/3ca68a8bd76054228626f4e1cfeb9e07ca460e98/1777318019/hls_264_master.m3u8?t=1777567958)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Survivor Mercs V1.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/2141520/630502196/3ca68a8bd76054228626f4e1cfeb9e07ca460e98/1777318019/hls_264_master.m3u8?t=1777567958)
 
 ![Survivor Mercs official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141520/46c90a00a8a134c503744a45cfefa183e3eeb3ef/ss_46c90a00a8a134c503744a45cfefa183e3eeb3ef.1920x1080.jpg?t=1785195652)
 
@@ -52,6 +58,10 @@ Purge the billionaires' robot army with your Merc squad! Fast-paced twin-stick a
 
 ![Survivor Mercs official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141520/e7a989c5d49dcc0a5e791b011165bf84767a6d96/ss_e7a989c5d49dcc0a5e791b011165bf84767a6d96.1920x1080.jpg?t=1785195652)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2141520/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2141520&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2141520%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -2,7 +2,7 @@
 
 ![20 Minutes Till Dawn official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966900/header.jpg?t=1785102761)
 
-**[Steam store](https://store.steampowered.com/app/1966900/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A1966900)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1966900/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1966900)** · [Roguelites](Roguelites)
 
 20 Minutes Till Dawn is a survival roguelite where endless hordes of creatures lurk from the dark. Craft an array of overpowering builds and eradicate waves of Lovecraftian nightmares. Will you be able to survive the night?
 
@@ -10,19 +10,27 @@
 |:--|:--|
 | Collection | Zombies & horror |
 | Recommendation | 9/10 |
-| Steam positive reviews | 90.2% |
-| Review count | 29,196 |
-| Steam release date | Jun 8, 2023 |
-| Status | Released |
-| Developers | flanne |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 90.2% / 29,196 Steam reviews |
+| Release | Jun 8, 2023 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | flanne |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/1966900/)
 
 ## Official media
 
-- [1.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/1966900/575943/359904ca0dbcbd808ac63b8bf25c37cbe63ac63b/1750743028/hls_264_master.m3u8?t=1686225627)
-- [Trailer 03](https://video.akamai.steamstatic.com/store_trailers/1966900/494657/c30f7272f4d3b4490ef0e88cff1e0246c02bf1c3/1750743026/hls_264_master.m3u8?t=1662706534)
-- [20MTD Trailer 01](https://video.akamai.steamstatic.com/store_trailers/1966900/468343/0b5f4421903e077d2693b936819f20f77ebb4569/1750743024/hls_264_master.m3u8?t=1663301197)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[1.0 Trailer](https://video.akamai.steamstatic.com/store_trailers/1966900/575943/359904ca0dbcbd808ac63b8bf25c37cbe63ac63b/1750743028/hls_264_master.m3u8?t=1686225627)
+
+[Trailer 03](https://video.akamai.steamstatic.com/store_trailers/1966900/494657/c30f7272f4d3b4490ef0e88cff1e0246c02bf1c3/1750743026/hls_264_master.m3u8?t=1662706534)
+
+[20MTD Trailer 01](https://video.akamai.steamstatic.com/store_trailers/1966900/468343/0b5f4421903e077d2693b936819f20f77ebb4569/1750743024/hls_264_master.m3u8?t=1663301197)
 
 ![20 Minutes Till Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966900/ss_0ee0797519f432d01614ff20027ccbf4568255b7.1920x1080.jpg?t=1785102761)
 
@@ -46,6 +54,10 @@
 
 ![20 Minutes Till Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966900/ss_3f37d8549730771edb65138436191cd111d00299.1920x1080.jpg?t=1785102761)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/1966900/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1966900&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1966900%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

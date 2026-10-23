@@ -2,7 +2,7 @@
 
 ![Achilles: Survivor official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2922410/3459a1e3b819679a11009b974187299590abdea6/header_alt_assets_1.jpg?t=1791467973)
 
-**[Steam store](https://store.steampowered.com/app/2922410/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2922410)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2922410/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2922410)** · [Roguelites](Roguelites)
 
 Thousands of enemies. One survivor. Fight like a demigod, build deadly defenses, and grow stronger after every run in this fast-paced bullet heaven set in mythic Greece.
 
@@ -10,19 +10,27 @@ Thousands of enemies. One survivor. Fight like a demigod, build deadly defenses,
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 8/10 |
-| Steam positive reviews | 82.0% |
-| Review count | 1,726 |
-| Steam release date | Jul 29, 2025 |
-| Status | Released |
-| Developers | Dark Point Games |
-| US price snapshot | $8.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 82.0% / 1,726 Steam reviews |
+| Release | Jul 29, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Dark Point Games |
+| Price snapshot | $8.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2922410/)
 
 ## Official media
 
-- [Achilles: Survivor \| Full release - announcement trailer](https://video.akamai.steamstatic.com/store_trailers/2922410/28747768/f10b3e4b8576b607254b44637a04d2eca481c50a/1752484555/hls_264_master.m3u8?t=1752495174)
-- [Achilles: Survivor \| Gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/2922410/695006936/b384ac19112e10dce5999dad955e87c46d9135ef/1752486957/hls_264_master.m3u8?t=1752495176)
-- [Date Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2922410/813249/fe7d1a5b6232add33b797b47736b7608419c99ae/1750821477/hls_264_master.m3u8?t=1752495179)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Achilles: Survivor \| Full release - announcement trailer](https://video.akamai.steamstatic.com/store_trailers/2922410/28747768/f10b3e4b8576b607254b44637a04d2eca481c50a/1752484555/hls_264_master.m3u8?t=1752495174)
+
+[Achilles: Survivor \| Gameplay trailer](https://video.akamai.steamstatic.com/store_trailers/2922410/695006936/b384ac19112e10dce5999dad955e87c46d9135ef/1752486957/hls_264_master.m3u8?t=1752495176)
+
+[Date Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2922410/813249/fe7d1a5b6232add33b797b47736b7608419c99ae/1750821477/hls_264_master.m3u8?t=1752495179)
 
 ![Achilles: Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2922410/7ef90540f1e16df36f53d4bd493aa9c68e32206d/ss_7ef90540f1e16df36f53d4bd493aa9c68e32206d.1920x1080.jpg?t=1791467973)
 
@@ -46,6 +54,10 @@ Thousands of enemies. One survivor. Fight like a demigod, build deadly defenses,
 
 ![Achilles: Survivor official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2922410/ss_248f37632a3005bac5f7527a4a82d457bc559231.1920x1080.jpg?t=1791467973)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2922410/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2922410&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2922410%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

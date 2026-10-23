@@ -2,7 +2,7 @@
 
 ![Twilight Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2788310/header.jpg?t=1733211779)
 
-**[Steam store](https://store.steampowered.com/app/2788310/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2788310)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2788310/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2788310)** · [Roguelites](Roguelites)
 
 A time-limited survival game infused with rogue-lite elements and an adorable art style! The world has plunged into darkness, and you are its sole beacon of hope. Will you endure until dawn, or succumb to repeated deaths in your quest? Fear not, for you can collect more coins to arm yourself!
 
@@ -10,17 +10,23 @@ A time-limited survival game infused with rogue-lite elements and an adorable ar
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 8/10 |
-| Steam positive reviews | 89.0% |
-| Review count | 1,111 |
-| Steam release date | Apr 1, 2024 |
-| Status | Released |
-| Developers | DORIDORI STUDIO |
-| US price snapshot | $2.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 89.0% / 1,111 Steam reviews |
+| Release | Apr 1, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | DORIDORI STUDIO |
+| Price snapshot | $2.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2788310/)
 
 ## Official media
 
-- [PV](https://video.akamai.steamstatic.com/store_trailers/2788310/664887/0d40ed40d7252538b2f9b0aad5a8831c67e2143d/1750900091/hls_264_master.m3u8?t=1708655798)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[PV](https://video.akamai.steamstatic.com/store_trailers/2788310/664887/0d40ed40d7252538b2f9b0aad5a8831c67e2143d/1750900091/hls_264_master.m3u8?t=1708655798)
 
 ![Twilight Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2788310/ss_a18acf4220665d7484252cbbc46a35fe33c9f97e.1920x1080.jpg?t=1733211779)
 
@@ -34,6 +40,10 @@ A time-limited survival game infused with rogue-lite elements and an adorable ar
 
 ![Twilight Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2788310/ss_122a1ecacdb2ed17121466121136aafaa4142f6b.1920x1080.jpg?t=1733211779)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2788310/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2788310&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2788310%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

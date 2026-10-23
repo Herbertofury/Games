@@ -2,7 +2,7 @@
 
 ![Vital Shell official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3741860/5b034ea593e8c59b4a9fc34d415397eb02cb38f6/header.jpg?t=1790608345)
 
-**[Steam store](https://store.steampowered.com/app/3741860/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3741860)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3741860/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3741860)** · [Roguelites](Roguelites)
 
 Vital Shell is a single player top-down arena shooter that puts you in control of mechs inspired by classic fantasy archetypes. Unlock powerful synergies with unique weapons, traits, and abilities as you take on increasingly challenging waves of enemies in a shattered realm.
 
@@ -10,18 +10,25 @@ Vital Shell is a single player top-down arena shooter that puts you in control o
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 8/10 |
-| Steam positive reviews | 96.8% |
-| Review count | 1,869 |
-| Steam release date | Jan 7, 2026 |
-| Status | Released |
-| Developers | MarvinWizard |
-| US price snapshot | $4.79 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 96.8% / 1,869 Steam reviews |
+| Release | Jan 7, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | MarvinWizard |
+| Price snapshot | $4.79 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3741860/)
 
 ## Official media
 
-- [Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3741860/651127005/63dcd5a57aed312b5321c4b989f4e57a5c4c277c/1767820849/hls_264_master.m3u8?t=1767822620)
-- [Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/3741860/1533566610/b60a45fb333920301428bc8a5df304012aa40808/1752325132/hls_264_master.m3u8?t=1752326590)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3741860/651127005/63dcd5a57aed312b5321c4b989f4e57a5c4c277c/1767820849/hls_264_master.m3u8?t=1767822620)
+
+[Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/3741860/1533566610/b60a45fb333920301428bc8a5df304012aa40808/1752325132/hls_264_master.m3u8?t=1752326590)
 
 ![Vital Shell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3741860/15a72f8a9fb708e82004c691e49f89a85d08bddb/ss_15a72f8a9fb708e82004c691e49f89a85d08bddb.1920x1080.jpg?t=1790608345)
 
@@ -35,6 +42,10 @@ Vital Shell is a single player top-down arena shooter that puts you in control o
 
 ![Vital Shell official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3741860/ffd59e92674ef70b3a9cbfe47b3239d25edb443e/ss_ffd59e92674ef70b3a9cbfe47b3239d25edb443e.1920x1080.jpg?t=1790608345)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3741860/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3741860&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3741860%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -2,7 +2,7 @@
 
 ![Her Name Was Fire official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083840/header.jpg?t=1779651236)
 
-**[Steam store](https://store.steampowered.com/app/2083840/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2083840)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2083840/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2083840)** · [Roguelites](Roguelites)
 
 Her Name Was Fire is a Tarotpunk twin stick roguelike where you progressively unlock spells and upgrades to defeat hordes of void creatures. Survive the 5 stages of grief and vanquish the Major Allegories.
 
@@ -10,17 +10,23 @@ Her Name Was Fire is a Tarotpunk twin stick roguelike where you progressively un
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 72.7% |
-| Review count | 297 |
-| Steam release date | Oct 11, 2022 |
-| Status | Released |
-| Developers | Tissue Inu |
-| US price snapshot | $3.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 72.7% / 297 Steam reviews |
+| Release | Oct 11, 2022 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Tissue Inu |
+| Price snapshot | $3.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2083840/)
 
 ## Official media
 
-- [Trailer](https://video.akamai.steamstatic.com/store_trailers/2083840/492632/b8a086e288ee257dc18a3f6becc1ce4029576326/1751073377/hls_264_master.m3u8?t=1662016111)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Trailer](https://video.akamai.steamstatic.com/store_trailers/2083840/492632/b8a086e288ee257dc18a3f6becc1ce4029576326/1751073377/hls_264_master.m3u8?t=1662016111)
 
 ![Her Name Was Fire official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083840/ss_b0e1fabb1608dcc5e85a960ed5a4a3575dda5a7f.1920x1080.jpg?t=1779651236)
 
@@ -60,6 +66,10 @@ Her Name Was Fire is a Tarotpunk twin stick roguelike where you progressively un
 
 ![Her Name Was Fire official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083840/ss_67b74805f532bd458441290fc7196f73504bb35d.1920x1080.jpg?t=1779651236)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2083840/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2083840&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2083840%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

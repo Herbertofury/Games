@@ -2,7 +2,7 @@
 
 ![Survivors of the Dawn official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/header.jpg?t=1765396692)
 
-**[Steam store](https://store.steampowered.com/app/2285630/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2285630)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2285630/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2285630)** · [Roguelites](Roguelites)
 
 A roguelite horde-survival bullet heaven with QUINTILLIONS of bullets over QUINTILLIONS of hordes. Mix weapons with items, modify, control chaos at terminals and break through tightening waves.
 
@@ -10,19 +10,27 @@ A roguelite horde-survival bullet heaven with QUINTILLIONS of bullets over QUINT
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 7/10 |
-| Steam positive reviews | 74.1% |
-| Review count | 777 |
-| Steam release date | Nov 6, 2023 |
-| Status | Early Access |
-| Developers | indieGiant |
-| US price snapshot | $7.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 74.1% / 777 Steam reviews |
+| Release | Nov 6, 2023 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | indieGiant |
+| Price snapshot | $7.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2285630/)
 
 ## Official media
 
-- [Survivors of the Dawn](https://video.akamai.steamstatic.com/store_trailers/2285630/782398/c3ae23b8d6a5f71d366af111d7e11089a46824f3/1750981843/hls_264_master.m3u8?t=1730963346)
-- [Survivors of the Dawn](https://video.akamai.steamstatic.com/store_trailers/2285630/625464/6aee8a09a4bd036143d248256a8a1e744ab25edc/1750981837/hls_264_master.m3u8?t=1699007519)
-- [BLEUMER Update](https://video.akamai.steamstatic.com/store_trailers/2285630/700696/f16cca368efe9a5940e51e9a361fac87171a586e/1750981841/hls_264_master.m3u8?t=1718917181)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Survivors of the Dawn](https://video.akamai.steamstatic.com/store_trailers/2285630/782398/c3ae23b8d6a5f71d366af111d7e11089a46824f3/1750981843/hls_264_master.m3u8?t=1730963346)
+
+[Survivors of the Dawn](https://video.akamai.steamstatic.com/store_trailers/2285630/625464/6aee8a09a4bd036143d248256a8a1e744ab25edc/1750981837/hls_264_master.m3u8?t=1699007519)
+
+[BLEUMER Update](https://video.akamai.steamstatic.com/store_trailers/2285630/700696/f16cca368efe9a5940e51e9a361fac87171a586e/1750981841/hls_264_master.m3u8?t=1718917181)
 
 ![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_80a6a15548d601dd2f791ef98918438a1d15ce83.1920x1080.jpg?t=1765396692)
 
@@ -48,6 +56,10 @@ A roguelite horde-survival bullet heaven with QUINTILLIONS of bullets over QUINT
 
 ![Survivors of the Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285630/ss_c6b3fa8e32256316cc59d48fc36da2a10db8c959.1920x1080.jpg?t=1765396692)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2285630/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2285630&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2285630%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

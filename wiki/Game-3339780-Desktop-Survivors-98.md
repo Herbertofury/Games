@@ -2,7 +2,7 @@
 
 ![Desktop Survivors 98 official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339780/4484cf3a01e26ab0227ababd0e7c57e35d123552/header.jpg?t=1747755040)
 
-**[Steam store](https://store.steampowered.com/app/3339780/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3339780)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3339780/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3339780)** · [Roguelites](Roguelites)
 
 Desktop Survivors 98 is a chaotic roguelite dungeon crawler that unfolds right on your Desktop. Your cursor becomes the hero as you explore new rooms, battle relentless waves of enemies, and collect powerful new weapons.
 
@@ -10,18 +10,25 @@ Desktop Survivors 98 is a chaotic roguelite dungeon crawler that unfolds right o
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 7/10 |
-| Steam positive reviews | 95.2% |
-| Review count | 1,425 |
-| Steam release date | May 20, 2025 |
-| Status | Released |
-| Developers | Brandon Hesslau |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 95.2% / 1,425 Steam reviews |
+| Release | May 20, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Brandon Hesslau |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3339780/)
 
 ## Official media
 
-- [Desktop Survivors 98 - Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3339780/884129/2b34acf4b29fd705725cfa4c9f65dfe98e4d14bf/1750825665/hls_264_master.m3u8?t=1746367259)
-- [Desktop Survivors 98 - Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/3339780/782804/834bddfad6ecdff3343793f472a68586b0e7838a/1750825665/hls_264_master.m3u8?t=1734187105)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Desktop Survivors 98 - Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/3339780/884129/2b34acf4b29fd705725cfa4c9f65dfe98e4d14bf/1750825665/hls_264_master.m3u8?t=1746367259)
+
+[Desktop Survivors 98 - Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/3339780/782804/834bddfad6ecdff3343793f472a68586b0e7838a/1750825665/hls_264_master.m3u8?t=1734187105)
 
 ![Desktop Survivors 98 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339780/20bc014ef69cd54aa05e86f7ad58ee12f7c09748/ss_20bc014ef69cd54aa05e86f7ad58ee12f7c09748.1920x1080.jpg?t=1747755040)
 
@@ -45,6 +52,10 @@ Desktop Survivors 98 is a chaotic roguelite dungeon crawler that unfolds right o
 
 ![Desktop Survivors 98 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339780/60a191bd73ad4c08794e56369390f4e41a10d7e7/ss_60a191bd73ad4c08794e56369390f4e41a10d7e7.1920x1080.jpg?t=1747755040)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3339780/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3339780&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3339780%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

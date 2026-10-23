@@ -1,0 +1,81 @@
+"""Merge genre sources without replacing original identities or user-facing provenance."""
+import copy,csv,hashlib,json,pathlib,urllib.parse
+ROOT=pathlib.Path(__file__).resolve().parents[1]
+def load(path,default):
+    p=ROOT/path
+    return json.loads(p.read_text()) if p.exists() else default
+
+def score(g):
+    if g.get('verification')!='verified' or g.get('fit') is None:return None
+    n=int(g['fit']);r=g.get('rating');count=g.get('reviewCount',0)
+    if not g.get('steamUrl'):
+        return min(n,7) if g.get('confidence')=='Exploratory' else n
+    if count<30:n=min(n,7)
+    if r is not None and count>=30:
+        if r<50:n=min(n,5)
+        elif r<70:n=min(n,6)
+        elif r<80:n=min(n,7)
+    return n
+
+def game_key(g):
+    import re
+    ident=str(g['appid']) if g.get('appid') else g['id'].replace(':','-')
+    return 'Game-'+ident+'-'+re.sub('[^A-Za-z0-9]+','-',g['name']).strip('-')
+
+def primary(g):return g.get('primaryUrl') or g.get('steamUrl')
+def validate(g):
+    assert g.get('id') and g.get('name') and primary(g), 'Missing identity or project home'
+    u=urllib.parse.urlsplit(primary(g));assert u.scheme=='https' and u.netloc,'Unsafe project URL'
+    if g.get('steamUrl'):
+        assert g.get('appid') and g['steamUrl']==f"https://store.steampowered.com/app/{g['appid']}/",'Steam identity mismatch'
+    else:assert g['id'].startswith('external:'),'External games need stable provider-independent IDs'
+    for s in g.get('storefronts',[]):
+        u=urllib.parse.urlsplit(s['url']);assert u.scheme=='https' and u.netloc,'Unsafe storefront'
+    assert g.get('fit') is None or 1<=g['fit']<=10
+    assert g.get('rating') is None or 0<=g['rating']<=100
+
+def assemble(catalog):
+    baseids={r['appid'] for r in csv.DictReader((ROOT/'data/seeds.tsv').read_text().splitlines(),delimiter='\t')}
+    games={g['id']:copy.deepcopy(g) for g in catalog['items']}
+    for g in games.values():
+        if str(g.get('seedId')) in baseids or str(g.get('appid')) in baseids:
+            g['hubs']=list(dict.fromkeys(['Roguelites']+g.get('hubs',[])))
+        g.setdefault('primaryUrl',g.get('steamUrl'))
+        g.setdefault('provider','Steam' if g.get('steamUrl') else 'Official site')
+        g.setdefault('kind','Standalone game')
+        g.setdefault('collections',[g['collection']])
+        g.setdefault('storefronts',[{'provider':'Steam','url':g['steamUrl'],'kind':'store','verified':g.get('verification')=='verified','lastChecked':g.get('verifiedAt')}] if g.get('steamUrl') else [])
+    shooters=load('data/shooters-steam.json',{'items':[],'unresolved':[]})
+    external=load('data/shooters-external.json',{'items':[]})
+    for source in [shooters,external]:
+        for item in source['items']:
+            g=copy.deepcopy(item);g.setdefault('hubs',['Boomer shooters']);g.setdefault('collections',[g['collection']])
+            if g['id'] in games:
+                old=games[g['id']]
+                if 'Roguelites' in old.get('hubs',[]):
+                    old['hubs']=list(dict.fromkeys(old['hubs']+g['hubs']))
+                    old['collections']=list(dict.fromkeys(old['collections']+g['collections']))
+                    old['tags']=sorted(set(old.get('tags',[])+g.get('tags',[])))
+                    continue
+            games[g['id']]=g
+    overrides=load('data/shooters-curation.json',{'overrides':{}})
+    for ident,extra in overrides.get('overrides',{}).items():
+        if ident not in games:continue
+        g=games[ident]
+        for k,v in extra.items():
+            if k in ['storefronts','sources']:
+                g[k]=list({x['url']:x for x in g.get(k,[])+v}.values())
+            elif k=='tags':g[k]=sorted(set(g.get(k,[])+v))
+            else:g[k]=v
+    out=sorted(games.values(),key=lambda g:g['name'].casefold())
+    for g in out:validate(g)
+    assert len({g['id'] for g in out})==len(out),'Duplicate game identities'
+    assert len([g for g in out if 'Roguelites' in g.get('hubs',[])])>=len(baseids),'Original recommendations lost'
+    c=copy.deepcopy(catalog);c['items']=out
+    dates=[x for x in [c.get('generatedAt'),shooters.get('generatedAt'),external.get('generatedAt')] if x]
+    c['generatedAt']=max(dates) if dates else None
+    c['sources']=[{'provider':'Steam','kind':'canonical-facts','description':'Official metadata and all-language review totals.'},{'provider':'Creator and community hosts','kind':'curated-facts','description':'Exact creator pages, download records, and dated developer updates. Support links are not licenses.'}]
+    b=c.setdefault('build',{});b.update(generator='games-catalog/1.1.0',inputCount=len(out),verifiedCount=sum(g.get('verification')=='verified' for g in out),unresolvedCount=sum(g.get('verification')!='verified' for g in out),candidateUnresolved=shooters.get('unresolved',[]),mediaCount=sum(bool(g.get('image'))+len(g.get('screenshots',[]))+len(g.get('trailers',[])) for g in out))
+    b['hubCounts']={hub:sum(hub in g.get('hubs',[]) for g in out) for hub in sorted({h for g in out for h in g.get('hubs',[])})}
+    b['datasetHash']=hashlib.sha256(json.dumps(out,sort_keys=True,ensure_ascii=False).encode()).hexdigest()
+    return c

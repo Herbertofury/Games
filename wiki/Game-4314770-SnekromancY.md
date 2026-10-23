@@ -2,7 +2,7 @@
 
 ![SnekromancY official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314770/d9080c4a5ef1d87e919b0c163de704a47560450a/header.jpg?t=1785598198)
 
-**[Steam store](https://store.steampowered.com/app/4314770/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A4314770)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/4314770/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A4314770)** · [Roguelites](Roguelites)
 
 Slither, devour, and raise an undead army in a snake-meets-bullet-heaven action roguelite. Stack minions and unique relics, survive massive hordes, and conquer procedurally generated dungeons.
 
@@ -10,19 +10,25 @@ Slither, devour, and raise an undead army in a snake-meets-bullet-heaven action 
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 91.7% |
-| Review count | 24 |
-| Steam release date | Jul 29, 2026 |
-| Status | Released |
-| Developers | Final Screw |
-| US price snapshot | $5.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 91.7% / 24 Steam reviews |
+| Release | Jul 29, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Final Screw |
+| Price snapshot | $5.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/4314770/)
+
+> Small review sample
 
 ## Official media
 
-- [Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/4314770/823827205/caffc48c7c3d7eb1c1ce2461ee29a1632d3765c0/1780911447/hls_264_master.m3u8?t=1784201205)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/4314770/823827205/caffc48c7c3d7eb1c1ce2461ee29a1632d3765c0/1780911447/hls_264_master.m3u8?t=1784201205)
 
 ![SnekromancY official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314770/25e1d226142aafc5d2176ebda128173c93a7ad1b/ss_25e1d226142aafc5d2176ebda128173c93a7ad1b.1920x1080.jpg?t=1785598198)
 
@@ -46,6 +52,10 @@ Slither, devour, and raise an undead army in a snake-meets-bullet-heaven action 
 
 ![SnekromancY official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314770/f94b31c85bbfaee03c5a57ac3fda96e9e8914000/ss_f94b31c85bbfaee03c5a57ac3fda96e9e8914000.1920x1080.jpg?t=1785598198)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/4314770/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=4314770&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A4314770%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

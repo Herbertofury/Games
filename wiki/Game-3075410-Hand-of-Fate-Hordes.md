@@ -2,7 +2,7 @@
 
 ![Hand of Fate: Hordes official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/c719b15e615e9c1d072c6a4f46e44f80a6ca024b/header.jpg?t=1792548358)
 
-**[Steam store](https://store.steampowered.com/app/3075410/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3075410)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3075410/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3075410)** · [Roguelites](Roguelites)
 
 Control powerful heroes and carve your way through dungeons, quests, and endless monsters and bosses. Grow your powers every run with new weapons and enchantments. Choose your cards wisely and thrive in chaos.
 
@@ -10,17 +10,23 @@ Control powerful heroes and carve your way through dungeons, quests, and endless
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 79.0% |
-| Review count | 367 |
-| Steam release date | Jul 22, 2026 |
-| Status | Early Access |
-| Developers | Spitfire Interactive |
-| US price snapshot | $11.99 |
-| Last verified | 2026-10-23T03:53:44.446117+00:00 |
+| Community reception | 79.0% / 367 Steam reviews |
+| Release | Jul 22, 2026 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Spitfire Interactive |
+| Price snapshot | $11.99 |
+| Verified | 2026-10-23T03:53:44.446117+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3075410/)
 
 ## Official media
 
-- [Early Access Trailer_GLB](https://video.akamai.steamstatic.com/store_trailers/3075410/1256331585/b98b1130572f7705b6b4976172d5e202aba86302/1787862202/hls_264_master.m3u8?t=1787865302)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Early Access Trailer_GLB](https://video.akamai.steamstatic.com/store_trailers/3075410/1256331585/b98b1130572f7705b6b4976172d5e202aba86302/1787862202/hls_264_master.m3u8?t=1787865302)
 
 ![Hand of Fate: Hordes official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8/ss_38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8.1920x1080.jpg?t=1792548358)
 
@@ -40,6 +46,10 @@ Control powerful heroes and carve your way through dungeons, quests, and endless
 
 ![Hand of Fate: Hordes official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/ss_e75294cada9215e5836ca696d7a5099f4ed9dee4.1920x1080.jpg?t=1792548358)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3075410/) · checked 2026-10-23T03:53:44.446117+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3075410&l=english&cc=us) · checked 2026-10-23T03:53:44.446117+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3075410%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:53:44.446117+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

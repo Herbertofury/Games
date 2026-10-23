@@ -2,7 +2,7 @@
 
 ![Battlethorne: Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2746340/header.jpg?t=1771311161)
 
-**[Steam store](https://store.steampowered.com/app/2746340/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2746340)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2746340/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2746340)** · [Roguelites](Roguelites)
 
 Defeat the Reaper's minions as you battle through forts, forests and castles in this companion based survival game. Gather gold to upgrade your character, slay thousands of enemies and defeat the Reaper.
 
@@ -10,19 +10,25 @@ Defeat the Reaper's minions as you battle through forts, forests and castles in 
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | 75.0% |
-| Review count | 8 |
-| Steam release date | Mar 29, 2024 |
-| Status | Released |
-| Developers | Primarch Interactive |
-| US price snapshot | $3.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 75.0% / 8 Steam reviews |
+| Release | Mar 29, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Primarch Interactive |
+| Price snapshot | $3.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2746340/)
+
+> Small review sample
 
 ## Official media
 
-- [Trailer 1](https://video.akamai.steamstatic.com/store_trailers/2746340/667038/c3a12a8bc3220f8924b021e0981b2e8a5a3b87b5/1750896396/hls_264_master.m3u8?t=1709405936)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Trailer 1](https://video.akamai.steamstatic.com/store_trailers/2746340/667038/c3a12a8bc3220f8924b021e0981b2e8a5a3b87b5/1750896396/hls_264_master.m3u8?t=1709405936)
 
 ![Battlethorne: Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2746340/ss_81af9f5a3dcd5715256b3b6fbd528b69a957ab6e.1920x1080.jpg?t=1771311161)
 
@@ -40,6 +46,10 @@ Defeat the Reaper's minions as you battle through forts, forests and castles in 
 
 ![Battlethorne: Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2746340/ss_4227c337a674f7dc972ccb171a6c3b03eaa95be5.1920x1080.jpg?t=1771311161)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2746340/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2746340&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2746340%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

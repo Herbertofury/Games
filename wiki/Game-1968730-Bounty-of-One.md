@@ -2,7 +2,7 @@
 
 ![Bounty of One official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1968730/ef8941f7eece2a4827c5ae1363b12af36152effa/header.jpg?t=1771497196)
 
-**[Steam store](https://store.steampowered.com/app/1968730/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A1968730)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1968730/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1968730)** · [Roguelites](Roguelites)
 
 Fallen hero of the Wild West, you’re wanted and in disgrace! Grab your guns, survive endless hordes of bounty hunters and fight to clear your name! Bounty of One is a fast-paced casual roguelite bullet hell for 1 to 4 players. Dash, Dodge, Shoot, Repeat!
 
@@ -10,17 +10,23 @@ Fallen hero of the Wild West, you’re wanted and in disgrace! Grab your guns, s
 |:--|:--|
 | Collection | Bullet heaven |
 | Recommendation | 8/10 |
-| Steam positive reviews | 87.8% |
-| Review count | 3,034 |
-| Steam release date | Sep 8, 2023 |
-| Status | Released |
-| Developers | OptizOnion |
-| US price snapshot | $6.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 87.8% / 3,034 Steam reviews |
+| Release | Sep 8, 2023 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | OptizOnion |
+| Price snapshot | $6.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/1968730/)
 
 ## Official media
 
-- [Bounty of One - New Trailer](https://video.akamai.steamstatic.com/store_trailers/1968730/601911/0c77e079ce75eee28209e6b4b7561d4cddf97d12/1750743092/hls_264_master.m3u8?t=1769180198)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Bounty of One - New Trailer](https://video.akamai.steamstatic.com/store_trailers/1968730/601911/0c77e079ce75eee28209e6b4b7561d4cddf97d12/1750743092/hls_264_master.m3u8?t=1769180198)
 
 ![Bounty of One official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1968730/ss_1647fbda9a2b10c2490d7eb9a6c0c3d8449b2873.1920x1080.jpg?t=1771497196)
 
@@ -34,6 +40,10 @@ Fallen hero of the Wild West, you’re wanted and in disgrace! Grab your guns, s
 
 ![Bounty of One official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1968730/ss_1b4fcb6cb9825aa757dc288bb11612fad66ac3fb.1920x1080.jpg?t=1771497196)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/1968730/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1968730&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1968730%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

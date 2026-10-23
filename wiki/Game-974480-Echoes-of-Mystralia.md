@@ -2,7 +2,7 @@
 
 ![Echoes of Mystralia official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974480/3a5b2fb27541d05ab9135b59b51ae77da87e5aed/header_alt_assets_3.jpg?t=1791468138)
 
-**[Steam store](https://store.steampowered.com/app/974480/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A974480)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/974480/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A974480)** · [Roguelites](Roguelites)
 
 Echoes of Mystralia is an action-heavy spellcrafting ARPG roguelite, where rapid combat meets deep customization. Craft your own spells, unlock new combinations, fight epic bosses, and discover a narrative-rich world that never plays the same twice.
 
@@ -10,20 +10,29 @@ Echoes of Mystralia is an action-heavy spellcrafting ARPG roguelite, where rapid
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 7/10 |
-| Steam positive reviews | 83.2% |
-| Review count | 775 |
-| Steam release date | Aug 11, 2026 |
-| Status | Early Access |
-| Developers | Borealys Games |
-| US price snapshot | $19.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 83.2% / 775 Steam reviews |
+| Release | Aug 11, 2026 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Borealys Games |
+| Price snapshot | $19.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/974480/)
 
 ## Official media
 
-- [Echoes of Mystralia \| All You Can Cast Update](https://video.akamai.steamstatic.com/store_trailers/974480/2073221835/e5a88825ff9e0da03ac1e76970e77cc47557f390/1791462452/hls_264_master.m3u8?t=1791468137)
-- [Echoes of Mystralia \| Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/974480/926431337/981b514fa36935a4609506960e1f00be9396c0ed/1786378461/hls_264_master.m3u8?t=1786455115)
-- [Echoes of Mystralia \| Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/974480/668050423/cf2e7f24e487d76f0336537118cd28273802e578/1786477763/hls_264_master.m3u8?t=1786478448)
-- [Echoes of Mystralia \| Rifted Echoes Update](https://video.akamai.steamstatic.com/store_trailers/974480/1546750119/a0d797240c8f59a057a4681790c0fd54faf72c5e/1781273914/hls_264_master.m3u8?t=1781274984)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Echoes of Mystralia \| All You Can Cast Update](https://video.akamai.steamstatic.com/store_trailers/974480/2073221835/e5a88825ff9e0da03ac1e76970e77cc47557f390/1791462452/hls_264_master.m3u8?t=1791468137)
+
+[Echoes of Mystralia \| Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/974480/926431337/981b514fa36935a4609506960e1f00be9396c0ed/1786378461/hls_264_master.m3u8?t=1786455115)
+
+[Echoes of Mystralia \| Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/974480/668050423/cf2e7f24e487d76f0336537118cd28273802e578/1786477763/hls_264_master.m3u8?t=1786478448)
+
+[Echoes of Mystralia \| Rifted Echoes Update](https://video.akamai.steamstatic.com/store_trailers/974480/1546750119/a0d797240c8f59a057a4681790c0fd54faf72c5e/1781273914/hls_264_master.m3u8?t=1781274984)
 
 ![Echoes of Mystralia official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974480/85a54f49d467d8da3b99aab50798b7385f5ba291/ss_85a54f49d467d8da3b99aab50798b7385f5ba291.1920x1080.jpg?t=1791468138)
 
@@ -49,6 +58,10 @@ Echoes of Mystralia is an action-heavy spellcrafting ARPG roguelite, where rapid
 
 ![Echoes of Mystralia official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974480/7bdb72633e5b3d3f89a55e0601d0e8bcd71f94f4/ss_7bdb72633e5b3d3f89a55e0601d0e8bcd71f94f4.1920x1080.jpg?t=1791468138)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/974480/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=974480&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A974480%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

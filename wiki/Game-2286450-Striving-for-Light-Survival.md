@@ -2,7 +2,7 @@
 
 ![Striving for Light: Survival official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2286450/header.jpg?t=1739049775)
 
-**[Steam store](https://store.steampowered.com/app/2286450/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2286450)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2286450/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2286450)** · [Roguelites](Roguelites)
 
 Striving for Light: Survival brings the exploration of infinite expanding skill trees to the arena survival roguelite genre. Unlock new characters, weapons, skills and maps, slay hordes of monsters and take on massive boss fights.
 
@@ -10,17 +10,23 @@ Striving for Light: Survival brings the exploration of infinite expanding skill 
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 77.1% |
-| Review count | 170 |
-| Steam release date | Dec 2, 2023 |
-| Status | Released |
-| Developers | Igniting Spark Games |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 77.1% / 170 Steam reviews |
+| Release | Dec 2, 2023 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Igniting Spark Games |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2286450/)
 
 ## Official media
 
-- [Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2286450/635499/3ededeaff109658890c4241d0ab0faa7dce362bb/1750980448/hls_264_master.m3u8?t=1701514947)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2286450/635499/3ededeaff109658890c4241d0ab0faa7dce362bb/1750980448/hls_264_master.m3u8?t=1701514947)
 
 ![Striving for Light: Survival official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2286450/ss_51682eadc5344f54d9135a765bac65183e3c8cbb.1920x1080.jpg?t=1739049775)
 
@@ -64,6 +70,10 @@ Striving for Light: Survival brings the exploration of infinite expanding skill 
 
 ![Striving for Light: Survival official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2286450/ss_1efa97fd791ebc5caf62a5f00c093122851be18b.1920x1080.jpg?t=1739049775)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2286450/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2286450&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2286450%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

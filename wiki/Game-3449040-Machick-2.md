@@ -2,7 +2,7 @@
 
 ![Machick 2 official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/c8a9c462a6ce1cbc67e52457e9cb6f5214ee4aae/header.jpg?t=1787869554)
 
-**[Steam store](https://store.steampowered.com/app/3449040/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3449040)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3449040/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3449040)** · [Roguelites](Roguelites)
 
 A magical, chaotic roguelike-survivor. Craft insane wands, evolve and fuse powerful spells, equip crazy gear, and wield the power of divine relics. Get ready to wipe out hordes of hungry frogs and face mighty bosses in unique, unpredictable runs.
 
@@ -10,20 +10,29 @@ A magical, chaotic roguelike-survivor. Craft insane wands, evolve and fuse power
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 7/10 |
-| Steam positive reviews | 89.3% |
-| Review count | 681 |
-| Steam release date | Sep 10, 2025 |
-| Status | Released |
-| Developers | DeadPixel |
-| US price snapshot | $6.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 89.3% / 681 Steam reviews |
+| Release | Sep 10, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | DeadPixel |
+| Price snapshot | $6.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3449040/)
 
 ## Official media
 
-- [Better Than Ever Trailer](https://video.akamai.steamstatic.com/store_trailers/3449040/1059807672/69e6c34ff197807f34cf7f16726f41910f57e498/1771567214/hls_264_master.m3u8?t=1771575894)
-- [Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3449040/1824640056/5f4bf6e5911877ebe6e06fe92b45654c7a814e11/1757503375/hls_264_master.m3u8?t=1757508090)
-- [Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3449040/1700551328/459c7e107f1f70402502d2b869071fb6cb2dc1b1/1752266559/hls_264_master.m3u8?t=1752374238)
-- [Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3449040/1116587517/a2b697af8b60698b2741557a6d724ce97de6d651/1757135926/hls_264_master.m3u8?t=1757138148)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Better Than Ever Trailer](https://video.akamai.steamstatic.com/store_trailers/3449040/1059807672/69e6c34ff197807f34cf7f16726f41910f57e498/1771567214/hls_264_master.m3u8?t=1771575894)
+
+[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3449040/1824640056/5f4bf6e5911877ebe6e06fe92b45654c7a814e11/1757503375/hls_264_master.m3u8?t=1757508090)
+
+[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3449040/1700551328/459c7e107f1f70402502d2b869071fb6cb2dc1b1/1752266559/hls_264_master.m3u8?t=1752374238)
+
+[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3449040/1116587517/a2b697af8b60698b2741557a6d724ce97de6d651/1757135926/hls_264_master.m3u8?t=1757138148)
 
 ![Machick 2 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/f4d4ea3017ac4420c94472d1a2c87527debebab6/ss_f4d4ea3017ac4420c94472d1a2c87527debebab6.1920x1080.jpg?t=1787869554)
 
@@ -45,6 +54,10 @@ A magical, chaotic roguelike-survivor. Craft insane wands, evolve and fuse power
 
 ![Machick 2 official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/85c47d3b3b483afb6173e894ae70ae6123480cce/ss_85c47d3b3b483afb6173e894ae70ae6123480cce.1920x1080.jpg?t=1787869554)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3449040/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3449040&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3449040%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

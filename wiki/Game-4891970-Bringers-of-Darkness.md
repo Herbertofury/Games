@@ -2,7 +2,7 @@
 
 ![Bringers of Darkness official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891970/c99b5bc47d424966e2c42ed057ebdeea82bcf277/header.jpg?t=1786098233)
 
-**[Steam store](https://store.steampowered.com/app/4891970/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A4891970)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/4891970/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A4891970)** · [Roguelites](Roguelites)
 
 Fight for the forces of darkness in a fast-paced bullet heaven survivors-like. Become a champion of darkness, master unique abilities, and bring ruin to the kingdoms of light that created their own nightmares.
 
@@ -10,19 +10,25 @@ Fight for the forces of darkness in a fast-paced bullet heaven survivors-like. B
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | 83.3% |
-| Review count | 6 |
-| Steam release date | Jul 30, 2026 |
-| Status | Early Access |
-| Developers | Arcane Celestia |
-| US price snapshot | $5.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 83.3% / 6 Steam reviews |
+| Release | Jul 30, 2026 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Arcane Celestia |
+| Price snapshot | $5.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/4891970/)
+
+> Small review sample
 
 ## Official media
 
-- [Bringers of Darkness - Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/4891970/1124294466/2bf7fbf2567d1d583227422a13e018c2d7b28b2a/1786097596/hls_264_master.m3u8?t=1786098232)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Bringers of Darkness - Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/4891970/1124294466/2bf7fbf2567d1d583227422a13e018c2d7b28b2a/1786097596/hls_264_master.m3u8?t=1786098232)
 
 ![Bringers of Darkness official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891970/decb031bacb0bac16d5d5633481279b4580d75bd/ss_decb031bacb0bac16d5d5633481279b4580d75bd.1920x1080.jpg?t=1786098233)
 
@@ -36,6 +42,10 @@ Fight for the forces of darkness in a fast-paced bullet heaven survivors-like. B
 
 ![Bringers of Darkness official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891970/ccb2597e4056685a5f8f90d29814b7984b7f9f7b/ss_ccb2597e4056685a5f8f90d29814b7984b7f9f7b.1920x1080.jpg?t=1786098233)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/4891970/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=4891970&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A4891970%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

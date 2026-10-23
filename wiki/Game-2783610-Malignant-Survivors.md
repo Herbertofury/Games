@@ -2,7 +2,7 @@
 
 ![Malignant Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783610/header.jpg?t=1745916343)
 
-**[Steam store](https://store.steampowered.com/app/2783610/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2783610)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2783610/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2783610)** · [Roguelites](Roguelites)
 
 3D rogue-like action game in a dark fantasy theme. Blow up thousands of malignants and find quality loot to improve your heroes for harder challenges.
 
@@ -10,20 +10,29 @@
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | 63.3% |
-| Review count | 313 |
-| Steam release date | Feb 13, 2024 |
-| Status | Released |
-| Developers | Eren Aydin |
-| US price snapshot | $0.69 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 63.3% / 313 Steam reviews |
+| Release | Feb 13, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Eren Aydin |
+| Price snapshot | $0.69 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2783610/)
 
 ## Official media
 
-- [Skeleton King](https://video.akamai.steamstatic.com/store_trailers/2783610/683515/262759aaef25c8842ee27ad10f6a0ebec55358ea/1750899708/hls_264_master.m3u8?t=1712366240)
-- [Almost Endgame](https://video.akamai.steamstatic.com/store_trailers/2783610/655973/f1d41fcdd95833781b524ed9805d7c5064610d25/1750899708/hls_264_master.m3u8?t=1709504841)
-- [Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2783610/652973/2dd0d354e5e487933c4ec0a343d229cc7c6baf61/1750899707/hls_264_master.m3u8?t=1706519300)
-- [Conjurer Patch](https://video.akamai.steamstatic.com/store_trailers/2783610/669269/f29d3ed46a81c9ed6aa3a07caa694c87e297c865/1750899708/hls_264_master.m3u8?t=1709388277)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Skeleton King](https://video.akamai.steamstatic.com/store_trailers/2783610/683515/262759aaef25c8842ee27ad10f6a0ebec55358ea/1750899708/hls_264_master.m3u8?t=1712366240)
+
+[Almost Endgame](https://video.akamai.steamstatic.com/store_trailers/2783610/655973/f1d41fcdd95833781b524ed9805d7c5064610d25/1750899708/hls_264_master.m3u8?t=1709504841)
+
+[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2783610/652973/2dd0d354e5e487933c4ec0a343d229cc7c6baf61/1750899707/hls_264_master.m3u8?t=1706519300)
+
+[Conjurer Patch](https://video.akamai.steamstatic.com/store_trailers/2783610/669269/f29d3ed46a81c9ed6aa3a07caa694c87e297c865/1750899708/hls_264_master.m3u8?t=1709388277)
 
 ![Malignant Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783610/ss_f201f50c366c6c063d617c0fa308f3ec796d6c04.1920x1080.jpg?t=1745916343)
 
@@ -47,6 +56,10 @@
 
 ![Malignant Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783610/ss_d09940c91aa32a6cf18bb3d41d41ba3eb3531544.1920x1080.jpg?t=1745916343)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2783610/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2783610&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2783610%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

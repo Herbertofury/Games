@@ -2,7 +2,7 @@
 
 ![Night Swarm official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3668370/ca814294321af4a7eb478d93ed035179190dbb96/header.jpg?t=1790884382)
 
-**[Steam store](https://store.steampowered.com/app/3668370/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3668370)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3668370/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3668370)** · [Roguelites](Roguelites)
 
 Claim your throne as Vampire Lord in this survivors-like. Each run is another step on your journey with new followers, quests and skills to unlock. The night is yours to conquer.
 
@@ -10,19 +10,27 @@ Claim your throne as Vampire Lord in this survivors-like. Each run is another st
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 79.7% |
-| Review count | 1,287 |
-| Steam release date | Dec 4, 2025 |
-| Status | Released |
-| Developers | Fubu Games |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 79.7% / 1,287 Steam reviews |
+| Release | Dec 4, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Fubu Games |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3668370/)
 
 ## Official media
 
-- [Endless Night Update Trailer](https://video.akamai.steamstatic.com/store_trailers/3668370/1898131298/429865ed6f94c4162621b10430f64e7ea16614c1/1776350876/hls_264_master.m3u8?t=1776437776)
-- [v1.2 New Content/Characters+Items Update](https://video.akamai.steamstatic.com/store_trailers/3668370/1905282978/e4de9eb0cfccf730a66b7682f3addec9af431df0/1772660609/hls_264_master.m3u8?t=1772722799)
-- [Night Swarm Launch Trailer Eng](https://video.akamai.steamstatic.com/store_trailers/3668370/1367467341/ee12120fbefdd645c76fffa75b4e2a73467055c3/1764627361/hls_264_master.m3u8?t=1764878079)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Endless Night Update Trailer](https://video.akamai.steamstatic.com/store_trailers/3668370/1898131298/429865ed6f94c4162621b10430f64e7ea16614c1/1776350876/hls_264_master.m3u8?t=1776437776)
+
+[v1.2 New Content/Characters+Items Update](https://video.akamai.steamstatic.com/store_trailers/3668370/1905282978/e4de9eb0cfccf730a66b7682f3addec9af431df0/1772660609/hls_264_master.m3u8?t=1772722799)
+
+[Night Swarm Launch Trailer Eng](https://video.akamai.steamstatic.com/store_trailers/3668370/1367467341/ee12120fbefdd645c76fffa75b4e2a73467055c3/1764627361/hls_264_master.m3u8?t=1764878079)
 
 ![Night Swarm official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3668370/6c1a3b344f25241ba5d145bce63396829454e263/ss_6c1a3b344f25241ba5d145bce63396829454e263.1920x1080.jpg?t=1790884382)
 
@@ -54,6 +62,10 @@ Claim your throne as Vampire Lord in this survivors-like. Each run is another st
 
 ![Night Swarm official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3668370/e7bb7c3a48cfc43c90c1476581d39b42ddee3009/ss_e7bb7c3a48cfc43c90c1476581d39b42ddee3009.1920x1080.jpg?t=1790884382)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3668370/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3668370&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3668370%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

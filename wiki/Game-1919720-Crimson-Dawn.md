@@ -2,7 +2,7 @@
 
 ![Crimson Dawn official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1919720/header.jpg?t=1700818479)
 
-**[Steam store](https://store.steampowered.com/app/1919720/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A1919720)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1919720/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1919720)** · [Roguelites](Roguelites)
 
 Crimson Dawn is a roguelite horde survival game with RPG elements. Recruit mercenaries and survive 5 stages by fighting the hordes of evil. Unlock more characters and weapons with unique abilities. Carve your path to stop the hordes of evil once and for all!
 
@@ -10,17 +10,23 @@ Crimson Dawn is a roguelite horde survival game with RPG elements. Recruit merce
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | 64.4% |
-| Review count | 382 |
-| Steam release date | Apr 11, 2023 |
-| Status | Released |
-| Developers | Purple Lake |
-| US price snapshot | $3.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 64.4% / 382 Steam reviews |
+| Release | Apr 11, 2023 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Purple Lake |
+| Price snapshot | $3.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/1919720/)
 
 ## Official media
 
-- [Crimson Dawn – Official Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1919720/556974/cdf02aee32a794d69315faa72b45087e135f63c3/1751048098/hls_264_master.m3u8?t=1681221194)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Crimson Dawn – Official Release Trailer](https://video.akamai.steamstatic.com/store_trailers/1919720/556974/cdf02aee32a794d69315faa72b45087e135f63c3/1751048098/hls_264_master.m3u8?t=1681221194)
 
 ![Crimson Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1919720/ss_eff95627603880484f077fb5cc23bbd7a380e054.1920x1080.jpg?t=1700818479)
 
@@ -52,6 +58,10 @@ Crimson Dawn is a roguelite horde survival game with RPG elements. Recruit merce
 
 ![Crimson Dawn official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1919720/ss_fc129b432e7324d4e221c111ab61d1582a950704.1920x1080.jpg?t=1700818479)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/1919720/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1919720&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1919720%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

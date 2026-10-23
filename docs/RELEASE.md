@@ -1,11 +1,13 @@
-# Games - Living Library
+# Games - Living Library 1.1
 
-The roguelite collection in a portable, local-first application, backed by a single verified Steam snapshot and generated wiki.
+Adds the Boomer Shooters genre hub alongside the complete original roguelite collection.
 
-Open **Games - Explorer.html** directly in your browser. **Games - Library.zip** includes the complete source, data, website, wiki, rebuild scripts, and tests. **SHA256SUMS.txt** records exact artifact hashes and sizes.
+New: recent commercial releases, overlooked campaigns, movement FPS games, fantasy/horror shooters, free standalone projects, Quake/Blood/Doom conversions, public demos, and prototypes. Exact creator pages and alternate stores include itch.io, GOG, Epic, ModDB, Slipseer, IndieDB, Newgrounds, and verified Patreon support links.
 
-The catalog includes search, structured filters, sortable ratings and dates, card/table/gallery modes, official embedded trailers and screenshots, direct Steam links, favorites, notes, play status, personal ratings, saved views, comparison, CSV/JSON exports, backup/import, themes, mobile layout and keyboard controls.
+The library now separates genre hubs, platforms, build types, core/adjacent FPS styles, native host ratings, and install requirements. Creator videos use an opt-in embedded player. Native ratings retain their original scale. Mod files can be free while still requiring an owned game.
 
-Steam ratings and editorial fit are separate. Dates and prices are snapshots. Unverified entries remain visible without invented facts. Media streams require internet. Personal data is local to the browser unless explicitly exported.
+Download **Games - Explorer.html** to open the portable app, or **Games - Library.zip** for the complete reproducible source, data, generated wiki, and site. No installation or account is required to browse the portable catalog. Uncached media needs an internet connection.
 
-Publishing verification and any remaining one-time Pages/wiki prerequisites are recorded in `docs/qa/` in the repository. A generated wiki directory alone is not a claim that the native wiki was successfully published.
+QA reports document what was actually tested, including all original catalog features and the cross-platform extension. Media coverage and any provider failures are recorded separately from verified game identities. The app does not claim hands-on playtesting of every recommendation.
+
+Native wiki: https://github.com/Herbertofury/Games/wiki/Boomer-Shooters

@@ -2,7 +2,7 @@
 
 ![Antivirus Survivors 2003 Professional official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832490/19ec8cf9c754e295d6bc29870e1ed65f04b69988/header.jpg?t=1791404247)
 
-**[Steam store](https://store.steampowered.com/app/3832490/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3832490)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3832490/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3832490)** · [Roguelites](Roguelites)
 
 The family computer is infected again and it’s your job to fend off waves of viruses and adware foes with an arsenal of nostalgic Y2K-inspired weapons. Antivirus Survivors 2003 Professional is a survivor-like auto-shooter filled with nods to the days when computers were actually fun.
 
@@ -10,22 +10,33 @@ The family computer is infected again and it’s your job to fend off waves of v
 |:--|:--|
 | Collection | Bullet heaven |
 | Recommendation | 7/10 |
-| Steam positive reviews | 97.8% |
-| Review count | 1,436 |
-| Steam release date | Sep 28, 2026 |
-| Status | Released |
-| Developers | Shaun Hammond Business Solutions Limited |
-| US price snapshot | $5.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 97.8% / 1,436 Steam reviews |
+| Release | Sep 28, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Shaun Hammond Business Solutions Limited |
+| Price snapshot | $5.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3832490/)
 
 ## Official media
 
-- [Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3832490/122718276/4abf8a6a517ef7c590c7241014d59c56eb495c92/1790604347/hls_264_master.m3u8?t=1790605522)
-- [Release Date Announcement](https://video.akamai.steamstatic.com/store_trailers/3832490/1673432456/ce156fe3564745e25b7c426b0153162f5a024950/1789044582/hls_264_master.m3u8?t=1789048484)
-- [Demo Update Trailer](https://video.akamai.steamstatic.com/store_trailers/3832490/1705636294/a3d48921a3f1a4790523edc82a699548a1e0b4a1/1784039384/hls_264_master.m3u8?t=1784052331)
-- [Demo Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3832490/879875520/47fd4dc6352e3e1fe21e46cbe146b525f685bdaf/1771035793/hls_264_master.m3u8?t=1771037176)
-- [Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3832490/903665414/ce6b08ec6f6ca1837eeb9e5ac709c13577e4c4ba/1767617072/hls_264_master.m3u8?t=1767621684)
-- [Announcement Teaser](https://video.akamai.steamstatic.com/store_trailers/3832490/1243694912/27150928fdb53407fbda04b1d47b14fcaf0ddfdf/1757044708/hls_264_master.m3u8?t=1757128404)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3832490/122718276/4abf8a6a517ef7c590c7241014d59c56eb495c92/1790604347/hls_264_master.m3u8?t=1790605522)
+
+[Release Date Announcement](https://video.akamai.steamstatic.com/store_trailers/3832490/1673432456/ce156fe3564745e25b7c426b0153162f5a024950/1789044582/hls_264_master.m3u8?t=1789048484)
+
+[Demo Update Trailer](https://video.akamai.steamstatic.com/store_trailers/3832490/1705636294/a3d48921a3f1a4790523edc82a699548a1e0b4a1/1784039384/hls_264_master.m3u8?t=1784052331)
+
+[Demo Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/3832490/879875520/47fd4dc6352e3e1fe21e46cbe146b525f685bdaf/1771035793/hls_264_master.m3u8?t=1771037176)
+
+[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/3832490/903665414/ce6b08ec6f6ca1837eeb9e5ac709c13577e4c4ba/1767617072/hls_264_master.m3u8?t=1767621684)
+
+[Announcement Teaser](https://video.akamai.steamstatic.com/store_trailers/3832490/1243694912/27150928fdb53407fbda04b1d47b14fcaf0ddfdf/1757044708/hls_264_master.m3u8?t=1757128404)
 
 ![Antivirus Survivors 2003 Professional official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832490/0d0e88f9839b5bdfd4d4ca461b98d0789e608c0e/ss_0d0e88f9839b5bdfd4d4ca461b98d0789e608c0e.1920x1080.jpg?t=1791404247)
 
@@ -59,6 +70,10 @@ The family computer is infected again and it’s your job to fend off waves of v
 
 ![Antivirus Survivors 2003 Professional official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832490/c376ed3d560589b6615c5bcd793820f1329cc2e3/ss_c376ed3d560589b6615c5bcd793820f1329cc2e3.1920x1080.jpg?t=1791404247)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3832490/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3832490&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3832490%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

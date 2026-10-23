@@ -2,7 +2,7 @@
 
 ![God Of Weapons official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2342950/c26539cca65906f4fe3c2c2ea8b16593ae5ad24f/header.jpg?t=1790824677)
 
-**[Steam store](https://store.steampowered.com/app/2342950/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2342950)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2342950/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2342950)** · [Roguelites](Roguelites)
 
 Embark on a thrilling journey in God of Weapons, an action roguelike where you must ascend the tower of Zhor to reclaim the last light for the world. To survive the monster onslaught on each tower's level, you'll need to obtain and carefully organize weapons and accessories in your inventory.
 
@@ -10,17 +10,23 @@ Embark on a thrilling journey in God of Weapons, an action roguelike where you m
 |:--|:--|
 | Collection | Loot-driven ARPGs |
 | Recommendation | 9/10 |
-| Steam positive reviews | 84.0% |
-| Review count | 5,272 |
-| Steam release date | Sep 12, 2023 |
-| Status | Released |
-| Developers | Archmage Games Studio |
-| US price snapshot | $5.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 84.0% / 5,272 Steam reviews |
+| Release | Sep 12, 2023 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Archmage Games Studio |
+| Price snapshot | $5.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2342950/)
 
 ## Official media
 
-- [GOW Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2342950/606639/145844993d396584c44c26738d8d86e5144ccf38/1750813444/hls_264_master.m3u8?t=1694464125)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[GOW Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2342950/606639/145844993d396584c44c26738d8d86e5144ccf38/1750813444/hls_264_master.m3u8?t=1694464125)
 
 ![God Of Weapons official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2342950/ss_f0aecbb3444b2272989fc4f915328aa26724fc55.1920x1080.jpg?t=1790824677)
 
@@ -40,6 +46,10 @@ Embark on a thrilling journey in God of Weapons, an action roguelike where you m
 
 ![God Of Weapons official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2342950/ss_d202181e8a2e734658e18a8df96ca87c5e48726e.1920x1080.jpg?t=1790824677)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2342950/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2342950&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2342950%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

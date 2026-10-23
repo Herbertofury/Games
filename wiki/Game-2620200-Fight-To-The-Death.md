@@ -2,7 +2,7 @@
 
 ![Fight To The Death official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620200/header.jpg?t=1759237713)
 
-**[Steam store](https://store.steampowered.com/app/2620200/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2620200)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2620200/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2620200)** · [Roguelites](Roguelites)
 
 Fight To The Death is a roguelite game where you enter an arena filled with hundreds or even thousands of monsters. Utilizing each character's unique skills, collecting powerful items, crafting your own playstyle, and striving to be the last one standing.
 
@@ -10,17 +10,23 @@ Fight To The Death is a roguelite game where you enter an arena filled with hund
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 7/10 |
-| Steam positive reviews | 74.8% |
-| Review count | 119 |
-| Steam release date | Oct 23, 2024 |
-| Status | Released |
-| Developers | Amrita |
-| US price snapshot | $2.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 74.8% / 119 Steam reviews |
+| Release | Oct 23, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Amrita |
+| Price snapshot | $2.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2620200/)
 
 ## Official media
 
-- [21/4/24](https://video.akamai.steamstatic.com/store_trailers/2620200/689971/c7346c4f4da8184d6e7425ee934fea19a910153f/1750936950/hls_264_master.m3u8?t=1713665909)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[21/4/24](https://video.akamai.steamstatic.com/store_trailers/2620200/689971/c7346c4f4da8184d6e7425ee934fea19a910153f/1750936950/hls_264_master.m3u8?t=1713665909)
 
 ![Fight To The Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620200/ss_a7bc56da2559cd52c974545e7628e0cfad8111fc.1920x1080.jpg?t=1759237713)
 
@@ -42,6 +48,10 @@ Fight To The Death is a roguelite game where you enter an arena filled with hund
 
 ![Fight To The Death official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620200/ss_6eefddaa476c1a6443aac5f7ecc1da8e5e3bb39b.1920x1080.jpg?t=1759237713)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2620200/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2620200&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2620200%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

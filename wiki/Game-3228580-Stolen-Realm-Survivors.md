@@ -2,7 +2,7 @@
 
 ![Stolen Realm Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228580/header.jpg?t=1790869711)
 
-**[Steam store](https://store.steampowered.com/app/3228580/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A3228580)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/3228580/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A3228580)** · [Roguelites](Roguelites)
 
 An online co-op survivor-like auto-shooter set in the world of Stolen Realm. Battle relentless hordes of enemies, discover powerful artifacts, modify unique skills, and build unstoppable combos to survive. Play solo or with friends and unleash the full power of the Realm.
 
@@ -10,17 +10,23 @@ An online co-op survivor-like auto-shooter set in the world of Stolen Realm. Bat
 |:--|:--|
 | Collection | Myth & magic |
 | Recommendation | 6/10 |
-| Steam positive reviews | 63.9% |
-| Review count | 166 |
-| Steam release date | May 7, 2026 |
-| Status | Released |
-| Developers | Burst2Flame Games |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 63.9% / 166 Steam reviews |
+| Release | May 7, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Burst2Flame Games |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/3228580/)
 
 ## Official media
 
-- [Stolen Realm Survivors - Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3228580/437168584/f9c25183e332fc74ead7e8d11c9112e8bcde2535/1780509413/hls_264_master.m3u8?t=1780589855)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Stolen Realm Survivors - Release Trailer](https://video.akamai.steamstatic.com/store_trailers/3228580/437168584/f9c25183e332fc74ead7e8d11c9112e8bcde2535/1780509413/hls_264_master.m3u8?t=1780589855)
 
 ![Stolen Realm Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228580/cf7eb5dbedd847f3bd7c5444996d51161335ba9d/ss_cf7eb5dbedd847f3bd7c5444996d51161335ba9d.1920x1080.jpg?t=1790869711)
 
@@ -44,6 +50,10 @@ An online co-op survivor-like auto-shooter set in the world of Stolen Realm. Bat
 
 ![Stolen Realm Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228580/78111c03ddbae6ed6ca94ba61f44c404b7f974ee/ss_78111c03ddbae6ed6ca94ba61f44c404b7f974ee.1920x1080.jpg?t=1790869711)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/3228580/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=3228580&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3228580%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

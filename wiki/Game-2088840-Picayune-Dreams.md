@@ -2,7 +2,7 @@
 
 ![Picayune Dreams official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/header.jpg?t=1791835894)
 
-**[Steam store](https://store.steampowered.com/app/2088840/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2088840)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2088840/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2088840)** · [Roguelites](Roguelites)
 
 Picayune Dreams is a roguelike blend of bullet heaven horde survival, and bullet hell gameplay. Adrift across the endless void, you must fend off thousands of nightmarish and otherwordly creatures. Uncover a mysterious and surreal story. And don't forget. You mu [TRANSMISSION INTERRUPTED...]
 
@@ -10,19 +10,27 @@ Picayune Dreams is a roguelike blend of bullet heaven horde survival, and bullet
 |:--|:--|
 | Collection | Sci-fi & machines |
 | Recommendation | 9/10 |
-| Steam positive reviews | 98.9% |
-| Review count | 4,718 |
-| Steam release date | Dec 4, 2023 |
-| Status | Released |
-| Developers | Stepford, Andyland, milkypossum |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 98.9% / 4,718 Steam reviews |
+| Release | Dec 4, 2023 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Stepford, Andyland, milkypossum |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2088840/)
 
 ## Official media
 
-- [Contamination Trailer](https://video.akamai.steamstatic.com/store_trailers/2088840/832543/129e22b99960f458347640f2a949435a8115733c/1750746326/hls_264_master.m3u8?t=1740076407)
-- [Animated Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2088840/636643/b28bc5987b3581da17f1f09c3ab17371e9b8e863/1750746326/hls_264_master.m3u8?t=1701714609)
-- [Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2088840/636401/7c6942a79e6b3dd5ce8ab0041394b0ee859d114c/1750746325/hls_264_master.m3u8?t=1701675101)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Contamination Trailer](https://video.akamai.steamstatic.com/store_trailers/2088840/832543/129e22b99960f458347640f2a949435a8115733c/1750746326/hls_264_master.m3u8?t=1740076407)
+
+[Animated Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2088840/636643/b28bc5987b3581da17f1f09c3ab17371e9b8e863/1750746326/hls_264_master.m3u8?t=1701714609)
+
+[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2088840/636401/7c6942a79e6b3dd5ce8ab0041394b0ee859d114c/1750746325/hls_264_master.m3u8?t=1701675101)
 
 ![Picayune Dreams official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_1c9a3adb890c114e9c09019b86f2628addde9980.1920x1080.jpg?t=1791835894)
 
@@ -56,6 +64,10 @@ Picayune Dreams is a roguelike blend of bullet heaven horde survival, and bullet
 
 ![Picayune Dreams official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_9c0f17ae8583dfd8ba40c42a4820633c28b260cb.1920x1080.jpg?t=1791835894)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2088840/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2088840&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2088840%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

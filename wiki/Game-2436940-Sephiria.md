@@ -2,7 +2,7 @@
 
 ![Sephiria official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/cb7dc6f4ed2f0012eb557365966be9b69815f7ae/header.jpg?t=1790681009)
 
-**[Steam store](https://store.steampowered.com/app/2436940/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2436940)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2436940/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2436940)** · [Roguelites](Roguelites)
 
 Save Bunnyville from a doomed fate: a top-down action/RPG roguelite from the makers of Dungreed. Explore the depths of the tower, collect and upgrade artifacts, and defeat hordes of demons to keep your village safe.
 
@@ -10,18 +10,25 @@ Save Bunnyville from a doomed fate: a top-down action/RPG roguelite from the mak
 |:--|:--|
 | Collection | Action roguelites |
 | Recommendation | 8/10 |
-| Steam positive reviews | 94.5% |
-| Review count | 13,504 |
-| Steam release date | Jul 31, 2026 |
-| Status | Released |
-| Developers | TEAM HORAY |
-| US price snapshot | $17.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 94.5% / 13,504 Steam reviews |
+| Release | Jul 31, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | TEAM HORAY |
+| Price snapshot | $17.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2436940/)
 
 ## Official media
 
-- [Sephiria: 1.0 release date trailer](https://video.akamai.steamstatic.com/store_trailers/2436940/1818105550/0e1b83dac55fd18ce1f873fb2dccc81fda7e3889/1783515034/hls_264_master.m3u8?t=1783515614)
-- [Sephiria Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/2436940/632778/ec9b0e124dcf0c7a23cec48f08d45f72edfbfb05/1750814897/hls_264_master.m3u8?t=1742880482)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Sephiria: 1.0 release date trailer](https://video.akamai.steamstatic.com/store_trailers/2436940/1818105550/0e1b83dac55fd18ce1f873fb2dccc81fda7e3889/1783515034/hls_264_master.m3u8?t=1783515614)
+
+[Sephiria Demo Trailer](https://video.akamai.steamstatic.com/store_trailers/2436940/632778/ec9b0e124dcf0c7a23cec48f08d45f72edfbfb05/1750814897/hls_264_master.m3u8?t=1742880482)
 
 ![Sephiria official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/ss_6dc776bb4cd7565deba0801e6c51389d008c0e74.1920x1080.jpg?t=1790681009)
 
@@ -45,6 +52,10 @@ Save Bunnyville from a doomed fate: a top-down action/RPG roguelite from the mak
 
 ![Sephiria official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/e0a64b11ebbf671522871fd29f15e88d6867bbfd/ss_e0a64b11ebbf671522871fd29f15e88d6867bbfd.1920x1080.jpg?t=1790681009)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2436940/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2436940&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2436940%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -2,7 +2,7 @@
 
 ![Slime 3K: Rise Against Despot official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/header.jpg?t=1781544012)
 
-**[Steam store](https://store.steampowered.com/app/2348610/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2348610)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2348610/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2348610)** · [Roguelites](Roguelites)
 
 Welcome to Slime 3K, an unhinged roguelite bullet-heaven set in the Despot’s Game universe! Build a deck of crazy weapons, grow stronger and devour hordes of pink puny humans as a murderous jelly blob on a warpath of death, violence and pretzels.
 
@@ -10,19 +10,27 @@ Welcome to Slime 3K, an unhinged roguelite bullet-heaven set in the Despot’s G
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 7/10 |
-| Steam positive reviews | 79.6% |
-| Review count | 1,743 |
-| Steam release date | Oct 31, 2024 |
-| Status | Released |
-| Developers | Konfa Games |
-| US price snapshot | $4.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 79.6% / 1,743 Steam reviews |
+| Release | Oct 31, 2024 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Konfa Games |
+| Price snapshot | $4.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2348610/)
 
 ## Official media
 
-- [1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2348610/778239/60a5a4f901e95c7fd778bc37c807b0e5123c80a7/1750909745/hls_264_master.m3u8?t=1730390291)
-- [Out Now in Early Access](https://video.akamai.steamstatic.com/store_trailers/2348610/625213/f2348929682a4ef867ae5e7c80c6aee5d85ccd9f/1750909744/hls_264_master.m3u8?t=1698942953)
-- [Gameplay Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2348610/574128/355a2567e8714edf071c532830fd9408de8948bf/1750909741/hls_264_master.m3u8?t=1686220829)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[1.0 Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2348610/778239/60a5a4f901e95c7fd778bc37c807b0e5123c80a7/1750909745/hls_264_master.m3u8?t=1730390291)
+
+[Out Now in Early Access](https://video.akamai.steamstatic.com/store_trailers/2348610/625213/f2348929682a4ef867ae5e7c80c6aee5d85ccd9f/1750909744/hls_264_master.m3u8?t=1698942953)
+
+[Gameplay Reveal Trailer](https://video.akamai.steamstatic.com/store_trailers/2348610/574128/355a2567e8714edf071c532830fd9408de8948bf/1750909741/hls_264_master.m3u8?t=1686220829)
 
 ![Slime 3K: Rise Against Despot official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_8fcfd2262199bce0af3be308693cc25111070dc7.1920x1080.jpg?t=1781544012)
 
@@ -42,6 +50,10 @@ Welcome to Slime 3K, an unhinged roguelite bullet-heaven set in the Despot’s G
 
 ![Slime 3K: Rise Against Despot official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_534a4194eb8cc9964805833860ea7eee459aa10c.1920x1080.jpg?t=1781544012)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2348610/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2348610&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2348610%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

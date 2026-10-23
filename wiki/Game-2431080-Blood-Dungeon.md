@@ -2,7 +2,7 @@
 
 ![Blood Dungeon official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2431080/3efcaa1643c79273ce9ece71c3dd4a7b71f1cb74/header.jpg?t=1788324465)
 
-**[Steam store](https://store.steampowered.com/app/2431080/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2431080)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2431080/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2431080)** · [Roguelites](Roguelites)
 
 From the creators of Nidhogg, murder hordes of monsters in this 2D platforming autoshooter with a killer soundtrack. Collect Blood, gold, and bones to increase your powers. Can you survive the Blood Dungeon?
 
@@ -10,18 +10,25 @@ From the creators of Nidhogg, murder hordes of monsters in this 2D platforming a
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 90.1% |
-| Review count | 578 |
-| Steam release date | Aug 25, 2026 |
-| Status | Released |
-| Developers | Messhof |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 90.1% / 578 Steam reviews |
+| Release | Aug 25, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Messhof |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2431080/)
 
 ## Official media
 
-- [Blood Dungeon // Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2431080/1838075341/9098478235029047f187703d417e41b967ca34df/1786556214/hls_264_master.m3u8?t=1787684410)
-- [Animated Intro](https://video.akamai.steamstatic.com/store_trailers/2431080/139658551/db53126fe80604204087b5eb58f159a468705377/1787699690/hls_264_master.m3u8?t=1787700408)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Blood Dungeon // Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2431080/1838075341/9098478235029047f187703d417e41b967ca34df/1786556214/hls_264_master.m3u8?t=1787684410)
+
+[Animated Intro](https://video.akamai.steamstatic.com/store_trailers/2431080/139658551/db53126fe80604204087b5eb58f159a468705377/1787699690/hls_264_master.m3u8?t=1787700408)
 
 ![Blood Dungeon official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2431080/6fe902a0e588feab934da8dcb6c61180eeae3427/ss_6fe902a0e588feab934da8dcb6c61180eeae3427.1920x1080.jpg?t=1788324465)
 
@@ -35,6 +42,10 @@ From the creators of Nidhogg, murder hordes of monsters in this 2D platforming a
 
 ![Blood Dungeon official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2431080/2542823513ceb4768242356a6f5bf95ea1745b55/ss_2542823513ceb4768242356a6f5bf95ea1745b55.1920x1080.jpg?t=1788324465)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2431080/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2431080&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2431080%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

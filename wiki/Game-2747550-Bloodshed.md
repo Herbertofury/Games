@@ -2,29 +2,39 @@
 
 ![Bloodshed official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747550/header.jpg?t=1772456013)
 
-**[Steam store](https://store.steampowered.com/app/2747550/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2747550)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2747550/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2747550)** · [Roguelites](Roguelites) · [Boomer shooters](Boomer-Shooters)
 
 Bloodshed is a Roguelite Survivors FPS; an exhilarating fusion of Roguelite elements merged with retro-styled visuals and first-person “Survivors-like” frenetic combat action!
 
 | Field | Value |
 |:--|:--|
-| Collection | First-person action |
+| Collection | First-person action, Arena & roguelite FPS |
 | Recommendation | 9/10 |
-| Steam positive reviews | 84.5% |
-| Review count | 2,033 |
-| Steam release date | May 22, 2025 |
-| Status | Released |
-| Developers | com8com1 Software |
-| US price snapshot | $1.55 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 84.5% / 2,033 Steam reviews |
+| Release | May 22, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | com8com1 Software |
+| Price snapshot | $1.55 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2747550/)
 
 ## Official media
 
-- [Full Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/232139185/ed4bf327c6cc9e09050453d1bee1a70fb921301e/1750819497/hls_264_master.m3u8?t=1747925560)
-- [Full Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/861466/6fd266d24aca0197b6c56aa833738f9f9d1cc6de/1750819496/hls_264_master.m3u8?t=1743491313)
-- [Bloodshed Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/799053/25530d77e9536e674c6149018e54a990fb17088e/1750819495/hls_264_master.m3u8?t=1734019019)
-- [Bloodshed Release Date Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/788043/5fc51d894c3ad35fd95a74c855cbd4ed999378db/1750819495/hls_264_master.m3u8?t=1732024990)
-- [Bloodshed Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/768283/900ecfa21c1da58c7db280ebea9242f79394aa1f/1750819494/hls_264_master.m3u8?t=1728394485)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Full Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/232139185/ed4bf327c6cc9e09050453d1bee1a70fb921301e/1750819497/hls_264_master.m3u8?t=1747925560)
+
+[Full Release Date Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/861466/6fd266d24aca0197b6c56aa833738f9f9d1cc6de/1750819496/hls_264_master.m3u8?t=1743491313)
+
+[Bloodshed Early Access Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/799053/25530d77e9536e674c6149018e54a990fb17088e/1750819495/hls_264_master.m3u8?t=1734019019)
+
+[Bloodshed Release Date Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/788043/5fc51d894c3ad35fd95a74c855cbd4ed999378db/1750819495/hls_264_master.m3u8?t=1732024990)
+
+[Bloodshed Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2747550/768283/900ecfa21c1da58c7db280ebea9242f79394aa1f/1750819494/hls_264_master.m3u8?t=1728394485)
 
 ![Bloodshed official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747550/ss_ca7c0bea0d667298d85fc183f3e94dc73dcb6f8f.1920x1080.jpg?t=1772456013)
 
@@ -50,6 +60,10 @@ Bloodshed is a Roguelite Survivors FPS; an exhilarating fusion of Roguelite elem
 
 ![Bloodshed official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747550/ss_aa0c181efb15a4737a440d70e8bbe981bc545b33.1920x1080.jpg?t=1772456013)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2747550/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2747550&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2747550%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

@@ -2,7 +2,7 @@
 
 ![Be My Horde official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499520/e2008120da5389894a03662ebe17cfbedccb5b2e/header.jpg?t=1792428576)
 
-**[Steam store](https://store.steampowered.com/app/2499520/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2499520)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2499520/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2499520)** · [Roguelites](Roguelites)
 
 Be My Horde is a roguelite survivor where your minions fight for you. Become a formidable necromancer and turn your enemies into a resource! Raise fallen foes, build massive undead hordes, enhance your skills with devoured souls, and conquer the world – you’re the villain in this story.
 
@@ -10,19 +10,27 @@ Be My Horde is a roguelite survivor where your minions fight for you. Become a f
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 9/10 |
-| Steam positive reviews | 85.2% |
-| Review count | 2,141 |
-| Steam release date | Jun 18, 2024 |
-| Status | Early Access |
-| Developers | Polished Games |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 85.2% / 2,141 Steam reviews |
+| Release | Jun 18, 2024 |
+| Availability | Early Access |
+| Build type | Standalone game |
+| Creators | Polished Games |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2499520/)
 
 ## Official media
 
-- [Rage Unleashed Trailer](https://video.akamai.steamstatic.com/store_trailers/2499520/965962831/cd8c3cde70157694385dbfdb016daba7a24e0b15/1780768525/hls_264_master.m3u8?t=1780774143)
-- [Official Trailer](https://video.akamai.steamstatic.com/store_trailers/2499520/3992447/c7a5d1508cf6b6c23033b80a4afa1729ca02498d/1750815900/hls_264_master.m3u8?t=1748278835)
-- [Horde Reborn Trailer](https://video.akamai.steamstatic.com/store_trailers/2499520/847144873/2028a7ebfc4c3aff2c8493f36d38af9e144c8117/1764881283/hls_264_master.m3u8?t=1764884391)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Rage Unleashed Trailer](https://video.akamai.steamstatic.com/store_trailers/2499520/965962831/cd8c3cde70157694385dbfdb016daba7a24e0b15/1780768525/hls_264_master.m3u8?t=1780774143)
+
+[Official Trailer](https://video.akamai.steamstatic.com/store_trailers/2499520/3992447/c7a5d1508cf6b6c23033b80a4afa1729ca02498d/1750815900/hls_264_master.m3u8?t=1748278835)
+
+[Horde Reborn Trailer](https://video.akamai.steamstatic.com/store_trailers/2499520/847144873/2028a7ebfc4c3aff2c8493f36d38af9e144c8117/1764881283/hls_264_master.m3u8?t=1764884391)
 
 ![Be My Horde official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499520/a4447edd928d5eabf87766847f95f4f9e8fd554d/ss_a4447edd928d5eabf87766847f95f4f9e8fd554d.1920x1080.jpg?t=1792428576)
 
@@ -50,6 +58,10 @@ Be My Horde is a roguelite survivor where your minions fight for you. Become a f
 
 ![Be My Horde official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499520/79bdc5b66728a47a4b91f464029e82bb658d76b5/ss_79bdc5b66728a47a4b91f464029e82bb658d76b5.1920x1080.jpg?t=1792428576)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2499520/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2499520&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2499520%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

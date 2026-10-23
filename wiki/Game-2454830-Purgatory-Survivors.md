@@ -2,7 +2,7 @@
 
 ![Purgatory Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454830/97b1f6bf9b4b0c73568ab068cf0e6f251da318c6/header.jpg?t=1775376302)
 
-**[Steam store](https://store.steampowered.com/app/2454830/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2454830)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2454830/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2454830)** · [Roguelites](Roguelites)
 
 Purgatory Survivors is a top-down shooter with roguelike elements. Plunge into a dark fantasy world infested with demons and despair all fighting for you to fail. Choose your character and achieve the best synergy with the upgrades to pass the purgatory trial.
 
@@ -10,19 +10,25 @@ Purgatory Survivors is a top-down shooter with roguelike elements. Plunge into a
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 100.0% |
-| Review count | 15 |
-| Steam release date | Apr 2, 2026 |
-| Status | Released |
-| Developers | aurimas.dev |
-| US price snapshot | $1.39 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 100.0% / 15 Steam reviews |
+| Release | Apr 2, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | aurimas.dev |
+| Price snapshot | $1.39 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2454830/)
+
+> Small review sample
 
 ## Official media
 
-- [Purgatory Survivors Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2454830/1010761420/0917f34424ff35a2d037340560c3e3f3b37f0b7e/1771787322/hls_264_master.m3u8?t=1771794018)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Purgatory Survivors Release Trailer](https://video.akamai.steamstatic.com/store_trailers/2454830/1010761420/0917f34424ff35a2d037340560c3e3f3b37f0b7e/1771787322/hls_264_master.m3u8?t=1771794018)
 
 ![Purgatory Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454830/e1b1dc716b6ced434473227acd61c740f7322511/ss_e1b1dc716b6ced434473227acd61c740f7322511.1920x1080.jpg?t=1775376302)
 
@@ -44,6 +50,10 @@ Purgatory Survivors is a top-down shooter with roguelike elements. Plunge into a
 
 ![Purgatory Survivors official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454830/a798ce5c19e4ca74e1a31e81859c9081099e9192/ss_a798ce5c19e4ca74e1a31e81859c9081099e9192.1920x1080.jpg?t=1775376302)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2454830/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2454830&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2454830%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

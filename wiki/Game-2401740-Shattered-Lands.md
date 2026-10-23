@@ -2,7 +2,7 @@
 
 ![​Shattered Lands (破碎之地) official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401740/564d8790e82bd0b4f383e98dd6f989a86ee6c16b/header.jpg?t=1752315207)
 
-**[Steam store](https://store.steampowered.com/app/2401740/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2401740)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2401740/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2401740)** · [Roguelites](Roguelites)
 
 One Game, Three Modes Survivor Mode: Frenetic Combat, Endless Loot Hunts Auto Chess Mode: 280+ Skills, Infinite Strategic Depth Story Mode: Open-World Exploration, Squad-Building Mastery As an indie game, it is of high quality and definitely worth owning.
 
@@ -10,21 +10,29 @@ One Game, Three Modes Survivor Mode: Frenetic Combat, Endless Loot Hunts Auto Ch
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 6/10 |
-| Steam positive reviews | 57.1% |
-| Review count | 7 |
-| Steam release date | Jul 12, 2025 |
-| Status | Released |
-| Developers | VoidStudio |
-| US price snapshot | $6.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 57.1% / 7 Steam reviews |
+| Release | Jul 12, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | VoidStudio |
+| Price snapshot | $6.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2401740/)
+
+> Small review sample
 
 ## Official media
 
-- [Promotional Video - English01](https://video.akamai.steamstatic.com/store_trailers/2401740/871118/9a7b34914654fb94c5967a3a9e905f0c40714066/1750915385/hls_264_master.m3u8?t=1744782102)
-- [AutoChess Video - English01](https://video.akamai.steamstatic.com/store_trailers/2401740/868903/b4e58f92d8041359b61182fd99b165b58f50b5ee/1750915383/hls_264_master.m3u8?t=1744683297)
-- [Story Video - English01](https://video.akamai.steamstatic.com/store_trailers/2401740/868915/69ba7f6dffc7ecf641f3a1dbbfc7263aa0bc1384/1750916849/hls_264_master.m3u8?t=1744683301)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Promotional Video - English01](https://video.akamai.steamstatic.com/store_trailers/2401740/871118/9a7b34914654fb94c5967a3a9e905f0c40714066/1750915385/hls_264_master.m3u8?t=1744782102)
+
+[AutoChess Video - English01](https://video.akamai.steamstatic.com/store_trailers/2401740/868903/b4e58f92d8041359b61182fd99b165b58f50b5ee/1750915383/hls_264_master.m3u8?t=1744683297)
+
+[Story Video - English01](https://video.akamai.steamstatic.com/store_trailers/2401740/868915/69ba7f6dffc7ecf641f3a1dbbfc7263aa0bc1384/1750916849/hls_264_master.m3u8?t=1744683301)
 
 ![​Shattered Lands (破碎之地) official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401740/5e71f5bbeed6e863eea7a7c7464ec3fb677b9a14/ss_5e71f5bbeed6e863eea7a7c7464ec3fb677b9a14.1920x1080.jpg?t=1752315207)
 
@@ -40,6 +48,10 @@ One Game, Three Modes Survivor Mode: Frenetic Combat, Endless Loot Hunts Auto Ch
 
 ![​Shattered Lands (破碎之地) official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401740/354cf9d8e18817c406f99c2f096a6ad1550d376c/ss_354cf9d8e18817c406f99c2f096a6ad1550d376c.1920x1080.jpg?t=1752315207)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2401740/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2401740&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2401740%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

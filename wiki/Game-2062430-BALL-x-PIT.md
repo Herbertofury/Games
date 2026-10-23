@@ -2,7 +2,7 @@
 
 ![BALL x PIT official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/a157aa8de4bd9070194ddffb27c31636355dca05/header.jpg?t=1790869056)
 
-**[Steam store](https://store.steampowered.com/app/2062430/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2062430)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2062430/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2062430)** · [Roguelites](Roguelites)
 
 BALL x PIT is a brick-breaking, ball-fusing, base-building survival roguelite. Batter hordes of enemies with ricocheting balls and gather the riches of the pit to expand your homestead, generate resources and recruit unique heroes.
 
@@ -10,18 +10,25 @@ BALL x PIT is a brick-breaking, ball-fusing, base-building survival roguelite. B
 |:--|:--|
 | Collection | Offbeat hybrids |
 | Recommendation | 9/10 |
-| Steam positive reviews | 95.2% |
-| Review count | 27,730 |
-| Steam release date | Oct 15, 2025 |
-| Status | Released |
-| Developers | Kenny Sun and Friends |
-| US price snapshot | $14.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 95.2% / 27,730 Steam reviews |
+| Release | Oct 15, 2025 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Kenny Sun and Friends |
+| Price snapshot | $14.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2062430/)
 
 ## Official media
 
-- [The Naturalist Update \| Out Now](https://video.akamai.steamstatic.com/store_trailers/2062430/1755717426/3aef12229166319d54952d03891f2b6080df679e/1784039714/hls_264_master.m3u8?t=1786033463)
-- [Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2062430/1468607397/3585842f9abc41bbf0614701445cbee64394480b/1759954499/hls_264_master.m3u8?t=1760647671)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[The Naturalist Update \| Out Now](https://video.akamai.steamstatic.com/store_trailers/2062430/1755717426/3aef12229166319d54952d03891f2b6080df679e/1784039714/hls_264_master.m3u8?t=1786033463)
+
+[Launch Trailer](https://video.akamai.steamstatic.com/store_trailers/2062430/1468607397/3585842f9abc41bbf0614701445cbee64394480b/1759954499/hls_264_master.m3u8?t=1760647671)
 
 ![BALL x PIT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/a28844182780f12e79a6b8d5db69eb8677642440/ss_a28844182780f12e79a6b8d5db69eb8677642440.1920x1080.jpg?t=1790869056)
 
@@ -43,6 +50,10 @@ BALL x PIT is a brick-breaking, ball-fusing, base-building survival roguelite. B
 
 ![BALL x PIT official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/0f725ba646b4c9dec3f661bbb8423047fd67057d/ss_0f725ba646b4c9dec3f661bbb8423047fd67057d.1920x1080.jpg?t=1790869056)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2062430/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2062430&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2062430%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

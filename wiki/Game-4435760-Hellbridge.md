@@ -2,7 +2,7 @@
 
 ![Hellbridge official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435760/e0986f9eb88649bb6183bbe62dcfe7ee3e1fb465/header.jpg?t=1792411324)
 
-**[Steam store](https://store.steampowered.com/app/4435760/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A4435760)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/4435760/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A4435760)** · [Roguelites](Roguelites)
 
 Defend the last bridge to the living world in a relentless siege from Hell. Survive escalating waves, draft powerful spells, grow stronger with every run, and enter cursed gates to stop the invasion at its source.
 
@@ -10,19 +10,25 @@ Defend the last bridge to the living world in a relentless siege from Hell. Surv
 |:--|:--|
 | Collection | Dark fantasy |
 | Recommendation | 7/10 |
-| Steam positive reviews | 80.0% |
-| Review count | 20 |
-| Steam release date | Aug 13, 2026 |
-| Status | Released |
-| Developers | Dex Games Studio |
-| US price snapshot | $9.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 80.0% / 20 Steam reviews |
+| Release | Aug 13, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Dex Games Studio |
+| Price snapshot | $9.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
 
-> **Check before buying:** Small review sample
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/4435760/)
+
+> Small review sample
 
 ## Official media
 
-- [Hellbridge - Gameplay](https://video.akamai.steamstatic.com/store_trailers/4435760/1151420084/655a140109b0fc20a612ffab9a45e72541c27309/1787761611/hls_264_master.m3u8?t=1787763266)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Hellbridge - Gameplay](https://video.akamai.steamstatic.com/store_trailers/4435760/1151420084/655a140109b0fc20a612ffab9a45e72541c27309/1787761611/hls_264_master.m3u8?t=1787763266)
 
 ![Hellbridge official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435760/6bc9f8d655f4ea4b23067c7c1128e75af648eb02/ss_6bc9f8d655f4ea4b23067c7c1128e75af648eb02.1920x1080.jpg?t=1792411324)
 
@@ -62,6 +68,10 @@ Defend the last bridge to the living world in a relentless siege from Hell. Surv
 
 ![Hellbridge official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435760/edb87ab320e7ece9a6dfd8270d535d11fb94c811/ss_edb87ab320e7ece9a6dfd8270d535d11fb94c811.1920x1080.jpg?t=1792411324)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/4435760/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=4435760&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A4435760%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

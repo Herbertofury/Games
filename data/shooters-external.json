@@ -1,0 +1,2231 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T06:35:12.994433+00:00",
+  "provenance": "Public creator/project pages reviewed October 23, 2026. Store ratings are native platform snapshots, not converted Steam percentages.",
+  "items": [
+    {
+      "id": "external:qbj3",
+      "seedId": "external:qbj3",
+      "name": "Quake Brutalist Jam III",
+      "seedName": "Quake Brutalist Jam III",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://www.moddb.com/mods/quake-brutalist-jam-iii",
+      "provider": "ModDB",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Quake worlds",
+      "collections": [
+        "Quake worlds"
+      ],
+      "fit": 9,
+      "summary": "A colossal community FPS built around brutalist architecture, a replacement arsenal, expanded monsters, and 77 maps.",
+      "curatorWhy": "One of the strongest free discoveries here: striking environments and a full-sized collection, not just a short demo.",
+      "developers": [
+        "QBJ3 community / stickflip"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Brutalism",
+        "Exploration",
+        "FPS",
+        "Free standalone",
+        "Quake worlds"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Free standalone / mod",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": "2026-01-03",
+      "releaseYear": 2026,
+      "releaseLabel": "2026-01-03",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": null,
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/quake-brutalist-jam-iii",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "ModDB standalone",
+          "url": "https://www.moddb.com/mods/quake-brutalist-jam-iii/downloads/qbj3-v13-standalone",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Slipseer",
+          "url": "https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Choose QBJ3 v1.3 STANDALONE for the bundled Windows game. That package uses LibreQuake assets and does not require an owned copy of Quake. The separate mod build has different requirements.",
+      "updateNote": "Standalone v1.3 download added March 21, 2026. Original jam release: January 3, 2026.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/quake-brutalist-jam-iii",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Standalone release and installation",
+          "url": "https://www.moddb.com/mods/quake-brutalist-jam-iii/downloads/qbj3-v13-standalone",
+          "label": "Standalone release and installation",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:ashes-2063",
+      "seedId": "external:ashes-2063",
+      "name": "Ashes 2063 / Afterglow",
+      "seedName": "Ashes 2063 / Afterglow",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://www.moddb.com/mods/ashes-2063",
+      "provider": "ModDB",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Total conversions",
+      "collections": [
+        "Total conversions"
+      ],
+      "fit": 9,
+      "summary": "Post-apocalyptic GZDoom campaigns mixing old-school gunplay with scavenging, ruined settlements, and wasteland exploration.",
+      "curatorWhy": "Start here for the free underground scene: a substantial world and atmosphere rather than another arena-only shooter.",
+      "developers": [
+        "Vostyok and Ashes team"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Exploration",
+        "FPS",
+        "Free standalone",
+        "GZDoom",
+        "Post-apocalyptic",
+        "Total conversions"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Free standalone / mod",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": 2021,
+      "releaseLabel": "2021 (year only)",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": null,
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/ashes-2063",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Use the official standalone compilation for the bundled game. Individual episode or add-on packages require the corresponding Ashes files and compatible GZDoom setup.",
+      "updateNote": "The official standalone compilation includes the released episodes and expansions; Blackwater is a separate 2026 add-on.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/ashes-2063",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:ashes-blackwater",
+      "seedId": "external:ashes-blackwater",
+      "name": "Ashes: Blackwater",
+      "seedName": "Ashes: Blackwater",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater",
+      "provider": "ModDB",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Total conversions",
+      "collections": [
+        "Total conversions"
+      ],
+      "fit": 8,
+      "summary": "An alternate-timeline Ashes add-on that reconnects six existing Afterglow and Hard Reset maps into a tougher hub-based adventure.",
+      "curatorWhy": "A genuinely recent reason to revisit Ashes. Expect remixed spaces, new dialogue, and a demanding night in Atlanta, not six wholly new maps.",
+      "developers": [
+        "Ykarion / Ashes community"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "FPS",
+        "GZDoom",
+        "Hub worlds",
+        "Post-apocalyptic",
+        "Total conversions"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Free standalone / mod",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": "2026-04-14",
+      "releaseYear": 2026,
+      "releaseLabel": "2026-04-14",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": null,
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "The June 20, 2026 v1.5 download is packaged as a standalone. Extract it and use its included launcher .bat. Hardcore mode requires the supplied GZDoom/config and its launcher. Earlier releases used a different setup.",
+      "updateNote": "Version 1.5, updated June 20, 2026, adopts a standalone package. Six remixed Afterglow/Hard Reset maps form a hub, rather than six newly made maps.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "ModDB creator release notes",
+          "url": "https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        },
+        {
+          "provider": "Ashes project",
+          "url": "https://www.moddb.com/mods/ashes-2063",
+          "label": "Ashes project",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": [],
+      "mediaPage": "https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater"
+    },
+    {
+      "id": "external:tremor",
+      "seedId": "external:tremor",
+      "name": "Tremor: An Alternate Version of Quake",
+      "seedName": "Tremor: An Alternate Version of Quake",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://www.moddb.com/mods/tremor-an-alternate-version-of-quake",
+      "provider": "ModDB",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Quake worlds",
+      "collections": [
+        "Quake worlds"
+      ],
+      "fit": 9,
+      "summary": "A four-episode, 32-map reimagining of Quake, revisiting familiar ideas through newly constructed environments.",
+      "curatorWhy": "A big 2026 campaign for someone who wants more Quake exploration rather than a new storefront purchase.",
+      "developers": [
+        "Tremor mapping team"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Campaign",
+        "Exploration",
+        "FPS",
+        "Quake",
+        "Quake worlds"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Mod / expansion",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": "2026-07-22",
+      "releaseYear": 2026,
+      "releaseLabel": "2026-07-22",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": null,
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/tremor-an-alternate-version-of-quake",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Slipseer",
+          "url": "https://www.slipseer.com/index.php?resources/tremor.614/",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Requires Quake game data and a compatible modern Quake source port. Follow the creator download instructions; this is not the QBJ3 standalone package.",
+      "updateNote": "The official Tremor file was updated October 18, 2026.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/tremor-an-alternate-version-of-quake",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Latest creator file",
+          "url": "https://www.moddb.com/mods/tremor-an-alternate-version-of-quake/downloads/tremor1",
+          "label": "Latest creator file",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:death-wish",
+      "seedId": "external:death-wish",
+      "name": "Death Wish for Blood",
+      "seedName": "Death Wish for Blood",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://www.moddb.com/mods/death-wish-for-blood",
+      "provider": "ModDB",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Total conversions",
+      "collections": [
+        "Total conversions"
+      ],
+      "fit": 9,
+      "summary": "A substantial fan campaign for Blood with occult environments, secret hunting, and a major 2.0 overhaul in 2026.",
+      "curatorWhy": "A must-investigate pick for Blood fans. The new overhaul matters more than its original 2011 launch date.",
+      "developers": [
+        "Bloatoid and Death Wish team"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Blood",
+        "Campaign",
+        "FPS",
+        "Occult",
+        "Total conversions"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Mod / expansion",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": 2011,
+      "releaseLabel": "2011 (year only)",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "ModDB",
+        "value": 9.7,
+        "max": 10,
+        "count": 123,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://www.moddb.com/mods/death-wish-for-blood"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/death-wish-for-blood",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Requires Blood. The creator lists DOS, NBlood, Raze, BuildGDX, Fresh Supply, and Refreshed Supply support; use the matching instructions for your edition.",
+      "updateNote": "Major 2.0 release: March 19, 2026. Version 2.0.1 update: June 22, 2026.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/death-wish-for-blood",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:dwell",
+      "seedId": "external:dwell",
+      "name": "Dwell",
+      "seedName": "Dwell",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://www.moddb.com/mods/dwell",
+      "provider": "ModDB",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Quake worlds",
+      "collections": [
+        "Quake worlds"
+      ],
+      "fit": 9,
+      "summary": "A sprawling Quake conversion with ancient architecture, a reworked arsenal, unusual monsters, and exploration-heavy campaigns.",
+      "curatorWhy": "One of the richer Quake-world discoveries. The released episodes are substantial, but the planned four-episode project is not presented as complete.",
+      "developers": [
+        "Dwell team"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Ancient worlds",
+        "Exploration",
+        "FPS",
+        "Quake",
+        "Quake worlds"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Mod / expansion",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": 2020,
+      "releaseLabel": "2020 (year only)",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": null,
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/dwell",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Slipseer",
+          "url": "https://www.slipseer.com/index.php?resources/dwell.21/",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Requires Quake and a compatible enhanced source port. Use the creator-recommended engine and installation instructions.",
+      "updateNote": "Episode 2 was released February 4, 2023. Two released episodes are documented; the larger four-episode plan is still distinct.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/dwell",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:arcane-dimensions",
+      "seedId": "external:arcane-dimensions",
+      "name": "Arcane Dimensions",
+      "seedName": "Arcane Dimensions",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://www.moddb.com/mods/arcane-dimensions",
+      "provider": "ModDB",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Quake worlds",
+      "collections": [
+        "Quake worlds"
+      ],
+      "fit": 9,
+      "summary": "A Quake expansion framework and map collection focused on intricate levels, alternate routes, new enemies, and environmental storytelling.",
+      "curatorWhy": "The essential older counterweight to the newest jams: worth keeping beside Dwell and QBJ3 for its imaginative level design.",
+      "developers": [
+        "Simon OCallaghan and community contributors"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Exploration",
+        "FPS",
+        "Nonlinear maps",
+        "Quake",
+        "Quake worlds"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Mod / expansion",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": null,
+      "releaseLabel": "Original date unlisted",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": null,
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/arcane-dimensions",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Requires Quake game data and a source port supported by the chosen Arcane Dimensions release. Read that release's instructions.",
+      "updateNote": "",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/arcane-dimensions",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:blade-of-agony",
+      "seedId": "external:blade-of-agony",
+      "name": "Wolfenstein: Blade of Agony",
+      "seedName": "Wolfenstein: Blade of Agony",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://boa.realm667.com/",
+      "provider": "Official site",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Total conversions",
+      "collections": [
+        "Total conversions"
+      ],
+      "fit": 9,
+      "summary": "A free, story-driven WWII FPS campaign built with GZDoom, combining missions, secrets, and cinematic presentation.",
+      "curatorWhy": "A substantial standalone campaign outside the big stores. Its ambitious presentation makes it more than a quick nostalgia experiment.",
+      "developers": [
+        "Realm667 / Blade of Agony team"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Campaign",
+        "FPS",
+        "Free standalone",
+        "GZDoom",
+        "Total conversions",
+        "WWII"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Free standalone",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": 2021,
+      "releaseLabel": "2021 (year only)",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": null,
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "Official site",
+          "url": "https://boa.realm667.com/",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Choose the official standalone distribution for the bundled game. The separate mod package needs the documented GZDoom setup.",
+      "updateNote": "",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "Official site",
+          "url": "https://boa.realm667.com/",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:project-osiris",
+      "seedId": "external:project-osiris",
+      "name": "Project Osiris",
+      "seedName": "Project Osiris",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://arcturusdeluxe.itch.io/project-osiris",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Underground & freeware",
+      "collections": [
+        "Underground & freeware"
+      ],
+      "fit": 8,
+      "summary": "A free remake of Alien Breed 3D in GZDoom, rebuilding its 16-level campaign with modern controls and lighting.",
+      "curatorWhy": "An excellent deep cut for chunky sci-fi environments and deliberate exploration, particularly if you missed the Amiga original.",
+      "developers": [
+        "ArcturusDeluxe"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "FPS",
+        "Free standalone",
+        "GZDoom",
+        "Sci-fi",
+        "Underground & freeware"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows",
+        "linux",
+        "mac"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Free standalone",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": 2021,
+      "releaseLabel": "2021 (year only)",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.7,
+        "max": 5,
+        "count": 22,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://arcturusdeluxe.itch.io/project-osiris"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://arcturusdeluxe.itch.io/project-osiris",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "The Windows download includes GZDoom and the game. No Doom II WAD is required. Other operating systems need a compatible GZDoom installation.",
+      "updateNote": "Version 1.0.3 is documented in the May 11, 2021 development log.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://arcturusdeluxe.itch.io/project-osiris",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": [
+        "Community rating has a small sample"
+      ]
+    },
+    {
+      "id": "external:golden-souls",
+      "seedId": "external:golden-souls",
+      "name": "Doom: The Golden Souls Remastered",
+      "seedName": "Doom: The Golden Souls Remastered",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://batandy.itch.io/goldensouls",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Total conversions",
+      "collections": [
+        "Total conversions"
+      ],
+      "fit": 8,
+      "summary": "A colorful Doom II adventure that sends you through paintings into platforming-heavy worlds, now represented by its remastered edition.",
+      "curatorWhy": "A creative change of pace when you want secrets, jumping challenges, and whimsical worlds instead of another grim industrial corridor.",
+      "developers": [
+        "Batandy"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Doom II",
+        "FPS",
+        "GZDoom",
+        "Platforming",
+        "Total conversions"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Mod / expansion",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": 2021,
+      "releaseLabel": "2021 (year only)",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.8,
+        "max": 5,
+        "count": 83,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://batandy.itch.io/goldensouls"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://batandy.itch.io/goldensouls",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/Batandy",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Requires DOOM2.WAD and compatible GZDoom. This is not a standalone commercial Doom replacement.",
+      "updateNote": "",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://batandy.itch.io/goldensouls",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:golden-souls-2",
+      "seedId": "external:golden-souls-2",
+      "name": "Doom: The Golden Souls 2",
+      "seedName": "Doom: The Golden Souls 2",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://batandy.itch.io/goldensouls2",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Total conversions",
+      "collections": [
+        "Total conversions"
+      ],
+      "fit": 9,
+      "summary": "A large Doom II platforming adventure with a world map, inventive stages, and a very different tone from conventional demon corridors.",
+      "curatorWhy": "One of the most distinctive free mod recommendations: an entire adventure rather than only a new weapon set.",
+      "developers": [
+        "Batandy"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Doom II",
+        "FPS",
+        "GZDoom",
+        "Platforming",
+        "Total conversions",
+        "World map"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Mod / expansion",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": 2018,
+      "releaseLabel": "2018 (year only)",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.9,
+        "max": 5,
+        "count": 51,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://batandy.itch.io/goldensouls2"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://batandy.itch.io/goldensouls2",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/Batandy",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Requires DOOM2.WAD and compatible GZDoom.",
+      "updateNote": "The creator documents a 2025 v1.4.1 update with revised jumping.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://batandy.itch.io/goldensouls2",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:golden-souls-3",
+      "seedId": "external:golden-souls-3",
+      "name": "Doom: The Golden Souls 3 - Public Demo",
+      "seedName": "Doom: The Golden Souls 3 - Public Demo",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://batandy.itch.io/goldensouls3",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Demos & prototypes",
+      "collections": [
+        "Demos & prototypes"
+      ],
+      "fit": 7,
+      "summary": "A playable preview of Batandy's next colorful Doom platforming adventure, not a completed third campaign.",
+      "curatorWhy": "Worth trying after the first two games. Keep expectations at demo scope; Patreon is an optional support route, not a claim of full-game availability.",
+      "developers": [
+        "Batandy"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Demo",
+        "Demos & prototypes",
+        "Doom II",
+        "FPS",
+        "Platforming"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Demo",
+      "comingSoon": false,
+      "kind": "Playable demo",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": null,
+      "releaseLabel": "Original date unlisted",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.9,
+        "max": 5,
+        "count": 37,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://batandy.itch.io/goldensouls3"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://batandy.itch.io/goldensouls3",
+          "kind": "demo",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/Batandy",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Requires DOOM2.WAD and compatible GZDoom. Download the public Demo 2 / hotfix package from the creator.",
+      "updateNote": "",
+      "confidence": "Exploratory",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://batandy.itch.io/goldensouls3",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": [
+        "Exploratory recommendation; limited independent reception"
+      ]
+    },
+    {
+      "id": "external:simons-destiny",
+      "seedId": "external:simons-destiny",
+      "name": "Castlevania: Simon's Destiny",
+      "seedName": "Castlevania: Simon's Destiny",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://batandy.itch.io/simonsdestiny",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Fantasy FPS",
+      "collections": [
+        "Fantasy FPS"
+      ],
+      "fit": 8,
+      "summary": "A free first-person Castlevania reinterpretation built around whip combat, familiar monsters, and platforming.",
+      "curatorWhy": "A stylish adjacent pick, not a conventional gun shooter. Its handcrafted first-person reinterpretation makes it a worthwhile hidden discovery.",
+      "developers": [
+        "Batandy"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "FPS",
+        "Fantasy FPS",
+        "GZDoom",
+        "Melee",
+        "Platforming"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Free standalone",
+      "genreScope": "Adjacent FPS",
+      "releaseDate": null,
+      "releaseYear": 2017,
+      "releaseLabel": "2017 (year only)",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.8,
+        "max": 5,
+        "count": 142,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://batandy.itch.io/simonsdestiny"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://batandy.itch.io/simonsdestiny",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/Batandy",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Requires GZDoom, but the creator states no Doom game IWAD is needed.",
+      "updateNote": "The creator download currently lists version 1.4.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://batandy.itch.io/simonsdestiny",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:shrine",
+      "seedId": "external:shrine",
+      "name": "Shrine",
+      "seedName": "Shrine",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://scumhead.itch.io/shrine",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Horror & occult FPS",
+      "collections": [
+        "Horror & occult FPS"
+      ],
+      "fit": 8,
+      "summary": "A compact, surreal Doom-engine FPS through grotesque environments, strange creatures, and an unconventional arsenal.",
+      "curatorWhy": "An approachable free introduction to Scumhead's horror work. The original Shrine belongs here even though its sequel has a Steam listing.",
+      "developers": [
+        "Scumhead"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "FPS",
+        "Free standalone",
+        "GZDoom",
+        "Horror & occult FPS",
+        "Surreal"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Free standalone",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": null,
+      "releaseLabel": "Original date unlisted",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.5,
+        "max": 5,
+        "count": 82,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://scumhead.itch.io/shrine"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://scumhead.itch.io/shrine",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/scumhead",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Use the creator's standalone Windows or Linux package. No paid Doom copy is listed as a prerequisite.",
+      "updateNote": "Creator download lists version 1.4.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://scumhead.itch.io/shrine",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:poom",
+      "seedId": "external:poom",
+      "name": "POOM",
+      "seedName": "POOM",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://freds72.itch.io/poom",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Underground & freeware",
+      "collections": [
+        "Underground & freeware"
+      ],
+      "fit": 8,
+      "summary": "A remarkably compact PICO-8 reinvention of Doom, playable in a browser or as a downloadable build.",
+      "curatorWhy": "A genuinely unusual browser-first gem. It trades modern fidelity for clever design and an impressive sense of place within tiny technical limits.",
+      "developers": [
+        "freds72 / Paranoid Cactus"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Browser",
+        "Demake",
+        "FPS",
+        "PICO-8",
+        "Underground & freeware"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "web",
+        "windows",
+        "linux",
+        "mac"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Browser / standalone game",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": "2020-12-13",
+      "releaseYear": 2020,
+      "releaseLabel": "2020-12-13",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.8,
+        "max": 5,
+        "count": 1045,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://freds72.itch.io/poom"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://freds72.itch.io/poom",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Newgrounds",
+          "url": "https://www.newgrounds.com/portal/view/774331",
+          "kind": "browser",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Play in a compatible browser or use the creator's downloadable build. No separate Doom installation is required.",
+      "updateNote": "",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://freds72.itch.io/poom",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Creator Newgrounds release",
+          "url": "https://www.newgrounds.com/portal/view/774331",
+          "label": "Creator Newgrounds release",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:gun-godz",
+      "seedId": "external:gun-godz",
+      "name": "GUN GODZ",
+      "seedName": "GUN GODZ",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://vlambeer.itch.io/gun-godz",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Underground & freeware",
+      "collections": [
+        "Underground & freeware"
+      ],
+      "fit": 8,
+      "summary": "A compact retro FPS built for fast runs, aggressive gunplay, and a distinctive Venusian-rap soundtrack.",
+      "curatorWhy": "A sharp, free older pick from Vlambeer. Best approached as a replayable score-and-speed challenge rather than a long story campaign.",
+      "developers": [
+        "Vlambeer"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "FPS",
+        "Free standalone",
+        "Retro",
+        "Speedrunning",
+        "Underground & freeware"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows",
+        "linux",
+        "mac"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Free standalone",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": null,
+      "releaseLabel": "Original date unlisted",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.5,
+        "max": 5,
+        "count": 199,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://vlambeer.itch.io/gun-godz"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://vlambeer.itch.io/gun-godz",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Download the standalone creator build for your operating system.",
+      "updateNote": "",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://vlambeer.itch.io/gun-godz",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:siren",
+      "seedId": "external:siren",
+      "name": "Siren",
+      "seedName": "Siren",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://dithered-output.itch.io/siren-doom-ii-mod",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Total conversions",
+      "collections": [
+        "Total conversions"
+      ],
+      "fit": 8,
+      "summary": "A horror-oriented Doom II total conversion with a heavier emphasis on atmosphere and tense encounters.",
+      "curatorWhy": "A promising mod-scene discovery for horror FPS fans; it is deliberately separated from the fastest movement shooters.",
+      "developers": [
+        "Dithered Output"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Doom II",
+        "FPS",
+        "GZDoom",
+        "Horror",
+        "Total conversions"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Prototype",
+      "comingSoon": false,
+      "kind": "Playable mod build",
+      "genreScope": "Adjacent FPS",
+      "releaseDate": null,
+      "releaseYear": null,
+      "releaseLabel": "Original date unlisted",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.8,
+        "max": 5,
+        "count": 29,
+        "sourceUrl": "https://dithered-output.itch.io/siren-doom-ii-mod",
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://dithered-output.itch.io/siren-doom-ii-mod",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Requires Doom II game data and the GZDoom version specified by the creator. Check the creator page for the current package and setup.",
+      "updateNote": "Public build 0.91b: February 12, 2026. The creator still labels the project in development.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://dithered-output.itch.io/siren-doom-ii-mod",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:brutal-doom",
+      "seedId": "external:brutal-doom",
+      "name": "Brutal Doom",
+      "seedName": "Brutal Doom",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://www.moddb.com/mods/brutal-doom",
+      "provider": "ModDB",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Total conversions",
+      "collections": [
+        "Total conversions"
+      ],
+      "fit": 8,
+      "summary": "A combat overhaul for classic Doom with expanded weapon behavior, more forceful feedback, and much more graphic enemy reactions.",
+      "curatorWhy": "Keep it as a gameplay-mod recommendation, not a separate campaign. Pair it only with maps and other mods whose compatibility is documented.",
+      "developers": [
+        "Sgt Mark IV"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Doom",
+        "FPS",
+        "GZDoom",
+        "Gameplay overhaul",
+        "Total conversions"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Gameplay mod",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": 2012,
+      "releaseLabel": "2012 (year only)",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": null,
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/brutal-doom",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/sgtmarkiv",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Requires compatible Doom game data and an engine supported by the selected release. Other gameplay mods can conflict.",
+      "updateNote": "Stable v21 is separate from v22 Beta Test 6, published April 1, 2026. Choose a version deliberately and read its included manual.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/brutal-doom",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": "external:vietdoom",
+      "seedId": "external:vietdoom",
+      "name": "VietDoom - Public Alpha",
+      "seedName": "VietDoom - Public Alpha",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://www.moddb.com/mods/vietdoom",
+      "provider": "ModDB",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Demos & prototypes",
+      "collections": [
+        "Demos & prototypes"
+      ],
+      "fit": 7,
+      "summary": "A publicly available Vietnam-themed Doom conversion experimenting with larger combat spaces and tactical systems.",
+      "curatorWhy": "An experimental deep cut, not a polished 2026 standalone release. The old public alpha and the creator's later standalone ambitions are different products.",
+      "developers": [
+        "Sgt Mark IV"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Demos & prototypes",
+        "Doom II",
+        "Experimental",
+        "FPS",
+        "Vietnam"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Prototype",
+      "comingSoon": false,
+      "kind": "Prototype / mod",
+      "genreScope": "Adjacent FPS",
+      "releaseDate": null,
+      "releaseYear": 2019,
+      "releaseLabel": "2019 (year only)",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": null,
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/vietdoom",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "Patreon",
+          "url": "https://www.patreon.com/sgtmarkiv",
+          "kind": "support",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "The public legacy alpha is a Doom II mod. Follow its documented base-game and engine requirements.",
+      "updateNote": "Public Alpha 3 is dated November 5, 2020. Later creator discussions about a standalone project do not make this alpha a full release.",
+      "confidence": "Exploratory",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/vietdoom",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": [
+        "Exploratory recommendation; limited independent reception"
+      ]
+    },
+    {
+      "id": "external:total-chaos-original",
+      "seedId": "external:total-chaos-original",
+      "name": "Total Chaos - Original GZDoom Mod",
+      "seedName": "Total Chaos - Original GZDoom Mod",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://www.moddb.com/mods/total-chaos",
+      "provider": "ModDB",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Horror & occult FPS",
+      "collections": [
+        "Horror & occult FPS"
+      ],
+      "fit": 8,
+      "summary": "An atmospheric survival-horror conversion with scavenging, crafting, and dangerous encounters in an abandoned industrial setting.",
+      "curatorWhy": "A striking example of what the Doom mod scene can build, but slower and more survival-focused than a typical boomer shooter.",
+      "developers": [
+        "wadaholic"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Crafting",
+        "FPS",
+        "GZDoom",
+        "Horror & occult FPS",
+        "Survival horror"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Free standalone / mod",
+      "genreScope": "Adjacent FPS",
+      "releaseDate": null,
+      "releaseYear": 2018,
+      "releaseLabel": "2018 (year only)",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": null,
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/total-chaos",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "requirements": "Original free GZDoom Director's Cut 1.40, not the separate Unreal Engine remake. The official package includes GZDoom and does not require Total Chaos 1.0 or DOOM2.WAD.",
+      "updateNote": "Original mod Director's Cut 1.40: August 8, 2022. The later commercial remake has a separate release history.",
+      "confidence": "Researched",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "ModDB",
+          "url": "https://www.moddb.com/mods/total-chaos",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        },
+        {
+          "provider": "ModDB original Director's Cut",
+          "url": "https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140",
+          "verified": true,
+          "lastChecked": "2026-10-23"
+        }
+      ],
+      "warnings": [],
+      "mediaPage": "https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140"
+    },
+    {
+      "id": "external:kauna-prototype",
+      "seedId": "external:kauna-prototype",
+      "name": "KAUNA - Creator Prototype",
+      "seedName": "KAUNA - Creator Prototype",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://anttironkkagames.itch.io/kauna",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Demos & prototypes",
+      "collections": [
+        "Demos & prototypes"
+      ],
+      "fit": 7,
+      "summary": "A Finnish retro FPS about reclaiming your cottage and sauna from invading demons, available as a free work-in-progress build.",
+      "curatorWhy": "A characterful tiny-audience discovery. Try the prototype first rather than treating a handful of ratings as proof of a finished hit.",
+      "developers": [
+        "Antti Ronkka Games"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Demos & prototypes",
+        "FPS",
+        "Finnish",
+        "Godot",
+        "Prototype"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "status": "Prototype",
+      "comingSoon": false,
+      "kind": "Playable prototype",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": null,
+      "releaseLabel": "Original date unlisted",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.2,
+        "max": 5,
+        "count": 4,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://anttironkkagames.itch.io/kauna"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://anttironkkagames.itch.io/kauna",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Standalone downloadable prototype. The creator labels it a work in progress.",
+      "updateNote": "Version 0.15 update: September 14, 2025.",
+      "confidence": "Exploratory",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://anttironkkagames.itch.io/kauna",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": [
+        "Exploratory recommendation; limited independent reception",
+        "Community rating has a small sample"
+      ]
+    },
+    {
+      "id": "external:wanted3d-demo",
+      "seedId": "external:wanted3d-demo",
+      "name": "Wanted 3D: Dead or Alive - Demo",
+      "seedName": "Wanted 3D: Dead or Alive - Demo",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://pavoent.itch.io/wanted-3d-dead-or-alive",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Demos & prototypes",
+      "collections": [
+        "Demos & prototypes"
+      ],
+      "fit": 7,
+      "summary": "A spaghetti-western retro FPS preview with bandits, secret hunting, period weapons, and a revenge-story setup.",
+      "curatorWhy": "A fun-looking offbeat prospect for the demo shelf. The advertised full-game campaign features are not being passed off as the size of the demo.",
+      "developers": [
+        "Pavo Entertainment"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Demo",
+        "Demos & prototypes",
+        "FPS",
+        "UZDoom",
+        "Western"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Demo",
+      "comingSoon": false,
+      "kind": "Playable demo",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": null,
+      "releaseLabel": "Original date unlisted",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 5,
+        "max": 5,
+        "count": 2,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://pavoent.itch.io/wanted-3d-dead-or-alive"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://pavoent.itch.io/wanted-3d-dead-or-alive",
+          "kind": "demo",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Download Wanted3Ddemo.rar from the official creator page and follow the bundled instructions.",
+      "updateNote": "Public demo updated to UZDoom on November 24, 2025.",
+      "confidence": "Exploratory",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://pavoent.itch.io/wanted-3d-dead-or-alive",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": [
+        "Exploratory recommendation; limited independent reception",
+        "Community rating has a small sample"
+      ]
+    },
+    {
+      "id": "external:boom-abydos",
+      "seedId": "external:boom-abydos",
+      "name": "BOOM: Defense of Abydos",
+      "seedName": "BOOM: Defense of Abydos",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://ez4e99.itch.io/boom-defense-of-abydos",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Underground & freeware",
+      "collections": [
+        "Underground & freeware"
+      ],
+      "fit": 7,
+      "summary": "A Godot-based Blue Archive fangame combining a short Doom-inspired campaign with replayable survival combat.",
+      "curatorWhy": "A genuine niche-host discovery with a 2026 update trail. Its small review pool makes it a promising free experiment rather than a guaranteed favorite.",
+      "developers": [
+        "Izzy"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Anime",
+        "FPS",
+        "Fangame",
+        "Godot",
+        "Underground & freeware"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows",
+        "android"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Standalone game",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": null,
+      "releaseLabel": "Original date unlisted",
+      "free": true,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 4.9,
+        "max": 5,
+        "count": 28,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://ez4e99.itch.io/boom-defense-of-abydos"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://ez4e99.itch.io/boom-defense-of-abydos",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "Standalone Windows download; the creator also offers a separate Android build.",
+      "updateNote": "PC v1.10: August 10, 2026. Android v1.10M: September 30, 2026. These are update dates, not the original release date.",
+      "confidence": "Exploratory",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://ez4e99.itch.io/boom-defense-of-abydos",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": [
+        "Exploratory recommendation; limited independent reception",
+        "Community rating has a small sample"
+      ]
+    },
+    {
+      "id": "external:dead-trash-yellow-snow",
+      "seedId": "external:dead-trash-yellow-snow",
+      "name": "Dead Trash: Operation Yellow Snow - itch.io Standalone",
+      "seedName": "Dead Trash: Operation Yellow Snow - itch.io Standalone",
+      "appid": null,
+      "steamUrl": null,
+      "primaryUrl": "https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow",
+      "provider": "itch.io",
+      "hubs": [
+        "Boomer shooters"
+      ],
+      "collection": "Horror & occult FPS",
+      "collections": [
+        "Horror & occult FPS"
+      ],
+      "fit": 7,
+      "summary": "A short, violent holiday mini-campaign with infected decorations, strange enemies, and a new mission in the Dead Trash universe.",
+      "curatorWhy": "A small paid curiosity for fans of the base game's grimy tone. The itch.io version is a standalone purchase; the Steam edition is DLC.",
+      "developers": [
+        "Crowhill Studios"
+      ],
+      "publishers": [],
+      "genres": [
+        "FPS"
+      ],
+      "tags": [
+        "Expansion",
+        "FPS",
+        "Horror",
+        "Horror & occult FPS",
+        "Short campaign"
+      ],
+      "features": [
+        "Single-player"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "kind": "Standalone expansion",
+      "genreScope": "Core retro / movement FPS",
+      "releaseDate": null,
+      "releaseYear": null,
+      "releaseLabel": "Original date unlisted",
+      "free": false,
+      "price": null,
+      "priceMinor": null,
+      "currency": null,
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "externalRating": {
+        "provider": "itch.io",
+        "value": 5,
+        "max": 5,
+        "count": 4,
+        "checkedAt": "2026-10-23T06:35:12.994433+00:00",
+        "sourceUrl": "https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow"
+      },
+      "image": null,
+      "screenshots": [],
+      "trailers": [],
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow",
+          "kind": "download",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "requirements": "This record refers to the standalone itch.io purchase. The separate Steam DLC requires the Steam base game.",
+      "updateNote": "",
+      "confidence": "Exploratory",
+      "hiddenGem": true,
+      "verification": "verified",
+      "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
+      "sources": [
+        {
+          "provider": "itch.io",
+          "url": "https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow",
+          "verified": true,
+          "lastChecked": "2026-10-23T06:35:12.994433+00:00"
+        }
+      ],
+      "warnings": [
+        "Exploratory recommendation; limited independent reception",
+        "Community rating has a small sample"
+      ]
+    }
+  ]
+}

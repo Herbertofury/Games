@@ -2,7 +2,7 @@
 
 ![Temtem: Swarm official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510960/9eed19ba2e454b3a0a00dde88966dcd2e5decc04/header.jpg?t=1792396229)
 
-**[Steam store](https://store.steampowered.com/app/2510960/)** &nbsp; | &nbsp; **[Watch trailers / open interactive details](https://herbertofury.github.io/Games/#game=steam%3A2510960)** &nbsp; | &nbsp; [Back to Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/2510960/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2510960)** · [Roguelites](Roguelites)
 
 Can you Survive the Swarm? Unlock mighty abilities and upgrades, find and collect Tems to evolve and become stronger, discover overpowered strategies, and battle massive bosses in this survivor-like bullet heaven! Play solo or online co-op with up to 3 players, building the wildest synergies.
 
@@ -10,22 +10,33 @@ Can you Survive the Swarm? Unlock mighty abilities and upgrades, find and collec
 |:--|:--|
 | Collection | Bullet heaven |
 | Recommendation | 7/10 |
-| Steam positive reviews | 78.5% |
-| Review count | 2,771 |
-| Steam release date | Apr 2, 2026 |
-| Status | Released |
-| Developers | Crema, GGTech Studios |
-| US price snapshot | $12.99 |
-| Last verified | 2026-10-23T03:38:48.963323+00:00 |
+| Community reception | 78.5% / 2,771 Steam reviews |
+| Release | Apr 2, 2026 |
+| Availability | Released |
+| Build type | Standalone game |
+| Creators | Crema, GGTech Studios |
+| Price snapshot | $12.99 |
+| Verified | 2026-10-23T03:38:48.963323+00:00 |
+
+## Official stores and downloads
+
+- [Steam: store](https://store.steampowered.com/app/2510960/)
 
 ## Official media
 
-- [Temtem: Swarm 1.0 - Available Now!](https://video.akamai.steamstatic.com/store_trailers/2510960/953507815/17cd034a28d352a1b755be50343af0b634cb59e2/1775149993/hls_264_master.m3u8?t=1775150982)
-- [Update Trailer - Shattered Eclipse](https://video.akamai.steamstatic.com/store_trailers/2510960/400891927/d47c821d8fee42a57574ef3f0aa4614892bcdb2e/1758521643/hls_264_master.m3u8?t=1772711808)
-- [Update Trailer - Endless Inferno](https://video.akamai.steamstatic.com/store_trailers/2510960/1491839436/b96dceffb0debab55bf34c8c9a90973a318ae34f/1750140438/hls_264_master.m3u8?t=1750147627)
-- [Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2510960/657173/de2d5caadbedd72e31e067f05780bfe03208d665/1750816031/hls_264_master.m3u8?t=1708448238)
-- [Update Trailer - Omninesia Overrun](https://video.akamai.steamstatic.com/store_trailers/2510960/845994/55ef7fa9cbef3bee015a522d3cedb4281244de97/1750816033/hls_264_master.m3u8?t=1741343062)
-- [Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2510960/709551/35e189c8647095489c727982c6b92c66731ef0f8/1750816032/hls_264_master.m3u8?t=1732189788)
+The interactive library plays compatible trailers in-page. GitHub wiki links open their official source.
+
+[Temtem: Swarm 1.0 - Available Now!](https://video.akamai.steamstatic.com/store_trailers/2510960/953507815/17cd034a28d352a1b755be50343af0b634cb59e2/1775149993/hls_264_master.m3u8?t=1775150982)
+
+[Update Trailer - Shattered Eclipse](https://video.akamai.steamstatic.com/store_trailers/2510960/400891927/d47c821d8fee42a57574ef3f0aa4614892bcdb2e/1758521643/hls_264_master.m3u8?t=1772711808)
+
+[Update Trailer - Endless Inferno](https://video.akamai.steamstatic.com/store_trailers/2510960/1491839436/b96dceffb0debab55bf34c8c9a90973a318ae34f/1750140438/hls_264_master.m3u8?t=1750147627)
+
+[Announcement Trailer](https://video.akamai.steamstatic.com/store_trailers/2510960/657173/de2d5caadbedd72e31e067f05780bfe03208d665/1750816031/hls_264_master.m3u8?t=1708448238)
+
+[Update Trailer - Omninesia Overrun](https://video.akamai.steamstatic.com/store_trailers/2510960/845994/55ef7fa9cbef3bee015a522d3cedb4281244de97/1750816033/hls_264_master.m3u8?t=1741343062)
+
+[Gameplay Trailer](https://video.akamai.steamstatic.com/store_trailers/2510960/709551/35e189c8647095489c727982c6b92c66731ef0f8/1750816032/hls_264_master.m3u8?t=1732189788)
 
 ![Temtem: Swarm official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510960/e0ed64b799a72617b79fb0191078a73ca4acb651/ss_e0ed64b799a72617b79fb0191078a73ca4acb651.1920x1080.jpg?t=1792396229)
 
@@ -53,6 +64,10 @@ Can you Survive the Swarm? Unlock mighty abilities and upgrades, find and collec
 
 ![Temtem: Swarm official Steam screenshot](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510960/5e272622ecba6b9cbb2243c997630e904ee38b2a/ss_5e272622ecba6b9cbb2243c997630e904ee38b2a.1920x1080.jpg?t=1792396229)
 
-## Source and recommendation notes
+## Sources and evidence
 
-Steam facts and media are official store data. The recommendation is editorial fit, not a play-tested review. [Full scoring and source policy](Ratings-and-Sources). Personal favorites, notes, and your own ratings are kept separately in the interactive library.
+- [Steam](https://store.steampowered.com/app/2510960/) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2510960&l=english&cc=us) · checked 2026-10-23T03:38:48.963323+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2510960%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T03:38:48.963323+00:00
+
+[Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
