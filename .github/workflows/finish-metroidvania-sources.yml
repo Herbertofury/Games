@@ -1,0 +1,49 @@
+name: Complete Metroidvania sources
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/finish-metroidvania-sources.yml']
+permissions:
+  contents: write
+  actions: read
+jobs:
+  complete:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Reuse the exact validated source-pages artifact
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api repos/Herbertofury/Games/actions/artifacts/12518943138/zip > /tmp/mv-evidence.zip
+          echo '3c60be52240ad62763c1fff9a63a5ab46d19194e2db6f902c8fb5916ab61e2b3  /tmp/mv-evidence.zip' | sha256sum -c -
+          mkdir -p qa/metroidvania-media
+          unzip -q /tmp/mv-evidence.zip -d qa/metroidvania-media
+      - name: Complete exact media and source records
+        run: |
+          python3 -m py_compile scripts/finish_metroidvania_sources.py
+          python3 scripts/finish_metroidvania_sources.py
+      - name: Persist complete source changes before browser QA
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/metroidvania-*.json media/metroidvania
+          if ! git diff --cached --quiet; then
+            git commit -m 'Complete exact Metroidvania media, console landmarks, and source edition distinctions'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: metroidvania-completed-sources
+          path: |
+            data/metroidvania-*
+            media/metroidvania/
+            qa/metroidvania-media/metroid-ravenous.html
+            scripts/finish_metroidvania_sources.py
