@@ -67,6 +67,10 @@ def integrate(root,games):
    if g.get('originalReleaseYear'):old['originalReleaseYear']=min(old.get('originalReleaseYear') or g['originalReleaseYear'],g['originalReleaseYear'])
    old['storefronts']=normalized_links(old.get('storefronts',[])+g['storefronts']);old['sources']=list({x['url']:x for x in old.get('sources',[])+g['sources']}.values())
   else:games[ident]=g
+  # Late-arriving chronology applies to every membership of the shared identity.
+  # Retain the game and its complete genre memberships; remove only stale recency claims.
+  if (games[ident].get('originalReleaseYear') or 2025)<2025:
+   games[ident]['tags']=[tag for tag in games[ident]['tags'] if tag not in {'Recent RTS release','Recent Metroidvania release','Recent survival release'}]
   ids.append(ident)
  dates=[x.get('generatedAt') for x in [steam,external,load(root,'survival-chronology.json',{})] if x.get('generatedAt')];review=load(root,'survival-reconciliation.json',{})
  names={g['id']:g['name'] for g in steam['items']+external['items']}
