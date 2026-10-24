@@ -1,0 +1,41 @@
+name: Refresh couch party discoveries
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['data/party-seeds.tsv','data/party-corrections.json','scripts/collect_party.py','.github/workflows/collect-party.yml']
+permissions:
+  contents: write
+concurrency:
+  group: couch-party-research
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 22
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Collect exact identities, local capacity evidence, media and stores
+        run: python3 scripts/collect_party.py
+      - name: Persist research and unresolved counts before any publication
+        if: always()
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/party-*.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Checkpoint couch-party identities, local count evidence, media and store coverage'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: couch-party-research
+          path: |
+            data/party-*
+            scripts/collect_party.py
