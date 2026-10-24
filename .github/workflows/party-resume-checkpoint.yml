@@ -1,0 +1,30 @@
+name: Party continuation checkpoint
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/party-resume-checkpoint.yml']
+permissions:
+  contents: read
+jobs:
+  checkpoint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Export the exact existing implementation without re-running discovery
+        run: |
+          mkdir -p checkpoint
+          git rev-parse HEAD > checkpoint/source-revision.txt
+          git archive --format=zip HEAD data scripts site tests docs media .github requirements-dev.txt > checkpoint/source.zip
+          sha256sum checkpoint/source.zip > checkpoint/SHA256SUMS.txt
+          python3 -m compileall -q scripts tests
+          node --check site/app.js
+          find data scripts tests docs -iname '*party*' -o -iname '*couch*' > checkpoint/party-files.txt
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: party-continuation-source
+          path: checkpoint/
