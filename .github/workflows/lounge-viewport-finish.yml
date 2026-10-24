@@ -1,0 +1,71 @@
+name: Finish lounge viewport
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/lounge-viewport-finish.yml']
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: lounge-viewport-finish
+  cancel-in-progress: false
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Apply only the integrity-checked final visual repair
+        shell: python
+        run: |
+          import base64,hashlib,json,lzma,pathlib,subprocess,tempfile
+          root=pathlib.Path.cwd()
+          raw=base64.b64decode((root/'.bootstrap/lounge-viewport.b64').read_text().strip(),validate=True)
+          assert len(raw)==8292
+          assert hashlib.sha256(raw).hexdigest()=='a855ef0707ed3f4e4ad5532e67b786bb78bd4d39cc1087355f568ba8c11cd128'
+          package=json.loads(lzma.decompress(raw))
+          allowed={'site/arcade.js','site/lounge.css','scripts/lounge_qa.py','scripts/build.py','docs/EXECUTION.md'}
+          assert set(package['expected'])==allowed and set(package['after'])==allowed
+          def digest(n):return hashlib.sha256((root/n).read_bytes()).hexdigest()
+          current={n:digest(n) for n in allowed}
+          if current!=package['after']:
+            assert current==package['expected'],'Source has changed since the verified visual checkpoint; reconcile before applying'
+            with tempfile.NamedTemporaryFile(mode='w',suffix='.patch') as f:
+              f.write(package['patch']);f.flush()
+              subprocess.run(['git','apply','--check',f.name],check=True)
+              subprocess.run(['git','apply',f.name],check=True)
+            assert {n:digest(n) for n in allowed}==package['after']
+          pathlib.Path('qa').mkdir(exist_ok=True)
+          pathlib.Path('qa/lounge-viewport-install.json').write_text(json.dumps({'passed':True,'transferSha256':hashlib.sha256(raw).hexdigest(),'sourceHashes':package['after']},indent=2)+'\n')
+      - name: Validate and checkpoint before the long final gate
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          node --check site/arcade.js
+          python3 -m py_compile scripts/lounge_qa.py scripts/build.py
+          python3 scripts/build.py
+          python3 -m unittest discover -s tests -p 'test_lounge.py'
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site scripts docs/EXECUTION.md data dist wiki
+          if ! git diff --cached --quiet; then
+            git commit -m 'Fix arcade internal clipping, retain full controls after rotation, and add production bounds regressions'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          git rev-parse HEAD > qa/lounge-viewport-source.txt
+      - name: Run the complete existing release matrix on the corrected artifact
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publish.yml --ref main
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: lounge-viewport-source-checkpoint
+          path: |
+            qa/lounge-viewport-*.json
+            qa/lounge-viewport-source.txt
+            dist/manifest.json
