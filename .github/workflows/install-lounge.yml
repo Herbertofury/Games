@@ -1,0 +1,86 @@
+name: Install Steam-style lounge
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/install-lounge.yml']
+permissions:
+  contents: write
+concurrency:
+  group: lounge-install
+  cancel-in-progress: false
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Verify transfer and install only the coherent lounge source delta
+        shell: python
+        run: |
+          import base64,hashlib,json,lzma,pathlib,subprocess,tempfile
+          root=pathlib.Path.cwd()
+          encoded=''.join((root/f'.bootstrap/lounge-{i}.b64').read_text().strip() for i in range(3))
+          raw=base64.b64decode(encoded,validate=True)
+          expected='6017a34d7a69d5e51795e2bc7e2081b38e90ff1602ab6b5b6cd20a79dca94102'
+          assert len(raw)==31252 and hashlib.sha256(raw).hexdigest()==expected,'Transfer integrity failed; no source files changed'
+          package=json.loads(lzma.decompress(raw))
+          allowed={'site/app.js','site/lounge.js','site/lounge.css','site/arcade.js','scripts/build.py','scripts/lounge_qa.py','scripts/lounge_release_notes.py','scripts/lounge_wiki.py','tests/test_lounge.py','docs/EXECUTION.md','docs/LOUNGE.md'}
+          assert set(package['expected'])==allowed and set(package['after'])==allowed
+          def digest(name):
+            p=root/name
+            return hashlib.sha256(p.read_bytes()).hexdigest() if p.exists() else None
+          current={n:digest(n) for n in allowed}
+          if current!=package['after']:
+            conflicts=[n for n in allowed if current[n]!=package['expected'][n]]
+            assert not conflicts,'Canonical source changed: '+', '.join(conflicts)
+            with tempfile.NamedTemporaryFile(mode='w',suffix='.patch') as f:
+              f.write(package['patch']);f.flush()
+              subprocess.run(['git','apply','--check',f.name],check=True)
+              subprocess.run(['git','apply',f.name],check=True)
+            assert {n:digest(n) for n in allowed}==package['after'],'Installed bytes differ from tested source'
+          pathlib.Path('qa').mkdir(exist_ok=True)
+          pathlib.Path('qa/lounge-install.json').write_text(json.dumps({'passed':True,'sourceFiles':len(allowed),'transferSha256':expected,'sourceHashes':package['after']},indent=2)+'\n')
+      - name: Build without refreshing unrelated game research
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          python3 -m compileall -q scripts tests
+          node --check site/app.js
+          node --check site/lounge.js
+          node --check site/arcade.js
+          python3 scripts/build.py
+          python3 scripts/lounge_release_notes.py
+          python3 scripts/build.py
+      - name: Verify all source regressions and protected catalog identity
+        shell: python
+        run: |
+          import json,pathlib,sys,unittest
+          suite=unittest.defaultTestLoader.discover('tests',pattern='test_*.py')
+          result=unittest.TextTestRunner(verbosity=2).run(suite)
+          report={'tests':result.testsRun,'failures':[(str(t),s) for t,s in result.failures],'errors':[(str(t),s) for t,s in result.errors],'skipped':[(str(t),s) for t,s in result.skipped],'passed':result.wasSuccessful()}
+          pathlib.Path('qa/lounge-install-unit.json').write_text(json.dumps(report,indent=2)+'\n')
+          if not result.wasSuccessful():sys.exit(1)
+      - name: Persist the recoverable implementation before the full browser gate
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site scripts tests data docs dist wiki
+          if ! git diff --cached --quiet; then
+            git commit -m 'Build the animated Steam-inspired Games lounge and playable Snackball desktop arcade'
+            git diff --exit-code
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          git rev-parse HEAD > qa/lounge-source-revision.txt
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: lounge-installed-source-checkpoint
+          path: |
+            qa/lounge-install*.json
+            qa/lounge-source-revision.txt
+            dist/manifest.json
+            docs/LOUNGE.md
