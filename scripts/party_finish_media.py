@@ -17,7 +17,7 @@ def main():
   'external:mario-kart-8-deluxe':('ZKB9FEXhJ68','Mario Kart 8 Deluxe','Nintendo of America','Official overview trailer'),
   'external:smash-ultimate':('WLu7e8RZoYc','Super Smash Bros. Ultimate','Nintendo of America','Official overview trailer'),
   'external:underhanded-combat':('-Pnl_EEaX-M','Underhanded Combat',None,'Creator trailer'),
-  'external:supertuxkart':('H1Lo7PlTGBk','SuperTuxKart 1.5','SuperTuxKart','Official 1.5 trailer; not the separate Evolution development footage'),
+  'external:supertuxkart':('H1Lo7PlTGBk','SuperTuxKart 1.5','SuperTuxKart Team','Official 1.5 trailer; not the separate Evolution development footage'),
   'external:square-off-shiba':('GbEQXH6mHHI','Square Off',None,'Creator demo gameplay; historical demo footage, not a claim of the final build')
  }
  unresolved=[]

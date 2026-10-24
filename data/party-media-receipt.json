@@ -1,0 +1,375 @@
+{
+  "videos": {
+    "steam:238370": {
+      "youtube": "CNODcpGnxVY",
+      "metadata": {
+        "id": "CNODcpGnxVY",
+        "title": "Magicka 2 - Release Date Reveal Trailer (60FPS) [EU]",
+        "author_name": "Paradox Interactive",
+        "author_url": "https://www.youtube.com/@paradoxinteractive",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/CNODcpGnxVY/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/CNODcpGnxVY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Magicka 2 - Release Date Reveal Trailer (60FPS) [EU]\"></iframe>"
+      },
+      "sourceUrl": "https://store.steampowered.com/app/238370/",
+      "checkedAt": "2026-10-24T06:30:25.592379+00:00"
+    },
+    "steam:217200": {
+      "youtube": "9LqDXVaMAH4",
+      "metadata": {
+        "id": "9LqDXVaMAH4",
+        "title": "Worms Armageddon - Patch 3.8 Trailer!",
+        "author_name": "Team17",
+        "author_url": "https://www.youtube.com/@Team17Ltd",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/9LqDXVaMAH4/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/9LqDXVaMAH4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Worms Armageddon - Patch 3.8 Trailer!\"></iframe>"
+      },
+      "sourceUrl": "https://store.steampowered.com/app/217200/",
+      "checkedAt": "2026-10-24T06:30:25.592379+00:00"
+    },
+    "steam:2179180": {
+      "youtube": "te75aDNSPR0",
+      "metadata": {
+        "title": "Hex Party | Official Announcement Trailer",
+        "author_name": "SoftX",
+        "author_url": "https://www.youtube.com/@SoftX0820",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/te75aDNSPR0/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/te75aDNSPR0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Hex Party | Official Announcement Trailer\"></iframe>"
+      },
+      "sourceUrl": "https://store.steampowered.com/app/2179180/",
+      "checkedAt": "2026-10-24T06:30:25.592379+00:00"
+    },
+    "external:mario-kart-8-deluxe": {
+      "youtube": "ZKB9FEXhJ68",
+      "metadata": {
+        "id": "ZKB9FEXhJ68",
+        "title": "Mario Kart 8 Deluxe Overview Trailer - Nintendo Switch",
+        "author_name": "Nintendo of America",
+        "author_url": "https://www.youtube.com/@NintendoAmerica",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/ZKB9FEXhJ68/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/ZKB9FEXhJ68?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Mario Kart 8 Deluxe Overview Trailer - Nintendo Switch\"></iframe>"
+      },
+      "sourceUrl": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-switch/",
+      "checkedAt": "2026-10-24T06:30:25.592379+00:00"
+    },
+    "external:smash-ultimate": {
+      "youtube": "WLu7e8RZoYc",
+      "metadata": {
+        "id": "WLu7e8RZoYc",
+        "title": "Super Smash Bros. Ultimate - Overview Trailer feat. The Announcer - Nintendo Switch",
+        "author_name": "Nintendo of America",
+        "author_url": "https://www.youtube.com/@NintendoAmerica",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/WLu7e8RZoYc/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/WLu7e8RZoYc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Super Smash Bros. Ultimate - Overview Trailer feat. The Announcer - Nintendo Switch\"></iframe>"
+      },
+      "sourceUrl": "https://www.nintendo.com/us/store/products/super-smash-bros-ultimate-switch/",
+      "checkedAt": "2026-10-24T06:30:25.592379+00:00"
+    },
+    "external:underhanded-combat": {
+      "youtube": "-Pnl_EEaX-M",
+      "metadata": {
+        "title": "Underhanded Combat trailer",
+        "author_name": "xxx_the-wild-unicorn_xxx",
+        "author_url": "https://www.youtube.com/@xxx_the-wild-unicorn_xxx2478",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/-Pnl_EEaX-M/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/-Pnl_EEaX-M?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Underhanded Combat trailer\"></iframe>"
+      },
+      "sourceUrl": "https://nathanjoy.itch.io/underhanded-combat",
+      "checkedAt": "2026-10-24T06:30:25.592379+00:00"
+    },
+    "external:square-off-shiba": {
+      "youtube": "GbEQXH6mHHI",
+      "metadata": {
+        "title": "PLAYING THE SQUARE OFF DEMO LIVE!! \\\\ Game Dev Live",
+        "author_name": "Shiba Dog Studios",
+        "author_url": "https://www.youtube.com/@ShibaDogStudios",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/GbEQXH6mHHI/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/GbEQXH6mHHI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"PLAYING THE SQUARE OFF DEMO LIVE!! \\\\ Game Dev Live\"></iframe>"
+      },
+      "sourceUrl": "https://shibadogstudios.itch.io/square-off",
+      "checkedAt": "2026-10-24T06:30:25.592379+00:00"
+    },
+    "external:mario-kart-world": {
+      "sourceUrl": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/",
+      "resolvedUrl": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/",
+      "pageSha256": "929ade9a38638a28f2df487170fb25789a6bef1317b1ac386e0f4b55546dff72",
+      "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+      "pageTitle": "Mario Kart World – Nintendo Switch 2 Exclusive - Nintendo Official Site",
+      "productName": "Mario Kart™ World",
+      "sku": "7100095431",
+      "urlKey": "mario-kart-world-switch-2",
+      "publicId": "/store/software/switch2/70010000095431/Video/edaafe8cf9163f9487f6cbc0b90a284a0a61ac85829fda0cc41f6f356cfed7f8",
+      "probe": {
+        "url": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000095431/Video/edaafe8cf9163f9487f6cbc0b90a284a0a61ac85829fda0cc41f6f356cfed7f8.mp4",
+        "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000095431/Video/edaafe8cf9163f9487f6cbc0b90a284a0a61ac85829fda0cc41f6f356cfed7f8.mp4",
+        "status": 206,
+        "contentType": "video/mp4;codecs=avc1",
+        "contentRange": "bytes 0-4095/91877006",
+        "headerSha256": "9eaad3811e4d9e9116f6ba50f499912a6a816922dff9cdb6d2383eeb263981bd"
+      }
+    },
+    "external:mario-party-jamboree": {
+      "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+      "resolvedUrl": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+      "pageSha256": "a894c0dd0a81c10e8e0c75e1dec5191ac932c30766746dc35d414e5634570675",
+      "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+      "pageTitle": "Super Mario Party™ Jamboree for Nintendo Switch - Nintendo Official Site",
+      "productName": "Super Mario Party™ Jamboree",
+      "sku": "7100084608",
+      "urlKey": "super-mario-party-jamboree-switch",
+      "publicId": "/store/software/switch/70010000084608/Video/af57072ff28a05863c00d8ee3a5d541a756038ca10f3ae82d2972a67d091095a",
+      "probe": {
+        "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000084608/Video/af57072ff28a05863c00d8ee3a5d541a756038ca10f3ae82d2972a67d091095a.mp4",
+        "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000084608/Video/af57072ff28a05863c00d8ee3a5d541a756038ca10f3ae82d2972a67d091095a.mp4",
+        "status": 206,
+        "contentType": "video/mp4;codecs=avc1",
+        "contentRange": "bytes 0-4095/33987513",
+        "headerSha256": "83f89f4cbd393489434462a41b3ad96a7a1f0d05f3bbf4492a8f4cedbbcf5426"
+      }
+    },
+    "external:mario-party-superstars": {
+      "sourceUrl": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
+      "resolvedUrl": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
+      "pageSha256": "eea32275de90e5eedecff2eab7b030427c567828186f12a98bb11ba15cd48659",
+      "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+      "pageTitle": "Mario Party™ Superstars for Nintendo Switch - Nintendo Official Site",
+      "productName": "Mario Party™ Superstars",
+      "sku": "7100042934",
+      "urlKey": "mario-party-superstars-switch",
+      "publicId": "/store/software/switch/70010000042934/Video/d3ff40dbb335968b78627f810a07775996cc82a6bf353cfe77edb8e1879b7037",
+      "probe": {
+        "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000042934/Video/d3ff40dbb335968b78627f810a07775996cc82a6bf353cfe77edb8e1879b7037.mp4",
+        "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000042934/Video/d3ff40dbb335968b78627f810a07775996cc82a6bf353cfe77edb8e1879b7037.mp4",
+        "status": 206,
+        "contentType": "video/mp4;codecs=avc1",
+        "contentRange": "bytes 0-4095/9949523",
+        "headerSha256": "54b9bf550da9e8fd599bc859e2940295a2d8234fb18e9b2b69b33d938dc50407"
+      }
+    },
+    "external:kirby-air-riders": {
+      "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+      "resolvedUrl": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+      "pageSha256": "a27bd18f6d34678275a71dd3326bfc964036a476ff0455cc82620f26b9f0d55d",
+      "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+      "pageTitle": "Kirby™ Air Riders for Nintendo Switch 2 - Nintendo Official Site",
+      "productName": "Kirby™ Air Riders",
+      "sku": "7100103775",
+      "urlKey": "kirby-air-riders-switch-2",
+      "publicId": "/store/software/switch2/70010000103775/Video/2b739bb3e681e0f47d93f0c505c0b74f11fc8af18504aac5bce6374e2bc1f7a8",
+      "probe": {
+        "url": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000103775/Video/2b739bb3e681e0f47d93f0c505c0b74f11fc8af18504aac5bce6374e2bc1f7a8.mp4",
+        "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000103775/Video/2b739bb3e681e0f47d93f0c505c0b74f11fc8af18504aac5bce6374e2bc1f7a8.mp4",
+        "status": 206,
+        "contentType": "video/mp4;codecs=avc1",
+        "contentRange": "bytes 0-4095/21176024",
+        "headerSha256": "253ebd942182033411b26afcd60baa8cf44bea874fcd06f2f80ac8ca8277574e"
+      }
+    },
+    "external:super-mario-bros-wonder": {
+      "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+      "resolvedUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+      "pageSha256": "8cd38dedfb6b8ae2bd63010f3e445b4d78dc67651af1f74bea752b7289b08b43",
+      "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+      "pageTitle": "Super Mario Bros.™ Wonder for Nintendo Switch - Nintendo Official Site",
+      "productName": "Super Mario Bros.™ Wonder",
+      "sku": "7100068688",
+      "urlKey": "super-mario-bros-wonder-switch",
+      "publicId": "/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff",
+      "probe": {
+        "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff.mp4",
+        "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff.mp4",
+        "status": 206,
+        "contentType": "video/mp4;codecs=avc1",
+        "contentRange": "bytes 0-4095/27425195",
+        "headerSha256": "ef78205898067f81e1c135f2b33bc433c57eebefa1e038fb34d5e5ee226dac18"
+      }
+    },
+    "external:super-mario-3d-world-bowsers-fury": {
+      "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+      "resolvedUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+      "pageSha256": "33be35065f643bc6eb2486bb414afa1e13c15ed578406e1d05536cad95bb8f8e",
+      "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+      "pageTitle": "Super Mario™ 3D World + Bowser’s Fury for Nintendo Switch - Nintendo Official Site",
+      "productName": "Super Mario™ 3D World + Bowser’s Fury",
+      "sku": "7100034439",
+      "urlKey": "super-mario-3d-world-plus-bowsers-fury-switch",
+      "publicId": "/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031",
+      "probe": {
+        "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031.mp4",
+        "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031.mp4",
+        "status": 206,
+        "contentType": "video/mp4;codecs=avc1",
+        "contentRange": "bytes 0-4095/24812550",
+        "headerSha256": "1f7789c9dcb568e3d53f7b8f92e5f6a3dd8f06184e35b15814e949a7583780e6"
+      }
+    },
+    "external:kirby-return-dreamland-deluxe": {
+      "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+      "resolvedUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+      "pageSha256": "88b6defdd03aa7e05f62f493a06a10a8d1ecdd6dad7861dadb4e9cf7f8cc10be",
+      "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+      "pageTitle": "Kirby’s Return to Dreamland™ Deluxe for the Nintendo Switch system™ – Official Site",
+      "productName": "Kirby’s Return to Dream Land™ Deluxe",
+      "sku": "7100058797",
+      "urlKey": "kirbys-return-to-dream-land-deluxe-switch",
+      "publicId": "/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f",
+      "probe": {
+        "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f.mp4",
+        "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f.mp4",
+        "status": 206,
+        "contentType": "video/mp4;codecs=avc1",
+        "contentRange": "bytes 0-4095/131610149",
+        "headerSha256": "d2114676955b54d77d98577db3eb8c1219ba4cc8a8a2a2d53f54d90d2a9cd087"
+      }
+    },
+    "external:kirby-forgotten-land": {
+      "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+      "resolvedUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+      "pageSha256": "5a8a1e90a4a5b47fe27dd1635d227d04ee7cfe1c161d6df3c3c56f4a6ac14784",
+      "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+      "pageTitle": "Kirby and the Forgotten Land + Star‑Crossed World – Nintendo Switch 2 Edition - Nintendo Official Site",
+      "productName": "Kirby™ and the Forgotten Land – Nintendo Switch™ 2 Edition + Star-Crossed World",
+      "sku": "7100096829",
+      "urlKey": "kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2",
+      "publicId": "/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14",
+      "probe": {
+        "url": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14.mp4",
+        "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14.mp4",
+        "status": 206,
+        "contentType": "video/mp4;codecs=avc1",
+        "contentRange": "bytes 0-4095/24880991",
+        "headerSha256": "0b7436747926abc20d9919225d5464a828e9124ace51dd42b0906210820c8c49"
+      }
+    },
+    "external:snipperclips": {
+      "sourceUrl": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+      "resolvedUrl": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+      "pageSha256": "3f7641673a89bb3a249afc86516a46e1de866cdf0212d33f55a526f4558aca71",
+      "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+      "pageTitle": "Snipperclips™ – Cut it out, together!  for Nintendo Switch - Nintendo Official Site",
+      "productName": "Snipperclips™ – Cut it out, together! ",
+      "sku": "7100000142",
+      "urlKey": "snipperclips-cut-it-out-together-switch",
+      "publicId": "/store/software/switch/70010000000142/Video/8cdafdb2ed14997d58c13153a70160e699f64301e8b84f2972d492c992564ec5",
+      "probe": {
+        "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000000142/Video/8cdafdb2ed14997d58c13153a70160e699f64301e8b84f2972d492c992564ec5.mp4",
+        "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000000142/Video/8cdafdb2ed14997d58c13153a70160e699f64301e8b84f2972d492c992564ec5.mp4",
+        "status": 206,
+        "contentType": "video/mp4;codecs=avc1",
+        "contentRange": "bytes 0-4095/9795006",
+        "headerSha256": "928481972a7ef022a74a31d7e47c05ce881ddfb4cebb080e709e7ee04d1a9ffa"
+      }
+    },
+    "external:switch-sports": {
+      "sourceUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
+      "resolvedUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
+      "pageSha256": "c75f7416beaf8173bd19ff0ca12402b0210a4555bf2fed39f05835c1c6dcb9bb",
+      "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+      "pageTitle": "Nintendo Switch™ Sports for Nintendo Switch - Nintendo Official Site",
+      "productName": "Nintendo Switch™ Sports",
+      "sku": "7100049931",
+      "urlKey": "nintendo-switch-sports-switch",
+      "publicId": "/store/software/switch/70010000049931/Video/cff33640f5fceda835728bf283d31aee384c2d7b20c108f6c98d5534ce2e679a",
+      "probe": {
+        "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000049931/Video/cff33640f5fceda835728bf283d31aee384c2d7b20c108f6c98d5534ce2e679a.mp4",
+        "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000049931/Video/cff33640f5fceda835728bf283d31aee384c2d7b20c108f6c98d5534ce2e679a.mp4",
+        "status": 206,
+        "contentType": "video/mp4;codecs=avc1",
+        "contentRange": "bytes 0-4095/131660413",
+        "headerSha256": "c0aae714d1ee3511ad6001f4bf60353698e1b0e69508817071d9c1701868e216"
+      }
+    },
+    "external:orbitals": {
+      "sourceUrl": "https://www.nintendo.com/us/store/products/orbitals-switch-2/",
+      "resolvedUrl": "https://www.nintendo.com/us/store/products/orbitals-switch-2/",
+      "pageSha256": "f5674c2a0ecb6ffa3e5184418d78ca1f016553bf888ed1a0ed6d25d698a5d12c",
+      "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+      "pageTitle": "Orbitals – Nintendo Switch 2 Exclusive - Nintendo Official Site",
+      "productName": "Orbitals",
+      "sku": "7100098973",
+      "urlKey": "orbitals-switch-2",
+      "publicId": "/store/software/switch2/70010000098973/Video/b88e35d01a1011df730eb77521abf49302b685384b2f16cd7660ccb436eb785c",
+      "probe": {
+        "url": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000098973/Video/b88e35d01a1011df730eb77521abf49302b685384b2f16cd7660ccb436eb785c.mp4",
+        "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000098973/Video/b88e35d01a1011df730eb77521abf49302b685384b2f16cd7660ccb436eb785c.mp4",
+        "status": 206,
+        "contentType": "video/mp4;codecs=avc1",
+        "contentRange": "bytes 0-4095/37226424",
+        "headerSha256": "469cd5245478da3f0d4ce75d60da489299525654f9f23bb7fbd1461b372be049"
+      }
+    }
+  },
+  "motion": {
+    "external:puff-puff-push": {
+      "sourceUrl": "https://typimals.itch.io/puff-puff-push",
+      "originalAssetUrl": "https://img.itch.zone/aW1nLzE5NzUxNTk0LmdpZg==/original/h0kLyk.gif",
+      "originalSha256": "1fb1703c197c850115daf7cf3889d85509f3723c158025845e719ac11c606d6b",
+      "videoSha256": "cac85bbaa438bfac954ef1414f016ca326829dd19e79995bc6f47232fc620502",
+      "frames": 124,
+      "checkedAt": "2026-10-24T06:30:25.592379+00:00"
+    }
+  },
+  "checkedAt": "2026-10-24T06:30:25.592379+00:00",
+  "unresolved": [
+    {
+      "id": "external:supertuxkart",
+      "video": "H1Lo7PlTGBk",
+      "reason": "('external:supertuxkart', 'SuperTuxKart')"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "overrides": {
+    "steam:238370": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "CNODcpGnxVY",
+            "name": "Official release-date trailer",
+            "watchUrl": "https://www.youtube.com/watch?v=CNODcpGnxVY",
+            "sourceUrl": "https://store.steampowered.com/app/238370/",
+            "credit": "Paradox Interactive",
+            "official": true,
+            "poster": "https://i.ytimg.com/vi/CNODcpGnxVY/hqdefault.jpg",
+            "verifiedAt": "2026-10-24T06:30:25.592379+00:00"
+          }
+        ]
+      }
+    },
+    "steam:217200": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "9LqDXVaMAH4",
+            "name": "Official Patch 3.8 trailer for the original PC game",
+            "watchUrl": "https://www.youtube.com/watch?v=9LqDXVaMAH4",
+            "sourceUrl": "https://store.steampowered.com/app/217200/",
+            "credit": "Team17",
+            "official": true,
+            "poster": "https://i.ytimg.com/vi/9LqDXVaMAH4/hqdefault.jpg",
+            "verifiedAt": "2026-10-24T06:30:25.592379+00:00"
+          }
+        ]
+      }
+    },
+    "steam:2179180": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "te75aDNSPR0",
+            "name": "Official announcement trailer",
+            "watchUrl": "https://www.youtube.com/watch?v=te75aDNSPR0",
+            "sourceUrl": "https://store.steampowered.com/app/2179180/",
+            "credit": "SoftX",
+            "official": true,
+            "poster": "https://i.ytimg.com/vi/te75aDNSPR0/hqdefault.jpg",
+            "verifiedAt": "2026-10-24T06:30:25.592379+00:00"
+          }
+        ]
+      }
+    },
+    "external:mario-kart-8-deluxe": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "ZKB9FEXhJ68",
+            "name": "Official overview trailer",
+            "watchUrl": "https://www.youtube.com/watch?v=ZKB9FEXhJ68",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-switch/",
+            "credit": "Nintendo of America",
+            "official": true,
+            "poster": "https://i.ytimg.com/vi/ZKB9FEXhJ68/hqdefault.jpg",
+            "verifiedAt": "2026-10-24T06:30:25.592379+00:00"
+          }
+        ]
+      }
+    },
+    "external:smash-ultimate": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "WLu7e8RZoYc",
+            "name": "Official overview trailer",
+            "watchUrl": "https://www.youtube.com/watch?v=WLu7e8RZoYc",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/super-smash-bros-ultimate-switch/",
+            "credit": "Nintendo of America",
+            "official": true,
+            "poster": "https://i.ytimg.com/vi/WLu7e8RZoYc/hqdefault.jpg",
+            "verifiedAt": "2026-10-24T06:30:25.592379+00:00"
+          }
+        ]
+      }
+    },
+    "external:underhanded-combat": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "-Pnl_EEaX-M",
+            "name": "Creator trailer",
+            "watchUrl": "https://www.youtube.com/watch?v=-Pnl_EEaX-M",
+            "sourceUrl": "https://nathanjoy.itch.io/underhanded-combat",
+            "credit": "xxx_the-wild-unicorn_xxx",
+            "official": true,
+            "poster": "https://i.ytimg.com/vi/-Pnl_EEaX-M/hqdefault.jpg",
+            "verifiedAt": "2026-10-24T06:30:25.592379+00:00"
+          }
+        ]
+      }
+    },
+    "external:square-off-shiba": {
+      "_replace": {
+        "trailers": [
+          {
+            "youtube": "GbEQXH6mHHI",
+            "name": "Creator demo gameplay; historical demo footage, not a claim of the final build",
+            "watchUrl": "https://www.youtube.com/watch?v=GbEQXH6mHHI",
+            "sourceUrl": "https://shibadogstudios.itch.io/square-off",
+            "credit": "Shiba Dog Studios",
+            "official": true,
+            "poster": "https://i.ytimg.com/vi/GbEQXH6mHHI/hqdefault.jpg",
+            "verifiedAt": "2026-10-24T06:30:25.592379+00:00"
+          }
+        ]
+      }
+    },
+    "external:mario-kart-world": {
+      "_replace": {
+        "trailers": [
+          {
+            "name": "Mario Kart™ World — official product video",
+            "mp4": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000095431/Video/edaafe8cf9163f9487f6cbc0b90a284a0a61ac85829fda0cc41f6f356cfed7f8.mp4",
+            "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000095431/0485f410193ca12f92a2f615ea608bb437540f321bd05e464593c33fefa09bf2",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/",
+            "watchUrl": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/",
+            "credit": "Nintendo — exact product gallery",
+            "official": true,
+            "verified": true,
+            "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+            "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000095431/0485f410193ca12f92a2f615ea608bb437540f321bd05e464593c33fefa09bf2"
+      }
+    },
+    "external:mario-party-jamboree": {
+      "_replace": {
+        "trailers": [
+          {
+            "name": "Super Mario Party™ Jamboree — official product video",
+            "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000084608/Video/af57072ff28a05863c00d8ee3a5d541a756038ca10f3ae82d2972a67d091095a.mp4",
+            "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000084608/ba0572bf9d840b03bf9958809943fb3c76c3adfd6d8f2704b0f1b766f8aa4027",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+            "watchUrl": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+            "credit": "Nintendo — exact product gallery",
+            "official": true,
+            "verified": true,
+            "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+            "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000084608/ba0572bf9d840b03bf9958809943fb3c76c3adfd6d8f2704b0f1b766f8aa4027"
+      }
+    },
+    "external:mario-party-superstars": {
+      "_replace": {
+        "trailers": [
+          {
+            "name": "Mario Party™ Superstars — official product video",
+            "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000042934/Video/d3ff40dbb335968b78627f810a07775996cc82a6bf353cfe77edb8e1879b7037.mp4",
+            "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
+            "watchUrl": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
+            "credit": "Nintendo — exact product gallery",
+            "official": true,
+            "verified": true,
+            "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+            "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304"
+      }
+    },
+    "external:kirby-air-riders": {
+      "_replace": {
+        "trailers": [
+          {
+            "name": "Kirby™ Air Riders — official product video",
+            "mp4": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000103775/Video/2b739bb3e681e0f47d93f0c505c0b74f11fc8af18504aac5bce6374e2bc1f7a8.mp4",
+            "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103775/61c47511e5fc392c271d6f4736fa0575e2aed19c30e6fe73b50906cadb9b2996",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+            "watchUrl": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+            "credit": "Nintendo — exact product gallery",
+            "official": true,
+            "verified": true,
+            "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+            "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103775/61c47511e5fc392c271d6f4736fa0575e2aed19c30e6fe73b50906cadb9b2996"
+      }
+    },
+    "external:super-mario-bros-wonder": {
+      "_replace": {
+        "trailers": [
+          {
+            "name": "Super Mario Bros.™ Wonder — official product video",
+            "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff.mp4",
+            "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+            "watchUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+            "credit": "Nintendo — exact product gallery",
+            "official": true,
+            "verified": true,
+            "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+            "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1"
+      }
+    },
+    "external:super-mario-3d-world-bowsers-fury": {
+      "_replace": {
+        "trailers": [
+          {
+            "name": "Super Mario™ 3D World + Bowser’s Fury — official product video",
+            "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031.mp4",
+            "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+            "watchUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+            "credit": "Nintendo — exact product gallery",
+            "official": true,
+            "verified": true,
+            "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+            "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f"
+      }
+    },
+    "external:kirby-return-dreamland-deluxe": {
+      "_replace": {
+        "trailers": [
+          {
+            "name": "Kirby’s Return to Dream Land™ Deluxe — official product video",
+            "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f.mp4",
+            "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+            "watchUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+            "credit": "Nintendo — exact product gallery",
+            "official": true,
+            "verified": true,
+            "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+            "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad"
+      }
+    },
+    "external:kirby-forgotten-land": {
+      "_replace": {
+        "trailers": [
+          {
+            "name": "Kirby™ and the Forgotten Land – Nintendo Switch™ 2 Edition + Star-Crossed World — official product video",
+            "mp4": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14.mp4",
+            "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000096829/0a06bf277f1eb585fcbb7ddeb4f70014fd1c860d326eb33c8accf4d4827ade72",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+            "watchUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+            "credit": "Nintendo — exact product gallery",
+            "official": true,
+            "verified": true,
+            "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+            "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000096829/0a06bf277f1eb585fcbb7ddeb4f70014fd1c860d326eb33c8accf4d4827ade72"
+      }
+    },
+    "external:snipperclips": {
+      "_replace": {
+        "trailers": [
+          {
+            "name": "Snipperclips™ – Cut it out, together!  — official product video",
+            "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000000142/Video/8cdafdb2ed14997d58c13153a70160e699f64301e8b84f2972d492c992564ec5.mp4",
+            "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000142/b692e801076e7a4be1a87a2135d20bc5414b639de0cf1e44e91d67a6ca9f7229",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+            "watchUrl": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+            "credit": "Nintendo — exact product gallery",
+            "official": true,
+            "verified": true,
+            "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+            "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000142/b692e801076e7a4be1a87a2135d20bc5414b639de0cf1e44e91d67a6ca9f7229"
+      }
+    },
+    "external:switch-sports": {
+      "_replace": {
+        "trailers": [
+          {
+            "name": "Nintendo Switch™ Sports — official product video",
+            "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000049931/Video/cff33640f5fceda835728bf283d31aee384c2d7b20c108f6c98d5534ce2e679a.mp4",
+            "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000049931/282ce6a96d5855d8b46aa9316314969f731a26ef9c7b2bc1e5aebe62dcf2ece2",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
+            "watchUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
+            "credit": "Nintendo — exact product gallery",
+            "official": true,
+            "verified": true,
+            "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+            "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000049931/282ce6a96d5855d8b46aa9316314969f731a26ef9c7b2bc1e5aebe62dcf2ece2"
+      }
+    },
+    "external:orbitals": {
+      "_replace": {
+        "trailers": [
+          {
+            "name": "Orbitals — official product video",
+            "mp4": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000098973/Video/b88e35d01a1011df730eb77521abf49302b685384b2f16cd7660ccb436eb785c.mp4",
+            "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098973/4c02a7ceaaacde0b7f51cde1e58b3b575ff2ed94a7c7530e4631b40d0f26413d",
+            "sourceUrl": "https://www.nintendo.com/us/store/products/orbitals-switch-2/",
+            "watchUrl": "https://www.nintendo.com/us/store/products/orbitals-switch-2/",
+            "credit": "Nintendo — exact product gallery",
+            "official": true,
+            "verified": true,
+            "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+            "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+          }
+        ],
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098973/4c02a7ceaaacde0b7f51cde1e58b3b575ff2ed94a7c7530e4631b40d0f26413d"
+      }
+    },
+    "external:puff-puff-push": {
+      "_replace": {
+        "trailers": [
+          {
+            "name": "Creator gameplay loop, converted from the original animation",
+            "mp4": "https://raw.githubusercontent.com/Herbertofury/Games/main/media/party/puff-puff-push-gameplay.mp4",
+            "sourceUrl": "https://typimals.itch.io/puff-puff-push",
+            "originalAssetUrl": "https://img.itch.zone/aW1nLzE5NzUxNTk0LmdpZg==/original/h0kLyk.gif",
+            "credit": "Typimals; original creator animation, presented as MP4",
+            "official": true,
+            "poster": "https://img.itch.zone/aW1nLzE5NDQyNjYyLnBuZw==/original/wApvRh.png",
+            "editionNote": "Short gameplay loop, not a full trailer or library-recorded playthrough."
+          }
+        ]
+      }
+    },
+    "steam:422110": {
+      "storefronts": [
+        {
+          "url": "https://moonradish.itch.io/wand-wars",
+          "provider": "itch.io",
+          "kind": "store",
+          "verified": true,
+          "sourceUrl": "https://moonradish.itch.io/wand-wars",
+          "lastChecked": "2026-10-24T06:30:25.592379+00:00"
+        }
+      ]
+    },
+    "steam:362380": {
+      "storefronts": [
+        {
+          "url": "https://househouse.itch.io/push-me-pull-you",
+          "provider": "itch.io",
+          "kind": "store",
+          "verified": true,
+          "sourceUrl": "https://househouse.itch.io/push-me-pull-you",
+          "lastChecked": "2026-10-24T06:30:25.592379+00:00"
+        }
+      ]
+    }
+  },
+  "generatedAt": "2026-10-24T06:30:25.592379+00:00"
+}
