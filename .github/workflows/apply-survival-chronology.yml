@@ -1,0 +1,59 @@
+name: Apply survival chronology correction
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/apply_survival_chronology.py','.github/workflows/apply-survival-chronology.yml']
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: survival-chronology-apply
+  cancel-in-progress: false
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Require the completed media and full-library checkpoint
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: test "$(gh api repos/Herbertofury/Games/actions/runs/40044969590 --jq .conclusion)" = success
+      - name: Apply the source-bound chronology delta
+        run: |
+          python3 scripts/apply_survival_chronology.py
+          node --check site/survival.js
+          python3 -m py_compile scripts/survival_model.py scripts/survival_wiki.py scripts/survival_qa.py tests/test_survival_chronology.py
+          python3 scripts/build.py > /tmp/chronology-build.json
+          mkdir -p qa
+          set -o pipefail
+          python3 -m unittest discover -s tests -p 'test_*.py' 2>&1 | tee qa/chronology-unit-tests.log
+      - name: Persist the tested date correction before the final real-browser gate
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/survival.js scripts/survival_model.py scripts/survival_wiki.py scripts/survival_qa.py tests/test_survival_chronology.py data/catalog.json dist wiki
+          if ! git diff --cached --quiet; then
+            git commit -m 'Show verified Early Access dates separately and keep old games out of recent survival discoveries'
+            git restore data dist wiki docs
+            git diff --exit-code
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Run the unchanged complete publication gate
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publish.yml --ref main
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: survival-chronology-checkpoint
+          path: |
+            qa/chronology-unit-tests.log
+            data/survival-chronology*.json
+            dist/manifest.json
