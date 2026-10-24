@@ -20,21 +20,47 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: python3 -m pip install -r requirements-dev.txt
-      - name: Verify exact official product identity and decode every replacement screenshot
-        run: python3 scripts/repair_minecraft_media.py
+      - name: Reuse the completed exact-product and six-image Chrome proof
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api repos/Herbertofury/Games/actions/artifacts/12539894706/zip > /tmp/minecraft-media.zip
+          echo '2f9a09f977fb0a4b9ec82377374b4ee3192e94c9ad3004625de4f8128e89154d  /tmp/minecraft-media.zip' | sha256sum -c -
+          mkdir -p qa/minecraft-media-proof
+          unzip -q /tmp/minecraft-media.zip -d qa/minecraft-media-proof
+      - name: Apply only the verified media and exact-store delta
+        shell: python
+        run: |
+          import json,pathlib
+          root=pathlib.Path.cwd()
+          receipt=json.loads((root/'qa/minecraft-media-proof/minecraft-media-repair.json').read_text())
+          assert receipt['productId']=='9NXP44L49SHJ' and receipt['passed']
+          assert len(receipt['gallery'])==len(receipt['browserDecoded'])==6
+          assert all(x['ok'] and x['width']>=3839 for x in receipt['browserDecoded'])
+          path=root/'data/survival-media.json';data=json.loads(path.read_text())
+          item=data['overrides']['external:minecraft'];replace=item.setdefault('_replace',{})
+          assert replace['image'] in [receipt['priorMedia']['image'],receipt['gallery'][0]['src']]
+          replace['image']=receipt['gallery'][0]['src'];replace['screenshots']=receipt['gallery']
+          url=receipt['sourceUrl']
+          source={'url':url,'provider':'Xbox','kind':'store','verified':True,'lastChecked':'2026-10-24T00:25:06+00:00','sourceUrl':url,'evidence':'Exact PC Java & Bedrock product 9NXP44L49SHJ. All six full-resolution official screenshots decoded in Chrome; retained artifact 12539894706.'}
+          for field in ['sources','storefronts']:
+              item[field]=list({s['url']:s for s in item.get(field,[])+[source]}.values())
+          (root/'data/minecraft-media-repair.json').write_text(json.dumps(receipt,indent=2)+'\n')
+          path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
       - name: Build and verify the changed source slice
         run: |
           python3 scripts/build.py > /tmp/survival-build.json
           python3 -m unittest discover -s tests -p test_survival.py
           python3 -m unittest discover -s tests -p test_search_contract.py
-      - name: Checkpoint only the repaired source and exact image evidence
+      - name: Persist repaired source before the complete browser gate
         run: |
           git config user.name 'Games catalog bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/survival-media.json data/minecraft-media-repair.json
           if ! git diff --cached --quiet; then
             git commit -m 'Restore Minecraft media through verified full-resolution Microsoft gallery assets'
-            git restore data/catalog.json dist wiki docs
+            git restore data dist wiki docs
+            git diff --exit-code
             git pull --rebase origin main
             git push origin HEAD:main
           fi
