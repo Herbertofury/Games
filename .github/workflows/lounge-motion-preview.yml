@@ -14,7 +14,10 @@ jobs:
         with:
           ref: main
           persist-credentials: false
-      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Install the exact recorder dependency alongside the existing browser
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          python3 -m playwright install ffmpeg
       - name: Capture the exact built interface with real keyboard and pointer input
         shell: python
         run: |
