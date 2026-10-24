@@ -1,0 +1,53 @@
+{
+  "checkedAt": "2026-10-24T16:38:30.624725+00:00",
+  "id": "steam:1397790",
+  "sourceUrl": "https://store.steampowered.com/app/1397790/Samurai_GUNN_2/",
+  "pageSha256": "86a46479bdd24655eed85f3db9828fbd64670287ddaca81fcd3d7c74322cf9b7",
+  "removedAdventure": true,
+  "local1v1Implemented": true,
+  "localFreeForAllImplemented": true,
+  "largerFreeForAllCapacity": "unconfirmed",
+  "team2v2": "planned",
+  "beforeModes": [
+    {
+      "counts": [],
+      "evidenceBasis": "Local support listed; exact count not yet confirmed",
+      "name": "Local cooperative play",
+      "notes": "",
+      "requiresDlc": false,
+      "sourceUrl": "https://store.steampowered.com/app/1397790/",
+      "type": "Co-op"
+    },
+    {
+      "counts": [],
+      "evidenceBasis": "Local support listed; exact count not yet confirmed",
+      "name": "Local competitive play",
+      "notes": "",
+      "requiresDlc": false,
+      "sourceUrl": "https://store.steampowered.com/app/1397790/",
+      "type": "Versus"
+    }
+  ],
+  "afterModes": [
+    {
+      "counts": [
+        2
+      ],
+      "evidenceBasis": "Current official Steam roadmap explicitly lists local 1v1 as implemented.",
+      "name": "Local 1v1",
+      "notes": "Current custom-engine version relaunched in February 2026.",
+      "requiresDlc": false,
+      "sourceUrl": "https://store.steampowered.com/app/1397790/Samurai_GUNN_2/",
+      "type": "Versus"
+    },
+    {
+      "counts": [],
+      "evidenceBasis": "The current official roadmap confirms local free-for-all, but does not specify its numerical ceiling.",
+      "name": "Local free-for-all",
+      "notes": "Do not infer the new-engine limit from older versions or user-defined tags.",
+      "requiresDlc": false,
+      "sourceUrl": "https://store.steampowered.com/app/1397790/Samurai_GUNN_2/",
+      "type": "Versus"
+    }
+  ]
+}

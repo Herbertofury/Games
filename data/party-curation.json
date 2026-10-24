@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T07:27:34.425905+00:00",
+  "generatedAt": "2026-10-24T16:38:30.624725+00:00",
   "overrides": {
     "external:duck-and-gun": {
       "excludeFromPublication": true,
@@ -4281,7 +4281,7 @@
     },
     "steam:1397790": {
       "partyInfo": {
-        "checkedAt": "2026-10-24T05:54:13.123970+00:00",
+        "checkedAt": "2026-10-24T16:38:30.624725+00:00",
         "controllerSupport": "full",
         "countCandidates": [],
         "countHint": 4,
@@ -4296,25 +4296,27 @@
         ],
         "modesDetail": [
           {
-            "counts": [],
-            "evidenceBasis": "Local support listed; exact count not yet confirmed",
-            "name": "Local cooperative play",
-            "notes": "",
+            "counts": [
+              2
+            ],
+            "evidenceBasis": "Current official Steam roadmap explicitly lists local 1v1 as implemented.",
+            "name": "Local 1v1",
+            "notes": "Current custom-engine version relaunched in February 2026.",
             "requiresDlc": false,
-            "sourceUrl": "https://store.steampowered.com/app/1397790/",
-            "type": "Co-op"
+            "sourceUrl": "https://store.steampowered.com/app/1397790/Samurai_GUNN_2/",
+            "type": "Versus"
           },
           {
             "counts": [],
-            "evidenceBasis": "Local support listed; exact count not yet confirmed",
-            "name": "Local competitive play",
-            "notes": "",
+            "evidenceBasis": "The current official roadmap confirms local free-for-all, but does not specify its numerical ceiling.",
+            "name": "Local free-for-all",
+            "notes": "Do not infer the new-engine limit from older versions or user-defined tags.",
             "requiresDlc": false,
-            "sourceUrl": "https://store.steampowered.com/app/1397790/",
+            "sourceUrl": "https://store.steampowered.com/app/1397790/Samurai_GUNN_2/",
             "type": "Versus"
           }
         ],
-        "notes": "Fast sword-and-shot rounds. Exact numerical local limit remains unconfirmed; this entry does not appear in exact-player filters.",
+        "notes": "The February 2026 custom-engine rebuild removed Adventure mode. Local 1v1 and free-for-all are implemented; 2v2 remains planned in the current official roadmap. This is not a current cooperative-campaign recommendation.",
         "onlineListed": true,
         "participation": "simultaneous",
         "platform": "PC edition",
@@ -4330,6 +4332,13 @@
           "lastChecked": "2026-10-24T07:09:45.958258+00:00",
           "provider": "Local-mode evidence",
           "url": "https://store.steampowered.com/app/1397790/",
+          "verified": true
+        },
+        {
+          "kind": "source",
+          "lastChecked": "2026-10-24T16:38:30.624725+00:00",
+          "provider": "Official current-mode roadmap",
+          "url": "https://store.steampowered.com/app/1397790/Samurai_GUNN_2/",
           "verified": true
         }
       ]

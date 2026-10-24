@@ -1,155 +1,4 @@
 {
-  "generatedAt": "2026-10-24T07:27:34.425905+00:00",
-  "inputCount": 347,
-  "unresolved": [
-    {
-      "id": "steam:1499700",
-      "candidate": "Golazo! 2",
-      "mode": "Local cooperative play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:1499700",
-      "candidate": "Golazo! 2",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:571740",
-      "candidate": "Golf It!",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:296470",
-      "candidate": "Mount Your Friends",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:441010",
-      "candidate": "Mount Your Friends 3D: A Hard Man is Good to Climb",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:1620040",
-      "candidate": "Nickelodeon Kart Racers 3: Slime Speedway",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:1397790",
-      "candidate": "Samurai GUNN 2",
-      "mode": "Local cooperative play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:1397790",
-      "candidate": "Samurai GUNN 2",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:277850",
-      "candidate": "Sportsfriends",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:1913740",
-      "candidate": "SUPER BOMBERMAN R 2",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:1487210",
-      "candidate": "Super Mega Baseball\u2122 4",
-      "mode": "Local cooperative play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:1487210",
-      "candidate": "Super Mega Baseball\u2122 4",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:1515740",
-      "candidate": "Super Sports Blast",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:1050510",
-      "candidate": "Super Tennis Blast",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:217200",
-      "candidate": "Worms Armageddon",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:3199470",
-      "candidate": "Knuckle Jet",
-      "mode": "Knuckleball competitive mode",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:570460",
-      "candidate": "Laser League: World Arena",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:2165810",
-      "candidate": "Streets of Rogue 2",
-      "mode": "Local cooperative play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:418530",
-      "candidate": "Spelunky 2",
-      "mode": "Local cooperative play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:418530",
-      "candidate": "Spelunky 2",
-      "mode": "Local competitive play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    },
-    {
-      "id": "steam:636100",
-      "candidate": "Tesla vs Lovecraft",
-      "mode": "Local cooperative play",
-      "state": "unresolved-active",
-      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-    }
-  ],
   "dispositions": [
     {
       "id": "steam:2445690",
@@ -198,6 +47,151 @@
       "name": "Sumo Dumo",
       "reason": "Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.",
       "state": "not-promoted"
+    }
+  ],
+  "generatedAt": "2026-10-24T07:27:34.425905+00:00",
+  "inputCount": 347,
+  "unresolved": [
+    {
+      "candidate": "Golazo! 2",
+      "id": "steam:1499700",
+      "mode": "Local cooperative play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Golazo! 2",
+      "id": "steam:1499700",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Golf It!",
+      "id": "steam:571740",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Mount Your Friends",
+      "id": "steam:296470",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Mount Your Friends 3D: A Hard Man is Good to Climb",
+      "id": "steam:441010",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Nickelodeon Kart Racers 3: Slime Speedway",
+      "id": "steam:1620040",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Sportsfriends",
+      "id": "steam:277850",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "SUPER BOMBERMAN R 2",
+      "id": "steam:1913740",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Super Mega Baseball™ 4",
+      "id": "steam:1487210",
+      "mode": "Local cooperative play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Super Mega Baseball™ 4",
+      "id": "steam:1487210",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Super Sports Blast",
+      "id": "steam:1515740",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Super Tennis Blast",
+      "id": "steam:1050510",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Worms Armageddon",
+      "id": "steam:217200",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Knuckle Jet",
+      "id": "steam:3199470",
+      "mode": "Knuckleball competitive mode",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Laser League: World Arena",
+      "id": "steam:570460",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Streets of Rogue 2",
+      "id": "steam:2165810",
+      "mode": "Local cooperative play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Spelunky 2",
+      "id": "steam:418530",
+      "mode": "Local cooperative play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Spelunky 2",
+      "id": "steam:418530",
+      "mode": "Local competitive play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Tesla vs Lovecraft",
+      "id": "steam:636100",
+      "mode": "Local cooperative play",
+      "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+      "state": "unresolved-active"
+    },
+    {
+      "candidate": "Samurai GUNN 2",
+      "id": "steam:1397790",
+      "mode": "Local free-for-all",
+      "reason": "Current 1v1 is explicitly implemented. The larger free-for-all numerical ceiling is not stated. Adventure was removed in February 2026.",
+      "sourceUrl": "https://store.steampowered.com/app/1397790/Samurai_GUNN_2/",
+      "state": "unresolved-active"
     }
   ]
 }

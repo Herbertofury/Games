@@ -193,3 +193,7 @@ Next required gate: hash-guarded source installation and checkpoint, every unit 
 ## Party comparison continuation
 
 The 339-entry party catalog and all previous records remain intact. The comparison button captured the original renderer before the party overlay installed. Its action now resolves the current renderer at click time. A Node runtime regression protects the callback; the complete production-browser acceptance remains required before release. Previous failed gate: run 40075657269, comparison mode/edition fields.
+
+## Current-edition party source correction
+
+Samurai GUNN 2 current official Steam roadmap confirms its February 2026 engine rebuild removed Adventure mode. Retain its 2021 original release and current-versus scope; local 1v1 is confirmed while the larger free-for-all numerical limit remains explicitly unknown. The exact page hash and model regression are retained. Previous complete party UI/media gate passed in run 40111783032; the normal full publication gate validates the corrected final dataset.
