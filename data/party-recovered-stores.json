@@ -1,0 +1,1344 @@
+{
+  "overrides": {
+    "steam:230270": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=N%2B%2B%20%28NPLUSPLUS%29",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=N%2B%2B%20%28NPLUSPLUS%29",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:983970": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/haven",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Haven",
+          "evidence": "Exact title in GOG official catalog: Haven"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Haven",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Haven",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Space Haven",
+            "url": "https://www.gog.com/en/game/space_haven",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Fallen Haven",
+            "url": "https://www.gog.com/en/game/fallen_haven",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Havendock - Full Complete Set",
+            "url": "https://www.gog.com/en/game/havendock_full_complete_set",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Havendock",
+            "url": "https://www.gog.com/en/game/havendock",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Sky Haven Tycoon - Airport Simulator",
+            "url": "https://www.gog.com/en/game/sky_haven_tycoon_airport_simulator",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Batora: Lost Haven",
+            "url": "https://www.gog.com/en/game/batora_lost_haven",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Batora: Lost Haven - Digital Deluxe Edition",
+            "url": "https://www.gog.com/en/game/batora_lost_haven_digital_deluxe_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Haven Park",
+            "url": "https://www.gog.com/en/game/haven_park",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Shattered Haven",
+            "url": "https://www.gog.com/en/game/shattered_haven",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Fallen Haven: Liberation Day",
+            "url": "https://www.gog.com/en/game/fallen_haven_liberation_day",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "I Have No Mouth And I Must Scream",
+            "url": "https://www.gog.com/en/game/i_have_no_mouth_and_i_must_scream",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Fantastic Haven",
+            "url": "https://www.gog.com/en/game/fantastic_haven",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "HavenCraft",
+            "url": "https://www.gog.com/en/game/havencraft",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Haven",
+            "url": "https://nm-dart.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Haven",
+            "url": "https://temerity-games.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Haven",
+            "url": "https://frojo.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Haven",
+            "url": "https://grundyy.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Haven",
+            "url": "https://base-jump.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Haven",
+            "url": "https://aarongb.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "HAVEN",
+            "url": "https://toothandclaw.itch.io/-haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Haven",
+            "url": "https://bomberman1359.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Haven",
+            "url": "https://samshady.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Haven",
+            "url": "https://bc058.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Haven",
+            "url": "https://mohammed45-ap.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Haven",
+            "url": "https://lute123.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "HAVEN",
+            "url": "https://leovaia0823-del.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Haven",
+            "url": "https://xe-rx.itch.io/haven",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1132030": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Trash%20Sailors%3A%20Co-Op%20Trash%20Raft%20Simulator",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved-active",
+            "error": "HTTP Error 404: Not Found"
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Trash%20Sailors%3A%20Co-Op%20Trash%20Raft%20Simulator",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:570460": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Laser%20League%3A%20World%20Arena",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved-active",
+            "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>"
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Laser%20League%3A%20World%20Arena",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:389140": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Horizon%20Chase%20Turbo",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Horizon%20Chase%20Turbo",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1451810": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=LEGO%C2%AE%202K%20Drive",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved-active",
+            "error": "HTTP Error 403: Forbidden"
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=LEGO%C2%AE%202K%20Drive",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:2051120": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=HOT%20WHEELS%20UNLEASHED%E2%84%A2%202%20-%20Turbocharged",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://hotwheelsunleashed.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=HOT%20WHEELS%20UNLEASHED%E2%84%A2%202%20-%20Turbocharged",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:512900": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/streets_of_rogue",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Streets%20of%20Rogue",
+          "evidence": "Exact title in GOG official catalog: Streets of Rogue"
+        },
+        {
+          "provider": "itch.io",
+          "url": "https://madguy.itch.io/streets-of-rogue",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://itch.io/search?q=Streets%20of%20Rogue",
+          "evidence": "Exact title and creator page links to Steam app 512900"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Streets%20of%20Rogue",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Streets%20of%20Rogue",
+            "state": "matched",
+            "matches": 1
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Streets of Rogue",
+            "url": "https://jeffy85.itch.io/streets-of-rogue",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:2165810": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Streets%20of%20Rogue%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.sor2game.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Streets%20of%20Rogue%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:452060": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/caveblazers",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Caveblazers",
+          "evidence": "Exact title in GOG official catalog: Caveblazers"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Caveblazers",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Caveblazers",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:239350": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/spelunky",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Spelunky",
+          "evidence": "Exact title in GOG official catalog: Spelunky"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Spelunky",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Spelunky",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Spelunky",
+            "url": "https://shengqin.itch.io/spelunky",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:418530": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Spelunky%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Spelunky%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1337520": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Risk%20of%20Rain%20Returns",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Risk%20of%20Rain%20Returns",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:247080": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/crypt_of_the_necrodancer",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Crypt%20of%20the%20NecroDancer",
+          "evidence": "Exact title in GOG official catalog: Crypt of the NecroDancer"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Crypt%20of%20the%20NecroDancer",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Crypt%20of%20the%20NecroDancer",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:585710": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/blazing_beaks",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://www.blazingbeaks.com/",
+          "evidence": "Game-specific official website link with matching destination title"
+        },
+        {
+          "provider": "Humble Store",
+          "url": "https://www.humblebundle.com/store/blazing-beaks",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://www.blazingbeaks.com/",
+          "evidence": "Game-specific official website link with matching destination title"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Blazing%20Beaks",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.blazingbeaks.com/",
+            "state": "matched",
+            "matches": 2
+          },
+          {
+            "provider": "itch.io",
+            "state": "unresolved-active",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:636100": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/tesla_vs_lovecraft",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Tesla%20vs%20Lovecraft",
+          "evidence": "Exact title in GOG official catalog: Tesla vs Lovecraft"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Tesla%20vs%20Lovecraft",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Tesla%20vs%20Lovecraft",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:428750": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/neon_chrome",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Neon%20Chrome",
+          "evidence": "Exact title in GOG official catalog: Neon Chrome"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Neon%20Chrome",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Neon%20Chrome",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Neon Chrome Deluxe Edition",
+            "url": "https://www.gog.com/en/game/neon_chrome_deluxe_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Neon & Chrome",
+            "url": "https://chrom4t1c.itch.io/neon-chrome",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Neon & Chrome",
+            "url": "https://odog4ever.itch.io/neonandchrome",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:394510": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=HELLDIVERS%E2%84%A2%20Dive%20Harder%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=HELLDIVERS%E2%84%A2%20Dive%20Harder%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1432050": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/nobody_saves_the_world",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Nobody%20Saves%20the%20World",
+          "evidence": "Exact title in GOG official catalog: Nobody Saves the World"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Nobody%20Saves%20the%20World",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.nobodysavestheworld.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Nobody%20Saves%20the%20World",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Nobody Saves the World Complete",
+            "url": "https://www.gog.com/en/game/nobody_saves_the_world_complete",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:2305840": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/cat_quest_iii",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Cat%20Quest%20III",
+          "evidence": "Exact title in GOG official catalog: Cat Quest III"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Cat%20Quest%20III",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Cat%20Quest%20III",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1672970": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Minecraft%20Dungeons",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved-active",
+            "error": "The read operation timed out"
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Minecraft%20Dungeons",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "MINECRAFT DUNGEONS",
+            "url": "https://shadow2096.itch.io/minecraft-dungeons",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:65800": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Dungeon%20Defenders",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "state": "unresolved-active",
+            "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>"
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Dungeon%20Defenders",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Dungeon Defenders",
+            "url": "https://lordeoflights.itch.io/dungeon-defenders",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Dungeon Defenders",
+            "url": "https://juancaos.itch.io/dungeon-defenders",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Dungeon Defenders",
+            "url": "https://sisyphean-games.itch.io/dungeon-defenders",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:229480": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Dungeons%20%26%20Dragons%3A%20Chronicles%20of%20Mystara",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Dungeons%20%26%20Dragons%3A%20Chronicles%20of%20Mystara",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:204360": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Castle%20Crashers%C2%AE",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.thebehemoth.com",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Castle%20Crashers%C2%AE",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Castle Crashers",
+            "url": "https://geroc13.itch.io/castle-crashers",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Castle Crashers",
+            "url": "https://the-behemoth.itch.io/castle-crashers",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Castle Crashers",
+            "url": "https://quintengates.itch.io/castle-crashers",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:985890": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/streets_of_rage_4",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Streets%20of%20Rage%204",
+          "evidence": "Exact title in GOG official catalog: Streets of Rage 4"
+        },
+        {
+          "provider": "Humble Store",
+          "url": "https://www.humblebundle.com/store/streets-of-rage-4",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://www.streets4rage.com/",
+          "evidence": "Game-specific official website link with matching destination title"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Streets%20of%20Rage%204",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.streets4rage.com/",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Streets%20of%20Rage%204",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1361510": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Teenage%20Mutant%20Ninja%20Turtles%3A%20Shredder%27s%20Revenge",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.shredders-revenge.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Teenage%20Mutant%20Ninja%20Turtles%3A%20Shredder%27s%20Revenge",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:2996040": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Teenage%20Mutant%20Ninja%20Turtles%3A%20Splintered%20Fate",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://superevilmegacorp.com/games/tmnt-splintered-fate/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Teenage%20Mutant%20Ninja%20Turtles%3A%20Splintered%20Fate",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "url": "https://store.epicgames.com/en-US/p/teenage-mutant-ninja-turtles-splintered-fate-0722ac",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          },
+          {
+            "url": "https://store.epicgames.com/en-US/p/teenage-mutant-ninja-turtles-splintered-fate-0722ac",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:2215260": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Scott%20Pilgrim%20vs.%20The%20World%E2%84%A2%3A%20The%20Game%20%E2%80%93%20Complete%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.ubisoft.com/en-gb/games/scott-pilgrim-vs-the-world-the-game/editions/complete",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Scott%20Pilgrim%20vs.%20The%20World%E2%84%A2%3A%20The%20Game%20%E2%80%93%20Complete%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:435150": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Divinity%3A%20Original%20Sin%202%20-%20Definitive%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://divinity.com/original-sin-ii",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Divinity%3A%20Original%20Sin%202%20-%20Definitive%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1086940": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/baldurs_gate_iii",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Baldur%27s%20Gate%203",
+          "evidence": "Exact title in GOG official catalog: Baldur's Gate 3"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Baldur%27s%20Gate%203",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://baldursgate3.game",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "state": "unresolved-active",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Baldur's Gate 3 Toolkit",
+            "url": "https://www.gog.com/en/game/baldurs_gate_3_toolkit",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1094870": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Acron%3A%20Attack%20of%20the%20Squirrels%21",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.resolutiongames.com/acron",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Acron%3A%20Attack%20of%20the%20Squirrels%21",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:238530": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/super_puzzle_platformer_deluxe",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:10:21.120179+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Super%20Puzzle%20Platformer%20Deluxe",
+          "evidence": "Exact title in GOG official catalog: Super Puzzle Platformer Deluxe"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Super%20Puzzle%20Platformer%20Deluxe",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Super%20Puzzle%20Platformer%20Deluxe",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:525510": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:10:21.120241+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Guns%2C%20Gore%20and%20Cannoli%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.rogueside.com",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Guns%2C%20Gore%20and%20Cannoli%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    }
+  }
+}
