@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-24T00:53:23.212Z",
+  "exportedAt": "2026-10-24T16:44:28.298Z",
   "favorites": [
     "steam:2218750"
   ],
@@ -20,6 +20,11 @@
     {
       "name": "QA saved view",
       "filters": {
+        "partyPlayers": "",
+        "partyMode": "",
+        "partySetup": "",
+        "partyEdition": "",
+        "partyBaseOnly": false,
         "hub": "",
         "provider": "",
         "kind": "",
@@ -51,6 +56,11 @@
   "theme": "dark",
   "compact": false,
   "filters": {
+    "partyPlayers": "",
+    "partyMode": "",
+    "partySetup": "",
+    "partyEdition": "",
+    "partyBaseOnly": false,
     "hub": "",
     "provider": "",
     "kind": "",

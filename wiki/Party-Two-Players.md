@@ -220,6 +220,7 @@ Counts match an actual local mode. Some entries include an optional DLC mode; re
 | [LEGO® Party!](Game-1969370-LEGO-Party) | 2-4 | Versus: 2-4 | simultaneous; PC edition | 10 / 10 |
 | [MageQuit](Game-572220-MageQuit) | 2-10 | Versus: 2-10 | simultaneous; PC edition | 10 / 10 |
 | [Hidden in Plain Sight](Game-303590-Hidden-in-Plain-Sight) | 2-8 | Versus: 2-8 | simultaneous; PC edition | 10 / 10 |
+| [Samurai GUNN 2](Game-1397790-Samurai-GUNN-2) | 2 | Versus: 2 | simultaneous; PC edition | 10 / 10 |
 | [Windjammers 2](Game-1114290-Windjammers-2) | 2 | Versus: 2 | simultaneous; PC edition | 10 / 10 |
 | [Shipped](Game-1037190-Shipped) | 2-8 | Versus: 2-8 | simultaneous; PC edition | 10 / 10 |
 | [Hyper Jam](Game-556050-Hyper-Jam) | 2-4 | Versus: 2-4 | simultaneous; PC edition | 10 / 10 |

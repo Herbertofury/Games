@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "catalogId": "herbertofury-games",
   "title": "Games",
-  "generatedAt": "2026-10-24T07:27:34.425905+00:00",
+  "generatedAt": "2026-10-24T16:38:30.624725+00:00",
   "sourceRepository": "https://github.com/Herbertofury/Games",
   "sourceWiki": "https://github.com/Herbertofury/Games/wiki",
   "sources": [
@@ -29,7 +29,7 @@
     "verifiedCount": 1853,
     "unresolvedCount": 0,
     "mediaCount": 28378,
-    "datasetHash": "1ff8aec1b508d2852ab5e15324a3fb16e13eb39e9daa7a5555c9303f835a118f",
+    "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
     "candidateUnresolved": [
       {
         "candidate": "Alice in Abyss",
@@ -384,151 +384,145 @@
         "state": "unresolved-active"
       },
       {
-        "id": "steam:1499700",
         "candidate": "Golazo! 2",
+        "id": "steam:1499700",
         "mode": "Local cooperative play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:1499700",
         "candidate": "Golazo! 2",
+        "id": "steam:1499700",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:571740",
         "candidate": "Golf It!",
+        "id": "steam:571740",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:296470",
         "candidate": "Mount Your Friends",
+        "id": "steam:296470",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:441010",
         "candidate": "Mount Your Friends 3D: A Hard Man is Good to Climb",
+        "id": "steam:441010",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:1620040",
         "candidate": "Nickelodeon Kart Racers 3: Slime Speedway",
+        "id": "steam:1620040",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:1397790",
-        "candidate": "Samurai GUNN 2",
-        "mode": "Local cooperative play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-      },
-      {
-        "id": "steam:1397790",
-        "candidate": "Samurai GUNN 2",
-        "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
-      },
-      {
-        "id": "steam:277850",
         "candidate": "Sportsfriends",
+        "id": "steam:277850",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:1913740",
         "candidate": "SUPER BOMBERMAN R 2",
+        "id": "steam:1913740",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:1487210",
         "candidate": "Super Mega Baseball™ 4",
+        "id": "steam:1487210",
         "mode": "Local cooperative play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:1487210",
         "candidate": "Super Mega Baseball™ 4",
+        "id": "steam:1487210",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:1515740",
         "candidate": "Super Sports Blast",
+        "id": "steam:1515740",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:1050510",
         "candidate": "Super Tennis Blast",
+        "id": "steam:1050510",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:217200",
         "candidate": "Worms Armageddon",
+        "id": "steam:217200",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:3199470",
         "candidate": "Knuckle Jet",
+        "id": "steam:3199470",
         "mode": "Knuckleball competitive mode",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:570460",
         "candidate": "Laser League: World Arena",
+        "id": "steam:570460",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:2165810",
         "candidate": "Streets of Rogue 2",
+        "id": "steam:2165810",
         "mode": "Local cooperative play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:418530",
         "candidate": "Spelunky 2",
+        "id": "steam:418530",
         "mode": "Local cooperative play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:418530",
         "candidate": "Spelunky 2",
+        "id": "steam:418530",
         "mode": "Local competitive play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
       },
       {
-        "id": "steam:636100",
         "candidate": "Tesla vs Lovecraft",
+        "id": "steam:636100",
         "mode": "Local cooperative play",
-        "state": "unresolved-active",
-        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity."
+        "reason": "Native local mode is confirmed, but this exact mode capacity remains unconfirmed. Numeric headcount filters do not guess this capacity.",
+        "state": "unresolved-active"
+      },
+      {
+        "candidate": "Samurai GUNN 2",
+        "id": "steam:1397790",
+        "mode": "Local free-for-all",
+        "reason": "Current 1v1 is explicitly implemented. The larger free-for-all numerical ceiling is not stated. Adventure was removed in February 2026.",
+        "sourceUrl": "https://store.steampowered.com/app/1397790/Samurai_GUNN_2/",
+        "state": "unresolved-active"
       }
     ],
     "candidateDispositions": [
@@ -27626,7 +27620,7 @@
           "provider": "Official media",
           "url": "https://www.moddb.com/mods/arcane-dimensions",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         },
         {
           "provider": "Video provenance",
@@ -27636,8 +27630,8 @@
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "d15b6a51082740acc3ccd1bcba167d4b132bbb5484225c0becf8961832062197",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "20d9e3b741b055233a2f14f3aa75a48dae4fc5692df92355d2e4b41ab7a9acc8",
       "mediaParserVersion": 2
     },
     {
@@ -33350,12 +33344,12 @@
           "provider": "Official media",
           "url": "https://www.moddb.com/mods/ashes-2063",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "74efad031fe6b89a5b0b7a7c9b4a9b94a0547363fee686e97e13d5c0aa716640",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "bd8d867f5718bea3b432be73cc26f6e363b9492b94247bf9c8099d5510aa156a",
       "mediaParserVersion": 2
     },
     {
@@ -33650,10 +33644,10 @@
       "verifiedAt": "2026-10-23T06:35:12.994433+00:00",
       "sources": [
         {
-          "provider": "ModDB creator release notes",
+          "provider": "Official media",
           "url": "https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater",
           "verified": true,
-          "lastChecked": "2026-10-23"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         },
         {
           "provider": "Ashes project",
@@ -33665,8 +33659,8 @@
       ],
       "warnings": [],
       "mediaPage": "https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater",
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "9d4c7b90ab8d9adef50db1feb8af4d7e5852b8ad22050cd5f436009f0ac608b9",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "7c2ba01f557413dab557bdcdefbe20593c4996af722ca1f6a55be17aa2e4e15c",
       "mediaParserVersion": 2
     },
     {
@@ -60812,15 +60806,15 @@
           "provider": "Official media",
           "url": "https://ez4e99.itch.io/boom-defense-of-abydos",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [
         "Exploratory recommendation; limited independent reception",
         "Community rating has a small sample"
       ],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "c2060c3a82fea88c2284da5770a5731c33e747a446094dc29803621c3247ac85",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "436413853a43d941184d85739183872bd790feb896f302cd64221967392fbb16",
       "mediaParserVersion": 2
     },
     {
@@ -67260,12 +67254,12 @@
           "provider": "Official media",
           "url": "https://www.moddb.com/mods/brutal-doom",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "d67a3636b3cd3d57163ca5170c7187232d27fe8dead918ae754de88ce7d47e7b",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "a878d2b3072620b2be78a6cf8c87ccb9358d80bf0fe0f1bc34f76d99ffae0075",
       "mediaParserVersion": 2
     },
     {
@@ -74308,12 +74302,12 @@
           "provider": "Official media",
           "url": "https://batandy.itch.io/simonsdestiny",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "efaed3e053b386c250f2dda68c2d4135d9f4e03ae154ce213385360ff9afa13f",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "423c3a445cca16b6eb46d84f49f63c799fb87c8d4863047c6586f05e7fcb8ed1",
       "mediaParserVersion": 2
     },
     {
@@ -110597,15 +110591,15 @@
           "provider": "Official media",
           "url": "https://crowhillstudios.itch.io/dead-trash-operation-yellow-snow",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [
         "Exploratory recommendation; limited independent reception",
         "Community rating has a small sample"
       ],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "fa36e8afba1ad5a4c8a610b7754c31380e75e0341c785baf05a0208c1b0466dd",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "e2e62a24aa52dfe6a3ef2dab05c8f0647b32503d82c9d0a861cb1a5434419cff",
       "mediaParserVersion": 2
     },
     {
@@ -113163,7 +113157,7 @@
           "provider": "Official media",
           "url": "https://www.moddb.com/mods/death-wish-for-blood",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         },
         {
           "provider": "Video source",
@@ -113173,8 +113167,8 @@
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "a2a9727b80551f7ff1b4345ca594e9108e4749f0d0d205857e428b5dc67d9401",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "a9458af6ed43090b43350ef4e1d945d8bccc5fafdb9cc032482a2a33961163f9",
       "mediaParserVersion": 2
     },
     {
@@ -129551,12 +129545,12 @@
           "provider": "Official media",
           "url": "https://batandy.itch.io/goldensouls2",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "a27ac117126dd4bd55a5742bf325c2d68aa18653e8cdd11fe5327f44f0175d57",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "4795b342b239c3d9363a2e96a67513015bf03459a3c7d1d439547b568a48ac2e",
       "mediaParserVersion": 2
     },
     {
@@ -129758,14 +129752,14 @@
           "provider": "Official media",
           "url": "https://batandy.itch.io/goldensouls3",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [
         "Exploratory recommendation; limited independent reception"
       ],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "57e0fb8b6d04c5a961a3f563f99f2ae802e4a93a3a047e99af8eec2bf40e9e78",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "652a447a721fac17cf37a877720cc159ac3605389d681f20524ef479c4257adc",
       "mediaParserVersion": 2
     },
     {
@@ -129958,12 +129952,12 @@
           "provider": "Official media",
           "url": "https://batandy.itch.io/goldensouls",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "4fc9072643c348234d00dccb202490a0b7463c99ad313b74d1fc9f5514452baa",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "8a9de8c28c6fd265f32dbb66fe4ed1da626922d7a891673cc7d8b162210b8086",
       "mediaParserVersion": 2
     },
     {
@@ -140475,12 +140469,12 @@
           "provider": "Official media",
           "url": "https://www.moddb.com/mods/dwell",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "ce47261bfeb31c8b8b069ad8671fb29952ad72644f689555743bdd71887eb4d1",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "134f52330057ee1b6957761646fdfc78f6223606319cf842eefa5f3ce3f76116",
       "mediaParserVersion": 2
     },
     {
@@ -191872,12 +191866,12 @@
           "provider": "Official media",
           "url": "https://vlambeer.itch.io/gun-godz",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "4d2ba57bc58201c8292bae3775efc466c15c29b0978420c3c248013668d0d405",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "ecf86c931a1bd78e25fb872ed2aac4267e2ab106a29463f31e28c246194e385b",
       "mediaParserVersion": 2
     },
     {
@@ -230301,15 +230295,15 @@
           "provider": "Official media",
           "url": "https://anttironkkagames.itch.io/kauna",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [
         "Exploratory recommendation; limited independent reception",
         "Community rating has a small sample"
       ],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "e1d20a38f4ebf26d2bf8ef0763ea96bc3c78e1777237cf38a89fdde26f006b17",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "354aae73248fb1ee835f37f971b7a746b9804cd136d811f6f977a7fb54657a6f",
       "mediaParserVersion": 2
     },
     {
@@ -325169,7 +325163,7 @@
           "provider": "Official media",
           "url": "https://freds72.itch.io/poom",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         },
         {
           "provider": "Creator Newgrounds release",
@@ -325180,8 +325174,8 @@
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "e001f6b12870422a2cefc158f0db7740da32a724922f8508820b4b0a90ad7af3",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "811d051350c5834427237caa2e187f8bafe460c71bb1ac806235da3ccc4e8d09",
       "mediaParserVersion": 2
     },
     {
@@ -329478,14 +329472,14 @@
           "provider": "Official media",
           "url": "https://arcturusdeluxe.itch.io/project-osiris",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [
         "Community rating has a small sample"
       ],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "ba0908ca81590cf9f95e5c3e1160f717b0351a3eed184be137f91cc967993fed",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "8623f58ea545e52a30f14b29f222e1c7f91deb053f30f1b8140c58008c125872",
       "mediaParserVersion": 2
     },
     {
@@ -334758,7 +334752,7 @@
           "provider": "Official media",
           "url": "https://www.moddb.com/mods/quake-brutalist-jam-iii",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         },
         {
           "provider": "Standalone release and installation",
@@ -334769,8 +334763,8 @@
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "1dc86da2308c6edcbc801420d6cdec4003b99b04e5b2a023e8f623f76b47e8d7",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "0aa0a149dcefd5b5c5c6b62e5c8b9868fbf59659e5d72d2332778da83c2abb6c",
       "mediaParserVersion": 2
     },
     {
@@ -362193,10 +362187,12 @@
         "Early Access"
       ],
       "tags": [
+        "2 local players",
         "Action",
         "Couch multiplayer",
         "Disc Jam / Lethal League feeling",
         "Early Access",
+        "Local versus",
         "Your favorites & closest matches"
       ],
       "features": [
@@ -362325,6 +362321,13 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1397790%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-24T05:54:13.119458+00:00"
+        },
+        {
+          "kind": "source",
+          "lastChecked": "2026-10-24T16:38:30.624725+00:00",
+          "provider": "Official current-mode roadmap",
+          "url": "https://store.steampowered.com/app/1397790/Samurai_GUNN_2/",
+          "verified": true
         }
       ],
       "warnings": [],
@@ -362340,48 +362343,53 @@
       "provider": "Steam",
       "kind": "Standalone game",
       "partyInfo": {
-        "checkedAt": "2026-10-24T05:54:13.123970+00:00",
+        "checkedAt": "2026-10-24T16:38:30.624725+00:00",
         "controllerSupport": "full",
-        "countVerified": false,
+        "countVerified": true,
         "evidence": [],
         "inputs": "See controller support and exact mode notes.",
-        "localMax": null,
+        "localMax": 2,
         "localSupport": true,
         "modes": [
-          "Co-op",
           "Versus"
         ],
         "modesDetail": [
           {
-            "counts": [],
-            "evidenceBasis": "Local support listed; exact count not yet confirmed",
-            "name": "Local cooperative play",
-            "notes": "",
+            "counts": [
+              2
+            ],
+            "evidenceBasis": "Current official Steam roadmap explicitly lists local 1v1 as implemented.",
+            "name": "Local 1v1",
+            "notes": "Current custom-engine version relaunched in February 2026.",
             "requiresDlc": false,
-            "sourceUrl": "https://store.steampowered.com/app/1397790/",
-            "type": "Co-op"
+            "sourceUrl": "https://store.steampowered.com/app/1397790/Samurai_GUNN_2/",
+            "type": "Versus"
           },
           {
             "counts": [],
-            "evidenceBasis": "Local support listed; exact count not yet confirmed",
-            "name": "Local competitive play",
-            "notes": "",
+            "evidenceBasis": "The current official roadmap confirms local free-for-all, but does not specify its numerical ceiling.",
+            "name": "Local free-for-all",
+            "notes": "Do not infer the new-engine limit from older versions or user-defined tags.",
             "requiresDlc": false,
-            "sourceUrl": "https://store.steampowered.com/app/1397790/",
+            "sourceUrl": "https://store.steampowered.com/app/1397790/Samurai_GUNN_2/",
             "type": "Versus"
           }
         ],
-        "notes": "Fast sword-and-shot rounds. Exact numerical local limit remains unconfirmed; this entry does not appear in exact-player filters.",
+        "notes": "The February 2026 custom-engine rebuild removed Adventure mode. Local 1v1 and free-for-all are implemented; 2v2 remains planned in the current official roadmap. This is not a current cooperative-campaign recommendation.",
         "onlineListed": true,
         "participation": "simultaneous",
         "platform": "PC edition",
-        "playerCounts": [],
+        "playerCounts": [
+          2
+        ],
         "remotePlayTogether": false,
         "requiresInternet": "Not inferred from local support.",
         "screen": "Shared / split screen; see mode notes",
         "sourceUrl": "https://store.steampowered.com/app/1397790/",
         "coopCounts": [],
-        "versusCounts": [],
+        "versusCounts": [
+          2
+        ],
         "basis": "Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible."
       },
       "knownFavorite": false,
@@ -362432,7 +362440,7 @@
         "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
       },
       "partyWhy": "Lock in! Samurai GUNN 2 is a bloody and brutally fast platform fighter for players who like short rounds and intense action. Free Edition out now!",
-      "partyScope": "Local multiplayer / co-op and versus",
+      "partyScope": "Local multiplayer / versus",
       "originalReleaseYear": 2021
     },
     {
@@ -375747,7 +375755,7 @@
           "provider": "Official media",
           "url": "https://scumhead.itch.io/shrine",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         },
         {
           "provider": "Video source",
@@ -375757,8 +375765,8 @@
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "b5e666010acebc50960d4824a4e5afe779a077304ee8d65b6871e6355b1fedd7",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "3894997519947eef045731a2a45bf8b0a20803fa7dd2bf02e6c15e28e2e660fc",
       "mediaParserVersion": 2
     },
     {
@@ -378086,12 +378094,12 @@
           "provider": "Official media",
           "url": "https://dithered-output.itch.io/siren-doom-ii-mod",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "dd2f0905de4e5ed10bb9da773a83939fce54bc0a396f54963bbfda90f3f1e396",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "13a9e259c365304344797a3927416e2c4eaeb41bc957a1cd36d0b9c639144c32",
       "mediaParserVersion": 2
     },
     {
@@ -474603,10 +474611,10 @@
           "lastChecked": "2026-10-23T06:35:12.994433+00:00"
         },
         {
-          "provider": "ModDB original Director's Cut",
+          "provider": "Official media",
           "url": "https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140",
           "verified": true,
-          "lastChecked": "2026-10-23"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         },
         {
           "provider": "Video source",
@@ -474629,8 +474637,8 @@
       ],
       "warnings": [],
       "mediaPage": "https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140",
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "a23e08caa8e85420ac8551917fa0db4c0d3a60733f7ff474ea3e9d31643566be",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "ca37c899caf702cec71c961c7500ad61c9a111665163260b3834bf98a3d18d18",
       "mediaParserVersion": 2,
       "rejectedMedia": [
         {
@@ -478298,7 +478306,7 @@
           "provider": "Official media",
           "url": "https://www.moddb.com/mods/tremor-an-alternate-version-of-quake",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         },
         {
           "provider": "Latest creator file",
@@ -478315,8 +478323,8 @@
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "23f0d1b0521718332774109c5fd72a75d9e94a651ad76a0cbac3427997a1ef2e",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "fd49ea82379babd08b5c14f0a472370db6da6d5448d70b3c8c63ddc017671153",
       "mediaParserVersion": 2
     },
     {
@@ -497840,14 +497848,14 @@
           "provider": "Official media",
           "url": "https://www.moddb.com/mods/vietdoom",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [
         "Exploratory recommendation; limited independent reception"
       ],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "222f711b6824884190fef9ea5e40f422da15b2590df8aad1bf9ad47fc71412d3",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "a05f83fe4156f719f0f2049ffc6aac97dcbe42608b964140fa2a2b199c7817c8",
       "mediaParserVersion": 2
     },
     {
@@ -504804,15 +504812,15 @@
           "provider": "Official media",
           "url": "https://pavoent.itch.io/wanted-3d-dead-or-alive",
           "verified": true,
-          "lastChecked": "2026-10-23T07:04:56.149669+00:00"
+          "lastChecked": "2026-10-24T16:39:07.196766+00:00"
         }
       ],
       "warnings": [
         "Exploratory recommendation; limited independent reception",
         "Community rating has a small sample"
       ],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "7f015d654652d7503deebcacd38e14f949cc069a531bb056361f0e774f07ba86",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "3befbec323355660a568981261187ca38938ec7ff1befde2638a4f972568e739",
       "mediaParserVersion": 2
     },
     {
@@ -518566,8 +518574,8 @@
         }
       ],
       "warnings": [],
-      "mediaCheckedAt": "2026-10-23T07:04:56.149669+00:00",
-      "mediaPageHash": "1fe4df3b7ca49f6ab934c6d554fe3f5d56bd75133e56a46a4dcc03fc4ff6129b",
+      "mediaCheckedAt": "2026-10-24T16:39:07.196766+00:00",
+      "mediaPageHash": "99ccf78889796fc326a6dd4686a4c34e927a7d75f2c9869adda346f2742b5ee3",
       "mediaParserVersion": 2
     },
     {

@@ -1,7 +1,12 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-24T00:51:02.653Z",
+  "exportedAt": "2026-10-24T16:42:46.431Z",
   "filters": {
+    "partyPlayers": "",
+    "partyMode": "",
+    "partySetup": "",
+    "partyEdition": "",
+    "partyBaseOnly": false,
     "hub": "Survival",
     "provider": "",
     "kind": "",
@@ -1632,11 +1637,19 @@
         "Early Access"
       ],
       "tags": [
+        "2 local players",
+        "3 local players",
+        "4 local players",
         "Co-op",
+        "Co-op campaigns & sandbox evenings",
+        "Couch multiplayer",
+        "Crafting",
         "Early Access",
         "Farming",
         "Fishing",
         "Indie",
+        "Local co-op",
+        "Loot",
         "Modding mentioned",
         "RPG",
         "Simulation",
@@ -1644,6 +1657,7 @@
         "Survival",
         "Survival core",
         "Survival crafting / zombies",
+        "Survivors-like",
         "Zombies, infection & fortification"
       ],
       "features": [
@@ -1779,27 +1793,36 @@
           "provider": "Steam",
           "url": "https://store.steampowered.com/app/108600/",
           "verified": true,
-          "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+          "lastChecked": "2026-10-24T05:54:13.119458+00:00"
         },
         {
           "provider": "Steam store API",
           "url": "https://store.steampowered.com/api/appdetails?appids=108600&l=english&cc=us",
           "verified": true,
-          "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+          "lastChecked": "2026-10-24T05:54:13.119458+00:00"
         },
         {
           "provider": "Steam reviews API",
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A108600%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
-          "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+          "lastChecked": "2026-10-24T05:54:13.119458+00:00"
+        },
+        {
+          "kind": "source",
+          "lastChecked": "2026-10-24T07:09:45.958258+00:00",
+          "provider": "Local-mode evidence",
+          "url": "https://playco-opgame.com/project-zomboid/",
+          "verified": true
         }
       ],
       "warnings": [],
       "hubs": [
-        "Survival"
+        "Survival",
+        "Couch co-op & party"
       ],
       "collections": [
-        "Zombies, infection & fortification"
+        "Zombies, infection & fortification",
+        "Co-op campaigns & sandbox evenings"
       ],
       "primaryUrl": "https://store.steampowered.com/app/108600/",
       "provider": "Steam",
@@ -1812,14 +1835,14 @@
           "url": "https://store.steampowered.com/app/108600",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T22:40:43.627048+00:00"
+          "lastChecked": "2026-10-24T05:54:13.123970+00:00"
         },
         {
           "provider": "GOG",
           "url": "https://www.gog.com/en/game/project_zomboid",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T22:47:17.566664+00:00",
+          "lastChecked": "2026-10-24T05:54:13.123886+00:00",
           "sourceUrl": "https://projectzomboid.com/blog/",
           "evidence": "Game-specific official website link with matching destination title"
         }
@@ -1876,7 +1899,65 @@
         "terrain": "See gameplay for terrain-editing and construction limits",
         "basis": "Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.",
         "sourceUrl": "https://store.steampowered.com/app/108600/"
-      }
+      },
+      "partyCollection": "Co-op campaigns & sandbox evenings",
+      "partyFit": 9,
+      "partyWhy": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
+      "partyInfo": {
+        "checkedAt": "2026-10-24T05:54:13.123970+00:00",
+        "controllerSupport": "Not specified",
+        "countVerified": true,
+        "evidence": [
+          {
+            "basis": "Mode reference",
+            "excerpt": "Shared Screen ? Not supported Support Local play Split Screen ? Supported Up to 4 players Support LAN play ? Not supported Support Online play ? Supp",
+            "sourceUrl": "https://playco-opgame.com/project-zomboid/"
+          }
+        ],
+        "inputs": "See controller support and exact mode notes.",
+        "localMax": 4,
+        "localSupport": true,
+        "modes": [
+          "Co-op"
+        ],
+        "modesDetail": [
+          {
+            "counts": [
+              2,
+              3,
+              4
+            ],
+            "evidenceBasis": "Mode reference",
+            "name": "Local cooperative play",
+            "notes": "",
+            "requiresDlc": false,
+            "sourceUrl": "https://playco-opgame.com/project-zomboid/",
+            "type": "Co-op"
+          }
+        ],
+        "notes": "Keyboard first player plus controllers; build caveats matter.",
+        "onlineListed": true,
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "playerCounts": [
+          2,
+          3,
+          4
+        ],
+        "remotePlayTogether": true,
+        "requiresInternet": "Not inferred from local support.",
+        "screen": "Split-screen",
+        "sourceUrl": "https://store.steampowered.com/app/108600/",
+        "coopCounts": [
+          2,
+          3,
+          4
+        ],
+        "versusCounts": [],
+        "basis": "Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible."
+      },
+      "partyScope": "Local multiplayer / co-op",
+      "knownFavorite": false
     },
     {
       "id": "steam:275850",
@@ -48889,9 +48970,14 @@
         "RPG"
       ],
       "tags": [
+        "2 local players",
         "Co-op",
+        "Co-op campaigns & sandbox evenings",
         "Conan / ARK / Windrose feeling",
+        "Couch multiplayer",
         "Creature taming",
+        "Dungeon crawler",
+        "Local co-op",
         "Open-world survival crafting",
         "RPG",
         "Shared-world adventures",
@@ -49059,30 +49145,33 @@
       "verification": "verified",
       "sources": [
         {
-          "provider": "Steam",
+          "kind": "source",
+          "lastChecked": "2026-10-24T07:09:45.958258+00:00",
+          "provider": "Local-mode evidence",
           "url": "https://store.steampowered.com/app/794260/",
-          "verified": true,
-          "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+          "verified": true
         },
         {
           "provider": "Steam store API",
           "url": "https://store.steampowered.com/api/appdetails?appids=794260&l=english&cc=us",
           "verified": true,
-          "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+          "lastChecked": "2026-10-24T05:54:13.119458+00:00"
         },
         {
           "provider": "Steam reviews API",
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A794260%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
-          "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+          "lastChecked": "2026-10-24T05:54:13.119458+00:00"
         }
       ],
       "warnings": [],
       "hubs": [
-        "Survival"
+        "Survival",
+        "Couch co-op & party"
       ],
       "collections": [
-        "Shared-world adventures"
+        "Shared-world adventures",
+        "Co-op campaigns & sandbox evenings"
       ],
       "primaryUrl": "https://store.steampowered.com/app/794260/",
       "provider": "Steam",
@@ -49097,14 +49186,14 @@
           "url": "https://store.steampowered.com/app/794260",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T22:40:43.627048+00:00"
+          "lastChecked": "2026-10-24T05:54:13.123970+00:00"
         },
         {
           "provider": "GOG",
           "url": "https://www.gog.com/en/game/outward_definitive_edition",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T22:47:17.566664+00:00",
+          "lastChecked": "2026-10-24T05:54:13.123886+00:00",
           "sourceUrl": "https://www.ninedotsstudio.com/outward",
           "evidence": "Game-specific official website link with matching destination title"
         }
@@ -49159,7 +49248,59 @@
         "terrain": "See gameplay for terrain-editing and construction limits",
         "basis": "Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.",
         "sourceUrl": "https://store.steampowered.com/app/794260/"
-      }
+      },
+      "partyCollection": "Co-op campaigns & sandbox evenings",
+      "partyFit": 9,
+      "partyWhy": "No remarkable journey is achieved without great effort. In Outward, the cold of the night or an infected wound can be as dangerous as a predator lurking in the dark. Explore the vast world of Aurai solo or in Co-op. The Definitive Edition features both DLCs and quality of life improvements.",
+      "partyInfo": {
+        "checkedAt": "2026-10-24T05:54:13.123970+00:00",
+        "controllerSupport": "full",
+        "countVerified": true,
+        "evidence": [
+          {
+            "basis": "Publisher description",
+            "excerpt": "c needs, sharing your journey with a friend, locally or online. City Building Mechanic: Rebuilding Siro",
+            "sourceUrl": "https://store.steampowered.com/app/794260/"
+          }
+        ],
+        "inputs": "See controller support and exact mode notes.",
+        "localMax": 2,
+        "localSupport": true,
+        "modes": [
+          "Co-op"
+        ],
+        "modesDetail": [
+          {
+            "counts": [
+              2
+            ],
+            "evidenceBasis": "Publisher description",
+            "name": "Local cooperative play",
+            "notes": "",
+            "requiresDlc": false,
+            "sourceUrl": "https://store.steampowered.com/app/794260/",
+            "type": "Co-op"
+          }
+        ],
+        "notes": "",
+        "onlineListed": true,
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "playerCounts": [
+          2
+        ],
+        "remotePlayTogether": true,
+        "requiresInternet": "Not inferred from local support.",
+        "screen": "Split-screen",
+        "sourceUrl": "https://store.steampowered.com/app/794260/",
+        "coopCounts": [
+          2
+        ],
+        "versusCounts": [],
+        "basis": "Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible."
+      },
+      "partyScope": "Local multiplayer / co-op",
+      "knownFavorite": false
     },
     {
       "id": "steam:464920",
@@ -68846,14 +68987,19 @@
         "Early Access"
       ],
       "tags": [
+        "2 local players",
         "Action",
         "Adventure",
         "Co-op",
+        "Co-op campaigns & sandbox evenings",
         "Conan / ARK / Windrose feeling",
+        "Couch multiplayer",
+        "Crafting",
         "Creature taming",
         "Early Access",
         "Farming",
         "Indie",
+        "Local co-op",
         "Massively Multiplayer",
         "Modding mentioned",
         "Open-world survival crafting",
@@ -69382,30 +69528,33 @@
       "verification": "verified",
       "sources": [
         {
-          "provider": "Steam",
+          "kind": "source",
+          "lastChecked": "2026-10-24T07:09:45.958258+00:00",
+          "provider": "Local-mode evidence",
           "url": "https://store.steampowered.com/app/2399830/",
-          "verified": true,
-          "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+          "verified": true
         },
         {
           "provider": "Steam store API",
           "url": "https://store.steampowered.com/api/appdetails?appids=2399830&l=english&cc=us",
           "verified": true,
-          "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+          "lastChecked": "2026-10-24T05:54:13.119458+00:00"
         },
         {
           "provider": "Steam reviews API",
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2399830%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
-          "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+          "lastChecked": "2026-10-24T05:54:13.119458+00:00"
         }
       ],
       "warnings": [],
       "hubs": [
-        "Survival"
+        "Survival",
+        "Couch co-op & party"
       ],
       "collections": [
-        "Shared-world adventures"
+        "Shared-world adventures",
+        "Co-op campaigns & sandbox evenings"
       ],
       "primaryUrl": "https://store.steampowered.com/app/2399830/",
       "provider": "Steam",
@@ -69418,7 +69567,7 @@
           "url": "https://store.steampowered.com/app/2399830",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T22:40:43.627048+00:00"
+          "lastChecked": "2026-10-24T05:54:13.123970+00:00"
         }
       ],
       "demoAppids": [],
@@ -69474,7 +69623,59 @@
         "terrain": "See gameplay for terrain-editing and construction limits",
         "basis": "Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.",
         "sourceUrl": "https://store.steampowered.com/app/2399830/"
-      }
+      },
+      "partyCollection": "Co-op campaigns & sandbox evenings",
+      "partyFit": 7,
+      "partyWhy": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
+      "partyInfo": {
+        "checkedAt": "2026-10-24T05:54:13.123970+00:00",
+        "controllerSupport": "full",
+        "countVerified": true,
+        "evidence": [
+          {
+            "basis": "Publisher description",
+            "excerpt": "or up to 8 players, and local split-screen for 2 players.",
+            "sourceUrl": "https://store.steampowered.com/app/2399830/"
+          }
+        ],
+        "inputs": "See controller support and exact mode notes.",
+        "localMax": 2,
+        "localSupport": true,
+        "modes": [
+          "Co-op"
+        ],
+        "modesDetail": [
+          {
+            "counts": [
+              2
+            ],
+            "evidenceBasis": "Publisher description",
+            "name": "Local cooperative play",
+            "notes": "",
+            "requiresDlc": false,
+            "sourceUrl": "https://store.steampowered.com/app/2399830/",
+            "type": "Co-op"
+          }
+        ],
+        "notes": "PC splitscreen requires verified edition-specific support.",
+        "onlineListed": true,
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "playerCounts": [
+          2
+        ],
+        "remotePlayTogether": true,
+        "requiresInternet": "Not inferred from local support.",
+        "screen": "Split-screen",
+        "sourceUrl": "https://store.steampowered.com/app/2399830/",
+        "coopCounts": [
+          2
+        ],
+        "versusCounts": [],
+        "basis": "Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible."
+      },
+      "partyScope": "Local multiplayer / co-op",
+      "knownFavorite": false
     },
     {
       "id": "steam:2828860",

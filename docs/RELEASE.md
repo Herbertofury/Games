@@ -8,7 +8,7 @@ The party lobby combines exact headcount, cooperative or competitive mode, simul
 
 Every published entry has source-grounded artwork, supported embedded-video metadata and confirmed distribution links. Creator animation conversions and community footage retain their provenance. The native wiki renders artwork and links exact videos; the portable HTML provides in-page players.
 
-323 entries have source-confirmed numerical local capacities. The 16 remaining entries have confirmed local support but visibly unconfirmed numerical limits, and are excluded from exact-number filters. Some games have one known mode and a separately unconfirmed secondary mode; their details retain that distinction. Unknown does not mean zero, or an invented four-player limit.
+324 entries have source-confirmed numerical local capacities. The 15 remaining entries have confirmed local support but visibly unconfirmed numerical limits, and are excluded from exact-number filters. Some games have one known mode and a separately unconfirmed secondary mode; their details retain that distinction. Unknown does not mean zero, or an invented four-player limit.
 
 Mode-specific capacity is visible on cards, in tables, comparisons and full dossiers, and in CSV/JSON exports. Saved filters, personal ratings, notes, backlog and favorites retain games.library.v1. No scheduled crawler, synthesized artwork or viewport culling was introduced.
 

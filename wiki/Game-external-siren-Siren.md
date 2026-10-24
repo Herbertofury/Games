@@ -55,6 +55,6 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Official media](https://dithered-output.itch.io/siren-doom-ii-mod) · checked 2026-10-23T07:04:56.149669+00:00
+- [Official media](https://dithered-output.itch.io/siren-doom-ii-mod) · checked 2026-10-24T16:39:07.196766+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

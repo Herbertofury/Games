@@ -1,7 +1,12 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-24T00:55:31.898Z",
+  "exportedAt": "2026-10-24T16:45:56.166Z",
   "filters": {
+    "partyPlayers": "",
+    "partyMode": "",
+    "partySetup": "",
+    "partyEdition": "",
+    "partyBaseOnly": false,
     "hub": "Real-time strategy",
     "provider": "",
     "kind": "",

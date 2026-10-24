@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-24T07:44:21.290806+00:00",
+  "checkedAt": "2026-10-24T16:39:28.467575+00:00",
   "records": 1853,
   "partyRecords": 339,
   "collections": 23,
@@ -17,7 +17,7 @@
     "Nintendo": 13,
     "Official site": 1
   },
-  "knownCountRecords": 323,
+  "knownCountRecords": 324,
   "unconfirmedCountRecords": [
     {
       "id": "steam:1499700",
@@ -42,10 +42,6 @@
     {
       "id": "steam:1620040",
       "name": "Nickelodeon Kart Racers 3: Slime Speedway"
-    },
-    {
-      "id": "steam:1397790",
-      "name": "Samurai GUNN 2"
     },
     {
       "id": "steam:418530",
@@ -84,7 +80,7 @@
       "name": "Worms Armageddon"
     }
   ],
-  "unconfirmedModeCount": 21,
+  "unconfirmedModeCount": 20,
   "participation": {
     "simultaneous": 303,
     "asymmetric": 2,
@@ -92,7 +88,7 @@
     "hotseat": 10
   },
   "byExactCount": {
-    "2": 315,
+    "2": 316,
     "3": 240,
     "4": 240,
     "5": 66,
@@ -152,5 +148,5 @@
       "state": "not-promoted"
     }
   ],
-  "datasetHash": "bbe336ff66d0fae7eef04c53d8fc48e17a01a85a8068e79ce0dfef89267a7f01"
+  "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb"
 }

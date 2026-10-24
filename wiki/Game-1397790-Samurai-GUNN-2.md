@@ -51,6 +51,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 - [Local-mode evidence](https://store.steampowered.com/app/1397790/) · checked 2026-10-24T07:09:45.958258+00:00
 - [Steam store API](https://store.steampowered.com/api/appdetails?appids=1397790&l=english&cc=us) · checked 2026-10-24T05:54:13.119458+00:00
 - [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1397790%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-24T05:54:13.119458+00:00
+- [Official current-mode roadmap](https://store.steampowered.com/app/1397790/Samurai_GUNN_2/) · checked 2026-10-24T16:38:30.624725+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -66,9 +67,9 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 | Local mode | People | Conditions | Count source |
 |:--|:--|:--|:--|
-| Local cooperative play (Co-op) | Count needs confirmation | See input setup | [Evidence](https://store.steampowered.com/app/1397790/) |
-| Local competitive play (Versus) | Count needs confirmation | See input setup | [Evidence](https://store.steampowered.com/app/1397790/) |
+| Local 1v1 (Versus) | 2 | Current custom-engine version relaunched in February 2026. | [Evidence](https://store.steampowered.com/app/1397790/Samurai_GUNN_2/) |
+| Local free-for-all (Versus) | Count needs confirmation | Do not infer the new-engine limit from older versions or user-defined tags. | [Evidence](https://store.steampowered.com/app/1397790/Samurai_GUNN_2/) |
 
-Fast sword-and-shot rounds. Exact numerical local limit remains unconfirmed; this entry does not appear in exact-player filters.
+The February 2026 custom-engine rebuild removed Adventure mode. Local 1v1 and free-for-all are implemented; 2v2 remains planned in the current official roadmap. This is not a current cooperative-campaign recommendation.
 
 Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

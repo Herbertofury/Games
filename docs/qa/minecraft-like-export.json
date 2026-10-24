@@ -1,7 +1,12 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-24T00:51:17.980Z",
+  "exportedAt": "2026-10-24T16:43:00.162Z",
   "filters": {
+    "partyPlayers": "",
+    "partyMode": "",
+    "partySetup": "",
+    "partyEdition": "",
+    "partyBaseOnly": false,
     "hub": "Minecraft-like worlds",
     "provider": "",
     "kind": "",

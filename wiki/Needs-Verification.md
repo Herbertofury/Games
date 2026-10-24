@@ -1,6 +1,6 @@
 # Discovery reconciliation
 
-Published catalog: 1853 unique records. Unresolved new candidates: 246. Unresolved does not mean nonexistent.
+Published catalog: 1853 unique records. Unresolved new candidates: 245. Unresolved does not mean nonexistent.
 
 - **Alice in Abyss**: Exact identity needs reconciliation
 - **Super Zangyura**: Exact identity needs reconciliation
@@ -32,8 +32,6 @@ Published catalog: 1853 unique records. Unresolved new candidates: 246. Unresolv
 - **Mount Your Friends**: 
 - **Mount Your Friends 3D: A Hard Man is Good to Climb**: 
 - **Nickelodeon Kart Racers 3: Slime Speedway**: 
-- **Samurai GUNN 2**: 
-- **Samurai GUNN 2**: 
 - **Sportsfriends**: 
 - **SUPER BOMBERMAN R 2**: 
 - **Super Mega Baseball™ 4**: 
@@ -47,6 +45,7 @@ Published catalog: 1853 unique records. Unresolved new candidates: 246. Unresolv
 - **Spelunky 2**: 
 - **Spelunky 2**: 
 - **Tesla vs Lovecraft**: 
+- **Samurai GUNN 2**: 
 - **Armor Clash 4**: No exact published identity confirmed. Not silently replaced with another game.
 - **Rise of Legends**: No current official digital edition confirmed. Do not link an unrelated title or unofficial download.
 - **Battle Aces**: Development ended; do not advertise as an available recommendation.

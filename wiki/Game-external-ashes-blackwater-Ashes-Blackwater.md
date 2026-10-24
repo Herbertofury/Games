@@ -45,7 +45,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [ModDB creator release notes](https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater) · checked 2026-10-23
+- [Official media](https://www.moddb.com/mods/ashes-2063/downloads/ashes-blackwater) · checked 2026-10-24T16:39:07.196766+00:00
 - [Ashes project](https://www.moddb.com/mods/ashes-2063) · checked 2026-10-23T06:35:12.994433+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

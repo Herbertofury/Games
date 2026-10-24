@@ -1,6 +1,6 @@
 # Games: Survival and Minecraft-like worlds
 
-This release adds two distinct homes with 381 unique survival-study entries to the shared library of 1567 records. All 1,189 prior identities and all prior genre memberships are preserved.
+This release adds two distinct homes with 381 unique survival-study entries to the shared library of 1853 records. All 1,189 prior identities and all prior genre memberships are preserved.
 
 Survival centers on Conan Exiles, ARK and Windrose: shared-world adventures, wilderness, oceans, zombies, space and engineering. Minecraft-like worlds has separate navigation, collections, filters and a distinct visual theme for Minecraft, Terraria, Hytale, Vintage Story, 2D sandboxes, free voxel games and explicitly labelled automation/colony neighbors.
 
@@ -16,8 +16,8 @@ The publication gate retains every earlier unit and browser suite and adds compl
 
 ```json
 {
-  "checkedAt": "2026-10-24T00:49:52.110498+00:00",
-  "records": 1567,
+  "checkedAt": "2026-10-24T16:39:28.292812+00:00",
+  "records": 1853,
   "studyRecords": 381,
   "hubCounts": {
     "Survival": 299,
@@ -58,7 +58,7 @@ The publication gate retains every earlier unit and browser suite and adds compl
   },
   "artwork": 381,
   "video": 381,
-  "datasetHash": "9f982d40333142f046d756667e24163ee4465556c5bb002813c828398236e033"
+  "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb"
 }
 ```
 

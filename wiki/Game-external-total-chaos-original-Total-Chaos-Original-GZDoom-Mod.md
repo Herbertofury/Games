@@ -50,7 +50,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 ## Sources and evidence
 
 - [ModDB](https://www.moddb.com/mods/total-chaos) · checked 2026-10-23T06:35:12.994433+00:00
-- [ModDB original Director's Cut](https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140) · checked 2026-10-23
+- [Official media](https://www.moddb.com/mods/total-chaos/downloads/total-chaos-directors-cut-140) · checked 2026-10-24T16:39:07.196766+00:00
 - [Video source](https://www.vgcal.com/game/total-chaos) · checked 2026-10-23T07:23:50.572391+00:00
 - [Video provenance](https://www.gog.com/en/game/total_chaos_mod) · checked 2026-10-23T07:29:49.621750+00:00
 - [Developer release announcement](https://wadaholic.wordpress.com/2018/10/30/total-chaos-released/) · checked 2026-10-23T07:29:49.621750+00:00

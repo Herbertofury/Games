@@ -57,7 +57,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Official media](https://www.moddb.com/mods/quake-brutalist-jam-iii) · checked 2026-10-23T07:04:56.149669+00:00
+- [Official media](https://www.moddb.com/mods/quake-brutalist-jam-iii) · checked 2026-10-24T16:39:07.196766+00:00
 - [Standalone release and installation](https://www.moddb.com/mods/quake-brutalist-jam-iii/downloads/qbj3-v13-standalone) · checked 2026-10-23T06:35:12.994433+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

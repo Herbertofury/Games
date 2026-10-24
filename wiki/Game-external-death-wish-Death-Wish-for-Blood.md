@@ -55,7 +55,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Official media](https://www.moddb.com/mods/death-wish-for-blood) · checked 2026-10-23T07:04:56.149669+00:00
+- [Official media](https://www.moddb.com/mods/death-wish-for-blood) · checked 2026-10-24T16:39:07.196766+00:00
 - [Video source](https://www.gematsu.com/2026/03/blood-refreshed-supply-free-expansion-death-wish-announced) · checked 2026-10-23T07:23:50.572391+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.

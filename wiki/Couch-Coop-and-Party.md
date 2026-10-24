@@ -760,7 +760,7 @@ KungFu Kickball is the fighting-sports game where the best ball kicker wins! Pun
 | [Lethal League](Game-261180-Lethal-League) | 2-4 | Versus: 2-4 | simultaneous; PC edition | 10 / 10 |
 | [TowerFall Ascension](Game-251470-TowerFall-Ascension) | 2-4; some capacity requires DLC | Co-op: 2-4; Versus: 2-4 | simultaneous; PC edition | 10 / 10 |
 | [Boomerang Fu](Game-965680-Boomerang-Fu) | 2-6 | Versus: 2-6 | simultaneous; PC edition | 10 / 10 |
-| [Samurai GUNN 2](Game-1397790-Samurai-GUNN-2) | Count needs confirmation | Co-op: Count needs confirmation; Versus: Count needs confirmation | simultaneous; PC edition | 10 / 10 |
+| [Samurai GUNN 2](Game-1397790-Samurai-GUNN-2) | 2 | Versus: 2 | simultaneous; PC edition | 10 / 10 |
 | [Windjammers 2](Game-1114290-Windjammers-2) | 2 | Versus: 2 | simultaneous; PC edition | 10 / 10 |
 | [Hyper Jam](Game-556050-Hyper-Jam) | 2-4 | Versus: 2-4 | simultaneous; PC edition | 10 / 10 |
 | [Wand Wars](Game-422110-Wand-Wars) | 2-4 | Co-op: 2; Versus: 2-4 | simultaneous; PC edition | 10 / 10 |

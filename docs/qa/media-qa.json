@@ -1,5 +1,5 @@
 {
-  "datasetHash": "9f982d40333142f046d756667e24163ee4465556c5bb002813c828398236e033",
+  "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
   "tests": [
     {
       "appid": 2218750,
@@ -7,7 +7,7 @@
       "video": {
         "width": 1280,
         "height": 720,
-        "time": 0.580877,
+        "time": 0.568965,
         "duration": 53
       },
       "screenshotDecoded": {
@@ -22,7 +22,7 @@
       "video": {
         "width": 1280,
         "height": 720,
-        "time": 0.813959,
+        "time": 0.741271,
         "duration": 82.2
       },
       "screenshotDecoded": {
@@ -37,7 +37,7 @@
       "video": {
         "width": 1280,
         "height": 720,
-        "time": 0.78444,
+        "time": 0.727248,
         "duration": 60
       },
       "screenshotDecoded": {
@@ -52,7 +52,7 @@
       "video": {
         "width": 1280,
         "height": 720,
-        "time": 1.222035,
+        "time": 0.938498,
         "duration": 69.4
       },
       "screenshotDecoded": {
@@ -67,7 +67,7 @@
       "video": {
         "width": 1280,
         "height": 720,
-        "time": 0.811948,
+        "time": 0.805767,
         "duration": 154.1
       },
       "screenshotDecoded": {
@@ -93,15 +93,15 @@
       "status": 200
     },
     {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/hls_264_4_audio.m3u8",
+      "status": 200
+    },
+    {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/init-stream1.m4s",
       "status": 200
     },
     {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream1-00001.m4s",
-      "status": 200
-    },
-    {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/hls_264_4_audio.m3u8",
       "status": 200
     },
     {
@@ -113,15 +113,11 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/hls_264_0_video.m3u8",
-      "status": 200
-    },
-    {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream4-00002.m4s",
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/init-stream0.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/hls_264_0_video.m3u8",
       "status": 200
     },
     {
@@ -129,11 +125,15 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream4-00003.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/init-stream0.m4s",
       "status": 200
     },
     {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream0-00003.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream4-00003.m4s",
       "status": 200
     },
     {
@@ -145,15 +145,35 @@
       "status": 200
     },
     {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream0-00005.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream4-00005.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream0-00006.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream0-00007.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream4-00006.m4s",
+      "status": 200
+    },
+    {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/hls_264_master.m3u8?t=1744305567",
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/hls_264_1_video.m3u8",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/hls_264_4_audio.m3u8",
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/hls_264_4_audio.m3u8",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/hls_264_1_video.m3u8",
       "status": 200
     },
     {
@@ -173,15 +193,11 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/dash_h264/chunk-stream4-00002.m4s",
-      "status": 200
-    },
-    {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/dash_h264/chunk-stream1-00002.m4s",
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/hls_264_0_video.m3u8",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/dash_h264/chunk-stream4-00002.m4s",
       "status": 200
     },
     {
@@ -189,7 +205,7 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/dash_h264/chunk-stream0-00003.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/hls_264_0_video.m3u8",
       "status": 200
     },
     {
@@ -197,11 +213,23 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/dash_h264/chunk-stream0-00004.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/dash_h264/chunk-stream0-00003.m4s",
       "status": 200
     },
     {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/dash_h264/chunk-stream4-00004.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/dash_h264/chunk-stream0-00004.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/dash_h264/chunk-stream4-00005.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/dash_h264/chunk-stream0-00005.m4s",
       "status": 200
     },
     {
@@ -217,6 +245,10 @@
       "status": 200
     },
     {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1942280/776977/3c3b725174c83d8d873735bd5e80af3220010ed7/1750742089/dash_h264/chunk-stream4-00001.m4s",
+      "status": 200
+    },
+    {
       "url": "https://video.akamai.steamstatic.com/store_trailers/1942280/776977/3c3b725174c83d8d873735bd5e80af3220010ed7/1750742089/dash_h264/init-stream1.m4s",
       "status": 200
     },
@@ -229,23 +261,23 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/1942280/776977/3c3b725174c83d8d873735bd5e80af3220010ed7/1750742089/dash_h264/chunk-stream4-00001.m4s",
-      "status": 200
-    },
-    {
       "url": "https://video.akamai.steamstatic.com/store_trailers/1942280/776977/3c3b725174c83d8d873735bd5e80af3220010ed7/1750742089/dash_h264/chunk-stream4-00002.m4s",
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/1942280/776977/3c3b725174c83d8d873735bd5e80af3220010ed7/1750742089/dash_h264/chunk-stream1-00002.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1942280/776977/3c3b725174c83d8d873735bd5e80af3220010ed7/1750742089/hls_264_0_video.m3u8",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1942280/776977/3c3b725174c83d8d873735bd5e80af3220010ed7/1750742089/dash_h264/init-stream0.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1942280/776977/3c3b725174c83d8d873735bd5e80af3220010ed7/1750742089/dash_h264/chunk-stream0-00002.m4s",
       "status": 200
     },
     {
       "url": "https://video.akamai.steamstatic.com/store_trailers/1942280/776977/3c3b725174c83d8d873735bd5e80af3220010ed7/1750742089/dash_h264/chunk-stream4-00003.m4s",
-      "status": 200
-    },
-    {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/1942280/776977/3c3b725174c83d8d873735bd5e80af3220010ed7/1750742089/hls_264_0_video.m3u8",
       "status": 200
     },
     {
@@ -257,15 +289,15 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/hls_264_4_audio.m3u8",
-      "status": 200
-    },
-    {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/dash_h264/init-stream1.m4s",
       "status": 200
     },
     {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/dash_h264/chunk-stream1-00001.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/hls_264_4_audio.m3u8",
       "status": 200
     },
     {
@@ -301,19 +333,11 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/dash_h264/chunk-stream0-00004.m4s",
-      "status": 200
-    },
-    {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/dash_h264/chunk-stream4-00004.m4s",
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/dash_h264/chunk-stream4-00005.m4s",
-      "status": 200
-    },
-    {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/dash_h264/chunk-stream0-00005.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/dash_h264/chunk-stream0-00004.m4s",
       "status": 200
     },
     {
@@ -321,11 +345,19 @@
       "status": 200
     },
     {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/hls_264_4_audio.m3u8",
+      "status": 200
+    },
+    {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/hls_264_1_video.m3u8",
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/hls_264_4_audio.m3u8",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/dash_h264/chunk-stream4-00001.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/dash_h264/init-stream4.m4s",
       "status": 200
     },
     {
@@ -337,14 +369,6 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/dash_h264/init-stream4.m4s",
-      "status": 200
-    },
-    {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/dash_h264/chunk-stream4-00001.m4s",
-      "status": 200
-    },
-    {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/dash_h264/chunk-stream4-00002.m4s",
       "status": 200
     },
@@ -353,11 +377,11 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/dash_h264/init-stream0.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/dash_h264/chunk-stream0-00002.m4s",
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/dash_h264/chunk-stream0-00002.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2881610/2103884751/6fed9e844d7a0a6314f3f7f5024b5cd02522f173/1759346853/dash_h264/init-stream0.m4s",
       "status": 200
     },
     {
@@ -393,19 +417,11 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/hls_264_4_audio.m3u8",
-      "status": 200
-    },
-    {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/hls_264_1_video.m3u8",
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/init-stream4.m4s",
-      "status": 200
-    },
-    {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream4-00001.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/hls_264_4_audio.m3u8",
       "status": 200
     },
     {
@@ -417,7 +433,11 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/hls_264_0_video.m3u8",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream4-00001.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/init-stream4.m4s",
       "status": 200
     },
     {
@@ -425,7 +445,7 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream0-00002.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/hls_264_0_video.m3u8",
       "status": 200
     },
     {
@@ -433,11 +453,11 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream0-00003.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream0-00002.m4s",
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream4-00003.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream0-00003.m4s",
       "status": 200
     },
     {
@@ -445,7 +465,15 @@
       "status": 200
     },
     {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream4-00003.m4s",
+      "status": 200
+    },
+    {
       "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream4-00004.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream0-00005.m4s",
       "status": 200
     },
     {
@@ -453,17 +481,25 @@
       "status": 200
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream0-00005.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream0-00006.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream4-00006.m4s",
+      "status": 200
+    },
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264/chunk-stream0-00007.m4s",
       "status": 200
     }
   ],
   "networkFailures": [
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/dash_h264/chunk-stream0-00004.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2334730/545241/d38673966116cba081951e39fa8077119021fd9d/1750812009/dash_h264/chunk-stream0-00005.m4s",
       "error": "net::ERR_ABORTED"
     },
     {
-      "url": "https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/dash_h264/chunk-stream0-00005.m4s",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/dash_h264/chunk-stream0-00004.m4s",
       "error": "net::ERR_ABORTED"
     },
     {
@@ -472,7 +508,7 @@
     }
   ],
   "portableFilePlayback": {
-    "time": 0.570025,
+    "time": 0.525908,
     "width": 1280,
     "height": 720
   },

@@ -58,7 +58,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Official media](https://www.moddb.com/mods/tremor-an-alternate-version-of-quake) · checked 2026-10-23T07:04:56.149669+00:00
+- [Official media](https://www.moddb.com/mods/tremor-an-alternate-version-of-quake) · checked 2026-10-24T16:39:07.196766+00:00
 - [Latest creator file](https://www.moddb.com/mods/tremor-an-alternate-version-of-quake/downloads/tremor1) · checked 2026-10-23T06:35:12.994433+00:00
 - [Video provenance](https://www.slipseer.com/index.php?threads/tremor.992/page-4) · checked 2026-10-23T07:29:49.621750+00:00
 

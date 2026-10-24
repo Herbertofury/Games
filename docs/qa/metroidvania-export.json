@@ -1,7 +1,12 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-24T01:01:50.299Z",
+  "exportedAt": "2026-10-24T16:50:27.649Z",
   "filters": {
+    "partyPlayers": "",
+    "partyMode": "",
+    "partySetup": "",
+    "partyEdition": "",
+    "partyBaseOnly": false,
     "hub": "Metroidvanias",
     "provider": "",
     "kind": "",
@@ -17433,15 +17438,21 @@
         "Indie"
       ],
       "tags": [
+        "2 local players",
+        "3 local players",
+        "4 local players",
         "Action",
         "Adventure",
         "Boss fights",
         "Co-op",
+        "Co-op platforming adventures",
+        "Couch multiplayer",
         "Crafting",
         "Exploration & Metroidvanias",
         "Exploration platformer / adjacent Metroidvania",
         "Hand-drawn, charming & colorful",
         "Indie",
+        "Local co-op",
         "MV core",
         "Metroidvania collection",
         "Metroidvanias",
@@ -17627,32 +17638,35 @@
       "verification": "verified",
       "sources": [
         {
-          "provider": "Steam",
+          "kind": "source",
+          "lastChecked": "2026-10-24T07:09:45.958258+00:00",
+          "provider": "Local-mode evidence",
           "url": "https://store.steampowered.com/app/534550/",
-          "verified": true,
-          "lastChecked": "2026-10-23T16:59:37.367270+00:00"
+          "verified": true
         },
         {
           "provider": "Steam store API",
           "url": "https://store.steampowered.com/api/appdetails?appids=534550&l=english&cc=us",
           "verified": true,
-          "lastChecked": "2026-10-23T16:59:37.367270+00:00"
+          "lastChecked": "2026-10-24T05:54:13.119458+00:00"
         },
         {
           "provider": "Steam reviews API",
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A534550%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
-          "lastChecked": "2026-10-23T16:59:37.367270+00:00"
+          "lastChecked": "2026-10-24T05:54:13.119458+00:00"
         }
       ],
       "warnings": [],
       "hubs": [
         "Platformers",
-        "Metroidvanias"
+        "Metroidvanias",
+        "Couch co-op & party"
       ],
       "collections": [
         "Exploration & Metroidvanias",
-        "Hand-drawn, charming & colorful"
+        "Hand-drawn, charming & colorful",
+        "Co-op platforming adventures"
       ],
       "primaryUrl": "https://store.steampowered.com/app/534550/",
       "provider": "Steam",
@@ -17684,14 +17698,14 @@
           "url": "https://store.steampowered.com/app/534550",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T16:59:37.367270+00:00"
+          "lastChecked": "2026-10-24T05:54:13.123970+00:00"
         },
         {
           "provider": "GOG",
           "url": "https://www.gog.com/en/game/guacamelee_2",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.105464+00:00",
+          "lastChecked": "2026-10-24T05:54:13.123886+00:00",
           "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Guacamelee%21%202",
           "evidence": "Exact title in GOG official catalog: Guacamelee! 2"
         }
@@ -17710,7 +17724,65 @@
       "metroidvaniaFit": 9,
       "metroidvaniaWhy": null,
       "metroidvaniaCollection": "Hand-drawn, charming & colorful",
-      "unavailableVideos": []
+      "unavailableVideos": [],
+      "partyCollection": "Co-op platforming adventures",
+      "partyFit": 9,
+      "partyWhy": "Head back to the Mexiverse in this long-awaited sequel to the smash hit Guacamelee! Uppercut your way to victory across stunning new hand-crafted levels. Featuring a dense and colorful world, new luchador moves, sassy new bosses, twice the enemies, and 300% more chickens!",
+      "partyInfo": {
+        "checkedAt": "2026-10-24T05:54:13.123970+00:00",
+        "controllerSupport": "full",
+        "countVerified": true,
+        "evidence": [
+          {
+            "basis": "Publisher description",
+            "excerpt": "nt System! Drop-in / drop-out 4-player local co-op through the entire story.",
+            "sourceUrl": "https://store.steampowered.com/app/534550/"
+          }
+        ],
+        "inputs": "See controller support and exact mode notes.",
+        "localMax": 4,
+        "localSupport": true,
+        "modes": [
+          "Co-op"
+        ],
+        "modesDetail": [
+          {
+            "counts": [
+              2,
+              3,
+              4
+            ],
+            "evidenceBasis": "Publisher description",
+            "name": "Local cooperative play",
+            "notes": "",
+            "requiresDlc": false,
+            "sourceUrl": "https://store.steampowered.com/app/534550/",
+            "type": "Co-op"
+          }
+        ],
+        "notes": "",
+        "onlineListed": false,
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "playerCounts": [
+          2,
+          3,
+          4
+        ],
+        "remotePlayTogether": true,
+        "requiresInternet": "Not inferred from local support.",
+        "screen": "Shared / split screen; see mode notes",
+        "sourceUrl": "https://store.steampowered.com/app/534550/",
+        "coopCounts": [
+          2,
+          3,
+          4
+        ],
+        "versusCounts": [],
+        "basis": "Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible."
+      },
+      "partyScope": "Local multiplayer / co-op",
+      "knownFavorite": false
     },
     {
       "id": "steam:1747760",
@@ -36166,18 +36238,23 @@
         "Adventure"
       ],
       "tags": [
+        "2 local players",
         "3D & first-person labyrinths",
         "3D exploration / Metroidvania-adjacent",
         "Action",
         "Adventure",
         "Co-op",
+        "Couch multiplayer",
         "Crafting",
         "Demo available",
+        "Local co-op",
         "MV 3D",
         "MV adjacent / hybrid",
         "Metroidvania collection",
         "Metroidvanias",
-        "Recent Metroidvania release"
+        "Recent Metroidvania release",
+        "Recent couch release",
+        "Two-player teamwork adventures"
       ],
       "features": [
         "Single-player",
@@ -36366,30 +36443,33 @@
       "verification": "verified",
       "sources": [
         {
-          "provider": "Steam",
+          "kind": "source",
+          "lastChecked": "2026-10-24T07:09:45.958258+00:00",
+          "provider": "Local-mode evidence",
           "url": "https://store.steampowered.com/app/2787320/",
-          "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.101395+00:00"
+          "verified": true
         },
         {
           "provider": "Steam store API",
           "url": "https://store.steampowered.com/api/appdetails?appids=2787320&l=english&cc=us",
           "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.101395+00:00"
+          "lastChecked": "2026-10-24T06:04:27.005238+00:00"
         },
         {
           "provider": "Steam reviews API",
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2787320%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.101395+00:00"
+          "lastChecked": "2026-10-24T06:04:27.005238+00:00"
         }
       ],
       "warnings": [],
       "hubs": [
-        "Metroidvanias"
+        "Metroidvanias",
+        "Couch co-op & party"
       ],
       "collections": [
-        "3D & first-person labyrinths"
+        "3D & first-person labyrinths",
+        "Two-player teamwork adventures"
       ],
       "primaryUrl": "https://store.steampowered.com/app/2787320/",
       "provider": "Steam",
@@ -36402,14 +36482,14 @@
           "url": "https://store.steampowered.com/app/2787320",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.101395+00:00"
+          "lastChecked": "2026-10-24T06:04:27.009722+00:00"
         },
         {
           "provider": "GOG",
           "url": "https://www.gog.com/en/game/revenge_of_the_savage_planet",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.105464+00:00",
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
           "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Revenge%20of%20the%20Savage%20Planet",
           "evidence": "Exact title in GOG official catalog: Revenge of the Savage Planet"
         },
@@ -36418,9 +36498,9 @@
           "url": "https://store.steampowered.com/app/3874140",
           "kind": "demo",
           "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.101395+00:00",
+          "lastChecked": "2026-10-24T06:04:27.005238+00:00",
           "sourceUrl": "https://store.steampowered.com/app/2787320/",
-          "editionNote": "Demo app explicitly linked by the official Steam metadata."
+          "editionNote": "Separate demo linked by the official Steam metadata. Demo modes may differ from the full game."
         }
       ],
       "demoAppids": [
@@ -36477,7 +36557,61 @@
         "basis": "Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.",
         "sourceUrl": "https://store.steampowered.com/app/2787320/"
       },
-      "unavailableVideos": []
+      "unavailableVideos": [],
+      "partyCollection": "Two-player teamwork adventures",
+      "partyFit": 9,
+      "partyWhy": "Revenge of the Savage Planet is an upbeat, satirical action adventure Sci-Fi. Jump, shoot and collect your way across vibrant alien worlds, uncovering new gear and upgrades, while discovering various hidden secrets.",
+      "partyInfo": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "controllerSupport": "full",
+        "countVerified": true,
+        "evidence": [
+          {
+            "basis": "Reviewed publisher / creator description",
+            "sourceUrl": "https://store.steampowered.com/app/2787320/"
+          }
+        ],
+        "inputs": "See controller support and exact mode notes.",
+        "localMax": 2,
+        "localSupport": true,
+        "modes": [
+          "Co-op"
+        ],
+        "modesDetail": [
+          {
+            "counts": [
+              2
+            ],
+            "evidenceBasis": "Reviewed publisher / creator description",
+            "name": "Local co-op",
+            "notes": "",
+            "requiresDlc": false,
+            "sourceUrl": "https://store.steampowered.com/app/2787320/",
+            "type": "Co-op"
+          }
+        ],
+        "notes": "Two-person local cooperative configuration. See the exact edition and game-specific setup requirements.",
+        "onlineListed": true,
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "playerCounts": [
+          2
+        ],
+        "remotePlayTogether": false,
+        "requiresInternet": "Not inferred from local support.",
+        "screen": "Shared / split screen; see mode notes",
+        "sourceUrl": "https://store.steampowered.com/app/2787320/",
+        "coopCounts": [
+          2
+        ],
+        "versusCounts": [],
+        "basis": "Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible."
+      },
+      "partyScope": "Local multiplayer / co-op",
+      "knownFavorite": false,
+      "metroidvaniaFit": 8,
+      "metroidvaniaWhy": null,
+      "metroidvaniaCollection": "3D & first-person labyrinths"
     },
     {
       "id": "steam:1220150",
@@ -65801,17 +65935,24 @@
         "Casual"
       ],
       "tags": [
+        "2 local players",
+        "3 local players",
+        "4 local players",
         "Adventure",
         "Casual",
         "Co-op",
+        "Co-op platforming adventures",
+        "Couch multiplayer",
         "Exploration & Metroidvanias",
         "Exploration platformer / adjacent Metroidvania",
         "Hand-drawn, charming & colorful",
+        "Local co-op",
         "MV core",
         "Metroidvania collection",
         "Metroidvanias",
         "Platformer",
         "Recent Metroidvania release",
+        "Recent couch release",
         "Recent platformer release or edition",
         "Traditional Metroidvania"
       ],
@@ -65984,22 +66125,23 @@
       "verification": "verified",
       "sources": [
         {
-          "provider": "Steam",
+          "kind": "source",
+          "lastChecked": "2026-10-24T07:09:45.958258+00:00",
+          "provider": "Local-mode evidence",
           "url": "https://store.steampowered.com/app/2054660/",
-          "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.101395+00:00"
+          "verified": true
         },
         {
           "provider": "Steam store API",
           "url": "https://store.steampowered.com/api/appdetails?appids=2054660&l=english&cc=us",
           "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.101395+00:00"
+          "lastChecked": "2026-10-24T05:54:13.119458+00:00"
         },
         {
           "provider": "Steam reviews API",
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2054660%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.101395+00:00"
+          "lastChecked": "2026-10-24T05:54:13.119458+00:00"
         }
       ],
       "warnings": [
@@ -66007,11 +66149,13 @@
       ],
       "hubs": [
         "Platformers",
-        "Metroidvanias"
+        "Metroidvanias",
+        "Couch co-op & party"
       ],
       "collections": [
         "Exploration & Metroidvanias",
-        "Hand-drawn, charming & colorful"
+        "Hand-drawn, charming & colorful",
+        "Co-op platforming adventures"
       ],
       "primaryUrl": "https://store.steampowered.com/app/2054660/",
       "provider": "Steam",
@@ -66051,14 +66195,14 @@
           "url": "https://store.steampowered.com/app/2054660",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.101395+00:00"
+          "lastChecked": "2026-10-24T05:54:13.123970+00:00"
         },
         {
           "provider": "GOG",
           "url": "https://www.gog.com/en/game/disney_illusion_island_starring_mickey_and_friends",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T17:11:08.105464+00:00",
+          "lastChecked": "2026-10-24T05:54:13.123886+00:00",
           "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Disney%20Illusion%20Island%20Starring%20Mickey%20and%20Friends",
           "evidence": "Exact title in GOG official catalog: Disney Illusion Island Starring Mickey and Friends"
         }
@@ -66079,7 +66223,64 @@
       "metroidvaniaFit": 8,
       "metroidvaniaWhy": null,
       "metroidvaniaCollection": "Hand-drawn, charming & colorful",
-      "unavailableVideos": []
+      "unavailableVideos": [],
+      "partyCollection": "Co-op platforming adventures",
+      "partyFit": 8,
+      "partyWhy": "Mickey and Friends embark on an adventure to find three magical books and save the mysterious island of Monoth. Explore weird and wonderful biomes, meet unusual allies and face peculiar foes all in this hand-drawn 2D adventure.",
+      "partyInfo": {
+        "checkedAt": "2026-10-24T05:54:13.123970+00:00",
+        "controllerSupport": "full",
+        "countVerified": true,
+        "evidence": [
+          {
+            "basis": "Reviewed publisher / creator description",
+            "sourceUrl": "https://store.steampowered.com/app/2054660/"
+          }
+        ],
+        "inputs": "See controller support and exact mode notes.",
+        "localMax": 4,
+        "localSupport": true,
+        "modes": [
+          "Co-op"
+        ],
+        "modesDetail": [
+          {
+            "counts": [
+              2,
+              3,
+              4
+            ],
+            "evidenceBasis": "Reviewed publisher / creator description",
+            "name": "Local co-op",
+            "notes": "",
+            "requiresDlc": false,
+            "sourceUrl": "https://store.steampowered.com/app/2054660/",
+            "type": "Co-op"
+          }
+        ],
+        "notes": "The publisher describes you plus up to three friends in local co-op.",
+        "onlineListed": false,
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "playerCounts": [
+          2,
+          3,
+          4
+        ],
+        "remotePlayTogether": true,
+        "requiresInternet": "Not inferred from local support.",
+        "screen": "Shared / split screen; see mode notes",
+        "sourceUrl": "https://store.steampowered.com/app/2054660/",
+        "coopCounts": [
+          2,
+          3,
+          4
+        ],
+        "versusCounts": [],
+        "basis": "Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible."
+      },
+      "partyScope": "Local multiplayer / co-op",
+      "knownFavorite": false
     },
     {
       "id": "steam:2849650",

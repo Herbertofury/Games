@@ -8,7 +8,7 @@ The party lobby combines exact headcount, cooperative or competitive mode, simul
 
 Every published entry has source-grounded artwork, supported embedded-video metadata and confirmed distribution links. Creator animation conversions and community footage retain their provenance. The native wiki renders artwork and links exact videos; the portable HTML provides in-page players.
 
-323 entries have source-confirmed numerical local capacities. The 16 remaining entries have confirmed local support but visibly unconfirmed numerical limits, and are excluded from exact-number filters. Some games have one known mode and a separately unconfirmed secondary mode; their details retain that distinction. Unknown does not mean zero, or an invented four-player limit.
+324 entries have source-confirmed numerical local capacities. The 15 remaining entries have confirmed local support but visibly unconfirmed numerical limits, and are excluded from exact-number filters. Some games have one known mode and a separately unconfirmed secondary mode; their details retain that distinction. Unknown does not mean zero, or an invented four-player limit.
 
 Mode-specific capacity is visible on cards, in tables, comparisons and full dossiers, and in CSV/JSON exports. Saved filters, personal ratings, notes, backlog and favorites retain games.library.v1. No scheduled crawler, synthesized artwork or viewport culling was introduced.
 
@@ -20,7 +20,7 @@ Wiki pages: Couch-Coop-and-Party, Party-Media, Party-Player-Guide, Party-Two-Pla
 
 ```json
 {
-  "checkedAt": "2026-10-24T07:44:21.290806+00:00",
+  "checkedAt": "2026-10-24T16:39:28.467575+00:00",
   "records": 1853,
   "partyRecords": 339,
   "collections": 23,
@@ -38,7 +38,7 @@ Wiki pages: Couch-Coop-and-Party, Party-Media, Party-Player-Guide, Party-Two-Pla
     "Nintendo": 13,
     "Official site": 1
   },
-  "knownCountRecords": 323,
+  "knownCountRecords": 324,
   "unconfirmedCountRecords": [
     {
       "id": "steam:1499700",
@@ -63,10 +63,6 @@ Wiki pages: Couch-Coop-and-Party, Party-Media, Party-Player-Guide, Party-Two-Pla
     {
       "id": "steam:1620040",
       "name": "Nickelodeon Kart Racers 3: Slime Speedway"
-    },
-    {
-      "id": "steam:1397790",
-      "name": "Samurai GUNN 2"
     },
     {
       "id": "steam:418530",
@@ -105,7 +101,7 @@ Wiki pages: Couch-Coop-and-Party, Party-Media, Party-Player-Guide, Party-Two-Pla
       "name": "Worms Armageddon"
     }
   ],
-  "unconfirmedModeCount": 21,
+  "unconfirmedModeCount": 20,
   "participation": {
     "simultaneous": 303,
     "asymmetric": 2,
@@ -113,7 +109,7 @@ Wiki pages: Couch-Coop-and-Party, Party-Media, Party-Player-Guide, Party-Two-Pla
     "hotseat": 10
   },
   "byExactCount": {
-    "2": 315,
+    "2": 316,
     "3": 240,
     "4": 240,
     "5": 66,
@@ -173,7 +169,7 @@ Wiki pages: Couch-Coop-and-Party, Party-Media, Party-Player-Guide, Party-Two-Pla
       "state": "not-promoted"
     }
   ],
-  "datasetHash": "bbe336ff66d0fae7eef04c53d8fc48e17a01a85a8068e79ce0dfef89267a7f01"
+  "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb"
 }
 ```
 
