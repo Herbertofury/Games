@@ -189,3 +189,7 @@ Implemented 339 published party identities in 23 primary collections; eight disc
 Targeted 14 party unit tests pass. Inline Chromium smoke verifies all 339 cards, 23 collections, mode filtering, complete table and narrow layout with no script errors; inline mode is not proof of network media or storage persistence. The earlier full run identified and fixed exact-union ledger normalization, missing explicit local-support flags and an unsupported Steam movie poster in Blanc. The unsupported poster is retained as unavailableVideoMetadata, while both real streams remain.
 
 Next required gate: hash-guarded source installation and checkpoint, every unit test, the exhaustive scripts/party_qa.py production Chrome gate and every previous browser suite, actual native wiki publication, release assets and Drive backup readback/hash verification. Do not restart broad party discovery or the completed media pipeline. GitHub Pages enablement remains a separate user-controlled prerequisite.
+
+## Party comparison continuation
+
+The 339-entry party catalog and all previous records remain intact. The comparison button captured the original renderer before the party overlay installed. Its action now resolves the current renderer at click time. A Node runtime regression protects the callback; the complete production-browser acceptance remains required before release. Previous failed gate: run 40075657269, comparison mode/edition fields.
