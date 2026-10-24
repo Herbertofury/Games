@@ -1,0 +1,2667 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-24T06:00:17.866802+00:00",
+  "items": [
+    {
+      "id": "external:puff-puff-push",
+      "name": "Puff Puff Push",
+      "seedName": "Puff Puff Push",
+      "primaryUrl": "https://typimals.itch.io/puff-puff-push",
+      "provider": "itch.io",
+      "collection": "Free & creator-hosted party gems",
+      "partyFit": 9,
+      "fit": 9,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Free & creator-hosted party gems",
+      "collections": [
+        "Free & creator-hosted party gems"
+      ],
+      "appid": null,
+      "kind": "Standalone game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "PC edition"
+      ],
+      "summary": "Puff Puff Push! Welcome to Puff Puff Push Arena! Where 2 to 8 pufferfishes fight each other in king of the hill lightning quick matches ! Puff & Push your way to victory Your goal is to push your contestants off the arena. The last player standing wins! Instructions Before the match starts, each player will join by pressing any input on their controller, or a key on the keyboard. Then, they can select their class, as well as their cosmetic. Once everyone is ready, the match will start! Puffer ty",
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1nLzE5NzUxNTk0LmdpZg==/original/h0kLyk.gif",
+          "thumbnail": "https://img.itch.zone/aW1nLzE5NzUxNTk0LmdpZg==/original/h0kLyk.gif",
+          "alt": "Puff Puff Push creator screenshot",
+          "sourceUrl": "https://typimals.itch.io/puff-puff-push",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1nLzE5NzUxNDc1LmdpZg==/original/gxob2r.gif",
+          "thumbnail": "https://img.itch.zone/aW1nLzE5NzUxNDc1LmdpZg==/original/gxob2r.gif",
+          "alt": "Puff Puff Push creator screenshot",
+          "sourceUrl": "https://typimals.itch.io/puff-puff-push",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1nLzE5NzUxNjQxLmdpZg==/original/uOm4MP.gif",
+          "thumbnail": "https://img.itch.zone/aW1nLzE5NzUxNjQxLmdpZg==/original/uOm4MP.gif",
+          "alt": "Puff Puff Push creator screenshot",
+          "sourceUrl": "https://typimals.itch.io/puff-puff-push",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1nLzE5NzUxOTk3LmdpZg==/original/v0nx%2BU.gif",
+          "thumbnail": "https://img.itch.zone/aW1nLzE5NzUxOTk3LmdpZg==/original/v0nx%2BU.gif",
+          "alt": "Puff Puff Push creator screenshot",
+          "sourceUrl": "https://typimals.itch.io/puff-puff-push",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzI1NTk2Mi8xOTc1MTY0Mi5naWY=/original/z%2BF0ft.gif",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzI1NTk2Mi8xOTc1MTY0Mi5naWY=/original/z%2BF0ft.gif",
+          "alt": "Puff Puff Push creator screenshot",
+          "sourceUrl": "https://typimals.itch.io/puff-puff-push",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzI1NTk2Mi8xOTc1MjEyNy5naWY=/original/F%2Bwn5y.gif",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzI1NTk2Mi8xOTc1MjEyNy5naWY=/original/F%2Bwn5y.gif",
+          "alt": "Puff Puff Push creator screenshot",
+          "sourceUrl": "https://typimals.itch.io/puff-puff-push",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzI1NTk2Mi8xOTc1MTY0My5naWY=/original/DqHP4z.gif",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzI1NTk2Mi8xOTc1MTY0My5naWY=/original/DqHP4z.gif",
+          "alt": "Puff Puff Push creator screenshot",
+          "sourceUrl": "https://typimals.itch.io/puff-puff-push",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzI1NTk2Mi8xOTc1MTY5Ni5naWY=/original/LfQp9d.gif",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzI1NTk2Mi8xOTc1MTY5Ni5naWY=/original/LfQp9d.gif",
+          "alt": "Puff Puff Push creator screenshot",
+          "sourceUrl": "https://typimals.itch.io/puff-puff-push",
+          "credit": "Creator / itch.io",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "image": "https://img.itch.zone/aW1nLzE5NDQyNjYyLnBuZw==/original/wApvRh.png",
+      "storefronts": [
+        {
+          "url": "https://typimals.itch.io/puff-puff-push",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://typimals.itch.io/puff-puff-push",
+          "provider": "itch.io",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 8,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "sourceUrl": "https://typimals.itch.io/puff-puff-push",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:mutiny-bomb",
+      "name": "MUTINY! Local Multiplayer Bomb Game",
+      "seedName": "MUTINY! Local Multiplayer Bomb Game",
+      "primaryUrl": "https://zsfer.itch.io/mutiny",
+      "provider": "itch.io",
+      "collection": "Free & creator-hosted party gems",
+      "partyFit": 8,
+      "fit": 8,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Free & creator-hosted party gems",
+      "collections": [
+        "Free & creator-hosted party gems"
+      ],
+      "appid": null,
+      "kind": "Standalone game",
+      "status": "Prototype",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "PC edition"
+      ],
+      "summary": "Pirate ships and bombs! Take your anger out on your friends by — that's right — BOMBING THEM! MUTINY! is a local multiplayer game that can support up to TEN players! You can play with your weapon of choice (keyboard & mouse or controller). CONTROLS Input Keyboard + Mouse Controller Join Game Enter Start Movement WASD Left Joystick Jump Spacebar 'X' or 'A' Aim / Shoot Right Click Left Trigger (L2 WHATS NEW? (JAN 2025) Powerups! Chests that drop down from the sky, and inside are new and wacky bomb",
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzAzNzU4My8yMTA3OTAzNy5wbmc=/347x500/7yBLLR.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzAzNzU4My8yMTA3OTAzNy5wbmc=/347x500/7yBLLR.png",
+          "alt": "MUTINY! Local Multiplayer Bomb Game creator screenshot",
+          "sourceUrl": "https://zsfer.itch.io/mutiny",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzAzNzU4My8yMTA3OTAzNi5wbmc=/347x500/jWxHWG.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzAzNzU4My8yMTA3OTAzNi5wbmc=/347x500/jWxHWG.png",
+          "alt": "MUTINY! Local Multiplayer Bomb Game creator screenshot",
+          "sourceUrl": "https://zsfer.itch.io/mutiny",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzAzNzU4My8yMTA3OTAzOC5wbmc=/347x500/PFUqPb.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzAzNzU4My8yMTA3OTAzOC5wbmc=/347x500/PFUqPb.png",
+          "alt": "MUTINY! Local Multiplayer Bomb Game creator screenshot",
+          "sourceUrl": "https://zsfer.itch.io/mutiny",
+          "credit": "Creator / itch.io",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "image": "https://img.itch.zone/aW1nLzIxMDc5NDYwLnBuZw==/original/Jk9mZJ.png",
+      "storefronts": [
+        {
+          "url": "https://zsfer.itch.io/mutiny",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://zsfer.itch.io/mutiny",
+          "provider": "itch.io",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 10,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "sourceUrl": "https://zsfer.itch.io/mutiny",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:duck-cover-2",
+      "name": "Duck and Cover 2",
+      "seedName": "Duck and Cover 2",
+      "primaryUrl": "https://siddikinz.itch.io/duck-and-cover-2",
+      "provider": "itch.io",
+      "collection": "Free & creator-hosted party gems",
+      "partyFit": 9,
+      "fit": 9,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Free & creator-hosted party gems",
+      "collections": [
+        "Free & creator-hosted party gems"
+      ],
+      "appid": null,
+      "kind": "Standalone game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "PC edition"
+      ],
+      "summary": "Duck and Cover 2 is a frantic platforming game for 1-4 players! Take cover under the terrain to hide from the incoming onslaught of rockets! The base game features: Single player and local co-op arcade modes 2-4 player local versus mode Custom game mode with over 20 unique modifiers to alter the game 3 unique types of terrain to traverse: Dirt, Lava, and Stone Randomly generated levels made from 20 hand-made islands put together at random Gauntlet mode that drastically alters the game with each ",
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMjI4NDY0My8xMzU0NDI5MS5wbmc=/347x500/EmynsF.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMjI4NDY0My8xMzU0NDI5MS5wbmc=/347x500/EmynsF.png",
+          "alt": "Duck and Cover 2 creator screenshot",
+          "sourceUrl": "https://siddikinz.itch.io/duck-and-cover-2",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMjI4NDY0My8xMzU0NDMwNi5wbmc=/347x500/dmn1iP.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMjI4NDY0My8xMzU0NDMwNi5wbmc=/347x500/dmn1iP.png",
+          "alt": "Duck and Cover 2 creator screenshot",
+          "sourceUrl": "https://siddikinz.itch.io/duck-and-cover-2",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMjI4NDY0My8xMzU0NDMwNC5wbmc=/347x500/OzxfTq.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMjI4NDY0My8xMzU0NDMwNC5wbmc=/347x500/OzxfTq.png",
+          "alt": "Duck and Cover 2 creator screenshot",
+          "sourceUrl": "https://siddikinz.itch.io/duck-and-cover-2",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMjI4NDY0My8xMzYyOTM3MC5wbmc=/347x500/7KSnk6.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMjI4NDY0My8xMzYyOTM3MC5wbmc=/347x500/7KSnk6.png",
+          "alt": "Duck and Cover 2 creator screenshot",
+          "sourceUrl": "https://siddikinz.itch.io/duck-and-cover-2",
+          "credit": "Creator / itch.io",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "image": "https://img.itch.zone/aW1nLzEzNTQwMjE4LnBuZw==/original/f9x6bm.png",
+      "storefronts": [
+        {
+          "url": "https://siddikinz.itch.io/duck-and-cover-2",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://siddikinz.itch.io/duck-and-cover-2",
+          "provider": "itch.io",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Co-op",
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "sourceUrl": "https://siddikinz.itch.io/duck-and-cover-2",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:pshnggg",
+      "name": "PSHNGGG!",
+      "seedName": "PSHNGGG!",
+      "primaryUrl": "https://mint.itch.io/pshnggg",
+      "provider": "itch.io",
+      "collection": "Free & creator-hosted party gems",
+      "partyFit": 8,
+      "fit": 8,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Free & creator-hosted party gems",
+      "collections": [
+        "Free & creator-hosted party gems"
+      ],
+      "appid": null,
+      "kind": "Standalone game",
+      "status": "Prototype",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "PC edition"
+      ],
+      "summary": "By Zephyrware PSHNGGG is a local two player swordfighting game with teeth-rattling clashes of steel. You and your opponent use both of your sticks to control dots (that somehow figured out how to hold a weapon) as they're tethered to a line . With more speed comes a longer sword and a more fatal strike. Flail yourself around like a tetherball wielding a greatsword or keep your blade dagger-sized by playing careful and precise. Don't get pushed too far back or it's the end of the line! This versi",
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMjA5ODAvODI4NTYucG5n/347x500/1Lhj95.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMjA5ODAvODI4NTYucG5n/347x500/1Lhj95.png",
+          "alt": "PSHNGGG! creator screenshot",
+          "sourceUrl": "https://mint.itch.io/pshnggg",
+          "credit": "Creator / itch.io",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "image": "https://img.itch.zone/aW1hZ2UvMjA5ODAvODI4NTYucG5n/original/3zyybo.png",
+      "storefronts": [
+        {
+          "url": "https://mint.itch.io/pshnggg",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://mint.itch.io/pshnggg",
+          "provider": "itch.io",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 2,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "sourceUrl": "https://mint.itch.io/pshnggg",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:square-off-shiba",
+      "name": "Square Off",
+      "seedName": "Square Off",
+      "primaryUrl": "https://shibadogstudios.itch.io/square-off",
+      "provider": "itch.io",
+      "collection": "Free & creator-hosted party gems",
+      "partyFit": 8,
+      "fit": 8,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Free & creator-hosted party gems",
+      "collections": [
+        "Free & creator-hosted party gems"
+      ],
+      "appid": null,
+      "kind": "Standalone game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "PC edition"
+      ],
+      "summary": "Square Off is a fast-paced, platforming shooter arena. Control physics-based battle squares in a series of speedy combat challenges while you shoot your friends into oblivion. Play with 2-4 players on local multiplayer ( Further updates due for online support) Controls: Controller Supported Only Move - Left Stick Jump / Start - X / A Shoot - ( While in air) aim with Left Stick and fire with Right Trigger Gameplay: The last player standing wins the round, first player to win 5 rounds wins the gam",
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMTA2NzA3MC82MTQwNjI2LnBuZw==/347x500/cw9Ygw.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMTA2NzA3MC82MTQwNjI2LnBuZw==/347x500/cw9Ygw.png",
+          "alt": "Square Off creator screenshot",
+          "sourceUrl": "https://shibadogstudios.itch.io/square-off",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMTA2NzA3MC82MTQwNjI4LnBuZw==/347x500/JQIYD9.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMTA2NzA3MC82MTQwNjI4LnBuZw==/347x500/JQIYD9.png",
+          "alt": "Square Off creator screenshot",
+          "sourceUrl": "https://shibadogstudios.itch.io/square-off",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMTA2NzA3MC82MTQwNjMwLnBuZw==/347x500/Ch%2FVFt.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMTA2NzA3MC82MTQwNjMwLnBuZw==/347x500/Ch%2FVFt.png",
+          "alt": "Square Off creator screenshot",
+          "sourceUrl": "https://shibadogstudios.itch.io/square-off",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMTA2NzA3MC82MTQwNjMxLnBuZw==/347x500/1Ay9BS.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMTA2NzA3MC82MTQwNjMxLnBuZw==/347x500/1Ay9BS.png",
+          "alt": "Square Off creator screenshot",
+          "sourceUrl": "https://shibadogstudios.itch.io/square-off",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMTA2NzA3MC82MTQwNjMzLnBuZw==/347x500/0gwbLz.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMTA2NzA3MC82MTQwNjMzLnBuZw==/347x500/0gwbLz.png",
+          "alt": "Square Off creator screenshot",
+          "sourceUrl": "https://shibadogstudios.itch.io/square-off",
+          "credit": "Creator / itch.io",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "image": "https://img.itch.zone/aW1nLzYxNDA1NTAucG5n/original/hEAWTY.png",
+      "storefronts": [
+        {
+          "url": "https://shibadogstudios.itch.io/square-off",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shibadogstudios.itch.io/square-off",
+          "provider": "itch.io",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "sourceUrl": "https://shibadogstudios.itch.io/square-off",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:duck-and-gun",
+      "name": "Duck and Gun",
+      "seedName": "Duck and Gun",
+      "primaryUrl": "https://chelbling.itch.io/duck-and-gun",
+      "provider": "itch.io",
+      "collection": "Free & creator-hosted party gems",
+      "partyFit": 8,
+      "fit": 8,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Free & creator-hosted party gems",
+      "collections": [
+        "Free & creator-hosted party gems"
+      ],
+      "appid": null,
+      "kind": "Standalone game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "PC edition"
+      ],
+      "summary": "Duck and Gun is an action packed local multiplayer game. Connect up to four players with gamepads, choose you favorite duck, and enter the sudsy battle arena! Be careful, other ducks can shoot bubbles at you which will temporarily lift you up the in the air. Created for the Global Game Jam 2025 Caleb Helbling: programming Vadim Mayorskiy: art Chel Wong: music, sfx, design",
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzI4MDQyMS8xOTU3NzI5NC5wbmc=/347x500/G4n16K.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzI4MDQyMS8xOTU3NzI5NC5wbmc=/347x500/G4n16K.png",
+          "alt": "Duck and Gun creator screenshot",
+          "sourceUrl": "https://chelbling.itch.io/duck-and-gun",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzI4MDQyMS8xOTU3NzI5Mi5qcGc=/347x500/uUbIIo.jpg",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzI4MDQyMS8xOTU3NzI5Mi5qcGc=/347x500/uUbIIo.jpg",
+          "alt": "Duck and Gun creator screenshot",
+          "sourceUrl": "https://chelbling.itch.io/duck-and-gun",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzI4MDQyMS8xOTU3NzI5My5qcGc=/347x500/W%2BCzPe.jpg",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzI4MDQyMS8xOTU3NzI5My5qcGc=/347x500/W%2BCzPe.jpg",
+          "alt": "Duck and Gun creator screenshot",
+          "sourceUrl": "https://chelbling.itch.io/duck-and-gun",
+          "credit": "Creator / itch.io",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "image": "https://img.itch.zone/aW1nLzE5NTc3MjI0LmpwZw==/original/TD1INv.jpg",
+      "storefronts": [
+        {
+          "url": "https://chelbling.itch.io/duck-and-gun",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://chelbling.itch.io/duck-and-gun",
+          "provider": "itch.io",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "sourceUrl": "https://chelbling.itch.io/duck-and-gun",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:underhanded-combat",
+      "name": "Underhanded Combat",
+      "seedName": "Underhanded Combat",
+      "primaryUrl": "https://nathanjoy.itch.io/underhanded-combat",
+      "provider": "itch.io",
+      "collection": "Free & creator-hosted party gems",
+      "partyFit": 8,
+      "fit": 8,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Free & creator-hosted party gems",
+      "collections": [
+        "Free & creator-hosted party gems"
+      ],
+      "appid": null,
+      "kind": "Standalone game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "PC edition"
+      ],
+      "summary": "THE GAME Underhanded combat is a local 2 player platform shooter with samurai gunn inspired movement where you battle within an japanese inspired dojo to ultimatly take out the other ninja. LORE 2 ninja's find themselves in a war between 2 different ninja factions. to determine which comes out on top they fight eachother through dirty means. you sneak into the enemy's dojo and must defeat the other ninja before backup arives on sundown. CREDITS this project was made by 5 students Lucas (artist):",
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY4OTg1MS8yMTk5NDgyOC5wbmc=/347x500/4DRY3F.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY4OTg1MS8yMTk5NDgyOC5wbmc=/347x500/4DRY3F.png",
+          "alt": "Underhanded Combat creator screenshot",
+          "sourceUrl": "https://nathanjoy.itch.io/underhanded-combat",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY4OTg1MS8yMTk5NDUyMS5wbmc=/347x500/GcKkkf.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY4OTg1MS8yMTk5NDUyMS5wbmc=/347x500/GcKkkf.png",
+          "alt": "Underhanded Combat creator screenshot",
+          "sourceUrl": "https://nathanjoy.itch.io/underhanded-combat",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY4OTg1MS8yMTk5NDY2OC5wbmc=/347x500/p0g2xV.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY4OTg1MS8yMTk5NDY2OC5wbmc=/347x500/p0g2xV.png",
+          "alt": "Underhanded Combat creator screenshot",
+          "sourceUrl": "https://nathanjoy.itch.io/underhanded-combat",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY4OTg1MS8yMjA2MDk2Ny5wbmc=/347x500/vQFm6z.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY4OTg1MS8yMjA2MDk2Ny5wbmc=/347x500/vQFm6z.png",
+          "alt": "Underhanded Combat creator screenshot",
+          "sourceUrl": "https://nathanjoy.itch.io/underhanded-combat",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY4OTg1MS8yMjA2MTk4MC5wbmc=/347x500/qRAdom.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY4OTg1MS8yMjA2MTk4MC5wbmc=/347x500/qRAdom.png",
+          "alt": "Underhanded Combat creator screenshot",
+          "sourceUrl": "https://nathanjoy.itch.io/underhanded-combat",
+          "credit": "Creator / itch.io",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "youtube": "-Pnl_EEaX-M",
+          "name": "Creator / publisher video",
+          "sourceUrl": "https://nathanjoy.itch.io/underhanded-combat",
+          "watchUrl": "https://www.youtube.com/watch?v=-Pnl_EEaX-M",
+          "poster": "https://img.itch.zone/aW1nLzIxOTk1NDExLmpwZw==/original/Pk10Zb.jpg"
+        }
+      ],
+      "image": "https://img.itch.zone/aW1nLzIxOTk1NDExLmpwZw==/original/Pk10Zb.jpg",
+      "storefronts": [
+        {
+          "url": "https://nathanjoy.itch.io/underhanded-combat",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://nathanjoy.itch.io/underhanded-combat",
+          "provider": "itch.io",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 2,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "sourceUrl": "https://nathanjoy.itch.io/underhanded-combat",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:sumaburu",
+      "name": "Sumaburu",
+      "seedName": "Sumaburu",
+      "primaryUrl": "https://jakey-mg.itch.io/sumaburu",
+      "provider": "itch.io",
+      "collection": "Free & creator-hosted party gems",
+      "partyFit": 8,
+      "fit": 8,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Free & creator-hosted party gems",
+      "collections": [
+        "Free & creator-hosted party gems"
+      ],
+      "appid": null,
+      "kind": "Standalone game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "PC edition"
+      ],
+      "summary": "Sumaburu is an arcade style retro fighting game with a unique control scheme. Two sumo fighters duke it out in the ring! Punch left, punch right, push each other out of the ring to emerge victorious. Play against a computer or a friend with local multiplayer on the same keyboard and multi-controller support. I recommend Switch Joycons using BetterJoy .",
+      "screenshots": [
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY1NjE5Ni8yMTc3MTMyMi5wbmc=/347x500/xPuGp7.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY1NjE5Ni8yMTc3MTMyMi5wbmc=/347x500/xPuGp7.png",
+          "alt": "Sumaburu creator screenshot",
+          "sourceUrl": "https://jakey-mg.itch.io/sumaburu",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY1NjE5Ni8yMTc3MTMyMS5wbmc=/347x500/VvAndQ.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY1NjE5Ni8yMTc3MTMyMS5wbmc=/347x500/VvAndQ.png",
+          "alt": "Sumaburu creator screenshot",
+          "sourceUrl": "https://jakey-mg.itch.io/sumaburu",
+          "credit": "Creator / itch.io",
+          "verified": true
+        },
+        {
+          "src": "https://img.itch.zone/aW1hZ2UvMzY1NjE5Ni8yMTc3MTMyMC5wbmc=/347x500/RNVuHq.png",
+          "thumbnail": "https://img.itch.zone/aW1hZ2UvMzY1NjE5Ni8yMTc3MTMyMC5wbmc=/347x500/RNVuHq.png",
+          "alt": "Sumaburu creator screenshot",
+          "sourceUrl": "https://jakey-mg.itch.io/sumaburu",
+          "credit": "Creator / itch.io",
+          "verified": true
+        }
+      ],
+      "trailers": [],
+      "image": "https://img.itch.zone/aW1nLzIxNzcxMjgzLnBuZw==/original/cTReuZ.png",
+      "storefronts": [
+        {
+          "url": "https://jakey-mg.itch.io/sumaburu",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://jakey-mg.itch.io/sumaburu",
+          "provider": "itch.io",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 2,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "sourceUrl": "https://jakey-mg.itch.io/sumaburu",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:sumo-dumo",
+      "name": "Sumo Dumo",
+      "seedName": "Sumo Dumo",
+      "primaryUrl": "https://sparacios.itch.io/sumo-dumo",
+      "provider": "itch.io",
+      "collection": "Free & creator-hosted party gems",
+      "partyFit": 8,
+      "fit": 8,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Free & creator-hosted party gems",
+      "collections": [
+        "Free & creator-hosted party gems"
+      ],
+      "appid": null,
+      "kind": "Standalone game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "PC edition"
+      ],
+      "summary": "2 Player local multiplayer Sumo style game, where the goal is to push the apposing player off stage with just your body. You gain meter which determines knock back and if your able to throw or not by getting attack or attacking the other player. When meter turns green you can throw the player but be careful if you miss grab or throws you lose your entire meter bar. Controls Controller Type Slap Grab/Throw Move Restart Playstation 4 cross or square circle or triangle Analog Stick Left or D-pad cr",
+      "screenshots": [],
+      "trailers": [],
+      "image": "https://img.itch.zone/aW1nLzEwOTYwOTcwLmdpZg==/original/lontIS.gif",
+      "storefronts": [
+        {
+          "url": "https://sparacios.itch.io/sumo-dumo",
+          "provider": "itch.io",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://sparacios.itch.io/sumo-dumo",
+          "provider": "itch.io",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 2,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "sourceUrl": "https://sparacios.itch.io/sumo-dumo",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:supertuxkart",
+      "name": "SuperTuxKart",
+      "seedName": "SuperTuxKart",
+      "primaryUrl": "https://supertuxkart.net/Main_Page",
+      "provider": "Official site",
+      "collection": "Free & creator-hosted party gems",
+      "partyFit": 9,
+      "fit": 9,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Free & creator-hosted party gems",
+      "collections": [
+        "Free & creator-hosted party gems"
+      ],
+      "appid": null,
+      "kind": "Standalone game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "PC edition"
+      ],
+      "summary": "SuperTuxKart Evolution The next major release of SuperTuxKart, named SuperTuxKart Evolution is currently under development. Building upon the foundation laid by all those who made STK what it is today, SuperTuxKart Evolution will be the biggest release in STK’s history in terms of new content : new tracks, new features, improved gameplay, enhanced graphics, and much more. An overview of our roadmap is available here . As part of our efforts towards SuperTuxKart Evolution, the SuperTuxKart team w",
+      "screenshots": [
+        {
+          "src": "https://supertuxkart.net/generated/assets/blog/Blog_electro-shield_thumb-800-eb57b4dee.jpg",
+          "thumbnail": "https://supertuxkart.net/generated/assets/blog/Blog_electro-shield_thumb-800-eb57b4dee.jpg",
+          "alt": "SuperTuxKart creator screenshot",
+          "sourceUrl": "https://supertuxkart.net/Main_Page",
+          "credit": "Creator / Official site",
+          "verified": true
+        },
+        {
+          "src": "https://supertuxkart.net/generated/assets/wiki/STK-Evolution-logo-preview-800-599b16731.jpg",
+          "thumbnail": "https://supertuxkart.net/generated/assets/wiki/STK-Evolution-logo-preview-800-599b16731.jpg",
+          "alt": "SuperTuxKart creator screenshot",
+          "sourceUrl": "https://supertuxkart.net/Main_Page",
+          "credit": "Creator / Official site",
+          "verified": true
+        },
+        {
+          "src": "https://supertuxkart.net/generated/assets/wiki/SuperTuxKart_History_Title-800-f90087f68.jpg",
+          "thumbnail": "https://supertuxkart.net/generated/assets/wiki/SuperTuxKart_History_Title-800-f90087f68.jpg",
+          "alt": "SuperTuxKart creator screenshot",
+          "sourceUrl": "https://supertuxkart.net/Main_Page",
+          "credit": "Creator / Official site",
+          "verified": true
+        },
+        {
+          "src": "https://supertuxkart.net/generated/assets/blog/freytra_peaks_making_of-800-b0d7cf092.jpg",
+          "thumbnail": "https://supertuxkart.net/generated/assets/blog/freytra_peaks_making_of-800-b0d7cf092.jpg",
+          "alt": "SuperTuxKart creator screenshot",
+          "sourceUrl": "https://supertuxkart.net/Main_Page",
+          "credit": "Creator / Official site",
+          "verified": true
+        },
+        {
+          "src": "https://supertuxkart.net/generated/assets/blog/karting_without_a_hitch-800-c5b3f09a5.jpg",
+          "thumbnail": "https://supertuxkart.net/generated/assets/blog/karting_without_a_hitch-800-c5b3f09a5.jpg",
+          "alt": "SuperTuxKart creator screenshot",
+          "sourceUrl": "https://supertuxkart.net/Main_Page",
+          "credit": "Creator / Official site",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "youtube": "tzTJgzzymBs",
+          "name": "Creator / publisher video",
+          "sourceUrl": "https://supertuxkart.net/Main_Page",
+          "watchUrl": "https://www.youtube.com/watch?v=tzTJgzzymBs",
+          "poster": "https://supertuxkart.net/generated/assets/blog/Blog_Candela_thumb-800-ff6bb8cc1.jpg"
+        },
+        {
+          "youtube": "H1Lo7PlTGBk",
+          "name": "Creator / publisher video",
+          "sourceUrl": "https://supertuxkart.net/Main_Page",
+          "watchUrl": "https://www.youtube.com/watch?v=H1Lo7PlTGBk",
+          "poster": "https://supertuxkart.net/generated/assets/blog/Blog_Candela_thumb-800-ff6bb8cc1.jpg"
+        },
+        {
+          "youtube": "9TxEQnkoI9U",
+          "name": "Creator / publisher video",
+          "sourceUrl": "https://supertuxkart.net/Main_Page",
+          "watchUrl": "https://www.youtube.com/watch?v=9TxEQnkoI9U",
+          "poster": "https://supertuxkart.net/generated/assets/blog/Blog_Candela_thumb-800-ff6bb8cc1.jpg"
+        }
+      ],
+      "image": "https://supertuxkart.net/generated/assets/blog/Blog_Candela_thumb-800-ff6bb8cc1.jpg",
+      "storefronts": [
+        {
+          "url": "https://supertuxkart.net/Main_Page",
+          "provider": "Official site",
+          "kind": "project",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://supertuxkart.net/Main_Page",
+          "provider": "Official site",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "PC edition",
+        "sourceUrl": "https://supertuxkart.net/Main_Page",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:mario-kart-world",
+      "name": "Mario Kart World",
+      "seedName": "Mario Kart World",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/",
+      "provider": "Nintendo",
+      "collection": "Console party essentials",
+      "partyFit": 10,
+      "fit": 10,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "appid": null,
+      "kind": "Console game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "Nintendo Switch 2"
+      ],
+      "summary": "Mario Kart World – Nintendo Switch 2 Exclusive - Nintendo Official Site Skip to main content Nintendo Nintendo Slide 1 of 10 Mild Fantasy Violence Users Interact Mario Kart™ World Select a product Standard Edition Physical Edition - US Mild Fantasy Violence Users Interact Loading Hit the open road with Mario and friends! The whole world is your racetrack in the Mario Kart World game, a massive evolution of the series. With races supporting up to 24 drivers, the competition has never been tighter",
+      "screenshots": [],
+      "trailers": [],
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000095431/0485f410193ca12f92a2f615ea608bb437540f321bd05e464593c33fefa09bf2",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch 2",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:mario-party-jamboree",
+      "name": "Super Mario Party Jamboree",
+      "seedName": "Super Mario Party Jamboree",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+      "provider": "Nintendo",
+      "collection": "Console party essentials",
+      "partyFit": 10,
+      "fit": 10,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "appid": null,
+      "kind": "Console game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "summary": "Super Mario Party™ Jamboree for Nintendo Switch - Nintendo Official Site Skip to main content Nintendo Nintendo Slide 1 of 10 Game Voucher eligible Mild Fantasy Violence Users Interact, In-Game Purchases Nintendo Switch 2 Compatibility Information Supported – Game behavior is consistent with Nintendo Switch. Games Super Mario Party™ Jamboree Select a version Nintendo Switch 2 Nintendo Switch Upgrade Pack What's an upgrade pack? Select an edition Digital - Super Mario Party™ Jamboree Mild Fantasy",
+      "screenshots": [],
+      "trailers": [],
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000084608/ba0572bf9d840b03bf9958809943fb3c76c3adfd6d8f2704b0f1b766f8aa4027",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:mario-party-superstars",
+      "name": "Mario Party Superstars",
+      "seedName": "Mario Party Superstars",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
+      "provider": "Nintendo",
+      "collection": "Console party essentials",
+      "partyFit": 10,
+      "fit": 10,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "appid": null,
+      "kind": "Console game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "summary": "Mario Party™ Superstars for Nintendo Switch - Nintendo Official Site Skip to main content Nintendo Nintendo Slide 1 of 10 Game Voucher eligible Mild Cartoon Violence Users Interact, In-Game Purchases Nintendo Switch 2 Compatibility Information Supported – Game behavior is consistent with Nintendo Switch. Games Mario Party™ Superstars Version Nintendo Switch Select an edition Digital - Mario Party™ Superstars Mild Cartoon Violence Users Interact, In-Game Purchases Loading Redeem a Nintendo Switch",
+      "screenshots": [],
+      "trailers": [],
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:mario-kart-8-deluxe",
+      "name": "Mario Kart 8 Deluxe",
+      "seedName": "Mario Kart 8 Deluxe",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-switch/",
+      "provider": "Nintendo",
+      "collection": "Console party essentials",
+      "partyFit": 10,
+      "fit": 10,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "appid": null,
+      "kind": "Console game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "summary": "Mario Kart™ 8 Deluxe for Nintendo Switch - Nintendo Official Site Skip to main content Nintendo Nintendo Slide 1 of 7 Game Voucher eligible Comic Mischief Users Interact Nintendo Switch 2 Compatibility Information Supported – Game behavior is consistent with Nintendo Switch. Games Mario Kart™ 8 Deluxe Version Nintendo Switch Select an edition Digital - Mario Kart™ 8 Deluxe Comic Mischief Users Interact Loading Redeem a Nintendo Switch Game Voucher View DLC Nintendo Switch 2 Compatibility Informa",
+      "screenshots": [],
+      "trailers": [],
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-switch/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-switch/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-switch/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:kirby-air-riders",
+      "name": "Kirby Air Riders",
+      "seedName": "Kirby Air Riders",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+      "provider": "Nintendo",
+      "collection": "Console party essentials",
+      "partyFit": 9,
+      "fit": 9,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "appid": null,
+      "kind": "Console game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "Nintendo Switch 2"
+      ],
+      "summary": "Kirby™ Air Riders for Nintendo Switch 2 - Nintendo Official Site Skip to main content Nintendo Nintendo Slide 1 of 11 Fantasy Violence Games Kirby™ Air Riders Version Nintendo Switch 2 Select an edition Digital - Kirby™ Air Riders Fantasy Violence Loading Fast-paced vehicular action Pick your rider, pick your machine, and mount up for competition! Take on your rivals in frantic arena battles or fast-paced races on the ground and in the air. Use the Boost Charge button to brake and control your t",
+      "screenshots": [],
+      "trailers": [
+        {
+          "mp4": "https://assets.nintendo.com/video/upload/v1763157055/Microsites/KRbNZfgEmmsY/kSyOEVwmnHdg/video/Switch2_KAR_OverviewTRL.mp4",
+          "name": "Publisher gameplay video",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103775/61c47511e5fc392c271d6f4736fa0575e2aed19c30e6fe73b50906cadb9b2996"
+        }
+      ],
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103775/61c47511e5fc392c271d6f4736fa0575e2aed19c30e6fe73b50906cadb9b2996",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch 2",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:smash-ultimate",
+      "name": "Super Smash Bros. Ultimate",
+      "seedName": "Super Smash Bros. Ultimate",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-smash-bros-ultimate-switch/",
+      "provider": "Nintendo",
+      "collection": "Console party essentials",
+      "partyFit": 10,
+      "fit": 10,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "appid": null,
+      "kind": "Console game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "summary": "Super Smash Bros.™ Ultimate for Nintendo Switch - Nintendo Official Site Skip to main content Nintendo Nintendo Slide 1 of 7 Game Voucher eligible Cartoon Violence, Comic Mischief, Suggestive Themes Users Interact, In-Game Purchases Nintendo Switch 2 Compatibility Information Supported – Game behavior is consistent with Nintendo Switch. See details Games Super Smash Bros.™ Ultimate Version Nintendo Switch Select an edition Digital - Super Smash Bros.™ Ultimate Cartoon Violence, Comic Mischief, S",
+      "screenshots": [],
+      "trailers": [],
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000012332/ac4d1fc9824876ce756406f0525d50c57ded4b2a666f6dfe40a6ac5c3563fad9",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/super-smash-bros-ultimate-switch/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/super-smash-bros-ultimate-switch/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 8,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-smash-bros-ultimate-switch/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:super-mario-bros-wonder",
+      "appid": null,
+      "seedId": "external:super-mario-bros-wonder",
+      "seedName": "Super Mario Bros. Wonder",
+      "name": "Super Mario Bros. Wonder",
+      "collection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "A strong modern 2D starting point where level transformations interrupt expectations and badges change the movement vocabulary. Optional challenges leave room to grow beyond the welcoming first impression.",
+      "curatorWhy": "A strong modern 2D starting point where level transformations interrupt expectations and badges change the movement vocabulary. Optional challenges leave room to grow beyond the welcoming first impression.",
+      "recommendationCaution": "Local cooperative play and online features are not identical. This record is the original Switch game; consult the exact edition before buying any later upgrade or package.",
+      "requirements": "Local cooperative play and online features are not identical. This record is the original Switch game; consult the exact edition before buying any later upgrade or package.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2023-10-20",
+      "releaseLabel": "2023-10-20",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+          "alt": "Super Mario Bros.™ Wonder 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/7f1845a5e8d8ec895ad188a6b0f46b59036a363db1b2d9b79d23b913b0b9ab8a",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/7f1845a5e8d8ec895ad188a6b0f46b59036a363db1b2d9b79d23b913b0b9ab8a",
+          "alt": "Super Mario Bros.™ Wonder 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/e3024df668cdead60e62865924652c811323b0e7c46f51567fe80907f2637cc4",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/e3024df668cdead60e62865924652c811323b0e7c46f51567fe80907f2637cc4",
+          "alt": "Super Mario Bros.™ Wonder 8",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/e1ee4f690cec788fc2a75e85ddc12f6d7ef69501bbb362ad918e1ffcbc14936f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/e1ee4f690cec788fc2a75e85ddc12f6d7ef69501bbb362ad918e1ffcbc14936f",
+          "alt": "Super Mario Bros.™ Wonder 9",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/c77b1b26934fa04c01bbadcd5081b7a2cbfe787f4cd7d8a8e59445f67beb73c3",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/c77b1b26934fa04c01bbadcd5081b7a2cbfe787f4cd7d8a8e59445f67beb73c3",
+          "alt": "Super Mario Bros.™ Wonder 10",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/9669405e5f3f899993cddbc02bd570d530eb39410ed3b50e6bd102381fbe6916",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/9669405e5f3f899993cddbc02bd570d530eb39410ed3b50e6bd102381fbe6916",
+          "alt": "Super Mario Bros.™ Wonder 11",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/befae68cae3bdd5e0cce98fc224ccdbb4b5885d2df3a642855f2c272fa4e7033",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000068688/befae68cae3bdd5e0cce98fc224ccdbb4b5885d2df3a642855f2c272fa4e7033",
+          "alt": "Super Mario Bros.™ Wonder 12",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+          "alt": "Super Mario Bros.™ Wonder 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Super Mario Bros.™ Wonder — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        },
+        {
+          "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "warnings": [],
+      "platformerInfo": {
+        "focus": "Console platformer / exact edition",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Local cooperative play and online features are not identical. This record is the original Switch game; consult the exact edition before buying any later upgrade or package.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game.",
+        "scope": "Core platformer or platforming-led exploration",
+        "selectionBasis": "Source-grounded editorial analysis, not a claim of hands-on playtesting.",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+        "editorialDepth": "Individual editorial note"
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "ad4b6f1cb445e4800cd08fa267663862c019e4ffc9cd7f117f34f09fb1d74473",
+      "platformerMediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+        "pageSha256": "4f7ab918791cc1e5624b833d3fff302833c7477262d8d3e391ff80b4acdbabd0",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Super Mario Bros.™ Wonder for Nintendo Switch - Nintendo Official Site",
+        "productName": "Super Mario Bros.™ Wonder",
+        "sku": "7100068688",
+        "urlKey": "super-mario-bros-wonder-switch",
+        "publicId": "/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/27425195",
+          "headerSha256": "ef78205898067f81e1c135f2b33bc433c57eebefa1e038fb34d5e5ee226dac18"
+        }
+      },
+      "platformerManaged": true,
+      "platformerCollection": "Colorful & approachable",
+      "platformerWhy": "A strong modern 2D starting point where level transformations interrupt expectations and badges change the movement vocabulary. Optional challenges leave room to grow beyond the welcoming first impression.",
+      "platformerCaution": "Local cooperative play and online features are not identical. This record is the original Switch game; consult the exact edition before buying any later upgrade or package.",
+      "hiddenGem": false,
+      "partyFit": 10,
+      "partyCollection": "Console party essentials",
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Co-op"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:super-mario-3d-world-bowsers-fury",
+      "appid": null,
+      "seedId": "external:super-mario-3d-world-bowsers-fury",
+      "seedName": "Super Mario 3D World + Bowser's Fury",
+      "name": "Super Mario 3D World + Bowser's Fury",
+      "collection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "fit": 10,
+      "editorialFit": 10,
+      "summary": "Two useful approaches in one edition: tightly authored cooperative 3D courses and a smaller connected playground in Bowser's Fury. A particularly strong comparison point for group-friendly level design.",
+      "curatorWhy": "Two useful approaches in one edition: tightly authored cooperative 3D courses and a smaller connected playground in Bowser's Fury. A particularly strong comparison point for group-friendly level design.",
+      "recommendationCaution": "The two adventures have different multiplayer structures. This is the 2021 enhanced package, not the original Wii U edition; read the mode-specific player requirements.",
+      "requirements": "The two adventures have different multiplayer structures. This is the 2021 enhanced package, not the original Wii U edition; read the mode-specific player requirements.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2021-02-12",
+      "releaseLabel": "2021-02-12",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/434169d41e9f15e88d78de0d97d69a2c9bdf35bd7473939efb2d52a6ff090ec4",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/434169d41e9f15e88d78de0d97d69a2c9bdf35bd7473939efb2d52a6ff090ec4",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 3",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/b6aa756dae3b6a79c1a7e727d01eb787b8a50992a929b115f58a7f6ed0167089",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/b6aa756dae3b6a79c1a7e727d01eb787b8a50992a929b115f58a7f6ed0167089",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 4",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/0b819b869d8ef8f8e9f820f100098d75fff7a3d1a5e505e8a9fe06eda01d8f2d",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/0b819b869d8ef8f8e9f820f100098d75fff7a3d1a5e505e8a9fe06eda01d8f2d",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 5",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/e7bd90292baa5a87d94d2a03b2629d49ba6909fc545d4b9639391257681d6b35",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/e7bd90292baa5a87d94d2a03b2629d49ba6909fc545d4b9639391257681d6b35",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 6",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/2b50349c1c2f0d5dac7d30151df76c767228ecdf01357c039a35b65f298edd26",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/2b50349c1c2f0d5dac7d30151df76c767228ecdf01357c039a35b65f298edd26",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/45536e58ea924fcaabc2316aa67afc2bab8ede26379b9f071ceb3435cb05d8ba",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000034439/45536e58ea924fcaabc2316aa67afc2bab8ede26379b9f071ceb3435cb05d8ba",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 8",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+          "alt": "Super Mario™ 3D World + Bowser’s Fury 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Super Mario™ 3D World + Bowser’s Fury — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        },
+        {
+          "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "warnings": [],
+      "platformerInfo": {
+        "focus": "Console platformer / exact edition",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "The two adventures have different multiplayer structures. This is the 2021 enhanced package, not the original Wii U edition; read the mode-specific player requirements.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game.",
+        "scope": "Core platformer or platforming-led exploration",
+        "selectionBasis": "Source-grounded editorial analysis, not a claim of hands-on playtesting.",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+        "editorialDepth": "Individual editorial note"
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "e6f4ec40c58130853e54c0c61a70a6c85505eadaed0632d21f5c6f37d8dbc142",
+      "platformerMediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+        "pageSha256": "4a99493f92cadfd3f9d0f1814d52aeaf91597c211ad73cf6694dcb512309cec4",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Super Mario™ 3D World + Bowser’s Fury for Nintendo Switch - Nintendo Official Site",
+        "productName": "Super Mario™ 3D World + Bowser’s Fury",
+        "sku": "7100034439",
+        "urlKey": "super-mario-3d-world-plus-bowsers-fury-switch",
+        "publicId": "/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/24812550",
+          "headerSha256": "1f7789c9dcb568e3d53f7b8f92e5f6a3dd8f06184e35b15814e949a7583780e6"
+        }
+      },
+      "platformerManaged": true,
+      "platformerCollection": "Co-op & playful chaos",
+      "platformerWhy": "Two useful approaches in one edition: tightly authored cooperative 3D courses and a smaller connected playground in Bowser's Fury. A particularly strong comparison point for group-friendly level design.",
+      "platformerCaution": "The two adventures have different multiplayer structures. This is the 2021 enhanced package, not the original Wii U edition; read the mode-specific player requirements.",
+      "hiddenGem": false,
+      "partyFit": 10,
+      "partyCollection": "Console party essentials",
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Co-op"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:kirby-return-dreamland-deluxe",
+      "appid": null,
+      "seedId": "external:kirby-return-dreamland-deluxe",
+      "seedName": "Kirby's Return to Dream Land Deluxe",
+      "name": "Kirby's Return to Dream Land Deluxe",
+      "collection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "A cooperative 2D adventure with copy abilities and an expanded supporting package. A sensible group choice when playful experimentation matters more than everyone performing perfectly.",
+      "curatorWhy": "A cooperative 2D adventure with copy abilities and an expanded supporting package. A sensible group choice when playful experimentation matters more than everyone performing perfectly.",
+      "recommendationCaution": "Deluxe edition of an older campaign. Four-player local play does not imply four-player online campaign co-op; verify the mode you intend to use.",
+      "requirements": "Deluxe edition of an older campaign. Four-player local play does not imply four-player online campaign co-op; verify the mode you intend to use.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2023-02-24",
+      "releaseLabel": "2023-02-24",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+      "screenshots": [
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/1871a94ac8e37ee94833d1e5054d9e1c9d861dfe50d32bd0a7cb4b6f1de484ce",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/1871a94ac8e37ee94833d1e5054d9e1c9d861dfe50d32bd0a7cb4b6f1de484ce",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 7",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/cc9c7b0d181d17f0c0a126b952d05ae176932a2078782d030334bc683a7d9944",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/cc9c7b0d181d17f0c0a126b952d05ae176932a2078782d030334bc683a7d9944",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 8",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/c418ea986505c967b730bfc47599ded605530501169fff245d94c675500a5c5c",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/c418ea986505c967b730bfc47599ded605530501169fff245d94c675500a5c5c",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 9",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/f0907a20d2b972a42dc35747d21e10aea729eecfdc8d607bc66e99a33af312e6",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/f0907a20d2b972a42dc35747d21e10aea729eecfdc8d607bc66e99a33af312e6",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 10",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/c18c16e12c4aed453ed7235751601358df08a4bcd73e0b61a78d3775b4755f8d",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/c18c16e12c4aed453ed7235751601358df08a4bcd73e0b61a78d3775b4755f8d",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 11",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/b7a4135edf2401d60c908c7ea0b9cd2c492612a46f728dfe50024e6004004d42",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000058797/b7a4135edf2401d60c908c7ea0b9cd2c492612a46f728dfe50024e6004004d42",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 12",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        },
+        {
+          "src": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+          "thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+          "alt": "Kirby’s Return to Dream Land™ Deluxe 1",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo official game page",
+          "verified": true
+        }
+      ],
+      "trailers": [
+        {
+          "name": "Kirby’s Return to Dream Land™ Deluxe — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        },
+        {
+          "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "warnings": [],
+      "platformerInfo": {
+        "focus": "Console platformer / exact edition",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Deluxe edition of an older campaign. Four-player local play does not imply four-player online campaign co-op; verify the mode you intend to use.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game.",
+        "scope": "Core platformer or platforming-led exploration",
+        "selectionBasis": "Source-grounded editorial analysis, not a claim of hands-on playtesting.",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+        "editorialDepth": "Individual editorial note"
+      },
+      "mediaCheckedAt": "2026-10-23T17:27:45.963246+00:00",
+      "mediaPageHash": "ccaa5234a8fbba48ba667af2a285fbfa26a48567593bfaa3cb8b95666d307e7d",
+      "platformerMediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+        "pageSha256": "3791bebb1ab7461d0ff2c6cd95b9541a13bf8ea16a5d110f7d37d3d576ff74ef",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Kirby’s Return to Dreamland™ Deluxe for the Nintendo Switch system™ – Official Site",
+        "productName": "Kirby’s Return to Dream Land™ Deluxe",
+        "sku": "7100058797",
+        "urlKey": "kirbys-return-to-dream-land-deluxe-switch",
+        "publicId": "/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/131610149",
+          "headerSha256": "d2114676955b54d77d98577db3eb8c1219ba4cc8a8a2a2d53f54d90d2a9cd087"
+        }
+      },
+      "platformerManaged": true,
+      "platformerCollection": "Co-op & playful chaos",
+      "platformerWhy": "A cooperative 2D adventure with copy abilities and an expanded supporting package. A sensible group choice when playful experimentation matters more than everyone performing perfectly.",
+      "platformerCaution": "Deluxe edition of an older campaign. Four-player local play does not imply four-player online campaign co-op; verify the mode you intend to use.",
+      "hiddenGem": false,
+      "partyFit": 9,
+      "partyCollection": "Console party essentials",
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Co-op"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:kirby-forgotten-land",
+      "appid": null,
+      "seedId": "external:kirby-forgotten-land",
+      "seedName": "Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World",
+      "name": "Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World",
+      "collection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "fit": 9,
+      "editorialFit": 9,
+      "summary": "Accessible 3D stages built around Kirby's changing abilities, with the expanded edition providing another reason to revisit its playful spaces. A good alternative to camera-demanding or punishing collectathons.",
+      "curatorWhy": "Accessible 3D stages built around Kirby's changing abilities, with the expanded edition providing another reason to revisit its playful spaces. A good alternative to camera-demanding or punishing collectathons.",
+      "recommendationCaution": "Enhanced edition of the 2022 original. This complete package and the separate upgrade pack are different purchases; the upgrade requires the base game. This edition requires Switch 2.",
+      "requirements": "Enhanced edition of the 2022 original. This complete package and the separate upgrade pack are different purchases; the upgrade requires the base game. This edition requires Switch 2.",
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "features": [],
+      "platforms": [
+        "Nintendo Switch 2"
+      ],
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "releaseDate": "2025-08-28",
+      "releaseLabel": "2025-08-28",
+      "rating": null,
+      "reviewCount": 0,
+      "reviewLabel": null,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000096829/0a06bf277f1eb585fcbb7ddeb4f70014fd1c860d326eb33c8accf4d4827ade72",
+      "screenshots": [],
+      "trailers": [
+        {
+          "name": "Kirby™ and the Forgotten Land – Nintendo Switch™ 2 Edition + Star-Crossed World — official product video",
+          "mp4": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14.mp4",
+          "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000096829/0a06bf277f1eb585fcbb7ddeb4f70014fd1c860d326eb33c8accf4d4827ade72",
+          "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "watchUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "credit": "Nintendo — exact product gallery",
+          "official": true,
+          "verified": true,
+          "verifiedAt": "2026-10-23T18:32:45.493637+00:00",
+          "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+        }
+      ],
+      "primaryUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+      "steamUrl": null,
+      "website": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+      "provider": "Nintendo",
+      "kind": "Standalone game",
+      "genreScope": "Console platformer / exact edition",
+      "confidence": "Source-grounded editorial selection",
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "researchCheckedAt": "2026-10-23",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "provider": "Platformer exact-video verification",
+          "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "verified": true,
+          "lastChecked": "2026-10-23T18:32:45.493637+00:00"
+        },
+        {
+          "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "warnings": [],
+      "platformerInfo": {
+        "focus": "Console platformer / exact edition",
+        "platformScope": "Only the hardware or builds verified on the linked official page are asserted.",
+        "editionNote": "Enhanced edition of the 2022 original. This complete package and the separate upgrade pack are different purchases; the upgrade requires the base game. This edition requires Switch 2.",
+        "reviewBasis": "No Steam percentage is invented for a non-Steam game.",
+        "scope": "Core platformer or platforming-led exploration",
+        "selectionBasis": "Source-grounded editorial analysis, not a claim of hands-on playtesting.",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+        "editorialDepth": "Individual editorial note"
+      },
+      "originalReleaseYear": 2022,
+      "mediaCheckedAt": "2026-10-23T17:09:08.300141+00:00",
+      "mediaPageHash": "dcb817fd9f43b1238045d89676023fab222d194534939e67642a87b63f5b1e22",
+      "platformerMediaEvidence": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+        "pageSha256": "44e18721781fce7dfc7b15b09e9bfb27b5143c05f5517620ebcb032da340c655",
+        "checkedAt": "2026-10-23T18:32:45.493637+00:00",
+        "pageTitle": "Kirby and the Forgotten Land + Star‑Crossed World – Nintendo Switch 2 Edition - Nintendo Official Site",
+        "productName": "Kirby™ and the Forgotten Land – Nintendo Switch™ 2 Edition + Star-Crossed World",
+        "sku": "7100096829",
+        "urlKey": "kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2",
+        "publicId": "/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/24880991",
+          "headerSha256": "0b7436747926abc20d9919225d5464a828e9124ace51dd42b0906210820c8c49"
+        }
+      },
+      "platformerManaged": true,
+      "platformerCollection": "3D worlds & collectathons",
+      "platformerWhy": "Accessible 3D stages built around Kirby's changing abilities, with the expanded edition providing another reason to revisit its playful spaces. A good alternative to camera-demanding or punishing collectathons.",
+      "platformerCaution": "Enhanced edition of the 2022 original. This complete package and the separate upgrade pack are different purchases; the upgrade requires the base game. This edition requires Switch 2.",
+      "hiddenGem": false,
+      "partyFit": 9,
+      "partyCollection": "Console party essentials",
+      "partyInfo": {
+        "countHint": 2,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Co-op"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch 2",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:snipperclips",
+      "name": "Snipperclips - Cut it out, together!",
+      "seedName": "Snipperclips - Cut it out, together!",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+      "provider": "Nintendo",
+      "collection": "Console party essentials",
+      "partyFit": 9,
+      "fit": 9,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "appid": null,
+      "kind": "Console game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "summary": "Snipperclips™ – Cut it out, together!  for Nintendo Switch - Nintendo Official Site Skip to main content Nintendo Nintendo Slide 1 of 11 Nintendo Switch 2 Compatibility Information Supported – Game behavior is consistent with Nintendo Switch. Games Snipperclips™ – Cut it out, together! Version Nintendo Switch Select an edition Digital - Snipperclips™ – Cut it out, together! Loading View DLC Nintendo Switch 2 Compatibility Information Supported – Game behavior is consistent with Nintendo Switch. ",
+      "screenshots": [],
+      "trailers": [],
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000142/b692e801076e7a4be1a87a2135d20bc5414b639de0cf1e44e91d67a6ca9f7229",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Co-op",
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:switch-sports",
+      "name": "Nintendo Switch Sports",
+      "seedName": "Nintendo Switch Sports",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
+      "provider": "Nintendo",
+      "collection": "Console party essentials",
+      "partyFit": 9,
+      "fit": 9,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "appid": null,
+      "kind": "Console game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "summary": "Nintendo Switch™ Sports for Nintendo Switch - Nintendo Official Site Skip to main content Nintendo Nintendo Slide 1 of 10 Mild Violence Users Interact, In-Game Purchases Nintendo Switch 2 Compatibility Information Supported – Game behavior is consistent with Nintendo Switch. See details Games Nintendo Switch™ Sports Version Nintendo Switch Select an edition Digital - Nintendo Switch™ Sports Mild Violence Users Interact, In-Game Purchases Loading Nintendo Switch 2 Compatibility Information Suppor",
+      "screenshots": [],
+      "trailers": [],
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000049931/282ce6a96d5855d8b46aa9316314969f731a26ef9c7b2bc1e5aebe62dcf2ece2",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 4,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Versus"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    },
+    {
+      "id": "external:orbitals",
+      "name": "Orbitals",
+      "seedName": "Orbitals",
+      "primaryUrl": "https://www.nintendo.com/us/store/products/orbitals-switch-2/",
+      "provider": "Nintendo",
+      "collection": "Console party essentials",
+      "partyFit": 10,
+      "fit": 10,
+      "hubs": [
+        "Couch co-op & party"
+      ],
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "features": [],
+      "tags": [
+        "Local multiplayer"
+      ],
+      "verification": "verified",
+      "verifiedAt": "2026-10-24T06:00:17.866802+00:00",
+      "partyCollection": "Console party essentials",
+      "collections": [
+        "Console party essentials"
+      ],
+      "appid": null,
+      "kind": "Console game",
+      "status": "Released",
+      "comingSoon": false,
+      "free": false,
+      "rating": null,
+      "reviewCount": 0,
+      "releaseDate": null,
+      "releaseLabel": "See creator / console release",
+      "developers": [],
+      "platforms": [
+        "Nintendo Switch 2"
+      ],
+      "summary": "Orbitals – Nintendo Switch 2 Exclusive - Nintendo Official Site Skip to main content Nintendo Nintendo Slide 1 of 9 Animated Blood, Fantasy Violence, Mild Language Games Orbitals Version Nintendo Switch 2 Select an edition Digital - Orbitals Sale ends: 11/1/26 at 06:59 a.m. UTC Animated Blood, Fantasy Violence, Mild Language Loading View DLC We are one! Grab a friend and launch into Orbitals, an intergalactic 2-player co-op adventure set in a wholly new retro anime world. Team up as Maki and Omu",
+      "screenshots": [],
+      "trailers": [],
+      "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098973/4c02a7ceaaacde0b7f51cde1e58b3b575ff2ed94a7c7530e4631b40d0f26413d",
+      "storefronts": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/orbitals-switch-2/",
+          "provider": "Nintendo",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/orbitals-switch-2/",
+          "provider": "Nintendo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:00:17.866802+00:00"
+        }
+      ],
+      "partyInfo": {
+        "countHint": 2,
+        "countVerified": false,
+        "localMax": null,
+        "playerCounts": [],
+        "modes": [
+          "Co-op"
+        ],
+        "modesDetail": [],
+        "participation": "simultaneous",
+        "platform": "Nintendo Switch 2",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/orbitals-switch-2/",
+        "checkedAt": "2026-10-24T06:00:17.866802+00:00",
+        "inputs": "Read the game-specific controller requirements.",
+        "screen": "Shared / split screen; mode dependent",
+        "requiresInternet": "Not inferred from a local multiplayer listing.",
+        "evidence": [],
+        "notes": "Exact platform and mode limits require source review."
+      }
+    }
+  ],
+  "dispositions": []
+}
