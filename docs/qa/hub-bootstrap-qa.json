@@ -1,5 +1,5 @@
 {
-  "sourceRevision": "45973a2f8f4cb3d3c953c83ad84502b7161c3d39",
+  "sourceRevision": "9beb1f04c2255378bbca4e11069219d41563fd19",
   "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
   "checks": [
     "Platformers direct-link counter uses primary routes",

@@ -52,6 +52,18 @@
     "Mobile library fits viewport",
     "Mobile touch controls are visible",
     "Touch control path throws a donut",
+    "390px after touch focus complete window stays on screen",
+    "390px after touch focus no internal horizontal clipping",
+    "390px after touch focus visible controls stay inside arcade",
+    "320px rotation complete window stays on screen",
+    "320px rotation no internal horizontal clipping",
+    "320px rotation visible controls stay inside arcade",
+    "844px rotation complete window stays on screen",
+    "844px rotation no internal horizontal clipping",
+    "844px rotation visible controls stay inside arcade",
+    "1024px rotation complete window stays on screen",
+    "1024px rotation no internal horizontal clipping",
+    "1024px rotation visible controls stay inside arcade",
     "Mobile arcade does not overflow",
     "Best score survives an actual reload",
     "Exact portable HTML contains the complete upgraded library",
@@ -60,27 +72,27 @@
   ],
   "errors": [],
   "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
-  "htmlSha256": "fb8165151cc757c0f31ac537586088e9368fc419fc8356e93bfcb2183fb88265",
-  "sourceRevision": "45973a2f8f4cb3d3c953c83ad84502b7161c3d39",
+  "htmlSha256": "cd3280ae5047d05011d648d4d38bad08947a4b0c2d1ea7ef00c1c19d12bec8cd",
+  "sourceRevision": "9beb1f04c2255378bbca4e11069219d41563fd19",
   "screenshots": [
     "lounge-arcade.png",
     "lounge-desktop.png",
     "lounge-library.png"
   ],
   "renderMs": [
-    148.89999999999418,
-    41.80000000000291,
-    30.90000000000873,
-    31.29999999998836,
-    31.80000000000291
+    188.60000000003492,
+    49.899999999965075,
+    38.100000000034925,
+    39.5,
+    38.199999999953434
   ],
   "arcadePerformance": {
-    "max": 3.5,
-    "mean": 0.39125000000052146
+    "max": 2.7999999999883585,
+    "mean": 0.5270833333339396
   },
   "formatterBenchmark": {
-    "oldMs": 32.69999999999709,
-    "cachedMs": 0.8000000000029104,
+    "oldMs": 39.40000000002328,
+    "cachedMs": 1.099999999976717,
     "outputsIdentical": true
   },
   "roundProof": {
@@ -88,85 +100,375 @@
     "result": {
       "running": false,
       "paused": false,
-      "score": 1280,
+      "score": 1725,
       "remaining": 0,
-      "best": 1280,
+      "best": 1725,
       "throws": 36,
-      "hits": 20,
+      "hits": 26,
       "stars": [
         {
-          "x": 574.6505344159566,
-          "y": 332.690349257541
+          "x": 837.7591144887443,
+          "y": 375.61431286706863
         },
         {
-          "x": 386.5147005490814,
-          "y": 264.45024450414394
+          "x": 699.2993672330231,
+          "y": 373.91293121048756
         },
         {
-          "x": 788.0544336043239,
-          "y": 233.11318324875123
+          "x": 79.19177385436225,
+          "y": 471.48807901230697
         },
         {
-          "x": 255.26128453587137,
-          "y": 263.04324556285394
+          "x": 344.24069984512244,
+          "y": 321.0619917690593
         },
         {
-          "x": 798.1249746794185,
-          "y": 379.41193268059175
+          "x": 210.76083396488542,
+          "y": 366.61591840215965
         },
         {
-          "x": 516.19626439341,
-          "y": 418.47955849541074
+          "x": 895.6326936505485,
+          "y": 293.10495457638626
         },
         {
-          "x": 108.99167823997429,
-          "y": 461.73866713696896
+          "x": 105.81138298781755,
+          "y": 210.6070739247637
         },
         {
-          "x": 716.0898577462834,
-          "y": 192.41821194598094
+          "x": 702.5486445978283,
+          "y": 312.941534508842
         },
         {
-          "x": 690.8537561835883,
-          "y": 267.85552760043055
+          "x": 132.50554546960973,
+          "y": 383.3735868616557
         }
       ],
       "targets": [
         {
-          "x": 876.0341764983189,
-          "y": 348.86806017869145
+          "x": 532.1510099908081,
+          "y": 204.85352403610784
         },
         {
-          "x": 368.6574559112472,
-          "y": 329.2442454762035
+          "x": 392.7058856781542,
+          "y": 295.75703640678586
         },
         {
-          "x": 109.0004476498974,
-          "y": 431.7800310327378
+          "x": 203.087591329721,
+          "y": 224.2828926333278
         },
         {
-          "x": 812.9688330300178,
-          "y": 151.160993828493
+          "x": 821.6764315616441,
+          "y": 429.72966294918507
         },
         {
-          "x": 866.6594015093267,
-          "y": 138.741335013455
+          "x": 424.69802311839186,
+          "y": 320.45160136557143
         }
       ],
       "player": {
-        "x": 750.9616114954696,
-        "y": 220.3855469666561
+        "x": 375.8603113713325,
+        "y": 477.30850231950626
       },
       "chaos": false,
       "background": false,
-      "frames": 3747,
-      "renderFrames": 3755,
+      "frames": 3744,
+      "renderFrames": 3752,
       "frameMs": {
-        "max": 2,
-        "mean": 0.22083333333333333
+        "max": 3,
+        "mean": 0.32916666666666666
       },
       "storageOK": true,
       "loopScheduled": false
+    }
+  },
+  "viewportProof": {
+    "390px after touch focus": {
+      "window": {
+        "x": 12,
+        "y": 159,
+        "right": 378,
+        "bottom": 532.1875
+      },
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "scrollLeft": 0,
+      "overflow": 0,
+      "controls": [
+        {
+          "selector": ".arcade-header strong",
+          "visible": true,
+          "x": 26,
+          "y": 175.5,
+          "right": 125.046875,
+          "bottom": 191.5
+        },
+        {
+          "selector": ".arcade-header button:last-child",
+          "visible": true,
+          "x": 334,
+          "y": 169,
+          "right": 364,
+          "bottom": 196
+        },
+        {
+          "selector": ".arcade-hud",
+          "visible": true,
+          "x": 22,
+          "y": 214,
+          "right": 368,
+          "bottom": 240
+        },
+        {
+          "selector": "#snackball",
+          "visible": true,
+          "x": 13,
+          "y": 205,
+          "right": 377,
+          "bottom": 450
+        },
+        {
+          "selector": "#arcade-pad",
+          "visible": true,
+          "x": 27,
+          "y": 358,
+          "right": 107,
+          "bottom": 438
+        },
+        {
+          "selector": ".arcade-throw",
+          "visible": true,
+          "x": 293,
+          "y": 358,
+          "right": 363,
+          "bottom": 428
+        },
+        {
+          "selector": ".arcade-footer",
+          "visible": true,
+          "x": 13,
+          "y": 450,
+          "right": 377,
+          "bottom": 531.1875
+        }
+      ]
+    },
+    "320px rotation": {
+      "window": {
+        "x": 12,
+        "y": 146.828125,
+        "right": 308,
+        "bottom": 508
+      },
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "scrollLeft": 0,
+      "overflow": 0,
+      "controls": [
+        {
+          "selector": ".arcade-header strong",
+          "visible": true,
+          "x": 26,
+          "y": 163.328125,
+          "right": 125.046875,
+          "bottom": 179.328125
+        },
+        {
+          "selector": ".arcade-header button:last-child",
+          "visible": true,
+          "x": 264,
+          "y": 156.828125,
+          "right": 294,
+          "bottom": 183.828125
+        },
+        {
+          "selector": ".arcade-hud",
+          "visible": true,
+          "x": 22,
+          "y": 201.828125,
+          "right": 298,
+          "bottom": 227.828125
+        },
+        {
+          "selector": "#snackball",
+          "visible": true,
+          "x": 13,
+          "y": 192.828125,
+          "right": 307,
+          "bottom": 391.625
+        },
+        {
+          "selector": "#arcade-pad",
+          "visible": true,
+          "x": 27,
+          "y": 299.625,
+          "right": 107,
+          "bottom": 379.625
+        },
+        {
+          "selector": ".arcade-throw",
+          "visible": true,
+          "x": 223,
+          "y": 299.625,
+          "right": 293,
+          "bottom": 369.625
+        },
+        {
+          "selector": ".arcade-footer",
+          "visible": true,
+          "x": 13,
+          "y": 391.625,
+          "right": 307,
+          "bottom": 507
+        }
+      ]
+    },
+    "844px rotation": {
+      "window": {
+        "x": 12,
+        "y": 78,
+        "right": 771.59375,
+        "bottom": 330
+      },
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "scrollLeft": 0,
+      "overflow": 0,
+      "controls": [
+        {
+          "selector": ".arcade-header strong",
+          "visible": true,
+          "x": 26,
+          "y": 94.5,
+          "right": 125.046875,
+          "bottom": 110.5
+        },
+        {
+          "selector": ".arcade-header button:last-child",
+          "visible": true,
+          "x": 727.59375,
+          "y": 88,
+          "right": 757.59375,
+          "bottom": 115
+        },
+        {
+          "selector": ".arcade-hud",
+          "visible": true,
+          "x": 29,
+          "y": 136,
+          "right": 754.59375,
+          "bottom": 166
+        },
+        {
+          "selector": "#snackball",
+          "visible": true,
+          "x": 13,
+          "y": 124,
+          "right": 770.59375,
+          "bottom": 276
+        },
+        {
+          "selector": "#arcade-pad",
+          "visible": false,
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        {
+          "selector": ".arcade-throw",
+          "visible": false,
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        {
+          "selector": ".arcade-footer",
+          "visible": true,
+          "x": 13,
+          "y": 276,
+          "right": 770.59375,
+          "bottom": 329
+        }
+      ]
+    },
+    "1024px rotation": {
+      "window": {
+        "x": 12,
+        "y": 78,
+        "right": 933.59375,
+        "bottom": 695.265625
+      },
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "scrollLeft": 0,
+      "overflow": 0,
+      "controls": [
+        {
+          "selector": ".arcade-header strong",
+          "visible": true,
+          "x": 26,
+          "y": 94.5,
+          "right": 125.046875,
+          "bottom": 110.5
+        },
+        {
+          "selector": ".arcade-header button:last-child",
+          "visible": true,
+          "x": 889.59375,
+          "y": 88,
+          "right": 919.59375,
+          "bottom": 115
+        },
+        {
+          "selector": ".arcade-hud",
+          "visible": true,
+          "x": 29,
+          "y": 136,
+          "right": 916.59375,
+          "bottom": 166
+        },
+        {
+          "selector": "#snackball",
+          "visible": true,
+          "x": 13,
+          "y": 124,
+          "right": 932.59375,
+          "bottom": 641.265625
+        },
+        {
+          "selector": "#arcade-pad",
+          "visible": false,
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        {
+          "selector": ".arcade-throw",
+          "visible": false,
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        {
+          "selector": ".arcade-footer",
+          "visible": true,
+          "x": 13,
+          "y": 641.265625,
+          "right": 932.59375,
+          "bottom": 694.265625
+        }
+      ]
     }
   },
   "passed": true
