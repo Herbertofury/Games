@@ -1,0 +1,1579 @@
+{
+  "nintendo": {
+    "external:mario-kart-world": {
+      "video": {
+        "name": "Mario Kart™ World — official product video",
+        "mp4": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000095431/Video/edaafe8cf9163f9487f6cbc0b90a284a0a61ac85829fda0cc41f6f356cfed7f8.mp4",
+        "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000095431/0485f410193ca12f92a2f615ea608bb437540f321bd05e464593c33fefa09bf2",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/",
+        "watchUrl": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/",
+        "credit": "Nintendo — exact product gallery",
+        "official": true,
+        "verified": true,
+        "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+        "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+      },
+      "proof": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/",
+        "pageSha256": "929ade9a38638a28f2df487170fb25789a6bef1317b1ac386e0f4b55546dff72",
+        "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+        "pageTitle": "Mario Kart World – Nintendo Switch 2 Exclusive - Nintendo Official Site",
+        "productName": "Mario Kart™ World",
+        "sku": "7100095431",
+        "urlKey": "mario-kart-world-switch-2",
+        "publicId": "/store/software/switch2/70010000095431/Video/edaafe8cf9163f9487f6cbc0b90a284a0a61ac85829fda0cc41f6f356cfed7f8",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000095431/Video/edaafe8cf9163f9487f6cbc0b90a284a0a61ac85829fda0cc41f6f356cfed7f8.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000095431/Video/edaafe8cf9163f9487f6cbc0b90a284a0a61ac85829fda0cc41f6f356cfed7f8.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/91877006",
+          "headerSha256": "9eaad3811e4d9e9116f6ba50f499912a6a816922dff9cdb6d2383eeb263981bd"
+        }
+      }
+    },
+    "external:mario-party-jamboree": {
+      "video": {
+        "name": "Super Mario Party™ Jamboree — official product video",
+        "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000084608/Video/af57072ff28a05863c00d8ee3a5d541a756038ca10f3ae82d2972a67d091095a.mp4",
+        "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000084608/ba0572bf9d840b03bf9958809943fb3c76c3adfd6d8f2704b0f1b766f8aa4027",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+        "watchUrl": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+        "credit": "Nintendo — exact product gallery",
+        "official": true,
+        "verified": true,
+        "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+        "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+      },
+      "proof": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+        "pageSha256": "a894c0dd0a81c10e8e0c75e1dec5191ac932c30766746dc35d414e5634570675",
+        "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+        "pageTitle": "Super Mario Party™ Jamboree for Nintendo Switch - Nintendo Official Site",
+        "productName": "Super Mario Party™ Jamboree",
+        "sku": "7100084608",
+        "urlKey": "super-mario-party-jamboree-switch",
+        "publicId": "/store/software/switch/70010000084608/Video/af57072ff28a05863c00d8ee3a5d541a756038ca10f3ae82d2972a67d091095a",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000084608/Video/af57072ff28a05863c00d8ee3a5d541a756038ca10f3ae82d2972a67d091095a.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000084608/Video/af57072ff28a05863c00d8ee3a5d541a756038ca10f3ae82d2972a67d091095a.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/33987513",
+          "headerSha256": "83f89f4cbd393489434462a41b3ad96a7a1f0d05f3bbf4492a8f4cedbbcf5426"
+        }
+      }
+    },
+    "external:mario-party-superstars": {
+      "video": {
+        "name": "Mario Party™ Superstars — official product video",
+        "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000042934/Video/d3ff40dbb335968b78627f810a07775996cc82a6bf353cfe77edb8e1879b7037.mp4",
+        "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
+        "watchUrl": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
+        "credit": "Nintendo — exact product gallery",
+        "official": true,
+        "verified": true,
+        "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+        "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+      },
+      "proof": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
+        "pageSha256": "eea32275de90e5eedecff2eab7b030427c567828186f12a98bb11ba15cd48659",
+        "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+        "pageTitle": "Mario Party™ Superstars for Nintendo Switch - Nintendo Official Site",
+        "productName": "Mario Party™ Superstars",
+        "sku": "7100042934",
+        "urlKey": "mario-party-superstars-switch",
+        "publicId": "/store/software/switch/70010000042934/Video/d3ff40dbb335968b78627f810a07775996cc82a6bf353cfe77edb8e1879b7037",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000042934/Video/d3ff40dbb335968b78627f810a07775996cc82a6bf353cfe77edb8e1879b7037.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000042934/Video/d3ff40dbb335968b78627f810a07775996cc82a6bf353cfe77edb8e1879b7037.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/9949523",
+          "headerSha256": "54b9bf550da9e8fd599bc859e2940295a2d8234fb18e9b2b69b33d938dc50407"
+        }
+      }
+    },
+    "external:mario-kart-8-deluxe": {
+      "error": "Exact product has no video; recommendations are not accepted"
+    },
+    "external:kirby-air-riders": {
+      "video": {
+        "name": "Kirby™ Air Riders — official product video",
+        "mp4": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000103775/Video/2b739bb3e681e0f47d93f0c505c0b74f11fc8af18504aac5bce6374e2bc1f7a8.mp4",
+        "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103775/61c47511e5fc392c271d6f4736fa0575e2aed19c30e6fe73b50906cadb9b2996",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+        "watchUrl": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+        "credit": "Nintendo — exact product gallery",
+        "official": true,
+        "verified": true,
+        "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+        "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+      },
+      "proof": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+        "pageSha256": "a27bd18f6d34678275a71dd3326bfc964036a476ff0455cc82620f26b9f0d55d",
+        "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+        "pageTitle": "Kirby™ Air Riders for Nintendo Switch 2 - Nintendo Official Site",
+        "productName": "Kirby™ Air Riders",
+        "sku": "7100103775",
+        "urlKey": "kirby-air-riders-switch-2",
+        "publicId": "/store/software/switch2/70010000103775/Video/2b739bb3e681e0f47d93f0c505c0b74f11fc8af18504aac5bce6374e2bc1f7a8",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000103775/Video/2b739bb3e681e0f47d93f0c505c0b74f11fc8af18504aac5bce6374e2bc1f7a8.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000103775/Video/2b739bb3e681e0f47d93f0c505c0b74f11fc8af18504aac5bce6374e2bc1f7a8.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/21176024",
+          "headerSha256": "253ebd942182033411b26afcd60baa8cf44bea874fcd06f2f80ac8ca8277574e"
+        }
+      }
+    },
+    "external:smash-ultimate": {
+      "error": "Exact product has no video; recommendations are not accepted"
+    },
+    "external:super-mario-bros-wonder": {
+      "video": {
+        "name": "Super Mario Bros.™ Wonder — official product video",
+        "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff.mp4",
+        "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+        "watchUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+        "credit": "Nintendo — exact product gallery",
+        "official": true,
+        "verified": true,
+        "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+        "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+      },
+      "proof": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+        "pageSha256": "8cd38dedfb6b8ae2bd63010f3e445b4d78dc67651af1f74bea752b7289b08b43",
+        "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+        "pageTitle": "Super Mario Bros.™ Wonder for Nintendo Switch - Nintendo Official Site",
+        "productName": "Super Mario Bros.™ Wonder",
+        "sku": "7100068688",
+        "urlKey": "super-mario-bros-wonder-switch",
+        "publicId": "/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000068688/Video/74ce702f5f94723a94e8081534adcc5108b37bbdb59a993a459bba71d30210ff.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/27425195",
+          "headerSha256": "ef78205898067f81e1c135f2b33bc433c57eebefa1e038fb34d5e5ee226dac18"
+        }
+      }
+    },
+    "external:super-mario-3d-world-bowsers-fury": {
+      "video": {
+        "name": "Super Mario™ 3D World + Bowser’s Fury — official product video",
+        "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031.mp4",
+        "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+        "watchUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+        "credit": "Nintendo — exact product gallery",
+        "official": true,
+        "verified": true,
+        "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+        "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+      },
+      "proof": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+        "pageSha256": "33be35065f643bc6eb2486bb414afa1e13c15ed578406e1d05536cad95bb8f8e",
+        "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+        "pageTitle": "Super Mario™ 3D World + Bowser’s Fury for Nintendo Switch - Nintendo Official Site",
+        "productName": "Super Mario™ 3D World + Bowser’s Fury",
+        "sku": "7100034439",
+        "urlKey": "super-mario-3d-world-plus-bowsers-fury-switch",
+        "publicId": "/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000034439/Video/0c41a7bdbdd2fae3998274697bcb3524d4590c7937c13879dca387d7b45d5031.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/24812550",
+          "headerSha256": "1f7789c9dcb568e3d53f7b8f92e5f6a3dd8f06184e35b15814e949a7583780e6"
+        }
+      }
+    },
+    "external:kirby-return-dreamland-deluxe": {
+      "video": {
+        "name": "Kirby’s Return to Dream Land™ Deluxe — official product video",
+        "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f.mp4",
+        "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+        "watchUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+        "credit": "Nintendo — exact product gallery",
+        "official": true,
+        "verified": true,
+        "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+        "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+      },
+      "proof": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+        "pageSha256": "88b6defdd03aa7e05f62f493a06a10a8d1ecdd6dad7861dadb4e9cf7f8cc10be",
+        "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+        "pageTitle": "Kirby’s Return to Dreamland™ Deluxe for the Nintendo Switch system™ – Official Site",
+        "productName": "Kirby’s Return to Dream Land™ Deluxe",
+        "sku": "7100058797",
+        "urlKey": "kirbys-return-to-dream-land-deluxe-switch",
+        "publicId": "/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000058797/Video/463e0db99fb7b5248e5be74afd696bb3879e492b686abc9b36d82a7bab12e00f.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/131610149",
+          "headerSha256": "d2114676955b54d77d98577db3eb8c1219ba4cc8a8a2a2d53f54d90d2a9cd087"
+        }
+      }
+    },
+    "external:kirby-forgotten-land": {
+      "video": {
+        "name": "Kirby™ and the Forgotten Land – Nintendo Switch™ 2 Edition + Star-Crossed World — official product video",
+        "mp4": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14.mp4",
+        "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000096829/0a06bf277f1eb585fcbb7ddeb4f70014fd1c860d326eb33c8accf4d4827ade72",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+        "watchUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+        "credit": "Nintendo — exact product gallery",
+        "official": true,
+        "verified": true,
+        "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+        "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+      },
+      "proof": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+        "pageSha256": "5a8a1e90a4a5b47fe27dd1635d227d04ee7cfe1c161d6df3c3c56f4a6ac14784",
+        "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+        "pageTitle": "Kirby and the Forgotten Land + Star‑Crossed World – Nintendo Switch 2 Edition - Nintendo Official Site",
+        "productName": "Kirby™ and the Forgotten Land – Nintendo Switch™ 2 Edition + Star-Crossed World",
+        "sku": "7100096829",
+        "urlKey": "kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2",
+        "publicId": "/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000096829/Video/26253f556590f7a38fc99056c6501ba51e44905f42c0e8861c32d2f74ff46f14.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/24880991",
+          "headerSha256": "0b7436747926abc20d9919225d5464a828e9124ace51dd42b0906210820c8c49"
+        }
+      }
+    },
+    "external:snipperclips": {
+      "video": {
+        "name": "Snipperclips™ – Cut it out, together!  — official product video",
+        "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000000142/Video/8cdafdb2ed14997d58c13153a70160e699f64301e8b84f2972d492c992564ec5.mp4",
+        "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000142/b692e801076e7a4be1a87a2135d20bc5414b639de0cf1e44e91d67a6ca9f7229",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+        "watchUrl": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+        "credit": "Nintendo — exact product gallery",
+        "official": true,
+        "verified": true,
+        "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+        "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+      },
+      "proof": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+        "pageSha256": "3f7641673a89bb3a249afc86516a46e1de866cdf0212d33f55a526f4558aca71",
+        "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+        "pageTitle": "Snipperclips™ – Cut it out, together!  for Nintendo Switch - Nintendo Official Site",
+        "productName": "Snipperclips™ – Cut it out, together! ",
+        "sku": "7100000142",
+        "urlKey": "snipperclips-cut-it-out-together-switch",
+        "publicId": "/store/software/switch/70010000000142/Video/8cdafdb2ed14997d58c13153a70160e699f64301e8b84f2972d492c992564ec5",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000000142/Video/8cdafdb2ed14997d58c13153a70160e699f64301e8b84f2972d492c992564ec5.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000000142/Video/8cdafdb2ed14997d58c13153a70160e699f64301e8b84f2972d492c992564ec5.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/9795006",
+          "headerSha256": "928481972a7ef022a74a31d7e47c05ce881ddfb4cebb080e709e7ee04d1a9ffa"
+        }
+      }
+    },
+    "external:switch-sports": {
+      "video": {
+        "name": "Nintendo Switch™ Sports — official product video",
+        "mp4": "https://assets.nintendo.com/video/upload/store/software/switch/70010000049931/Video/cff33640f5fceda835728bf283d31aee384c2d7b20c108f6c98d5534ce2e679a.mp4",
+        "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000049931/282ce6a96d5855d8b46aa9316314969f731a26ef9c7b2bc1e5aebe62dcf2ece2",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
+        "watchUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
+        "credit": "Nintendo — exact product gallery",
+        "official": true,
+        "verified": true,
+        "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+        "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+      },
+      "proof": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
+        "pageSha256": "c75f7416beaf8173bd19ff0ca12402b0210a4555bf2fed39f05835c1c6dcb9bb",
+        "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+        "pageTitle": "Nintendo Switch™ Sports for Nintendo Switch - Nintendo Official Site",
+        "productName": "Nintendo Switch™ Sports",
+        "sku": "7100049931",
+        "urlKey": "nintendo-switch-sports-switch",
+        "publicId": "/store/software/switch/70010000049931/Video/cff33640f5fceda835728bf283d31aee384c2d7b20c108f6c98d5534ce2e679a",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch/70010000049931/Video/cff33640f5fceda835728bf283d31aee384c2d7b20c108f6c98d5534ce2e679a.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch/70010000049931/Video/cff33640f5fceda835728bf283d31aee384c2d7b20c108f6c98d5534ce2e679a.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/131660413",
+          "headerSha256": "c0aae714d1ee3511ad6001f4bf60353698e1b0e69508817071d9c1701868e216"
+        }
+      }
+    },
+    "external:orbitals": {
+      "video": {
+        "name": "Orbitals — official product video",
+        "mp4": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000098973/Video/b88e35d01a1011df730eb77521abf49302b685384b2f16cd7660ccb436eb785c.mp4",
+        "poster": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098973/4c02a7ceaaacde0b7f51cde1e58b3b575ff2ed94a7c7530e4631b40d0f26413d",
+        "sourceUrl": "https://www.nintendo.com/us/store/products/orbitals-switch-2/",
+        "watchUrl": "https://www.nintendo.com/us/store/products/orbitals-switch-2/",
+        "credit": "Nintendo — exact product gallery",
+        "official": true,
+        "verified": true,
+        "verifiedAt": "2026-10-24T06:04:27.012442+00:00",
+        "editionNote": "Video belongs to the exact product slug shown in the source; no recommendation-carousel footage is substituted."
+      },
+      "proof": {
+        "sourceUrl": "https://www.nintendo.com/us/store/products/orbitals-switch-2/",
+        "resolvedUrl": "https://www.nintendo.com/us/store/products/orbitals-switch-2/",
+        "pageSha256": "f5674c2a0ecb6ffa3e5184418d78ca1f016553bf888ed1a0ed6d25d698a5d12c",
+        "checkedAt": "2026-10-24T06:04:27.012442+00:00",
+        "pageTitle": "Orbitals – Nintendo Switch 2 Exclusive - Nintendo Official Site",
+        "productName": "Orbitals",
+        "sku": "7100098973",
+        "urlKey": "orbitals-switch-2",
+        "publicId": "/store/software/switch2/70010000098973/Video/b88e35d01a1011df730eb77521abf49302b685384b2f16cd7660ccb436eb785c",
+        "probe": {
+          "url": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000098973/Video/b88e35d01a1011df730eb77521abf49302b685384b2f16cd7660ccb436eb785c.mp4",
+          "resolvedUrl": "https://assets.nintendo.com/video/upload/store/software/switch2/70010000098973/Video/b88e35d01a1011df730eb77521abf49302b685384b2f16cd7660ccb436eb785c.mp4",
+          "status": 206,
+          "contentType": "video/mp4;codecs=avc1",
+          "contentRange": "bytes 0-4095/37226424",
+          "headerSha256": "469cd5245478da3f0d4ce75d60da489299525654f9f23bb7fbd1461b372be049"
+        }
+      }
+    }
+  },
+  "searches": {
+    "external:puff-puff-push": {
+      "query": "Puff Puff Push Typimals game gameplay",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Puff%20Puff%20Push%20Typimals%20game%20gameplay",
+      "results": [
+        {
+          "id": "wURLFmMGSvg",
+          "title": "Puff Puff Trailer (for version 1.0.0 - visit 6thmega.com to see updated imagery)",
+          "author": "6thMega",
+          "length": "1:00"
+        },
+        {
+          "id": "tBKcndTHvl4",
+          "title": "puffies. FULL GAME Walkthrough Gameplay",
+          "author": "Wawaita",
+          "length": "5:32:56"
+        },
+        {
+          "id": "OyndFg2wfCQ",
+          "title": "This game is too easy",
+          "author": "puff puff",
+          "length": "4:33"
+        },
+        {
+          "id": "iETvNBsInzk",
+          "title": "Puff Up - Gameplay Walkthrough Part 1 Tutorial Levels 1-7 (iOS,Android)",
+          "author": "Pryszard Android iOS Gameplays",
+          "length": "11:32"
+        },
+        {
+          "id": "smbQtM4b0Sc",
+          "title": "Surviving Minecraft's HORRIFYING Playmate..",
+          "author": "Puff",
+          "length": "50:36"
+        },
+        {
+          "id": "o4Pyqci_-Os",
+          "title": "Puff Up! - Trailer Gameplay #puff #tapping #gameplay #arcade ",
+          "author": "Puff Up!",
+          "length": "0:26"
+        },
+        {
+          "id": "J6UsYjY4oXA",
+          "title": "Puff Up Gameplay Nintendo Switch",
+          "author": "Gamer Linear",
+          "length": "10:29"
+        },
+        {
+          "id": "xj8Tvl_eBd0",
+          "title": "2 Idiots Survive the Deep Ocean with Thalassophobia",
+          "author": "Puff",
+          "length": "52:48"
+        },
+        {
+          "id": "-9Mk2jfueHw",
+          "title": "Okay... NOW I'm Scared..",
+          "author": "Puff",
+          "length": "57:40"
+        },
+        {
+          "id": "YJLJAbNX9uo",
+          "title": "PuffPals Alpha 1.1 Gameplay – What Happened to This $2.6M Kickstarter?",
+          "author": "Melon and Lemon",
+          "length": "1:00:13"
+        },
+        {
+          "id": "TAcu-3lWV9s",
+          "title": "2 Idiots Survive the Shepherd in Minecraft",
+          "author": "Puff",
+          "length": "43:09"
+        },
+        {
+          "id": "dXXUx5j6Ox0",
+          "title": "NOOB vs PRO vs HACKER PUFF UP",
+          "author": "ProjectJamesify",
+          "length": "16:58"
+        },
+        {
+          "id": "rRuHJb8-bOI",
+          "title": "PEGTURE: Peg Solitaire Roguelike – Official Gameplay Trailer",
+          "author": "Puff Games",
+          "length": "0:41"
+        },
+        {
+          "id": "nQ9L1BeAKfc",
+          "title": "10 Best Non-Pixel Cozy Games",
+          "author": "Games Puff",
+          "length": "3:31"
+        },
+        {
+          "id": "PcvmL-iOHvc",
+          "title": "+1 Pixel Power - Bosses Puffcap and Mudgulp ! - Teaser video",
+          "author": "Rebirth Games",
+          "length": "1:53"
+        }
+      ]
+    },
+    "external:mutiny-bomb": {
+      "query": "MUTINY zsfer local multiplayer bomb game",
+      "sourceUrl": "https://www.youtube.com/results?search_query=MUTINY%20zsfer%20local%20multiplayer%20bomb%20game",
+      "results": [
+        {
+          "id": "ix-fZ1qk0sU",
+          "title": "BOMBSQUAD Local Multiplayer || Gameplay no 4",
+          "author": "PlayMATE",
+          "length": "21:33"
+        },
+        {
+          "id": "vYtLuzm05FA",
+          "title": "💣BOMB SQUAD💥 || GAMEPLAY || LOCAL MULTIPLAYER ||VS COMPUTER ||ZIPPY &ZEE",
+          "author": "MUZIC & GAMEZ LOVER",
+          "length": "5:02"
+        },
+        {
+          "id": "8oGkMQDl49g",
+          "title": "Gameplay;Bombsquad local-multiplayer☺",
+          "author": "vloger EXPLORER",
+          "length": "4:18"
+        },
+        {
+          "id": "AMNS_DH8lTw",
+          "title": "FREE and FUN Game to Play in 2026 BOMBSQUAD - Local Versus Multiplayer",
+          "author": "Coop Local Gaming",
+          "length": "14:48"
+        },
+        {
+          "id": "T-XNchagou8",
+          "title": "Bomb Squad",
+          "author": "FarFromHoom",
+          "length": "2:00"
+        },
+        {
+          "id": "V4ghI7Q9-L0",
+          "title": "Bombsquad | Top offline multiplayer | Family bonding",
+          "author": "Zenychi",
+          "length": "10:36"
+        },
+        {
+          "id": "Ou7q36y7sxY",
+          "title": "Bombsquad PC Multiplayer - Random 4v4 gameplay #1",
+          "author": "KEZÆIV",
+          "length": "1:58:51"
+        },
+        {
+          "id": "mPurcZyJuy4",
+          "title": "3V3 Epic Match In Bomb Squad || Local Multiplayer || Gameplay no 6",
+          "author": "PlayMATE",
+          "length": "14:48"
+        },
+        {
+          "id": "dSgrZmiIoPw",
+          "title": "Bombsquad is FREE! - Learn How to Play Local Multiplayer on PC 2026",
+          "author": "Coop Local Gaming",
+          "length": "15:07"
+        },
+        {
+          "id": "D9Z5hi1CHjE",
+          "title": "How to play BOMB SQUAD with friends | Offline multiplayer game",
+          "author": "critical ISHTI",
+          "length": "0:50"
+        },
+        {
+          "id": "Ipfgo-ixJvA",
+          "title": "Bombsquad: The Ultimate Multiplayer Party Game!",
+          "author": "T-Gaming World",
+          "length": "5:01"
+        },
+        {
+          "id": "YalRrjDmZLw",
+          "title": "THE NEW ROUNDS?! - Bomb Sworders (4-Player Demo Gameplay)",
+          "author": "Stumpt",
+          "length": "18:00"
+        },
+        {
+          "id": "fFkWGmFny6c",
+          "title": "Top 20 Local Multiplayer Games for Android & iOS (2025)",
+          "author": "Odyssey Gaming",
+          "length": "14:41"
+        },
+        {
+          "id": "qXmGEaxZINM",
+          "title": "Multiplayer hotspot Wi-Fi offline game ( bomb squad )",
+          "author": "FF IMPERIAL TIGER",
+          "length": "18:49"
+        },
+        {
+          "id": "ruW_nZk21sw",
+          "title": "Bomb Squad playing with Friends || 4V4 Match || Gameplay no 8",
+          "author": "PlayMATE",
+          "length": "17:42"
+        },
+        {
+          "id": "qJSURYQvfms",
+          "title": "Best #Online and #Offline #Multiplayer Game for #Android | Bomb Squad| Funny Gameplay with Friends#3",
+          "author": "FIFO YT",
+          "length": "8:45"
+        },
+        {
+          "id": "XGCCBJGwtNA",
+          "title": "Bomb Squad How To Play Multiplayer | Update Deep Explained | Rikama San D",
+          "author": "Rikama San D",
+          "length": "9:14"
+        },
+        {
+          "id": "MomSDXkYjpo",
+          "title": "Bomb Squad Mod APK Offline Local Multiplayer Android Game, All Skins Unlocked, Mediafire.",
+          "author": "Find Tricks",
+          "length": "2:39"
+        },
+        {
+          "id": "GIuldoEqg5I",
+          "title": "Bomb squad multiplayer offline game",
+          "author": "Gamerz VS Hackerz",
+          "length": "2:13"
+        },
+        {
+          "id": "mCDeN1qM490",
+          "title": "Bombsquad - multiplayer game for android",
+          "author": "Video Game Testing",
+          "length": "4:53"
+        }
+      ]
+    },
+    "external:duck-cover-2": {
+      "query": "Duck and Cover 2 Siddikinz gameplay",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Duck%20and%20Cover%202%20Siddikinz%20gameplay",
+      "results": [
+        {
+          "id": "LLEJilxUgO0",
+          "title": "Duck and Cover 🦆- How to play board game with tips. Fun and quack party game.",
+          "author": "Meeple University",
+          "length": "6:51"
+        },
+        {
+          "id": "kZI6EdEF08E",
+          "title": "Destroy All Humans Remake Part 15 - Duck And Cover",
+          "author": "JustGaming",
+          "length": "15:50"
+        },
+        {
+          "id": "2GSAqjLu0m4",
+          "title": "PS4 - duck and cover 2 ❰Gameplay Only❱",
+          "author": "CitizenSlug",
+          "length": "1:43:03"
+        },
+        {
+          "id": "Qrrebbu7VYc",
+          "title": "Duck & Cover Review: Rubber Duckie, You're The One",
+          "author": "The Dice Tower",
+          "length": "6:49"
+        },
+        {
+          "id": "kqFQ9ujQxcw",
+          "title": "Destroy All Humans Gameplay Walkthrough Part 7 - Duck and Cover",
+          "author": "Risky Toothpick",
+          "length": "30:49"
+        },
+        {
+          "id": "R4dh85JXM64",
+          "title": "Duck & Cover - GameNight! Se12 Ep42 - How to Play & Playthrough",
+          "author": "BoardGameGeek",
+          "length": "36:13"
+        },
+        {
+          "id": "GfQnKy8EVrg",
+          "title": "How to Play Duck and Cover",
+          "author": "A Bored Gamer",
+          "length": "4:58"
+        },
+        {
+          "id": "w60mzwodJOM",
+          "title": "Duck And Cover (Full FREE Short)",
+          "author": "RiffTrax",
+          "length": "9:32"
+        },
+        {
+          "id": "C3rgXHmYAsk",
+          "title": "How To Play Duck and Cover Card Game Super Easy Guide!",
+          "author": "Game Rules",
+          "length": "8:10"
+        },
+        {
+          "id": "GGx9eOEXjO8",
+          "title": "Dig this! duck and cover level 385-2 gameplay walkthrough Solution",
+          "author": "TOP GAMMER",
+          "length": "1:14"
+        },
+        {
+          "id": "piG4sA6CeMc",
+          "title": "Duck & Cover by Captain Games – How to Play in Under 10 Minutes",
+          "author": "Board Gaming Gators",
+          "length": "6:47"
+        },
+        {
+          "id": "3H7OjvCwkYI",
+          "title": "Duck and Cover",
+          "author": "Dan Jeslis",
+          "length": "3:18"
+        },
+        {
+          "id": "AJFWY9Lq8bI",
+          "title": "Youtube Poop: Duck and Cover 2",
+          "author": "VideoGameNerd777",
+          "length": "4:28"
+        },
+        {
+          "id": "dCNQEepH7dQ",
+          "title": "Board Game Heaven How To Play & Review 266: Duck & Cover",
+          "author": "Board Game Heaven",
+          "length": "9:17"
+        },
+        {
+          "id": "tS_uk1dlyoQ",
+          "title": "Destroy All Humans! Gameplay Mission 14 (Duck and Cover)",
+          "author": "SkyLink",
+          "length": "18:09"
+        },
+        {
+          "id": "GaBYrEHVbcA",
+          "title": "Duck and Cover for the Atari 2600 - Gameplay",
+          "author": "8-Bit Classics",
+          "length": "0:17"
+        },
+        {
+          "id": "6C5-KM8Pmx8",
+          "title": "Duck And Cover",
+          "author": "Lazy Jake Gaming",
+          "length": "13:57"
+        },
+        {
+          "id": "5T3CPDxxf2g",
+          "title": "Duck & Cover: Rules",
+          "author": "Captain Games",
+          "length": "0:56"
+        },
+        {
+          "id": "WV1yTpzf6M0",
+          "title": "Duck and Cover PSA (Modern Warfare 2 Machinima)",
+          "author": "Generalkidd",
+          "length": "5:37"
+        },
+        {
+          "id": "pBdtDK5pQbE",
+          "title": "Dig this! duck and cover level 385-16 gameplay walkthrough Solution",
+          "author": "TOP GAMMER",
+          "length": "1:10"
+        }
+      ]
+    },
+    "external:pshnggg": {
+      "query": "PSHNGGG Zephyrware game",
+      "sourceUrl": "https://www.youtube.com/results?search_query=PSHNGGG%20Zephyrware%20game",
+      "results": [
+        {
+          "id": "6uWUPPGFt-s",
+          "title": "Zephyr (PSN game, Konami)",
+          "author": "auronixpl",
+          "length": "0:44"
+        },
+        {
+          "id": "UjiTlM_u0rQ",
+          "title": "Zephyr: An Anarchist Game Of Fleeting Identities | An RPG Review",
+          "author": "Cozy RPG Reviews",
+          "length": "19:26"
+        },
+        {
+          "id": "KQUPw3dkH0s",
+          "title": "Witchspire's NEW Update Explained! | Weapons, Crafting, Familiars & More",
+          "author": "Rosewisp Gaming",
+          "length": "19:55"
+        },
+        {
+          "id": "uZisjGwm8QU",
+          "title": "Zephyr: Winds of Change (Playthrough Part 1)",
+          "author": "One Stop Co-op Shop",
+          "length": "31:04"
+        },
+        {
+          "id": "OOyWeZg4DA4",
+          "title": "I Went to Portland Retro Gaming Expo So You Don't Have To",
+          "author": "FixIt Zack",
+          "length": "13:56"
+        },
+        {
+          "id": "TdQNjfk8VAg",
+          "title": "They made WC3 custom games into its own game! | Sponsored Procession Engine",
+          "author": "Jorbs",
+          "length": "1:02:45"
+        },
+        {
+          "id": "BbIwPyvLcDA",
+          "title": "You are safe in Puffer Springs. We have an eye on you....",
+          "author": "Jim Ether",
+          "length": "0:24"
+        },
+        {
+          "id": "jpCGr6HS4Ik",
+          "title": "Zephyr's Pass - first 30 mins - new GB 2024 GB game inspired by Link's Awakening, Incube8 Games",
+          "author": "SquallSnake",
+          "length": "33:58"
+        }
+      ]
+    },
+    "external:square-off-shiba": {
+      "query": "Square Off Shiba Dog Studios gameplay",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Square%20Off%20Shiba%20Dog%20Studios%20gameplay",
+      "results": [
+        {
+          "id": "MoLm2nS0hsY",
+          "title": "PLAYING SQUARE OFF LIVE \\\\ Game Dev Live",
+          "author": "Shiba Dog Studios",
+          "length": "2:37:07"
+        },
+        {
+          "id": "GbEQXH6mHHI",
+          "title": "PLAYING THE SQUARE OFF DEMO LIVE!! \\\\ Game Dev Live",
+          "author": "Shiba Dog Studios",
+          "length": "1:49:56"
+        },
+        {
+          "id": "uGAUnOj1VSs",
+          "title": "Finishing my STEAM GAME in ONE MONTH?!?! \\\\ Square Off Devlog #2",
+          "author": "Shiba Dog Studios",
+          "length": "4:33"
+        },
+        {
+          "id": "YFwChesdLCE",
+          "title": "More work on SQUARE OFF \\\\ Game Dev Live",
+          "author": "Shiba Dog Studios",
+          "length": "1:21:57"
+        },
+        {
+          "id": "SNUEW7qeByU",
+          "title": "CREATING NEW LEVELS FOR SQUARE OFF \\\\ Game Dev Live",
+          "author": "Shiba Dog Studios",
+          "length": "1:32:23"
+        },
+        {
+          "id": "iKXUwonoo7k",
+          "title": "Making A Crazy Battle Arena Game \\\\ Square Off Devlog #1",
+          "author": "Shiba Dog Studios",
+          "length": "7:34"
+        },
+        {
+          "id": "yiODbBDQflA",
+          "title": "FINALISING THE FIRST SQUARE OFF DEMO \\\\ Game Dev Live",
+          "author": "Shiba Dog Studios",
+          "length": "1:45:09"
+        },
+        {
+          "id": "T5OMCe1nrzo",
+          "title": "Unity Game Dev Live \\\\ Bug Fixes and Graphics for SQUARE OFF",
+          "author": "Shiba Dog Studios",
+          "length": "1:15:30"
+        },
+        {
+          "id": "yPeYJWf9fdI",
+          "title": "Unity Game Dev Live \\\\ UI and Grass Design for SHEPHERD",
+          "author": "Shiba Dog Studios",
+          "length": "1:45:39"
+        },
+        {
+          "id": "bQPXlCevYww",
+          "title": "Shepherd: A Woolly Tycoon \\\\ August Shiba Games Monthly Announcement",
+          "author": "Shiba Dog Studios",
+          "length": "1:30"
+        },
+        {
+          "id": "6dabJ3yM5_Y",
+          "title": "HD1 RS13 Borgs (Duo) - Square and Lava With 彡软罒",
+          "author": "SomeDoggo",
+          "length": "1:29:34"
+        },
+        {
+          "id": "z5pwyutoHa4",
+          "title": "Giving players CREATIVE FREEDOM in my COZY INDIE GAME \\\\ Game Dev Live",
+          "author": "Shiba Dog Studios",
+          "length": "1:58:09"
+        },
+        {
+          "id": "JkoGfZGOx4w",
+          "title": "#ShibaSaiFilm | The Border Collie - Suzy's Stick Technique",
+          "author": "ShibaSai",
+          "length": "1:31"
+        }
+      ]
+    },
+    "external:duck-and-gun": {
+      "query": "Duck and Gun chelbling game jam",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Duck%20and%20Gun%20chelbling%20game%20jam",
+      "results": [
+        {
+          "id": "ZLmAlLkYCug",
+          "title": "Making of Duck vs Chicken - GMTK Game Jam 2020",
+          "author": "Curious Gamedev",
+          "length": "3:45"
+        },
+        {
+          "id": "awegilW3DTc",
+          "title": "My Favourite Games From GMTK Game Jam 2026",
+          "author": "Game Maker's Toolkit",
+          "length": "20:50"
+        },
+        {
+          "id": "iHKMUqZahPw",
+          "title": "DUCK JAM: THIS GAME IS SWWWWEEETTT!!",
+          "author": "GamingWitJaz",
+          "length": "15:52"
+        },
+        {
+          "id": "PLvvawfy7lQ",
+          "title": "The SKG Game Jam 2026 Trailer",
+          "author": "DVH and 2 more",
+          "length": "1:35"
+        },
+        {
+          "id": "hkbZ381yehQ",
+          "title": "GMTK2026 Game Jam  - Playing & Reviewing YET EVEN MORE Games",
+          "author": "Shrike",
+          "length": "7:48:45"
+        },
+        {
+          "id": "sVHQmNKJnTg",
+          "title": "All The Ducks R Belong To Us!-Duck Jam [Game Jam]",
+          "author": "Late Night Gaming",
+          "length": "4:40"
+        },
+        {
+          "id": "QvlmxY04-oc",
+          "title": "GMTK2026 Game Jam  - Playing & Reviewing EVEN MORE Games",
+          "author": "Shrike",
+          "length": "8:12:47"
+        },
+        {
+          "id": "08O8QRoHtok",
+          "title": "The Game Jam Project That Got Ripped Off By Mobile Games!",
+          "author": "Games Explorer",
+          "length": "0:50"
+        },
+        {
+          "id": "M91-6DchCRo",
+          "title": "Another Absurd Game of Rhymes with Duck",
+          "author": "Vaseline Noodles",
+          "length": "2:18"
+        },
+        {
+          "id": "I4zjosU4mzQ",
+          "title": "Duck Game: Camping Gun Tech",
+          "author": "Sharpclaw",
+          "length": "26:21"
+        },
+        {
+          "id": "lp9j5XMPKPQ",
+          "title": "I Am So Game Jam Pilled",
+          "author": "Jonny RaZeR",
+          "length": "0:46"
+        },
+        {
+          "id": "IEsq813QBXQ",
+          "title": "Duck Match Jam Game Gameplay Android Mobile",
+          "author": "Must Have Games - New Android Gameplay",
+          "length": "1:22"
+        },
+        {
+          "id": "MwZibunevWM",
+          "title": "Game Jam Malware",
+          "author": "Pirate Software",
+          "length": "0:40"
+        },
+        {
+          "id": "f3BqyMdcT_E",
+          "title": "this game sucks... i love it",
+          "author": "Jerbob",
+          "length": "1:00"
+        },
+        {
+          "id": "LEx2kFOKGgM",
+          "title": "Jamference: AI Game Jam Hack Results!",
+          "author": "David Geisert",
+          "length": "3:00"
+        },
+        {
+          "id": "BnD1dCALsDU",
+          "title": "GMTK2026 Game Jam  - Playing & Reviewing So. Many. Games.",
+          "author": "Shrike",
+          "length": "6:47:42"
+        },
+        {
+          "id": "q1DthDLhZhU",
+          "title": "How the Duck Hunt Gun Works (It Can't See the Ducks)",
+          "author": "LFG Games",
+          "length": "0:31"
+        },
+        {
+          "id": "luZrKH6pvUM",
+          "title": "The most absurd game of Rhymes with Duck",
+          "author": "Vaseline Noodles",
+          "length": "2:04"
+        },
+        {
+          "id": "4bfC4KgXyf0",
+          "title": "Making A Game In 4 Days - GMTK Game Jam 2026",
+          "author": "ThatOneTyler",
+          "length": "11:28"
+        },
+        {
+          "id": "2DSrk7WX7ho",
+          "title": "Best Games from the Brackeys Game Jam 2024.2!",
+          "author": "Brackeys",
+          "length": "13:53"
+        }
+      ]
+    },
+    "external:sumaburu": {
+      "query": "Sumaburu JakeyMG gameplay",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Sumaburu%20JakeyMG%20gameplay",
+      "results": [
+        {
+          "id": "-4JkpQ2ufME",
+          "title": "Riptide 2026 - Monte (Game & Watch) Vs. Jakal ( Wolf) Smash Ultimate - SSBU",
+          "author": "VGBootCamp",
+          "length": "20:43"
+        },
+        {
+          "id": "nULpq7xuBgM",
+          "title": "LMBM 2026 - Jahzzo (Ryu) Vs. Monte (Game & Watch) Smash Ultimate - SSBU",
+          "author": "VGBootCamp",
+          "length": "13:40"
+        },
+        {
+          "id": "_l5At3n3jY8",
+          "title": "Kagaribi 13 - Kameme (Sora) Vs. Yuzha (Pikachu) Smash Ultimate - SSBU",
+          "author": "VGBootCamp",
+          "length": "16:21"
+        },
+        {
+          "id": "gm7RcCvcYvI",
+          "title": "I recreated every SMASH ULTIMATE spike with Action Figures ",
+          "author": "Maso777",
+          "length": "8:23"
+        },
+        {
+          "id": "L_f8E2vLHdA",
+          "title": "The Aegis Switcheroo Jablock Combo",
+          "author": "Sillin Vault",
+          "length": "13:22"
+        },
+        {
+          "id": "H4N07PXZzkA",
+          "title": "How A Pocket Wii Fit Trainer Beat the #1 Ranked Player In the World",
+          "author": "LarryLurr",
+          "length": "19:30"
+        },
+        {
+          "id": "fmp7tvWKJQ4",
+          "title": "most unbelievable \"DBZ\" moments in smash ultimate #19",
+          "author": "YEET Smash",
+          "length": "8:12"
+        },
+        {
+          "id": "voaPiMiK6ew",
+          "title": "SSBU Jamage007 (Rob) vs Ignis (ZSS) - Elite Smash Gameplay",
+          "author": "JamageSmash and Jamage007",
+          "length": "14:29"
+        }
+      ]
+    },
+    "external:sumo-dumo": {
+      "query": "Sumo Dumo sparacios game",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Sumo%20Dumo%20sparacios%20game",
+      "results": [
+        {
+          "id": "PBFxsRTLThE",
+          "title": "How to Play Kabuto Sumo",
+          "author": "Bitewing Games",
+          "length": "5:13"
+        },
+        {
+          "id": "Y6DPgGyOTKY",
+          "title": "SUMO -  2 Player Trick Taking Card Game - How to Play & Playthrough",
+          "author": "Big Man Murph Games",
+          "length": "10:09"
+        },
+        {
+          "id": "jS0mi5kw6BY",
+          "title": "A History of the Best Sumo Wrestling Games | Kim Justice",
+          "author": "Kim Justice",
+          "length": "26:46"
+        },
+        {
+          "id": "dve9Fo4irAk",
+          "title": "Style Select: Sumo In Fighting Games",
+          "author": "SugarPunch",
+          "length": "12:37"
+        },
+        {
+          "id": "ZTP1EA8TJjM",
+          "title": "Tsuppari Oozumou - Nintendo/NES",
+          "author": "RetroGames0123",
+          "length": "12:19"
+        },
+        {
+          "id": "006zIBDN1m4",
+          "title": "Let's Play KABUTO SUMO! | Overboard, Episode 38",
+          "author": "Polygon",
+          "length": "34:52"
+        },
+        {
+          "id": "_LTI2hNzrqc",
+          "title": "Sumo: My Favorite Game Mechanism",
+          "author": "Stonemaier Games",
+          "length": "6:14"
+        },
+        {
+          "id": "5_UQrjCTZp4",
+          "title": "Kabuto Sumo Dice - Teach & Playthrough",
+          "author": "Before You Play",
+          "length": "25:48"
+        },
+        {
+          "id": "w45SZHhtf40",
+          "title": "Tsuppari Oozumou (Famicom) - Bumping Pro Sumo",
+          "author": "Famicom Dojo",
+          "length": "8:17"
+        },
+        {
+          "id": "YDplBskz9w0",
+          "title": "Kabuto Sumo Dice - How to play in 5 minutes!",
+          "author": "Allplay",
+          "length": "4:34"
+        }
+      ]
+    },
+    "external:supertuxkart": {
+      "query": "SuperTuxKart official trailer 1.5",
+      "sourceUrl": "https://www.youtube.com/results?search_query=SuperTuxKart%20official%20trailer%201.5",
+      "results": [
+        {
+          "id": "H1Lo7PlTGBk",
+          "title": "SuperTuxKart 1.5 official trailer",
+          "author": "SuperTuxKart",
+          "length": "1:48"
+        },
+        {
+          "id": "6m4-f6AbdEg",
+          "title": "SuperTuxKart 1.5 Unofficial Trailer !!!",
+          "author": "Linux4all",
+          "length": "2:16"
+        },
+        {
+          "id": "Lm1TFDBiIIg",
+          "title": "SuperTuxKart 1.0 Official Trailer",
+          "author": "SuperTuxKart",
+          "length": "1:29"
+        },
+        {
+          "id": "7-8RNTUjBBY",
+          "title": "FOSS Gaming - Super Tux Kart SuperTuxKart 1.5 official trailer ",
+          "author": "NURAIN GAMERZ",
+          "length": "5:27"
+        },
+        {
+          "id": "aGtwGf_W58I",
+          "title": "Open Source kart game SuperTuxKart 1.5 has improved graphics and kart physics",
+          "author": "Onthim Gaming HDR",
+          "length": "13:33"
+        },
+        {
+          "id": "BL-D_WboBo0",
+          "title": "SuperTuxKart 1.5 Is Now Out",
+          "author": "Joku Games",
+          "length": "2:17"
+        },
+        {
+          "id": "s5hf9p0MaM0",
+          "title": "SuperTuxKart 1.5 - XR591 1:34.671 [FWR]",
+          "author": "TP9 ",
+          "length": "1:48"
+        },
+        {
+          "id": "tzTJgzzymBs",
+          "title": "SuperTuxKart Evolution - Early access tracks revealed",
+          "author": "SuperTuxKart",
+          "length": "1:41"
+        },
+        {
+          "id": "_kNtEKfN4Hg",
+          "title": "SuperTuxKart 1.2 trailer",
+          "author": "SuperTuxKart",
+          "length": "1:28"
+        },
+        {
+          "id": "UIsnQYP6v1A",
+          "title": "SuperTuxKart 1.5 - Northern Resort in 1:26.419 (Former WR)",
+          "author": "gluteqSTK",
+          "length": "1:44"
+        },
+        {
+          "id": "WutAN4i98_o",
+          "title": "SuperTuxKart 0.8.1 trailer",
+          "author": "SuperTuxKart",
+          "length": "2:32"
+        },
+        {
+          "id": "tKD3aWJDg3M",
+          "title": "SuperTuxKart 0.9.1 gift package official trailer",
+          "author": "SuperTuxKart",
+          "length": "1:13"
+        },
+        {
+          "id": "ef9vYcuEDL4",
+          "title": "SuperTuxKart 1.3 trailer",
+          "author": "SuperTuxKart",
+          "length": "1:05"
+        },
+        {
+          "id": "0FEwDH7XU9Q",
+          "title": "SuperTuxKart 0.9 Official Trailer",
+          "author": "SuperTuxKart",
+          "length": "2:08"
+        },
+        {
+          "id": "ev8Zltau4zw",
+          "title": "SuperTuxKart 0.9.2 Copa Antarctica Official Trailer",
+          "author": "SuperTuxKart",
+          "length": "1:39"
+        },
+        {
+          "id": "ISExmVkwHWs",
+          "title": "SuperTuxKart 1.5 | Space Cake Egg Hunt - 0:09.883 [WR]",
+          "author": "Xue STK",
+          "length": "0:22"
+        },
+        {
+          "id": "CgW-8tv3ddw",
+          "title": "SuperTuxKart 1.5 - XR591 in 1:34.804 (Former WR)",
+          "author": "gluteqSTK",
+          "length": "1:53"
+        },
+        {
+          "id": "1kTI3eWTTvw",
+          "title": "SuperTuxKart 1.5 - Northern Resort 1:26.105 [WR]",
+          "author": "TP9 ",
+          "length": "1:43"
+        },
+        {
+          "id": "ZXv9SWDOg_M",
+          "title": "SuperTuxKart 1.5 - Fart Magma in 1:20.548 (World Record)",
+          "author": "gluteqSTK",
+          "length": "1:34"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "-Pnl_EEaX-M": {
+      "title": "Underhanded Combat trailer",
+      "author_name": "xxx_the-wild-unicorn_xxx",
+      "author_url": "https://www.youtube.com/@xxx_the-wild-unicorn_xxx2478",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/-Pnl_EEaX-M/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/-Pnl_EEaX-M?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Underhanded Combat trailer\"></iframe>"
+    },
+    "tzTJgzzymBs": {
+      "title": "SuperTuxKart Evolution - Early access tracks revealed",
+      "author_name": "SuperTuxKart",
+      "author_url": "https://www.youtube.com/@SuperTuxKartOfficial",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/tzTJgzzymBs/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/tzTJgzzymBs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"SuperTuxKart Evolution - Early access tracks revealed\"></iframe>"
+    },
+    "H1Lo7PlTGBk": {
+      "title": "SuperTuxKart 1.5 official trailer",
+      "author_name": "SuperTuxKart",
+      "author_url": "https://www.youtube.com/@SuperTuxKartOfficial",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/H1Lo7PlTGBk/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/H1Lo7PlTGBk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"SuperTuxKart 1.5 official trailer\"></iframe>"
+    },
+    "9TxEQnkoI9U": {
+      "title": "SuperTuxKart Evolution - Transforming Candela City into our best track",
+      "author_name": "SuperTuxKart",
+      "author_url": "https://www.youtube.com/@SuperTuxKartOfficial",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/9TxEQnkoI9U/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/9TxEQnkoI9U?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"SuperTuxKart Evolution - Transforming Candela City into our best track\"></iframe>"
+    }
+  },
+  "sourcePages": {
+    "https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-12": {
+      "url": "https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-12",
+      "title": "The Jackbox Party Pack 12 | Jackbox Games",
+      "text": "The Jackbox Party Pack 12 | Jackbox Games Games How To Play Company Support Shop The Jackbox Party Pack 12 Get it on Steam €29.99 Add to cart Also available for… Nintendo Switch $29.99 Xbox $29.99 Playstation $29.99 Steam $29.99 Epic Games Store $29.99 Humble Bundle $29.99 About the pack Escape the ordinary with The Jackbox Party Pack 12! Embark on a party adventure with goofy greetings in We Forgot a Card, wild image warping in Hyperface, absurd arguments in Debate and Switch, team-based fact battles in Idol Factions, and mind-melding friendship in MegaPals. Featuring 5 original titles Fill-In-The-Blank 3 - 8 Players 15 Min A mind-melding game that celebrates friends both old and new! See how connected you are with your pals through impulsive wordsmithing and explosive match-ups. How well do you know how your fellow players think? Learn More Drawing 3 - 8 Players 15 Min A game where you take selfies or use stock photos and warp them in wild ways in order to respond to bizarre prompts like “your face when you’ve just seen a bear.” Smudge, yank, squash, and draw on photos to create one-of-a-kind masterpieces meant to be shared! Learn More Writing 3 - 8 Players 20 Min A game where you craft ridiculous greeting cards for weird occasions with the option to purchase them IRL. You’re running late to your big event and you stumbled upon a shop with limited options. Time to get creative! Learn More Trivia 2 - 8 Players 15 Min An action-packed battle of facts where two teams race to sort answers into the right categories. You'll need to think fast and yell loudly to sort the answers that just keep coming! Learn More Presentation 2 - 8 Players 15 Min A game of dispute and discussion where light-hearted topics meet lively debate. Persuade your fellow players to side with your silly and strongly held opinions in this town hall talk-’em-up tourney! Learn More Specifications Player Count Ranging between 2 - 8 players Duration Ranging between 15 - 20 minutes Game Types Fill-In-The-Blank, Writing, Drawing, Trivia, Teamwork, Strategy, Co-op, Presentation, Speaking, Voting Family Friendly Setting Optional Moderation Settings Audience play-along Up to 10,000 participants Get it on Steam €29.99 Add to cart View all storefronts JOIN THE NEWSLETTER The latest news, events, and laughs from Jackbox Games, straight to your inbox. Subscribe Facebook Instagram Reddit TikTok Twitter Youtube © Copyright 2026 Jackbox Games. All rights reserved. Terms of Service Privacy Policy Change Cookie Preferences",
+      "links": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/the-jackbox-party-pack-12-switch",
+          "text": "Nintendo Switch $29.99"
+        },
+        {
+          "url": "https://www.xbox.com/en-us/games/store/the-jackbox-party-pack-12/9NSL3HH3H023",
+          "text": "Xbox $29.99"
+        },
+        {
+          "url": "https://store.steampowered.com/app/4199960/the_jackbox_party_pack_12",
+          "text": "Steam $29.99"
+        },
+        {
+          "url": "https://store.epicgames.com/en-US/p/the-jackbox-party-pack-12-ecd7c0",
+          "text": "Epic Games Store $29.99"
+        },
+        {
+          "url": "https://www.humblebundle.com/store/the-jackbox-party-pack-12",
+          "text": "Humble Bundle $29.99"
+        },
+        {
+          "url": "https://www.jackboxgames.com/games/the-jackbox-party-pack-12/megapals",
+          "text": "Learn More"
+        },
+        {
+          "url": "https://www.jackboxgames.com/games/the-jackbox-party-pack-12/hyperface",
+          "text": "Learn More"
+        },
+        {
+          "url": "https://www.jackboxgames.com/games/the-jackbox-party-pack-12/we-forgot-a-card",
+          "text": "Learn More"
+        },
+        {
+          "url": "https://www.jackboxgames.com/games/the-jackbox-party-pack-12/idol-factions",
+          "text": "Learn More"
+        },
+        {
+          "url": "https://www.jackboxgames.com/games/the-jackbox-party-pack-12/debate-and-switch",
+          "text": "Learn More"
+        },
+        {
+          "url": "https://www.instagram.com/playjackboxgames/",
+          "text": "Instagram"
+        },
+        {
+          "url": "https://www.reddit.com/r/jackboxgames/",
+          "text": "Reddit"
+        },
+        {
+          "url": "https://www.tiktok.com/@playjackboxgames",
+          "text": "TikTok"
+        },
+        {
+          "url": "https://twitter.com/jackboxgames",
+          "text": "Twitter"
+        },
+        {
+          "url": "https://www.youtube.com/jackboxgames",
+          "text": "Youtube"
+        }
+      ]
+    },
+    "https://www.jackboxgames.com/blog/the-jackbox-party-pack-12-is-available-now-on-major-platforms": {
+      "url": "https://www.jackboxgames.com/blog/the-jackbox-party-pack-12-is-available-now-on-major-platforms",
+      "title": "The Jackbox Party Pack 12 is Available Now on Major Platforms | Jackbox Games",
+      "text": "The Jackbox Party Pack 12 is Available Now on Major Platforms | Jackbox Games Games How To Play Company Support Shop Blog October 15, 2026 | Jackbox Games The Jackbox Party Pack 12 is Available Now on Major Platforms Jackbox Games today ushered in a brand-new era of partying with the newest entry in the legendary Jackbox Party Pack series - The Jackbox Party Pack 12 . Prove your friendships, show off those debate skills, be the loudest in the most chaotic trivia game out there and make sure your parties are unforgettable - Party Pack 12 is available on PC ( Steam and Epic Games Store ), PlayStation 5 , XBOX Series X|S , and Nintendo Switch for $29.99. The Jackbox Party Pack 12 ’s icebreaking, crowdpleasing goofs are enjoyable and approachable by party animals of all skill levels, all you need is a phone to join the fun. Connect with loved ones and new friends alike for low-stakes hilarity suited to bring any room of people out of their shells for game nights, holidays or everyday hangouts. The Jackbox Party Pack 12 features five all-new games for 2-8 players: We Forgot a Card (Design, Joke-Writing): A game where you craft ridiculous greeting cards for weird occasions with the option to purchase them IRL. You’re running late to your big event and you stumbled upon a shop with limited options. Time to get creative. MegaPals (Speed, Guessing): A mind-melding game that celebrates friends both old and new. See how connected you are with your pals through impulsive wordsmithing and explosive match-ups. How well do you know how your fellow players think? Debate and Switch (Presentation, Head-to-Head): A game of dispute and discussion where both simple and outlandish topics meet lively debate. Persuade your fellow players to side with your silly and strongly held opinions, that you are of course correct about, in this town hall talk-’em-up tourney. Idol Factions (Teamwork, Trivia): An action-packed battle of facts where two teams race to sort answers into the right categories. You'll need to think fast and yell loudly to sort the answers that just keep coming. Hyperface (Head-to-Head, Photoediting): A game where you take selfies or use stock photos and warp them in wild ways in order to respond to bizarre prompts like “your face when you’ve just seen a bear.” Smudge, yank, squash and draw on photos to create one-of-a-kind masterpieces meant to be shared. JOIN THE NEWSLETTER The latest news, events, and laughs from Jackbox Games, straight to your inbox. Subscribe Facebook Instagram Reddit TikTok Twitter Youtube © Copyright 2026 Jackbox Games. All rights reserved. Terms of Service Privacy Policy Change Cookie Preferences",
+      "links": [
+        {
+          "url": "https://store.steampowered.com/app/4199960/The_Jackbox_Party_Pack_12",
+          "text": "Steam"
+        },
+        {
+          "url": "https://store.epicgames.com/p/the-jackbox-party-pack-12-ecd7c0",
+          "text": "Epic Games Store"
+        },
+        {
+          "url": "https://www.xbox.com/en-us/games/store/the-jackbox-party-pack-12/9nsl3hh3h023",
+          "text": "XBOX Series X|S"
+        },
+        {
+          "url": "https://www.nintendo.com/us/store/products/the-jackbox-party-pack-12-switch/",
+          "text": "Nintendo Switch"
+        },
+        {
+          "url": "https://www.instagram.com/playjackboxgames/",
+          "text": "Instagram"
+        },
+        {
+          "url": "https://www.reddit.com/r/jackboxgames/",
+          "text": "Reddit"
+        },
+        {
+          "url": "https://www.tiktok.com/@playjackboxgames",
+          "text": "TikTok"
+        },
+        {
+          "url": "https://twitter.com/jackboxgames",
+          "text": "Twitter"
+        },
+        {
+          "url": "https://www.youtube.com/jackboxgames",
+          "text": "Youtube"
+        }
+      ]
+    },
+    "https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-11": {
+      "url": "https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-11",
+      "title": "The Jackbox Party Pack 11 | Jackbox Games",
+      "text": "The Jackbox Party Pack 11 | Jackbox Games Games How To Play Company Support Shop The Jackbox Party Pack 11 Get it on Steam €29.99 Add to cart Also available for… Nintendo Switch $29.99 Xbox $22.49 Playstation $29.99 Steam $29.99 Apple TV & iPad $29.99 Epic Games Store $29.99 Humble Bundle $29.99 About the pack The pack is back! The Jackbox Party Pack 11 transports your game night with 5 new games! Destroy wholesome jokes in Doominate, record your voice in Hear Say, create kookiness in Cookie Haus, sleuth through social clues in Suspectives, and collaborate with your crew in Legends of Trivia! Featuring 5 original titles Deception 4 - 8 Players 15 Min There’s been a crime, one player secretly did it, and the evidence comes from your own survey answers! Study the clues, defend your innocence (even if you’re lying), and put your friends on trial. Watch Trailer Learn More Writing 3 - 8 Players 20 Min Take a perfectly lovely situation and destroy it in this head-to-head joke game where it feels so good to be so bad. Watch Trailer Learn More Trivia 1 - 6 Players 20 Min Assemble your team and put your trivia knowledge to the test in a fantastical world full of danger! Teamwork! Monsters! Do you dare take on one of the most challenging trivia games yet? Watch Trailer Learn More Drawing 3 - 8 Players 20 Min Play our coziest and kookiest drawing game yet by fulfilling cookie design orders for unusual clientele. Don’t play on an empty stomach! Watch Trailer Learn More Sound 2 - 8 Players 15 Min Record sound effects and dialogue directly from your phone in a foley-inspired game where laughter is the soundtrack. Then, watch your voices come to life in a series of short movie clips! Watch Trailer Learn More Specifications Player Count Ranging between 1 - 8 players Duration Ranging between 15 - 20 minutes Game Types Deception, Writing, Trivia, Drawing, Sound Family Friendly Setting Optional Moderation Settings Audience play-along Up to 10,000 participants Get it on Steam €29.99 Add to cart View all storefronts JOIN THE NEWSLETTER The latest news, events, and laughs from Jackbox Games, straight to your inbox. Subscribe Facebook Instagram Reddit TikTok Twitter Youtube © Copyright 2026 Jackbox Games. All rights reserved. Terms of Service Privacy Policy Change Cookie Preferences",
+      "links": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/the-jackbox-party-pack-11-switch",
+          "text": "Nintendo Switch $29.99"
+        },
+        {
+          "url": "https://www.xbox.com/en-us/games/store/the-jackbox-party-pack-11/9PJWRQRJTHNT",
+          "text": "Xbox $22.49"
+        },
+        {
+          "url": "https://store.steampowered.com/app/3364070/the_jackbox_party_pack_11",
+          "text": "Steam $29.99"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/the-jackbox-party-pack-11/id6751423687",
+          "text": "Apple TV & iPad $29.99"
+        },
+        {
+          "url": "https://store.epicgames.com/en-US/p/the-jackbox-party-pack-11-837a05",
+          "text": "Epic Games Store $29.99"
+        },
+        {
+          "url": "https://www.humblebundle.com/store/the-jackbox-party-pack-11",
+          "text": "Humble Bundle $29.99"
+        },
+        {
+          "url": "https://www.jackboxgames.com/games/the-jackbox-party-pack-11/suspectives",
+          "text": "Learn More"
+        },
+        {
+          "url": "https://www.jackboxgames.com/games/the-jackbox-party-pack-11/doominate",
+          "text": "Learn More"
+        },
+        {
+          "url": "https://www.jackboxgames.com/games/the-jackbox-party-pack-11/legends-of-trivia",
+          "text": "Learn More"
+        },
+        {
+          "url": "https://www.jackboxgames.com/games/the-jackbox-party-pack-11/cookie-haus",
+          "text": "Learn More"
+        },
+        {
+          "url": "https://www.jackboxgames.com/games/the-jackbox-party-pack-11/hear-say",
+          "text": "Learn More"
+        },
+        {
+          "url": "https://www.instagram.com/playjackboxgames/",
+          "text": "Instagram"
+        },
+        {
+          "url": "https://www.reddit.com/r/jackboxgames/",
+          "text": "Reddit"
+        },
+        {
+          "url": "https://www.tiktok.com/@playjackboxgames",
+          "text": "TikTok"
+        },
+        {
+          "url": "https://twitter.com/jackboxgames",
+          "text": "Twitter"
+        },
+        {
+          "url": "https://www.youtube.com/jackboxgames",
+          "text": "Youtube"
+        }
+      ]
+    },
+    "https://store.steampowered.com/news/posts/?appgroupname=biped&appids=1071870&enddate=1740740547&feed=steam_community_announcements": {
+      "url": "https://store.steampowered.com/news/posts/?appgroupname=biped&appids=1071870&enddate=1740740547&feed=steam_community_announcements",
+      "title": "",
+      "text": "Feb 10, 2025 Biped 2 DEMO is live now Biped Hey adventurers. We are happy to announce that Biped 2 DEMO is live now on Steam. Make sure to try it out alone or with one or three friends in Local or Online COOP. We really hope that you will like it. What content is available in the DEMO: 7 Single Player levels 7 2-player COOP levels 1 4-player COOP levels Tons of fun, new mechanics, and new bioms. Please, share your thoughts via the survey link inside the game or use Steam and Discord. And invite your friends - the DEMO is free! See you there! https://store.steampowered.com/app/3453220/Biped_2_Demo Share: Feb 7, 2025 Biped 2 DEMO is Coming on February 10 Biped Dear adventurers, We are happy to announce that we plan to launch the DEMO version of Biped 2 on February 10th, 2025. You can try the first 6 levels in COOP and Single Player and even a 4-player COOP level in both local and Online formats! We will happily see you playing and sharing your thoughts and ideas. Moreover, we specially left all the levels open so that you could try them all in any order that is relevant to you! What an exciting moment is coming. Book the date, share it with your friends, and see you on a wishlist! https://store.steampowered.com/app/2560240/Biped_2/ https://store.steampowered.com/app/3453220/Biped_2_Demo/ Share: Feb 6, 2025 Server problems in online COOP Biped Dear Adventurers, This is a short notice just to inform you that Photon Services (online server solution) is experiencing issues with the connection. The team is working on fixing it already and the Online COOP should be stable soon. We are sorry for such an issue to happen and hope that everything will be solved soon. It shouldn't take more than a few hours. Thanks for understanding. Share: Dec 28, 2024 Merry Xmas and Happy New Year! Biped Dear adventurers! We wish you the most wonderful winter holidays!  May the new year bring you new exciting opportunities, your faithful friends will always be by your side, and all the hardships will be just fun challenges! See you in 2025! Share: Dec 26, 2024 Biped 2: Dev Diary. Part 4 Biped Dear adventurers, We’re back with more info on the features and game mechanics of Biped 2. You’ll be able to see them for yourself very soon, but for now, we'd like to tell you more about what we have in store for you. The Brave Four Just like with the first installment of the franchise, one of the main features of Biped 2 is its co-op mode. After all, it’s a lot easier and more fun to overcome challenges when you’re teamed up with a friend. But this time around, we’ve made some tweaks and changes to the mode to make it even more exciting. So get your friends together and get ready for four-player mode! You can play online or share a single screen using four controllers — whatever you prefer. And if you'd rather use keyboard and mouse controls, we’ve got you covered too — Biped 2 will allow one player to use PC controls while the other three use gamepads. If you’ve played the first Biped in two-player co-op mode, you’ll be familiar with most of the features on offer here. For example, all four players will see each other on the same screen in real-time, and they’ll have to stick together to beat each level. But there’s new stuff too! We’ve carefully updated the game's levels and mechanics to make sure that four-player teams have a seamless experience. These updates include new visuals for some levels and slightly tweaked rules for certain gameplay mechanics. It's all designed to keep your adventure fun and easy to navigate. Element(al)s of Surprise In the first Biped, you might have encountered robots that looked a good bit like the two main characters. In Biped 2, your potential companions include elementals, beings that can either help you traverse the levels or get in your way. There are fire, water, earth, and air elementals, and you'll find lots of ways to interact with them. For example, one thing you can do is… Get them all rolling! Adventurers will come across special elemental “buckets” with a mark on them telling you how many elementals need to be put inside. Catch the element-based creatures and put them in the buckets to clear the way. And don’t worry, they aren't the type to hold a grudge — even if you throw them around or give them a good kick. Many of the game's mechanics actually require you to move elementals in a certain direction. Combine and Conquer Sometimes, adventurers might need something special. A gust of wind to carry them far, far away? A stone platform hovering over a gaping chasm? That’s where elementals come in handy. Look for special machines to help you combine elemental powers, then stock them with the elementals you’ve captured. Fire and water will create a strong gust of wind, water, and earth will make a sticky mud platform, and two earth elementals together will make a nice stone platform. It's like magic! Containing the Elements There are elemental enclosures scattered throughout the game. You’ll need to fill them to progress through a given level. The enclosures say exactly how many elementals of a certain type you need but be warned: Catching elementals can be a bit like herding cats since some of them will try to escape by moving in the opposite direction. Teamwork is key here! That’s all we've got to share about Biped 2 for today. What do you think of the new and improved mechanics? We’d love to hear from you. See you later, non-quadrupeds! https://store.steampowered.com/app/2560240/Biped_2/ Share: Nov 29, 2024 Update 2.6 is live for Biped Biped Dear Bipedals. We are happy to present an update 2.6 for Biped. What was changed: Fixed an issue with the wrong Pro Level in the Single Player campaign Fixed issues with the controller (2 controllers were recognized as 1) Fixed achievement issue (pass all levels) Improved Online COOP performance Also, we are happy to announce the updated social networks that might help you with your questions about the game and help you communicate with each other (for example in your search for a partner for COOP). You could easily reach us and the community of the game via the Steam forum or the following socials: https://x.com/_Biped - Twitter https://www.reddit.com/r/Biped/ - Reddit https://discord.gg/Skwk6bqG5B - DIscord https://www.youtube.com/@metapublishing/ - Youtube channel We will be happy to help you out with your questions there. Biped - connecting people :) P.S. Don't forget to wishlist Biped 2 as we plan to have a closed Alpha-test next year: https://store.steampowered.com/app/2560240/Biped_2/ Share: Oct 15, 2024 Play with your Nintendo Switch friends in an online COOP. Biped Dear adventurers, We are happy to inform you that you can now play online COOP with your friends from Nintendo Switch WORLDWIDE. There is no need to be on the same device anymore - choose your region on both Nintendo and PC (or any other console) and play together in an online session. https://www.nintendo.com/us/store/products/biped-switch/ We will continue adding improvements to the game. See you bipedal! Share: Sep 25, 2024 Biped 2 Dev Diary. P2 Biped Hey there, adventurers  ! We've got another update on the upcoming game Biped 2. Today we’re going to show you a selection of new game mechanics. You’ll face plenty of unfamiliar obstacles and dangers, but don’t worry! You’re definitely equipped to meet these challenges in co-op or single-player mode. 1.\tSwinging Balls Swinging balls are an obstacle you’ll have to evade. Every ball swings at the same pace, but in order to slip past one, you’ll need to plot your trajectory with great precision. Adventurers might find themselves on rough terrain that hinders their movement, but if you work together, you can power through. 2.\tMove and Freeze Some of you might find this mechanic familiar from party games you played as kids. Adventurers will have to make their way past hovering air elementals. As soon as any adventurer enters the area underneath an elemental, they’ll have a few seconds to freeze in their tracks. A special timer will indicate the remaining time.  If an adventurer fails to freeze fast enough, they will be teleported back to the start of the level. Sentinel Elementals may be positioned differently, flanking the platform the adventurers are trying to traverse. When this happens, the \"freezing zone\" will be rectangular rather than circular. Aside from that, the mechanic remains the same: just freeze before time runs out! 3.\tTornado Tornadoes occasionally appear on a level, threatening to trap an adventurer inside. To get out of a tornado, move your feet while facing away from the center of the tornado, or else turbulence will launch you in a random direction. 4.\tFloors and Ceilings In order to traverse this portion of the level, adventurers will have to use sticky platforms located above and below them. Naturally, aside from agility, they’ll also need teamwork — one adventurer will serve as the team’s \"legs,\" walking on the platform, leaving the other free to pick up and interact with items. But be careful — whenever the \"floor\" and \"ceiling\" switch places, the adventurers' will instantly be reversed. That’s all for now! Stay tuned, and be sure to wishlist Biped 2! We’ll be back soon with more details about your upcoming adventures. See you later, bipeds! https://store.steampowered.com/app/2560240/Biped_2/ Share: Sep 18, 2024 Small COOP update Biped Hi adventurers, A small update for the Chinese players: we have fixed the online COOP part. There might still be an issue when you turn back to the Main Menu and try to start an Online COOP once again - but please, simply re-launch the game and you will be good. We keep on tracking if any other issues occur and will update the game respectively. Thanks for waiting for the fix and hope that you will be able to enjoy the updated version now. Also, we have released a new Dev Diary and updated Biped 2 page. Time to check it out: https://store.steampowered.com/app/2560240/Biped_2/ All the best. Share: Sep 13, 2024 Update 2.0 has arrived Biped Dear adventurers, Hope you are feeling great. We are here with great news. We have prepared a special update for you. The following parts were updated: •\tIncreased network stability and moved to the updated SDK version of Photon. •\tUpdated Unity engine that positively influenced the performance of the game. •\tUpdated controller applet to ensure stability of the controller’s usage. We have also updated Play Station and Xbox builds to assure you all get the updates. Nintendo version will get the Online COOP update later in October 2024 (passing the LotCheck). Moreover, we are working on PS5 version of the game so soon you will be able to get a free update for PS5! Also, we will release a new Dev Diary for Biped 2 next week. We will show you several new mechanics and present the milestones delivery plan so that you were inform when you could first try the new game and the new mechanics. Meanwhile, please, don’t forget to wishlist Biped 2 and follow the page on Steam to never miss the special information and the playtest announcement. https://store.steampowered.com/app/2560240/Biped_2/ Hope that you will have less issues with the game and will enjoy the gameplay. See you in Biped! Share: ...",
+      "links": [
+        {
+          "url": "https://store.steampowered.com/app/3453220/Biped_2_Demo",
+          "text": "https://store.steampowered.com/app/3453220/Biped_2_Demo"
+        },
+        {
+          "url": "http://twitter.com/home?source=steampowered.com&status=From%20@steam:%20https%3A%2F%2Fsteamstore-a.akamaihd.net%2Fnews%2Fexternalpost%2Fsteam_community_announcements%2F1790848102755650",
+          "text": ""
+        },
+        {
+          "url": "https://store.steampowered.com/app/2560240/Biped_2/",
+          "text": "https://store.steampowered.com/app/2560240/Biped_2/"
+        },
+        {
+          "url": "https://store.steampowered.com/app/3453220/Biped_2_Demo/",
+          "text": "https://store.steampowered.com/app/3453220/Biped_2_Demo/"
+        },
+        {
+          "url": "http://twitter.com/home?source=steampowered.com&status=From%20@steam:%20https%3A%2F%2Fsteamstore-a.akamaihd.net%2Fnews%2Fexternalpost%2Fsteam_community_announcements%2F1790848102653886",
+          "text": ""
+        },
+        {
+          "url": "http://twitter.com/home?source=steampowered.com&status=From%20@steam:%20https%3A%2F%2Fsteamstore-a.akamaihd.net%2Fnews%2Fexternalpost%2Fsteam_community_announcements%2F1790848102622812",
+          "text": ""
+        },
+        {
+          "url": "http://twitter.com/home?source=steampowered.com&status=From%20@steam:%20https%3A%2F%2Fsteamstore-a.akamaihd.net%2Fnews%2Fexternalpost%2Fsteam_community_announcements%2F1786573930910693",
+          "text": ""
+        },
+        {
+          "url": "https://store.steampowered.com/app/2560240/Biped_2/",
+          "text": "https://store.steampowered.com/app/2560240/Biped_2/"
+        },
+        {
+          "url": "http://twitter.com/home?source=steampowered.com&status=From%20@steam:%20https%3A%2F%2Fsteamstore-a.akamaihd.net%2Fnews%2Fexternalpost%2Fsteam_community_announcements%2F1786573930850044",
+          "text": ""
+        },
+        {
+          "url": "https://www.youtube.com/@metapublishing/",
+          "text": "https://www.youtube.com/@metapublishing/"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2560240/Biped_2/",
+          "text": "https://store.steampowered.com/app/2560240/Biped_2/"
+        },
+        {
+          "url": "http://twitter.com/home?source=steampowered.com&status=From%20@steam:%20https%3A%2F%2Fsteamstore-a.akamaihd.net%2Fnews%2Fexternalpost%2Fsteam_community_announcements%2F1784506359051639",
+          "text": ""
+        },
+        {
+          "url": "http://twitter.com/home?source=steampowered.com&status=From%20@steam:%20https%3A%2F%2Fsteamstore-a.akamaihd.net%2Fnews%2Fexternalpost%2Fsteam_community_announcements%2F6211118320241941192",
+          "text": ""
+        },
+        {
+          "url": "https://store.steampowered.com/app/2560240/Biped_2/",
+          "text": "https://store.steampowered.com/app/2560240/Biped_2/"
+        },
+        {
+          "url": "http://twitter.com/home?source=steampowered.com&status=From%20@steam:%20https%3A%2F%2Fsteamstore-a.akamaihd.net%2Fnews%2Fexternalpost%2Fsteam_community_announcements%2F6339469370178674790",
+          "text": ""
+        },
+        {
+          "url": "https://store.steampowered.com/app/2560240/Biped_2/",
+          "text": "https://store.steampowered.com/app/2560240/Biped_2/"
+        },
+        {
+          "url": "http://twitter.com/home?source=steampowered.com&status=From%20@steam:%20https%3A%2F%2Fsteamstore-a.akamaihd.net%2Fnews%2Fexternalpost%2Fsteam_community_announcements%2F6341720536499401192",
+          "text": ""
+        },
+        {
+          "url": "https://store.steampowered.com/app/2560240/Biped_2/",
+          "text": "https://store.steampowered.com/app/2560240/Biped_2/"
+        },
+        {
+          "url": "http://twitter.com/home?source=steampowered.com&status=From%20@steam:%20https%3A%2F%2Fsteamstore-a.akamaihd.net%2Fnews%2Fexternalpost%2Fsteam_community_announcements%2F6250522009516760151",
+          "text": ""
+        },
+        {
+          "url": "https://store.steampowered.com/news/posts/?feed=steam_community_announcements&appids=1071870&enddate=1726232441",
+          "text": "..."
+        }
+      ]
+    },
+    "https://supertuxkart.net/FAQ": {
+      "url": "https://supertuxkart.net/FAQ",
+      "title": "FAQ - SuperTuxKart",
+      "text": "FAQ - SuperTuxKart Menu Discover News Download FAQ Get Involved Donate Tools Language български Català Čeština Dansk Deutsch English Español Eesti keel Euskara Suomi Filipino Français Galego Italiano 한국어 Nederlands Polski Português Português Brasileiro Русский Slovenščina Српски Türkçe Українська 中文（简体） 中文（繁體） General Questions What is SuperTuxKart? SuperTuxKart is a free, open-source, cross-platform kart racing game , with over 5 million downloads and two decades of development history. SuperTuxKart blends intuitive controls for beginners and advanced mechanics for experts, with 21 original tracks to discover, a Story Mode , as well as local and online multiplayer to play with your friends. SuperTuxKart also features additional game modes such as Time-Trial, Soccer, and Egg Hunt, with hundreds of community-made addons to always keep the game fresh. Find out more on our ‘Discover’ page ! What platforms is SuperTuxKart available on? The SuperTuxKart team provides official binaries for Linux , Windows , Mac , Android , and Switch Homebrew. SuperTuxKart is also available unofficially on iOS through the AppStore, and in the package managers of select BSD distributions. Linux users can also get the game as an AppImage , as a Flatpak , or as a Snap. Is SuperTuxKart really free? Yes! SuperTuxKart is available for free, without any kind of active ads or microtransactions. Some new tracks are available in early access for donators as part of our gift package , they will however be made available to everyone for free in upcoming releases. The SuperTuxKart team has a firm belief that software should respect and serve its users . This means respecting privacy, but also being respectful of the users’ time and fun. This disqualifies nearly all forms of advertisement. However, we may name sponsors in the credits, or include passive environmental advertising elements (like billboards near race tracks) provided they fit the game’s aesthetic. What are the hardware requirements? SuperTuxKart runs well on most devices. You might want to use the integrated benchmark to optimize your settings to get the best mix of eye-candy and smoothness for your device. Desktop GPU The GPU is usually the limitation for STK’s performance. Cards meeting the minimal requirements have the OpenGL support to run the game, but require low resolution and low graphics for smooth play. Cards meeting or exceeding the recommended requirements can run STK’s most demanding track at 60FPS/1080p with the modern rendering pipeline on graphics 4. Recommended : NVIDIA GeForce GTX 950, AMD Radeon RX 460, or stronger; At least 1 GB VRAM (video memory). Minimal : NVIDIA GeForce 470 GTX, AMD Radeon 6870 HD series card or Intel HD Graphics 4000; At least 512 MB VRAM (video memory). CPU The CPU performance might be the limitation depending on graphics card and graphics setting, mostly for online play which is more CPU-intensive. Good CPU performance helps ensure high framerate and more importantly smoothness. For STK, single-thread performance is paramount. Recommended : Core i5-2400 single-thread performance or higher. This includes AMD Ryzen desktop CPUs, most Intel desktop CPUs since 2012 and recent mobile CPUs. Minimal : Any Intel or AMD dual-cores processors. Very old models and low-clocked mobile parts may struggle, especially in online play. Mobile Android: Android 5.0 or later iOS: iOS 13 or later By default, SuperTuxKart uses a render resolution below 100% on mobile to improve performance. Other requirements At least 1 GB of free RAM Disk space: 800MB Optional A display with a refresh rate of 120Hz or higher. SuperTuxKart is perfectly playable and fun on ordinary 60Hz displays, but the smoother motion and reduced input latency from high refresh rate displays further enhances the playing experience. (If you prefer playing with a gamepad) A gamepad with at least 6 buttons. My computer is too old to run SuperTuxKart. What should I do? SuperTuxKart features a fallback renderer which only needs OpenGL 2.1, GLES 2, or DirectX 9. It lacks the advanced graphical effects that make the game pretty, but it should work on most devices. What is the history of SuperTuxKart? The SuperTuxKart project as we know it exists since 2006, when Hiker began working on it, with roots in the older TuxKart. Over the years, with the help of many contributors, the game grew to become a reference among open-source games, with steady improvements in graphics and gameplay alike. Thanks to this recognition as well as its open nature, SuperTuxKart was and is used in many projects , including numerous academic papers and demos from major companies. By the release of version 1.0 in 2019 with online multiplayer, SuperTuxKart was a mature project. Hiker passed the torch, and the project continued with a focus on polish and stability. Now, our team is actively working on writing the next page of history with SuperTuxKart Evolution, with a myriad of novelties in the works. You can consult our illustrated history of SuperTuxKart for an in-depth exploration of the game’s history. Is SuperTuxKart a Mario Kart clone? No! The Mario Kart series is the most widely recognized franchise of kart racing games, but there are many others. There are many major differences between SuperTuxKart and Mario Kart, and while we sometimes look at other kart racing games to see how SuperTuxKart compares, SuperTuxKart continues evolving in its own unique direction. The ‘clone’ claim usually comes from sources that try to give a simplified explanation of what SuperTuxKart is while having only a superficial understanding of both game series. Who is behind SuperTuxKart ? SuperTuxKart is currently led by Alayan , who manages the code and coordinates the team’s efforts, and by Sven , who focuses on visual art and the creation of new tracks. Both have been involved in the project for nearly a decade. Samuncle , who was the game’s lead artist for many years, currently plays an advisory role, while BcfWorld manages STK’s online services. Among the most significant past team members are Hiker , project leader from 2006 to 2019, Auria who assisted him for a decade, Devee who created and maintained the Android version, and Benau , who was co-leader from 2019 to 2025. As is the nature of a libre and open-source project, a great number of people made contributions to SuperTuxKart over the years, from small changes to major improvements. See our Team page for more information about the people behind SuperTuxKart! How can I support the project? There are two main ways to support SuperTuxKart’s development: You can contribute with a donation . All the money received is used to cover the project’s costs and to help make development work sustainable. Donations are essential for SuperTuxKart to compete with proprietary games. You can contribute by directly making an improvement for the game. Check the Get involved page, it references information about contributing code, visual art, translations, and more. If you want to create something new, you should share your plans with the current developers and artists through the forum . This will greatly improve the chance that you contribution will be accepted. Simply participating in the community, and promoting SuperTuxKart through word-of-mouth, are also small ways to help! SuperTuxKart Evolution What is SuperTuxKart Evolution? SuperTuxKart Evolution is the name of the next major release of SuperTuxKart. A continuation of SuperTuxKart’s long history, it will at the same time bring considerable change ; with a vast amount of new content and a strong focus on higher and more consistent quality. It aims to offer players the experience of a new game within the same game series. What changes are planned for SuperTuxKart Evolution? Check our blog for a general overview . The main points are: At least 8 new tracks, Significant gameplay and graphical updates to all tracks carried over from 1.5, Significant changes to game mechanics and physics, while keeping the essence of the SuperTuxKart feel, New powerups as well as a revision of existing ones, Several new karts, as well as new animations and other improvements for existing karts, A new user interface rethought from the ground up, A new Story Mode with over 40 challenges, including new cutscenes and new challenge types. Many other elements of the game not covered in this brief summary are also planned. Many of the planned changes affecting the code are indexed in the STK Evolution milestone on GitHub . Why Evolution and not 2.0? We’ve chosen SuperTuxKart Evolution to signify that this is a new game within the same game series, rather than merely a big update. SuperTuxKart Evolution will bring an unprecedented number of changes and novelties to every aspect of the game (see ‘What changes are planned for SuperTuxKart Evolution?’), and 2.0 was inadequate to convey this. There is continuity in code and assets, but that’s the norm between a game and its sequel. Unlike most software which are defined primarily by their function, video games are primarily defined by the experience they provide through their gameplay and their story. Major changes to either are the essence of a new game. That’s why we consider SuperTuxKart Evolution a new game. Please see our History page for more details. How can I stay informed of STK Evolution's progress? You can find blog posts covering major changes on our blog , as well as development videos on our YouTube channel . SuperTuxKart’s in-game news (in the ‘Online’ menu) provide notifications for new blog posts. Short posts are also published every week on our Patreon page . These posts often showcase Evolution’s improved visuals, but they also discuss the design choices we make, code changes, and other aspects of game development. Keep in mind that it takes time to prepare new videos and blog posts, and that we prefer to unveil novelties when they are ready. There is always a significant amount of 3D visual art that has been done but which hasn’t been showcased yet. Likewise, many changes present in the code of the Evolution branch have not been publicly showcased yet, although you can browse the code history if you are interested. Will SuperTuxKart 1.x still be maintained? A 1.5.1 release is currently planned to bring bugfixes, localization improvements, and minor features. No active development is planned afterwards, however the 1.x online services (online accounts, addons repository, server directory) will remain available even after SuperTuxKart Evolution’s release. Gameplay Questions The answers in this section assume that you are playing the latest stable release, SuperTuxKart 1.5. Some details may not be applicable to old versions. What are SuperTuxKart's powerups? SuperTuxKart 1.5 features 9 different powerups: zipper, bubblegum, plunger, bowling-ball, cake, swatter, parachute, basket-ball, and swapper (also known as switch). Check our Powerups page or the in-game help menu for more details. What are the available game modes? The game modes available in SuperTuxKart 1.5 are: Normal race , a racing mode with powerups to boost your kart or hinder rivals. Time-Trial , a racing mode without powerups, emphasizing raw driving skills. Soccer , in which two teams compete to score goals with a ball or a puck. Egg Hunt , in which a player explores a track to find eggs hidden in various locations. Battle , in which players use powerups to attack each other and score points. It has several subvariants, with Three-Strikes-Battle, Free-For-All, and Capture-the-Flag. Follow-the-Leader , a form of elimination race in which players are not allowed to overtake a leader kart. Normal Race, Time-Trial, and Follow-the-Leader support Grand Prix mode , in which several races are played in a row. After each race, points are scored based on the kart’s final position, and the kart with the most points at the end wins the Grand Prix. SuperTuxKart offers a Story Mode in which players have to win a series of challenges, featuring normal races, time-trials, and Grand Prix. Time-Trial and Egg Hunts support the recording of replays, with the possibility to play against an existing replay to try and beat it. How does drifting work? In SuperTuxKart, you can drift to take tighter curves and to obtain speed boosts. Simply press the appropriate key or button (indicated in the in-game tutorial or in the ‘Controls’ tab of the Options menu) while turning and the kart will start to drift. The initial hop of the kart helps to turn tighter. As long as you keep the drift input pressed, the kart will be forced to keep turning, but you can adjust how tightly. If you hold the drift long enough, spark particles will change and you will get a speed boost once you release the drift. In SuperTuxKart 1.5, there are 2 drift levels depending on how long the drift lasts. The key to mastering drifting is to carefully position your kart before you initiate the drift. How do I fire powerups backwards? To fire a powerup backwards in SuperTuxKart, simply activate the powerup while also looking back. Go in the Options menu and check the ‘Controls’ tab to check or change the input needed to look back. On touchscreens, tap the rearview mirror to look back. Is the AI cheating? No! The speed limit and speed boosts are exactly the same for all the karts, AI or human. In lower difficulties, the AI might even slow down on purpose. The powerup probabilities when grabbing a gift box are also identical. There are minor differences in how quickly the karts can steer from a direction to another, but it gives no meaningful advantage to the AI and isn’t meant to. The AI can sometimes have superhuman reflexes to use powerups, but if a human presses the right button at the right time, he can achieve the same result. There is also a lot of room to outsmart it. If you struggle to beat the AI, focus on improving your driving to crash as little as possible while going fast, and learn to use skidding. On higher difficulties, skidding is essential to beat the AI. Can I play STK online? Yes! After creating an online STK account inside the game and connecting with it, select the ‘Online’ button in the main menu then ‘Global networking’ to access networked gameplay through the internet. You can host your own server for others to play on, or join community-hosted servers. For the best experience, a stable connection and a low ping to the server are important. Why does my kart feel slow compared to others? Online, many players make heavy use of the drifting mechanic. If you feel slow compared to them, you can probably stand to drift more. Picking good trajectories and using nitro in small bursts is also important. I suddenly got a big red circle on my screen, what's that? If there’s a penguin in the middle of the circle, someone’s shot a plunger at your face. You can do that to others by shooting the plunger backwards (see the FAQ entry about throwing powerups backwards). How do I unlock all the tracks? The intended in-game way is to play Story Mode and beat all challenges. If however you want to unlock everything without playing Story Mode, you can also do so by editing a config file. Open the folder mentioned in the question ‘Where is the configuration stored?’. From there, open the file ‘players.xml’, and replace all occurrences of ‘none’ with ‘hard’ (or ‘easy’ or ‘medium’, indicating the highest level at which you have solved a challenge). Technical Questions Will my progress be preserved after updating the game? Yes, all your progress and settings will be carried over if you are updating from a compatible version, such as 1.3 or 1.4 to 1.5. If you are updating from an incompatible version, such as 0.9.3 to 1.5, you will get a new user profile. Your progress and settings in the old version will remain safe and available when playing with the old version. Be aware that new compatible versions may introduce new setting parameters. If you have two compatible versions installed at the same time, the older version will not recognize settings specific to the newer one, and playing with the older version will reset changes you might have done to those new setting parameters. How can I improve performance on low end hardware? There are several methods available: Reduce your graphical settings. You can use the integrated benchmark to test the changes. When using the modern renderer (graphics level 3 and up), you can reduce the render resolution. SuperTuxKart’s UI will remain crisp but the rest of the game will be upscaled from a lower resolution. Set a lower value in the game’s frame-limiter. Frames don’t all take the same amount of time to render. By letting your hardware rest after fast frames, you get more thermal headroom for slower frames. Reduce the game’s resolution. For online play, stick to nearby servers with a low latency. Higher latencies increase the load on your CPU. I've got weird input issues. What's going on? If you are using a keyboard, and some keypresses don’t register when pressing multiple keys simultaneously, this is not a bug in SuperTuxKart but a physical limitation of your keyboard: most keyboards only support a limited number of simultaneous key presses (for more detailed information, please check here ). Most keyboards work properly with SuperTuxKart’s default key bindings, but custom key bindings may trigger this issue. The solution is to use a gaming input device (gamepad, or gaming keyboard), or to tweak your key bindings to find a configuration that your keyboard will be able to register simultaneously. If the game seems to register phantom inputs, behaving as if you pressed a key while you did not, try going in the options menu, on the input screen, and check if you have gamepads there. Try to disable all gamepads except the device you are using. Sometimes, bogus inputs can be received from gamepads or other similar devices that the OS sees as a gamepad. I found a bug, how should I contact you? Check SuperTuxKart bug tracker and search first to see if your problem has been reported already. If it has not been reported, open a new issue and provide all relevant information that could help developers track down the problem’s cause. Where is the configuration stored? All versions from SuperTuxKart 1.0 to SuperTuxKart 1.5 use the same configuration location. The precise location depends on your operating system and on the installation method: On Windows : It is in %APPDATA%/supertuxkart/config-0.10 (you can enter that in the Explorer and it will take you there). On Linux : It is either in $XDG_CONFIG_HOME/supertuxkart/config-0.10 (first choice), ~/.config/supertuxkart/config-0.10 (second choice) or in ~/.supertuxkart/config-0.10 (third choice). On macOS : It is in ~/Library/Application Support/supertuxkart/config-0.10 . Note that this directory may be hidden. On Android : It is in /storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/home/supertuxkart/config-0.10 . With Snap : It is in ~/snap/supertuxkart/current/.config/supertuxkart/config-0.10 . With Flatpak : It is in ~/.var/app/net.supertuxkart.SuperTuxKart/config/supertuxkart/config-0.10 . You can also watch the output in the terminal to see if there is a note on where the config files are stored or search for a file called ‘config.xml’. What is the best input method for SuperTuxKart? Keyboard, gamepad, and gaming wheel are all perfectly fine input methods to play SuperTuxKart and feel in control of your kart. Use whichever you are most comfortable with. While keyboard controls often have the reputation of being inadequate for racing games, this is not the case in SuperTuxKart. In fact, a majority of the game’s best players play on keyboard. The touchscreen controls available on mobile are more challenging, because thumbs need to do most of the work. It is still possible to play very well, but there is an extra degree of difficulty. The Git version won't compile. What should I do? This happens sometimes; the developers should be aware of that and it should be fixed soon. If GitHub Actions says that the current Git version compiles, but it doesn’t do so for you, then probably something is wrong with your compiler setup. (Check if you have all dependencies, re-run CMake, …) Community Forum Blog Twitter / X Addons irc: #supertuxkart@libera Media YouTube Gallery Posters Development Modding GitHub SVN About us FAQ About the team About SuperTuxKart Projects using SuperTuxKart Terms and conditions Site designed by Jean-Manuel Clémençon & Konstin Powered by Jekyll SuperTuxKart Team © 2026",
+      "links": [
+        {
+          "url": "https://www.youtube.com/@SuperTuxKartOfficial?sub_confirmation=1",
+          "text": "YouTube channel"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Ol2z27AWZhg&t=111s",
+          "text": "carefully position your kart"
+        },
+        {
+          "url": "https://www.youtube.com/@SuperTuxKartOfficial?sub_confirmation=1",
+          "text": "YouTube"
+        }
+      ]
+    }
+  },
+  "checkedAt": "2026-10-24T06:04:27.012666+00:00"
+}

@@ -1,0 +1,1395 @@
+{
+  "overrides": {
+    "steam:422110": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://moonradish.itch.io/wand-wars",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://itch.io/search?q=Wand%20Wars",
+          "evidence": "Exact title and creator page links to Steam app 422110"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Wand%20Wars",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Wand%20Wars",
+            "state": "matched",
+            "matches": 1
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1278190": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/jumpala",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Jumpala",
+          "evidence": "Exact title in GOG official catalog: Jumpala"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Jumpala",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Jumpala",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:362380": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://househouse.itch.io/push-me-pull-you",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://itch.io/search?q=Push%20Me%20Pull%20You",
+          "evidence": "Exact title and creator page links to Steam app 362380"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Push%20Me%20Pull%20You",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Push%20Me%20Pull%20You",
+            "state": "matched",
+            "matches": 1
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1004620": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=KungFu%20Kickball",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=KungFu%20Kickball",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1151930": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Buissons",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Buissons",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:580890": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Arrow%20Heads",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Arrow%20Heads",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Arrowheads",
+            "url": "https://quadape.itch.io/arrowheads",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1729250": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://mreliptik.itch.io/dashpong",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://itch.io/search?q=Dashpong",
+          "evidence": "Exact title and creator page links to Steam app 1729250"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Dashpong",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://mreliptik.dev/dashpong-presskit/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Dashpong",
+            "state": "matched",
+            "matches": 1
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Dash pong",
+            "url": "https://mohamed-magdi.itch.io/dash-pong",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Dash Pong",
+            "url": "https://moki-studio.itch.io/dash-pong",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:3675690": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=HeadHunters",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://headhunters.sumalab.com",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=HeadHunters",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Headhunters",
+            "url": "https://lenbacon.itch.io/headhunters",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "HeadHunters",
+            "url": "https://golrouge.itch.io/headhunters",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Head Hunters",
+            "url": "https://bencanfield.itch.io/head-hunters",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Head Hunters",
+            "url": "https://tofistig.itch.io/head-hunters",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Head Hunters",
+            "url": "https://pakmanlie.itch.io/head-hunters",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:4489580": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://aggro-games.itch.io/scales-of-silence",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://itch.io/search?q=Scales%20of%20Silence",
+          "evidence": "Exact title and creator page links to Steam app 4489580"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Scales%20of%20Silence",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://scalesofsilence.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Scales%20of%20Silence",
+            "state": "matched",
+            "matches": 1
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:3199470": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Knuckle%20Jet",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Knuckle%20Jet",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:3944210": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://kanethemediocre.itch.io/hustle-together",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://kanethemediocre.itch.io/hustle-together",
+          "evidence": "Game-specific official website link with matching destination title"
+        },
+        {
+          "provider": "itch.io",
+          "url": "https://kanethemediocre.itch.io/hustle-together-demo",
+          "kind": "demo",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://kanethemediocre.itch.io/hustle-together",
+          "evidence": "Game-specific official website link with matching destination title"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Hustle%20Together",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://kanethemediocre.itch.io/hustle-together",
+            "state": "matched",
+            "matches": 14
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Hustle%20Together",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Hustle Together",
+            "url": "https://kanethemediocre.itch.io/hustle-together",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:4106530": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://huindie.itch.io/punch-forever",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://itch.io/search?q=PUNCH%20FOREVER",
+          "evidence": "Exact title and creator page links to Steam app 4106530"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=PUNCH%20FOREVER",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=PUNCH%20FOREVER",
+            "state": "matched",
+            "matches": 1
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:5251660": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Smithereens",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Smithereens",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Smithereens",
+            "url": "https://trainwiz.itch.io/smithereens",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Smithereens",
+            "url": "https://wooden-spoon.itch.io/smithereens",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "SMITHEREENS",
+            "url": "https://nadiapixel.itch.io/smithereens",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:5145550": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=ProutoPulsion%3A%20Fart%20on%20your%20friends%21",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=ProutoPulsion%3A%20Fart%20on%20your%20friends%21",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:4199960": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=The%20Jackbox%20Party%20Pack%2012",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.jackboxgames.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=The%20Jackbox%20Party%20Pack%2012",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:3048060": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Trivia%20Murder%20Party%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.jackboxgames.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Trivia%20Murder%20Party%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:5054700": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "state": "unresolved-active",
+            "error": "HTTP Error 400: Bad Request"
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.jackboxgames.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Fakin%20It%20XL",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:2414270": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Sunderfolk",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Sunderfolk",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1509960": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=PICO%20PARK",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=PICO%20PARK",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:2644470": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=PICO%20PARK%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://picoparkgame.com/en/pp2/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=PICO%20PARK%202",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1812090": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Escape%20Academy",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://escapeacademygame.com/en",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Escape%20Academy",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "url": "https://store.epicgames.com/en-US/p/escape-academy-bfc2bf",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:572890": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/pikuniku",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Pikuniku",
+          "evidence": "Exact title in GOG official catalog: Pikuniku"
+        },
+        {
+          "provider": "itch.io",
+          "url": "https://devolverdigital.itch.io/pikuniku",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://itch.io/search?q=Pikuniku",
+          "evidence": "Exact title and creator page links to Steam app 572890"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Pikuniku",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Pikuniku",
+            "state": "matched",
+            "matches": 1
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Pikuniku",
+            "url": "https://memolestas.itch.io/pikuniku",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "pikuniku",
+            "url": "https://dinespof-right.itch.io/pikuniku",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:2312160": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/frogun_encore",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Frogun%20Encore",
+          "evidence": "Exact title in GOG official catalog: Frogun Encore"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Frogun%20Encore",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Frogun%20Encore",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:2787320": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/revenge_of_the_savage_planet",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Revenge%20of%20the%20Savage%20Planet",
+          "evidence": "Exact title in GOG official catalog: Revenge of the Savage Planet"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Revenge%20of%20the%20Savage%20Planet",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.savageplanet.games/en-US",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Revenge%20of%20the%20Savage%20Planet",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Revenge of the Savage Planet - Cosmic Hoarder Upgrade",
+            "url": "https://www.gog.com/en/game/revenge_of_the_savage_planet_cosmic_hoarder_upgrade",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Revenge of the Savage Planet - Cosmic Hoarder Edition",
+            "url": "https://www.gog.com/en/game/revenge_of_the_savage_planet_cosmic_hoarder_edition",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:320040": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/moon_hunters",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Moon%20Hunters",
+          "evidence": "Exact title in GOG official catalog: Moon Hunters"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Moon%20Hunters",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Moon%20Hunters",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Moon Hunters",
+            "url": "https://kitfoxgames.itch.io/moon-hunters",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:249990": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=FORCED%3A%20Slightly%20Better%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=FORCED%3A%20Slightly%20Better%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:35130": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Lara%20Croft%20and%20the%20Guardian%20of%20Light",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Lara%20Croft%20and%20the%20Guardian%20of%20Light",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:289690": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=LARA%20CROFT%20AND%20THE%20TEMPLE%20OF%20OSIRIS%E2%84%A2",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=LARA%20CROFT%20AND%20THE%20TEMPLE%20OF%20OSIRIS%E2%84%A2",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:322210": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/guns_gore_cannoli",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Guns%2C%20Gore%20%26%20Cannoli",
+          "evidence": "Exact title in GOG official catalog: Guns, Gore & Cannoli"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Guns%2C%20Gore%20%26%20Cannoli",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Guns%2C%20Gore%20%26%20Cannoli",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Guns, Gore & Cannoli 2",
+            "url": "https://www.gog.com/en/game/guns_gore_cannoli_2",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1968730": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Bounty%20of%20One",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Bounty%20of%20One",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:943370": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Bravery%20and%20Greed",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://braveryandgreed.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Bravery%20and%20Greed",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1280930": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/astral_ascent",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://astral-ascent.com/",
+          "evidence": "Game-specific official website link with matching destination title"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Astral%20Ascent",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://astral-ascent.com/",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Astral%20Ascent",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "title": "Astral Ascent + DLC 1 + DLC 2 Bundle",
+            "url": "https://www.gog.com/en/game/astral_ascent_dlc_1_dlc_2_bundle",
+            "provider": "GOG",
+            "reason": "Edition or title differs; manual review required"
+          },
+          {
+            "title": "Astral Ascent",
+            "url": "https://alice-bottino.itch.io/astral-ascent",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Astral Ascent",
+            "url": "https://nayarjay.itch.io/astral-ascent",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          },
+          {
+            "title": "Astral Ascent",
+            "url": "https://snapgon.itch.io/astral-ascent",
+            "provider": "itch.io",
+            "reason": "Exact title found; ownership or edition needs manual confirmation"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:465200": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/fury_unleashed",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Fury%20Unleashed",
+          "evidence": "Exact title in GOG official catalog: Fury Unleashed"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Fury%20Unleashed",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Fury%20Unleashed",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:972660": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://thunderlotus.itch.io/spiritfarer",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://itch.io/search?q=Spiritfarer%C2%AE%3A%20Farewell%20Edition",
+          "evidence": "Exact title and creator page links to Steam app 972660"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Spiritfarer%C2%AE%3A%20Farewell%20Edition",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://thunderlotusgames.com/games/spiritfarer/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Spiritfarer%C2%AE%3A%20Farewell%20Edition",
+            "state": "matched",
+            "matches": 1
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:837470": {
+      "storefronts": [
+        {
+          "provider": "itch.io",
+          "url": "https://househouse.itch.io/untitled-goose-game",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://itch.io/search?q=Untitled%20Goose%20Game",
+          "evidence": "Exact title and creator page links to Steam app 837470"
+        },
+        {
+          "provider": "itch.io",
+          "url": "https://andgael1967itchio1595657.itch.io/un",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://itch.io/search?q=Untitled%20Goose%20Game",
+          "evidence": "Exact title and creator page links to Steam app 837470"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Untitled%20Goose%20Game",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://goose.game",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Untitled%20Goose%20Game",
+            "state": "matched",
+            "matches": 2
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:1951230": {
+      "storefronts": [
+        {
+          "provider": "GOG",
+          "url": "https://www.gog.com/en/game/pizza_possum",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T06:04:27.009640+00:00",
+          "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Pizza%20Possum",
+          "evidence": "Exact title in GOG official catalog: Pizza Possum"
+        }
+      ],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Pizza%20Possum",
+            "state": "matched",
+            "matches": 1
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": null,
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Pizza%20Possum",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    },
+    "steam:850190": {
+      "storefronts": [],
+      "storeCoverage": {
+        "checkedAt": "2026-10-24T06:04:27.009722+00:00",
+        "checks": [
+          {
+            "provider": "GOG",
+            "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Goat%20Simulator%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "Official website",
+            "sourceUrl": "https://www.goatsimulator3.com/",
+            "state": "no-confirmed-match",
+            "matches": 0
+          },
+          {
+            "provider": "itch.io",
+            "sourceUrl": "https://itch.io/search?q=Goat%20Simulator%203",
+            "state": "no-confirmed-match",
+            "matches": 0
+          }
+        ],
+        "candidates": [
+          {
+            "url": "https://store.epicgames.com/en-US/p/goat-simulator-3--multiverse-of-nonsense",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          },
+          {
+            "url": "https://store.epicgames.com/en-US/p/goat-simulator-3--ticket-to-dizzyworld",
+            "provider": "Epic Games",
+            "reason": "Destination not readable: HTTP Error 403: Forbidden"
+          }
+        ],
+        "scope": "Exact official GOG/itch.io listings and title-bound official website links. A miss is not proof of absence; generic publisher homes and key-reseller search results are not store buttons."
+      }
+    }
+  }
+}
