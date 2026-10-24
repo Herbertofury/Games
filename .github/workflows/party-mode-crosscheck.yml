@@ -1,0 +1,33 @@
+name: Cross-check couch mode sources
+on:
+  workflow_dispatch:
+  push:
+    paths: ['scripts/party_mode_references.py','.github/workflows/party-mode-crosscheck.yml']
+permissions:
+  contents: write
+jobs:
+  references:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - run: python3 scripts/party_mode_references.py
+      - name: Retain exact source evidence for manual mode review
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/party-mode-references.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Preserve platform-specific couch-mode cross-checks and exact publisher video identities'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: party-mode-references
+          path: data/party-mode-references.json
