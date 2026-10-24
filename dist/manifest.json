@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "2.0.0",
-  "builtAt": "2026-10-24T17:53:14.833312+00:00",
+  "version": "2.0.1",
+  "builtAt": "2026-10-24T21:09:37.609561+00:00",
   "sourceRepository": "https://github.com/Herbertofury/Games",
-  "sourceRevision": "45973a2f8f4cb3d3c953c83ad84502b7161c3d39",
+  "sourceRevision": "caf1003f0c0ff51ebf1f3738bb673cd3405ea0eb",
   "sourceWiki": "https://github.com/Herbertofury/Games/wiki",
   "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
   "records": 1853,
@@ -161,14 +161,14 @@
     "itch.io"
   ],
   "html": {
-    "bytes": 22491489,
-    "sha256": "fb8165151cc757c0f31ac537586088e9368fc419fc8356e93bfcb2183fb88265"
+    "bytes": 22492685,
+    "sha256": "cd3280ae5047d05011d648d4d38bad08947a4b0c2d1ea7ef00c1c19d12bec8cd"
   },
   "sourceFiles": {
-    "site/arcade.js": "16fb4329b7300a179ceb791a4facee01b0f19c49ee2b886a244fd77b317f35cd",
+    "site/arcade.js": "b1a1fc0b3062a58cbdc6a9771eac6d223c2e227fdacbe00cac834fbd5ac215e7",
     "site/survival.js": "7605cfbc56136642f1db47a1fb8c5d42e76e53af654f83c20ef549348d0f778c",
     "site/party.js": "24a8b612e51a43812192eb201f4b5c0cf3b80430e54e1a24569b527f3e13edee",
-    "site/lounge.css": "03c94321c7f90eb02893f00d6b3fec00dcba4fe64650f3b99b3d4d311d26d0a4",
+    "site/lounge.css": "7a7e05ccf17c69644a68ad310474e9bc6903f45793d4c550444031d29810e336",
     "site/platformers.js": "5ea63ebc7e0f0a35e06081fc4d8cdb6bed9e17822a02b23a3c41560d448a706a",
     "site/lounge.js": "1aec4107383af7ae340a16b720e81541226a1ecb07799c19a76c02ad57146b26",
     "site/styles.css": "72c58b651638b46b514d13d23371331dce83d206adb6b33091078d75c8ed9a41",
@@ -235,7 +235,7 @@
     "scripts/lounge_wiki.py": "e5198767089985d4e3b79235473d0e8bf06fce7279b6367af0563ee1c9d5c120",
     "scripts/add_game.py": "86aafdfc6ef902ae11be8c13a9da28f91d83eb58f9921559397d1ee9a28ae44f",
     "scripts/platformer_model.py": "8c75bd2819ea00bcc4bb4384fd096a5872598c949460c66b433ee7f2abba1b5e",
-    "scripts/build.py": "2650e4977787ecd90a741870908cc0751c7ebb1d536dab03e5fe3bff7ba41cd9",
+    "scripts/build.py": "12c245440becb6d7448a038356bdf8cdfae740baa63f3ee5b05c883e4ccf5230",
     "scripts/complete_metroidvania_release.py": "5bd8bad7d3fad6a47e4b757608f1727aa6fa6478e9d2cc82ff213fbb896c7e8d",
     "scripts/prepare_platformers.py": "173eebc3a9329cdd073f2f8ee727c2381c84a9a51fc7e7fca9cdfeedede089a9",
     "scripts/fix_metroidvania_source_urls.py": "395ca28c040ee0dd518335e58e04c8946b572bcb60b7ff5748e0ee593777f1bc",
@@ -246,7 +246,7 @@
     "scripts/curate_rts.py": "ac832a389dcf982f41c281580cf92364296c1e525a5d34070d2b5f17c9dab8ef",
     "scripts/repair_survival_checkpoint.py": "d6769e5a65b3658c3b0591bfa3c634ff23b5cfeb391811085fb2d50be8886455",
     "scripts/resolve_platformer_videos.py": "f09ddd91e41b2dd9379d7d3ecb9288b55ffeaac0c4906ff722fc0508f1b2d3d5",
-    "scripts/lounge_qa.py": "c6e94c09cec07e3044fa6bdb75492b339f694f8bda522f932f497c9d9a75a950",
+    "scripts/lounge_qa.py": "1c6af0237e909c7ddc37be26f761b3ee541ef39f310250df7704fb732742dc3a",
     "scripts/party_mode_references.py": "1bceb9f6548089fae777b60344c77fa3de1afa1d7f78a356f1b94d20b14dc0b2",
     "scripts/capture_platformer_classics.py": "a4f441aff3eeb8ce810c04ba2d25bd11b6f90103f03ed339673f03264a05b838",
     "scripts/install_platformers.py": "b22ae79a48fefb8fb5a9fea7ddd9042c636b2b12d56a222af99504408725e0f0",

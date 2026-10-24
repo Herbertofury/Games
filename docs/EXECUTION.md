@@ -213,3 +213,12 @@ Bounded performance pass: reused Intl.NumberFormat replaces one construction per
 Challengers inspected: official Steam Library reference, Web Animations API, requestAnimationFrame, PixiJS application/ticker. Native browser APIs selected for a self-contained zero-CDN toy and existing vanilla catalog. No engine migration or rewrite of canonical data.
 
 Exact next action: apply the integrity-checked lounge source package, checkpoint after source/unit validation, then run `scripts/lounge_qa.py` and the complete existing publication matrix. Inspect desktop/mobile/arcade evidence; resolve failures; publish real wiki and release; update and hash-verify the same Drive file. Required gates are in progress, not declared complete here.
+
+
+## Lounge final visual challenge, October 24, 2026
+
+Resumed from successful catalog-38, source 45973a2f8f4cb3d3c953c83ad84502b7161c3d39, run 40116990381, artifact 12570262667 (SHA-256 5c13efcaa45e7abc2b2e4490213e804cec63736204877475bd46c09bd80d65be). All 1,853 identities and the exact catalog-36 dataset hash are unchanged. The completed gate had 128 unit tests and 568 browser checks, including 57 lounge checks.
+
+Visual inspection found a narrow-screen arcade defect despite the document-width assertion: an auto-width 16:9 surface with a minimum height grew wider than its window. Focusing Throw horizontally scrolled the overflow-hidden container and clipped the title, score, and touch joystick. Root-cause correction gives the surface explicit width, contains canvas intrinsic size, uses a flex window/footer, and clamps the full window on drag/resize/rotation. No game features, animation, controls, data, or input paths were removed.
+
+Targeted actual-inline-Chromium checks passed at 1536x1100, 390x844, 320x568, 844x390, and 1024x768 after dragging and touch focus, plus the native resize grip. These checks do not claim origin-storage or network-media proof. The production lounge gate now checks every visible control against the window bounds at four sizes, as well as internal horizontal clipping. Exact next action: checkpoint the guarded five-file source delta, run the normal full Publish library gate, inspect corrected desktop/mobile/arcade screenshots, and update/readback/hash-verify the stable Drive backup before delivering.
