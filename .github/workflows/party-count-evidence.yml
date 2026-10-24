@@ -1,0 +1,74 @@
+name: Party local-count evidence
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/party-count-evidence.yml']
+permissions:
+  contents: write
+jobs:
+  counts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Inspect exact creator and alternate-store count metadata
+        shell: python
+        run: |
+          import concurrent.futures,datetime,json,pathlib,re,sys
+          sys.path.insert(0,'scripts')
+          import discover_storefronts as net
+          from bs4 import BeautifulSoup
+          ids='2054660 686200 3012220 508790 1499700 571740 598550 375750 1426210 701160 296470 441010 1641700 1620040 746940 1211110 850320 1937540 2129530 661940 2217000 1920480 1397790 207140 277850 1913740 341550 881090 323670 1487210 1515740 1050510 979690 2652000 2216830 2948640 1011670 695970 1243960 1495860 445980 2193540 217200 327030 985900 1278190 362380 580890 3199470 4106530 5054700 572890 2312160 2787320 35130 322210 465200 850190 570460 1451810 512900 2165810 418530 1337520 247080 636100 65800 204360 2215260 525510'.split()
+          targets={};existing={}
+          for name in ['party-storefronts.json','party-extra-stores.json','party-recovered-stores.json']:
+            existing.update(json.loads(pathlib.Path('data',name).read_text()).get('overrides',{}))
+          for aid in ids:
+            ident='steam:'+aid
+            for l in existing.get(ident,{}).get('storefronts',[]):
+              if l['provider'] in ['GOG','itch.io']:targets[(ident,l['url'])]=True
+          explicit={
+            'steam:833500':'https://www.alphabetagamer.com/thunder-rally-alpha-sign-up/',
+            'steam:2193540':'https://www.wizardoflegend2.com/',
+            'steam:3012220':'https://www.arcsystemworks.jp/ddrevive/en/',
+            'steam:985900':'https://www.youngsouls-game.com/',
+            'steam:1920480':'https://wayforward.com/games/river-city-girls-2',
+            'steam:2217000':'https://aetherstudios.com/rivals-of-aether-ii/',
+            'steam:2054660':'https://www.disneyillusionisland.com/',
+            'steam:277850':'https://sportsfriendsgame.com/',
+            'steam:525510':'https://www.gunsgoreandcannoli.com/',
+            'steam:2948640':'https://www.jackboxgames.com/games/the-jackbox-survey-scramble',
+            'steam:2216830':'https://www.jackboxgames.com/games/the-jackbox-party-pack-10',
+            'steam:5054700':'https://www.jackboxgames.com/games/fakin-it-xl',
+            'steam:2652000':'https://www.jackboxgames.com/games/the-jackbox-naughty-pack',
+            'external:supertuxkart':'https://supertuxkart.net/FAQ',
+            'steam:3183760':'https://steamcommunity.com/app/3183760/discussions/search/?q=local+4',
+            'steam:2211170':'https://steamcommunity.com/app/2211170/discussions/0/684118080246434696/'
+          }
+          for ident,u in explicit.items():targets[(ident,u)]=True
+          def work(pair):
+            ident,u=pair
+            try:
+              raw,final,_=net.read(u);s=BeautifulSoup(raw,'html.parser')
+              for node in s.select('nav,footer,.comments,#comments'):node.decompose()
+              main=s.select_one('.formatted_description') or s.select_one('.description') or s.select_one('article') or s
+              meta=s.select_one('.game_info_panel_widget')
+              return {'id':ident,'url':u,'final':final,'title':s.title.get_text(' ',strip=True) if s.title else '', 'text':main.get_text(' ',strip=True),'metadata':meta.get_text(' ',strip=True) if meta else '', 'links':[{'text':a.get_text(' ',strip=True),'url':a['href']} for a in s.select('a[href]') if any(w in a.get_text().lower() for w in ['local','multiplayer','player','faq'])]}
+            except Exception as e:return {'id':ident,'url':u,'error':str(e)}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:records=list(pool.map(work,targets))
+          out={'checkedAt':datetime.datetime.now(datetime.timezone.utc).isoformat(),'records':records};pathlib.Path('data/party-count-evidence.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n')
+          print(json.dumps([{'id':r['id'],'url':r['url'],'error':r.get('error'),'metadata':r.get('metadata'),'numberContexts':re.findall(r'.{0,40}(?:player|local|couch|two|four|eight|six).{0,80}',r.get('text',''),re.I)[:20]} for r in records],indent=2))
+      - name: Preserve the count-proof checkpoint
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/party-count-evidence.json
+          git diff --cached --quiet || { git commit -m 'Record exact local count evidence and unresolved provider boundaries'; git pull --rebase origin main; git push origin HEAD:main; }
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: party-count-evidence
+          path: data/party-count-evidence.json
