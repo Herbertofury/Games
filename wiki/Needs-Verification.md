@@ -1,6 +1,6 @@
 # Discovery reconciliation
 
-Published catalog: 1567 unique records. Unresolved new candidates: 209. Unresolved does not mean nonexistent.
+Published catalog: 1853 unique records. Unresolved new candidates: 246. Unresolved does not mean nonexistent.
 
 - **Alice in Abyss**: Exact identity needs reconciliation
 - **Super Zangyura**: Exact identity needs reconciliation
@@ -26,6 +26,27 @@ Published catalog: 1567 unique records. Unresolved new candidates: 209. Unresolv
 - **Voxaria**: Exact title requires reconciliation
 - **Survive on Raft**: Official store did not confirm a standalone game
 - **ChunkForge**: Exact title requires reconciliation
+- **Golazo! 2**: 
+- **Golazo! 2**: 
+- **Golf It!**: 
+- **Mount Your Friends**: 
+- **Mount Your Friends 3D: A Hard Man is Good to Climb**: 
+- **Nickelodeon Kart Racers 3: Slime Speedway**: 
+- **Samurai GUNN 2**: 
+- **Samurai GUNN 2**: 
+- **Sportsfriends**: 
+- **SUPER BOMBERMAN R 2**: 
+- **Super Mega Baseball™ 4**: 
+- **Super Mega Baseball™ 4**: 
+- **Super Sports Blast**: 
+- **Super Tennis Blast**: 
+- **Worms Armageddon**: 
+- **Knuckle Jet**: 
+- **Laser League: World Arena**: 
+- **Streets of Rogue 2**: 
+- **Spelunky 2**: 
+- **Spelunky 2**: 
+- **Tesla vs Lovecraft**: 
 - **Armor Clash 4**: No exact published identity confirmed. Not silently replaced with another game.
 - **Rise of Legends**: No current official digital edition confirmed. Do not link an unrelated title or unofficial download.
 - **Battle Aces**: Development ended; do not advertise as an available recommendation.
@@ -211,3 +232,19 @@ Published catalog: 1567 unique records. Unresolved new candidates: 209. Unresolv
 - **Shores of Plunder**: Genre review: Shores of Plunder emphasizes competitive pirate modes, not the Minecraft-like survival world category.
 - **Sunken Engine**: Genre review: a Lovecraftian ship-repair business simulator, not the survival-crafting world requested. Source metadata retained in research.
 - **WILDRAFT**: Unresolved media: the creator page's linked video resolves to an unrelated Doctor Who title. Do not publish it as game footage; keep the discovery for further verification.
+- **Lost Castle 2**: The collected exact edition has no confirmed native same-device play; online co-op is not enough for this hub.
+- **Caveblazers**: The reviewed base-game local route is not established independently of modification; retained for a separately verified mod route.
+- **MUTINY! Local Multiplayer Bomb Game**: Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.
+- **Duck and Cover 2**: Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.
+- **PSHNGGG!**: Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.
+- **Duck and Gun**: Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.
+- **Sumaburu**: Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.
+- **Sumo Dumo**: Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.
+- **Lost Castle 2**: The collected exact edition has no confirmed native same-device play; online co-op is not enough for this hub.
+- **Caveblazers**: The reviewed base-game local route is not established independently of modification; retained for a separately verified mod route.
+- **MUTINY! Local Multiplayer Bomb Game**: Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.
+- **Duck and Cover 2**: Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.
+- **PSHNGGG!**: Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.
+- **Duck and Gun**: Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.
+- **Sumaburu**: Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.
+- **Sumo Dumo**: Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.

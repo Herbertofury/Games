@@ -1,0 +1,368 @@
+{
+  "checkedAt": "2026-10-24T07:27:34.425905+00:00",
+  "records": [
+    {
+      "id": "steam:2217000",
+      "sourceUrl": "https://store.steampowered.com/app/2217000/Rivals_of_Aether_II",
+      "modes": [
+        [
+          "1v1, 2v2 and free-for-all",
+          "Versus",
+          [
+            2,
+            3,
+            4
+          ]
+        ]
+      ],
+      "basis": "Reviewed publisher description"
+    },
+    {
+      "id": "steam:207140",
+      "sourceUrl": "https://store.steampowered.com/app/207140/SpeedRunners/",
+      "modes": [
+        [
+          "Local races",
+          "Versus",
+          [
+            2,
+            3,
+            4
+          ]
+        ]
+      ],
+      "basis": "Reviewed publisher description"
+    },
+    {
+      "id": "steam:580890",
+      "sourceUrl": "https://store.steampowered.com/app/580890/",
+      "modes": [
+        [
+          "Arena archery",
+          "Versus",
+          [
+            2,
+            3,
+            4
+          ]
+        ],
+        [
+          "Survival against bears",
+          "Co-op",
+          [
+            2,
+            3,
+            4
+          ]
+        ]
+      ],
+      "basis": "Reviewed publisher description"
+    },
+    {
+      "id": "steam:1937540",
+      "sourceUrl": "https://store.steampowered.com/app/1937540/Potato_Arena/",
+      "modes": [
+        [
+          "Competitive minigames and team events",
+          "Versus",
+          [
+            2,
+            3,
+            4
+          ]
+        ]
+      ],
+      "basis": "Reviewed publisher description"
+    },
+    {
+      "id": "steam:1278190",
+      "sourceUrl": "https://www.gog.com/zh/game/jumpala",
+      "modes": [
+        [
+          "Free-for-all and 2v2",
+          "Versus",
+          [
+            2,
+            3,
+            4
+          ]
+        ]
+      ],
+      "basis": "Reviewed publisher description"
+    },
+    {
+      "id": "steam:2215260",
+      "sourceUrl": "https://news.ubisoft.com/en-us/article/b4A2eUtuQc1aYhs3P9q02/scott-pilgrim-vs-the-world-the-game-complete-edition-coming-january-14",
+      "modes": [
+        [
+          "Campaign, Boss Rush and Survival Horror",
+          "Co-op",
+          [
+            2,
+            3,
+            4
+          ]
+        ],
+        [
+          "Dodgeball and battle-royale minigames",
+          "Versus",
+          [
+            2,
+            3,
+            4
+          ]
+        ]
+      ],
+      "basis": "Reviewed publisher description"
+    },
+    {
+      "id": "steam:341550",
+      "sourceUrl": "https://www.hardcoregaming101.net/super-cyborg/",
+      "modes": [
+        [
+          "Cooperative run-and-gun",
+          "Co-op",
+          [
+            2
+          ]
+        ]
+      ],
+      "basis": "Reviewed PC gameplay feature"
+    },
+    {
+      "id": "steam:3199470",
+      "sourceUrl": "https://www.techtimes.com/articles/325530/20260825/rain-games-shelves-puzzle-roots-rocket-fist-arcade-action-knuckle-jet.htm",
+      "modes": [
+        [
+          "Main campaign",
+          "Co-op",
+          [
+            2
+          ]
+        ],
+        [
+          "Knuckleball competitive mode",
+          "Versus",
+          []
+        ]
+      ],
+      "basis": "Reviewed developer-announcement coverage"
+    },
+    {
+      "id": "steam:746940",
+      "sourceUrl": "https://store.steampowered.com/app/746940/",
+      "modes": [
+        [
+          "Local ragdoll races",
+          "Versus",
+          [
+            2,
+            3,
+            4
+          ]
+        ]
+      ],
+      "basis": "Full official publisher description",
+      "evidenceExcerpt": "Four-player drop-in/drop-out madness!"
+    },
+    {
+      "id": "steam:1495860",
+      "sourceUrl": "https://store.steampowered.com/app/1495860/",
+      "modes": [
+        [
+          "Dub-writing contestants",
+          "Versus",
+          [
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        ]
+      ],
+      "basis": "Full official publisher description",
+      "evidenceExcerpt": "1 to 6 players (6 players enter dubs and an additional 12 audience members can vote)"
+    },
+    {
+      "id": "steam:445980",
+      "sourceUrl": "https://store.steampowered.com/app/445980/",
+      "modes": [
+        [
+          "Chaos Trials campaign",
+          "Co-op",
+          [
+            2
+          ]
+        ],
+        [
+          "Wizard duel",
+          "Versus",
+          [
+            2
+          ]
+        ]
+      ],
+      "basis": "Full official publisher description",
+      "evidenceExcerpt": "Local multiplayer allows you to play with or against a friend"
+    },
+    {
+      "id": "steam:327030",
+      "sourceUrl": "https://store.steampowered.com/app/327030/",
+      "modes": [
+        [
+          "Turn-based local matches",
+          "Versus",
+          [
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        ]
+      ],
+      "basis": "Full official publisher description",
+      "evidenceExcerpt": "take on up to five opponents in hilarious all-out tactical combat in local, online or ranked play"
+    },
+    {
+      "id": "steam:850190",
+      "sourceUrl": "https://store.steampowered.com/app/850190/",
+      "modes": [
+        [
+          "Sandbox campaign",
+          "Co-op",
+          [
+            2,
+            3,
+            4
+          ]
+        ],
+        [
+          "Competitive minigames",
+          "Versus",
+          [
+            2,
+            3,
+            4
+          ]
+        ]
+      ],
+      "basis": "Full official publisher description",
+      "evidenceExcerpt": "invite up to three friends in local or online co-op"
+    },
+    {
+      "id": "steam:65800",
+      "sourceUrl": "https://store.steampowered.com/app/65800/",
+      "modes": [
+        [
+          "Split-screen defense campaign",
+          "Co-op",
+          [
+            2,
+            3,
+            4
+          ]
+        ],
+        [
+          "PvP Deathmatch",
+          "Versus",
+          [
+            2,
+            3,
+            4
+          ]
+        ]
+      ],
+      "basis": "Full official publisher description",
+      "evidenceExcerpt": "4-player online and local (splitscreen) co-op to plan your strategies together or compete in PvP Deathmatch"
+    },
+    {
+      "id": "steam:3012220",
+      "sourceUrl": "https://www.arcsystemworks.com/game/double-dragon-revive/",
+      "modes": [
+        [
+          "Campaign",
+          "Co-op",
+          [
+            2
+          ],
+          false,
+          ""
+        ]
+      ],
+      "basis": "Official publisher product specification, PC included",
+      "checkedAt": "2026-10-24T07:27:34.425905+00:00"
+    },
+    {
+      "id": "steam:247080",
+      "sourceUrl": "https://steamcommunity.com/app/247080/discussions/0/3828661844176614527/",
+      "modes": [
+        [
+          "Base-game dungeon run",
+          "Co-op",
+          [
+            2
+          ],
+          false,
+          ""
+        ],
+        [
+          "SYNCHRONY local co-op",
+          "Co-op",
+          [
+            2,
+            3,
+            4
+          ],
+          true,
+          "Requires the SYNCHRONY DLC. Eight-player online capacity is not a local limit."
+        ]
+      ],
+      "basis": "Developer-confirmed local player limit",
+      "checkedAt": "2026-10-24T07:27:34.425905+00:00"
+    },
+    {
+      "id": "external:supertuxkart",
+      "sourceUrl": "https://github.com/supertuxkart/stk-code/issues/5334",
+      "modes": [
+        [
+          "Split-screen racing",
+          "Versus",
+          [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          false,
+          "Additional players need distinct input bindings or gamepads; large split-screen layouts have greater hardware demands."
+        ]
+      ],
+      "basis": "Project issue documenting the current eight-player split-screen interface",
+      "checkedAt": "2026-10-24T07:27:34.425905+00:00"
+    },
+    {
+      "id": "steam:525510",
+      "sourceUrl": "https://www.macgamestore.com/product/13830/Guns-Gore-and-Cannoli-2/",
+      "modes": [
+        [
+          "Campaign",
+          "Co-op",
+          [
+            2,
+            3,
+            4
+          ],
+          false,
+          ""
+        ]
+      ],
+      "basis": "Publisher product description on the authorized Steam-edition store",
+      "checkedAt": "2026-10-24T07:27:34.425905+00:00"
+    }
+  ]
+}

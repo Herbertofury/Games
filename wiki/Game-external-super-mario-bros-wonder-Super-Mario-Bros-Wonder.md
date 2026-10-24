@@ -2,7 +2,7 @@
 
 ![Super Mario Bros. Wonder official artwork](https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1)
 
-**[Open official page](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Asuper-mario-bros-wonder)** · [Platformers](Platformers)
+**[Open official page](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Asuper-mario-bros-wonder)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 A strong modern 2D starting point where level transformations interrupt expectations and badges change the movement vocabulary. Optional challenges leave room to grow beyond the welcoming first impression.
 
@@ -12,7 +12,7 @@ A strong modern 2D starting point where level transformations interrupt expectat
 
 | Field | Value |
 |:--|:--|
-| Collection | Colorful & approachable |
+| Collection | Colorful & approachable, Console party essentials |
 | Recommendation | 10/10 |
 | Community reception | No aggregate rating |
 | Release | 2023-10-20 |
@@ -24,7 +24,7 @@ A strong modern 2D starting point where level transformations interrupt expectat
 
 ## Official stores and downloads
 
-- [Nintendo: store](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/)
+- [Nintendo: store](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch)
 
 ### Before you play
 
@@ -56,7 +56,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Platformer exact-video verification](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/) · checked 2026-10-23T18:32:45.493637+00:00
+- [Local-mode evidence](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/) · checked 2026-10-24T07:09:45.958258+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -76,3 +76,21 @@ A strong modern 2D starting point where level transformations interrupt expectat
 
 [Platformer hub](Platformers) | [Comparative study](Platformers-Study) | [Gem shortlist](Platformers-Gems) | [New and upcoming](Platformers-New-and-Upcoming) | [Media atlas](Platformers-Media) | [Source and coverage audit](Platformers-Sources)
 
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** Nintendo Switch
+
+**Participation:** simultaneous
+
+**Input setup:** Read the game-specific controller requirements.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Local cooperative play (Co-op) | 2-4 | See input setup | [Evidence](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/) |
+
+Exact listed console edition. Wireless rooms and online lobbies are not one-system local counts.
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

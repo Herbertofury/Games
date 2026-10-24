@@ -2,13 +2,13 @@
 
 ![Brotato official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/f98281910016f8924be37cce3d4b119f5223a358/header.jpg?t=1789029155)
 
-**[Open official page](https://store.steampowered.com/app/1942280/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1942280)** · [Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1942280/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1942280)** · [Roguelites](Roguelites) · [Roguelites](Roguelites)
 
 Brotato is a top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.
 
 | Field | Value |
 |:--|:--|
-| Collection | Bullet heaven |
+| Collection | Bullet heaven, Co-op roguelites & twin-stick nights |
 | Recommendation | 10/10 |
 | Community reception | 95.9% / 120,062 Steam reviews |
 | Release | Jun 23, 2023 |
@@ -20,7 +20,8 @@ Brotato is a top-down arena shooter roguelite where you play a potato wielding u
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/1942280/)
+- [Steam: store](https://store.steampowered.com/app/1942280)
+- [GOG: store](https://www.gog.com/en/game/brotato) | Exact title in GOG official catalog: Brotato
 
 ## Videos and screenshots
 
@@ -50,8 +51,26 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/1942280/) · checked 2026-10-23T17:33:13.080221+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1942280&l=english&cc=us) · checked 2026-10-23T17:33:13.080221+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1942280%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:33:13.080221+00:00
+- [Local-mode evidence](https://store.steampowered.com/app/1942280/) · checked 2026-10-24T07:09:45.958258+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1942280&l=english&cc=us) · checked 2026-10-24T05:54:13.119458+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1942280%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-24T05:54:13.119458+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** PC edition
+
+**Participation:** simultaneous
+
+**Input setup:** See controller support and exact mode notes.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Local cooperative play (Co-op) | 2-4 | See input setup | [Evidence](https://store.steampowered.com/app/1942280/) |
+
+Existing record reused; native couch mode added in update.
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

@@ -2,7 +2,7 @@
 
 ![Fury Unleashed official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/465200/header.jpg?t=1773911906)
 
-**[Open official page](https://store.steampowered.com/app/465200/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A465200)** · [Platformers](Platformers) · [Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/465200/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A465200)** · [Platformers](Platformers) · [Roguelites](Roguelites) · [Roguelites](Roguelites)
 
 Shoot your way through the pages of an ever-changing comic book in this fast-paced roguelike. Play solo, in local or online co-op, expand your ...
 
@@ -12,7 +12,7 @@ Procedural runs, execution under uncertainty and meaningful build or route decis
 
 | Field | Value |
 |:--|:--|
-| Collection | Roguelite platformers |
+| Collection | Roguelite platformers, Co-op roguelites & twin-stick nights |
 | Recommendation | 8/10 |
 | Community reception | 87.2% / 2,934 Steam reviews |
 | Release | May 8, 2020 |
@@ -25,7 +25,9 @@ Procedural runs, execution under uncertainty and meaningful build or route decis
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/465200/)
+- [Steam: store](https://store.steampowered.com/app/465200)
+- [GOG: store](https://www.gog.com/en/game/fury_unleashed) | Exact title in GOG official catalog: Fury Unleashed
+- [Steam: demo](https://store.steampowered.com/app/1185030)
 
 ## Videos and screenshots
 
@@ -67,9 +69,9 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/465200/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=465200&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A465200%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Local-mode evidence](https://store.steampowered.com/app/465200/) · checked 2026-10-24T07:09:45.958258+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=465200&l=english&cc=us) · checked 2026-10-24T06:04:27.005238+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A465200%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-24T06:04:27.005238+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -89,3 +91,21 @@ Procedural runs, execution under uncertainty and meaningful build or route decis
 
 [Platformer hub](Platformers) | [Comparative study](Platformers-Study) | [Gem shortlist](Platformers-Gems) | [New and upcoming](Platformers-New-and-Upcoming) | [Media atlas](Platformers-Media) | [Source and coverage audit](Platformers-Sources)
 
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** PC edition
+
+**Participation:** simultaneous
+
+**Input setup:** See controller support and exact mode notes.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Local co-op (Co-op) | 2 | See input setup | [Evidence](https://store.steampowered.com/app/465200/) |
+
+Two-person local cooperative configuration. See the exact edition and game-specific setup requirements.
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

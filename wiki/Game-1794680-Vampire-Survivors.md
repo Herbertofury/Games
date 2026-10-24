@@ -2,13 +2,13 @@
 
 ![Vampire Survivors official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/2ca07b690dde645771125ed9d9206c4c5fde4dd4/header.jpg?t=1787911678)
 
-**[Open official page](https://store.steampowered.com/app/1794680/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1794680)** · [Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/1794680/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A1794680)** · [Roguelites](Roguelites) · [Roguelites](Roguelites)
 
 Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you. Be the bullet hell!
 
 | Field | Value |
 |:--|:--|
-| Collection | Bullet heaven |
+| Collection | Bullet heaven, Co-op roguelites & twin-stick nights |
 | Recommendation | 10/10 |
 | Community reception | 98.3% / 266,685 Steam reviews |
 | Release | Oct 20, 2022 |
@@ -20,7 +20,8 @@ Mow down thousands of night creatures and survive until dawn! Vampire Survivors 
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/1794680/)
+- [Steam: store](https://store.steampowered.com/app/1794680)
+- [itch.io: store](https://poncle.itch.io/vampire-survivors) | Exact title and creator page links to Steam app 1794680
 
 ## Videos and screenshots
 
@@ -48,8 +49,26 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/1794680/) · checked 2026-10-23T17:33:13.080221+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1794680&l=english&cc=us) · checked 2026-10-23T17:33:13.080221+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1794680%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:33:13.080221+00:00
+- [Local-mode evidence](https://store.steampowered.com/app/1794680/) · checked 2026-10-24T07:09:45.958258+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=1794680&l=english&cc=us) · checked 2026-10-24T05:54:13.119458+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1794680%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-24T05:54:13.119458+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** PC edition
+
+**Participation:** simultaneous
+
+**Input setup:** See controller support and exact mode notes.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Local cooperative play (Co-op) | 2-4 | See input setup | [Evidence](https://store.steampowered.com/app/1794680/) |
+
+Existing record reused across hubs.
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

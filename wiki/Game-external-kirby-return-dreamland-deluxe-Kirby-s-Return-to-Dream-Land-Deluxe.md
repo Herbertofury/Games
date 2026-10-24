@@ -2,7 +2,7 @@
 
 ![Kirby's Return to Dream Land Deluxe official artwork](https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad)
 
-**[Open official page](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Akirby-return-dreamland-deluxe)** · [Platformers](Platformers)
+**[Open official page](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Akirby-return-dreamland-deluxe)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 A cooperative 2D adventure with copy abilities and an expanded supporting package. A sensible group choice when playful experimentation matters more than everyone performing perfectly.
 
@@ -12,7 +12,7 @@ A cooperative 2D adventure with copy abilities and an expanded supporting packag
 
 | Field | Value |
 |:--|:--|
-| Collection | Co-op & playful chaos |
+| Collection | Co-op & playful chaos, Console party essentials |
 | Recommendation | 9/10 |
 | Community reception | No aggregate rating |
 | Release | 2023-02-24 |
@@ -24,7 +24,7 @@ A cooperative 2D adventure with copy abilities and an expanded supporting packag
 
 ## Official stores and downloads
 
-- [Nintendo: store](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/)
+- [Nintendo: store](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch)
 
 ### Before you play
 
@@ -56,7 +56,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Platformer exact-video verification](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/) · checked 2026-10-23T18:32:45.493637+00:00
+- [Local-mode evidence](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/) · checked 2026-10-24T07:09:45.958258+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -76,3 +76,21 @@ A cooperative 2D adventure with copy abilities and an expanded supporting packag
 
 [Platformer hub](Platformers) | [Comparative study](Platformers-Study) | [Gem shortlist](Platformers-Gems) | [New and upcoming](Platformers-New-and-Upcoming) | [Media atlas](Platformers-Media) | [Source and coverage audit](Platformers-Sources)
 
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** Nintendo Switch
+
+**Participation:** simultaneous
+
+**Input setup:** Read the game-specific controller requirements.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Local cooperative play (Co-op) | 2-4 | See input setup | [Evidence](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/) |
+
+Exact listed console edition. Wireless rooms and online lobbies are not one-system local counts.
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

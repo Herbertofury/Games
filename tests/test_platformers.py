@@ -25,6 +25,11 @@ class PlatformerTests(unittest.TestCase):
   for filename in ['survival-steam.json','survival-external.json']:
    path=R/'data'/filename
    if path.exists():expected.update(g['id'] for g in json.loads(path.read_text())['items'] if not survival_overrides.get(g['id'],{}).get('excludeFromPublication'))
+  # Party records are another canonical source overlay, with explicit non-promoted candidates.
+  party_overrides=json.loads((R/'data/party-curation.json').read_text()).get('overrides',{}) if (R/'data/party-curation.json').exists() else {}
+  for filename in ['party-steam.json','party-extra.json','party-recovered.json','party-external.json']:
+   path=R/'data'/filename
+   if path.exists():expected.update(g['id'] for g in json.loads(path.read_text())['items'] if not party_overrides.get(g['id'],{}).get('excludeFromPublication'))
   self.assertEqual(expected,set(self.by));self.assertEqual(len(self.by),len(self.data['items']))
   self.assertEqual(self.data['build']['inputCount'],len(self.by))
  def test_all_discovery_candidates_reconciled(self):

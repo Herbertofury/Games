@@ -27,24 +27,24 @@ A recent store date can be a remaster, port or collection of older games. It doe
 | [Planet of Lana II](Game-2997230-Planet-of-Lana-II) | 9/10 | 92.5% / 1,107 Steam reviews | Mar 5, 2026 · Released | [Steam](https://store.steampowered.com/app/2997230/) |
 | [Never Grave: The Witch and The Curse](Game-2395770-Never-Grave-The-Witch-and-The-Curse) | 7/10 | 72.5% / 679 Steam reviews | Mar 4, 2026 · Released | [Steam](https://store.steampowered.com/app/2395770/) |
 | [Demon Tides](Game-2585890-Demon-Tides) | 9/10 | 95.9% / 911 Steam reviews | Feb 19, 2026 · Released | [Steam](https://store.steampowered.com/app/2585890/) |
-| [REANIMAL](Game-2129530-REANIMAL) | 7/10 | 75.3% / 26,241 Steam reviews | Feb 13, 2026 · Released | [Steam](https://store.steampowered.com/app/2129530/) |
+| [REANIMAL](Game-2129530-REANIMAL) | 7/10 | 75.3% / 26,241 Steam reviews | Feb 13, 2026 · Released | [Steam](https://store.steampowered.com/app/2129530) · [GOG](https://www.gog.com/en/game/reanimal) · [Steam](https://store.steampowered.com/app/4019420) |
 | [The Pale Piper](Game-2925120-The-Pale-Piper) | 7/10 | 94.4% / 36 Steam reviews | Feb 4, 2026 · Released | [Steam](https://store.steampowered.com/app/2925120/) |
 | [Gooey](Game-3689150-Gooey) | 7/10 | 66.7% / 3 Steam reviews | Jan 21, 2026 · Released | [Steam](https://store.steampowered.com/app/3689150/) |
 | [MIO: Memories in Orbit](Game-1672810-MIO-Memories-in-Orbit) | 9/10 | 82.9% / 5,474 Steam reviews | Jan 20, 2026 · Released | [Steam](https://store.steampowered.com/app/1672810) |
 | [Big Hops Together](Game-1221480-Big-Hops-Together) | 9/10 | 90.9% / 594 Steam reviews | Jan 12, 2026 · Released | [Steam](https://store.steampowered.com/app/1221480/) |
 | [Tomba! 2: The Evil Swine Return Special Edition](Game-3504560-Tomba-2-The-Evil-Swine-Return-Special-Edition) | 8/10 | 92.2% / 347 Steam reviews | Dec 15, 2025 · Released | [Steam](https://store.steampowered.com/app/3504560/) |
-| [Ultimate Sheep Raccoon](Game-2923350-Ultimate-Sheep-Raccoon) | 5/10 | 48.9% / 231 Steam reviews | Dec 9, 2025 · Released | [Steam](https://store.steampowered.com/app/2923350/) |
+| [Ultimate Sheep Raccoon](Game-2923350-Ultimate-Sheep-Raccoon) | 5/10 | 48.9% / 231 Steam reviews | Dec 9, 2025 · Released | [Steam](https://store.steampowered.com/app/2923350) |
 | [Constance](Game-2313700-Constance) | 9/10 | 82.8% / 3,160 Steam reviews | Nov 24, 2025 · Released | [Steam](https://store.steampowered.com/app/2313700) |
 | [Possessor(s)](Game-2132890-Possessor-s) | 7/10 | 76.0% / 838 Steam reviews | Nov 11, 2025 · Released | [Steam](https://store.steampowered.com/app/2132890/) |
 | [Windswept](Game-1660960-Windswept) | 9/10 | 92.6% / 567 Steam reviews | Nov 11, 2025 · Released | [Steam](https://store.steampowered.com/app/1660960/) |
 | [Lone Fungus: Melody of Spores](Game-2463220-Lone-Fungus-Melody-of-Spores) | 8/10 | 95.4% / 284 Steam reviews | Nov 7, 2025 · Released | [Steam](https://store.steampowered.com/app/2463220) |
-| [Biped 2](Game-2560240-Biped-2) | 6/10 | 64.3% / 1,136 Steam reviews | Nov 5, 2025 · Released | [Steam](https://store.steampowered.com/app/2560240/) |
+| [Biped 2](Game-2560240-Biped-2) | 6/10 | 64.3% / 1,136 Steam reviews | Nov 5, 2025 · Released | [Steam](https://store.steampowered.com/app/2560240) · [GOG](https://www.gog.com/en/game/biped_2) |
 | [Little Nightmares III](Game-1392860-Little-Nightmares-III) | 5/10 | 47.1% / 21,407 Steam reviews | Oct 9, 2025 · Released | [Steam](https://store.steampowered.com/app/1392860/) |
 | [Yooka-Replaylee](Game-2448020-Yooka-Replaylee) | 8/10 | 93.0% / 1,131 Steam reviews | Oct 9, 2025 · Released | [Steam](https://store.steampowered.com/app/2448020/) |
 | [Super Mario Galaxy + Super Mario Galaxy 2](Game-external-super-mario-galaxy-collection-Super-Mario-Galaxy-Super-Mario-Galaxy-2) | 10/10 | No aggregate rating | 2025-10-02 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/) |
 | [PAC-MAN WORLD 2 Re-PAC](Game-2324290-PAC-MAN-WORLD-2-Re-PAC) | 8/10 | 90.5% / 871 Steam reviews | Sep 25, 2025 · Released | [Steam](https://store.steampowered.com/app/2324290/) |
 | [Hollow Knight: Silksong](Game-1030300-Hollow-Knight-Silksong) | 10/10 | 89.5% / 426,343 Steam reviews | Sep 4, 2025 · Released | [Steam](https://store.steampowered.com/app/1030300) |
-| [Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World](Game-external-kirby-forgotten-land-Kirby-and-the-Forgotten-Land-Switch-2-Edition-Star-Crossed-World) | 9/10 | No aggregate rating | 2025-08-28 · Released | [Nintendo](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/) |
+| [Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World](Game-external-kirby-forgotten-land-Kirby-and-the-Forgotten-Land-Switch-2-Edition-Star-Crossed-World) | 9/10 | No aggregate rating | 2025-08-28 · Released | [Nintendo](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2) |
 | [SHINOBI: Art of Vengeance](Game-2361770-SHINOBI-Art-of-Vengeance) | 9/10 | 82.3% / 5,015 Steam reviews | Aug 28, 2025 · Released | [Steam](https://store.steampowered.com/app/2361770) · [Steam](https://store.steampowered.com/app/3489510) |
 | [Shantae Advance: Risky Revolution](Game-3055950-Shantae-Advance-Risky-Revolution) | 8/10 | 85.0% / 286 Steam reviews | Aug 19, 2025 · Released | [Steam](https://store.steampowered.com/app/3055950) |
 | [Toree Saturn](Game-2549240-Toree-Saturn) | 8/10 | 93.2% / 457 Steam reviews | Aug 8, 2025 · Released | [Steam](https://store.steampowered.com/app/2549240/) |
@@ -60,7 +60,7 @@ A recent store date can be a remaster, port or collection of older games. It doe
 | [Bionic Bay](Game-1928690-Bionic-Bay) | 9/10 | 84.8% / 956 Steam reviews | Apr 16, 2025 · Released | [Steam](https://store.steampowered.com/app/1928690/) |
 | [Seafrog](Game-2107540-Seafrog) | 8/10 | 96.9% / 65 Steam reviews | Apr 15, 2025 · Released | [Steam](https://store.steampowered.com/app/2107540/) |
 | [Haste](Game-1796470-Haste) | 9/10 | 92.2% / 14,499 Steam reviews | Apr 1, 2025 · Released | [Steam](https://store.steampowered.com/app/1796470/) |
-| [Split Fiction](Game-2001120-Split-Fiction) | 10/10 | 96.9% / 128,584 Steam reviews | Mar 6, 2025 · Released | [Steam](https://store.steampowered.com/app/2001120/) |
+| [Split Fiction](Game-2001120-Split-Fiction) | 10/10 | 96.9% / 128,584 Steam reviews | Mar 6, 2025 · Released | [Steam](https://store.steampowered.com/app/2001120) |
 | [ENDER MAGNOLIA: Bloom in the Mist](Game-2725260-ENDER-MAGNOLIA-Bloom-in-the-Mist) | 9/10 | 95.3% / 19,051 Steam reviews | Jan 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2725260) |
 | [Donkey Kong Country Returns HD](Game-external-dk-country-returns-hd-Donkey-Kong-Country-Returns-HD) | 9/10 | No aggregate rating | 2025-01-16 · Released | [Nintendo](https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/) |
 | [BLADECHIMERA](Game-2671230-BLADECHIMERA) | 8/10 | 89.3% / 1,495 Steam reviews | Jan 15, 2025 · Released | [Steam](https://store.steampowered.com/app/2671230) · [Steam](https://store.steampowered.com/app/3003160) |

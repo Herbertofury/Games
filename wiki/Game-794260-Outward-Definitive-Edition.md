@@ -2,13 +2,13 @@
 
 ![Outward Definitive Edition official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794260/header.jpg?t=1787229712)
 
-**[Open official page](https://store.steampowered.com/app/794260/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A794260)** · [Roguelites](Roguelites)
+**[Open official page](https://store.steampowered.com/app/794260/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A794260)** · [Roguelites](Roguelites) · [Roguelites](Roguelites)
 
 No remarkable journey is achieved without great effort. In Outward, the cold of the night or an infected wound can be as dangerous as a predator lurking in the dark. Explore the vast world of Aurai solo or in Co-op. The Definitive Edition features both DLCs and quality of life improvements.
 
 | Field | Value |
 |:--|:--|
-| Collection | Shared-world adventures |
+| Collection | Shared-world adventures, Co-op campaigns & sandbox evenings |
 | Recommendation | 7/10 |
 | Community reception | 72.6% / 31,670 Steam reviews |
 | Release | May 17, 2022 |
@@ -60,9 +60,9 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/794260/) · checked 2026-10-23T22:40:43.622826+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=794260&l=english&cc=us) · checked 2026-10-23T22:40:43.622826+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A794260%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T22:40:43.622826+00:00
+- [Local-mode evidence](https://store.steampowered.com/app/794260/) · checked 2026-10-24T07:09:45.958258+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=794260&l=english&cc=us) · checked 2026-10-24T05:54:13.119458+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A794260%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-24T05:54:13.119458+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -85,3 +85,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.
 
 **Why it is here:** No remarkable journey is achieved without great effort. In Outward, the cold of the night or an infected wound can be as dangerous as a predator lurking in the dark. Explore the vast world of Aurai solo or in Co-op. The Definitive Edition features both DLCs and quality of life improvements.
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** PC edition
+
+**Participation:** simultaneous
+
+**Input setup:** See controller support and exact mode notes.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Local cooperative play (Co-op) | 2 | See input setup | [Evidence](https://store.steampowered.com/app/794260/) |
+
+
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

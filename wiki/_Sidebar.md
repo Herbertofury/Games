@@ -3,6 +3,12 @@
 [Open interactive library](https://herbertofury.github.io/Games/)
 
 - [Home](Home)
+- [Couch co-op & party](Couch-Coop-and-Party)
+- [Party: full media atlas](Party-Media)
+- [Two people](Party-Two-Players)
+- [Four people](Party-Four-Players)
+- [Five or more](Party-Five-Plus)
+- [Player-count guide](Party-Player-Guide)
 - [Survival](Survival)
 - [Minecraft-like worlds](Minecraft-Like-Worlds)
 - [Survival: complete media atlas](Survival-Media)

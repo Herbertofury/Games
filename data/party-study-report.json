@@ -1,0 +1,156 @@
+{
+  "checkedAt": "2026-10-24T07:44:21.290806+00:00",
+  "records": 1853,
+  "partyRecords": 339,
+  "collections": 23,
+  "statuses": {
+    "Released": 323,
+    "Early Access": 9,
+    "Upcoming": 7
+  },
+  "sourceReferences": 501,
+  "providers": {
+    "Steam": 376,
+    "itch.io": 39,
+    "GOG": 68,
+    "Humble Store": 4,
+    "Nintendo": 13,
+    "Official site": 1
+  },
+  "knownCountRecords": 323,
+  "unconfirmedCountRecords": [
+    {
+      "id": "steam:1499700",
+      "name": "Golazo! 2"
+    },
+    {
+      "id": "steam:571740",
+      "name": "Golf It!"
+    },
+    {
+      "id": "steam:570460",
+      "name": "Laser League: World Arena"
+    },
+    {
+      "id": "steam:296470",
+      "name": "Mount Your Friends"
+    },
+    {
+      "id": "steam:441010",
+      "name": "Mount Your Friends 3D: A Hard Man is Good to Climb"
+    },
+    {
+      "id": "steam:1620040",
+      "name": "Nickelodeon Kart Racers 3: Slime Speedway"
+    },
+    {
+      "id": "steam:1397790",
+      "name": "Samurai GUNN 2"
+    },
+    {
+      "id": "steam:418530",
+      "name": "Spelunky 2"
+    },
+    {
+      "id": "steam:277850",
+      "name": "Sportsfriends"
+    },
+    {
+      "id": "steam:2165810",
+      "name": "Streets of Rogue 2"
+    },
+    {
+      "id": "steam:1913740",
+      "name": "SUPER BOMBERMAN R 2"
+    },
+    {
+      "id": "steam:1487210",
+      "name": "Super Mega Baseball\u2122 4"
+    },
+    {
+      "id": "steam:1515740",
+      "name": "Super Sports Blast"
+    },
+    {
+      "id": "steam:1050510",
+      "name": "Super Tennis Blast"
+    },
+    {
+      "id": "steam:636100",
+      "name": "Tesla vs Lovecraft"
+    },
+    {
+      "id": "steam:217200",
+      "name": "Worms Armageddon"
+    }
+  ],
+  "unconfirmedModeCount": 21,
+  "participation": {
+    "simultaneous": 303,
+    "asymmetric": 2,
+    "phones": 24,
+    "hotseat": 10
+  },
+  "byExactCount": {
+    "2": 315,
+    "3": 240,
+    "4": 240,
+    "5": 66,
+    "6": 65,
+    "7": 55,
+    "8": 55
+  },
+  "artwork": 339,
+  "video": 339,
+  "notPromoted": [
+    {
+      "id": "steam:2445690",
+      "name": "Lost Castle 2",
+      "reason": "The collected exact edition has no confirmed native same-device play; online co-op is not enough for this hub.",
+      "state": "not-promoted"
+    },
+    {
+      "id": "steam:452060",
+      "name": "Caveblazers",
+      "reason": "The reviewed base-game local route is not established independently of modification; retained for a separately verified mod route.",
+      "state": "not-promoted"
+    },
+    {
+      "id": "external:mutiny-bomb",
+      "name": "MUTINY! Local Multiplayer Bomb Game",
+      "reason": "Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.",
+      "state": "not-promoted"
+    },
+    {
+      "id": "external:duck-cover-2",
+      "name": "Duck and Cover 2",
+      "reason": "Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.",
+      "state": "not-promoted"
+    },
+    {
+      "id": "external:pshnggg",
+      "name": "PSHNGGG!",
+      "reason": "Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.",
+      "state": "not-promoted"
+    },
+    {
+      "id": "external:duck-and-gun",
+      "name": "Duck and Gun",
+      "reason": "Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.",
+      "state": "not-promoted"
+    },
+    {
+      "id": "external:sumaburu",
+      "name": "Sumaburu",
+      "reason": "Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.",
+      "state": "not-promoted"
+    },
+    {
+      "id": "external:sumo-dumo",
+      "name": "Sumo Dumo",
+      "reason": "Public game remains in research; an exact embeddable gameplay or trailer source has not yet been verified.",
+      "state": "not-promoted"
+    }
+  ],
+  "datasetHash": "bbe336ff66d0fae7eef04c53d8fc48e17a01a85a8068e79ce0dfef89267a7f01"
+}

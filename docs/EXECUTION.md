@@ -178,3 +178,14 @@ Research boundary: 11 unpromoted names remain unresolved in `data/survival-recon
 Remaining hosting prerequisite: the catalog-32 publication report still records GitHub Pages as disabled. Native Wiki, release, portable HTML and Drive backup are published/synchronized. Settings > Pages > Source: GitHub Actions and a subsequent Publish library run are needed for the hosted interactive site. Do not claim the Pages URL is live.
 
 Exact next action: use catalog-32 and the same stable source IDs for new requests. Preserve all seven hubs, personal storage `games.library.v1`, the separate Minecraft-like worlds navigation, media provenance, source editions and chronology overrides. Apply only requested additions or genuinely invalidated facts, run changed-path tests and publication, and update the same Drive backup. Do not restart completed Survival discovery, chronology repair, media inspection or successful publication jobs.
+
+
+## Couch party source checkpoint, October 24, 2026
+
+Canonical repository and prior catalog-32 remain unchanged in identity. The 347 party discoveries and complete media checkpoint at source 4ea3a695f3b3c0d220f9a513dd3a7e986b9531ca were reused, not re-scraped. Source export ea6d3aa643056992438ec80b137dea6dfb25a64f, run 40072064038, artifact 12551327612 (SHA-256 6f7750e1baa93044e354da4749277bb44c480c298d552be486611924f36dcfbf) and exact-mode evidence run 40072749794/artifact 12552021789 preserve continuity.
+
+Implemented 339 published party identities in 23 primary collections; eight discovery records remain explicitly not promoted, with reasons. Every published entry has artwork, supported video and distribution destinations. Mode-specific player sets, local participation, PC/console editions, additional-DLC conditions, structured search, saved filters, comparisons and full CSV/JSON are integrated without changing games.library.v1. The current canonical catalog preserves all 1,567 prior IDs and seven prior memberships. Overall count: 1,853.
+
+Targeted 14 party unit tests pass. Inline Chromium smoke verifies all 339 cards, 23 collections, mode filtering, complete table and narrow layout with no script errors; inline mode is not proof of network media or storage persistence. The earlier full run identified and fixed exact-union ledger normalization, missing explicit local-support flags and an unsupported Steam movie poster in Blanc. The unsupported poster is retained as unavailableVideoMetadata, while both real streams remain.
+
+Next required gate: hash-guarded source installation and checkpoint, every unit test, the exhaustive scripts/party_qa.py production Chrome gate and every previous browser suite, actual native wiki publication, release assets and Drive backup readback/hash verification. Do not restart broad party discovery or the completed media pipeline. GitHub Pages enablement remains a separate user-controlled prerequisite.

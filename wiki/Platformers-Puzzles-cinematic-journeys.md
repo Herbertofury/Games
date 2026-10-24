@@ -8,7 +8,7 @@ Logical systems, physics puzzles and deliberately paced cinematic adventures. At
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [Portal 2](Game-620-Portal-2) | 10/10 | 98.7% / 468,855 Steam reviews | Apr 18, 2011 · Released | [Steam](https://store.steampowered.com/app/620/) |
+| [Portal 2](Game-620-Portal-2) | 10/10 | 98.7% / 468,855 Steam reviews | Apr 18, 2011 · Released | [Steam](https://store.steampowered.com/app/620) |
 | [INSIDE](Game-304430-INSIDE) | 10/10 | 97.0% / 76,355 Steam reviews | Jul 7, 2016 · Released | [Steam](https://store.steampowered.com/app/304430/) |
 | [FEZ](Game-224760-FEZ) | 10/10 | 92.6% / 16,330 Steam reviews | May 1, 2013 · Released | [Steam](https://store.steampowered.com/app/224760/) |
 | [Portal](Game-400-Portal) | 9/10 | 98.5% / 200,805 Steam reviews | Oct 10, 2007 · Released | [Steam](https://store.steampowered.com/app/400/) |
@@ -40,13 +40,13 @@ Logical systems, physics puzzles and deliberately paced cinematic adventures. At
 | [Another World – 20th Anniversary Edition](Game-233550-Another-World-20th-Anniversary-Edition) | 8/10 | 83.1% / 2,059 Steam reviews | Apr 4, 2013 · Released | [Steam](https://store.steampowered.com/app/233550/) |
 | [DYO](Game-791470-DYO) | 8/10 | 96.3% / 1,997 Steam reviews | Feb 13, 2018 · Released | [Steam](https://store.steampowered.com/app/791470/) |
 | [Max: The Curse of Brotherhood](Game-255390-Max-The-Curse-of-Brotherhood) | 8/10 | 94.6% / 1,669 Steam reviews | May 21, 2014 · Released | [Steam](https://store.steampowered.com/app/255390/) |
-| [Degrees of Separation](Game-809880-Degrees-of-Separation) | 8/10 | 80.1% / 1,356 Steam reviews | Feb 13, 2019 · Released | [Steam](https://store.steampowered.com/app/809880/) |
+| [Degrees of Separation](Game-809880-Degrees-of-Separation) | 8/10 | 80.1% / 1,356 Steam reviews | Feb 13, 2019 · Released | [Steam](https://store.steampowered.com/app/809880) |
 | [Darwin's Paradox!](Game-2989180-Darwin-s-Paradox) | 8/10 | 87.8% / 1,287 Steam reviews | Apr 2, 2026 · Released | [Steam](https://store.steampowered.com/app/2989180/) |
 | [Luna Abyss](Game-1933000-Luna-Abyss) | 8/10 | 87.4% / 1,079 Steam reviews | May 21, 2026 · Released | [Steam](https://store.steampowered.com/app/1933000/) |
 | [Aspire: Ina's Tale](Game-1720090-Aspire-Ina-s-Tale) | 8/10 | 82.9% / 475 Steam reviews | Dec 17, 2021 · Released | [Steam](https://store.steampowered.com/app/1720090/) |
 | [The House of Hikmah](Game-3451680-The-House-of-Hikmah) | 8/10 | 98.6% / 69 Steam reviews | Apr 8, 2026 · Released | [Steam](https://store.steampowered.com/app/3451680/) |
-| [REANIMAL](Game-2129530-REANIMAL) | 7/10 | 75.3% / 26,241 Steam reviews | Feb 13, 2026 · Released | [Steam](https://store.steampowered.com/app/2129530/) |
-| [Unravel Two](Game-1225570-Unravel-Two) | 7/10 | 78.0% / 9,303 Steam reviews | Jun 4, 2020 · Released | [Steam](https://store.steampowered.com/app/1225570/) |
+| [REANIMAL](Game-2129530-REANIMAL) | 7/10 | 75.3% / 26,241 Steam reviews | Feb 13, 2026 · Released | [Steam](https://store.steampowered.com/app/2129530) · [GOG](https://www.gog.com/en/game/reanimal) · [Steam](https://store.steampowered.com/app/4019420) |
+| [Unravel Two](Game-1225570-Unravel-Two) | 7/10 | 78.0% / 9,303 Steam reviews | Jun 4, 2020 · Released | [Steam](https://store.steampowered.com/app/1225570) |
 | [White Shadows](Game-1158890-White-Shadows) | 7/10 | 81.6% / 2,113 Steam reviews | Dec 7, 2021 · Released | [Steam](https://store.steampowered.com/app/1158890/) |
 | [Somerville](Game-1671410-Somerville) | 7/10 | 70.5% / 1,908 Steam reviews | Nov 14, 2022 · Released | [Steam](https://store.steampowered.com/app/1671410/) |
 | [Black The Fall](Game-308060-Black-The-Fall) | 7/10 | 78.1% / 1,839 Steam reviews | Jul 11, 2017 · Released | [Steam](https://store.steampowered.com/app/308060/) |

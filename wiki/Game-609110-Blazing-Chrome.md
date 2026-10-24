@@ -2,7 +2,7 @@
 
 ![Blazing Chrome official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609110/header.jpg?t=1792662660)
 
-**[Open official page](https://store.steampowered.com/app/609110/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A609110)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/609110/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A609110)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 In Blazing Chrome, bring your best pal and kick some metal butts to free the humankind while enjoying a classic run’n’gun, fully loaded with ...
 
@@ -12,7 +12,7 @@ Authored stages, readable encounters and the interplay of movement with combat.
 
 | Field | Value |
 |:--|:--|
-| Collection | Action & retro adventures |
+| Collection | Action & retro adventures, Cooperative arcade chaos |
 | Recommendation | 9/10 |
 | Community reception | 87.2% / 1,991 Steam reviews |
 | Release | Jul 11, 2019 |
@@ -25,7 +25,8 @@ Authored stages, readable encounters and the interplay of movement with combat.
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/609110/)
+- [Steam: store](https://store.steampowered.com/app/609110)
+- [GOG: store](https://www.gog.com/en/game/blazing_chrome) | Exact title in GOG official catalog: Blazing Chrome
 
 ## Videos and screenshots
 
@@ -55,9 +56,10 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/609110/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=609110&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A609110%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Steam](https://store.steampowered.com/app/609110/) · checked 2026-10-24T05:54:13.119458+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=609110&l=english&cc=us) · checked 2026-10-24T05:54:13.119458+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A609110%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-24T05:54:13.119458+00:00
+- [Local-mode evidence](https://playco-opgame.com/blazing-chrome/) · checked 2026-10-24T07:09:45.958258+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -77,3 +79,21 @@ Authored stages, readable encounters and the interplay of movement with combat.
 
 [Platformer hub](Platformers) | [Comparative study](Platformers-Study) | [Gem shortlist](Platformers-Gems) | [New and upcoming](Platformers-New-and-Upcoming) | [Media atlas](Platformers-Media) | [Source and coverage audit](Platformers-Sources)
 
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** PC edition
+
+**Participation:** simultaneous
+
+**Input setup:** See controller support and exact mode notes.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Local cooperative play (Co-op) | 2 | See input setup | [Evidence](https://playco-opgame.com/blazing-chrome/) |
+
+
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

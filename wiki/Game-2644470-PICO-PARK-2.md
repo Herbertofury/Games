@@ -2,7 +2,7 @@
 
 ![PICO PARK 2 official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/header.jpg?t=1760143639)
 
-**[Open official page](https://store.steampowered.com/app/2644470/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2644470)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/2644470/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2644470)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 PICO PARK is back with all new levels! Play with 2-8 players locally or online in this co-op action-puzzle game!
 
@@ -12,7 +12,7 @@ Coordination, shared problem solving or deliberately competitive stage construct
 
 | Field | Value |
 |:--|:--|
-| Collection | Co-op & playful chaos |
+| Collection | Co-op & playful chaos, Big-couch battles: 5+ players |
 | Recommendation | 8/10 |
 | Community reception | 88.5% / 4,806 Steam reviews |
 | Release | Sep 12, 2024 |
@@ -25,7 +25,7 @@ Coordination, shared problem solving or deliberately competitive stage construct
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/2644470/)
+- [Steam: store](https://store.steampowered.com/app/2644470)
 
 ## Videos and screenshots
 
@@ -45,9 +45,9 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/2644470/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2644470&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2644470%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Local-mode evidence](https://store.steampowered.com/app/2644470/) · checked 2026-10-24T07:09:45.958258+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2644470&l=english&cc=us) · checked 2026-10-24T06:04:27.005238+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2644470%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-24T06:04:27.005238+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -67,3 +67,22 @@ Coordination, shared problem solving or deliberately competitive stage construct
 
 [Platformer hub](Platformers) | [Comparative study](Platformers-Study) | [Gem shortlist](Platformers-Gems) | [New and upcoming](Platformers-New-and-Upcoming) | [Media atlas](Platformers-Media) | [Source and coverage audit](Platformers-Sources)
 
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** PC edition
+
+**Participation:** simultaneous
+
+**Input setup:** See controller support and exact mode notes.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Local cooperative play (Co-op) | 2-8 | See input setup | [Evidence](https://store.steampowered.com/app/2644470/) |
+| Local competitive play (Versus) | 2-8 | See input setup | [Evidence](https://store.steampowered.com/app/2644470/) |
+
+Every level supports 2-8 local people; keyboard or controllers and optional TecoGamePad.
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

@@ -80,38 +80,38 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
 | [Hollow Knight](Game-367520-Hollow-Knight) | 10/10 | 96.9% / 566,185 Steam reviews | Feb 24, 2017 · Released | [Steam](https://store.steampowered.com/app/367520) · [GOG](https://www.gog.com/en/game/hollow_knight) |
-| [Portal 2](Game-620-Portal-2) | 10/10 | 98.7% / 468,855 Steam reviews | Apr 18, 2011 · Released | [Steam](https://store.steampowered.com/app/620/) |
+| [Portal 2](Game-620-Portal-2) | 10/10 | 98.7% / 468,855 Steam reviews | Apr 18, 2011 · Released | [Steam](https://store.steampowered.com/app/620) |
 | [Hollow Knight: Silksong](Game-1030300-Hollow-Knight-Silksong) | 10/10 | 89.5% / 426,343 Steam reviews | Sep 4, 2025 · Released | [Steam](https://store.steampowered.com/app/1030300) |
-| [It Takes Two](Game-1426210-It-Takes-Two) | 10/10 | 95.4% / 272,593 Steam reviews | Mar 25, 2021 · Released | [Steam](https://store.steampowered.com/app/1426210/) |
+| [It Takes Two](Game-1426210-It-Takes-Two) | 10/10 | 95.4% / 272,593 Steam reviews | Mar 25, 2021 · Released | [Steam](https://store.steampowered.com/app/1426210) |
 | [Dead Cells](Game-588650-Dead-Cells) | 10/10 | 97.0% / 184,520 Steam reviews | Aug 6, 2018 · Released | [Steam](https://store.steampowered.com/app/588650) · [GOG](https://www.gog.com/en/game/dead_cells) |
 | [Ori and the Will of the Wisps](Game-1057090-Ori-and-the-Will-of-the-Wisps) | 10/10 | 96.4% / 152,535 Steam reviews | Mar 10, 2020 · Released | [Steam](https://store.steampowered.com/app/1057090) |
 | [Celeste](Game-504230-Celeste) | 10/10 | 97.4% / 149,203 Steam reviews | Jan 25, 2018 · Released | [Steam](https://store.steampowered.com/app/504230/) |
-| [Split Fiction](Game-2001120-Split-Fiction) | 10/10 | 96.9% / 128,584 Steam reviews | Mar 6, 2025 · Released | [Steam](https://store.steampowered.com/app/2001120/) |
+| [Split Fiction](Game-2001120-Split-Fiction) | 10/10 | 96.9% / 128,584 Steam reviews | Mar 6, 2025 · Released | [Steam](https://store.steampowered.com/app/2001120) |
 | [INSIDE](Game-304430-INSIDE) | 10/10 | 97.0% / 76,355 Steam reviews | Jul 7, 2016 · Released | [Steam](https://store.steampowered.com/app/304430/) |
 | [Pizza Tower](Game-2231450-Pizza-Tower) | 10/10 | 98.3% / 73,085 Steam reviews | Jan 26, 2023 · Released | [Steam](https://store.steampowered.com/app/2231450/) |
 | [A Hat in Time](Game-253230-A-Hat-in-Time) | 10/10 | 97.8% / 53,617 Steam reviews | Oct 5, 2017 · Released | [Steam](https://store.steampowered.com/app/253230/) |
 | [ANIMAL WELL](Game-813230-ANIMAL-WELL) | 10/10 | 95.7% / 24,807 Steam reviews | May 9, 2024 · Released | [Steam](https://store.steampowered.com/app/813230) |
-| [Spelunky 2](Game-418530-Spelunky-2) | 10/10 | 92.8% / 22,065 Steam reviews | Sep 29, 2020 · Released | [Steam](https://store.steampowered.com/app/418530/) |
+| [Spelunky 2](Game-418530-Spelunky-2) | 10/10 | 92.8% / 22,065 Steam reviews | Sep 29, 2020 · Released | [Steam](https://store.steampowered.com/app/418530) |
 | [Neon White](Game-1533420-Neon-White) | 10/10 | 97.9% / 21,068 Steam reviews | Jun 16, 2022 · Released | [Steam](https://store.steampowered.com/app/1533420/) |
 | [Pseudoregalia](Game-2365810-Pseudoregalia) | 10/10 | 96.8% / 19,225 Steam reviews | Jul 28, 2023 · Released | [Steam](https://store.steampowered.com/app/2365810) |
 | [Shovel Knight: Treasure Trove](Game-250760-Shovel-Knight-Treasure-Trove) | 10/10 | 95.5% / 16,962 Steam reviews | Jun 26, 2014 · Released | [Steam](https://store.steampowered.com/app/250760/) |
-| [Spelunky](Game-239350-Spelunky) | 10/10 | 92.1% / 16,696 Steam reviews | Aug 8, 2013 · Released | [Steam](https://store.steampowered.com/app/239350/) |
+| [Spelunky](Game-239350-Spelunky) | 10/10 | 92.1% / 16,696 Steam reviews | Aug 8, 2013 · Released | [Steam](https://store.steampowered.com/app/239350) · [GOG](https://www.gog.com/en/game/spelunky) |
 | [FEZ](Game-224760-FEZ) | 10/10 | 92.6% / 16,330 Steam reviews | May 1, 2013 · Released | [Steam](https://store.steampowered.com/app/224760/) |
 | [Rogue Legacy 2](Game-1253920-Rogue-Legacy-2) | 10/10 | 90.8% / 15,183 Steam reviews | Apr 28, 2022 · Released | [Steam](https://store.steampowered.com/app/1253920) |
 | [Psychonauts 2](Game-607080-Psychonauts-2) | 10/10 | 95.5% / 14,602 Steam reviews | Aug 24, 2021 · Released | [Steam](https://store.steampowered.com/app/607080/) |
 | [The Messenger](Game-764790-The-Messenger) | 10/10 | 92.6% / 13,345 Steam reviews | Aug 30, 2018 · Released | [Steam](https://store.steampowered.com/app/764790) · [GOG](https://www.gog.com/en/game/the_messenger) |
-| [Rayman® Legends](Game-242550-Rayman-Legends) | 10/10 | 89.9% / 12,453 Steam reviews | Sep 3, 2013 · Released | [Steam](https://store.steampowered.com/app/242550/) |
+| [Rayman® Legends](Game-242550-Rayman-Legends) | 10/10 | 89.9% / 12,453 Steam reviews | Sep 3, 2013 · Released | [Steam](https://store.steampowered.com/app/242550) |
 | [Echo Point Nova](Game-1836730-Echo-Point-Nova) | 10/10 | 96.5% / 8,099 Steam reviews | Sep 24, 2024 · Released | [Steam](https://store.steampowered.com/app/1836730/) |
 | [Prince of Persia The Lost Crown](Game-2751000-Prince-of-Persia-The-Lost-Crown) | 10/10 | 83.7% / 7,640 Steam reviews | Aug 8, 2024 · Released | [Steam](https://store.steampowered.com/app/2751000) |
-| [Rayman® Origins](Game-207490-Rayman-Origins) | 10/10 | 94.2% / 6,253 Steam reviews | Mar 29, 2012 · Released | [Steam](https://store.steampowered.com/app/207490/) |
+| [Rayman® Origins](Game-207490-Rayman-Origins) | 10/10 | 94.2% / 6,253 Steam reviews | Mar 29, 2012 · Released | [Steam](https://store.steampowered.com/app/207490) · [GOG](https://www.gog.com/en/game/rayman_origins) |
 | [Tinykin](Game-1599020-Tinykin) | 10/10 | 97.8% / 4,390 Steam reviews | Aug 30, 2022 · Released | [Steam](https://store.steampowered.com/app/1599020/) |
-| [N++ (NPLUSPLUS)](Game-230270-N-NPLUSPLUS) | 10/10 | 93.7% / 3,582 Steam reviews | Aug 25, 2016 · Released | [Steam](https://store.steampowered.com/app/230270/) |
+| [N++ (NPLUSPLUS)](Game-230270-N-NPLUSPLUS) | 10/10 | 93.7% / 3,582 Steam reviews | Aug 25, 2016 · Released | [Steam](https://store.steampowered.com/app/230270) |
 | [ASTRO BOT](Game-external-astro-bot-ASTRO-BOT) | 10/10 | No aggregate rating | 2024-09-06 · Released | [PlayStation](https://www.playstation.com/en-us/games/astro-bot/) |
 | [Donkey Kong Bananza](Game-external-donkey-kong-bananza-Donkey-Kong-Bananza) | 10/10 | No aggregate rating | 2025-07-17 · Released | [Nintendo](https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/) |
 | [Donkey Kong Country: Tropical Freeze](Game-external-dk-tropical-freeze-Donkey-Kong-Country-Tropical-Freeze) | 10/10 | No aggregate rating | 2018-05-04 · Released | [Nintendo](https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/) |
 | [Metroid Dread](Game-external-metroid-dread-Metroid-Dread) | 10/10 | No aggregate rating | 2021-10-08 · Released | [Nintendo](https://www.nintendo.com/us/store/products/metroid-dread-switch) |
-| [Super Mario 3D World + Bowser's Fury](Game-external-super-mario-3d-world-bowsers-fury-Super-Mario-3D-World-Bowser-s-Fury) | 10/10 | No aggregate rating | 2021-02-12 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) |
-| [Super Mario Bros. Wonder](Game-external-super-mario-bros-wonder-Super-Mario-Bros-Wonder) | 10/10 | No aggregate rating | 2023-10-20 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/) |
+| [Super Mario 3D World + Bowser's Fury](Game-external-super-mario-3d-world-bowsers-fury-Super-Mario-3D-World-Bowser-s-Fury) | 10/10 | No aggregate rating | 2021-02-12 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch) |
+| [Super Mario Bros. Wonder](Game-external-super-mario-bros-wonder-Super-Mario-Bros-Wonder) | 10/10 | No aggregate rating | 2023-10-20 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch) |
 | [Super Mario Galaxy + Super Mario Galaxy 2](Game-external-super-mario-galaxy-collection-Super-Mario-Galaxy-Super-Mario-Galaxy-2) | 10/10 | No aggregate rating | 2025-10-02 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/) |
 | [Super Mario Odyssey](Game-external-super-mario-odyssey-Super-Mario-Odyssey) | 10/10 | No aggregate rating | 2017-10-27 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/) |
 | [PEAK](Game-3527290-PEAK) | 9/10 | 94.4% / 381,476 Steam reviews | Jun 16, 2025 · Released | [Steam](https://store.steampowered.com/app/3527290/) |
@@ -120,7 +120,7 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [GRIS](Game-683320-GRIS) | 9/10 | 96.0% / 96,835 Steam reviews | Dec 13, 2018 · Released | [Steam](https://store.steampowered.com/app/683320/) |
 | [Noita](Game-881100-Noita) | 9/10 | 95.1% / 89,501 Steam reviews | Oct 15, 2020 · Released | [Steam](https://store.steampowered.com/app/881100/) |
 | [Katana ZERO](Game-460950-Katana-ZERO) | 9/10 | 97.9% / 76,468 Steam reviews | Apr 18, 2019 · Released | [Steam](https://store.steampowered.com/app/460950/) |
-| [BattleBlock Theater®](Game-238460-BattleBlock-Theater) | 9/10 | 97.2% / 72,975 Steam reviews | May 15, 2014 · Released | [Steam](https://store.steampowered.com/app/238460/) |
+| [BattleBlock Theater®](Game-238460-BattleBlock-Theater) | 9/10 | 97.2% / 72,975 Steam reviews | May 15, 2014 · Released | [Steam](https://store.steampowered.com/app/238460) |
 | [Ori and the Blind Forest: Definitive Edition](Game-387290-Ori-and-the-Blind-Forest-Definitive-Edition) | 9/10 | 95.0% / 72,358 Steam reviews | Apr 27, 2016 · Released | [Steam](https://store.steampowered.com/app/387290) |
 | [Blasphemous](Game-774361-Blasphemous) | 9/10 | 89.8% / 68,068 Steam reviews | Sep 10, 2019 · Released | [Steam](https://store.steampowered.com/app/774361) · [GOG](https://www.gog.com/en/game/blasphemous) |
 | [Ghostrunner](Game-1139900-Ghostrunner) | 9/10 | 91.2% / 67,104 Steam reviews | Oct 27, 2020 · Released | [Steam](https://store.steampowered.com/app/1139900/) |
@@ -128,19 +128,19 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [Little Nightmares II](Game-860510-Little-Nightmares-II) | 9/10 | 92.9% / 59,032 Steam reviews | Feb 10, 2021 · Released | [Steam](https://store.steampowered.com/app/860510/) |
 | [Rain World](Game-312520-Rain-World) | 9/10 | 93.7% / 58,242 Steam reviews | Mar 28, 2017 · Released | [Steam](https://store.steampowered.com/app/312520) · [GOG](https://www.gog.com/en/game/rain_world) |
 | [Skul: The Hero Slayer](Game-1147560-Skul-The-Hero-Slayer) | 9/10 | 93.3% / 57,744 Steam reviews | Jan 20, 2021 · Released | [Steam](https://store.steampowered.com/app/1147560/) |
-| [Ultimate Chicken Horse](Game-386940-Ultimate-Chicken-Horse) | 9/10 | 95.8% / 53,775 Steam reviews | Mar 4, 2016 · Released | [Steam](https://store.steampowered.com/app/386940/) |
+| [Ultimate Chicken Horse](Game-386940-Ultimate-Chicken-Horse) | 9/10 | 95.8% / 53,775 Steam reviews | Mar 4, 2016 · Released | [Steam](https://store.steampowered.com/app/386940) |
 | [Nine Sols](Game-1809540-Nine-Sols) | 9/10 | 94.4% / 46,597 Steam reviews | May 28, 2024 · Released | [Steam](https://store.steampowered.com/app/1809540) |
 | [ENDER LILIES: Quietus of the Knights](Game-1369630-ENDER-LILIES-Quietus-of-the-Knights) | 9/10 | 93.7% / 46,290 Steam reviews | Jun 21, 2021 · Released | [Steam](https://store.steampowered.com/app/1369630) |
 | [SANABI](Game-1562700-SANABI) | 9/10 | 97.2% / 45,518 Steam reviews | Nov 8, 2023 · Released | [Steam](https://store.steampowered.com/app/1562700/) |
 | [Bloodstained: Ritual of the Night](Game-692850-Bloodstained-Ritual-of-the-Night) | 9/10 | 93.0% / 41,971 Steam reviews | Jun 18, 2019 · Released | [Steam](https://store.steampowered.com/app/692850) |
 | [Super Meat Boy](Game-40800-Super-Meat-Boy) | 9/10 | 94.1% / 39,328 Steam reviews | Nov 30, 2010 · Released | [Steam](https://store.steampowered.com/app/40800/) |
 | [Sonic Mania](Game-584400-Sonic-Mania) | 9/10 | 93.9% / 29,073 Steam reviews | Aug 29, 2017 · Released | [Steam](https://store.steampowered.com/app/584400/) |
-| [Risk of Rain Returns](Game-1337520-Risk-of-Rain-Returns) | 9/10 | 90.0% / 28,786 Steam reviews | Nov 8, 2023 · Released | [Steam](https://store.steampowered.com/app/1337520/) |
+| [Risk of Rain Returns](Game-1337520-Risk-of-Rain-Returns) | 9/10 | 90.0% / 28,786 Steam reviews | Nov 8, 2023 · Released | [Steam](https://store.steampowered.com/app/1337520) |
 | [A Short Hike](Game-1055540-A-Short-Hike) | 9/10 | 99.1% / 22,967 Steam reviews | Jul 30, 2019 · Released | [Steam](https://store.steampowered.com/app/1055540/) |
 | [Crash Bandicoot™ N. Sane Trilogy](Game-731490-Crash-Bandicoot-N-Sane-Trilogy) | 9/10 | 92.0% / 22,484 Steam reviews | Jun 29, 2018 · Released | [Steam](https://store.steampowered.com/app/731490/) |
 | [Spyro™ Reignited Trilogy](Game-996580-Spyro-Reignited-Trilogy) | 9/10 | 93.5% / 22,472 Steam reviews | Sep 3, 2019 · Released | [Steam](https://store.steampowered.com/app/996580/) |
 | [Blasphemous 2](Game-2114740-Blasphemous-2) | 9/10 | 90.7% / 22,180 Steam reviews | Aug 24, 2023 · Released | [Steam](https://store.steampowered.com/app/2114740) · [GOG](https://www.gog.com/en/game/blasphemous_2) |
-| [Trine 2: Complete Story](Game-35720-Trine-2-Complete-Story) | 9/10 | 95.3% / 22,057 Steam reviews | Jun 6, 2013 · Released | [Steam](https://store.steampowered.com/app/35720/) |
+| [Trine 2: Complete Story](Game-35720-Trine-2-Complete-Story) | 9/10 | 95.3% / 22,057 Steam reviews | Jun 6, 2013 · Released | [Steam](https://store.steampowered.com/app/35720) · [Steam](https://store.steampowered.com/app/204260) |
 | [Psychonauts](Game-3830-Psychonauts) | 9/10 | 94.9% / 19,431 Steam reviews | Oct 11, 2006 · Released | [Steam](https://store.steampowered.com/app/3830/) |
 | [ENDER MAGNOLIA: Bloom in the Mist](Game-2725260-ENDER-MAGNOLIA-Bloom-in-the-Mist) | 9/10 | 95.3% / 19,051 Steam reviews | Jan 22, 2025 · Released | [Steam](https://store.steampowered.com/app/2725260) |
 | [Rogue Legacy](Game-241600-Rogue-Legacy) | 9/10 | 92.3% / 18,875 Steam reviews | Jun 27, 2013 · Released | [Steam](https://store.steampowered.com/app/241600) · [GOG](https://www.gog.com/en/game/rogue_legacy) |
@@ -150,17 +150,17 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [Webbed](Game-1390350-Webbed) | 9/10 | 97.6% / 15,361 Steam reviews | Sep 9, 2021 · Released | [Steam](https://store.steampowered.com/app/1390350/) |
 | [Touhou Luna Nights](Game-851100-Touhou-Luna-Nights) | 9/10 | 97.3% / 15,029 Steam reviews | Feb 25, 2019 · Released | [Steam](https://store.steampowered.com/app/851100) |
 | [Haste](Game-1796470-Haste) | 9/10 | 92.2% / 14,499 Steam reviews | Apr 1, 2025 · Released | [Steam](https://store.steampowered.com/app/1796470/) |
-| [Trine 4: The Nightmare Prince](Game-690640-Trine-4-The-Nightmare-Prince) | 9/10 | 88.6% / 14,384 Steam reviews | Oct 8, 2019 · Released | [Steam](https://store.steampowered.com/app/690640/) |
+| [Trine 4: The Nightmare Prince](Game-690640-Trine-4-The-Nightmare-Prince) | 9/10 | 88.6% / 14,384 Steam reviews | Oct 8, 2019 · Released | [Steam](https://store.steampowered.com/app/690640) |
 | [Rabi-Ribi](Game-400910-Rabi-Ribi) | 9/10 | 95.2% / 12,273 Steam reviews | Jan 28, 2016 · Released | [Steam](https://store.steampowered.com/app/400910) |
 | [Momodora: Reverie Under The Moonlight](Game-428550-Momodora-Reverie-Under-The-Moonlight) | 9/10 | 93.1% / 11,999 Steam reviews | Mar 4, 2016 · Released | [Steam](https://store.steampowered.com/app/428550) |
-| [Pikuniku](Game-572890-Pikuniku) | 9/10 | 95.9% / 11,958 Steam reviews | Jan 24, 2019 · Released | [Steam](https://store.steampowered.com/app/572890/) |
+| [Pikuniku](Game-572890-Pikuniku) | 9/10 | 95.9% / 11,958 Steam reviews | Jan 24, 2019 · Released | [Steam](https://store.steampowered.com/app/572890) · [GOG](https://www.gog.com/en/game/pikuniku) · [itch.io](https://devolverdigital.itch.io/pikuniku) |
 | [Neva](Game-2420660-Neva) | 9/10 | 93.5% / 10,930 Steam reviews | Oct 15, 2024 · Released | [Steam](https://store.steampowered.com/app/2420660/) |
 | [Planet of Lana](Game-1608230-Planet-of-Lana) | 9/10 | 93.0% / 10,857 Steam reviews | May 23, 2023 · Released | [Steam](https://store.steampowered.com/app/1608230/) |
 | [VVVVVV](Game-70300-VVVVVV) | 9/10 | 96.2% / 10,598 Steam reviews | Sep 7, 2010 · Released | [Steam](https://store.steampowered.com/app/70300/) |
 | [REPLACED](Game-1663850-REPLACED) | 9/10 | 85.1% / 10,383 Steam reviews | Apr 14, 2026 · Released | [Steam](https://store.steampowered.com/app/1663850/) |
 | [Thomas Was Alone](Game-220780-Thomas-Was-Alone) | 9/10 | 93.7% / 9,400 Steam reviews | Nov 12, 2012 · Released | [Steam](https://store.steampowered.com/app/220780/) |
 | [SteamWorld Dig 2](Game-571310-SteamWorld-Dig-2) | 9/10 | 95.5% / 9,173 Steam reviews | Sep 22, 2017 · Released | [Steam](https://store.steampowered.com/app/571310) · [GOG](https://www.gog.com/en/game/steamworld_dig_2) |
-| [Astral Ascent](Game-1280930-Astral-Ascent) | 9/10 | 94.5% / 8,702 Steam reviews | Nov 14, 2023 · Released | [Steam](https://store.steampowered.com/app/1280930/) |
+| [Astral Ascent](Game-1280930-Astral-Ascent) | 9/10 | 94.5% / 8,702 Steam reviews | Nov 14, 2023 · Released | [Steam](https://store.steampowered.com/app/1280930) · [GOG](https://www.gog.com/en/game/astral_ascent) |
 | [Cave Story+](Game-200900-Cave-Story) | 9/10 | 92.8% / 8,379 Steam reviews | Nov 22, 2011 · Released | [Steam](https://store.steampowered.com/app/200900) · [GOG](https://www.gog.com/en/game/cave_story) |
 | [The Swapper](Game-231160-The-Swapper) | 9/10 | 94.1% / 7,596 Steam reviews | May 30, 2013 · Released | [Steam](https://store.steampowered.com/app/231160) · [GOG](https://www.gog.com/en/game/the_swapper) |
 | [Guacamelee! Super Turbo Championship Edition](Game-275390-Guacamelee-Super-Turbo-Championship-Edition) | 9/10 | 92.5% / 7,127 Steam reviews | Aug 21, 2014 · Released | [Steam](https://store.steampowered.com/app/275390) · [GOG](https://www.gog.com/en/game/guacamelee_super_turbo_championship_edition) |
@@ -180,9 +180,9 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [SHINOBI: Art of Vengeance](Game-2361770-SHINOBI-Art-of-Vengeance) | 9/10 | 82.3% / 5,015 Steam reviews | Aug 28, 2025 · Released | [Steam](https://store.steampowered.com/app/2361770) · [Steam](https://store.steampowered.com/app/3489510) |
 | [Freedom Planet](Game-248310-Freedom-Planet) | 9/10 | 95.0% / 4,913 Steam reviews | Jul 21, 2014 · Released | [Steam](https://store.steampowered.com/app/248310/) |
 | [ANTONBLAST](Game-1887400-ANTONBLAST) | 9/10 | 95.3% / 4,737 Steam reviews | Dec 3, 2024 · Released | [Steam](https://store.steampowered.com/app/1887400/) |
-| [Sackboy™: A Big Adventure](Game-1599660-Sackboy-A-Big-Adventure) | 9/10 | 83.5% / 4,553 Steam reviews | Oct 27, 2022 · Released | [Steam](https://store.steampowered.com/app/1599660/) |
+| [Sackboy™: A Big Adventure](Game-1599660-Sackboy-A-Big-Adventure) | 9/10 | 83.5% / 4,553 Steam reviews | Oct 27, 2022 · Released | [Steam](https://store.steampowered.com/app/1599660) |
 | [Bloodstained: Curse of the Moon](Game-838310-Bloodstained-Curse-of-the-Moon) | 9/10 | 94.3% / 4,536 Steam reviews | May 24, 2018 · Released | [Steam](https://store.steampowered.com/app/838310/) |
-| [HUNTDOWN](Game-598550-HUNTDOWN) | 9/10 | 94.8% / 4,470 Steam reviews | May 12, 2021 · Released | [Steam](https://store.steampowered.com/app/598550/) |
+| [HUNTDOWN](Game-598550-HUNTDOWN) | 9/10 | 94.8% / 4,470 Steam reviews | May 12, 2021 · Released | [Steam](https://store.steampowered.com/app/598550) · [GOG](https://www.gog.com/en/game/huntdown) |
 | [Supraland Six Inches Under](Game-1522870-Supraland-Six-Inches-Under) | 9/10 | 96.1% / 4,344 Steam reviews | Jan 14, 2022 · Released | [Steam](https://store.steampowered.com/app/1522870) · [Steam](https://store.steampowered.com/app/1875080) |
 | [Crash Bandicoot™ 4: It’s About Time](Game-1378990-Crash-Bandicoot-4-It-s-About-Time) | 9/10 | 86.4% / 4,326 Steam reviews | Oct 18, 2022 · Released | [Steam](https://store.steampowered.com/app/1378990/) |
 | [Cyber Hook](Game-1130410-Cyber-Hook) | 9/10 | 94.9% / 4,201 Steam reviews | Sep 24, 2020 · Released | [Steam](https://store.steampowered.com/app/1130410/) |
@@ -190,10 +190,10 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [TEVI](Game-2230650-TEVI) | 9/10 | 88.9% / 4,091 Steam reviews | Nov 29, 2023 · Released | [Steam](https://store.steampowered.com/app/2230650) · [Steam](https://store.steampowered.com/app/2320160) |
 | [Denshattack!](Game-2524850-Denshattack) | 9/10 | 98.3% / 3,801 Steam reviews | Jul 15, 2026 · Released | [Steam](https://store.steampowered.com/app/2524850/) |
 | [Oddworld: New 'n' Tasty](Game-314660-Oddworld-New-n-Tasty) | 9/10 | 85.5% / 3,681 Steam reviews | Feb 25, 2015 · Released | [Steam](https://store.steampowered.com/app/314660/) |
-| [TowerFall Ascension](Game-251470-TowerFall-Ascension) | 9/10 | 95.0% / 3,640 Steam reviews | Mar 11, 2014 · Released | [Steam](https://store.steampowered.com/app/251470/) |
+| [TowerFall Ascension](Game-251470-TowerFall-Ascension) | 9/10 | 95.0% / 3,640 Steam reviews | Mar 11, 2014 · Released | [Steam](https://store.steampowered.com/app/251470) · [GOG](https://www.gog.com/en/game/towerfall_ascension) · [itch.io](https://maddymakesgamesinc.itch.io/towerfall) |
 | [HAAK](Game-1352930-HAAK) | 9/10 | 89.4% / 3,567 Steam reviews | Aug 24, 2022 · Released | [Steam](https://store.steampowered.com/app/1352930) · [itch.io](https://blingames.itch.io/haak) · [Steam](https://store.steampowered.com/app/1677820) |
 | [The End Is Nigh](Game-583470-The-End-Is-Nigh) | 9/10 | 93.7% / 3,531 Steam reviews | Jul 12, 2017 · Released | [Steam](https://store.steampowered.com/app/583470/) |
-| [Trine 5: A Clockwork Conspiracy](Game-1436700-Trine-5-A-Clockwork-Conspiracy) | 9/10 | 89.3% / 3,498 Steam reviews | Aug 31, 2023 · Released | [Steam](https://store.steampowered.com/app/1436700/) |
+| [Trine 5: A Clockwork Conspiracy](Game-1436700-Trine-5-A-Clockwork-Conspiracy) | 9/10 | 89.3% / 3,498 Steam reviews | Aug 31, 2023 · Released | [Steam](https://store.steampowered.com/app/1436700) |
 | [Guacamelee! 2](Game-534550-Guacamelee-2) | 9/10 | 91.1% / 3,399 Steam reviews | Aug 21, 2018 · Released | [Steam](https://store.steampowered.com/app/534550) · [GOG](https://www.gog.com/en/game/guacamelee_2) |
 | [Momodora: Moonlit Farewell](Game-1747760-Momodora-Moonlit-Farewell) | 9/10 | 92.0% / 3,321 Steam reviews | Jan 11, 2024 · Released | [Steam](https://store.steampowered.com/app/1747760) |
 | [Crypt Custodian](Game-2394650-Crypt-Custodian) | 9/10 | 97.1% / 3,261 Steam reviews | Aug 27, 2024 · Released | [Steam](https://store.steampowered.com/app/2394650) · [GOG](https://www.gog.com/en/game/crypt_custodian) |
@@ -206,7 +206,7 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [NINJA GAIDEN: Ragebound](Game-2542120-NINJA-GAIDEN-Ragebound) | 9/10 | 92.3% / 2,749 Steam reviews | Jul 31, 2025 · Released | [Steam](https://store.steampowered.com/app/2542120/) |
 | [Monster Boy and the Cursed Kingdom](Game-449610-Monster-Boy-and-the-Cursed-Kingdom) | 9/10 | 88.2% / 2,684 Steam reviews | Jul 25, 2019 · Released | [Steam](https://store.steampowered.com/app/449610) · [GOG](https://www.gog.com/en/game/monster_boy_and_the_cursed_kingdom) · [Steam](https://store.steampowered.com/app/1070270) |
 | [Castlevania Advance Collection](Game-1552550-Castlevania-Advance-Collection) | 9/10 | 91.6% / 2,632 Steam reviews | Sep 23, 2021 · Released | [Steam](https://store.steampowered.com/app/1552550) |
-| [Heave Ho](Game-905340-Heave-Ho) | 9/10 | 91.3% / 2,609 Steam reviews | Aug 29, 2019 · Released | [Steam](https://store.steampowered.com/app/905340/) |
+| [Heave Ho](Game-905340-Heave-Ho) | 9/10 | 91.3% / 2,609 Steam reviews | Aug 29, 2019 · Released | [Steam](https://store.steampowered.com/app/905340) · [GOG](https://www.gog.com/en/game/heave_ho) |
 | [Wonder Boy: The Dragon's Trap](Game-543260-Wonder-Boy-The-Dragon-s-Trap) | 9/10 | 84.6% / 2,598 Steam reviews | Jun 8, 2017 · Released | [Steam](https://store.steampowered.com/app/543260) |
 | [Islets](Game-1669420-Islets) | 9/10 | 95.2% / 2,583 Steam reviews | Aug 24, 2022 · Released | [Steam](https://store.steampowered.com/app/1669420) · [GOG](https://www.gog.com/en/game/islets) |
 | [Revita](Game-1175460-Revita) | 9/10 | 81.1% / 2,441 Steam reviews | Apr 21, 2022 · Released | [Steam](https://store.steampowered.com/app/1175460/) |
@@ -216,7 +216,7 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [Kaze and the Wild Masks](Game-829280-Kaze-and-the-Wild-Masks) | 9/10 | 93.9% / 2,083 Steam reviews | Mar 26, 2021 · Released | [Steam](https://store.steampowered.com/app/829280/) |
 | [Spark the Electric Jester 3](Game-1629530-Spark-the-Electric-Jester-3) | 9/10 | 96.4% / 2,052 Steam reviews | Aug 14, 2022 · Released | [Steam](https://store.steampowered.com/app/1629530/) |
 | [Spiritfall](Game-1835240-Spiritfall) | 9/10 | 92.7% / 2,008 Steam reviews | Feb 28, 2024 · Released | [Steam](https://store.steampowered.com/app/1835240/) |
-| [Blazing Chrome](Game-609110-Blazing-Chrome) | 9/10 | 87.2% / 1,991 Steam reviews | Jul 11, 2019 · Released | [Steam](https://store.steampowered.com/app/609110/) |
+| [Blazing Chrome](Game-609110-Blazing-Chrome) | 9/10 | 87.2% / 1,991 Steam reviews | Jul 11, 2019 · Released | [Steam](https://store.steampowered.com/app/609110) · [GOG](https://www.gog.com/en/game/blazing_chrome) |
 | [Lunistice](Game-1701800-Lunistice) | 9/10 | 95.5% / 1,962 Steam reviews | Nov 10, 2022 · Released | [Steam](https://store.steampowered.com/app/1701800/) |
 | [Yellow Taxi Goes Vroom](Game-2011780-Yellow-Taxi-Goes-Vroom) | 9/10 | 96.7% / 1,947 Steam reviews | Apr 9, 2024 · Released | [Steam](https://store.steampowered.com/app/2011780/) |
 | [Braid, Anniversary Edition](Game-499180-Braid-Anniversary-Edition) | 9/10 | 92.3% / 1,936 Steam reviews | May 14, 2024 · Released | [Steam](https://store.steampowered.com/app/499180/) |
@@ -262,14 +262,14 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [CELESTE Classic](Game-external-celeste-classic-CELESTE-Classic) | 9/10 | No aggregate rating | Original date not independently recorded · Released | [itch.io](https://maddymakesgamesinc.itch.io/celesteclassic) |
 | [Celeste Classic 2: Lani's Trek](Game-external-celeste-classic-2-Celeste-Classic-2-Lani-s-Trek) | 9/10 | No aggregate rating | 2021-01-25 · Released | [itch.io](https://maddymakesgamesinc.itch.io/celeste-classic-2) |
 | [Donkey Kong Country Returns HD](Game-external-dk-country-returns-hd-Donkey-Kong-Country-Returns-HD) | 9/10 | No aggregate rating | 2025-01-16 · Released | [Nintendo](https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/) |
-| [Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World](Game-external-kirby-forgotten-land-Kirby-and-the-Forgotten-Land-Switch-2-Edition-Star-Crossed-World) | 9/10 | No aggregate rating | 2025-08-28 · Released | [Nintendo](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/) |
-| [Kirby's Return to Dream Land Deluxe](Game-external-kirby-return-dreamland-deluxe-Kirby-s-Return-to-Dream-Land-Deluxe) | 9/10 | No aggregate rating | 2023-02-24 · Released | [Nintendo](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/) |
+| [Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World](Game-external-kirby-forgotten-land-Kirby-and-the-Forgotten-Land-Switch-2-Edition-Star-Crossed-World) | 9/10 | No aggregate rating | 2025-08-28 · Released | [Nintendo](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2) |
+| [Kirby's Return to Dream Land Deluxe](Game-external-kirby-return-dreamland-deluxe-Kirby-s-Return-to-Dream-Land-Deluxe) | 9/10 | No aggregate rating | 2023-02-24 · Released | [Nintendo](https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch) |
 | [Super Mario Maker 2](Game-external-super-mario-maker-2-Super-Mario-Maker-2) | 9/10 | No aggregate rating | 2019-06-28 · Released | [Nintendo](https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/) |
 | [Yoshi and the Mysterious Book](Game-external-yoshi-mysterious-book-Yoshi-and-the-Mysterious-Book) | 9/10 | No aggregate rating | 2026-05-21 · Released | [Nintendo](https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/) |
-| [Human Fall Flat](Game-477160-Human-Fall-Flat) | 8/10 | 94.6% / 227,739 Steam reviews | Jul 22, 2016 · Released | [Steam](https://store.steampowered.com/app/477160/) |
+| [Human Fall Flat](Game-477160-Human-Fall-Flat) | 8/10 | 94.6% / 227,739 Steam reviews | Jul 22, 2016 · Released | [Steam](https://store.steampowered.com/app/477160) |
 | [Getting Over It with Bennett Foddy](Game-240720-Getting-Over-It-with-Bennett-Foddy) | 8/10 | 82.3% / 83,024 Steam reviews | Dec 6, 2017 · Released | [Steam](https://store.steampowered.com/app/240720/) |
 | [Chained Together](Game-2567870-Chained-Together) | 8/10 | 89.6% / 64,907 Steam reviews | Jun 19, 2024 · Released | [Steam](https://store.steampowered.com/app/2567870/) |
-| [PICO PARK](Game-1509960-PICO-PARK) | 8/10 | 90.7% / 30,019 Steam reviews | May 7, 2021 · Released | [Steam](https://store.steampowered.com/app/1509960/) |
+| [PICO PARK](Game-1509960-PICO-PARK) | 8/10 | 90.7% / 30,019 Steam reviews | May 7, 2021 · Released | [Steam](https://store.steampowered.com/app/1509960) |
 | [A Story About My Uncle](Game-278360-A-Story-About-My-Uncle) | 8/10 | 91.5% / 29,255 Steam reviews | May 28, 2014 · Released | [Steam](https://store.steampowered.com/app/278360/) |
 | [Sonic Adventure 2](Game-213610-Sonic-Adventure-2) | 8/10 | 89.2% / 28,755 Steam reviews | Nov 19, 2012 · Released | [Steam](https://store.steampowered.com/app/213610/) |
 | [Sonic Frontiers](Game-1237320-Sonic-Frontiers) | 8/10 | 89.0% / 28,746 Steam reviews | Nov 7, 2022 · Released | [Steam](https://store.steampowered.com/app/1237320/) |
@@ -279,9 +279,9 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [Clustertruck](Game-397950-Clustertruck) | 8/10 | 93.5% / 18,653 Steam reviews | Sep 27, 2016 · Released | [Steam](https://store.steampowered.com/app/397950/) |
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](Game-969990-SpongeBob-SquarePants-Battle-for-Bikini-Bottom-Rehydrated) | 8/10 | 94.0% / 18,294 Steam reviews | Jun 23, 2020 · Released | [Steam](https://store.steampowered.com/app/969990/) |
 | [Refunct](Game-406150-Refunct) | 8/10 | 95.8% / 17,474 Steam reviews | Oct 16, 2015 · Released | [Steam](https://store.steampowered.com/app/406150/) |
-| [Trine Enchanted Edition](Game-35700-Trine-Enchanted-Edition) | 8/10 | 95.6% / 15,975 Steam reviews | Jul 2, 2009 · Released | [Steam](https://store.steampowered.com/app/35700/) |
+| [Trine Enchanted Edition](Game-35700-Trine-Enchanted-Edition) | 8/10 | 95.6% / 15,975 Steam reviews | Jul 2, 2009 · Released | [Steam](https://store.steampowered.com/app/35700) · [GOG](https://www.gog.com/en/game/trine_enchanted_edition) · [Steam](https://store.steampowered.com/app/35710) |
 | [Jump King](Game-1061090-Jump-King) | 8/10 | 89.8% / 13,490 Steam reviews | May 3, 2019 · Released | [Steam](https://store.steampowered.com/app/1061090/) |
-| [Biped](Game-1071870-Biped) | 8/10 | 85.1% / 11,640 Steam reviews | Mar 26, 2020 · Released | [Steam](https://store.steampowered.com/app/1071870/) |
+| [Biped](Game-1071870-Biped) | 8/10 | 85.1% / 11,640 Steam reviews | Mar 26, 2020 · Released | [Steam](https://store.steampowered.com/app/1071870) · [GOG](https://www.gog.com/en/game/biped) |
 | [SteamWorld Dig](Game-252410-SteamWorld-Dig) | 8/10 | 93.5% / 11,064 Steam reviews | Dec 5, 2013 · Released | [Steam](https://store.steampowered.com/app/252410) · [GOG](https://www.gog.com/en/game/steamworld_dig) |
 | [Have a Nice Death](Game-1740720-Have-a-Nice-Death) | 8/10 | 85.8% / 10,842 Steam reviews | Mar 22, 2023 · Released | [Steam](https://store.steampowered.com/app/1740720/) |
 | [Pumpkin Jack](Game-1186640-Pumpkin-Jack) | 8/10 | 91.0% / 9,964 Steam reviews | Oct 23, 2020 · Released | [Steam](https://store.steampowered.com/app/1186640/) |
@@ -291,7 +291,7 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [INMOST](Game-938560-INMOST) | 8/10 | 90.8% / 7,393 Steam reviews | Aug 21, 2020 · Released | [Steam](https://store.steampowered.com/app/938560/) |
 | [F.I.S.T.: Forged In Shadow Torch](Game-1330470-F-I-S-T-Forged-In-Shadow-Torch) | 8/10 | 86.2% / 7,323 Steam reviews | Oct 2, 2021 · Released | [Steam](https://store.steampowered.com/app/1330470) · [Steam](https://store.steampowered.com/app/1332390) |
 | [Dungeon Munchies](Game-799640-Dungeon-Munchies) | 8/10 | 97.1% / 7,251 Steam reviews | Jul 27, 2022 · Released | [Steam](https://store.steampowered.com/app/799640/) |
-| [ibb & obb](Game-95400-ibb-obb) | 8/10 | 89.5% / 6,854 Steam reviews | May 26, 2014 · Released | [Steam](https://store.steampowered.com/app/95400/) |
+| [ibb & obb](Game-95400-ibb-obb) | 8/10 | 89.5% / 6,854 Steam reviews | May 26, 2014 · Released | [Steam](https://store.steampowered.com/app/95400) |
 | [Hot Lava](Game-382560-Hot-Lava) | 8/10 | 93.1% / 6,172 Steam reviews | Sep 19, 2019 · Released | [Steam](https://store.steampowered.com/app/382560/) |
 | [Lost Ruins](Game-1306630-Lost-Ruins) | 8/10 | 84.9% / 5,831 Steam reviews | May 13, 2021 · Released | [Steam](https://store.steampowered.com/app/1306630) · [GOG](https://www.gog.com/en/game/lost_ruins) · [itch.io](https://dangen-entertainment.itch.io/lost-ruins) |
 | [The Last Faith](Game-1274600-The-Last-Faith) | 8/10 | 84.6% / 5,741 Steam reviews | Nov 15, 2023 · Released | [Steam](https://store.steampowered.com/app/1274600) · [GOG](https://www.gog.com/en/game/the_last_faith) |
@@ -300,7 +300,7 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [Unravel](Game-1225560-Unravel) | 8/10 | 90.6% / 5,630 Steam reviews | Jun 4, 2020 · Released | [Steam](https://store.steampowered.com/app/1225560/) |
 | [Death's Gambit: Afterlife](Game-356650-Death-s-Gambit-Afterlife) | 8/10 | 81.1% / 5,622 Steam reviews | Aug 13, 2018 · Released | [Steam](https://store.steampowered.com/app/356650) |
 | [SpongeBob SquarePants: The Cosmic Shake](Game-1282150-SpongeBob-SquarePants-The-Cosmic-Shake) | 8/10 | 92.2% / 5,083 Steam reviews | Jan 31, 2023 · Released | [Steam](https://store.steampowered.com/app/1282150/) |
-| [PICO PARK 2](Game-2644470-PICO-PARK-2) | 8/10 | 88.5% / 4,806 Steam reviews | Sep 12, 2024 · Released | [Steam](https://store.steampowered.com/app/2644470/) |
+| [PICO PARK 2](Game-2644470-PICO-PARK-2) | 8/10 | 88.5% / 4,806 Steam reviews | Sep 12, 2024 · Released | [Steam](https://store.steampowered.com/app/2644470) |
 | [20XX](Game-322110-20XX) | 8/10 | 90.8% / 4,594 Steam reviews | Aug 16, 2017 · Released | [Steam](https://store.steampowered.com/app/322110/) |
 | [Castle of Illusion](Game-227600-Castle-of-Illusion) | 8/10 | 90.5% / 4,536 Steam reviews | Sep 4, 2013 · Released | [Steam](https://store.steampowered.com/app/227600/) |
 | [American Arcadia](Game-1249040-American-Arcadia) | 8/10 | 94.0% / 4,324 Steam reviews | Nov 15, 2023 · Released | [Steam](https://store.steampowered.com/app/1249040/) |
@@ -313,12 +313,12 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [Blue Fire](Game-1220150-Blue-Fire) | 8/10 | 81.4% / 3,127 Steam reviews | Feb 4, 2021 · Released | [Steam](https://store.steampowered.com/app/1220150) · [GOG](https://www.gog.com/en/game/blue_fire) · [itch.io](https://graffiti-games.itch.io/blue-fire) · [Steam](https://store.steampowered.com/app/1394220) |
 | [SEUM: Speedrunners from Hell](Game-457210-SEUM-Speedrunners-from-Hell) | 8/10 | 94.5% / 3,063 Steam reviews | Jul 28, 2016 · Released | [Steam](https://store.steampowered.com/app/457210/) |
 | [Lorn's Lure](Game-1417930-Lorn-s-Lure) | 8/10 | 85.4% / 2,961 Steam reviews | Sep 20, 2024 · Released | [Steam](https://store.steampowered.com/app/1417930/) |
-| [Fury Unleashed](Game-465200-Fury-Unleashed) | 8/10 | 87.2% / 2,934 Steam reviews | May 8, 2020 · Released | [Steam](https://store.steampowered.com/app/465200/) |
+| [Fury Unleashed](Game-465200-Fury-Unleashed) | 8/10 | 87.2% / 2,934 Steam reviews | May 8, 2020 · Released | [Steam](https://store.steampowered.com/app/465200) · [GOG](https://www.gog.com/en/game/fury_unleashed) · [Steam](https://store.steampowered.com/app/1185030) |
 | [Papo & Yo](Game-227080-Papo-Yo) | 8/10 | 93.4% / 2,879 Steam reviews | Apr 18, 2013 · Released | [Steam](https://store.steampowered.com/app/227080/) |
 | [Smushi Come Home](Game-1740300-Smushi-Come-Home) | 8/10 | 99.0% / 2,834 Steam reviews | Jun 10, 2023 · Released | [Steam](https://store.steampowered.com/app/1740300/) |
 | [TY the Tasmanian Tiger](Game-411960-TY-the-Tasmanian-Tiger) | 8/10 | 97.8% / 2,743 Steam reviews | Dec 12, 2016 · Released | [Steam](https://store.steampowered.com/app/411960/) |
 | [The Upturned](Game-1717770-The-Upturned) | 8/10 | 98.9% / 2,732 Steam reviews | Mar 23, 2022 · Released | [Steam](https://store.steampowered.com/app/1717770/) |
-| [KeyWe](Game-1242980-KeyWe) | 8/10 | 90.3% / 2,553 Steam reviews | Aug 31, 2021 · Released | [Steam](https://store.steampowered.com/app/1242980/) |
+| [KeyWe](Game-1242980-KeyWe) | 8/10 | 90.3% / 2,553 Steam reviews | Aug 31, 2021 · Released | [Steam](https://store.steampowered.com/app/1242980) |
 | [Shantae: Half-Genie Hero](Game-253840-Shantae-Half-Genie-Hero) | 8/10 | 90.4% / 2,426 Steam reviews | Dec 20, 2016 · Released | [Steam](https://store.steampowered.com/app/253840/) |
 | [Gestalt: Steam & Cinder](Game-1231990-Gestalt-Steam-Cinder) | 8/10 | 80.3% / 2,348 Steam reviews | Jul 16, 2024 · Released | [Steam](https://store.steampowered.com/app/1231990) |
 | [Super Fancy Pants Adventure](Game-668210-Super-Fancy-Pants-Adventure) | 8/10 | 93.3% / 2,284 Steam reviews | Sep 20, 2017 · Released | [Steam](https://store.steampowered.com/app/668210/) |
@@ -342,7 +342,7 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [BLADECHIMERA](Game-2671230-BLADECHIMERA) | 8/10 | 89.3% / 1,495 Steam reviews | Jan 15, 2025 · Released | [Steam](https://store.steampowered.com/app/2671230) · [Steam](https://store.steampowered.com/app/3003160) |
 | [Ghost Song](Game-347800-Ghost-Song) | 8/10 | 83.3% / 1,469 Steam reviews | Nov 3, 2022 · Released | [Steam](https://store.steampowered.com/app/347800) · [GOG](https://www.gog.com/en/game/ghost_song) |
 | [Odallus: The Dark Call](Game-319480-Odallus-The-Dark-Call) | 8/10 | 88.4% / 1,365 Steam reviews | Jul 15, 2015 · Released | [Steam](https://store.steampowered.com/app/319480) · [itch.io](https://joymasher.itch.io/odallus) |
-| [Degrees of Separation](Game-809880-Degrees-of-Separation) | 8/10 | 80.1% / 1,356 Steam reviews | Feb 13, 2019 · Released | [Steam](https://store.steampowered.com/app/809880/) |
+| [Degrees of Separation](Game-809880-Degrees-of-Separation) | 8/10 | 80.1% / 1,356 Steam reviews | Feb 13, 2019 · Released | [Steam](https://store.steampowered.com/app/809880) |
 | [Unbound: Worlds Apart](Game-814680-Unbound-Worlds-Apart) | 8/10 | 83.5% / 1,343 Steam reviews | Jul 28, 2021 · Released | [Steam](https://store.steampowered.com/app/814680) |
 | [BETON BRUTAL](Game-2330500-BETON-BRUTAL) | 8/10 | 94.2% / 1,302 Steam reviews | Mar 31, 2023 · Released | [Steam](https://store.steampowered.com/app/2330500/) |
 | [Darwin's Paradox!](Game-2989180-Darwin-s-Paradox) | 8/10 | 87.8% / 1,287 Steam reviews | Apr 2, 2026 · Released | [Steam](https://store.steampowered.com/app/2989180/) |
@@ -350,7 +350,7 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [CONVERGENCE: A League of Legends Story™](Game-1276800-CONVERGENCE-A-League-of-Legends-Story) | 8/10 | 88.3% / 1,170 Steam reviews | May 23, 2023 · Released | [Steam](https://store.steampowered.com/app/1276800) |
 | [Marble It Up! Ultra](Game-864060-Marble-It-Up-Ultra) | 8/10 | 92.9% / 1,147 Steam reviews | Nov 16, 2018 · Released | [Steam](https://store.steampowered.com/app/864060/) |
 | [Yooka-Replaylee](Game-2448020-Yooka-Replaylee) | 8/10 | 93.0% / 1,131 Steam reviews | Oct 9, 2025 · Released | [Steam](https://store.steampowered.com/app/2448020/) |
-| [Iron Meat](Game-1157740-Iron-Meat) | 8/10 | 96.4% / 1,122 Steam reviews | Sep 25, 2024 · Released | [Steam](https://store.steampowered.com/app/1157740/) |
+| [Iron Meat](Game-1157740-Iron-Meat) | 8/10 | 96.4% / 1,122 Steam reviews | Sep 25, 2024 · Released | [Steam](https://store.steampowered.com/app/1157740) · [GOG](https://www.gog.com/en/game/iron_meat) · [itch.io](https://retroware.itch.io/iron-meat) · [itch.io](https://ironmeat.itch.io/iron-meat) · [Steam](https://store.steampowered.com/app/1323260) |
 | [Arzette: The Jewel of Faramore](Game-1924780-Arzette-The-Jewel-of-Faramore) | 8/10 | 96.4% / 1,119 Steam reviews | Feb 13, 2024 · Released | [Steam](https://store.steampowered.com/app/1924780/) |
 | [Toree 2](Game-1722620-Toree-2) | 8/10 | 97.3% / 1,109 Steam reviews | Sep 30, 2021 · Released | [Steam](https://store.steampowered.com/app/1722620/) |
 | [Crumble](Game-1061180-Crumble) | 8/10 | 87.5% / 1,108 Steam reviews | Dec 4, 2020 · Released | [Steam](https://store.steampowered.com/app/1061180/) |
@@ -385,7 +385,7 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [Sunblaze](Game-1525660-Sunblaze) | 8/10 | 90.0% / 488 Steam reviews | Jun 3, 2021 · Released | [Steam](https://store.steampowered.com/app/1525660/) |
 | [Aspire: Ina's Tale](Game-1720090-Aspire-Ina-s-Tale) | 8/10 | 82.9% / 475 Steam reviews | Dec 17, 2021 · Released | [Steam](https://store.steampowered.com/app/1720090/) |
 | [Azure Striker GUNVOLT 3](Game-1931690-Azure-Striker-GUNVOLT-3) | 8/10 | 87.5% / 465 Steam reviews | Oct 13, 2022 · Released | [Steam](https://store.steampowered.com/app/1931690/) |
-| [Chariot](Game-319450-Chariot) | 8/10 | 80.6% / 464 Steam reviews | Nov 12, 2014 · Released | [Steam](https://store.steampowered.com/app/319450/) |
+| [Chariot](Game-319450-Chariot) | 8/10 | 80.6% / 464 Steam reviews | Nov 12, 2014 · Released | [Steam](https://store.steampowered.com/app/319450) |
 | [Toree Saturn](Game-2549240-Toree-Saturn) | 8/10 | 93.2% / 457 Steam reviews | Aug 8, 2025 · Released | [Steam](https://store.steampowered.com/app/2549240/) |
 | [Suzy Cube](Game-780500-Suzy-Cube) | 8/10 | 85.7% / 440 Steam reviews | Jun 19, 2018 · Released | [Steam](https://store.steampowered.com/app/780500/) |
 | [Berserk Boy](Game-1561340-Berserk-Boy) | 8/10 | 84.4% / 437 Steam reviews | Mar 6, 2024 · Released | [Steam](https://store.steampowered.com/app/1561340) · [GOG](https://www.gog.com/en/game/berserk_boy) |
@@ -410,7 +410,7 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [Everdeep Aurora](Game-2251400-Everdeep-Aurora) | 8/10 | 90.4% / 209 Steam reviews | Jul 10, 2025 · Released | [Steam](https://store.steampowered.com/app/2251400/) |
 | [Castle on the Coast](Game-1341900-Castle-on-the-Coast) | 8/10 | 94.9% / 195 Steam reviews | Dec 2, 2021 · Released | [Steam](https://store.steampowered.com/app/1341900/) |
 | [Xanthiom Zero](Game-2324610-Xanthiom-Zero) | 8/10 | 94.8% / 155 Steam reviews | Jul 28, 2023 · Released | [Steam](https://store.steampowered.com/app/2324610) |
-| [Frogun Encore](Game-2312160-Frogun-Encore) | 8/10 | 87.0% / 138 Steam reviews | Jun 25, 2024 · Released | [Steam](https://store.steampowered.com/app/2312160/) |
+| [Frogun Encore](Game-2312160-Frogun-Encore) | 8/10 | 87.0% / 138 Steam reviews | Jun 25, 2024 · Released | [Steam](https://store.steampowered.com/app/2312160) · [GOG](https://www.gog.com/en/game/frogun_encore) · [Steam](https://store.steampowered.com/app/2666710) |
 | [Teeto](Game-2783370-Teeto) | 8/10 | 95.5% / 133 Steam reviews | Jul 15, 2026 · Released | [Steam](https://store.steampowered.com/app/2783370/) |
 | [Super Cable Boy](Game-1304420-Super-Cable-Boy) | 8/10 | 97.7% / 128 Steam reviews | Nov 20, 2020 · Released | [Steam](https://store.steampowered.com/app/1304420/) |
 | [Ufouria: The Saga 2](Game-2685090-Ufouria-The-Saga-2) | 8/10 | 91.4% / 128 Steam reviews | Feb 28, 2024 · Released | [Steam](https://store.steampowered.com/app/2685090/) |
@@ -424,15 +424,15 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [Disney Illusion Island Starring Mickey and Friends](Game-2054660-Disney-Illusion-Island-Starring-Mickey-and-Friends) | 8/10 | 94.3% / 35 Steam reviews | May 30, 2025 · Released | [Steam](https://store.steampowered.com/app/2054660) · [GOG](https://www.gog.com/en/game/disney_illusion_island_starring_mickey_and_friends) |
 | [SuperTux](Game-external-supertux-SuperTux) | 8/10 | No aggregate rating | Original date not independently recorded · Released | [Official site](https://www.supertux.org/) · [Official downloads](https://www.supertux.org/download.html) |
 | [Yoshi's Crafted World](Game-external-yoshi-crafted-world-Yoshi-s-Crafted-World) | 8/10 | No aggregate rating | 2019-03-29 · Released | [Nintendo](https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/) |
-| [REANIMAL](Game-2129530-REANIMAL) | 7/10 | 75.3% / 26,241 Steam reviews | Feb 13, 2026 · Released | [Steam](https://store.steampowered.com/app/2129530/) |
+| [REANIMAL](Game-2129530-REANIMAL) | 7/10 | 75.3% / 26,241 Steam reviews | Feb 13, 2026 · Released | [Steam](https://store.steampowered.com/app/2129530) · [GOG](https://www.gog.com/en/game/reanimal) · [Steam](https://store.steampowered.com/app/4019420) |
 | [Ghostrunner 2](Game-2144740-Ghostrunner-2) | 7/10 | 79.9% / 11,710 Steam reviews | Oct 26, 2023 · Released | [Steam](https://store.steampowered.com/app/2144740/) |
 | [Afterimage](Game-1701520-Afterimage) | 7/10 | 77.2% / 10,593 Steam reviews | Apr 24, 2023 · Released | [Steam](https://store.steampowered.com/app/1701520) |
-| [Unravel Two](Game-1225570-Unravel-Two) | 7/10 | 78.0% / 9,303 Steam reviews | Jun 4, 2020 · Released | [Steam](https://store.steampowered.com/app/1225570/) |
+| [Unravel Two](Game-1225570-Unravel-Two) | 7/10 | 78.0% / 9,303 Steam reviews | Jun 4, 2020 · Released | [Steam](https://store.steampowered.com/app/1225570) |
 | [Sonic Origins](Game-1794960-Sonic-Origins) | 7/10 | 76.9% / 6,608 Steam reviews | Jun 22, 2022 · Released | [Steam](https://store.steampowered.com/app/1794960/) |
 | [Yooka-Laylee](Game-360830-Yooka-Laylee) | 7/10 | 74.8% / 5,402 Steam reviews | Apr 11, 2017 · Released | [Steam](https://store.steampowered.com/app/360830/) |
-| [Bread & Fred](Game-1607680-Bread-Fred) | 7/10 | 77.3% / 5,279 Steam reviews | May 23, 2023 · Released | [Steam](https://store.steampowered.com/app/1607680/) |
+| [Bread & Fred](Game-1607680-Bread-Fred) | 7/10 | 77.3% / 5,279 Steam reviews | May 23, 2023 · Released | [Steam](https://store.steampowered.com/app/1607680) · [GOG](https://www.gog.com/en/game/bread_fred) · [Steam](https://store.steampowered.com/app/1763200) |
 | [Mega Man X Legacy Collection](Game-743890-Mega-Man-X-Legacy-Collection) | 7/10 | 78.8% / 5,051 Steam reviews | Jul 24, 2018 · Released | [Steam](https://store.steampowered.com/app/743890/) |
-| [Shift Happens](Game-359840-Shift-Happens) | 7/10 | 77.5% / 4,396 Steam reviews | Feb 22, 2017 · Released | [Steam](https://store.steampowered.com/app/359840/) |
+| [Shift Happens](Game-359840-Shift-Happens) | 7/10 | 77.5% / 4,396 Steam reviews | Feb 22, 2017 · Released | [Steam](https://store.steampowered.com/app/359840) · [itch.io](https://klonkgames.itch.io/shift-happens) |
 | [Mandragora: Whispers of the Witch Tree](Game-1721060-Mandragora-Whispers-of-the-Witch-Tree) | 7/10 | 76.3% / 3,873 Steam reviews | Apr 17, 2025 · Released | [Steam](https://store.steampowered.com/app/1721060) · [Steam](https://store.steampowered.com/app/2423720) |
 | [9 Years of Shadows](Game-1402120-9-Years-of-Shadows) | 7/10 | 76.6% / 3,404 Steam reviews | Mar 27, 2023 · Released | [Steam](https://store.steampowered.com/app/1402120) · [GOG](https://www.gog.com/en/game/9_years_of_shadows) |
 | [Metal Unit](Game-1173200-Metal-Unit) | 7/10 | 82.8% / 2,910 Steam reviews | Jan 27, 2021 · Released | [Steam](https://store.steampowered.com/app/1173200/) |
@@ -454,7 +454,7 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [8Doors: Arum's Afterlife Adventure](Game-668550-8Doors-Arum-s-Afterlife-Adventure) | 7/10 | 77.7% / 1,601 Steam reviews | Apr 7, 2021 · Released | [Steam](https://store.steampowered.com/app/668550) |
 | [INK](Game-385710-INK) | 7/10 | 80.9% / 1,578 Steam reviews | Aug 5, 2015 · Released | [Steam](https://store.steampowered.com/app/385710/) |
 | [Greak: Memories of Azur](Game-1311070-Greak-Memories-of-Azur) | 7/10 | 78.3% / 1,574 Steam reviews | Aug 17, 2021 · Released | [Steam](https://store.steampowered.com/app/1311070) |
-| [PHOGS!](Game-850320-PHOGS) | 7/10 | 79.1% / 1,482 Steam reviews | Dec 3, 2020 · Released | [Steam](https://store.steampowered.com/app/850320/) |
+| [PHOGS!](Game-850320-PHOGS) | 7/10 | 79.1% / 1,482 Steam reviews | Dec 3, 2020 · Released | [Steam](https://store.steampowered.com/app/850320) · [Steam](https://store.steampowered.com/app/1280140) |
 | [Disney Epic Mickey 2:  The Power of Two](Game-245300-Disney-Epic-Mickey-2-The-Power-of-Two) | 7/10 | 76.4% / 1,367 Steam reviews | Oct 6, 2014 · Released | [Steam](https://store.steampowered.com/app/245300/) |
 | [Ultros](Game-2386310-Ultros) | 7/10 | 77.3% / 1,282 Steam reviews | Feb 13, 2024 · Released | [Steam](https://store.steampowered.com/app/2386310) · [Steam](https://store.steampowered.com/app/2709040) |
 | [Wings of Vi](Game-318530-Wings-of-Vi) | 7/10 | 79.4% / 1,260 Steam reviews | Nov 28, 2014 · Released | [Steam](https://store.steampowered.com/app/318530/) |
@@ -503,7 +503,7 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [Super Meat Boy Forever](Game-581660-Super-Meat-Boy-Forever) | 6/10 | 57.6% / 2,221 Steam reviews | Jan 10, 2022 · Released | [Steam](https://store.steampowered.com/app/581660/) |
 | [Salt and Sacrifice](Game-1437400-Salt-and-Sacrifice) | 6/10 | 62.2% / 1,999 Steam reviews | Nov 6, 2023 · Released | [Steam](https://store.steampowered.com/app/1437400) |
 | [Sonic Colors: Ultimate](Game-2055290-Sonic-Colors-Ultimate) | 6/10 | 67.1% / 1,798 Steam reviews | Feb 6, 2023 · Released | [Steam](https://store.steampowered.com/app/2055290/) |
-| [Biped 2](Game-2560240-Biped-2) | 6/10 | 64.3% / 1,136 Steam reviews | Nov 5, 2025 · Released | [Steam](https://store.steampowered.com/app/2560240/) |
+| [Biped 2](Game-2560240-Biped-2) | 6/10 | 64.3% / 1,136 Steam reviews | Nov 5, 2025 · Released | [Steam](https://store.steampowered.com/app/2560240) · [GOG](https://www.gog.com/en/game/biped_2) |
 | [Oddworld: Soulstorm Enhanced Edition](Game-619390-Oddworld-Soulstorm-Enhanced-Edition) | 6/10 | 65.5% / 718 Steam reviews | Jun 21, 2022 · Released | [Steam](https://store.steampowered.com/app/619390/) |
 | [The King's Bird](Game-812550-The-King-s-Bird) | 6/10 | 69.0% / 603 Steam reviews | Aug 23, 2018 · Released | [Steam](https://store.steampowered.com/app/812550/) |
 | [Almost There: The Platformer](Game-951940-Almost-There-The-Platformer) | 6/10 | 64.5% / 487 Steam reviews | Feb 19, 2019 · Released | [Steam](https://store.steampowered.com/app/951940/) |
@@ -511,7 +511,7 @@ A concentrated tour of tactile 3D stage design: movement toys and power-ups intr
 | [Togges](Game-1550270-Togges) | 6/10 | 67.3% / 226 Steam reviews | Dec 7, 2022 · Released | [Steam](https://store.steampowered.com/app/1550270/) |
 | [Clive 'N' Wrench](Game-1094720-Clive-N-Wrench) | 6/10 | 69.4% / 183 Steam reviews | Feb 23, 2023 · Released | [Steam](https://store.steampowered.com/app/1094720/) |
 | [Little Nightmares III](Game-1392860-Little-Nightmares-III) | 5/10 | 47.1% / 21,407 Steam reviews | Oct 9, 2025 · Released | [Steam](https://store.steampowered.com/app/1392860/) |
-| [Ultimate Sheep Raccoon](Game-2923350-Ultimate-Sheep-Raccoon) | 5/10 | 48.9% / 231 Steam reviews | Dec 9, 2025 · Released | [Steam](https://store.steampowered.com/app/2923350/) |
+| [Ultimate Sheep Raccoon](Game-2923350-Ultimate-Sheep-Raccoon) | 5/10 | 48.9% / 231 Steam reviews | Dec 9, 2025 · Released | [Steam](https://store.steampowered.com/app/2923350) |
 | [Aeterna Lucis](Game-2710920-Aeterna-Lucis) | Unrated | No aggregate rating | Dec 3, 2026 · Upcoming | [Steam](https://store.steampowered.com/app/2710920) · [Steam](https://store.steampowered.com/app/3774290) |
 | [Billie Bust Up](Game-1400830-Billie-Bust-Up) | Unrated | No aggregate rating | To be announced · Upcoming | [Steam](https://store.steampowered.com/app/1400830/) |
 | [Crowsworn](Game-1614330-Crowsworn) | Unrated | No aggregate rating | To be announced · Upcoming | [Steam](https://store.steampowered.com/app/1614330) |

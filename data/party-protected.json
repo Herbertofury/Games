@@ -1,0 +1,6435 @@
+{
+  "hubs": {
+    "external:0-ad": [
+      "Real-time strategy"
+    ],
+    "external:an-untitled-story": [
+      "Metroidvanias"
+    ],
+    "external:angel-shell": [
+      "Metroidvanias"
+    ],
+    "external:arcane-dimensions": [
+      "Boomer shooters"
+    ],
+    "external:ashes-2063": [
+      "Boomer shooters"
+    ],
+    "external:ashes-blackwater": [
+      "Boomer shooters"
+    ],
+    "external:astro-bot": [
+      "Platformers"
+    ],
+    "external:astros-playroom": [
+      "Platformers"
+    ],
+    "external:beyond-all-reason": [
+      "Real-time strategy"
+    ],
+    "external:blade-of-agony": [
+      "Boomer shooters"
+    ],
+    "external:block-neopolis": [
+      "Metroidvanias"
+    ],
+    "external:boom-abydos": [
+      "Boomer shooters"
+    ],
+    "external:brutal-doom": [
+      "Boomer shooters"
+    ],
+    "external:castlevania-requiem": [
+      "Metroidvanias"
+    ],
+    "external:cataclysm-bright-nights": [
+      "Survival"
+    ],
+    "external:cc-shockwave": [
+      "Real-time strategy"
+    ],
+    "external:celeste-64": [
+      "Platformers"
+    ],
+    "external:celeste-classic": [
+      "Platformers"
+    ],
+    "external:celeste-classic-2": [
+      "Platformers"
+    ],
+    "external:combined-arms": [
+      "Real-time strategy"
+    ],
+    "external:contra-x": [
+      "Real-time strategy"
+    ],
+    "external:dawn-tiberium-age": [
+      "Real-time strategy"
+    ],
+    "external:dead-trash-yellow-snow": [
+      "Boomer shooters"
+    ],
+    "external:death-wish": [
+      "Boomer shooters"
+    ],
+    "external:dk-country-returns-hd": [
+      "Platformers"
+    ],
+    "external:dk-tropical-freeze": [
+      "Platformers"
+    ],
+    "external:donkey-kong-bananza": [
+      "Platformers"
+    ],
+    "external:dwell": [
+      "Boomer shooters"
+    ],
+    "external:empires-dawn-modern-world": [
+      "Real-time strategy"
+    ],
+    "external:end-of-days-zh": [
+      "Real-time strategy"
+    ],
+    "external:fiends-fall": [
+      "Metroidvanias"
+    ],
+    "external:fohh": [
+      "Metroidvanias"
+    ],
+    "external:generals-evolution": [
+      "Real-time strategy"
+    ],
+    "external:golden-souls": [
+      "Boomer shooters"
+    ],
+    "external:golden-souls-2": [
+      "Boomer shooters"
+    ],
+    "external:golden-souls-3": [
+      "Boomer shooters"
+    ],
+    "external:gun-godz": [
+      "Boomer shooters"
+    ],
+    "external:hero-core": [
+      "Metroidvanias"
+    ],
+    "external:hytale": [
+      "Minecraft-like worlds"
+    ],
+    "external:kauna-prototype": [
+      "Boomer shooters"
+    ],
+    "external:kirby-forgotten-land": [
+      "Platformers"
+    ],
+    "external:kirby-return-dreamland-deluxe": [
+      "Platformers"
+    ],
+    "external:lego-fortnite-odyssey": [
+      "Minecraft-like worlds"
+    ],
+    "external:littlewargame": [
+      "Real-time strategy"
+    ],
+    "external:luun": [
+      "Survival"
+    ],
+    "external:lyle-cube-sector": [
+      "Metroidvanias"
+    ],
+    "external:mental-omega": [
+      "Real-time strategy"
+    ],
+    "external:metroid-dread": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "external:metroid-fusion": [
+      "Metroidvanias"
+    ],
+    "external:metroid-prime-4": [
+      "Metroidvanias"
+    ],
+    "external:metroid-prime-remastered": [
+      "Metroidvanias"
+    ],
+    "external:metroid-ravenous": [
+      "Metroidvanias"
+    ],
+    "external:metroid-zero-mission": [
+      "Metroidvanias"
+    ],
+    "external:mine-blocks": [
+      "Minecraft-like worlds"
+    ],
+    "external:mine-blocks-2": [
+      "Minecraft-like worlds"
+    ],
+    "external:mineclonia": [
+      "Minecraft-like worlds"
+    ],
+    "external:minecraft": [
+      "Minecraft-like worlds"
+    ],
+    "external:mini-falafel-adventure": [
+      "Metroidvanias"
+    ],
+    "external:minicraft-plus": [
+      "Minecraft-like worlds"
+    ],
+    "external:momodora-2": [
+      "Metroidvanias"
+    ],
+    "external:necrowave": [
+      "Metroidvanias"
+    ],
+    "external:openhv": [
+      "Real-time strategy"
+    ],
+    "external:openra": [
+      "Real-time strategy"
+    ],
+    "external:path-of-titans": [
+      "Survival"
+    ],
+    "external:peppermint": [
+      "Metroidvanias"
+    ],
+    "external:poom": [
+      "Boomer shooters"
+    ],
+    "external:project-osiris": [
+      "Boomer shooters"
+    ],
+    "external:qbj3": [
+      "Boomer shooters"
+    ],
+    "external:rabbits-quest": [
+      "Metroidvanias"
+    ],
+    "external:rise-of-the-reds": [
+      "Real-time strategy"
+    ],
+    "external:senescence-protocol": [
+      "Metroidvanias"
+    ],
+    "external:shrine": [
+      "Boomer shooters"
+    ],
+    "external:simons-destiny": [
+      "Boomer shooters"
+    ],
+    "external:siren": [
+      "Boomer shooters"
+    ],
+    "external:spellsought": [
+      "Metroidvanias"
+    ],
+    "external:starcraft-2": [
+      "Real-time strategy"
+    ],
+    "external:starcraft-remastered": [
+      "Real-time strategy"
+    ],
+    "external:stranded-2": [
+      "Survival"
+    ],
+    "external:stratum": [
+      "Metroidvanias"
+    ],
+    "external:sunset-land": [
+      "Metroidvanias"
+    ],
+    "external:super-mario-3d-world-bowsers-fury": [
+      "Platformers"
+    ],
+    "external:super-mario-bros-wonder": [
+      "Platformers"
+    ],
+    "external:super-mario-galaxy-collection": [
+      "Platformers"
+    ],
+    "external:super-mario-maker-2": [
+      "Platformers"
+    ],
+    "external:super-mario-odyssey": [
+      "Platformers"
+    ],
+    "external:super-metroid": [
+      "Metroidvanias"
+    ],
+    "external:supertux": [
+      "Platformers"
+    ],
+    "external:survivalcraft-2": [
+      "Minecraft-like worlds"
+    ],
+    "external:terasology": [
+      "Minecraft-like worlds"
+    ],
+    "external:total-chaos-original": [
+      "Boomer shooters"
+    ],
+    "external:treasure-adventure-game": [
+      "Metroidvanias"
+    ],
+    "external:tremor": [
+      "Boomer shooters"
+    ],
+    "external:twisted-insurrection": [
+      "Real-time strategy"
+    ],
+    "external:veloren": [
+      "Minecraft-like worlds"
+    ],
+    "external:vietdoom": [
+      "Boomer shooters"
+    ],
+    "external:vintage-story": [
+      "Minecraft-like worlds"
+    ],
+    "external:voxelibre": [
+      "Minecraft-like worlds"
+    ],
+    "external:wanted3d-demo": [
+      "Boomer shooters"
+    ],
+    "external:warcraft-1-remastered": [
+      "Real-time strategy"
+    ],
+    "external:warcraft-2-remastered": [
+      "Real-time strategy"
+    ],
+    "external:warcraft-3-reforged": [
+      "Real-time strategy"
+    ],
+    "external:warlords-battlecry-2": [
+      "Real-time strategy"
+    ],
+    "external:world-in-conflict": [
+      "Real-time strategy"
+    ],
+    "external:yoshi-crafted-world": [
+      "Platformers"
+    ],
+    "external:yoshi-mysterious-book": [
+      "Platformers"
+    ],
+    "steam:1000410": [
+      "Boomer shooters"
+    ],
+    "steam:1000760": [
+      "Metroidvanias"
+    ],
+    "steam:1001800": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1002260": [
+      "Platformers"
+    ],
+    "steam:1005450": [
+      "Metroidvanias"
+    ],
+    "steam:1016800": [
+      "Survival"
+    ],
+    "steam:1017180": [
+      "Survival"
+    ],
+    "steam:1029210": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:1029780": [
+      "Survival"
+    ],
+    "steam:1030300": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1031730": [
+      "Real-time strategy"
+    ],
+    "steam:1033780": [
+      "Metroidvanias"
+    ],
+    "steam:1037020": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:1038300": [
+      "Platformers"
+    ],
+    "steam:1046400": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1046920": [
+      "Metroidvanias"
+    ],
+    "steam:1048600": [
+      "Platformers"
+    ],
+    "steam:1048950": [
+      "Survival"
+    ],
+    "steam:1049710": [
+      "Platformers"
+    ],
+    "steam:1051690": [
+      "Boomer shooters"
+    ],
+    "steam:1052990": [
+      "Metroidvanias"
+    ],
+    "steam:1054510": [
+      "Survival"
+    ],
+    "steam:1055540": [
+      "Platformers"
+    ],
+    "steam:105600": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1056180": [
+      "Metroidvanias"
+    ],
+    "steam:1057090": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1060230": [
+      "Survival"
+    ],
+    "steam:1061090": [
+      "Platformers"
+    ],
+    "steam:1061180": [
+      "Platformers"
+    ],
+    "steam:1062090": [
+      "Survival"
+    ],
+    "steam:1062110": [
+      "Metroidvanias"
+    ],
+    "steam:1062520": [
+      "Survival"
+    ],
+    "steam:1065180": [
+      "Platformers"
+    ],
+    "steam:1068360": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1071870": [
+      "Platformers"
+    ],
+    "steam:1072150": [
+      "Boomer shooters"
+    ],
+    "steam:1072190": [
+      "Real-time strategy"
+    ],
+    "steam:1072420": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1079200": [
+      "Metroidvanias"
+    ],
+    "steam:1079210": [
+      "Platformers"
+    ],
+    "steam:1083310": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1085180": [
+      "Platformers"
+    ],
+    "steam:108600": [
+      "Survival"
+    ],
+    "steam:1090800": [
+      "Survival"
+    ],
+    "steam:1093810": [
+      "Metroidvanias"
+    ],
+    "steam:1094540": [
+      "Platformers"
+    ],
+    "steam:1094720": [
+      "Platformers"
+    ],
+    "steam:1096180": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1098080": [
+      "Metroidvanias"
+    ],
+    "steam:1104280": [
+      "Roguelites"
+    ],
+    "steam:1104600": [
+      "Metroidvanias"
+    ],
+    "steam:1106840": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1107370": [
+      "Metroidvanias"
+    ],
+    "steam:1109680": [
+      "Real-time strategy"
+    ],
+    "steam:1113030": [
+      "Real-time strategy"
+    ],
+    "steam:1113940": [
+      "Platformers"
+    ],
+    "steam:1114830": [
+      "Real-time strategy"
+    ],
+    "steam:1114870": [
+      "Metroidvanias"
+    ],
+    "steam:1114900": [
+      "Platformers"
+    ],
+    "steam:1115050": [
+      "Platformers"
+    ],
+    "steam:1121640": [
+      "Survival"
+    ],
+    "steam:1122050": [
+      "Metroidvanias"
+    ],
+    "steam:1122280": [
+      "Metroidvanias"
+    ],
+    "steam:1123050": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1125390": [
+      "Survival"
+    ],
+    "steam:1128860": [
+      "Real-time strategy"
+    ],
+    "steam:1129580": [
+      "Survival"
+    ],
+    "steam:1130410": [
+      "Platformers"
+    ],
+    "steam:1132480": [
+      "Metroidvanias"
+    ],
+    "steam:1132910": [
+      "Metroidvanias"
+    ],
+    "steam:1133870": [
+      "Survival"
+    ],
+    "steam:1134520": [
+      "Metroidvanias"
+    ],
+    "steam:1134700": [
+      "Survival"
+    ],
+    "steam:1138960": [
+      "Metroidvanias"
+    ],
+    "steam:1139900": [
+      "Platformers"
+    ],
+    "steam:1140130": [
+      "Survival"
+    ],
+    "steam:1145350": [
+      "Roguelites"
+    ],
+    "steam:1145360": [
+      "Roguelites"
+    ],
+    "steam:1147560": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:1148130": [
+      "Metroidvanias"
+    ],
+    "steam:1149460": [
+      "Survival"
+    ],
+    "steam:1154040": [
+      "Real-time strategy"
+    ],
+    "steam:1154090": [
+      "Metroidvanias"
+    ],
+    "steam:1157740": [
+      "Platformers"
+    ],
+    "steam:115800": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1158890": [
+      "Platformers"
+    ],
+    "steam:1159560": [
+      "Boomer shooters"
+    ],
+    "steam:1159690": [
+      "Survival"
+    ],
+    "steam:1164940": [
+      "Boomer shooters"
+    ],
+    "steam:1169040": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1170060": [
+      "Boomer shooters",
+      "Platformers"
+    ],
+    "steam:1172380": [
+      "Metroidvanias"
+    ],
+    "steam:1172710": [
+      "Survival"
+    ],
+    "steam:1173200": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:1175460": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:1179680": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1186470": [
+      "Metroidvanias"
+    ],
+    "steam:1186640": [
+      "Platformers"
+    ],
+    "steam:1191630": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1191660": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1193340": [
+      "Survival"
+    ],
+    "steam:1202130": [
+      "Real-time strategy"
+    ],
+    "steam:1203180": [
+      "Survival"
+    ],
+    "steam:1203620": [
+      "Survival"
+    ],
+    "steam:1203630": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1205170": [
+      "Platformers"
+    ],
+    "steam:1205660": [
+      "Metroidvanias"
+    ],
+    "steam:1205900": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1206670": [
+      "Survival"
+    ],
+    "steam:1211600": [
+      "Survival"
+    ],
+    "steam:1213210": [
+      "Real-time strategy"
+    ],
+    "steam:1217060": [
+      "Boomer shooters"
+    ],
+    "steam:1219240": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1220150": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1221480": [
+      "Platformers"
+    ],
+    "steam:1224600": [
+      "Boomer shooters"
+    ],
+    "steam:1225560": [
+      "Platformers"
+    ],
+    "steam:1225570": [
+      "Platformers"
+    ],
+    "steam:1227690": [
+      "Boomer shooters"
+    ],
+    "steam:1229390": [
+      "Metroidvanias"
+    ],
+    "steam:1229490": [
+      "Boomer shooters"
+    ],
+    "steam:1231880": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1231990": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1233070": [
+      "Metroidvanias"
+    ],
+    "steam:1237320": [
+      "Platformers"
+    ],
+    "steam:1241040": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1241950": [
+      "Real-time strategy"
+    ],
+    "steam:1242980": [
+      "Platformers"
+    ],
+    "steam:1248840": [
+      "Platformers"
+    ],
+    "steam:1249040": [
+      "Platformers"
+    ],
+    "steam:1250440": [
+      "Platformers"
+    ],
+    "steam:1253920": [
+      "Platformers",
+      "Roguelites",
+      "Metroidvanias"
+    ],
+    "steam:1256520": [
+      "Metroidvanias"
+    ],
+    "steam:1257360": [
+      "Platformers"
+    ],
+    "steam:1261430": [
+      "Metroidvanias"
+    ],
+    "steam:1262040": [
+      "Metroidvanias"
+    ],
+    "steam:1262460": [
+      "Survival"
+    ],
+    "steam:1264880": [
+      "Metroidvanias"
+    ],
+    "steam:1268900": [
+      "Survival"
+    ],
+    "steam:1270670": [
+      "Metroidvanias"
+    ],
+    "steam:1271150": [
+      "Survival"
+    ],
+    "steam:1272320": [
+      "Real-time strategy"
+    ],
+    "steam:1274600": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1276660": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1276800": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1280080": [
+      "Metroidvanias"
+    ],
+    "steam:1280300": [
+      "Platformers"
+    ],
+    "steam:1280930": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:1281790": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1282150": [
+      "Platformers"
+    ],
+    "steam:1284190": [
+      "Survival"
+    ],
+    "steam:1285670": [
+      "Boomer shooters"
+    ],
+    "steam:1286280": [
+      "Metroidvanias"
+    ],
+    "steam:1286350": [
+      "Boomer shooters"
+    ],
+    "steam:1287930": [
+      "Metroidvanias"
+    ],
+    "steam:1289380": [
+      "Survival"
+    ],
+    "steam:1290330": [
+      "Roguelites"
+    ],
+    "steam:1290760": [
+      "Platformers"
+    ],
+    "steam:1290780": [
+      "Survival"
+    ],
+    "steam:1292170": [
+      "Real-time strategy"
+    ],
+    "steam:1292180": [
+      "Real-time strategy"
+    ],
+    "steam:1293170": [
+      "Platformers"
+    ],
+    "steam:1303950": [
+      "Platformers"
+    ],
+    "steam:1304420": [
+      "Platformers"
+    ],
+    "steam:1306630": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1306970": [
+      "Boomer shooters"
+    ],
+    "steam:1307550": [
+      "Survival"
+    ],
+    "steam:1307690": [
+      "Metroidvanias"
+    ],
+    "steam:1309610": [
+      "Real-time strategy"
+    ],
+    "steam:1309820": [
+      "Survival"
+    ],
+    "steam:1311070": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1316230": [
+      "Survival"
+    ],
+    "steam:1319460": [
+      "Boomer shooters"
+    ],
+    "steam:1324130": [
+      "Survival"
+    ],
+    "steam:1325260": [
+      "Platformers"
+    ],
+    "steam:1325900": [
+      "Platformers"
+    ],
+    "steam:1326470": [
+      "Survival"
+    ],
+    "steam:1328350": [
+      "Boomer shooters"
+    ],
+    "steam:1328990": [
+      "Real-time strategy"
+    ],
+    "steam:1329540": [
+      "Boomer shooters"
+    ],
+    "steam:1329880": [
+      "Survival"
+    ],
+    "steam:1330470": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1334730": [
+      "Boomer shooters"
+    ],
+    "steam:1335830": [
+      "Survival"
+    ],
+    "steam:1336490": [
+      "Survival"
+    ],
+    "steam:1337520": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:1339860": [
+      "Platformers"
+    ],
+    "steam:1340720": [
+      "Survival"
+    ],
+    "steam:1341900": [
+      "Platformers"
+    ],
+    "steam:1343520": [
+      "Survival"
+    ],
+    "steam:1345860": [
+      "Platformers"
+    ],
+    "steam:1352930": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1359980": [
+      "Boomer shooters"
+    ],
+    "steam:1360000": [
+      "Survival"
+    ],
+    "steam:1363900": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1367300": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:1368410": [
+      "Metroidvanias"
+    ],
+    "steam:1369430": [
+      "Metroidvanias"
+    ],
+    "steam:1369630": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1370140": [
+      "Platformers"
+    ],
+    "steam:1371580": [
+      "Survival"
+    ],
+    "steam:1371690": [
+      "Boomer shooters"
+    ],
+    "steam:1374490": [
+      "Survival"
+    ],
+    "steam:1374970": [
+      "Metroidvanias"
+    ],
+    "steam:1377380": [
+      "Survival"
+    ],
+    "steam:1378290": [
+      "Boomer shooters"
+    ],
+    "steam:1378360": [
+      "Boomer shooters"
+    ],
+    "steam:1378990": [
+      "Platformers"
+    ],
+    "steam:1380220": [
+      "Survival"
+    ],
+    "steam:1380910": [
+      "Survival"
+    ],
+    "steam:1388550": [
+      "Platformers"
+    ],
+    "steam:1388770": [
+      "Boomer shooters"
+    ],
+    "steam:1390350": [
+      "Platformers"
+    ],
+    "steam:1392860": [
+      "Platformers"
+    ],
+    "steam:1393750": [
+      "Metroidvanias"
+    ],
+    "steam:1393820": [
+      "Metroidvanias"
+    ],
+    "steam:1394960": [
+      "Survival"
+    ],
+    "steam:1396870": [
+      "Boomer shooters"
+    ],
+    "steam:1399750": [
+      "Metroidvanias"
+    ],
+    "steam:1400830": [
+      "Platformers"
+    ],
+    "steam:1401730": [
+      "Survival"
+    ],
+    "steam:1402120": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1405950": [
+      "Metroidvanias"
+    ],
+    "steam:1406780": [
+      "Boomer shooters"
+    ],
+    "steam:1409200": [
+      "Boomer shooters"
+    ],
+    "steam:1409530": [
+      "Roguelites"
+    ],
+    "steam:1410090": [
+      "Boomer shooters"
+    ],
+    "steam:1411020": [
+      "Metroidvanias"
+    ],
+    "steam:1411910": [
+      "Boomer shooters"
+    ],
+    "steam:1413660": [
+      "Metroidvanias"
+    ],
+    "steam:1413870": [
+      "Metroidvanias"
+    ],
+    "steam:1415280": [
+      "Metroidvanias"
+    ],
+    "steam:1417010": [
+      "Boomer shooters"
+    ],
+    "steam:1417930": [
+      "Platformers"
+    ],
+    "steam:1419160": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1419290": [
+      "Platformers"
+    ],
+    "steam:1420080": [
+      "Platformers"
+    ],
+    "steam:1421490": [
+      "Boomer shooters"
+    ],
+    "steam:1422440": [
+      "Real-time strategy",
+      "Survival"
+    ],
+    "steam:1424290": [
+      "Metroidvanias"
+    ],
+    "steam:1425180": [
+      "Metroidvanias"
+    ],
+    "steam:1426210": [
+      "Platformers"
+    ],
+    "steam:1426450": [
+      "Real-time strategy",
+      "Survival"
+    ],
+    "steam:1428710": [
+      "Metroidvanias"
+    ],
+    "steam:1429500": [
+      "Metroidvanias"
+    ],
+    "steam:1430220": [
+      "Metroidvanias"
+    ],
+    "steam:1431300": [
+      "Survival"
+    ],
+    "steam:1434050": [
+      "Metroidvanias"
+    ],
+    "steam:1436590": [
+      "Metroidvanias"
+    ],
+    "steam:1436700": [
+      "Platformers"
+    ],
+    "steam:1437400": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1437760": [
+      "Boomer shooters"
+    ],
+    "steam:1439750": [
+      "Real-time strategy"
+    ],
+    "steam:1439960": [
+      "Metroidvanias"
+    ],
+    "steam:1441670": [
+      "Metroidvanias"
+    ],
+    "steam:1442520": [
+      "Metroidvanias"
+    ],
+    "steam:1442530": [
+      "Survival"
+    ],
+    "steam:1444080": [
+      "Metroidvanias"
+    ],
+    "steam:1446900": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1450900": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1453900": [
+      "Metroidvanias"
+    ],
+    "steam:1456760": [
+      "Boomer shooters"
+    ],
+    "steam:1456880": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1457320": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1458140": [
+      "Survival"
+    ],
+    "steam:1463730": [
+      "Survival"
+    ],
+    "steam:1466860": [
+      "Real-time strategy"
+    ],
+    "steam:1478160": [
+      "Metroidvanias"
+    ],
+    "steam:1478650": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1482430": [
+      "Metroidvanias"
+    ],
+    "steam:1482770": [
+      "Survival"
+    ],
+    "steam:1486920": [
+      "Real-time strategy"
+    ],
+    "steam:1487100": [
+      "Metroidvanias"
+    ],
+    "steam:1489110": [
+      "Metroidvanias"
+    ],
+    "steam:1489410": [
+      "Metroidvanias"
+    ],
+    "steam:1489590": [
+      "Metroidvanias"
+    ],
+    "steam:1489850": [
+      "Metroidvanias"
+    ],
+    "steam:1509960": [
+      "Platformers"
+    ],
+    "steam:1510440": [
+      "Survival"
+    ],
+    "steam:1515570": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:1517970": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1519090": [
+      "Survival"
+    ],
+    "steam:1519710": [
+      "Platformers"
+    ],
+    "steam:1520370": [
+      "Survival"
+    ],
+    "steam:1522160": [
+      "Platformers"
+    ],
+    "steam:1522870": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1522930": [
+      "Metroidvanias"
+    ],
+    "steam:1522950": [
+      "Platformers"
+    ],
+    "steam:1525320": [
+      "Platformers"
+    ],
+    "steam:1525660": [
+      "Platformers"
+    ],
+    "steam:1527070": [
+      "Real-time strategy"
+    ],
+    "steam:1532200": [
+      "Survival"
+    ],
+    "steam:1533420": [
+      "Platformers"
+    ],
+    "steam:1534980": [
+      "Survival"
+    ],
+    "steam:1546710": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1549690": [
+      "Boomer shooters"
+    ],
+    "steam:1549750": [
+      "Boomer shooters",
+      "Metroidvanias"
+    ],
+    "steam:1550270": [
+      "Platformers"
+    ],
+    "steam:1550760": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1552550": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1553710": [
+      "Roguelites"
+    ],
+    "steam:1554840": [
+      "Platformers"
+    ],
+    "steam:1558720": [
+      "Metroidvanias"
+    ],
+    "steam:1561340": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1562140": [
+      "Metroidvanias"
+    ],
+    "steam:1562700": [
+      "Platformers"
+    ],
+    "steam:1564600": [
+      "Survival"
+    ],
+    "steam:1565670": [
+      "Real-time strategy"
+    ],
+    "steam:1572000": [
+      "Survival"
+    ],
+    "steam:1573090": [
+      "Boomer shooters"
+    ],
+    "steam:1574480": [
+      "Boomer shooters"
+    ],
+    "steam:1574900": [
+      "Survival"
+    ],
+    "steam:1575470": [
+      "Platformers"
+    ],
+    "steam:1575940": [
+      "Real-time strategy"
+    ],
+    "steam:1577660": [
+      "Metroidvanias"
+    ],
+    "steam:1583230": [
+      "Metroidvanias"
+    ],
+    "steam:1586700": [
+      "Platformers"
+    ],
+    "steam:1586800": [
+      "Platformers"
+    ],
+    "steam:1587130": [
+      "Boomer shooters"
+    ],
+    "steam:1587380": [
+      "Metroidvanias"
+    ],
+    "steam:1590910": [
+      "Boomer shooters"
+    ],
+    "steam:1592280": [
+      "Boomer shooters"
+    ],
+    "steam:1599020": [
+      "Platformers"
+    ],
+    "steam:1599330": [
+      "Survival"
+    ],
+    "steam:1599660": [
+      "Platformers"
+    ],
+    "steam:1601330": [
+      "Survival"
+    ],
+    "steam:1601570": [
+      "Survival"
+    ],
+    "steam:1601580": [
+      "Survival"
+    ],
+    "steam:1604030": [
+      "Survival"
+    ],
+    "steam:1604270": [
+      "Real-time strategy"
+    ],
+    "steam:1604300": [
+      "Platformers"
+    ],
+    "steam:1607240": [
+      "Platformers"
+    ],
+    "steam:1607680": [
+      "Platformers"
+    ],
+    "steam:1608230": [
+      "Platformers"
+    ],
+    "steam:1610520": [
+      "Survival"
+    ],
+    "steam:1611600": [
+      "Real-time strategy"
+    ],
+    "steam:1614330": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1614440": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1617120": [
+      "Survival"
+    ],
+    "steam:1621070": [
+      "Survival"
+    ],
+    "steam:1621690": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1623730": [
+      "Survival"
+    ],
+    "steam:1625450": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1629530": [
+      "Platformers"
+    ],
+    "steam:1634360": [
+      "Metroidvanias"
+    ],
+    "steam:1634860": [
+      "Metroidvanias"
+    ],
+    "steam:1640300": [
+      "Boomer shooters"
+    ],
+    "steam:1640320": [
+      "Metroidvanias"
+    ],
+    "steam:1641960": [
+      "Survival"
+    ],
+    "steam:1645820": [
+      "Survival"
+    ],
+    "steam:1646790": [
+      "Roguelites"
+    ],
+    "steam:1655960": [
+      "Metroidvanias"
+    ],
+    "steam:1660080": [
+      "Survival"
+    ],
+    "steam:1660960": [
+      "Platformers"
+    ],
+    "steam:1663380": [
+      "Metroidvanias"
+    ],
+    "steam:1663850": [
+      "Platformers"
+    ],
+    "steam:1665260": [
+      "Boomer shooters"
+    ],
+    "steam:1666480": [
+      "Metroidvanias"
+    ],
+    "steam:1667040": [
+      "Survival"
+    ],
+    "steam:1669420": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1671410": [
+      "Platformers"
+    ],
+    "steam:1672810": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1674780": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1675260": [
+      "Survival"
+    ],
+    "steam:1676130": [
+      "Boomer shooters"
+    ],
+    "steam:1677280": [
+      "Real-time strategy"
+    ],
+    "steam:1677900": [
+      "Boomer shooters"
+    ],
+    "steam:1678430": [
+      "Boomer shooters"
+    ],
+    "steam:1682000": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1684930": [
+      "Boomer shooters"
+    ],
+    "steam:1686130": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1686230": [
+      "Survival"
+    ],
+    "steam:1687990": [
+      "Metroidvanias"
+    ],
+    "steam:1688080": [
+      "Metroidvanias"
+    ],
+    "steam:1692240": [
+      "Boomer shooters"
+    ],
+    "steam:1693280": [
+      "Boomer shooters"
+    ],
+    "steam:1694420": [
+      "Survival"
+    ],
+    "steam:1697880": [
+      "Survival"
+    ],
+    "steam:1698220": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1699050": [
+      "Real-time strategy"
+    ],
+    "steam:1700870": [
+      "Survival"
+    ],
+    "steam:1701520": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1701800": [
+      "Platformers"
+    ],
+    "steam:1702010": [
+      "Survival"
+    ],
+    "steam:1702260": [
+      "Survival"
+    ],
+    "steam:1711700": [
+      "Metroidvanias"
+    ],
+    "steam:1713350": [
+      "Survival"
+    ],
+    "steam:1713730": [
+      "Metroidvanias"
+    ],
+    "steam:1714240": [
+      "Roguelites"
+    ],
+    "steam:1715590": [
+      "Boomer shooters"
+    ],
+    "steam:1715690": [
+      "Boomer shooters"
+    ],
+    "steam:1716310": [
+      "Metroidvanias"
+    ],
+    "steam:1717730": [
+      "Metroidvanias"
+    ],
+    "steam:1717770": [
+      "Platformers"
+    ],
+    "steam:1720090": [
+      "Platformers"
+    ],
+    "steam:1721060": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1722620": [
+      "Platformers"
+    ],
+    "steam:1723610": [
+      "Survival"
+    ],
+    "steam:1725340": [
+      "Metroidvanias"
+    ],
+    "steam:1730680": [
+      "Platformers"
+    ],
+    "steam:1730790": [
+      "Metroidvanias"
+    ],
+    "steam:1733250": [
+      "Metroidvanias"
+    ],
+    "steam:1733880": [
+      "Platformers"
+    ],
+    "steam:1734680": [
+      "Boomer shooters"
+    ],
+    "steam:1740150": [
+      "Boomer shooters"
+    ],
+    "steam:1740300": [
+      "Platformers"
+    ],
+    "steam:1740720": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:1743850": [
+      "Boomer shooters"
+    ],
+    "steam:1747560": [
+      "Metroidvanias"
+    ],
+    "steam:1747760": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1747890": [
+      "Platformers"
+    ],
+    "steam:17480": [
+      "Real-time strategy"
+    ],
+    "steam:1756020": [
+      "Metroidvanias"
+    ],
+    "steam:1760330": [
+      "Metroidvanias"
+    ],
+    "steam:1762010": [
+      "Boomer shooters"
+    ],
+    "steam:1762570": [
+      "Real-time strategy"
+    ],
+    "steam:1763030": [
+      "Metroidvanias"
+    ],
+    "steam:1765780": [
+      "Boomer shooters"
+    ],
+    "steam:1766060": [
+      "Survival"
+    ],
+    "steam:1766100": [
+      "Metroidvanias"
+    ],
+    "steam:1769420": [
+      "Survival"
+    ],
+    "steam:1772830": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1774220": [
+      "Platformers"
+    ],
+    "steam:1774580": [
+      "Metroidvanias"
+    ],
+    "steam:1776840": [
+      "Metroidvanias"
+    ],
+    "steam:1779060": [
+      "Boomer shooters"
+    ],
+    "steam:1779950": [
+      "Metroidvanias"
+    ],
+    "steam:1781260": [
+      "Platformers"
+    ],
+    "steam:1782120": [
+      "Survival"
+    ],
+    "steam:1782150": [
+      "Metroidvanias"
+    ],
+    "steam:1782330": [
+      "Survival"
+    ],
+    "steam:1782460": [
+      "Roguelites"
+    ],
+    "steam:1783560": [
+      "Survival"
+    ],
+    "steam:1785940": [
+      "Boomer shooters"
+    ],
+    "steam:1794680": [
+      "Roguelites"
+    ],
+    "steam:1794960": [
+      "Platformers"
+    ],
+    "steam:1795570": [
+      "Survival"
+    ],
+    "steam:1796220": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1796470": [
+      "Platformers"
+    ],
+    "steam:1796720": [
+      "Real-time strategy"
+    ],
+    "steam:1798230": [
+      "Survival"
+    ],
+    "steam:1802880": [
+      "Metroidvanias"
+    ],
+    "steam:1805110": [
+      "Survival"
+    ],
+    "steam:1809540": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1812450": [
+      "Survival"
+    ],
+    "steam:1822450": [
+      "Survival"
+    ],
+    "steam:1833210": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1835240": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:1836730": [
+      "Boomer shooters",
+      "Platformers"
+    ],
+    "steam:1839060": [
+      "Survival"
+    ],
+    "steam:1839950": [
+      "Real-time strategy"
+    ],
+    "steam:1840080": [
+      "Real-time strategy"
+    ],
+    "steam:1840610": [
+      "Boomer shooters"
+    ],
+    "steam:1841630": [
+      "Real-time strategy"
+    ],
+    "steam:1853760": [
+      "Metroidvanias"
+    ],
+    "steam:1857950": [
+      "Survival"
+    ],
+    "steam:1858810": [
+      "Metroidvanias"
+    ],
+    "steam:1859430": [
+      "Metroidvanias"
+    ],
+    "steam:1859470": [
+      "Platformers"
+    ],
+    "steam:1859620": [
+      "Boomer shooters"
+    ],
+    "steam:1869290": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:1872680": [
+      "Metroidvanias"
+    ],
+    "steam:1874190": [
+      "Survival"
+    ],
+    "steam:1876590": [
+      "Boomer shooters"
+    ],
+    "steam:1883810": [
+      "Metroidvanias"
+    ],
+    "steam:1887400": [
+      "Platformers"
+    ],
+    "steam:1890950": [
+      "Boomer shooters"
+    ],
+    "steam:1893370": [
+      "Boomer shooters"
+    ],
+    "steam:1895880": [
+      "Platformers"
+    ],
+    "steam:1897010": [
+      "Boomer shooters"
+    ],
+    "steam:1898300": [
+      "Survival"
+    ],
+    "steam:1898500": [
+      "Metroidvanias"
+    ],
+    "steam:1898610": [
+      "Boomer shooters"
+    ],
+    "steam:1900": [
+      "Real-time strategy"
+    ],
+    "steam:1911360": [
+      "Platformers",
+      "Roguelites",
+      "Metroidvanias"
+    ],
+    "steam:1914580": [
+      "Roguelites"
+    ],
+    "steam:1917990": [
+      "Metroidvanias"
+    ],
+    "steam:1918040": [
+      "Roguelites"
+    ],
+    "steam:1918450": [
+      "Metroidvanias"
+    ],
+    "steam:1919720": [
+      "Roguelites"
+    ],
+    "steam:1924780": [
+      "Platformers"
+    ],
+    "steam:1928690": [
+      "Platformers"
+    ],
+    "steam:1928980": [
+      "Survival"
+    ],
+    "steam:1929870": [
+      "Roguelites"
+    ],
+    "steam:1931020": [
+      "Boomer shooters"
+    ],
+    "steam:1931180": [
+      "Survival"
+    ],
+    "steam:1931690": [
+      "Platformers"
+    ],
+    "steam:1933000": [
+      "Boomer shooters",
+      "Platformers"
+    ],
+    "steam:1934040": [
+      "Minecraft-like worlds"
+    ],
+    "steam:1934680": [
+      "Real-time strategy"
+    ],
+    "steam:1934720": [
+      "Real-time strategy"
+    ],
+    "steam:1940080": [
+      "Survival"
+    ],
+    "steam:1942010": [
+      "Platformers"
+    ],
+    "steam:1942280": [
+      "Roguelites"
+    ],
+    "steam:1944570": [
+      "Roguelites"
+    ],
+    "steam:1949960": [
+      "Platformers"
+    ],
+    "steam:1952370": [
+      "Platformers",
+      "Roguelites",
+      "Metroidvanias"
+    ],
+    "steam:1955230": [
+      "Platformers"
+    ],
+    "steam:1960070": [
+      "Metroidvanias"
+    ],
+    "steam:1962700": [
+      "Survival"
+    ],
+    "steam:1963370": [
+      "Survival"
+    ],
+    "steam:1963610": [
+      "Survival"
+    ],
+    "steam:1966220": [
+      "Metroidvanias"
+    ],
+    "steam:1966900": [
+      "Roguelites"
+    ],
+    "steam:1967630": [
+      "Survival"
+    ],
+    "steam:1968730": [
+      "Roguelites"
+    ],
+    "steam:1969830": [
+      "Platformers"
+    ],
+    "steam:1977200": [
+      "Metroidvanias"
+    ],
+    "steam:1983220": [
+      "Platformers"
+    ],
+    "steam:1983620": [
+      "Metroidvanias"
+    ],
+    "steam:1996090": [
+      "Metroidvanias"
+    ],
+    "steam:1996600": [
+      "Real-time strategy"
+    ],
+    "steam:1999140": [
+      "Boomer shooters"
+    ],
+    "steam:2001120": [
+      "Platformers"
+    ],
+    "steam:2002220": [
+      "Roguelites"
+    ],
+    "steam:2005010": [
+      "Boomer shooters"
+    ],
+    "steam:2005210": [
+      "Roguelites"
+    ],
+    "steam:2007530": [
+      "Roguelites"
+    ],
+    "steam:200900": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2011780": [
+      "Platformers"
+    ],
+    "steam:2012510": [
+      "Real-time strategy"
+    ],
+    "steam:201420": [
+      "Metroidvanias"
+    ],
+    "steam:2014550": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2015240": [
+      "Roguelites"
+    ],
+    "steam:2019020": [
+      "Roguelites"
+    ],
+    "steam:2022670": [
+      "Platformers"
+    ],
+    "steam:2023360": [
+      "Metroidvanias"
+    ],
+    "steam:2024230": [
+      "Roguelites"
+    ],
+    "steam:204880": [
+      "Real-time strategy"
+    ],
+    "steam:2050800": [
+      "Roguelites"
+    ],
+    "steam:2054660": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2055290": [
+      "Platformers"
+    ],
+    "steam:205730": [
+      "Metroidvanias"
+    ],
+    "steam:2059530": [
+      "Survival"
+    ],
+    "steam:2059570": [
+      "Metroidvanias"
+    ],
+    "steam:2059660": [
+      "Platformers"
+    ],
+    "steam:2061230": [
+      "Boomer shooters"
+    ],
+    "steam:2062430": [
+      "Roguelites"
+    ],
+    "steam:2063480": [
+      "Boomer shooters"
+    ],
+    "steam:2066020": [
+      "Roguelites"
+    ],
+    "steam:2067820": [
+      "Boomer shooters"
+    ],
+    "steam:2067920": [
+      "Roguelites"
+    ],
+    "steam:2068280": [
+      "Roguelites"
+    ],
+    "steam:2069250": [
+      "Metroidvanias"
+    ],
+    "steam:2071280": [
+      "Roguelites"
+    ],
+    "steam:2072660": [
+      "Boomer shooters"
+    ],
+    "steam:2074620": [
+      "Survival"
+    ],
+    "steam:2074630": [
+      "Metroidvanias"
+    ],
+    "steam:207490": [
+      "Platformers"
+    ],
+    "steam:2075100": [
+      "Survival"
+    ],
+    "steam:2080690": [
+      "Survival"
+    ],
+    "steam:2081400": [
+      "Metroidvanias"
+    ],
+    "steam:2083840": [
+      "Roguelites"
+    ],
+    "steam:2085310": [
+      "Metroidvanias"
+    ],
+    "steam:2085800": [
+      "Metroidvanias"
+    ],
+    "steam:2086430": [
+      "Roguelites"
+    ],
+    "steam:2088550": [
+      "Real-time strategy"
+    ],
+    "steam:2088570": [
+      "Roguelites"
+    ],
+    "steam:2088840": [
+      "Roguelites"
+    ],
+    "steam:209330": [
+      "Metroidvanias"
+    ],
+    "steam:2103140": [
+      "Roguelites"
+    ],
+    "steam:2104460": [
+      "Boomer shooters"
+    ],
+    "steam:2107540": [
+      "Platformers"
+    ],
+    "steam:2111190": [
+      "Boomer shooters"
+    ],
+    "steam:2113270": [
+      "Boomer shooters"
+    ],
+    "steam:2113770": [
+      "Roguelites"
+    ],
+    "steam:2114740": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:211820": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2124120": [
+      "Boomer shooters"
+    ],
+    "steam:2129530": [
+      "Platformers"
+    ],
+    "steam:2132890": [
+      "Platformers"
+    ],
+    "steam:2135150": [
+      "Survival"
+    ],
+    "steam:213610": [
+      "Platformers"
+    ],
+    "steam:2137760": [
+      "Roguelites"
+    ],
+    "steam:2139460": [
+      "Survival"
+    ],
+    "steam:2139840": [
+      "Metroidvanias"
+    ],
+    "steam:2139870": [
+      "Metroidvanias"
+    ],
+    "steam:2141520": [
+      "Roguelites"
+    ],
+    "steam:2144640": [
+      "Survival"
+    ],
+    "steam:2144740": [
+      "Platformers"
+    ],
+    "steam:2146290": [
+      "Platformers"
+    ],
+    "steam:2153750": [
+      "Metroidvanias"
+    ],
+    "steam:2153780": [
+      "Survival"
+    ],
+    "steam:2157250": [
+      "Roguelites"
+    ],
+    "steam:2157710": [
+      "Roguelites"
+    ],
+    "steam:2163330": [
+      "Roguelites"
+    ],
+    "steam:2168150": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2170390": [
+      "Metroidvanias"
+    ],
+    "steam:2172120": [
+      "Roguelites"
+    ],
+    "steam:2178560": [
+      "Roguelites"
+    ],
+    "steam:2181720": [
+      "Roguelites"
+    ],
+    "steam:2184080": [
+      "Metroidvanias"
+    ],
+    "steam:2190700": [
+      "Metroidvanias"
+    ],
+    "steam:2191540": [
+      "Metroidvanias"
+    ],
+    "steam:2195910": [
+      "Boomer shooters"
+    ],
+    "steam:21970": [
+      "Real-time strategy"
+    ],
+    "steam:219740": [
+      "Survival"
+    ],
+    "steam:2199060": [
+      "Roguelites"
+    ],
+    "steam:2199330": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2206270": [
+      "Roguelites",
+      "Boomer shooters"
+    ],
+    "steam:220780": [
+      "Platformers"
+    ],
+    "steam:221100": [
+      "Survival"
+    ],
+    "steam:2218400": [
+      "Roguelites"
+    ],
+    "steam:2218750": [
+      "Roguelites"
+    ],
+    "steam:2220870": [
+      "Roguelites"
+    ],
+    "steam:2225960": [
+      "Roguelites"
+    ],
+    "steam:2226660": [
+      "Metroidvanias"
+    ],
+    "steam:2226980": [
+      "Metroidvanias"
+    ],
+    "steam:2229850": [
+      "Real-time strategy"
+    ],
+    "steam:2229870": [
+      "Real-time strategy"
+    ],
+    "steam:2229880": [
+      "Real-time strategy"
+    ],
+    "steam:2230170": [
+      "Survival"
+    ],
+    "steam:2230650": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2231450": [
+      "Platformers"
+    ],
+    "steam:223220": [
+      "Platformers"
+    ],
+    "steam:223490": [
+      "Minecraft-like worlds"
+    ],
+    "steam:223510": [
+      "Survival"
+    ],
+    "steam:2235200": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:2237070": [
+      "Roguelites"
+    ],
+    "steam:2237970": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2239150": [
+      "Real-time strategy"
+    ],
+    "steam:2241560": [
+      "Metroidvanias"
+    ],
+    "steam:2243250": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2244030": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2245420": [
+      "Metroidvanias"
+    ],
+    "steam:224760": [
+      "Platformers"
+    ],
+    "steam:2248230": [
+      "Metroidvanias"
+    ],
+    "steam:2250080": [
+      "Roguelites"
+    ],
+    "steam:2251400": [
+      "Platformers"
+    ],
+    "steam:2253100": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2254990": [
+      "Survival"
+    ],
+    "steam:2262080": [
+      "Survival"
+    ],
+    "steam:227080": [
+      "Platformers"
+    ],
+    "steam:227200": [
+      "Metroidvanias"
+    ],
+    "steam:2272250": [
+      "Boomer shooters"
+    ],
+    "steam:227600": [
+      "Platformers"
+    ],
+    "steam:227860": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2278790": [
+      "Platformers"
+    ],
+    "steam:2280": [
+      "Boomer shooters"
+    ],
+    "steam:2280510": [
+      "Metroidvanias"
+    ],
+    "steam:2281940": [
+      "Metroidvanias"
+    ],
+    "steam:2283580": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2285150": [
+      "Survival"
+    ],
+    "steam:2285630": [
+      "Roguelites"
+    ],
+    "steam:2286450": [
+      "Roguelites"
+    ],
+    "steam:2292060": [
+      "Roguelites"
+    ],
+    "steam:2295610": [
+      "Platformers"
+    ],
+    "steam:230270": [
+      "Platformers"
+    ],
+    "steam:2303500": [
+      "Metroidvanias"
+    ],
+    "steam:230700": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2310": [
+      "Boomer shooters"
+    ],
+    "steam:231160": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2312160": [
+      "Platformers"
+    ],
+    "steam:2313330": [
+      "Survival"
+    ],
+    "steam:2313700": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:231430": [
+      "Real-time strategy"
+    ],
+    "steam:2316580": [
+      "Metroidvanias"
+    ],
+    "steam:2319390": [
+      "Boomer shooters"
+    ],
+    "steam:2319790": [
+      "Boomer shooters"
+    ],
+    "steam:2320": [
+      "Boomer shooters"
+    ],
+    "steam:2321470": [
+      "Roguelites"
+    ],
+    "steam:2321780": [
+      "Boomer shooters"
+    ],
+    "steam:2324290": [
+      "Platformers"
+    ],
+    "steam:2324610": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2330500": [
+      "Platformers"
+    ],
+    "steam:2330750": [
+      "Survival"
+    ],
+    "steam:2334730": [
+      "Roguelites"
+    ],
+    "steam:233550": [
+      "Platformers"
+    ],
+    "steam:2336200": [
+      "Roguelites"
+    ],
+    "steam:233860": [
+      "Survival"
+    ],
+    "steam:233980": [
+      "Metroidvanias"
+    ],
+    "steam:2342950": [
+      "Roguelites"
+    ],
+    "steam:2347940": [
+      "Roguelites"
+    ],
+    "steam:2348610": [
+      "Roguelites"
+    ],
+    "steam:2351890": [
+      "Roguelites"
+    ],
+    "steam:235210": [
+      "Metroidvanias"
+    ],
+    "steam:2352100": [
+      "Roguelites"
+    ],
+    "steam:2352520": [
+      "Metroidvanias"
+    ],
+    "steam:2353250": [
+      "Survival"
+    ],
+    "steam:2354600": [
+      "Roguelites"
+    ],
+    "steam:236090": [
+      "Metroidvanias"
+    ],
+    "steam:2361770": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2365810": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2369900": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2371890": [
+      "Metroidvanias"
+    ],
+    "steam:2374190": [
+      "Platformers"
+    ],
+    "steam:2375790": [
+      "Survival"
+    ],
+    "steam:2376260": [
+      "Metroidvanias"
+    ],
+    "steam:237630": [
+      "Platformers"
+    ],
+    "steam:237870": [
+      "Survival"
+    ],
+    "steam:2382240": [
+      "Metroidvanias"
+    ],
+    "steam:238240": [
+      "Minecraft-like worlds"
+    ],
+    "steam:238460": [
+      "Platformers"
+    ],
+    "steam:2384730": [
+      "Metroidvanias"
+    ],
+    "steam:2386310": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2386720": [
+      "Boomer shooters"
+    ],
+    "steam:2387460": [
+      "Platformers"
+    ],
+    "steam:2387740": [
+      "Metroidvanias"
+    ],
+    "steam:2388620": [
+      "Real-time strategy"
+    ],
+    "steam:2391900": [
+      "Roguelites"
+    ],
+    "steam:239350": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:2394650": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2395770": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:2398170": [
+      "Roguelites"
+    ],
+    "steam:2399830": [
+      "Survival"
+    ],
+    "steam:2401740": [
+      "Roguelites"
+    ],
+    "steam:2404370": [
+      "Metroidvanias"
+    ],
+    "steam:240720": [
+      "Platformers"
+    ],
+    "steam:2408820": [
+      "Survival"
+    ],
+    "steam:2412960": [
+      "Survival"
+    ],
+    "steam:241600": [
+      "Platformers",
+      "Roguelites",
+      "Metroidvanias"
+    ],
+    "steam:2416450": [
+      "Boomer shooters"
+    ],
+    "steam:2419720": [
+      "Roguelites"
+    ],
+    "steam:2420510": [
+      "Roguelites"
+    ],
+    "steam:2420660": [
+      "Platformers"
+    ],
+    "steam:242550": [
+      "Platformers"
+    ],
+    "steam:2425580": [
+      "Metroidvanias"
+    ],
+    "steam:242760": [
+      "Survival"
+    ],
+    "steam:2430390": [
+      "Survival"
+    ],
+    "steam:2431080": [
+      "Roguelites"
+    ],
+    "steam:2433850": [
+      "Roguelites"
+    ],
+    "steam:2436570": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2436940": [
+      "Roguelites"
+    ],
+    "steam:244160": [
+      "Real-time strategy"
+    ],
+    "steam:24420": [
+      "Metroidvanias"
+    ],
+    "steam:2443090": [
+      "Roguelites"
+    ],
+    "steam:2443360": [
+      "Boomer shooters"
+    ],
+    "steam:2443370": [
+      "Roguelites"
+    ],
+    "steam:2444750": [
+      "Roguelites"
+    ],
+    "steam:244770": [
+      "Survival"
+    ],
+    "steam:2448020": [
+      "Platformers"
+    ],
+    "steam:244850": [
+      "Survival"
+    ],
+    "steam:244870": [
+      "Platformers"
+    ],
+    "steam:245300": [
+      "Platformers"
+    ],
+    "steam:245370": [
+      "Real-time strategy"
+    ],
+    "steam:2454830": [
+      "Roguelites"
+    ],
+    "steam:2459840": [
+      "Metroidvanias"
+    ],
+    "steam:2463220": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:24790": [
+      "Real-time strategy"
+    ],
+    "steam:2479320": [
+      "Roguelites"
+    ],
+    "steam:24800": [
+      "Real-time strategy"
+    ],
+    "steam:24810": [
+      "Real-time strategy"
+    ],
+    "steam:248190": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2482190": [
+      "Roguelites"
+    ],
+    "steam:248310": [
+      "Platformers"
+    ],
+    "steam:248390": [
+      "Minecraft-like worlds"
+    ],
+    "steam:248860": [
+      "Survival"
+    ],
+    "steam:2489950": [
+      "Metroidvanias"
+    ],
+    "steam:2491670": [
+      "Roguelites"
+    ],
+    "steam:249590": [
+      "Metroidvanias"
+    ],
+    "steam:2497920": [
+      "Platformers"
+    ],
+    "steam:2499040": [
+      "Metroidvanias"
+    ],
+    "steam:2499520": [
+      "Roguelites"
+    ],
+    "steam:250400": [
+      "Survival"
+    ],
+    "steam:2504380": [
+      "Survival"
+    ],
+    "steam:250760": [
+      "Platformers"
+    ],
+    "steam:2508440": [
+      "Metroidvanias"
+    ],
+    "steam:251060": [
+      "Real-time strategy"
+    ],
+    "steam:2510960": [
+      "Roguelites"
+    ],
+    "steam:2512450": [
+      "Metroidvanias"
+    ],
+    "steam:2513280": [
+      "Platformers"
+    ],
+    "steam:251470": [
+      "Platformers"
+    ],
+    "steam:251570": [
+      "Survival"
+    ],
+    "steam:252010": [
+      "Platformers"
+    ],
+    "steam:252030": [
+      "Metroidvanias"
+    ],
+    "steam:2521160": [
+      "Metroidvanias"
+    ],
+    "steam:252410": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2524850": [
+      "Platformers"
+    ],
+    "steam:252490": [
+      "Survival"
+    ],
+    "steam:2525210": [
+      "Metroidvanias"
+    ],
+    "steam:2527710": [
+      "Boomer shooters"
+    ],
+    "steam:2529790": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2530470": [
+      "Roguelites"
+    ],
+    "steam:253230": [
+      "Platformers"
+    ],
+    "steam:253250": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2534370": [
+      "Metroidvanias"
+    ],
+    "steam:253840": [
+      "Platformers"
+    ],
+    "steam:253880": [
+      "Real-time strategy"
+    ],
+    "steam:2541530": [
+      "Survival"
+    ],
+    "steam:254200": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2542020": [
+      "Platformers"
+    ],
+    "steam:2542120": [
+      "Platformers"
+    ],
+    "steam:2542140": [
+      "Roguelites"
+    ],
+    "steam:2542350": [
+      "Roguelites"
+    ],
+    "steam:254760": [
+      "Real-time strategy"
+    ],
+    "steam:254780": [
+      "Real-time strategy"
+    ],
+    "steam:2549240": [
+      "Platformers"
+    ],
+    "steam:255390": [
+      "Platformers"
+    ],
+    "steam:2555390": [
+      "Metroidvanias"
+    ],
+    "steam:2559500": [
+      "Roguelites"
+    ],
+    "steam:2560240": [
+      "Platformers"
+    ],
+    "steam:2567870": [
+      "Platformers"
+    ],
+    "steam:2570210": [
+      "Survival"
+    ],
+    "steam:257050": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2575900": [
+      "Platformers"
+    ],
+    "steam:257850": [
+      "Metroidvanias"
+    ],
+    "steam:2583660": [
+      "Real-time strategy"
+    ],
+    "steam:2585890": [
+      "Platformers"
+    ],
+    "steam:2589980": [
+      "Metroidvanias"
+    ],
+    "steam:2599770": [
+      "Real-time strategy"
+    ],
+    "steam:2602020": [
+      "Platformers"
+    ],
+    "steam:2602030": [
+      "Roguelites"
+    ],
+    "steam:260790": [
+      "Platformers"
+    ],
+    "steam:2610650": [
+      "Boomer shooters"
+    ],
+    "steam:2610770": [
+      "Real-time strategy"
+    ],
+    "steam:2617700": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2620200": [
+      "Roguelites"
+    ],
+    "steam:2620730": [
+      "Metroidvanias"
+    ],
+    "steam:262370": [
+      "Metroidvanias"
+    ],
+    "steam:262390": [
+      "Platformers"
+    ],
+    "steam:2625420": [
+      "Survival"
+    ],
+    "steam:2628570": [
+      "Survival"
+    ],
+    "steam:262960": [
+      "Metroidvanias"
+    ],
+    "steam:263200": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2644470": [
+      "Platformers"
+    ],
+    "steam:2646460": [
+      "Survival"
+    ],
+    "steam:264710": [
+      "Survival"
+    ],
+    "steam:2649120": [
+      "Survival"
+    ],
+    "steam:2655470": [
+      "Metroidvanias"
+    ],
+    "steam:2656050": [
+      "Metroidvanias"
+    ],
+    "steam:2658490": [
+      "Roguelites"
+    ],
+    "steam:2661300": [
+      "Survival"
+    ],
+    "steam:2661310": [
+      "Platformers"
+    ],
+    "steam:266170": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2665680": [
+      "Roguelites"
+    ],
+    "steam:2671230": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2680280": [
+      "Boomer shooters"
+    ],
+    "steam:2680330": [
+      "Metroidvanias"
+    ],
+    "steam:2681030": [
+      "Survival"
+    ],
+    "steam:2682580": [
+      "Survival"
+    ],
+    "steam:2685090": [
+      "Platformers"
+    ],
+    "steam:2686630": [
+      "Survival"
+    ],
+    "steam:268770": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2689470": [
+      "Boomer shooters"
+    ],
+    "steam:269270": [
+      "Platformers"
+    ],
+    "steam:2692740": [
+      "Survival"
+    ],
+    "steam:2694420": [
+      "Roguelites"
+    ],
+    "steam:2697470": [
+      "Boomer shooters"
+    ],
+    "steam:2697940": [
+      "Roguelites"
+    ],
+    "steam:270110": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2706450": [
+      "Boomer shooters"
+    ],
+    "steam:2707930": [
+      "Survival"
+    ],
+    "steam:2710": [
+      "Real-time strategy"
+    ],
+    "steam:2710040": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2710920": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2715870": [
+      "Metroidvanias"
+    ],
+    "steam:2719290": [
+      "Survival"
+    ],
+    "steam:2719590": [
+      "Survival"
+    ],
+    "steam:2723250": [
+      "Boomer shooters"
+    ],
+    "steam:2723480": [
+      "Roguelites"
+    ],
+    "steam:2725260": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2729830": [
+      "Survival"
+    ],
+    "steam:2732960": [
+      "Real-time strategy"
+    ],
+    "steam:2736900": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2741830": [
+      "Metroidvanias"
+    ],
+    "steam:274520": [
+      "Survival"
+    ],
+    "steam:2745870": [
+      "Real-time strategy"
+    ],
+    "steam:2746340": [
+      "Roguelites"
+    ],
+    "steam:2747550": [
+      "Roguelites",
+      "Boomer shooters"
+    ],
+    "steam:2749920": [
+      "Metroidvanias"
+    ],
+    "steam:2751000": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:275390": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:275850": [
+      "Survival"
+    ],
+    "steam:2764460": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2774370": [
+      "Metroidvanias"
+    ],
+    "steam:2776090": [
+      "Minecraft-like worlds"
+    ],
+    "steam:277890": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2779570": [
+      "Roguelites"
+    ],
+    "steam:2780710": [
+      "Roguelites"
+    ],
+    "steam:2783370": [
+      "Platformers"
+    ],
+    "steam:278360": [
+      "Platformers"
+    ],
+    "steam:2783610": [
+      "Roguelites"
+    ],
+    "steam:2787320": [
+      "Metroidvanias"
+    ],
+    "steam:2788310": [
+      "Roguelites"
+    ],
+    "steam:2795540": [
+      "Survival"
+    ],
+    "steam:280520": [
+      "Minecraft-like worlds"
+    ],
+    "steam:280790": [
+      "Minecraft-like worlds"
+    ],
+    "steam:2815150": [
+      "Metroidvanias"
+    ],
+    "steam:2815610": [
+      "Roguelites"
+    ],
+    "steam:281610": [
+      "Real-time strategy"
+    ],
+    "steam:282070": [
+      "Survival"
+    ],
+    "steam:2820820": [
+      "Roguelites"
+    ],
+    "steam:2826790": [
+      "Survival"
+    ],
+    "steam:2827750": [
+      "Metroidvanias"
+    ],
+    "steam:2828860": [
+      "Survival"
+    ],
+    "steam:2834320": [
+      "Metroidvanias"
+    ],
+    "steam:283640": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:2841510": [
+      "Roguelites"
+    ],
+    "steam:284180": [
+      "Metroidvanias"
+    ],
+    "steam:2845630": [
+      "Roguelites"
+    ],
+    "steam:2847780": [
+      "Metroidvanias"
+    ],
+    "steam:2849490": [
+      "Survival"
+    ],
+    "steam:2849650": [
+      "Metroidvanias"
+    ],
+    "steam:2851150": [
+      "Platformers"
+    ],
+    "steam:285920": [
+      "Survival"
+    ],
+    "steam:286000": [
+      "Real-time strategy"
+    ],
+    "steam:286100": [
+      "Platformers"
+    ],
+    "steam:2862660": [
+      "Survival"
+    ],
+    "steam:286340": [
+      "Survival"
+    ],
+    "steam:2864290": [
+      "Metroidvanias"
+    ],
+    "steam:2868860": [
+      "Survival"
+    ],
+    "steam:287450": [
+      "Real-time strategy"
+    ],
+    "steam:288020": [
+      "Metroidvanias"
+    ],
+    "steam:2881610": [
+      "Boomer shooters"
+    ],
+    "steam:2882930": [
+      "Boomer shooters"
+    ],
+    "steam:2884590": [
+      "Roguelites"
+    ],
+    "steam:2893820": [
+      "Survival"
+    ],
+    "steam:289440": [
+      "Real-time strategy"
+    ],
+    "steam:2896260": [
+      "Boomer shooters"
+    ],
+    "steam:2899350": [
+      "Metroidvanias"
+    ],
+    "steam:290080": [
+      "Survival"
+    ],
+    "steam:2904000": [
+      "Roguelites"
+    ],
+    "steam:290790": [
+      "Real-time strategy"
+    ],
+    "steam:2921580": [
+      "Real-time strategy"
+    ],
+    "steam:2922410": [
+      "Roguelites"
+    ],
+    "steam:2923350": [
+      "Platformers"
+    ],
+    "steam:2925120": [
+      "Platformers"
+    ],
+    "steam:2928450": [
+      "Roguelites"
+    ],
+    "steam:2928690": [
+      "Roguelites"
+    ],
+    "steam:2933130": [
+      "Survival"
+    ],
+    "steam:2934220": [
+      "Roguelites"
+    ],
+    "steam:293440": [
+      "Metroidvanias"
+    ],
+    "steam:2936080": [
+      "Metroidvanias"
+    ],
+    "steam:2938870": [
+      "Metroidvanias"
+    ],
+    "steam:2939510": [
+      "Survival"
+    ],
+    "steam:294100": [
+      "Survival"
+    ],
+    "steam:2943280": [
+      "Survival"
+    ],
+    "steam:2944350": [
+      "Roguelites"
+    ],
+    "steam:2947280": [
+      "Metroidvanias"
+    ],
+    "steam:2951580": [
+      "Roguelites"
+    ],
+    "steam:2966240": [
+      "Minecraft-like worlds"
+    ],
+    "steam:298030": [
+      "Real-time strategy"
+    ],
+    "steam:2980900": [
+      "Metroidvanias"
+    ],
+    "steam:2985840": [
+      "Roguelites"
+    ],
+    "steam:2989180": [
+      "Platformers"
+    ],
+    "steam:2990040": [
+      "Roguelites"
+    ],
+    "steam:2995560": [
+      "Roguelites"
+    ],
+    "steam:2996540": [
+      "Metroidvanias"
+    ],
+    "steam:2997230": [
+      "Platformers"
+    ],
+    "steam:3003460": [
+      "Roguelites"
+    ],
+    "steam:3008740": [
+      "Survival"
+    ],
+    "steam:3010280": [
+      "Real-time strategy"
+    ],
+    "steam:3017860": [
+      "Boomer shooters"
+    ],
+    "steam:3026450": [
+      "Roguelites"
+    ],
+    "steam:302790": [
+      "Metroidvanias"
+    ],
+    "steam:3027930": [
+      "Roguelites"
+    ],
+    "steam:3035960": [
+      "Metroidvanias"
+    ],
+    "steam:303860": [
+      "Real-time strategy"
+    ],
+    "steam:304050": [
+      "Minecraft-like worlds"
+    ],
+    "steam:3041230": [
+      "Survival"
+    ],
+    "steam:3043760": [
+      "Boomer shooters"
+    ],
+    "steam:304430": [
+      "Platformers"
+    ],
+    "steam:304650": [
+      "Survival"
+    ],
+    "steam:3047370": [
+      "Roguelites"
+    ],
+    "steam:304930": [
+      "Survival"
+    ],
+    "steam:305050": [
+      "Platformers"
+    ],
+    "steam:3051280": [
+      "Survival"
+    ],
+    "steam:3052730": [
+      "Real-time strategy"
+    ],
+    "steam:3054610": [
+      "Roguelites"
+    ],
+    "steam:3055000": [
+      "Roguelites"
+    ],
+    "steam:3055950": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:305620": [
+      "Survival"
+    ],
+    "steam:3062830": [
+      "Roguelites"
+    ],
+    "steam:307110": [
+      "Survival"
+    ],
+    "steam:3075410": [
+      "Roguelites"
+    ],
+    "steam:308060": [
+      "Platformers"
+    ],
+    "steam:3088070": [
+      "Roguelites"
+    ],
+    "steam:3089580": [
+      "Metroidvanias"
+    ],
+    "steam:3099000": [
+      "Metroidvanias"
+    ],
+    "steam:3100310": [
+      "Roguelites"
+    ],
+    "steam:310700": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:3109580": [
+      "Roguelites"
+    ],
+    "steam:311190": [
+      "Metroidvanias"
+    ],
+    "steam:311290": [
+      "Real-time strategy"
+    ],
+    "steam:3115160": [
+      "Boomer shooters"
+    ],
+    "steam:3115310": [
+      "Roguelites"
+    ],
+    "steam:3116730": [
+      "Survival"
+    ],
+    "steam:3116870": [
+      "Survival"
+    ],
+    "steam:312200": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:312520": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:3130880": [
+      "Survival"
+    ],
+    "steam:313120": [
+      "Survival"
+    ],
+    "steam:313630": [
+      "Survival"
+    ],
+    "steam:3142500": [
+      "Survival"
+    ],
+    "steam:314660": [
+      "Platformers"
+    ],
+    "steam:3146930": [
+      "Metroidvanias"
+    ],
+    "steam:3152110": [
+      "Survival"
+    ],
+    "steam:315460": [
+      "Minecraft-like worlds"
+    ],
+    "steam:3167610": [
+      "Roguelites"
+    ],
+    "steam:3177710": [
+      "Survival"
+    ],
+    "steam:3177970": [
+      "Roguelites"
+    ],
+    "steam:318020": [
+      "Real-time strategy"
+    ],
+    "steam:3183970": [
+      "Platformers"
+    ],
+    "steam:318530": [
+      "Platformers"
+    ],
+    "steam:318600": [
+      "Survival"
+    ],
+    "steam:319140": [
+      "Metroidvanias"
+    ],
+    "steam:319450": [
+      "Platformers"
+    ],
+    "steam:319480": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:319910": [
+      "Platformers"
+    ],
+    "steam:3202730": [
+      "Minecraft-like worlds"
+    ],
+    "steam:3213120": [
+      "Real-time strategy"
+    ],
+    "steam:3215050": [
+      "Survival"
+    ],
+    "steam:3216340": [
+      "Metroidvanias"
+    ],
+    "steam:322110": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:322330": [
+      "Survival"
+    ],
+    "steam:3228580": [
+      "Roguelites"
+    ],
+    "steam:3229980": [
+      "Metroidvanias"
+    ],
+    "steam:323190": [
+      "Survival"
+    ],
+    "steam:3237970": [
+      "Platformers"
+    ],
+    "steam:3238670": [
+      "Roguelites"
+    ],
+    "steam:324080": [
+      "Minecraft-like worlds"
+    ],
+    "steam:324510": [
+      "Minecraft-like worlds"
+    ],
+    "steam:32470": [
+      "Real-time strategy"
+    ],
+    "steam:325210": [
+      "Survival"
+    ],
+    "steam:3253630": [
+      "Metroidvanias"
+    ],
+    "steam:327090": [
+      "Survival"
+    ],
+    "steam:3276720": [
+      "Metroidvanias"
+    ],
+    "steam:327860": [
+      "Survival"
+    ],
+    "steam:3285880": [
+      "Metroidvanias"
+    ],
+    "steam:3288210": [
+      "Platformers"
+    ],
+    "steam:329430": [
+      "Survival"
+    ],
+    "steam:329440": [
+      "Platformers"
+    ],
+    "steam:3308200": [
+      "Metroidvanias"
+    ],
+    "steam:3316470": [
+      "Boomer shooters"
+    ],
+    "steam:3321280": [
+      "Metroidvanias"
+    ],
+    "steam:332200": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:332310": [
+      "Minecraft-like worlds"
+    ],
+    "steam:332610": [
+      "Metroidvanias"
+    ],
+    "steam:333420": [
+      "Real-time strategy"
+    ],
+    "steam:3335490": [
+      "Minecraft-like worlds"
+    ],
+    "steam:3339780": [
+      "Roguelites"
+    ],
+    "steam:334920": [
+      "Real-time strategy"
+    ],
+    "steam:334940": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:3363560": [
+      "Roguelites"
+    ],
+    "steam:3371240": [
+      "Boomer shooters"
+    ],
+    "steam:3371770": [
+      "Roguelites"
+    ],
+    "steam:3372060": [
+      "Roguelites"
+    ],
+    "steam:3385370": [
+      "Roguelites"
+    ],
+    "steam:340000": [
+      "Metroidvanias"
+    ],
+    "steam:3400000": [
+      "Minecraft-like worlds"
+    ],
+    "steam:340050": [
+      "Survival"
+    ],
+    "steam:3405340": [
+      "Roguelites"
+    ],
+    "steam:3419140": [
+      "Metroidvanias"
+    ],
+    "steam:3419290": [
+      "Roguelites"
+    ],
+    "steam:3440260": [
+      "Metroidvanias"
+    ],
+    "steam:3443080": [
+      "Metroidvanias"
+    ],
+    "steam:3449040": [
+      "Roguelites"
+    ],
+    "steam:3451680": [
+      "Platformers"
+    ],
+    "steam:345820": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:346110": [
+      "Survival"
+    ],
+    "steam:3461270": [
+      "Survival"
+    ],
+    "steam:347460": [
+      "Metroidvanias"
+    ],
+    "steam:347800": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:3480890": [
+      "Survival"
+    ],
+    "steam:3488640": [
+      "Metroidvanias"
+    ],
+    "steam:3495730": [
+      "Minecraft-like worlds"
+    ],
+    "steam:350070": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:3501850": [
+      "Metroidvanias"
+    ],
+    "steam:3503440": [
+      "Roguelites"
+    ],
+    "steam:3504560": [
+      "Platformers"
+    ],
+    "steam:35140": [
+      "Metroidvanias"
+    ],
+    "steam:3514090": [
+      "Roguelites"
+    ],
+    "steam:3516590": [
+      "Minecraft-like worlds"
+    ],
+    "steam:351700": [
+      "Survival"
+    ],
+    "steam:3517740": [
+      "Survival"
+    ],
+    "steam:3519700": [
+      "Roguelites"
+    ],
+    "steam:3525870": [
+      "Metroidvanias"
+    ],
+    "steam:3527290": [
+      "Platformers"
+    ],
+    "steam:3551190": [
+      "Boomer shooters"
+    ],
+    "steam:3556750": [
+      "Real-time strategy"
+    ],
+    "steam:356040": [
+      "Survival"
+    ],
+    "steam:356650": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:3567010": [
+      "Metroidvanias"
+    ],
+    "steam:35700": [
+      "Platformers"
+    ],
+    "steam:35720": [
+      "Platformers"
+    ],
+    "steam:3576870": [
+      "Survival"
+    ],
+    "steam:3596700": [
+      "Roguelites"
+    ],
+    "steam:359840": [
+      "Platformers"
+    ],
+    "steam:360170": [
+      "Survival"
+    ],
+    "steam:360830": [
+      "Platformers"
+    ],
+    "steam:361230": [
+      "Metroidvanias"
+    ],
+    "steam:361420": [
+      "Survival"
+    ],
+    "steam:3624140": [
+      "Roguelites"
+    ],
+    "steam:3629430": [
+      "Survival"
+    ],
+    "steam:363440": [
+      "Platformers"
+    ],
+    "steam:3639650": [
+      "Metroidvanias"
+    ],
+    "steam:3642910": [
+      "Survival"
+    ],
+    "steam:3644140": [
+      "Metroidvanias"
+    ],
+    "steam:3648730": [
+      "Boomer shooters"
+    ],
+    "steam:366090": [
+      "Minecraft-like worlds"
+    ],
+    "steam:366220": [
+      "Minecraft-like worlds"
+    ],
+    "steam:3668370": [
+      "Roguelites"
+    ],
+    "steam:367520": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:368340": [
+      "Metroidvanias"
+    ],
+    "steam:368620": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:3689150": [
+      "Platformers"
+    ],
+    "steam:369070": [
+      "Platformers"
+    ],
+    "steam:3698230": [
+      "Metroidvanias"
+    ],
+    "steam:3699590": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:3714400": [
+      "Roguelites"
+    ],
+    "steam:3733160": [
+      "Roguelites"
+    ],
+    "steam:374040": [
+      "Minecraft-like worlds"
+    ],
+    "steam:3741860": [
+      "Roguelites"
+    ],
+    "steam:374190": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:3744870": [
+      "Metroidvanias"
+    ],
+    "steam:3748520": [
+      "Boomer shooters"
+    ],
+    "steam:375480": [
+      "Roguelites"
+    ],
+    "steam:376210": [
+      "Survival"
+    ],
+    "steam:3762660": [
+      "Roguelites"
+    ],
+    "steam:3764710": [
+      "Survival"
+    ],
+    "steam:379210": [
+      "Survival"
+    ],
+    "steam:3802600": [
+      "Metroidvanias"
+    ],
+    "steam:3808690": [
+      "Roguelites"
+    ],
+    "steam:3808730": [
+      "Boomer shooters"
+    ],
+    "steam:3816930": [
+      "Roguelites"
+    ],
+    "steam:3818000": [
+      "Boomer shooters"
+    ],
+    "steam:3818520": [
+      "Metroidvanias"
+    ],
+    "steam:382310": [
+      "Minecraft-like worlds"
+    ],
+    "steam:382560": [
+      "Platformers"
+    ],
+    "steam:3830": [
+      "Platformers"
+    ],
+    "steam:383120": [
+      "Survival"
+    ],
+    "steam:3832490": [
+      "Roguelites"
+    ],
+    "steam:3835100": [
+      "Survival"
+    ],
+    "steam:385380": [
+      "Minecraft-like worlds"
+    ],
+    "steam:385560": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:385710": [
+      "Platformers"
+    ],
+    "steam:386070": [
+      "Real-time strategy"
+    ],
+    "steam:386940": [
+      "Platformers"
+    ],
+    "steam:387290": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:3878090": [
+      "Roguelites"
+    ],
+    "steam:387990": [
+      "Minecraft-like worlds"
+    ],
+    "steam:388410": [
+      "Metroidvanias"
+    ],
+    "steam:3884520": [
+      "Boomer shooters"
+    ],
+    "steam:388800": [
+      "Platformers"
+    ],
+    "steam:391730": [
+      "Survival"
+    ],
+    "steam:392080": [
+      "Survival"
+    ],
+    "steam:3924020": [
+      "Survival"
+    ],
+    "steam:393520": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:3936450": [
+      "Roguelites"
+    ],
+    "steam:3976770": [
+      "Survival"
+    ],
+    "steam:397950": [
+      "Platformers"
+    ],
+    "steam:3985950": [
+      "Roguelites"
+    ],
+    "steam:3986690": [
+      "Metroidvanias"
+    ],
+    "steam:3990560": [
+      "Roguelites"
+    ],
+    "steam:400": [
+      "Platformers"
+    ],
+    "steam:400630": [
+      "Metroidvanias"
+    ],
+    "steam:400750": [
+      "Real-time strategy"
+    ],
+    "steam:400910": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:40100": [
+      "Real-time strategy"
+    ],
+    "steam:401360": [
+      "Metroidvanias"
+    ],
+    "steam:401710": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:4018330": [
+      "Survival"
+    ],
+    "steam:402710": [
+      "Survival"
+    ],
+    "steam:4028640": [
+      "Roguelites"
+    ],
+    "steam:403190": [
+      "Survival"
+    ],
+    "steam:40400": [
+      "Real-time strategy"
+    ],
+    "steam:404680": [
+      "Metroidvanias"
+    ],
+    "steam:406150": [
+      "Platformers"
+    ],
+    "steam:40800": [
+      "Platformers"
+    ],
+    "steam:4108490": [
+      "Metroidvanias"
+    ],
+    "steam:4118220": [
+      "Roguelites"
+    ],
+    "steam:411960": [
+      "Platformers"
+    ],
+    "steam:411970": [
+      "Platformers"
+    ],
+    "steam:411980": [
+      "Platformers"
+    ],
+    "steam:4123780": [
+      "Survival"
+    ],
+    "steam:4130120": [
+      "Roguelites"
+    ],
+    "steam:4139890": [
+      "Survival"
+    ],
+    "steam:414190": [
+      "Minecraft-like worlds"
+    ],
+    "steam:4164420": [
+      "Survival"
+    ],
+    "steam:418030": [
+      "Survival"
+    ],
+    "steam:418530": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:4190180": [
+      "Metroidvanias"
+    ],
+    "steam:4206270": [
+      "Roguelites"
+    ],
+    "steam:4227400": [
+      "Roguelites"
+    ],
+    "steam:422970": [
+      "Boomer shooters"
+    ],
+    "steam:4231820": [
+      "Metroidvanias"
+    ],
+    "steam:423950": [
+      "Platformers"
+    ],
+    "steam:424840": [
+      "Platformers"
+    ],
+    "steam:427250": [
+      "Real-time strategy"
+    ],
+    "steam:427410": [
+      "Survival"
+    ],
+    "steam:427520": [
+      "Minecraft-like worlds"
+    ],
+    "steam:428550": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:4290680": [
+      "Roguelites"
+    ],
+    "steam:4314770": [
+      "Roguelites"
+    ],
+    "steam:433280": [
+      "Real-time strategy"
+    ],
+    "steam:433550": [
+      "Platformers"
+    ],
+    "steam:4337210": [
+      "Roguelites"
+    ],
+    "steam:434660": [
+      "Platformers"
+    ],
+    "steam:4349940": [
+      "Survival"
+    ],
+    "steam:440900": [
+      "Survival"
+    ],
+    "steam:441280": [
+      "Metroidvanias"
+    ],
+    "steam:442780": [
+      "Boomer shooters"
+    ],
+    "steam:4428380": [
+      "Minecraft-like worlds"
+    ],
+    "steam:4435760": [
+      "Roguelites"
+    ],
+    "steam:445220": [
+      "Survival"
+    ],
+    "steam:446020": [
+      "Survival"
+    ],
+    "steam:446790": [
+      "Survival"
+    ],
+    "steam:4468350": [
+      "Minecraft-like worlds"
+    ],
+    "steam:446840": [
+      "Platformers"
+    ],
+    "steam:4484760": [
+      "Metroidvanias"
+    ],
+    "steam:4489800": [
+      "Roguelites"
+    ],
+    "steam:449610": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:4514350": [
+      "Minecraft-like worlds"
+    ],
+    "steam:4528040": [
+      "Survival"
+    ],
+    "steam:454410": [
+      "Metroidvanias"
+    ],
+    "steam:4547440": [
+      "Metroidvanias"
+    ],
+    "steam:457140": [
+      "Survival"
+    ],
+    "steam:457210": [
+      "Platformers"
+    ],
+    "steam:459220": [
+      "Real-time strategy"
+    ],
+    "steam:460700": [
+      "Metroidvanias"
+    ],
+    "steam:460950": [
+      "Platformers"
+    ],
+    "steam:462780": [
+      "Metroidvanias"
+    ],
+    "steam:463270": [
+      "Metroidvanias"
+    ],
+    "steam:463530": [
+      "Real-time strategy"
+    ],
+    "steam:463700": [
+      "Platformers"
+    ],
+    "steam:463730": [
+      "Metroidvanias"
+    ],
+    "steam:464920": [
+      "Survival"
+    ],
+    "steam:465200": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:466630": [
+      "Platformers"
+    ],
+    "steam:4698720": [
+      "Roguelites"
+    ],
+    "steam:477160": [
+      "Platformers"
+    ],
+    "steam:4775660": [
+      "Metroidvanias"
+    ],
+    "steam:4779470": [
+      "Survival"
+    ],
+    "steam:4790660": [
+      "Survival"
+    ],
+    "steam:479110": [
+      "Metroidvanias"
+    ],
+    "steam:48000": [
+      "Platformers"
+    ],
+    "steam:485030": [
+      "Platformers"
+    ],
+    "steam:487120": [
+      "Survival"
+    ],
+    "steam:4891970": [
+      "Roguelites"
+    ],
+    "steam:490280": [
+      "Minecraft-like worlds"
+    ],
+    "steam:495050": [
+      "Platformers"
+    ],
+    "steam:495420": [
+      "Survival"
+    ],
+    "steam:496460": [
+      "Survival"
+    ],
+    "steam:497850": [
+      "Real-time strategy"
+    ],
+    "steam:4981810": [
+      "Survival"
+    ],
+    "steam:499180": [
+      "Platformers"
+    ],
+    "steam:500710": [
+      "Survival"
+    ],
+    "steam:5019800": [
+      "Survival"
+    ],
+    "steam:5023480": [
+      "Boomer shooters"
+    ],
+    "steam:5035340": [
+      "Survival"
+    ],
+    "steam:504050": [
+      "Survival"
+    ],
+    "steam:504230": [
+      "Platformers"
+    ],
+    "steam:5060900": [
+      "Roguelites"
+    ],
+    "steam:507490": [
+      "Real-time strategy"
+    ],
+    "steam:5091000": [
+      "Roguelites"
+    ],
+    "steam:510240": [
+      "Metroidvanias"
+    ],
+    "steam:513710": [
+      "Survival"
+    ],
+    "steam:5157580": [
+      "Survival"
+    ],
+    "steam:5161180": [
+      "Minecraft-like worlds"
+    ],
+    "steam:516480": [
+      "Platformers"
+    ],
+    "steam:516750": [
+      "Survival"
+    ],
+    "steam:517320": [
+      "Metroidvanias"
+    ],
+    "steam:5187050": [
+      "Survival"
+    ],
+    "steam:519860": [
+      "Boomer shooters"
+    ],
+    "steam:5214350": [
+      "Survival"
+    ],
+    "steam:521620": [
+      "Metroidvanias"
+    ],
+    "steam:5218590": [
+      "Survival"
+    ],
+    "steam:525380": [
+      "Metroidvanias"
+    ],
+    "steam:526160": [
+      "Survival"
+    ],
+    "steam:5265230": [
+      "Real-time strategy"
+    ],
+    "steam:526870": [
+      "Minecraft-like worlds"
+    ],
+    "steam:5271260": [
+      "Metroidvanias"
+    ],
+    "steam:530040": [
+      "Real-time strategy"
+    ],
+    "steam:531680": [
+      "Real-time strategy"
+    ],
+    "steam:534290": [
+      "Platformers"
+    ],
+    "steam:534550": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:535480": [
+      "Metroidvanias"
+    ],
+    "steam:536270": [
+      "Survival"
+    ],
+    "steam:5379330": [
+      "Survival"
+    ],
+    "steam:541200": [
+      "Boomer shooters"
+    ],
+    "steam:5431210": [
+      "Survival"
+    ],
+    "steam:543260": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:544550": [
+      "Survival"
+    ],
+    "steam:549260": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:553420": [
+      "Metroidvanias"
+    ],
+    "steam:556710": [
+      "Metroidvanias"
+    ],
+    "steam:562860": [
+      "Boomer shooters"
+    ],
+    "steam:563180": [
+      "Metroidvanias"
+    ],
+    "steam:568070": [
+      "Metroidvanias"
+    ],
+    "steam:568570": [
+      "Survival"
+    ],
+    "steam:570950": [
+      "Boomer shooters"
+    ],
+    "steam:571310": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:572890": [
+      "Platformers"
+    ],
+    "steam:573410": [
+      "Real-time strategy"
+    ],
+    "steam:574180": [
+      "Survival"
+    ],
+    "steam:578930": [
+      "Platformers"
+    ],
+    "steam:581660": [
+      "Platformers"
+    ],
+    "steam:583470": [
+      "Platformers"
+    ],
+    "steam:584400": [
+      "Platformers"
+    ],
+    "steam:585420": [
+      "Minecraft-like worlds"
+    ],
+    "steam:586880": [
+      "Metroidvanias"
+    ],
+    "steam:588650": [
+      "Platformers",
+      "Roguelites",
+      "Metroidvanias"
+    ],
+    "steam:590590": [
+      "Platformers"
+    ],
+    "steam:593600": [
+      "Minecraft-like worlds"
+    ],
+    "steam:595140": [
+      "Boomer shooters"
+    ],
+    "steam:595500": [
+      "Platformers"
+    ],
+    "steam:596970": [
+      "Survival"
+    ],
+    "steam:598550": [
+      "Platformers"
+    ],
+    "steam:598700": [
+      "Metroidvanias"
+    ],
+    "steam:600130": [
+      "Platformers"
+    ],
+    "steam:601810": [
+      "Platformers"
+    ],
+    "steam:602960": [
+      "Survival"
+    ],
+    "steam:603530": [
+      "Metroidvanias"
+    ],
+    "steam:606280": [
+      "Metroidvanias"
+    ],
+    "steam:607080": [
+      "Platformers"
+    ],
+    "steam:609110": [
+      "Platformers"
+    ],
+    "steam:612390": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:613190": [
+      "Metroidvanias"
+    ],
+    "steam:619390": [
+      "Platformers"
+    ],
+    "steam:620": [
+      "Platformers"
+    ],
+    "steam:620220": [
+      "Metroidvanias"
+    ],
+    "steam:625340": [
+      "Survival"
+    ],
+    "steam:630310": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:632300": [
+      "Survival"
+    ],
+    "steam:635200": [
+      "Survival"
+    ],
+    "steam:640860": [
+      "Survival"
+    ],
+    "steam:644930": [
+      "Real-time strategy",
+      "Survival"
+    ],
+    "steam:647960": [
+      "Real-time strategy"
+    ],
+    "steam:648800": [
+      "Survival"
+    ],
+    "steam:65300": [
+      "Platformers"
+    ],
+    "steam:653060": [
+      "Metroidvanias"
+    ],
+    "steam:655290": [
+      "Survival"
+    ],
+    "steam:656240": [
+      "Survival"
+    ],
+    "steam:657000": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:658890": [
+      "Boomer shooters"
+    ],
+    "steam:668210": [
+      "Platformers"
+    ],
+    "steam:668550": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:671510": [
+      "Survival"
+    ],
+    "steam:673130": [
+      "Boomer shooters"
+    ],
+    "steam:680340": [
+      "Metroidvanias"
+    ],
+    "steam:681110": [
+      "Metroidvanias"
+    ],
+    "steam:683320": [
+      "Platformers"
+    ],
+    "steam:684450": [
+      "Survival"
+    ],
+    "steam:686260": [
+      "Real-time strategy"
+    ],
+    "steam:690640": [
+      "Platformers"
+    ],
+    "steam:692850": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:692890": [
+      "Boomer shooters"
+    ],
+    "steam:697550": [
+      "Minecraft-like worlds"
+    ],
+    "steam:699670": [
+      "Metroidvanias"
+    ],
+    "steam:70300": [
+      "Platformers"
+    ],
+    "steam:71250": [
+      "Platformers"
+    ],
+    "steam:715400": [
+      "Survival"
+    ],
+    "steam:717310": [
+      "Metroidvanias"
+    ],
+    "steam:719890": [
+      "Survival"
+    ],
+    "steam:720560": [
+      "Metroidvanias"
+    ],
+    "steam:726340": [
+      "Metroidvanias"
+    ],
+    "steam:730920": [
+      "Metroidvanias"
+    ],
+    "steam:731490": [
+      "Platformers"
+    ],
+    "steam:737520": [
+      "Platformers"
+    ],
+    "steam:738520": [
+      "Survival"
+    ],
+    "steam:742300": [
+      "Platformers"
+    ],
+    "steam:743890": [
+      "Platformers"
+    ],
+    "steam:743900": [
+      "Platformers"
+    ],
+    "steam:747200": [
+      "Minecraft-like worlds"
+    ],
+    "steam:751780": [
+      "Survival"
+    ],
+    "steam:753420": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:753590": [
+      "Boomer shooters"
+    ],
+    "steam:758690": [
+      "Survival"
+    ],
+    "steam:763180": [
+      "Metroidvanias"
+    ],
+    "steam:764300": [
+      "Metroidvanias"
+    ],
+    "steam:764790": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:764920": [
+      "Survival"
+    ],
+    "steam:768200": [
+      "Survival"
+    ],
+    "steam:774361": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:777770": [
+      "Real-time strategy"
+    ],
+    "steam:780310": [
+      "Survival"
+    ],
+    "steam:780350": [
+      "Platformers"
+    ],
+    "steam:780500": [
+      "Platformers"
+    ],
+    "steam:782330": [
+      "Boomer shooters"
+    ],
+    "steam:788100": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:791470": [
+      "Platformers"
+    ],
+    "steam:792710": [
+      "Platformers"
+    ],
+    "steam:794240": [
+      "Platformers"
+    ],
+    "steam:794260": [
+      "Survival"
+    ],
+    "steam:799640": [
+      "Platformers"
+    ],
+    "steam:809880": [
+      "Platformers"
+    ],
+    "steam:812550": [
+      "Platformers"
+    ],
+    "steam:813230": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:813630": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:813780": [
+      "Real-time strategy"
+    ],
+    "steam:814370": [
+      "Metroidvanias"
+    ],
+    "steam:814680": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:815370": [
+      "Survival"
+    ],
+    "steam:817540": [
+      "Real-time strategy"
+    ],
+    "steam:822540": [
+      "Metroidvanias"
+    ],
+    "steam:824600": [
+      "Boomer shooters"
+    ],
+    "steam:826630": [
+      "Real-time strategy"
+    ],
+    "steam:829280": [
+      "Platformers"
+    ],
+    "steam:829590": [
+      "Survival"
+    ],
+    "steam:834760": [
+      "Metroidvanias"
+    ],
+    "steam:834910": [
+      "Survival"
+    ],
+    "steam:835430": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:837460": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:838310": [
+      "Platformers"
+    ],
+    "steam:839630": [
+      "Survival"
+    ],
+    "steam:845880": [
+      "Metroidvanias"
+    ],
+    "steam:846770": [
+      "Survival"
+    ],
+    "steam:846870": [
+      "Platformers"
+    ],
+    "steam:848080": [
+      "Metroidvanias"
+    ],
+    "steam:848450": [
+      "Survival"
+    ],
+    "steam:850320": [
+      "Platformers"
+    ],
+    "steam:851100": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:851280": [
+      "Metroidvanias"
+    ],
+    "steam:858210": [
+      "Roguelites"
+    ],
+    "steam:858710": [
+      "Platformers"
+    ],
+    "steam:858810": [
+      "Survival"
+    ],
+    "steam:858820": [
+      "Survival"
+    ],
+    "steam:860510": [
+      "Platformers"
+    ],
+    "steam:861250": [
+      "Platformers"
+    ],
+    "steam:864060": [
+      "Platformers"
+    ],
+    "steam:870780": [
+      "Metroidvanias"
+    ],
+    "steam:876650": [
+      "Minecraft-like worlds"
+    ],
+    "steam:877810": [
+      "Platformers"
+    ],
+    "steam:881100": [
+      "Platformers",
+      "Roguelites"
+    ],
+    "steam:887570": [
+      "Real-time strategy"
+    ],
+    "steam:889910": [
+      "Platformers"
+    ],
+    "steam:891170": [
+      "Metroidvanias"
+    ],
+    "steam:892970": [
+      "Survival"
+    ],
+    "steam:893680": [
+      "Boomer shooters"
+    ],
+    "steam:894020": [
+      "Metroidvanias"
+    ],
+    "steam:895400": [
+      "Survival"
+    ],
+    "steam:896010": [
+      "Metroidvanias"
+    ],
+    "steam:896250": [
+      "Real-time strategy"
+    ],
+    "steam:897450": [
+      "Survival"
+    ],
+    "steam:897730": [
+      "Survival"
+    ],
+    "steam:903950": [
+      "Survival"
+    ],
+    "steam:905340": [
+      "Platformers"
+    ],
+    "steam:905530": [
+      "Metroidvanias"
+    ],
+    "steam:908770": [
+      "Real-time strategy"
+    ],
+    "steam:914620": [
+      "Survival"
+    ],
+    "steam:916730": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:922050": [
+      "Metroidvanias"
+    ],
+    "steam:923100": [
+      "Real-time strategy"
+    ],
+    "steam:925950": [
+      "Platformers"
+    ],
+    "steam:933110": [
+      "Real-time strategy"
+    ],
+    "steam:933820": [
+      "Survival"
+    ],
+    "steam:938560": [
+      "Platformers"
+    ],
+    "steam:940910": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:9420": [
+      "Real-time strategy"
+    ],
+    "steam:946030": [
+      "Platformers",
+      "Metroidvanias"
+    ],
+    "steam:946660": [
+      "Real-time strategy"
+    ],
+    "steam:950210": [
+      "Boomer shooters"
+    ],
+    "steam:950300": [
+      "Metroidvanias"
+    ],
+    "steam:951240": [
+      "Survival"
+    ],
+    "steam:951440": [
+      "Survival"
+    ],
+    "steam:951940": [
+      "Platformers"
+    ],
+    "steam:953490": [
+      "Metroidvanias"
+    ],
+    "steam:95400": [
+      "Platformers"
+    ],
+    "steam:961620": [
+      "Platformers"
+    ],
+    "steam:962130": [
+      "Survival"
+    ],
+    "steam:963450": [
+      "Platformers"
+    ],
+    "steam:964800": [
+      "Boomer shooters"
+    ],
+    "steam:969990": [
+      "Platformers"
+    ],
+    "steam:973810": [
+      "Metroidvanias"
+    ],
+    "steam:974480": [
+      "Roguelites"
+    ],
+    "steam:975510": [
+      "Platformers"
+    ],
+    "steam:9760": [
+      "Real-time strategy"
+    ],
+    "steam:979110": [
+      "Survival"
+    ],
+    "steam:983870": [
+      "Minecraft-like worlds"
+    ],
+    "steam:986310": [
+      "Metroidvanias"
+    ],
+    "steam:996580": [
+      "Platformers"
+    ],
+    "steam:999020": [
+      "Platformers"
+    ]
+  },
+  "ids": [
+    "external:0-ad",
+    "steam:260790",
+    "steam:1966900",
+    "steam:322110",
+    "steam:1098080",
+    "steam:1029210",
+    "steam:251570",
+    "steam:427250",
+    "steam:497850",
+    "steam:531680",
+    "steam:668550",
+    "steam:1402120",
+    "steam:1439750",
+    "steam:2497920",
+    "steam:253230",
+    "steam:4547440",
+    "external:mini-falafel-adventure",
+    "steam:1052990",
+    "steam:603530",
+    "steam:1055540",
+    "steam:1730790",
+    "steam:278360",
+    "steam:209330",
+    "steam:262370",
+    "steam:1740150",
+    "steam:2295610",
+    "steam:427410",
+    "steam:2922410",
+    "steam:318020",
+    "steam:2710",
+    "steam:9760",
+    "steam:1765780",
+    "steam:2419720",
+    "steam:2199330",
+    "steam:2710920",
+    "steam:1517970",
+    "steam:1688080",
+    "steam:3764710",
+    "steam:2541530",
+    "steam:2375790",
+    "steam:1701520",
+    "steam:1336490",
+    "steam:1426450",
+    "steam:813780",
+    "steam:933110",
+    "steam:1466860",
+    "steam:1934680",
+    "steam:1574480",
+    "steam:717310",
+    "steam:2864290",
+    "steam:876650",
+    "steam:1795570",
+    "steam:573410",
+    "steam:40400",
+    "steam:1442520",
+    "steam:521620",
+    "steam:726340",
+    "steam:4489800",
+    "steam:3146930",
+    "steam:1489410",
+    "steam:2019020",
+    "steam:3516590",
+    "steam:951940",
+    "steam:1660080",
+    "steam:2655470",
+    "steam:3440260",
+    "steam:2190700",
+    "steam:549260",
+    "steam:1205900",
+    "steam:1249040",
+    "steam:673130",
+    "steam:1675260",
+    "steam:897730",
+    "external:an-untitled-story",
+    "steam:536270",
+    "steam:905530",
+    "steam:2508440",
+    "external:angel-shell",
+    "steam:2241560",
+    "steam:763180",
+    "steam:813230",
+    "steam:877810",
+    "steam:233550",
+    "steam:3832490",
+    "steam:1887400",
+    "steam:1840610",
+    "steam:24420",
+    "external:arcane-dimensions",
+    "steam:2433850",
+    "steam:2779570",
+    "steam:325210",
+    "steam:3986690",
+    "steam:1463730",
+    "steam:2399830",
+    "steam:346110",
+    "steam:1841630",
+    "steam:1114830",
+    "steam:3100310",
+    "steam:1918040",
+    "steam:2074620",
+    "steam:658890",
+    "steam:3054610",
+    "steam:1924780",
+    "steam:2697940",
+    "steam:2780710",
+    "external:ashes-2063",
+    "steam:507490",
+    "external:ashes-blackwater",
+    "steam:1898300",
+    "steam:1720090",
+    "steam:1046400",
+    "steam:1666480",
+    "steam:1280930",
+    "external:astro-bot",
+    "steam:3503440",
+    "external:astros-playroom",
+    "steam:2353250",
+    "steam:1833210",
+    "steam:361420",
+    "steam:1489590",
+    "steam:834910",
+    "steam:1798230",
+    "steam:1096180",
+    "steam:1125390",
+    "steam:3035960",
+    "steam:2387460",
+    "steam:3443080",
+    "steam:445220",
+    "steam:1716310",
+    "steam:2382240",
+    "steam:332200",
+    "steam:946030",
+    "steam:1114900",
+    "steam:388800",
+    "steam:1065180",
+    "steam:1931690",
+    "steam:1640320",
+    "steam:2062430",
+    "steam:3003460",
+    "steam:2459840",
+    "steam:602960",
+    "steam:837460",
+    "steam:35140",
+    "steam:238460",
+    "steam:1031730",
+    "steam:2746340",
+    "steam:2499520",
+    "steam:719890",
+    "steam:2715870",
+    "steam:1399750",
+    "steam:3802600",
+    "steam:1917990",
+    "steam:1812450",
+    "steam:1561340",
+    "steam:4337210",
+    "steam:2330500",
+    "external:beyond-all-reason",
+    "steam:3371240",
+    "steam:1665260",
+    "steam:2384730",
+    "steam:1221480",
+    "steam:3116730",
+    "steam:1400830",
+    "steam:463730",
+    "steam:1219240",
+    "steam:1558720",
+    "steam:1138960",
+    "steam:1430220",
+    "steam:1928690",
+    "steam:3177970",
+    "steam:1071870",
+    "steam:2560240",
+    "steam:308060",
+    "steam:1367300",
+    "steam:2671230",
+    "steam:774361",
+    "steam:2114740",
+    "steam:1550760",
+    "steam:609110",
+    "external:block-neopolis",
+    "steam:270110",
+    "steam:223490",
+    "steam:1682000",
+    "steam:2431080",
+    "steam:3648730",
+    "steam:1587130",
+    "steam:3884520",
+    "steam:2351890",
+    "steam:3115310",
+    "steam:2747550",
+    "steam:838310",
+    "steam:1257360",
+    "steam:692850",
+    "steam:1883810",
+    "steam:3576870",
+    "steam:1220150",
+    "steam:5431210",
+    "steam:1256520",
+    "steam:1944570",
+    "external:boom-abydos",
+    "steam:1170060",
+    "steam:2398170",
+    "steam:324510",
+    "steam:1968730",
+    "steam:1286350",
+    "steam:499180",
+    "steam:1607680",
+    "steam:1203180",
+    "steam:738520",
+    "steam:2412960",
+    "steam:4891970",
+    "steam:1604270",
+    "steam:1942280",
+    "external:brutal-doom",
+    "steam:1859620",
+    "steam:2928450",
+    "steam:3237970",
+    "steam:1046920",
+    "steam:1996600",
+    "steam:1293170",
+    "steam:1614440",
+    "external:cc-shockwave",
+    "steam:400750",
+    "steam:2319790",
+    "steam:2868860",
+    "steam:1694420",
+    "steam:953490",
+    "steam:262960",
+    "steam:3276720",
+    "steam:227600",
+    "steam:1341900",
+    "steam:227860",
+    "steam:1552550",
+    "steam:2369900",
+    "external:castlevania-requiem",
+    "steam:4231820",
+    "external:simons-destiny",
+    "steam:1663380",
+    "steam:1422440",
+    "external:cataclysm-bright-nights",
+    "steam:2330750",
+    "steam:1056180",
+    "steam:620220",
+    "steam:200900",
+    "steam:2059660",
+    "steam:504230",
+    "external:celeste-64",
+    "external:celeste-classic",
+    "external:celeste-classic-2",
+    "steam:2567870",
+    "steam:2391900",
+    "steam:319450",
+    "steam:312200",
+    "steam:2061230",
+    "steam:2075100",
+    "steam:1016800",
+    "steam:2336200",
+    "steam:1747560",
+    "steam:2371890",
+    "steam:375480",
+    "steam:2815610",
+    "steam:487120",
+    "steam:1700870",
+    "steam:1094720",
+    "steam:896010",
+    "steam:262390",
+    "steam:1687990",
+    "steam:397950",
+    "steam:366090",
+    "steam:24790",
+    "steam:2229850",
+    "external:combined-arms",
+    "external:generals-evolution",
+    "steam:24800",
+    "steam:24810",
+    "steam:2229870",
+    "steam:2732960",
+    "steam:17480",
+    "steam:1213210",
+    "steam:2229880",
+    "steam:1527070",
+    "steam:231430",
+    "steam:1677280",
+    "steam:440900",
+    "steam:3238670",
+    "steam:2313700",
+    "external:contra-x",
+    "steam:870780",
+    "steam:1276800",
+    "steam:2199060",
+    "steam:1621690",
+    "steam:2575900",
+    "steam:333420",
+    "steam:1785940",
+    "steam:248390",
+    "steam:1307550",
+    "steam:2137760",
+    "steam:1378990",
+    "steam:731490",
+    "steam:391730",
+    "steam:1401730",
+    "steam:280520",
+    "steam:280790",
+    "steam:1919720",
+    "steam:3744870",
+    "steam:1329540",
+    "steam:368340",
+    "steam:1072190",
+    "steam:1614330",
+    "steam:2689470",
+    "steam:1388770",
+    "steam:1061180",
+    "steam:829590",
+    "steam:2394650",
+    "steam:3808730",
+    "steam:3400000",
+    "steam:3936450",
+    "steam:1684930",
+    "steam:1453900",
+    "steam:534290",
+    "steam:1130410",
+    "steam:861250",
+    "steam:2388620",
+    "steam:1522950",
+    "steam:1525320",
+    "steam:1969830",
+    "steam:612390",
+    "steam:1134520",
+    "steam:3088070",
+    "steam:2884590",
+    "steam:2195910",
+    "steam:257050",
+    "steam:388410",
+    "steam:606280",
+    "steam:462780",
+    "steam:274520",
+    "steam:433550",
+    "steam:2989180",
+    "steam:2059530",
+    "steam:858810",
+    "steam:221100",
+    "steam:588650",
+    "steam:3316470",
+    "external:dead-trash-yellow-snow",
+    "steam:1702260",
+    "steam:423950",
+    "steam:1676130",
+    "steam:3026450",
+    "steam:1621070",
+    "steam:895400",
+    "steam:2741830",
+    "steam:2334730",
+    "external:death-wish",
+    "steam:894020",
+    "steam:356650",
+    "steam:2443090",
+    "steam:2237070",
+    "steam:3167610",
+    "steam:1241040",
+    "steam:1686130",
+    "steam:2321470",
+    "steam:4028640",
+    "steam:809880",
+    "steam:2710040",
+    "steam:525380",
+    "steam:2585890",
+    "steam:1747890",
+    "steam:1325900",
+    "steam:1107370",
+    "steam:2524850",
+    "steam:848080",
+    "steam:1572000",
+    "steam:1048950",
+    "steam:3339780",
+    "steam:671510",
+    "steam:1450900",
+    "steam:3116870",
+    "steam:2620730",
+    "steam:422970",
+    "steam:570950",
+    "steam:1444080",
+    "steam:315460",
+    "steam:1478650",
+    "steam:1306970",
+    "steam:446790",
+    "steam:1062520",
+    "steam:1272320",
+    "steam:2113270",
+    "steam:245300",
+    "steam:1522160",
+    "steam:2054660",
+    "steam:563180",
+    "steam:1489850",
+    "steam:635200",
+    "steam:1148130",
+    "steam:219740",
+    "steam:322330",
+    "steam:2610650",
+    "external:donkey-kong-bananza",
+    "external:dk-country-returns-hd",
+    "external:dk-tropical-freeze",
+    "steam:2280",
+    "steam:782330",
+    "steam:3017860",
+    "external:golden-souls-2",
+    "external:golden-souls-3",
+    "external:golden-souls",
+    "steam:922050",
+    "steam:2436570",
+    "steam:1072420",
+    "steam:5271260",
+    "steam:1334730",
+    "steam:1553710",
+    "steam:3629430",
+    "steam:1206670",
+    "steam:2625420",
+    "steam:2682580",
+    "steam:237630",
+    "steam:1172710",
+    "steam:799640",
+    "steam:753420",
+    "steam:519860",
+    "steam:2542020",
+    "steam:2610770",
+    "steam:236090",
+    "steam:5157580",
+    "steam:65300",
+    "steam:2943280",
+    "steam:2015240",
+    "external:dwell",
+    "steam:2088550",
+    "steam:791470",
+    "steam:846770",
+    "steam:2430390",
+    "steam:681110",
+    "steam:253880",
+    "steam:1900",
+    "steam:1836730",
+    "steam:2184080",
+    "steam:974480",
+    "steam:3714400",
+    "steam:3501850",
+    "steam:382310",
+    "steam:2570210",
+    "steam:2589980",
+    "steam:238240",
+    "steam:1413660",
+    "steam:1456880",
+    "steam:244870",
+    "steam:1113940",
+    "steam:2135150",
+    "steam:293440",
+    "steam:1271150",
+    "steam:1515570",
+    "steam:1725340",
+    "steam:2085310",
+    "steam:254780",
+    "steam:254760",
+    "steam:463530",
+    "external:empires-dawn-modern-world",
+    "steam:383120",
+    "steam:1634360",
+    "steam:1396870",
+    "steam:1369630",
+    "steam:2725260",
+    "steam:933820",
+    "steam:2144640",
+    "steam:1203620",
+    "steam:2602030",
+    "steam:350070",
+    "steam:822540",
+    "steam:4981810",
+    "steam:655290",
+    "steam:245370",
+    "steam:2251400",
+    "steam:2253100",
+    "steam:2425580",
+    "steam:2170390",
+    "steam:2834320",
+    "steam:1999140",
+    "steam:1330470",
+    "steam:427520",
+    "steam:2966240",
+    "steam:1280080",
+    "steam:1415280",
+    "steam:1411910",
+    "steam:1446900",
+    "steam:2220870",
+    "steam:286340",
+    "steam:1363900",
+    "steam:1319460",
+    "steam:2827750",
+    "steam:764920",
+    "steam:1068360",
+    "steam:699670",
+    "steam:3480890",
+    "steam:224760",
+    "external:fiends-fall",
+    "steam:2620200",
+    "steam:3514090",
+    "steam:1565670",
+    "steam:961620",
+    "steam:401710",
+    "steam:4290680",
+    "steam:737520",
+    "external:fohh",
+    "steam:751780",
+    "steam:568570",
+    "steam:1316230",
+    "steam:1000760",
+    "steam:1641960",
+    "steam:686260",
+    "steam:1590910",
+    "steam:2272250",
+    "steam:2059570",
+    "steam:510240",
+    "steam:254200",
+    "steam:1692240",
+    "steam:3152110",
+    "steam:983870",
+    "steam:2583660",
+    "steam:248310",
+    "steam:595500",
+    "steam:1853760",
+    "steam:1575470",
+    "steam:2312160",
+    "steam:1429500",
+    "steam:323190",
+    "steam:1601580",
+    "steam:3517740",
+    "steam:715400",
+    "steam:3371770",
+    "steam:465200",
+    "steam:1224600",
+    "steam:2081400",
+    "steam:3253630",
+    "steam:2530470",
+    "steam:1250440",
+    "steam:916730",
+    "steam:1290760",
+    "steam:4130120",
+    "steam:1122050",
+    "steam:1231990",
+    "steam:240720",
+    "steam:3183970",
+    "steam:463270",
+    "steam:347800",
+    "steam:1139900",
+    "steam:2144740",
+    "steam:1893370",
+    "steam:223220",
+    "steam:454410",
+    "steam:908770",
+    "steam:3519700",
+    "steam:3419290",
+    "steam:2342950",
+    "steam:1328990",
+    "steam:2723480",
+    "steam:1029780",
+    "steam:1779950",
+    "steam:1617120",
+    "steam:3689150",
+    "steam:1345860",
+    "steam:2278790",
+    "steam:1371690",
+    "steam:3567010",
+    "steam:858710",
+    "steam:1311070",
+    "steam:2218400",
+    "steam:815370",
+    "steam:1782330",
+    "steam:290790",
+    "steam:1123050",
+    "steam:2529790",
+    "steam:3816930",
+    "steam:683320",
+    "steam:962130",
+    "steam:2661300",
+    "steam:2882930",
+    "steam:3698230",
+    "steam:541200",
+    "steam:534550",
+    "steam:275390",
+    "external:gun-godz",
+    "steam:1217060",
+    "steam:517320",
+    "steam:3818000",
+    "steam:3099000",
+    "steam:1085180",
+    "steam:1733880",
+    "steam:1352930",
+    "steam:1145360",
+    "steam:1145350",
+    "steam:1231880",
+    "steam:2218750",
+    "steam:459220",
+    "steam:3075410",
+    "steam:1898610",
+    "steam:2706450",
+    "steam:1796470",
+    "steam:2980900",
+    "steam:1740720",
+    "steam:3051280",
+    "steam:5379330",
+    "steam:340000",
+    "steam:347460",
+    "steam:656240",
+    "steam:905340",
+    "steam:1072150",
+    "steam:1782460",
+    "steam:4118220",
+    "steam:3372060",
+    "steam:889910",
+    "steam:2841510",
+    "steam:3055000",
+    "steam:753590",
+    "steam:3043760",
+    "steam:4435760",
+    "steam:1410090",
+    "steam:2083840",
+    "steam:925950",
+    "steam:3052730",
+    "external:hero-core",
+    "steam:1583230",
+    "steam:2069250",
+    "steam:4349940",
+    "steam:404680",
+    "steam:632300",
+    "steam:2815150",
+    "steam:367520",
+    "steam:1030300",
+    "steam:2420510",
+    "steam:1840080",
+    "steam:244160",
+    "steam:281610",
+    "steam:1510440",
+    "steam:2178560",
+    "steam:5060900",
+    "steam:2157710",
+    "steam:382560",
+    "steam:2899350",
+    "steam:250400",
+    "steam:360170",
+    "steam:824600",
+    "steam:477160",
+    "steam:1388550",
+    "steam:1766060",
+    "steam:598550",
+    "steam:479110",
+    "steam:1918450",
+    "steam:2680330",
+    "steam:4698720",
+    "steam:5218590",
+    "steam:1106840",
+    "steam:1743850",
+    "steam:257850",
+    "steam:1409200",
+    "external:hytale",
+    "steam:3109580",
+    "steam:1876590",
+    "steam:95400",
+    "steam:1149460",
+    "steam:393520",
+    "steam:595140",
+    "steam:2921580",
+    "steam:1573090",
+    "steam:2113770",
+    "steam:1734680",
+    "steam:1796720",
+    "steam:374190",
+    "steam:4428380",
+    "steam:1983620",
+    "steam:385710",
+    "steam:5187050",
+    "steam:938560",
+    "steam:205730",
+    "steam:304430",
+    "steam:562860",
+    "steam:2226980",
+    "steam:826630",
+    "steam:1157740",
+    "steam:1233070",
+    "steam:1669420",
+    "steam:697550",
+    "steam:1426210",
+    "steam:1132910",
+    "steam:446020",
+    "steam:2820820",
+    "steam:973810",
+    "steam:1774220",
+    "steam:1061090",
+    "steam:414190",
+    "steam:1697880",
+    "steam:2085800",
+    "steam:1261430",
+    "steam:1370140",
+    "steam:3027930",
+    "steam:460950",
+    "external:kauna-prototype",
+    "steam:829280",
+    "steam:2002220",
+    "steam:233860",
+    "steam:747200",
+    "steam:2542140",
+    "steam:1242980",
+    "steam:2694420",
+    "steam:1154090",
+    "external:kirby-forgotten-land",
+    "external:kirby-return-dreamland-deluxe",
+    "steam:1325260",
+    "steam:1730680",
+    "steam:2656050",
+    "steam:248190",
+    "steam:3639650",
+    "steam:1292170",
+    "steam:1292180",
+    "steam:1001800",
+    "steam:2319390",
+    "steam:230700",
+    "steam:835430",
+    "steam:1796220",
+    "steam:2990040",
+    "steam:903950",
+    "steam:2776090",
+    "external:lego-fortnite-odyssey",
+    "steam:332310",
+    "steam:1335830",
+    "steam:1114870",
+    "steam:2050800",
+    "steam:792710",
+    "steam:496460",
+    "steam:290080",
+    "steam:2719590",
+    "steam:2387740",
+    "steam:1586800",
+    "steam:48000",
+    "steam:1309610",
+    "steam:896250",
+    "steam:1587380",
+    "steam:2074630",
+    "steam:424840",
+    "steam:860510",
+    "steam:1392860",
+    "external:littlewargame",
+    "steam:1674780",
+    "steam:2463220",
+    "steam:1033780",
+    "steam:4018330",
+    "steam:946660",
+    "steam:1417930",
+    "steam:1306630",
+    "steam:1931180",
+    "steam:1487100",
+    "steam:269270",
+    "steam:578930",
+    "steam:1604300",
+    "steam:1717730",
+    "steam:3495730",
+    "steam:2408820",
+    "steam:1339860",
+    "steam:1933000",
+    "steam:1701800",
+    "external:luun",
+    "external:lyle-cube-sector",
+    "steam:568070",
+    "steam:3449040",
+    "steam:3213120",
+    "steam:303860",
+    "steam:1897010",
+    "steam:3488640",
+    "steam:284180",
+    "steam:2103140",
+    "steam:1607240",
+    "steam:2104460",
+    "steam:2723250",
+    "steam:2783610",
+    "steam:1721060",
+    "steam:1655960",
+    "steam:864060",
+    "steam:2376260",
+    "steam:1186470",
+    "steam:556710",
+    "steam:1424290",
+    "steam:1532200",
+    "steam:1586700",
+    "steam:2938870",
+    "steam:4190180",
+    "steam:2542350",
+    "steam:1763030",
+    "steam:255390",
+    "steam:1686230",
+    "steam:3385370",
+    "steam:1129580",
+    "steam:742300",
+    "steam:363440",
+    "steam:495050",
+    "steam:743890",
+    "steam:743900",
+    "steam:999020",
+    "steam:3405340",
+    "steam:1128860",
+    "external:mental-omega",
+    "steam:1173200",
+    "external:metroid-dread",
+    "external:metroid-fusion",
+    "external:metroid-prime-4",
+    "external:metroid-prime-remastered",
+    "external:metroid-ravenous",
+    "external:metroid-zero-mission",
+    "steam:2303500",
+    "steam:223510",
+    "steam:851280",
+    "external:mine-blocks",
+    "external:mine-blocks-2",
+    "external:mineclonia",
+    "external:minecraft",
+    "steam:586880",
+    "external:minicraft-plus",
+    "steam:1934040",
+    "steam:1634860",
+    "steam:940910",
+    "steam:1049710",
+    "steam:1672810",
+    "steam:914620",
+    "steam:1713730",
+    "steam:923100",
+    "steam:2881610",
+    "external:momodora-2",
+    "steam:302790",
+    "steam:1747760",
+    "steam:428550",
+    "steam:1520370",
+    "steam:3285880",
+    "steam:449610",
+    "steam:814370",
+    "steam:2157250",
+    "steam:2934220",
+    "steam:2243250",
+    "steam:1374970",
+    "steam:4790660",
+    "steam:4108490",
+    "steam:2191540",
+    "steam:2416450",
+    "steam:1625450",
+    "steam:2111190",
+    "steam:516750",
+    "steam:4164420",
+    "steam:332610",
+    "steam:1371580",
+    "steam:230270",
+    "steam:1268900",
+    "steam:887570",
+    "steam:1169040",
+    "external:necrowave",
+    "steam:248860",
+    "steam:788100",
+    "steam:2235200",
+    "steam:1533420",
+    "steam:1409530",
+    "steam:3047370",
+    "steam:2420660",
+    "steam:2395770",
+    "steam:1038300",
+    "steam:3089580",
+    "steam:1377380",
+    "steam:2719290",
+    "steam:3668370",
+    "steam:1928980",
+    "steam:1051690",
+    "steam:2374190",
+    "steam:2086430",
+    "steam:1809540",
+    "steam:2542120",
+    "steam:275850",
+    "steam:1963370",
+    "steam:1769420",
+    "steam:2847780",
+    "steam:881100",
+    "steam:1929870",
+    "steam:2225960",
+    "steam:2068280",
+    "steam:1760330",
+    "steam:1090800",
+    "steam:3321280",
+    "steam:858210",
+    "steam:1478160",
+    "steam:951240",
+    "steam:1952370",
+    "steam:758690",
+    "steam:2845630",
+    "steam:1393750",
+    "steam:434660",
+    "steam:319480",
+    "steam:2896260",
+    "steam:314660",
+    "steam:619390",
+    "steam:2893820",
+    "steam:3818520",
+    "steam:2262080",
+    "steam:680340",
+    "steam:3177710",
+    "steam:2139460",
+    "steam:252010",
+    "external:openhv",
+    "external:openra",
+    "steam:387290",
+    "steam:1057090",
+    "steam:402710",
+    "steam:1419290",
+    "steam:327090",
+    "steam:2681030",
+    "steam:1442530",
+    "steam:1083310",
+    "steam:305050",
+    "steam:2237970",
+    "steam:2849490",
+    "steam:794260",
+    "steam:1776840",
+    "steam:1782150",
+    "steam:1132480",
+    "steam:115800",
+    "steam:457140",
+    "steam:2324290",
+    "steam:1859470",
+    "steam:1458140",
+    "steam:2352520",
+    "steam:2707930",
+    "steam:1623730",
+    "steam:1966220",
+    "steam:975510",
+    "steam:2680280",
+    "steam:227080",
+    "external:path-of-titans",
+    "steam:3808690",
+    "steam:3527290",
+    "steam:1405950",
+    "steam:1955230",
+    "external:peppermint",
+    "steam:1411020",
+    "steam:289440",
+    "steam:1437760",
+    "steam:2254990",
+    "steam:2479320",
+    "steam:441280",
+    "steam:1436590",
+    "steam:850320",
+    "steam:2088840",
+    "steam:1509960",
+    "steam:2644470",
+    "steam:1079200",
+    "steam:572890",
+    "steam:516480",
+    "steam:3835100",
+    "steam:4775660",
+    "steam:593600",
+    "steam:3878090",
+    "steam:2231450",
+    "steam:2226660",
+    "steam:485030",
+    "steam:385380",
+    "steam:3644140",
+    "steam:237870",
+    "steam:504050",
+    "steam:1608230",
+    "steam:2997230",
+    "steam:386070",
+    "steam:403190",
+    "steam:2697470",
+    "steam:1839060",
+    "external:poom",
+    "steam:400",
+    "steam:620",
+    "steam:374040",
+    "steam:2132890",
+    "steam:1285670",
+    "steam:1359980",
+    "steam:2482190",
+    "steam:3010280",
+    "steam:1678430",
+    "steam:2751000",
+    "steam:964800",
+    "steam:1393820",
+    "steam:1713350",
+    "steam:2024230",
+    "external:project-osiris",
+    "steam:893680",
+    "steam:1640300",
+    "steam:108600",
+    "steam:1781260",
+    "steam:1286280",
+    "steam:2365810",
+    "steam:3830",
+    "steam:607080",
+    "steam:1368410",
+    "steam:1186640",
+    "steam:2729830",
+    "steam:2454830",
+    "steam:2310",
+    "external:qbj3",
+    "steam:2320",
+    "steam:2736900",
+    "steam:3985950",
+    "steam:21970",
+    "external:rabbits-quest",
+    "steam:400910",
+    "steam:648800",
+    "steam:312520",
+    "steam:1895880",
+    "steam:2071280",
+    "steam:242550",
+    "steam:207490",
+    "steam:490280",
+    "steam:2129530",
+    "steam:1890950",
+    "steam:1977200",
+    "steam:1191660",
+    "steam:986310",
+    "steam:530040",
+    "steam:1203630",
+    "steam:1934720",
+    "steam:950300",
+    "steam:3202730",
+    "steam:406150",
+    "steam:1109680",
+    "steam:5023480",
+    "steam:1715690",
+    "steam:1677900",
+    "steam:574180",
+    "steam:1309820",
+    "steam:590590",
+    "steam:2354600",
+    "steam:1663850",
+    "steam:2936080",
+    "steam:1290780",
+    "steam:2067820",
+    "steam:2787320",
+    "steam:1175460",
+    "steam:288020",
+    "steam:2951580",
+    "steam:2172120",
+    "steam:294100",
+    "steam:1960070",
+    "steam:287450",
+    "external:rise-of-the-reds",
+    "steam:1421490",
+    "steam:657000",
+    "steam:324080",
+    "steam:1337520",
+    "steam:1963610",
+    "steam:1456760",
+    "steam:692890",
+    "steam:834760",
+    "steam:241600",
+    "steam:1253920",
+    "steam:2067920",
+    "steam:1940080",
+    "steam:2244030",
+    "steam:1002260",
+    "steam:1104600",
+    "steam:1374490",
+    "steam:252490",
+    "steam:1772830",
+    "steam:647960",
+    "steam:1599660",
+    "steam:327860",
+    "steam:1574900",
+    "steam:1437400",
+    "steam:283640",
+    "steam:1562700",
+    "steam:1699050",
+    "steam:1431300",
+    "steam:2764460",
+    "steam:1060230",
+    "steam:526870",
+    "steam:1093810",
+    "steam:2181720",
+    "steam:1519710",
+    "steam:1037020",
+    "steam:387990",
+    "steam:513710",
+    "steam:2347940",
+    "steam:2107540",
+    "steam:2849650",
+    "steam:1592280",
+    "steam:1434050",
+    "external:senescence-protocol",
+    "steam:1702010",
+    "steam:2436940",
+    "steam:1248840",
+    "steam:1610520",
+    "steam:457210",
+    "steam:1227690",
+    "steam:385560",
+    "steam:1859430",
+    "steam:1413870",
+    "steam:3055950",
+    "steam:345820",
+    "steam:1191630",
+    "steam:253840",
+    "steam:764300",
+    "steam:277890",
+    "steam:2444750",
+    "steam:3363560",
+    "steam:1281790",
+    "steam:356040",
+    "steam:1289380",
+    "steam:359840",
+    "steam:2361770",
+    "steam:2661310",
+    "steam:250760",
+    "external:shrine",
+    "steam:1417010",
+    "steam:2280510",
+    "steam:263200",
+    "steam:3525870",
+    "steam:1287930",
+    "steam:1482430",
+    "steam:4227400",
+    "steam:1575940",
+    "steam:204880",
+    "external:siren",
+    "steam:1441670",
+    "steam:2139840",
+    "steam:2139870",
+    "steam:1147560",
+    "steam:3335490",
+    "steam:369070",
+    "steam:1931020",
+    "steam:2348610",
+    "steam:768200",
+    "steam:1094540",
+    "steam:1740300",
+    "steam:4314770",
+    "steam:4528040",
+    "steam:3130880",
+    "steam:1805110",
+    "steam:2947280",
+    "steam:1671410",
+    "steam:460700",
+    "steam:213610",
+    "steam:71250",
+    "steam:2055290",
+    "steam:1237320",
+    "steam:329440",
+    "steam:584400",
+    "steam:1794960",
+    "steam:2022670",
+    "steam:2513280",
+    "steam:1326470",
+    "steam:1562140",
+    "steam:5214350",
+    "steam:2245420",
+    "steam:1714240",
+    "steam:1419160",
+    "steam:3062830",
+    "steam:2646460",
+    "steam:2512450",
+    "steam:2066020",
+    "steam:1711700",
+    "steam:244850",
+    "steam:1133870",
+    "steam:979110",
+    "steam:1762570",
+    "steam:601810",
+    "steam:1079210",
+    "steam:1629530",
+    "steam:2292060",
+    "steam:2007530",
+    "steam:1154040",
+    "steam:311290",
+    "steam:817540",
+    "external:spellsought",
+    "steam:239350",
+    "steam:418530",
+    "steam:794240",
+    "steam:1914580",
+    "steam:1835240",
+    "steam:446840",
+    "steam:2001120",
+    "steam:969990",
+    "steam:1282150",
+    "steam:1549690",
+    "steam:3748520",
+    "steam:4484760",
+    "steam:996580",
+    "steam:1172380",
+    "steam:1774580",
+    "steam:32470",
+    "steam:211820",
+    "external:starcraft-2",
+    "external:starcraft-remastered",
+    "steam:1380910",
+    "steam:244770",
+    "steam:1380220",
+    "steam:1202130",
+    "steam:2321780",
+    "steam:495420",
+    "steam:1340720",
+    "steam:329430",
+    "steam:544550",
+    "steam:252410",
+    "steam:571310",
+    "steam:1280300",
+    "steam:1048600",
+    "steam:2628570",
+    "steam:1113030",
+    "steam:3419140",
+    "steam:3228580",
+    "steam:640860",
+    "steam:253250",
+    "steam:2826790",
+    "steam:2012510",
+    "steam:442780",
+    "steam:2386720",
+    "steam:313120",
+    "steam:3976770",
+    "external:stranded-2",
+    "steam:1324130",
+    "external:stratum",
+    "steam:235210",
+    "steam:1646790",
+    "steam:2286450",
+    "steam:264710",
+    "steam:1962700",
+    "steam:848450",
+    "steam:418030",
+    "steam:950210",
+    "steam:2124120",
+    "steam:1525660",
+    "steam:535480",
+    "steam:2080690",
+    "steam:304650",
+    "steam:596970",
+    "external:sunset-land",
+    "steam:1304420",
+    "steam:463700",
+    "steam:361230",
+    "steam:668210",
+    "steam:1949960",
+    "steam:1205170",
+    "external:super-mario-3d-world-bowsers-fury",
+    "external:super-mario-bros-wonder",
+    "external:super-mario-galaxy-collection",
+    "external:super-mario-maker-2",
+    "external:super-mario-odyssey",
+    "steam:40800",
+    "steam:3288210",
+    "steam:581660",
+    "external:super-metroid",
+    "steam:1262040",
+    "steam:311190",
+    "steam:1756020",
+    "steam:730920",
+    "steam:310700",
+    "external:supertux",
+    "steam:1693280",
+    "steam:813630",
+    "steam:1522870",
+    "steam:1869290",
+    "steam:40100",
+    "steam:9420",
+    "steam:1645820",
+    "steam:839630",
+    "steam:1601330",
+    "steam:2153780",
+    "steam:2504380",
+    "steam:1140130",
+    "steam:1967630",
+    "steam:1343520",
+    "external:survivalcraft-2",
+    "steam:340050",
+    "steam:1054510",
+    "steam:2862660",
+    "steam:464920",
+    "steam:3215050",
+    "steam:684450",
+    "steam:2141520",
+    "steam:2559500",
+    "steam:2285630",
+    "steam:780500",
+    "steam:2692740",
+    "steam:5019800",
+    "steam:2599770",
+    "steam:2316580",
+    "steam:2489950",
+    "steam:3216340",
+    "steam:1457320",
+    "steam:2783370",
+    "steam:1486920",
+    "steam:2510960",
+    "external:terasology",
+    "steam:1839950",
+    "steam:1534980",
+    "steam:1482770",
+    "steam:105600",
+    "steam:285920",
+    "steam:3596700",
+    "steam:2313330",
+    "steam:5265230",
+    "steam:249590",
+    "steam:1698220",
+    "steam:2168150",
+    "steam:2230650",
+    "steam:2527710",
+    "steam:1779060",
+    "steam:1601570",
+    "steam:401360",
+    "steam:2146290",
+    "steam:2230170",
+    "steam:1378290",
+    "steam:2658490",
+    "steam:1307690",
+    "external:dawn-tiberium-age",
+    "steam:1802880",
+    "steam:1439960",
+    "steam:583470",
+    "external:end-of-days-zh",
+    "steam:963450",
+    "steam:318600",
+    "steam:242760",
+    "steam:2828860",
+    "steam:2285150",
+    "steam:2996540",
+    "steam:3451680",
+    "steam:1360000",
+    "steam:376210",
+    "steam:812550",
+    "steam:1872680",
+    "steam:1783560",
+    "steam:2023360",
+    "steam:1274600",
+    "steam:1766100",
+    "steam:2250080",
+    "steam:1564600",
+    "steam:3551190",
+    "steam:3142500",
+    "steam:1369430",
+    "steam:305620",
+    "steam:1017180",
+    "steam:2933130",
+    "steam:2521160",
+    "steam:764790",
+    "steam:2795540",
+    "steam:2281940",
+    "steam:630310",
+    "steam:2925120",
+    "steam:1723610",
+    "steam:466630",
+    "steam:1858810",
+    "steam:1284190",
+    "steam:780310",
+    "steam:653060",
+    "steam:1822450",
+    "steam:1104280",
+    "steam:2602020",
+    "steam:313630",
+    "steam:2904000",
+    "steam:897450",
+    "steam:231160",
+    "steam:1428710",
+    "steam:2749920",
+    "steam:1717770",
+    "steam:598700",
+    "steam:1121640",
+    "steam:4123780",
+    "steam:526160",
+    "steam:891170",
+    "steam:644930",
+    "steam:3229980",
+    "steam:282070",
+    "steam:220780",
+    "steam:2239150",
+    "steam:5035340",
+    "steam:1062090",
+    "steam:1290330",
+    "steam:368620",
+    "steam:2525210",
+    "steam:2617700",
+    "steam:1276660",
+    "steam:2088570",
+    "steam:1599020",
+    "steam:1550270",
+    "steam:201420",
+    "steam:3504560",
+    "steam:2851150",
+    "steam:3308200",
+    "steam:1229390",
+    "steam:1303950",
+    "steam:286000",
+    "steam:1722620",
+    "steam:1554840",
+    "steam:2549240",
+    "steam:298030",
+    "external:total-chaos-original",
+    "steam:1270670",
+    "steam:851100",
+    "steam:845880",
+    "steam:2665680",
+    "steam:251470",
+    "steam:585420",
+    "steam:1522930",
+    "steam:1577660",
+    "external:treasure-adventure-game",
+    "steam:268770",
+    "external:tremor",
+    "steam:1164940",
+    "steam:3762660",
+    "steam:858820",
+    "steam:35720",
+    "steam:319910",
+    "steam:690640",
+    "steam:1436700",
+    "steam:35700",
+    "steam:1911360",
+    "steam:4139890",
+    "steam:304050",
+    "steam:553420",
+    "steam:1733250",
+    "steam:1328350",
+    "steam:2788310",
+    "external:twisted-insurrection",
+    "steam:411960",
+    "steam:411970",
+    "steam:411980",
+    "steam:2685090",
+    "steam:1983220",
+    "steam:386940",
+    "steam:2923350",
+    "steam:1229490",
+    "steam:2386310",
+    "steam:814680",
+    "steam:2944350",
+    "steam:2985840",
+    "steam:1667040",
+    "steam:2939510",
+    "steam:233980",
+    "steam:5091000",
+    "steam:1225560",
+    "steam:1225570",
+    "steam:351700",
+    "steam:780350",
+    "steam:1062110",
+    "steam:3924020",
+    "steam:304930",
+    "steam:3733160",
+    "steam:613190",
+    "steam:1604030",
+    "steam:252030",
+    "steam:600130",
+    "steam:892970",
+    "steam:2206270",
+    "steam:1794680",
+    "steam:2774370",
+    "steam:1996090",
+    "steam:1857950",
+    "external:veloren",
+    "steam:1942010",
+    "steam:2153750",
+    "steam:1546710",
+    "steam:1425180",
+    "external:vietdoom",
+    "steam:720560",
+    "external:vintage-story",
+    "steam:1406780",
+    "steam:1005450",
+    "steam:3741860",
+    "steam:2005210",
+    "steam:2072660",
+    "steam:1159690",
+    "steam:2014550",
+    "steam:951440",
+    "steam:2499040",
+    "steam:2063480",
+    "steam:1549750",
+    "steam:1874190",
+    "steam:5161180",
+    "steam:4514350",
+    "external:voxelibre",
+    "steam:4468350",
+    "steam:2283580",
+    "steam:2686630",
+    "steam:70300",
+    "steam:227200",
+    "steam:4779470",
+    "steam:3624140",
+    "steam:2928690",
+    "external:wanted3d-demo",
+    "steam:2491670",
+    "steam:3990560",
+    "steam:777770",
+    "external:warcraft-1-remastered",
+    "external:warcraft-2-remastered",
+    "external:warcraft-3-reforged",
+    "steam:2745870",
+    "steam:251060",
+    "steam:2005010",
+    "steam:3115160",
+    "steam:3556750",
+    "steam:2352100",
+    "external:warlords-battlecry-2",
+    "steam:433280",
+    "steam:1611600",
+    "steam:1241950",
+    "steam:1264880",
+    "steam:379210",
+    "steam:392080",
+    "steam:307110",
+    "steam:1390350",
+    "steam:1519090",
+    "steam:3699590",
+    "steam:1378360",
+    "steam:1158890",
+    "steam:1134700",
+    "steam:500710",
+    "steam:1329880",
+    "steam:2995560",
+    "steam:1599330",
+    "steam:2649120",
+    "steam:1115050",
+    "steam:266170",
+    "steam:3041230",
+    "steam:1660960",
+    "steam:318530",
+    "steam:3008740",
+    "steam:1394960",
+    "steam:4206270",
+    "steam:2443370",
+    "steam:1122280",
+    "steam:1715590",
+    "external:blade-of-agony",
+    "steam:1205660",
+    "steam:1420080",
+    "steam:543260",
+    "external:world-in-conflict",
+    "steam:1898500",
+    "steam:1000410",
+    "steam:1762010",
+    "steam:400630",
+    "steam:1179680",
+    "steam:366220",
+    "steam:3642910",
+    "steam:2555390",
+    "steam:2324610",
+    "steam:3461270",
+    "steam:319140",
+    "steam:625340",
+    "steam:2534370",
+    "steam:2011780",
+    "steam:2248230",
+    "steam:2163330",
+    "steam:2404370",
+    "steam:334940",
+    "steam:360830",
+    "steam:846870",
+    "steam:2448020",
+    "external:yoshi-mysterious-book",
+    "external:yoshi-crafted-world",
+    "steam:286100",
+    "steam:1489110",
+    "steam:1211600",
+    "steam:1193340",
+    "steam:1782120",
+    "steam:334920",
+    "steam:1159560",
+    "steam:1262460",
+    "steam:2443360",
+    "steam:2401740"
+  ]
+}

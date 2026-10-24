@@ -2,7 +2,7 @@
 
 ![Chariot official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319450/header.jpg?t=1616687689)
 
-**[Open official page](https://store.steampowered.com/app/319450/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A319450)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/319450/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A319450)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Embark on a journey to give his majesty the ride of his afterlife. Guide a chariot containing the King's remains through underground caves using ...
 
@@ -12,7 +12,7 @@ Coordination, shared problem solving or deliberately competitive stage construct
 
 | Field | Value |
 |:--|:--|
-| Collection | Co-op & playful chaos |
+| Collection | Co-op & playful chaos, Platforming sabotage & races |
 | Recommendation | 8/10 |
 | Community reception | 80.6% / 464 Steam reviews |
 | Release | Nov 12, 2014 |
@@ -25,7 +25,7 @@ Coordination, shared problem solving or deliberately competitive stage construct
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/319450/)
+- [Steam: store](https://store.steampowered.com/app/319450)
 
 ## Videos and screenshots
 
@@ -61,9 +61,9 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/319450/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=319450&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A319450%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Local-mode evidence](https://store.steampowered.com/app/319450/) · checked 2026-10-24T07:09:45.958258+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=319450&l=english&cc=us) · checked 2026-10-24T05:54:13.119458+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A319450%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-24T05:54:13.119458+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -83,3 +83,21 @@ Coordination, shared problem solving or deliberately competitive stage construct
 
 [Platformer hub](Platformers) | [Comparative study](Platformers-Study) | [Gem shortlist](Platformers-Gems) | [New and upcoming](Platformers-New-and-Upcoming) | [Media atlas](Platformers-Media) | [Source and coverage audit](Platformers-Sources)
 
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** PC edition
+
+**Participation:** simultaneous
+
+**Input setup:** See controller support and exact mode notes.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Local cooperative play (Co-op) | 2 | See input setup | [Evidence](https://store.steampowered.com/app/319450/) |
+
+
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

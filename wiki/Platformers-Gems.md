@@ -7,10 +7,10 @@ These are editorial discovery leads, not an objective definition of obscurity. T
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
 | [Tinykin](Game-1599020-Tinykin) | 10/10 | 97.8% / 4,390 Steam reviews | Aug 30, 2022 · Released | [Steam](https://store.steampowered.com/app/1599020/) |
-| [N++ (NPLUSPLUS)](Game-230270-N-NPLUSPLUS) | 10/10 | 93.7% / 3,582 Steam reviews | Aug 25, 2016 · Released | [Steam](https://store.steampowered.com/app/230270/) |
+| [N++ (NPLUSPLUS)](Game-230270-N-NPLUSPLUS) | 10/10 | 93.7% / 3,582 Steam reviews | Aug 25, 2016 · Released | [Steam](https://store.steampowered.com/app/230270) |
 | [Freedom Planet](Game-248310-Freedom-Planet) | 9/10 | 95.0% / 4,913 Steam reviews | Jul 21, 2014 · Released | [Steam](https://store.steampowered.com/app/248310/) |
 | [Bloodstained: Curse of the Moon](Game-838310-Bloodstained-Curse-of-the-Moon) | 9/10 | 94.3% / 4,536 Steam reviews | May 24, 2018 · Released | [Steam](https://store.steampowered.com/app/838310/) |
-| [HUNTDOWN](Game-598550-HUNTDOWN) | 9/10 | 94.8% / 4,470 Steam reviews | May 12, 2021 · Released | [Steam](https://store.steampowered.com/app/598550/) |
+| [HUNTDOWN](Game-598550-HUNTDOWN) | 9/10 | 94.8% / 4,470 Steam reviews | May 12, 2021 · Released | [Steam](https://store.steampowered.com/app/598550) · [GOG](https://www.gog.com/en/game/huntdown) |
 | [Supraland Six Inches Under](Game-1522870-Supraland-Six-Inches-Under) | 9/10 | 96.1% / 4,344 Steam reviews | Jan 14, 2022 · Released | [Steam](https://store.steampowered.com/app/1522870) · [Steam](https://store.steampowered.com/app/1875080) |
 | [Cyber Hook](Game-1130410-Cyber-Hook) | 9/10 | 94.9% / 4,201 Steam reviews | Sep 24, 2020 · Released | [Steam](https://store.steampowered.com/app/1130410/) |
 | [Well Dweller](Game-3699590-Well-Dweller) | 9/10 | 98.0% / 4,167 Steam reviews | Sep 22, 2026 · Released | [Steam](https://store.steampowered.com/app/3699590) · [GOG](https://www.gog.com/en/game/well_dweller) · [Steam](https://store.steampowered.com/app/4540890) |
@@ -24,7 +24,7 @@ These are editorial discovery leads, not an objective definition of obscurity. T
 | [Will You Snail?](Game-1115050-Will-You-Snail) | 9/10 | 96.9% / 2,845 Steam reviews | Mar 9, 2022 · Released | [Steam](https://store.steampowered.com/app/1115050/) |
 | [30XX](Game-1029210-30XX) | 9/10 | 90.3% / 2,830 Steam reviews | Aug 9, 2023 · Released | [Steam](https://store.steampowered.com/app/1029210/) |
 | [Monster Boy and the Cursed Kingdom](Game-449610-Monster-Boy-and-the-Cursed-Kingdom) | 9/10 | 88.2% / 2,684 Steam reviews | Jul 25, 2019 · Released | [Steam](https://store.steampowered.com/app/449610) · [GOG](https://www.gog.com/en/game/monster_boy_and_the_cursed_kingdom) · [Steam](https://store.steampowered.com/app/1070270) |
-| [Heave Ho](Game-905340-Heave-Ho) | 9/10 | 91.3% / 2,609 Steam reviews | Aug 29, 2019 · Released | [Steam](https://store.steampowered.com/app/905340/) |
+| [Heave Ho](Game-905340-Heave-Ho) | 9/10 | 91.3% / 2,609 Steam reviews | Aug 29, 2019 · Released | [Steam](https://store.steampowered.com/app/905340) · [GOG](https://www.gog.com/en/game/heave_ho) |
 | [Islets](Game-1669420-Islets) | 9/10 | 95.2% / 2,583 Steam reviews | Aug 24, 2022 · Released | [Steam](https://store.steampowered.com/app/1669420) · [GOG](https://www.gog.com/en/game/islets) |
 | [Revita](Game-1175460-Revita) | 9/10 | 81.1% / 2,441 Steam reviews | Apr 21, 2022 · Released | [Steam](https://store.steampowered.com/app/1175460/) |
 | [Dustforce DX](Game-65300-Dustforce-DX) | 9/10 | 87.9% / 2,398 Steam reviews | Jan 17, 2012 · Released | [Steam](https://store.steampowered.com/app/65300/) |
@@ -32,7 +32,7 @@ These are editorial discovery leads, not an objective definition of obscurity. T
 | [Kaze and the Wild Masks](Game-829280-Kaze-and-the-Wild-Masks) | 9/10 | 93.9% / 2,083 Steam reviews | Mar 26, 2021 · Released | [Steam](https://store.steampowered.com/app/829280/) |
 | [Spark the Electric Jester 3](Game-1629530-Spark-the-Electric-Jester-3) | 9/10 | 96.4% / 2,052 Steam reviews | Aug 14, 2022 · Released | [Steam](https://store.steampowered.com/app/1629530/) |
 | [Spiritfall](Game-1835240-Spiritfall) | 9/10 | 92.7% / 2,008 Steam reviews | Feb 28, 2024 · Released | [Steam](https://store.steampowered.com/app/1835240/) |
-| [Blazing Chrome](Game-609110-Blazing-Chrome) | 9/10 | 87.2% / 1,991 Steam reviews | Jul 11, 2019 · Released | [Steam](https://store.steampowered.com/app/609110/) |
+| [Blazing Chrome](Game-609110-Blazing-Chrome) | 9/10 | 87.2% / 1,991 Steam reviews | Jul 11, 2019 · Released | [Steam](https://store.steampowered.com/app/609110) · [GOG](https://www.gog.com/en/game/blazing_chrome) |
 | [Lunistice](Game-1701800-Lunistice) | 9/10 | 95.5% / 1,962 Steam reviews | Nov 10, 2022 · Released | [Steam](https://store.steampowered.com/app/1701800/) |
 | [Yellow Taxi Goes Vroom](Game-2011780-Yellow-Taxi-Goes-Vroom) | 9/10 | 96.7% / 1,947 Steam reviews | Apr 9, 2024 · Released | [Steam](https://store.steampowered.com/app/2011780/) |
 | [Corn Kidz 64](Game-2575900-Corn-Kidz-64) | 9/10 | 93.4% / 1,838 Steam reviews | Oct 16, 2023 · Released | [Steam](https://store.steampowered.com/app/2575900/) |
@@ -79,12 +79,12 @@ These are editorial discovery leads, not an objective definition of obscurity. T
 | [Blue Fire](Game-1220150-Blue-Fire) | 8/10 | 81.4% / 3,127 Steam reviews | Feb 4, 2021 · Released | [Steam](https://store.steampowered.com/app/1220150) · [GOG](https://www.gog.com/en/game/blue_fire) · [itch.io](https://graffiti-games.itch.io/blue-fire) · [Steam](https://store.steampowered.com/app/1394220) |
 | [SEUM: Speedrunners from Hell](Game-457210-SEUM-Speedrunners-from-Hell) | 8/10 | 94.5% / 3,063 Steam reviews | Jul 28, 2016 · Released | [Steam](https://store.steampowered.com/app/457210/) |
 | [Lorn's Lure](Game-1417930-Lorn-s-Lure) | 8/10 | 85.4% / 2,961 Steam reviews | Sep 20, 2024 · Released | [Steam](https://store.steampowered.com/app/1417930/) |
-| [Fury Unleashed](Game-465200-Fury-Unleashed) | 8/10 | 87.2% / 2,934 Steam reviews | May 8, 2020 · Released | [Steam](https://store.steampowered.com/app/465200/) |
+| [Fury Unleashed](Game-465200-Fury-Unleashed) | 8/10 | 87.2% / 2,934 Steam reviews | May 8, 2020 · Released | [Steam](https://store.steampowered.com/app/465200) · [GOG](https://www.gog.com/en/game/fury_unleashed) · [Steam](https://store.steampowered.com/app/1185030) |
 | [Papo & Yo](Game-227080-Papo-Yo) | 8/10 | 93.4% / 2,879 Steam reviews | Apr 18, 2013 · Released | [Steam](https://store.steampowered.com/app/227080/) |
 | [Smushi Come Home](Game-1740300-Smushi-Come-Home) | 8/10 | 99.0% / 2,834 Steam reviews | Jun 10, 2023 · Released | [Steam](https://store.steampowered.com/app/1740300/) |
 | [TY the Tasmanian Tiger](Game-411960-TY-the-Tasmanian-Tiger) | 8/10 | 97.8% / 2,743 Steam reviews | Dec 12, 2016 · Released | [Steam](https://store.steampowered.com/app/411960/) |
 | [The Upturned](Game-1717770-The-Upturned) | 8/10 | 98.9% / 2,732 Steam reviews | Mar 23, 2022 · Released | [Steam](https://store.steampowered.com/app/1717770/) |
-| [KeyWe](Game-1242980-KeyWe) | 8/10 | 90.3% / 2,553 Steam reviews | Aug 31, 2021 · Released | [Steam](https://store.steampowered.com/app/1242980/) |
+| [KeyWe](Game-1242980-KeyWe) | 8/10 | 90.3% / 2,553 Steam reviews | Aug 31, 2021 · Released | [Steam](https://store.steampowered.com/app/1242980) |
 | [Shantae: Half-Genie Hero](Game-253840-Shantae-Half-Genie-Hero) | 8/10 | 90.4% / 2,426 Steam reviews | Dec 20, 2016 · Released | [Steam](https://store.steampowered.com/app/253840/) |
 | [Gestalt: Steam & Cinder](Game-1231990-Gestalt-Steam-Cinder) | 8/10 | 80.3% / 2,348 Steam reviews | Jul 16, 2024 · Released | [Steam](https://store.steampowered.com/app/1231990) |
 | [Super Fancy Pants Adventure](Game-668210-Super-Fancy-Pants-Adventure) | 8/10 | 93.3% / 2,284 Steam reviews | Sep 20, 2017 · Released | [Steam](https://store.steampowered.com/app/668210/) |
@@ -102,13 +102,13 @@ These are editorial discovery leads, not an objective definition of obscurity. T
 | [BLADECHIMERA](Game-2671230-BLADECHIMERA) | 8/10 | 89.3% / 1,495 Steam reviews | Jan 15, 2025 · Released | [Steam](https://store.steampowered.com/app/2671230) · [Steam](https://store.steampowered.com/app/3003160) |
 | [Ghost Song](Game-347800-Ghost-Song) | 8/10 | 83.3% / 1,469 Steam reviews | Nov 3, 2022 · Released | [Steam](https://store.steampowered.com/app/347800) · [GOG](https://www.gog.com/en/game/ghost_song) |
 | [Odallus: The Dark Call](Game-319480-Odallus-The-Dark-Call) | 8/10 | 88.4% / 1,365 Steam reviews | Jul 15, 2015 · Released | [Steam](https://store.steampowered.com/app/319480) · [itch.io](https://joymasher.itch.io/odallus) |
-| [Degrees of Separation](Game-809880-Degrees-of-Separation) | 8/10 | 80.1% / 1,356 Steam reviews | Feb 13, 2019 · Released | [Steam](https://store.steampowered.com/app/809880/) |
+| [Degrees of Separation](Game-809880-Degrees-of-Separation) | 8/10 | 80.1% / 1,356 Steam reviews | Feb 13, 2019 · Released | [Steam](https://store.steampowered.com/app/809880) |
 | [Unbound: Worlds Apart](Game-814680-Unbound-Worlds-Apart) | 8/10 | 83.5% / 1,343 Steam reviews | Jul 28, 2021 · Released | [Steam](https://store.steampowered.com/app/814680) |
 | [BETON BRUTAL](Game-2330500-BETON-BRUTAL) | 8/10 | 94.2% / 1,302 Steam reviews | Mar 31, 2023 · Released | [Steam](https://store.steampowered.com/app/2330500/) |
 | [LOVE](Game-269270-LOVE) | 8/10 | 90.5% / 1,193 Steam reviews | Feb 7, 2014 · Released | [Steam](https://store.steampowered.com/app/269270/) |
 | [CONVERGENCE: A League of Legends Story™](Game-1276800-CONVERGENCE-A-League-of-Legends-Story) | 8/10 | 88.3% / 1,170 Steam reviews | May 23, 2023 · Released | [Steam](https://store.steampowered.com/app/1276800) |
 | [Marble It Up! Ultra](Game-864060-Marble-It-Up-Ultra) | 8/10 | 92.9% / 1,147 Steam reviews | Nov 16, 2018 · Released | [Steam](https://store.steampowered.com/app/864060/) |
-| [Iron Meat](Game-1157740-Iron-Meat) | 8/10 | 96.4% / 1,122 Steam reviews | Sep 25, 2024 · Released | [Steam](https://store.steampowered.com/app/1157740/) |
+| [Iron Meat](Game-1157740-Iron-Meat) | 8/10 | 96.4% / 1,122 Steam reviews | Sep 25, 2024 · Released | [Steam](https://store.steampowered.com/app/1157740) · [GOG](https://www.gog.com/en/game/iron_meat) · [itch.io](https://retroware.itch.io/iron-meat) · [itch.io](https://ironmeat.itch.io/iron-meat) · [Steam](https://store.steampowered.com/app/1323260) |
 | [Arzette: The Jewel of Faramore](Game-1924780-Arzette-The-Jewel-of-Faramore) | 8/10 | 96.4% / 1,119 Steam reviews | Feb 13, 2024 · Released | [Steam](https://store.steampowered.com/app/1924780/) |
 | [Toree 2](Game-1722620-Toree-2) | 8/10 | 97.3% / 1,109 Steam reviews | Sep 30, 2021 · Released | [Steam](https://store.steampowered.com/app/1722620/) |
 | [Crumble](Game-1061180-Crumble) | 8/10 | 87.5% / 1,108 Steam reviews | Dec 4, 2020 · Released | [Steam](https://store.steampowered.com/app/1061180/) |
@@ -136,7 +136,7 @@ These are editorial discovery leads, not an objective definition of obscurity. T
 | [Sunblaze](Game-1525660-Sunblaze) | 8/10 | 90.0% / 488 Steam reviews | Jun 3, 2021 · Released | [Steam](https://store.steampowered.com/app/1525660/) |
 | [Aspire: Ina's Tale](Game-1720090-Aspire-Ina-s-Tale) | 8/10 | 82.9% / 475 Steam reviews | Dec 17, 2021 · Released | [Steam](https://store.steampowered.com/app/1720090/) |
 | [Azure Striker GUNVOLT 3](Game-1931690-Azure-Striker-GUNVOLT-3) | 8/10 | 87.5% / 465 Steam reviews | Oct 13, 2022 · Released | [Steam](https://store.steampowered.com/app/1931690/) |
-| [Chariot](Game-319450-Chariot) | 8/10 | 80.6% / 464 Steam reviews | Nov 12, 2014 · Released | [Steam](https://store.steampowered.com/app/319450/) |
+| [Chariot](Game-319450-Chariot) | 8/10 | 80.6% / 464 Steam reviews | Nov 12, 2014 · Released | [Steam](https://store.steampowered.com/app/319450) |
 | [Toree Saturn](Game-2549240-Toree-Saturn) | 8/10 | 93.2% / 457 Steam reviews | Aug 8, 2025 · Released | [Steam](https://store.steampowered.com/app/2549240/) |
 | [Suzy Cube](Game-780500-Suzy-Cube) | 8/10 | 85.7% / 440 Steam reviews | Jun 19, 2018 · Released | [Steam](https://store.steampowered.com/app/780500/) |
 | [Berserk Boy](Game-1561340-Berserk-Boy) | 8/10 | 84.4% / 437 Steam reviews | Mar 6, 2024 · Released | [Steam](https://store.steampowered.com/app/1561340) · [GOG](https://www.gog.com/en/game/berserk_boy) |
@@ -159,7 +159,7 @@ These are editorial discovery leads, not an objective definition of obscurity. T
 | [Everdeep Aurora](Game-2251400-Everdeep-Aurora) | 8/10 | 90.4% / 209 Steam reviews | Jul 10, 2025 · Released | [Steam](https://store.steampowered.com/app/2251400/) |
 | [Castle on the Coast](Game-1341900-Castle-on-the-Coast) | 8/10 | 94.9% / 195 Steam reviews | Dec 2, 2021 · Released | [Steam](https://store.steampowered.com/app/1341900/) |
 | [Xanthiom Zero](Game-2324610-Xanthiom-Zero) | 8/10 | 94.8% / 155 Steam reviews | Jul 28, 2023 · Released | [Steam](https://store.steampowered.com/app/2324610) |
-| [Frogun Encore](Game-2312160-Frogun-Encore) | 8/10 | 87.0% / 138 Steam reviews | Jun 25, 2024 · Released | [Steam](https://store.steampowered.com/app/2312160/) |
+| [Frogun Encore](Game-2312160-Frogun-Encore) | 8/10 | 87.0% / 138 Steam reviews | Jun 25, 2024 · Released | [Steam](https://store.steampowered.com/app/2312160) · [GOG](https://www.gog.com/en/game/frogun_encore) · [Steam](https://store.steampowered.com/app/2666710) |
 | [Teeto](Game-2783370-Teeto) | 8/10 | 95.5% / 133 Steam reviews | Jul 15, 2026 · Released | [Steam](https://store.steampowered.com/app/2783370/) |
 | [Super Cable Boy](Game-1304420-Super-Cable-Boy) | 8/10 | 97.7% / 128 Steam reviews | Nov 20, 2020 · Released | [Steam](https://store.steampowered.com/app/1304420/) |
 | [Ufouria: The Saga 2](Game-2685090-Ufouria-The-Saga-2) | 8/10 | 91.4% / 128 Steam reviews | Feb 28, 2024 · Released | [Steam](https://store.steampowered.com/app/2685090/) |

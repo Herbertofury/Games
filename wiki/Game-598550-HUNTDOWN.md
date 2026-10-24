@@ -2,7 +2,7 @@
 
 ![HUNTDOWN official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598550/header.jpg?t=1723637797)
 
-**[Open official page](https://store.steampowered.com/app/598550/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A598550)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/598550/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A598550)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 In the mayhem-filled streets of the future where criminal gangs rule and cops fear to tread, only the bounty hunters can free the city ...
 
@@ -12,7 +12,7 @@ A strong run-and-gun adjacent pick where position, cover and authored enemy enco
 
 | Field | Value |
 |:--|:--|
-| Collection | Action & retro adventures |
+| Collection | Action & retro adventures, Cooperative arcade chaos |
 | Recommendation | 9/10 |
 | Community reception | 94.8% / 4,470 Steam reviews |
 | Release | May 12, 2021 |
@@ -25,7 +25,8 @@ A strong run-and-gun adjacent pick where position, cover and authored enemy enco
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/598550/)
+- [Steam: store](https://store.steampowered.com/app/598550)
+- [GOG: store](https://www.gog.com/en/game/huntdown) | Exact title in GOG official catalog: HUNTDOWN
 
 ## Videos and screenshots
 
@@ -57,9 +58,9 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/598550/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=598550&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A598550%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Local-mode evidence](https://store.steampowered.com/app/598550/) · checked 2026-10-24T07:09:45.958258+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=598550&l=english&cc=us) · checked 2026-10-24T05:54:13.119458+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A598550%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-24T05:54:13.119458+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -79,3 +80,21 @@ A strong run-and-gun adjacent pick where position, cover and authored enemy enco
 
 [Platformer hub](Platformers) | [Comparative study](Platformers-Study) | [Gem shortlist](Platformers-Gems) | [New and upcoming](Platformers-New-and-Upcoming) | [Media atlas](Platformers-Media) | [Source and coverage audit](Platformers-Sources)
 
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** PC edition
+
+**Participation:** simultaneous
+
+**Input setup:** See controller support and exact mode notes.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Local co-op (Co-op) | 2 | See input setup | [Evidence](https://store.steampowered.com/app/598550/) |
+
+Two-person local cooperative configuration. See the exact edition and game-specific setup requirements.
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

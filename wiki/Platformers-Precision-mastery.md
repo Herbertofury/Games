@@ -9,7 +9,7 @@ Compare momentum, checkpoint frequency, movement constraints and the cost of a m
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
 | [Celeste](Game-504230-Celeste) | 10/10 | 97.4% / 149,203 Steam reviews | Jan 25, 2018 · Released | [Steam](https://store.steampowered.com/app/504230/) |
-| [N++ (NPLUSPLUS)](Game-230270-N-NPLUSPLUS) | 10/10 | 93.7% / 3,582 Steam reviews | Aug 25, 2016 · Released | [Steam](https://store.steampowered.com/app/230270/) |
+| [N++ (NPLUSPLUS)](Game-230270-N-NPLUSPLUS) | 10/10 | 93.7% / 3,582 Steam reviews | Aug 25, 2016 · Released | [Steam](https://store.steampowered.com/app/230270) |
 | [Super Meat Boy](Game-40800-Super-Meat-Boy) | 9/10 | 94.1% / 39,328 Steam reviews | Nov 30, 2010 · Released | [Steam](https://store.steampowered.com/app/40800/) |
 | [VVVVVV](Game-70300-VVVVVV) | 9/10 | 96.2% / 10,598 Steam reviews | Sep 7, 2010 · Released | [Steam](https://store.steampowered.com/app/70300/) |
 | [The End Is Nigh](Game-583470-The-End-Is-Nigh) | 9/10 | 93.7% / 3,531 Steam reviews | Jul 12, 2017 · Released | [Steam](https://store.steampowered.com/app/583470/) |

@@ -2,7 +2,7 @@
 
 ![N++ (NPLUSPLUS) official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230270/4ac1afbdcbfe0f72fc528ebedf28c0016924b6b0/header.jpg?t=1762366272)
 
-**[Open official page](https://store.steampowered.com/app/230270/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A230270)** · [Platformers](Platformers)
+**[Open official page](https://store.steampowered.com/app/230270/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A230270)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 N++ is a fast-paced, momentum-based platformer about darting around obstacles, narrowly evading enemies and collecting gold in a beautiful minimalist landscape.
 
@@ -12,7 +12,7 @@ Momentum, clean silhouettes and tiny spatial decisions form a remarkably durable
 
 | Field | Value |
 |:--|:--|
-| Collection | Precision & mastery |
+| Collection | Precision & mastery, Platforming sabotage & races |
 | Recommendation | 10/10 |
 | Community reception | 93.7% / 3,582 Steam reviews |
 | Release | Aug 25, 2016 |
@@ -25,7 +25,7 @@ Momentum, clean silhouettes and tiny spatial decisions form a remarkably durable
 
 ## Official stores and downloads
 
-- [Steam: store](https://store.steampowered.com/app/230270/)
+- [Steam: store](https://store.steampowered.com/app/230270)
 
 ## Videos and screenshots
 
@@ -59,9 +59,9 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/230270/) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=230270&l=english&cc=us) · checked 2026-10-23T16:58:22.046289+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A230270%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T16:58:22.046289+00:00
+- [Local-mode evidence](https://store.steampowered.com/app/230270/) · checked 2026-10-24T07:09:45.958258+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=230270&l=english&cc=us) · checked 2026-10-24T06:10:21.116493+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A230270%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-24T06:10:21.116493+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -81,3 +81,22 @@ Momentum, clean silhouettes and tiny spatial decisions form a remarkably durable
 
 [Platformer hub](Platformers) | [Comparative study](Platformers-Study) | [Gem shortlist](Platformers-Gems) | [New and upcoming](Platformers-New-and-Upcoming) | [Media atlas](Platformers-Media) | [Source and coverage audit](Platformers-Sources)
 
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** PC edition
+
+**Participation:** simultaneous
+
+**Input setup:** See controller support and exact mode notes.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Local cooperative play (Co-op) | 2-4 | See input setup | [Evidence](https://store.steampowered.com/app/230270/) |
+| Local competitive play (Versus) | 2-4 | See input setup | [Evidence](https://store.steampowered.com/app/230270/) |
+
+
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

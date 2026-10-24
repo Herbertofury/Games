@@ -88,6 +88,8 @@ def assemble(catalog):
     mv=integrate(ROOT,games)
     from survival_model import integrate as integrate_survival
     survival=integrate_survival(ROOT,games)
+    from party_model import integrate as integrate_party
+    party=integrate_party(ROOT,games)
     out=sorted(games.values(),key=lambda g:g['name'].casefold())
     for g in out:
         g.setdefault("appid",None)
@@ -99,6 +101,7 @@ def assemble(catalog):
     dates=[x for x in [c.get('generatedAt'),shooters.get('generatedAt'),external.get('generatedAt'),rts.get('generatedAt'),rts_external.get('generatedAt'),load('data/rts-curation.json',{}).get('generatedAt'),load('data/rts-media-completion.json',{}).get('generatedAt'),load('data/media-completion.json',{}).get('generatedAt'),load('data/storefront-discovery.json',{}).get('generatedAt')] if x]
     if mv.get('generatedAt'):dates.append(mv['generatedAt'])
     if survival.get('generatedAt'):dates.append(survival['generatedAt'])
+    if party.get('generatedAt'):dates.append(party['generatedAt'])
     c['generatedAt']=max(dates) if dates else None
     c['sources']=[{'provider':'Steam','kind':'canonical-facts','description':'Official metadata and all-language review totals.'},{'provider':'Creator and community hosts','kind':'curated-facts','description':'Exact creator pages, download records, and dated developer updates. Support links are not licenses.'}]
     b=c.setdefault('build',{});b.update(generator='games-catalog/1.3.0',inputCount=len(out),verifiedCount=sum(g.get('verification')=='verified' for g in out),unresolvedCount=sum(g.get('verification')!='verified' for g in out),candidateUnresolved=shooters.get('unresolved',[])+rts.get('unresolved',[]),candidateDispositions=rts.get('dispositions',[]),mediaCount=sum(bool(g.get('image'))+len(g.get('screenshots',[]))+len(g.get('trailers',[])) for g in out))
@@ -110,6 +113,10 @@ def assemble(catalog):
     b['candidateUnresolved']+=survival['unresolved']
     b['candidateDispositions']+=survival['dispositions']
     b['survivalStudyCount']=len(survival['ids'])
+    b['partyStudyCount']=len(party['ids'])
+    b['generator']='games-catalog/1.6.0'
+    b['candidateUnresolved']+=party['unresolved']
+    b['candidateDispositions']+=party['dispositions']
     b['hubCounts']={hub:sum(hub in g.get('hubs',[]) for g in out) for hub in sorted({h for g in out for h in g.get('hubs',[])})}
     b['datasetHash']=hashlib.sha256(json.dumps(out,sort_keys=True,ensure_ascii=False).encode()).hexdigest()
     return complete_platformer_metadata(c,ROOT)

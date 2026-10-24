@@ -109,3 +109,10 @@ The generated `wiki/Platformers*.md`, `data/platformers-study-report.json` and `
 ## Metroidvania source layers
 
 See [METROIDVANIA.md](METROIDVANIA.md). Preserve `metroidvania-curation.json`, `metroidvania-media.json`, and `metroidvania-review-decisions.json` when refreshing raw facts. Public preview provenance is retained under `media/metroidvania/` and `data/metroidvania-captured-previews.json`.
+
+
+## Couch co-op and party modes
+
+The same stable party IDs live in data/party-steam.json, party-extra.json, party-recovered.json and party-external.json. Refreshed store facts must not overwrite the reviewed data/party-curation.json modesDetail arrays. Each mode carries its own exact local player set, edition evidence, optional-DLC conditions and setup notes. Steam shared/split-screen categories establish support, not a numeric cap. Keep online counts, audiences, bots and tournament brackets separate.
+
+After adding or correcting records: build with python3 scripts/build.py, generate notes with python3 scripts/party_release_notes.py, rebuild, and run the existing full Publish library gate. scripts/party_qa.py checks the entire promoted set, actual primary images, exact mode/headcount intersections, original hub preservation, export, persistence and media playback probes. Unknown counts remain visible and outside exact-headcount filters. No scheduled crawler is enabled.

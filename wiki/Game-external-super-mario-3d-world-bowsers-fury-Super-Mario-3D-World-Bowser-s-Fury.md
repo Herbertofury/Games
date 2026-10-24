@@ -2,7 +2,7 @@
 
 ![Super Mario 3D World + Bowser's Fury official artwork](https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f)
 
-**[Open official page](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Asuper-mario-3d-world-bowsers-fury)** · [Platformers](Platformers)
+**[Open official page](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Asuper-mario-3d-world-bowsers-fury)** · [Platformers](Platformers) · [Roguelites](Roguelites)
 
 Two useful approaches in one edition: tightly authored cooperative 3D courses and a smaller connected playground in Bowser's Fury. A particularly strong comparison point for group-friendly level design.
 
@@ -12,7 +12,7 @@ Two useful approaches in one edition: tightly authored cooperative 3D courses an
 
 | Field | Value |
 |:--|:--|
-| Collection | Co-op & playful chaos |
+| Collection | Co-op & playful chaos, Console party essentials |
 | Recommendation | 10/10 |
 | Community reception | No aggregate rating |
 | Release | 2021-02-12 |
@@ -24,7 +24,7 @@ Two useful approaches in one edition: tightly authored cooperative 3D courses an
 
 ## Official stores and downloads
 
-- [Nintendo: store](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/)
+- [Nintendo: store](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch)
 
 ### Before you play
 
@@ -56,7 +56,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Platformer exact-video verification](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) · checked 2026-10-23T18:32:45.493637+00:00
+- [Local-mode evidence](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) · checked 2026-10-24T07:09:45.958258+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -76,3 +76,22 @@ Two useful approaches in one edition: tightly authored cooperative 3D courses an
 
 [Platformer hub](Platformers) | [Comparative study](Platformers-Study) | [Gem shortlist](Platformers-Gems) | [New and upcoming](Platformers-New-and-Upcoming) | [Media atlas](Platformers-Media) | [Source and coverage audit](Platformers-Sources)
 
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** Nintendo Switch
+
+**Participation:** simultaneous
+
+**Input setup:** Read the game-specific controller requirements.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Super Mario 3D World (Co-op) | 2-4 | See input setup | [Evidence](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) |
+| Bowser's Fury assist (Co-op) | 2 | Second player controls Bowser Jr. in an assist role. | [Evidence](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) |
+
+
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

@@ -23,7 +23,7 @@ Authored courses, compact retro worlds and open movement playgrounds. Check came
 | [Ratchet & Clank: Rift Apart](Game-1895880-Ratchet-Clank-Rift-Apart) | 9/10 | 90.7% / 18,312 Steam reviews | Jul 26, 2023 · Released | [Steam](https://store.steampowered.com/app/1895880/) |
 | [Supraland](Game-813630-Supraland) | 9/10 | 95.2% / 15,509 Steam reviews | Apr 5, 2019 · Released | [Steam](https://store.steampowered.com/app/813630) · [Steam](https://store.steampowered.com/app/1000560) |
 | [Lil Gator Game](Game-1586800-Lil-Gator-Game) | 9/10 | 98.5% / 6,190 Steam reviews | Dec 14, 2022 · Released | [Steam](https://store.steampowered.com/app/1586800/) |
-| [Sackboy™: A Big Adventure](Game-1599660-Sackboy-A-Big-Adventure) | 9/10 | 83.5% / 4,553 Steam reviews | Oct 27, 2022 · Released | [Steam](https://store.steampowered.com/app/1599660/) |
+| [Sackboy™: A Big Adventure](Game-1599660-Sackboy-A-Big-Adventure) | 9/10 | 83.5% / 4,553 Steam reviews | Oct 27, 2022 · Released | [Steam](https://store.steampowered.com/app/1599660) |
 | [Supraland Six Inches Under](Game-1522870-Supraland-Six-Inches-Under) | 9/10 | 96.1% / 4,344 Steam reviews | Jan 14, 2022 · Released | [Steam](https://store.steampowered.com/app/1522870) · [Steam](https://store.steampowered.com/app/1875080) |
 | [Crash Bandicoot™ 4: It’s About Time](Game-1378990-Crash-Bandicoot-4-It-s-About-Time) | 9/10 | 86.4% / 4,326 Steam reviews | Oct 18, 2022 · Released | [Steam](https://store.steampowered.com/app/1378990/) |
 | [Lunistice](Game-1701800-Lunistice) | 9/10 | 95.5% / 1,962 Steam reviews | Nov 10, 2022 · Released | [Steam](https://store.steampowered.com/app/1701800/) |
@@ -36,7 +36,7 @@ Authored courses, compact retro worlds and open movement playgrounds. Check came
 | [Big Hops Together](Game-1221480-Big-Hops-Together) | 9/10 | 90.9% / 594 Steam reviews | Jan 12, 2026 · Released | [Steam](https://store.steampowered.com/app/1221480/) |
 | [Sephonie](Game-1248840-Sephonie) | 9/10 | 89.3% / 308 Steam reviews | Apr 12, 2022 · Released | [Steam](https://store.steampowered.com/app/1248840/) |
 | [ASTRO's Playroom](Game-external-astros-playroom-ASTRO-s-Playroom) | 9/10 | No aggregate rating | 2020-11-12 · Released | [PlayStation](https://www.playstation.com/en-us/games/astros-playroom/) |
-| [Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World](Game-external-kirby-forgotten-land-Kirby-and-the-Forgotten-Land-Switch-2-Edition-Star-Crossed-World) | 9/10 | No aggregate rating | 2025-08-28 · Released | [Nintendo](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/) |
+| [Kirby and the Forgotten Land - Switch 2 Edition + Star-Crossed World](Game-external-kirby-forgotten-land-Kirby-and-the-Forgotten-Land-Switch-2-Edition-Star-Crossed-World) | 9/10 | No aggregate rating | 2025-08-28 · Released | [Nintendo](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2) |
 | [A Story About My Uncle](Game-278360-A-Story-About-My-Uncle) | 8/10 | 91.5% / 29,255 Steam reviews | May 28, 2014 · Released | [Steam](https://store.steampowered.com/app/278360/) |
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](Game-969990-SpongeBob-SquarePants-Battle-for-Bikini-Bottom-Rehydrated) | 8/10 | 94.0% / 18,294 Steam reviews | Jun 23, 2020 · Released | [Steam](https://store.steampowered.com/app/969990/) |
 | [Pumpkin Jack](Game-1186640-Pumpkin-Jack) | 8/10 | 91.0% / 9,964 Steam reviews | Oct 23, 2020 · Released | [Steam](https://store.steampowered.com/app/1186640/) |
@@ -66,7 +66,7 @@ Authored courses, compact retro worlds and open movement playgrounds. Check came
 | [Ruffy and the Riverside](Game-1002260-Ruffy-and-the-Riverside) | 8/10 | 87.8% / 238 Steam reviews | Jun 26, 2025 · Released | [Steam](https://store.steampowered.com/app/1002260/) |
 | [The Smurfs – Dreams](Game-2602020-The-Smurfs-Dreams) | 8/10 | 93.2% / 219 Steam reviews | Nov 7, 2024 · Released | [Steam](https://store.steampowered.com/app/2602020/) |
 | [Castle on the Coast](Game-1341900-Castle-on-the-Coast) | 8/10 | 94.9% / 195 Steam reviews | Dec 2, 2021 · Released | [Steam](https://store.steampowered.com/app/1341900/) |
-| [Frogun Encore](Game-2312160-Frogun-Encore) | 8/10 | 87.0% / 138 Steam reviews | Jun 25, 2024 · Released | [Steam](https://store.steampowered.com/app/2312160/) |
+| [Frogun Encore](Game-2312160-Frogun-Encore) | 8/10 | 87.0% / 138 Steam reviews | Jun 25, 2024 · Released | [Steam](https://store.steampowered.com/app/2312160) · [GOG](https://www.gog.com/en/game/frogun_encore) · [Steam](https://store.steampowered.com/app/2666710) |
 | [Teeto](Game-2783370-Teeto) | 8/10 | 95.5% / 133 Steam reviews | Jul 15, 2026 · Released | [Steam](https://store.steampowered.com/app/2783370/) |
 | [Yooka-Laylee](Game-360830-Yooka-Laylee) | 7/10 | 74.8% / 5,402 Steam reviews | Apr 11, 2017 · Released | [Steam](https://store.steampowered.com/app/360830/) |
 | [Mail Time](Game-1607240-Mail-Time) | 7/10 | 85.1% / 1,706 Steam reviews | Apr 27, 2023 · Released | [Steam](https://store.steampowered.com/app/1607240/) |

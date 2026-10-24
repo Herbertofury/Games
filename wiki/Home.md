@@ -2,6 +2,8 @@
 
 # A home for every great discovery
 
+**NEW: [Couch co-op & party](Couch-Coop-and-Party) | [Two people](Party-Two-Players) | [Four people](Party-Four-Players) | [Five or more](Party-Five-Plus)**
+
 **NEW: [Survival](Survival) | [Minecraft-like worlds](Minecraft-Like-Worlds) | [Survival media](Survival-Media) | [Minecraft-like media](Minecraft-Like-Media)**
 
 **NEW: [Metroidvanias](Metroidvanias) | [Full visual atlas](Metroidvania-Media) | [Creator discoveries](Metroidvania-Underground)**
@@ -10,7 +12,7 @@
 
 **[Open your interactive library](https://herbertofury.github.io/Games/)** · [Real-time strategy](Real-Time-Strategy) · [Roguelites](Roguelites) · [Boomer shooters](Boomer-Shooters) · [Beyond Steam](Beyond-Steam) · [Creator support](Creator-Support)
 
-**1567 unique recommendations.** 198 in Roguelites; 150 in Boomer shooters; 130 in Real-time strategy. 430 in Metroidvanias. 439 in Platformers. Cross-genre games appear in both hubs but exist only once in the master catalog.
+**1853 unique recommendations.** 198 in Roguelites; 150 in Boomer shooters; 130 in Real-time strategy. 430 in Metroidvanias. 439 in Platformers. Cross-genre games appear in both hubs but exist only once in the master catalog.
 
 | Start exploring | What you will find |
 |:--|:--|

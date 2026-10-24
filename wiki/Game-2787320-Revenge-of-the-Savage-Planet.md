@@ -2,13 +2,13 @@
 
 ![Revenge of the Savage Planet official artwork](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2787320/fe9c6fb0fc03a8f6884bca5662bab35f2d6a4824/header.jpg?t=1766069600)
 
-**[Open official page](https://store.steampowered.com/app/2787320/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2787320)** · [Metroidvanias](Metroidvanias)
+**[Open official page](https://store.steampowered.com/app/2787320/)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=steam%3A2787320)** · [Roguelites](Roguelites) · [Roguelites](Roguelites)
 
 Revenge of the Savage Planet is an upbeat, satirical action adventure Sci-Fi. Jump, shoot and collect your way across vibrant alien worlds, uncovering new gear and upgrades, while discovering various hidden secrets.
 
 | Field | Value |
 |:--|:--|
-| Collection | 3D & first-person labyrinths |
+| Collection | 3D & first-person labyrinths, Two-player teamwork adventures |
 | Recommendation | 8/10 |
 | Community reception | 86.4% / 3,661 Steam reviews |
 | Release | May 8, 2025 |
@@ -67,11 +67,13 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 ## Sources and evidence
 
-- [Steam](https://store.steampowered.com/app/2787320/) · checked 2026-10-23T17:11:08.101395+00:00
-- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2787320&l=english&cc=us) · checked 2026-10-23T17:11:08.101395+00:00
-- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2787320%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T17:11:08.101395+00:00
+- [Local-mode evidence](https://store.steampowered.com/app/2787320/) · checked 2026-10-24T07:09:45.958258+00:00
+- [Steam store API](https://store.steampowered.com/api/appdetails?appids=2787320&l=english&cc=us) · checked 2026-10-24T06:04:27.005238+00:00
+- [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2787320%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-24T06:04:27.005238+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
+
+[Also in Metroidvanias](Metroidvanias)
 
 ## Explorer's brief
 
@@ -80,3 +82,21 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 **Store-described mechanics:** Grappling, Underwater traversal
 
 Mechanics above are mentions in the source description, not an exhaustive ability inventory. Genre boundaries are editorial and adjacent formats are labelled.
+
+## Game-night dossier
+
+[Back to couch co-op & party](Couch-Coop-and-Party)
+
+**Edition:** PC edition
+
+**Participation:** simultaneous
+
+**Input setup:** See controller support and exact mode notes.
+
+| Local mode | People | Conditions | Count source |
+|:--|:--|:--|:--|
+| Local co-op (Co-op) | 2 | See input setup | [Evidence](https://store.steampowered.com/app/2787320/) |
+
+Two-person local cooperative configuration. See the exact edition and game-specific setup requirements.
+
+Local capacities are edition- and mode-specific. Team-versus is not a cooperative campaign. Online players, bots, spectators and tournament brackets are not simultaneous couch players. Optional DLC and controller conditions stay visible.

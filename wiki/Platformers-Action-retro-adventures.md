@@ -10,21 +10,21 @@ Modern-retro campaigns, ninja action, character abilities and clearly marked run
 |:--|:--:|:--|:--|:--|
 | [Shovel Knight: Treasure Trove](Game-250760-Shovel-Knight-Treasure-Trove) | 10/10 | 95.5% / 16,962 Steam reviews | Jun 26, 2014 · Released | [Steam](https://store.steampowered.com/app/250760/) |
 | [The Messenger](Game-764790-The-Messenger) | 10/10 | 92.6% / 13,345 Steam reviews | Aug 30, 2018 · Released | [Steam](https://store.steampowered.com/app/764790) · [GOG](https://www.gog.com/en/game/the_messenger) |
-| [Rayman® Legends](Game-242550-Rayman-Legends) | 10/10 | 89.9% / 12,453 Steam reviews | Sep 3, 2013 · Released | [Steam](https://store.steampowered.com/app/242550/) |
-| [Rayman® Origins](Game-207490-Rayman-Origins) | 10/10 | 94.2% / 6,253 Steam reviews | Mar 29, 2012 · Released | [Steam](https://store.steampowered.com/app/207490/) |
+| [Rayman® Legends](Game-242550-Rayman-Legends) | 10/10 | 89.9% / 12,453 Steam reviews | Sep 3, 2013 · Released | [Steam](https://store.steampowered.com/app/242550) |
+| [Rayman® Origins](Game-207490-Rayman-Origins) | 10/10 | 94.2% / 6,253 Steam reviews | Mar 29, 2012 · Released | [Steam](https://store.steampowered.com/app/207490) · [GOG](https://www.gog.com/en/game/rayman_origins) |
 | [Donkey Kong Country: Tropical Freeze](Game-external-dk-tropical-freeze-Donkey-Kong-Country-Tropical-Freeze) | 10/10 | No aggregate rating | 2018-05-04 · Released | [Nintendo](https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/) |
 | [Gravity Circuit](Game-858710-Gravity-Circuit) | 9/10 | 91.3% / 6,469 Steam reviews | Jul 13, 2023 · Released | [Steam](https://store.steampowered.com/app/858710/) |
 | [Mega Man 11](Game-742300-Mega-Man-11) | 9/10 | 89.2% / 5,541 Steam reviews | Oct 2, 2018 · Released | [Steam](https://store.steampowered.com/app/742300/) |
 | [Mega Man Legacy Collection](Game-363440-Mega-Man-Legacy-Collection) | 9/10 | 86.5% / 5,456 Steam reviews | Aug 24, 2015 · Released | [Steam](https://store.steampowered.com/app/363440/) |
 | [SHINOBI: Art of Vengeance](Game-2361770-SHINOBI-Art-of-Vengeance) | 9/10 | 82.3% / 5,015 Steam reviews | Aug 28, 2025 · Released | [Steam](https://store.steampowered.com/app/2361770) · [Steam](https://store.steampowered.com/app/3489510) |
 | [Bloodstained: Curse of the Moon](Game-838310-Bloodstained-Curse-of-the-Moon) | 9/10 | 94.3% / 4,536 Steam reviews | May 24, 2018 · Released | [Steam](https://store.steampowered.com/app/838310/) |
-| [HUNTDOWN](Game-598550-HUNTDOWN) | 9/10 | 94.8% / 4,470 Steam reviews | May 12, 2021 · Released | [Steam](https://store.steampowered.com/app/598550/) |
+| [HUNTDOWN](Game-598550-HUNTDOWN) | 9/10 | 94.8% / 4,470 Steam reviews | May 12, 2021 · Released | [Steam](https://store.steampowered.com/app/598550) · [GOG](https://www.gog.com/en/game/huntdown) |
 | [Valfaris](Game-600130-Valfaris) | 9/10 | 82.2% / 2,866 Steam reviews | Oct 10, 2019 · Released | [Steam](https://store.steampowered.com/app/600130/) |
 | [NINJA GAIDEN: Ragebound](Game-2542120-NINJA-GAIDEN-Ragebound) | 9/10 | 92.3% / 2,749 Steam reviews | Jul 31, 2025 · Released | [Steam](https://store.steampowered.com/app/2542120/) |
 | [Infernax](Game-374190-Infernax) | 9/10 | 93.0% / 2,281 Steam reviews | Feb 14, 2022 · Released | [Steam](https://store.steampowered.com/app/374190) |
 | [Klonoa Phantasy Reverie Series](Game-1730680-Klonoa-Phantasy-Reverie-Series) | 9/10 | 94.3% / 2,276 Steam reviews | Jul 7, 2022 · Released | [Steam](https://store.steampowered.com/app/1730680/) |
 | [Kaze and the Wild Masks](Game-829280-Kaze-and-the-Wild-Masks) | 9/10 | 93.9% / 2,083 Steam reviews | Mar 26, 2021 · Released | [Steam](https://store.steampowered.com/app/829280/) |
-| [Blazing Chrome](Game-609110-Blazing-Chrome) | 9/10 | 87.2% / 1,991 Steam reviews | Jul 11, 2019 · Released | [Steam](https://store.steampowered.com/app/609110/) |
+| [Blazing Chrome](Game-609110-Blazing-Chrome) | 9/10 | 87.2% / 1,991 Steam reviews | Jul 11, 2019 · Released | [Steam](https://store.steampowered.com/app/609110) · [GOG](https://www.gog.com/en/game/blazing_chrome) |
 | [Bloodstained: Curse of the Moon 2](Game-1257360-Bloodstained-Curse-of-the-Moon-2) | 9/10 | 84.5% / 1,647 Steam reviews | Jul 10, 2020 · Released | [Steam](https://store.steampowered.com/app/1257360/) |
 | [Cyber Shadow](Game-861250-Cyber-Shadow) | 9/10 | 83.5% / 1,568 Steam reviews | Jan 26, 2021 · Released | [Steam](https://store.steampowered.com/app/861250/) |
 | [Yooka-Laylee and the Impossible Lair](Game-846870-Yooka-Laylee-and-the-Impossible-Lair) | 9/10 | 80.5% / 1,444 Steam reviews | Oct 8, 2019 · Released | [Steam](https://store.steampowered.com/app/846870/) |
@@ -40,7 +40,7 @@ Modern-retro campaigns, ninja action, character abilities and clearly marked run
 | [Mega Man Legacy Collection 2](Game-495050-Mega-Man-Legacy-Collection-2) | 8/10 | 84.8% / 1,885 Steam reviews | Aug 8, 2017 · Released | [Steam](https://store.steampowered.com/app/495050/) |
 | [Azure Striker Gunvolt](Game-388800-Azure-Striker-Gunvolt) | 8/10 | 84.9% / 1,764 Steam reviews | Aug 28, 2015 · Released | [Steam](https://store.steampowered.com/app/388800/) |
 | [Odallus: The Dark Call](Game-319480-Odallus-The-Dark-Call) | 8/10 | 88.4% / 1,365 Steam reviews | Jul 15, 2015 · Released | [Steam](https://store.steampowered.com/app/319480) · [itch.io](https://joymasher.itch.io/odallus) |
-| [Iron Meat](Game-1157740-Iron-Meat) | 8/10 | 96.4% / 1,122 Steam reviews | Sep 25, 2024 · Released | [Steam](https://store.steampowered.com/app/1157740/) |
+| [Iron Meat](Game-1157740-Iron-Meat) | 8/10 | 96.4% / 1,122 Steam reviews | Sep 25, 2024 · Released | [Steam](https://store.steampowered.com/app/1157740) · [GOG](https://www.gog.com/en/game/iron_meat) · [itch.io](https://retroware.itch.io/iron-meat) · [itch.io](https://ironmeat.itch.io/iron-meat) · [Steam](https://store.steampowered.com/app/1323260) |
 | [Tomba! Special Edition](Game-2851150-Tomba-Special-Edition) | 8/10 | 88.7% / 802 Steam reviews | Jul 31, 2024 · Released | [Steam](https://store.steampowered.com/app/2851150/) |
 | [Gunvolt Chronicles: Luminous Avenger iX](Game-1085180-Gunvolt-Chronicles-Luminous-Avenger-iX) | 8/10 | 90.2% / 797 Steam reviews | Sep 25, 2019 · Released | [Steam](https://store.steampowered.com/app/1085180/) |
 | [Flynn: Son of Crimson](Game-737520-Flynn-Son-of-Crimson) | 8/10 | 85.4% / 774 Steam reviews | Sep 15, 2021 · Released | [Steam](https://store.steampowered.com/app/737520/) |
