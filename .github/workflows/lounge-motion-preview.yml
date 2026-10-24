@@ -42,16 +42,16 @@ jobs:
               p.keyboard.down('d' if i%2==0 else 'a');p.keyboard.down('w' if i<2 else 's');p.keyboard.press('Space');p.wait_for_timeout(850);p.keyboard.up('d' if i%2==0 else 'a');p.keyboard.up('w' if i<2 else 's');p.keyboard.press('Space');p.wait_for_timeout(550)
             p.locator('[data-arcade="chaos"]').click();p.locator('#snackball').focus();p.keyboard.down('a');p.keyboard.press('Space');p.wait_for_timeout(1400);p.keyboard.up('a')
             report['gameplay']=p.evaluate('DesktopArcade.state');p.screenshot(path=str(out/'arcade-preview.png'))
-            end=time.monotonic()-start;video=p.video;ctx.close();video.save_as(str(out/'Lounge-motion.webm'));browser.close()
+            end=time.monotonic()-start;video=p.video;ctx.close();video.save_as(str(out/'Games-Lounge-preview.webm'));browser.close()
           assert not report['errors'],report['errors']
-          subprocess.run(['ffmpeg','-y','-loglevel','error','-ss',str(max(0,content_start-0.4)),'-i',str(out/'Lounge-motion.webm'),'-t',str(end-content_start+0.4),'-an','-c:v','libx264','-preset','fast','-crf','22','-pix_fmt','yuv420p','-movflags','+faststart',str(out/'Games-Lounge-preview.mp4')],check=True)
-          report['previewBytes']=(out/'Games-Lounge-preview.mp4').stat().st_size;report['previewSha256']=hashlib.sha256((out/'Games-Lounge-preview.mp4').read_bytes()).hexdigest()
+          report.update(contentStartSeconds=max(0,content_start-0.4),contentDurationSeconds=end-content_start+0.4)
+          report['previewBytes']=(out/'Games-Lounge-preview.webm').stat().st_size;report['previewSha256']=hashlib.sha256((out/'Games-Lounge-preview.webm').read_bytes()).hexdigest()
           (out/'motion-preview.json').write_text(json.dumps(report,indent=2)+'\n');print(json.dumps(report,indent=2))
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: games-lounge-motion-preview
           path: |
-            qa/motion-preview/Games-Lounge-preview.mp4
+            qa/motion-preview/Games-Lounge-preview.webm
             qa/motion-preview/arcade-preview.png
             qa/motion-preview/motion-preview.json
