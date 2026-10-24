@@ -1,9 +1,14 @@
 name: Publish library
 on:
   workflow_dispatch:
+    inputs:
+      refresh_creator_media:
+        description: Explicitly refresh creator-media sources before building
+        type: boolean
+        default: false
   push:
     branches: [main]
-    paths: ['data/platformers-*','scripts/platformer*.py','scripts/collect_platformers.py','docs/PLATFORMERS-STUDY.md','site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','scripts/source_links.py','scripts/curate_rts.py','scripts/enrich_rts.py','scripts/collect_rts.py','data/rts-*.json','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json','data/media-completion.json','data/storefront-discovery.json','data/source-editions.json','scripts/metroidvania_model.py','scripts/metroidvania_wiki.py','scripts/metroidvania_qa.py','data/metroidvania-curation.json','data/metroidvania-media.json','data/metroidvania-review-decisions.json','data/metroidvania-storefronts.json','scripts/survival_model.py','scripts/survival_wiki.py','scripts/survival_qa.py','scripts/survival_release_notes.py','scripts/hub_bootstrap_qa.py','data/survival-steam.json','data/survival-external.json','data/survival-curation.json','data/survival-media.json','data/survival-storefronts.json','scripts/party_model.py','scripts/party_wiki.py','scripts/party_qa.py','scripts/party_release_notes.py','data/party-*.json','.github/workflows/publish.yml']
+    paths: ['data/platformers-*','scripts/platformer*.py','scripts/collect_platformers.py','docs/PLATFORMERS-STUDY.md','site/**','scripts/build.py','scripts/catalog_model.py','scripts/wiki_builder.py','scripts/publish_wiki.py','scripts/media_qa.py','scripts/reconcile.py','scripts/collect_external_media.py','scripts/reconcile_shooter_sources.py','scripts/source_links.py','scripts/curate_rts.py','scripts/enrich_rts.py','scripts/collect_rts.py','data/rts-*.json','tests/**','docs/UPDATING.md','data/shooters-curation.json','data/shooters-external.json','data/media-completion.json','data/storefront-discovery.json','data/source-editions.json','scripts/metroidvania_model.py','scripts/metroidvania_wiki.py','scripts/metroidvania_qa.py','data/metroidvania-curation.json','data/metroidvania-media.json','data/metroidvania-review-decisions.json','data/metroidvania-storefronts.json','scripts/survival_model.py','scripts/survival_wiki.py','scripts/survival_qa.py','scripts/survival_release_notes.py','scripts/hub_bootstrap_qa.py','data/survival-steam.json','data/survival-external.json','data/survival-curation.json','data/survival-media.json','data/survival-storefronts.json','scripts/party_model.py','scripts/party_wiki.py','scripts/party_qa.py','scripts/party_release_notes.py','scripts/lounge_qa.py','scripts/lounge_release_notes.py','scripts/lounge_wiki.py','docs/LOUNGE.md','data/party-*.json','.github/workflows/publish.yml']
   workflow_run:
     workflows: ['Refresh Steam catalog','Add game recommendation','Install library source','Expand shooter library','Refresh shooter discoveries','Refresh RTS discoveries','Enrich RTS collection','Refresh Metroidvania discoveries','Enrich Metroidvania collection','Finalize Metroidvania source','Collect survival sources','Enrich survival collection','Refresh couch party discoveries','Install party hub']
     types: [completed]
@@ -38,15 +43,18 @@ jobs:
           python3 -m pip install -r requirements-dev.txt
           python3 scripts/reconcile.py
           python3 scripts/reconcile_shooter_sources.py
-          python3 scripts/collect_external_media.py
+          if [ "${{ inputs.refresh_creator_media }}" = "true" ]; then python3 scripts/collect_external_media.py; fi
           python3 scripts/build.py
           python3 scripts/survival_release_notes.py
           python3 scripts/party_release_notes.py
+          python3 scripts/lounge_release_notes.py
           python3 scripts/build.py
           node --check site/app.js
           node --check site/platformers.js
           node --check site/survival.js
           node --check site/party.js
+          node --check site/lounge.js
+          node --check site/arcade.js
           mkdir -p qa
           python3 -m unittest discover -s tests -p 'test_*.py' 2>&1 | tee qa/unit-tests.log
           python3 -c 'import json,re; s=open("qa/unit-tests.log").read();m=re.search(r"Ran (\d+) tests",s);json.dump({"passed":True,"tests":int(m[1]) if m else None},open("qa/unit-tests.json","w"),indent=2)'
@@ -58,6 +66,8 @@ jobs:
           else
             python3 -m playwright install --with-deps chromium
           fi
+      - name: Verify the animated lounge and actual desktop arcade
+        run: python3 scripts/lounge_qa.py
       - name: Verify party headcounts, all new media and every prior startup path
         run: |
           python3 scripts/party_qa.py
@@ -109,15 +119,16 @@ jobs:
           cp qa/survival-*.png docs/qa/
           cp qa/minecraft-like-*.png docs/qa/
           cp qa/party-*.png docs/qa/
+          cp qa/lounge-*.png docs/qa/
           TESTED_HTML_SHA=$(sha256sum dist/index.html | cut -d' ' -f1)
           python3 scripts/build.py
           test "$TESTED_HTML_SHA" = "$(sha256sum dist/index.html | cut -d' ' -f1)"
           git config user.name 'Games catalog bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add dist wiki data docs/RELEASE.md docs/SURVIVAL.md docs/PARTY.md
+          git add dist wiki data docs/RELEASE.md docs/SURVIVAL.md docs/PARTY.md docs/LOUNGE.md
           git add -f docs/qa
           if ! git diff --cached --quiet; then
-            git commit -m 'Publish the verified couch party lobby, exact headcount guides and complete-library runtime evidence'
+            git commit -m 'Publish the Steam-inspired lounge, playable desktop arcade and complete-library runtime evidence'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
@@ -148,6 +159,7 @@ jobs:
             docs/METROIDVANIA.md
             docs/SURVIVAL.md
             docs/PARTY.md
+            docs/LOUNGE.md
             data/party-study-report.json
             data/party-reconciliation.json
   deploy:
