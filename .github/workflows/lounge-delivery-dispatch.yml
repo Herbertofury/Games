@@ -1,0 +1,21 @@
+name: Dispatch final lounge delivery
+on:
+  push:
+    paths: ['.github/workflows/lounge-delivery-dispatch.yml']
+permissions:
+  contents: read
+  actions: write
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: Herbertofury/Games
+    steps:
+      - name: Require the completed exact release before the one-time packaging dispatch
+        run: |
+          gh api repos/$GH_REPO/actions/runs/40132991129 > release-run.json
+          python3 -c 'import json;d=json.load(open("release-run.json"));assert d["conclusion"]=="success"'
+          gh release view catalog-39 --json tagName
+          gh workflow run lounge-delivery.yml --ref main
