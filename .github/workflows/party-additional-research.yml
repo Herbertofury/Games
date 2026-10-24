@@ -1,0 +1,42 @@
+name: Complete party discoveries
+on:
+  workflow_dispatch:
+  push:
+    paths: ['data/party-additions.json','scripts/party_additional_research.py','.github/workflows/party-additional-research.yml']
+permissions:
+  contents: write
+concurrency:
+  group: party-additional-research
+  cancel-in-progress: false
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - run: python3 scripts/party_additional_research.py
+      - name: Preserve additional exact identities and video candidates
+        if: always()
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/party-extra* data/party-video-candidates.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record newest party additions, exact Nintendo videos, and creator-video candidates'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: party-additional-research
+          path: |
+            data/party-extra*
+            data/party-video-candidates.json
+            scripts/party_additional_research.py
+            data/party-additions.json
+            qa/platformer-video-resolution/
