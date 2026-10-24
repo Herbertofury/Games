@@ -1,0 +1,36 @@
+name: Complete party media
+on:
+  workflow_dispatch:
+  push:
+    paths: ['scripts/party_finish_media.py','.github/workflows/party-complete-media.yml']
+permissions:
+  contents: write
+jobs:
+  media:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - run: python3 scripts/party_finish_media.py
+      - name: Checkpoint source-bound media assets and provenance
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/party-media.json data/party-media-receipt.json media/party
+          if ! git diff --cached --quiet; then
+            git commit -m 'Complete exact party trailers, console gallery footage and credited creator motion'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: party-complete-media
+          path: |
+            data/party-media*
+            media/party/
+            scripts/party_finish_media.py
