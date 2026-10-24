@@ -2,6 +2,8 @@
 
 # A home for every great discovery
 
+**[The animated Games Lounge + desktop arcade](Games-Lounge)**
+
 **NEW: [Couch co-op & party](Couch-Coop-and-Party) | [Two people](Party-Two-Players) | [Four people](Party-Four-Players) | [Five or more](Party-Five-Plus)**
 
 **NEW: [Survival](Survival) | [Minecraft-like worlds](Minecraft-Like-Worlds) | [Survival media](Survival-Media) | [Minecraft-like media](Minecraft-Like-Media)**

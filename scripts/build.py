@@ -18,8 +18,8 @@ def main():
     out=ROOT/'dist';out.mkdir(exist_ok=True);wiki=ROOT/'wiki';wiki.mkdir(exist_ok=True);assets=out/'assets';assets.mkdir(exist_ok=True)
     def source(name):return (ROOT/'site'/name).read_text()
     data=json.dumps(catalog,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c').replace('\u2028','\\u2028').replace('\u2029','\\u2029')
-    app=(source('app.js')+'\n'+source('platformers.js')+'\n'+source('survival.js')+'\n'+source('party.js')).replace('</script','<\\/script')
-    page=source('index.html').replace('/*__CSS__*/',source('styles.css')+'\n'+source('platformers.css')+'\n'+source('survival.css')+'\n'+source('party.css')).replace('/*__DATA__*/','window.GAMES_CATALOG='+data+';').replace('/*__APP__*/',app)
+    app=(source('app.js')+'\n'+source('platformers.js')+'\n'+source('survival.js')+'\n'+source('party.js')+'\n'+source('lounge.js')+'\n'+source('arcade.js')).replace('</script','<\\/script')
+    page=source('index.html').replace('/*__CSS__*/',source('styles.css')+'\n'+source('platformers.css')+'\n'+source('survival.css')+'\n'+source('party.css')+'\n'+source('lounge.css')).replace('/*__DATA__*/','window.GAMES_CATALOG='+data+';').replace('/*__APP__*/',app)
     assert not any(x in page for x in ['/*__CSS__*/','/*__DATA__*/','/*__APP__*/'])
     (out/'index.html').write_text(page);(out/'.nojekyll').write_text('');shutil.copyfile(ROOT/'site/sw.js',out/'sw.js');shutil.copyfile(path,out/'catalog.json')
     verified=[g for g in games if g.get('verification')=='verified'];unresolved=[g for g in games if g.get('verification')!='verified'];collections=sorted({g['collection'] for g in games})
@@ -32,7 +32,9 @@ def main():
     build_survival_wiki(ROOT,catalog)
     from party_wiki import build as build_party_wiki
     build_party_wiki(ROOT,catalog)
-    manifest={'schemaVersion':1,'version':'1.6.0','builtAt':dt.datetime.now(dt.timezone.utc).isoformat(),'sourceRepository':REPO,'sourceRevision':__import__('os').environ.get('GITHUB_SHA'),'sourceWiki':REPO+'/wiki','datasetHash':catalog.get('build',{}).get('datasetHash'),'records':len(games),'verified':len(verified),'unresolved':len(unresolved),'trailers':trailer_count,'collections':collections,'hubs':catalog['build']['hubCounts'],'platforms':sorted({x['provider'] for g in games for x in g.get('storefronts',[])}),'html':{'bytes':(out/'index.html').stat().st_size,'sha256':digest(out/'index.html')},'sourceFiles':{str(p.relative_to(ROOT)):digest(p) for d in ['site','scripts','tests','data'] for p in (ROOT/d).rglob('*') if p.is_file() and '__pycache__' not in str(p) and p.suffix not in ['.png','.jpg']}}
+    from lounge_wiki import build as build_lounge_wiki
+    build_lounge_wiki(ROOT,catalog)
+    manifest={'schemaVersion':1,'version':'2.0.0','builtAt':dt.datetime.now(dt.timezone.utc).isoformat(),'sourceRepository':REPO,'sourceRevision':__import__('os').environ.get('GITHUB_SHA'),'sourceWiki':REPO+'/wiki','datasetHash':catalog.get('build',{}).get('datasetHash'),'records':len(games),'verified':len(verified),'unresolved':len(unresolved),'trailers':trailer_count,'collections':collections,'hubs':catalog['build']['hubCounts'],'platforms':sorted({x['provider'] for g in games for x in g.get('storefronts',[])}),'html':{'bytes':(out/'index.html').stat().st_size,'sha256':digest(out/'index.html')},'sourceFiles':{str(p.relative_to(ROOT)):digest(p) for d in ['site','scripts','tests','data'] for p in (ROOT/d).rglob('*') if p.is_file() and '__pycache__' not in str(p) and p.suffix not in ['.png','.jpg']}}
     (out/'manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
     release=ROOT/'release';release.mkdir(exist_ok=True);shutil.copyfile(out/'index.html',release/'Games - Explorer.html')
     with zipfile.ZipFile(release/'Games - Library.zip','w',zipfile.ZIP_DEFLATED,9) as z:

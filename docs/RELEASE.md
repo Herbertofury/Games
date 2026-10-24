@@ -1,17 +1,13 @@
-# Games: one more round
+# Games Lounge 2.0
 
-The couch co-op and party hub contains 339 unique entries in 23 collections, in the shared library of 1853 records. All previous 1,567 identities and seven earlier genre memberships are preserved. Cross-genre games are not counted twice globally.
+A Steam-inspired, animated library and a delightfully silly original desktop arcade. The same 1853 canonical entries, source links, trailers, player counts and genre memberships are preserved.
 
-The collection is centered on Disc Jam, Lethal League and Blaze, Thunder Rally, Hyper Jam, and Boomerang Fu. Competitive arena knockouts, ricochet duels, sports, racing and bigger-couch chaos are distinguished from two-person adventures, cooperative campaigns, and phone-controlled parties.
+Cinematic spotlights, living background, hover screenshot previews, personal capsule shelves, complete sidebar title browser, history controls, right-click menus, game-detail section navigation, Big Picture, full screen and a filter-aware wildcard picker. All original library filters, table/card/gallery views, comparisons, notes, ratings, favorites and exports remain available.
 
-The party lobby combines exact headcount, cooperative or competitive mode, simultaneous/phone/hotseat/asymmetric setup, PC/console edition and additional-DLC conditions. The selected count must fit the same selected mode. A four-player versus limit never becomes a four-player cooperative campaign. Bots, spectators, online limits and tournament brackets are not couch participants.
+Snackball is an actual local Canvas game: move, collect stars, throw a returning donut, bonk bots, play a 60-active-second round and save a best score. Includes a draggable/resizable desktop window, touch controls, pause/resume, and optional silly physics. The passive scene never intercepts library clicks.
 
-Every published entry has source-grounded artwork, supported embedded-video metadata and confirmed distribution links. Creator animation conversions and community footage retain their provenance. The native wiki renders artwork and links exact videos; the portable HTML provides in-page players.
+Three atmosphere palettes, system/full/reduced/off motion, focus mode, independent background/hover/spotlight controls, and optional quiet sound effects. Sound starts off. Scene loops stop for hidden tabs or dialogs, and the game pauses on focus loss. No new runtime dependency, account integration, scheduled scraper or generated replacement artwork.
 
-324 entries have source-confirmed numerical local capacities. The 15 remaining entries have confirmed local support but visibly unconfirmed numerical limits, and are excluded from exact-number filters. Some games have one known mode and a separately unconfirmed secondary mode; their details retain that distinction. Unknown does not mean zero, or an invented four-player limit.
+The complete catalog remains in the DOM, not virtualized. Cached number formatting removes repeated formatter construction with identical output. Existing personal game storage is unchanged; lounge preferences and arcade best score use separate namespaced device-local keys.
 
-Mode-specific capacity is visible on cards, in tables, comparisons and full dossiers, and in CSV/JSON exports. Saved filters, personal ratings, notes, backlog and favorites retain games.library.v1. No scheduled crawler, synthesized artwork or viewport culling was introduced.
-
-The publication gate retains every earlier source/unit and browser regression and adds exhaustive party dossier/source-button and primary-image checks, mode-intersection tests, real persistence, mobile layouts and actual selected video playback. Successful video probes are not a claim that every external video was watched end to end. Store coverage is the confirmed set, not every worldwide retailer.
-
-Wiki pages: Couch-Coop-and-Party, Party-Media, Party-Player-Guide, Party-Two-Players, Party-Four-Players and Party-Five-Plus. GitHub Pages is a separate repository hosting prerequisite; native wiki and portable HTML do not depend on it.
+Open the portable HTML in a browser. The native wiki describes the lounge and preserves all game pages, while animation and the arcade live in the HTML. GitHub Pages remains a separate hosting prerequisite. Verification artifacts report the tests that actually completed; this release description is not itself a test result.

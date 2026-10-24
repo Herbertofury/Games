@@ -15,7 +15,8 @@ for(const k of ['notes','statuses','ratings'])if(!prefs[k]||typeof prefs[k]!=='o
 let games=[],byId=new Map(),filtered=[],compare=new Set(),currentGame=null,mediaIndex=0,mediaMode='trailer',hls=null,toastTimer=0,modalOrigin=null;
 function persist(){try{localStorage.setItem(KEY,JSON.stringify({...prefs,filters:state}));storageOK=true;}catch{storageOK=false;}}
 function number(n){return Number(n||0).toLocaleString('en-US');}
-function compact(n){return new Intl.NumberFormat('en-US',{notation:'compact',maximumFractionDigits:1}).format(n||0);}
+const compactNumber=new Intl.NumberFormat('en-US',{notation:'compact',maximumFractionDigits:1});
+function compact(n){return compactNumber.format(n||0);}
 function activeGameScope(g){return state.hub==='Metroidvanias'?(g.metroidvaniaInfo?.structure||g.genreScope):g.genreScope;}
 function activeGameCollection(g){return state.hub==='Metroidvanias'?(g.metroidvaniaCollection||g.collection):g.collection;}
 function activeGameFit(g){return state.hub==='Metroidvanias'&&Object.prototype.hasOwnProperty.call(g,'metroidvaniaFit')?g.metroidvaniaFit:g.fit;}

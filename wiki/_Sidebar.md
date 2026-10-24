@@ -3,6 +3,7 @@
 [Open interactive library](https://herbertofury.github.io/Games/)
 
 - [Home](Home)
+- [Animated lounge & arcade](Games-Lounge)
 - [Couch co-op & party](Couch-Coop-and-Party)
 - [Party: full media atlas](Party-Media)
 - [Two people](Party-Two-Players)

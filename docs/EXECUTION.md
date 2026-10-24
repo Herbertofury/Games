@@ -197,3 +197,19 @@ The 339-entry party catalog and all previous records remain intact. The comparis
 ## Current-edition party source correction
 
 Samurai GUNN 2 current official Steam roadmap confirms its February 2026 engine rebuild removed Adventure mode. Retain its 2021 original release and current-versus scope; local 1v1 is confirmed while the larger free-for-all numerical limit remains explicitly unknown. The exact page hash and model regression are retained. Previous complete party UI/media gate passed in run 40111783032; the normal full publication gate validates the corrected final dataset.
+
+## Games Lounge 2.0, October 24, 2026
+
+Acceptance: redesign the existing library with Steam-inspired animated chrome, richer browsing and a genuine playful desktop-background game. Keep all 1,853 catalog identities, eight hubs, exact source links, player-count distinctions and personal storage. Do not substitute fake account activity, install state or generated game artwork.
+
+Baseline: catalog-36; canonical main `7f14802f03d6f5f4467bd143577a91d17a6defc6`; dataset `b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb`. Drive backup ID remains `12wRptA5HBFWZALjgM5mBBxqE2-X-yzIR`.
+
+Implemented: `site/lounge.js`, `site/lounge.css`, `site/arcade.js`; source-matched build, wiki guide, release notes and acceptance tests. Cinematic spotlights, personal shelves, all-title sidebar, actual view history, right-click actions, detail anchors, wildcard picker, full screen, big-picture navigation, motion/scene/hover/sound controls. Snackball has real movement, collision scoring, returning projectiles, bot opponents, rounds, best-score persistence, touch input and window dragging. Ambient rendering does not intercept library input.
+
+Targeted proof: eight source tests passed; inline production-DOM input smoke exercised actual movement, projectile input, score, pause and no-animation controls with no uncaught errors. Local Chromium blocks navigation with ERR_BLOCKED_BY_ADMINISTRATOR; do not loop the same route or claim local inline testing proves origin storage/live images. Full-suite local attempt exceeded the tool runtime before completing; no pass is claimed. Use existing GitHub Actions system Chrome for the final gate.
+
+Bounded performance pass: reused Intl.NumberFormat replaces one construction per compact-number call with identical output; redundant final lounge bootstrap render removed without changing the full DOM. Compare exact output and measure on the same runner. Canvas loops use timestamp deltas and stop for hidden pages/dialogs; no source/list virtualization.
+
+Challengers inspected: official Steam Library reference, Web Animations API, requestAnimationFrame, PixiJS application/ticker. Native browser APIs selected for a self-contained zero-CDN toy and existing vanilla catalog. No engine migration or rewrite of canonical data.
+
+Exact next action: apply the integrity-checked lounge source package, checkpoint after source/unit validation, then run `scripts/lounge_qa.py` and the complete existing publication matrix. Inspect desktop/mobile/arcade evidence; resolve failures; publish real wiki and release; update and hash-verify the same Drive file. Required gates are in progress, not declared complete here.
