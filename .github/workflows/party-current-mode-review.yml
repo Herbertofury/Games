@@ -1,0 +1,89 @@
+name: Correct current party modes
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/party-current-mode-review.yml']
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: party-current-mode-review
+  cancel-in-progress: false
+jobs:
+  correct:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Apply the single reviewed current-edition correction
+        shell: python
+        run: |
+          import datetime,hashlib,json,pathlib,re,sys
+          from bs4 import BeautifulSoup
+          sys.path.insert(0,'scripts')
+          import discover_storefronts as net
+          from party_model import integrate
+          root=pathlib.Path.cwd();now=datetime.datetime.now(datetime.timezone.utc).isoformat()
+          ident='steam:1397790';url='https://store.steampowered.com/app/1397790/Samurai_GUNN_2/'
+          raw,final,_=net.read(url);text=BeautifulSoup(raw,'html.parser').get_text(' ',strip=True)
+          assert 'removed Adventure mode' in text,'Publisher mode statement changed; review before writing'
+          assert re.search(r'1v1\s+and\s+Free.for.All\s+Versus\s*\(Local\)',text,re.I),'Local versus roadmap statement missing'
+          p=root/'data/party-curation.json';cur=json.loads(p.read_text());row=cur['overrides'][ident];info=row['partyInfo']
+          before=json.loads(json.dumps(info))
+          template=next(m for m in info['modesDetail'] if m['type']=='Versus')
+          info['modesDetail']=[
+            dict(template,name='Local 1v1',counts=[2],sourceUrl=url,evidenceBasis='Current official Steam roadmap explicitly lists local 1v1 as implemented.',notes='Current custom-engine version relaunched in February 2026.'),
+            dict(template,name='Local free-for-all',counts=[],sourceUrl=url,evidenceBasis='The current official roadmap confirms local free-for-all, but does not specify its numerical ceiling.',notes='Do not infer the new-engine limit from older versions or user-defined tags.')
+          ]
+          info['notes']='The February 2026 custom-engine rebuild removed Adventure mode. Local 1v1 and free-for-all are implemented; 2v2 remains planned in the current official roadmap. This is not a current cooperative-campaign recommendation.'
+          info['checkedAt']=now;cur['generatedAt']=now
+          row.setdefault('sources',[]).append({'provider':'Official current-mode roadmap','url':url,'kind':'source','verified':True,'lastChecked':now})
+          row['sources']=list({s['url']:s for s in row['sources']}.values())
+          p.write_text(json.dumps(cur,ensure_ascii=False,indent=2,sort_keys=True)+'\n')
+          p=root/'data/party-reconciliation.json';rec=json.loads(p.read_text());rec['unresolved']=[x for x in rec['unresolved'] if x.get('id')!=ident]
+          rec['unresolved'].append({'id':ident,'candidate':'Samurai GUNN 2','mode':'Local free-for-all','state':'unresolved-active','reason':'Current 1v1 is explicitly implemented. The larger free-for-all numerical ceiling is not stated. Adventure was removed in February 2026.','sourceUrl':url})
+          p.write_text(json.dumps(rec,ensure_ascii=False,indent=2,sort_keys=True)+'\n')
+          evidence={'checkedAt':now,'id':ident,'sourceUrl':final,'pageSha256':hashlib.sha256(raw.encode()).hexdigest(),'removedAdventure':True,'local1v1Implemented':True,'localFreeForAllImplemented':True,'largerFreeForAllCapacity':'unconfirmed','team2v2':'planned','beforeModes':before['modesDetail'],'afterModes':info['modesDetail']}
+          (root/'data/party-current-mode-review.json').write_text(json.dumps(evidence,indent=2)+'\n')
+          games={};integrate(root,games);g=games[ident]
+          assert g['partyInfo']['modes']==['Versus'] and g['partyInfo']['playerCounts']==[2]
+          assert not g['partyInfo']['coopCounts'] and len(g['partyInfo']['modesDetail'])==2
+          assert g['originalReleaseYear']==2021 and 'Recent couch release' not in g['tags']
+          print('Current-edition model proof passed: known 1v1, unknown FFA ceiling, no removed cooperative mode.')
+          test='''import json,pathlib,unittest
+          R=pathlib.Path(__file__).resolve().parents[1]
+          class PartyCurrentModeTests(unittest.TestCase):
+           def test_current_samurai_gunn_relaunch_is_not_cooperative(self):
+            c=json.loads((R/'data/catalog.json').read_text());g=next(g for g in c['items'] if g['id']=='steam:1397790');p=g['partyInfo']
+            self.assertEqual(p['modes'],['Versus']);self.assertEqual(p['coopCounts'],[]);self.assertEqual(p['playerCounts'],[2])
+            self.assertEqual(len(p['modesDetail']),2);self.assertTrue(any(m['name']=='Local free-for-all' and not m['counts'] for m in p['modesDetail']))
+            self.assertIn('removed Adventure',p['notes']);self.assertEqual(g['originalReleaseYear'],2021);self.assertNotIn('Recent couch release',g['tags'])
+            evidence=json.loads((R/'data/party-current-mode-review.json').read_text());self.assertTrue(evidence['removedAdventure']);self.assertTrue(evidence['local1v1Implemented'])
+          if __name__=='__main__':unittest.main()
+          '''
+          (root/'tests/test_party_current_modes.py').write_text(test)
+          p=root/'docs/EXECUTION.md';text=p.read_text();marker='## Current-edition party source correction'
+          if marker not in text:p.write_text(text+'\n'+marker+'\n\nSamurai GUNN 2 current official Steam roadmap confirms its February 2026 engine rebuild removed Adventure mode. Retain its 2021 original release and current-versus scope; local 1v1 is confirmed while the larger free-for-all numerical limit remains explicitly unknown. The exact page hash and model regression are retained. Previous complete party UI/media gate passed in run 40111783032; the normal full publication gate validates the corrected final dataset.\n')
+      - name: Checkpoint the corrected source without replacing any other game
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/party-curation.json data/party-reconciliation.json data/party-current-mode-review.json tests/test_party_current_modes.py docs/EXECUTION.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Correct the current Samurai GUNN 2 versus-only edition and preserve its unknown FFA ceiling'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Validate and publish the corrected final dataset
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publish.yml --ref main
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: party-current-mode-proof
+          path: data/party-current-mode-review.json
