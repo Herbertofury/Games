@@ -1,0 +1,100 @@
+name: Install party hub
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/install-party-hub.yml']
+permissions:
+  contents: write
+concurrency:
+  group: party-install
+  cancel-in-progress: false
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Verify transfer and install only the tested source delta
+        shell: python
+        run: |
+          import base64,copy,hashlib,json,lzma,pathlib,subprocess,tempfile
+          root=pathlib.Path.cwd()
+          encoded=''.join((root/f'.bootstrap/party-finish-{i}.b64').read_text().strip() for i in range(6))
+          raw=base64.b64decode(encoded,validate=True)
+          assert len(raw)==53200
+          assert hashlib.sha256(raw).hexdigest()=='6c142b2e4ea94006e005796839cce39abf9b02fa0b530503f3aa7cebb6f4aba4','Transfer hash mismatch; no source files changed'
+          package=json.loads(lzma.decompress(raw))
+          allowed={'scripts/party_model.py','scripts/party_wiki.py','scripts/party_qa.py','scripts/party_release_notes.py','scripts/catalog_model.py','scripts/build.py','site/party.js','site/party.css','site/app.js','tests/test_party.py','tests/test_platformers.py','data/party-curation.json','data/party-reconciliation.json','data/party-protected.json','data/party-final-count-review.json','docs/PARTY.md','docs/RELEASE.md','docs/EXECUTION.md','docs/UPDATING.md'}
+          assert set(package['expected'])==allowed and set(package['after'])==allowed
+          def digest(name):
+            p=root/name
+            return hashlib.sha256(p.read_bytes()).hexdigest() if p.exists() else None
+          current={n:digest(n) for n in package['expected']}
+          if current!=package['after']:
+            for n,value in package['expected'].items():assert current[n]==value,('Source changed',n,current[n],value)
+            for n,value in package['dependencies'].items():assert digest(n)==value,('Source dependency changed',n)
+            for n in package['after']:
+              p=pathlib.PurePosixPath(n);assert not p.is_absolute() and '..' not in p.parts
+            with tempfile.NamedTemporaryFile(mode='w',suffix='.patch') as p:
+              p.write(package['patch']);p.flush()
+              subprocess.run(['git','apply','--check',p.name],check=True)
+              subprocess.run(['git','apply',p.name],check=True)
+            source_names=['party-steam.json','party-extra.json','party-recovered.json','party-external.json']
+            originals={g['id']:g for n in source_names for g in json.loads((root/'data'/n).read_text())['items']}
+            def update(obj,change):
+              if 'value' in change:return copy.deepcopy(change['value'])
+              for k in change['delete']:obj.pop(k,None)
+              obj.update(copy.deepcopy(change['set']))
+              for k,ch in change['children'].items():obj[k]=update(obj[k],ch)
+              return obj
+            c=package['curation']
+            c['overrides']={ident:update({'partyInfo':copy.deepcopy(originals[ident].get('partyInfo',{})),'sources':[]},delta) for ident,delta in package['curationDeltas'].items()}
+            (root/'data/party-curation.json').write_text(json.dumps(c,ensure_ascii=False,indent=2,sort_keys=True)+'\n')
+            catalog=json.loads((root/'data/catalog.json').read_text())
+            protected={'ids':[g['id'] for g in catalog['items']],'hubs':{g['id']:g['hubs'] for g in catalog['items']}}
+            (root/'data/party-protected.json').write_text(json.dumps(protected,ensure_ascii=False,indent=2,sort_keys=True)+'\n')
+            for n,value in package['after'].items():assert digest(n)==value,('Installed content mismatch',n,digest(n),value)
+          pathlib.Path('qa').mkdir(exist_ok=True)
+          pathlib.Path('qa/party-install.json').write_text(json.dumps({'passed':True,'sourceFiles':len(allowed),'transferSha256':hashlib.sha256(raw).hexdigest(),'sourceHashes':package['after']},indent=2)+'\n')
+      - name: Build and verify the coherent source checkpoint
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          python3 -m compileall -q scripts tests
+          node --check site/app.js
+          node --check site/party.js
+          python3 scripts/build.py
+          python3 scripts/party_release_notes.py
+          python3 scripts/build.py
+      - name: Run every existing and new unit test
+        shell: python
+        run: |
+          import json,pathlib,sys,unittest
+          suite=unittest.defaultTestLoader.discover('tests',pattern='test_*.py')
+          result=unittest.TextTestRunner(verbosity=2).run(suite)
+          report={'testsRun':result.testsRun,'failures':[(str(t),s) for t,s in result.failures],'errors':[(str(t),s) for t,s in result.errors],'skipped':[(str(t),s) for t,s in result.skipped],'passed':result.wasSuccessful()}
+          pathlib.Path('qa/party-install-unit.json').write_text(json.dumps(report,indent=2)+'\n')
+          if not result.wasSuccessful():sys.exit(1)
+      - name: Persist source before the complete browser and publication gate
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site scripts tests data/party-*.json docs/PARTY.md docs/RELEASE.md docs/EXECUTION.md docs/UPDATING.md data/catalog.json dist wiki
+          if ! git diff --cached --quiet; then
+            git commit -m 'Integrate the 339-game party lobby with mode-specific headcounts, source evidence and preserved prior hubs'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          git rev-parse HEAD > qa/party-source-revision.txt
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: party-installed-source-checkpoint
+          path: |
+            qa/party-install*.json
+            qa/party-source-revision.txt
+            data/party-study-report.json
+            dist/manifest.json
