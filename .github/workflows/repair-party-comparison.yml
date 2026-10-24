@@ -1,0 +1,62 @@
+name: Repair party comparison
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/repair-party-comparison.yml']
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: party-repair
+  cancel-in-progress: false
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Correct the causal stale callback without changing catalog content
+        shell: python
+        run: |
+          from pathlib import Path
+          import subprocess
+          p=Path('site/app.js');s=p.read_text()
+          before='reset,close:closeModal,compare:openCompare,'
+          after='reset,close:closeModal,compare:()=>openCompare(),'
+          assert s.count(before)==1 or s.count(after)==1,'Comparison dispatch anchor changed'
+          p.write_text(s.replace(before,after))
+          subprocess.run(['node','--check',str(p)],check=True)
+          test='''import pathlib,re,subprocess,unittest
+          R=pathlib.Path(__file__).resolve().parents[1]
+          class PartyDispatchTests(unittest.TestCase):
+           def test_comparison_action_uses_current_hub_renderer(self):
+            source=(R/'site/app.js').read_text()
+            handler=re.search(r",compare:(.*?),'clear-compare':",source).group(1)
+            js='let calls=[];let openCompare=()=>calls.push("base");const actions={compare:'+handler+'};openCompare=()=>calls.push("party");actions.compare();if(calls.join()!=="party")throw new Error("Stale comparison action");'
+            subprocess.run(['node','-e',js],check=True)
+          if __name__=='__main__':unittest.main()
+          '''
+          Path('tests/test_party_dispatch.py').write_text(test)
+          subprocess.run(['python3','tests/test_party_dispatch.py'],check=True)
+          p=Path('docs/EXECUTION.md');s=p.read_text()
+          marker='## Party comparison continuation'
+          if marker not in s:
+            s+='\n'+marker+'\n\nThe 339-entry party catalog and all previous records remain intact. The comparison button captured the original renderer before the party overlay installed. Its action now resolves the current renderer at click time. A Node runtime regression protects the callback; the complete production-browser acceptance remains required before release. Previous failed gate: run 40075657269, comparison mode/edition fields.\n'
+            p.write_text(s)
+      - name: Persist targeted-tested source before full browser validation
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/app.js tests/test_party_dispatch.py docs/EXECUTION.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Resolve comparison actions through the current hub renderer; protect with runtime regression'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Run the full existing publication gate on the repaired source
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publish.yml --ref main
