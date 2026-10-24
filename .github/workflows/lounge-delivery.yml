@@ -1,0 +1,73 @@
+name: Package lounge delivery
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ['Publish library']
+    types: [completed]
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: lounge-delivery-39
+  cancel-in-progress: false
+jobs:
+  package:
+    if: github.event_name == 'workflow_dispatch' || (github.event.workflow_run.id == 40132991129 && github.event.workflow_run.conclusion == 'success')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: Herbertofury/Games
+    steps:
+      - name: Retrieve only the exact completed release and recorded production preview
+        run: |
+          mkdir -p bundle final preview
+          gh api repos/$GH_REPO/actions/runs/40132991129 > final-run.json
+          gh api repos/$GH_REPO/actions/runs/40132991129/artifacts > final-artifacts.json
+          gh release view catalog-39 --json url,assets > release.json
+          python3 - <<'PY'
+          import json,pathlib
+          run=json.load(open('final-run.json'));assert run['conclusion']=='success'
+          artifacts=json.load(open('final-artifacts.json'))['artifacts']
+          a=next(x for x in artifacts if x['name']=='games-release-and-verification')
+          assert not a['expired'];pathlib.Path('artifact-id.txt').write_text(str(a['id']));pathlib.Path('artifact-sha.txt').write_text(a['digest'].removeprefix('sha256:'))
+          PY
+          gh api repos/$GH_REPO/actions/artifacts/$(cat artifact-id.txt)/zip > bundle/Release-and-verification.zip
+          echo "$(cat artifact-sha.txt)  bundle/Release-and-verification.zip" | sha256sum -c -
+          gh api repos/$GH_REPO/actions/artifacts/12575544379/zip > preview.zip
+          echo '209141fd768cba20c88c9720e015078ef5547a9b90e72fc671c3acb7249364f9  preview.zip' | sha256sum -c -
+          unzip -q bundle/Release-and-verification.zip -d final
+          unzip -q preview.zip -d preview
+      - name: Bind the preview and the complete QA package to the exact published HTML
+        shell: python
+        run: |
+          import hashlib,json,pathlib,shutil,zipfile
+          root=pathlib.Path.cwd();report=json.loads((root/'preview/motion-preview.json').read_text());qa=json.loads((root/'final/qa/lounge-qa.json').read_text())
+          html=root/'final/release/Games - Explorer.html';htmlsha=hashlib.sha256(html.read_bytes()).hexdigest()
+          assert qa['passed'] and not qa['errors'] and not report['errors']
+          assert qa['htmlSha256']==report['htmlSha256']==htmlsha
+          movie=root/'preview/Games-Lounge-preview.webm'
+          assert hashlib.sha256(movie.read_bytes()).hexdigest()==report['previewSha256']
+          shutil.copy2(movie,root/'bundle/Games-Lounge-preview.webm')
+          shutil.copy2(root/'preview/motion-preview.json',root/'bundle/motion-preview.json')
+          shutil.copy2(root/'preview/arcade-preview.png',root/'bundle/arcade-preview.png')
+          manifest={'releaseUrl':'https://github.com/Herbertofury/Games/releases/tag/catalog-39','sourceRun':40132991129,'sourceArtifact':int((root/'artifact-id.txt').read_text()),'sourceArtifactSha256':(root/'artifact-sha.txt').read_text(),'previewArtifact':12575544379,'htmlSha256':htmlsha,'datasetHash':qa['datasetHash'],'files':{}}
+          for p in (root/'bundle').iterdir():manifest['files'][p.name]={'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()}
+          (root/'bundle/README.txt').write_text('Games Lounge 2.0.1\n\nRelease-and-verification.zip contains the exact published portable HTML, complete source/library ZIP, all runtime evidence, and screenshots. Games-Lounge-preview.webm is an actual recording of the same HTML with real keyboard/pointer input. Open the portable HTML in your browser; no installation is required. The native wiki guide is at https://github.com/Herbertofury/Games/wiki/Games-Lounge .\n')
+          (root/'bundle/bundle-manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
+          with zipfile.ZipFile(root/'Games-Lounge-Delivery.zip','w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:
+            for p in sorted((root/'bundle').iterdir()):z.write(p,p.name)
+          p=root/'Games-Lounge-Delivery.zip';manifest['delivery']={'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()}
+          (root/'delivery-manifest.json').write_text(json.dumps(manifest,indent=2)+'\n');print(json.dumps(manifest,indent=2))
+      - name: Publish the motion preview and complete verified bundle without replacing the source assets
+        run: |
+          gh release upload catalog-39 Games-Lounge-Delivery.zip bundle/Games-Lounge-preview.webm delivery-manifest.json --clobber
+          gh release view catalog-39 --json url,assets > delivery-release.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: games-lounge-complete-delivery
+          path: |
+            Games-Lounge-Delivery.zip
+            delivery-manifest.json
+            delivery-release.json
