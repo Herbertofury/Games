@@ -2,7 +2,7 @@
 
 **[Interactive library](https://herbertofury.github.io/Games/#hub=Survival)** | [Complete image and video atlas](Survival-Media) | [Portable HTML](https://github.com/Herbertofury/Games/releases/latest) | [Survival field guide](Survival-Field-Guide)
 
-**299 unique games and projects, 18 collections, 435 confirmed distribution references.** 80 early access, 1 prototype, 184 released, 34 upcoming. Overlapping genre memberships are one shared game identity, not duplicate recommendations.
+**299 unique games and projects, 18 collections, 436 confirmed distribution references.** 80 early access, 1 prototype, 184 released, 34 upcoming. Overlapping genre memberships are one shared game identity, not duplicate recommendations.
 
 Conan, ARK and Windrose are the starting point: gather resources, build a home, explore, fight, and make a world with friends. Tactical, colony and automation neighbors remain explicitly labelled.
 
@@ -633,7 +633,7 @@ Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, bu
 | [Enshrouded](Game-1203620-Enshrouded) | 10/10 | 85.9% / 110,101 Steam reviews | Oct 15, 2026 · Released | [Steam](https://store.steampowered.com/app/1203620) |
 | [Grounded](Game-962130-Grounded) | 10/10 | 89.7% / 96,265 Steam reviews | Sep 27, 2022 · Released | [Steam](https://store.steampowered.com/app/962130) |
 | [Abiotic Factor](Game-427410-Abiotic-Factor) | 10/10 | 95.7% / 60,074 Steam reviews | Jul 22, 2025 · Released | [Steam](https://store.steampowered.com/app/427410) |
-| [Windrose](Game-3041230-Windrose) | 10/10 | 86.6% / 53,563 Steam reviews | Apr 14, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3041230) · [Epic Games](https://store.epicgames.com/en-US/p/windrose-831c86) |
+| [Windrose](Game-3041230-Windrose) | 10/10 | 86.6% / 53,563 Steam reviews | Apr 14, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3041230) · [Epic Games](https://store.epicgames.com/en-US/p/windrose-831c86) · [STOVE](https://store.onstove.com/en/games/104143) |
 | [ARK: Survival Evolved](Game-346110-ARK-Survival-Evolved) | 9/10 | 83.3% / 779,930 Steam reviews | Aug 27, 2017 · Released | [Steam](https://store.steampowered.com/app/346110) · [Epic Games](https://store.epicgames.com/en-US/p/ark) |
 | [Palworld](Game-1623730-Palworld) | 9/10 | 94.6% / 493,983 Steam reviews | Jul 9, 2026 · Released | [Steam](https://store.steampowered.com/app/1623730) |
 | [RuneScape: Dragonwilds](Game-1374490-RuneScape-Dragonwilds) | 9/10 | 80.8% / 35,096 Steam reviews | Sep 15, 2026 · Released | [Steam](https://store.steampowered.com/app/1374490) |

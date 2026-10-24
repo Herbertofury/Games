@@ -16,7 +16,7 @@ The publication gate retains every earlier unit and browser suite and adds compl
 
 ```json
 {
-  "checkedAt": "2026-10-23T23:16:07.168570+00:00",
+  "checkedAt": "2026-10-24T00:26:39.290441+00:00",
   "records": 1567,
   "studyRecords": 381,
   "hubCounts": {
@@ -34,7 +34,7 @@ The publication gate retains every earlier unit and browser suite and adds compl
     "Prototype": 1,
     "Playable alpha": 3
   },
-  "sourceReferences": 561,
+  "sourceReferences": 563,
   "providers": {
     "Steam": 438,
     "GOG": 60,
@@ -47,17 +47,18 @@ The publication gate retains every earlier unit and browser suite and adds compl
     "Hytale": 2,
     "IndieDB": 2,
     "Minecraft": 1,
+    "Xbox": 2,
     "Alderon Games": 1,
     "PlayStation": 1,
-    "Xbox": 1,
     "Microsoft Store": 1,
     "Google Play": 1,
     "App Store": 1,
-    "Vintage Story": 2
+    "Vintage Story": 2,
+    "STOVE": 1
   },
   "artwork": 381,
   "video": 381,
-  "datasetHash": "273127738defe2755f092d4efd75ae4e37af32b15e2da0ac443594ea6ec70d7c"
+  "datasetHash": "d6cc5af4cf970022b84b7f3c011176426e877e86798f7b3599ca540123a0b4b1"
 }
 ```
 

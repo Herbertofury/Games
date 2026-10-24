@@ -3527,7 +3527,7 @@ The most direct pirate-survival match for this request: a personal base, a ship,
 [Watch: Windrose: Gameplay Trailer](https://store.steampowered.com/app/3041230/)  
 [Watch: Windrose: Early Access Release Date Reveal Trailer](https://store.steampowered.com/app/3041230/)  
 
-[Steam](https://store.steampowered.com/app/3041230) | [Epic Games](https://store.epicgames.com/en-US/p/windrose-831c86)
+[Steam](https://store.steampowered.com/app/3041230) | [Epic Games](https://store.epicgames.com/en-US/p/windrose-831c86) | [STOVE](https://store.onstove.com/en/games/104143)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Survival&game=steam%3A3041230)
 

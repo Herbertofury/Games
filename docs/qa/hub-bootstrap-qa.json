@@ -1,0 +1,69 @@
+{
+  "sourceRevision": "086e75f23df6796fa8ba54e794418103c6859b8b",
+  "datasetHash": "d6cc5af4cf970022b84b7f3c011176426e877e86798f7b3599ca540123a0b4b1",
+  "checks": [
+    "Platformers direct-link counter uses primary routes",
+    "Platformers direct-link sidebar has exact route memberships",
+    "Platformers unchanged render reuses existing sidebar DOM",
+    "Platformers upstream invalidation restores exact route count",
+    "Platformers upstream invalidation restores exact memberships",
+    "Platformers switching away and back retains the same primary routes",
+    "Survival direct-link counter uses primary routes",
+    "Survival direct-link sidebar has exact route memberships",
+    "Survival unchanged render reuses existing sidebar DOM",
+    "Survival upstream invalidation restores exact route count",
+    "Survival upstream invalidation restores exact memberships",
+    "Survival switching away and back retains the same primary routes",
+    "Minecraft-like worlds direct-link counter uses primary routes",
+    "Minecraft-like worlds direct-link sidebar has exact route memberships",
+    "Minecraft-like worlds unchanged render reuses existing sidebar DOM",
+    "Minecraft-like worlds upstream invalidation restores exact route count",
+    "Minecraft-like worlds upstream invalidation restores exact memberships",
+    "Minecraft-like worlds switching away and back retains the same primary routes",
+    "No uncaught startup or invalidation errors"
+  ],
+  "routes": {
+    "Platformers": {
+      "Precision & mastery": 39,
+      "Roguelite platformers": 27,
+      "Exploration & Metroidvanias": 103,
+      "3D worlds & collectathons": 70,
+      "Action & retro adventures": 57,
+      "Puzzles & cinematic journeys": 55,
+      "Speed & expressive movement": 38,
+      "Colorful & approachable": 15,
+      "Co-op & playful chaos": 31,
+      "Free creator releases": 4
+    },
+    "Survival": {
+      "Zombies, infection & fortification": 31,
+      "Shared-world adventures": 24,
+      "Oceans, pirates & floating homes": 22,
+      "Space, planets & engineering": 26,
+      "Fresh survival discoveries": 21,
+      "Survival colonies & management neighbors": 22,
+      "Relaxed crafting & restoration": 16,
+      "Harsh wilderness & realistic survival": 28,
+      "Horror, strange worlds & expeditions": 22,
+      "Independent survival discoveries": 31,
+      "Tribes, settlements & historical frontiers": 14,
+      "Road trips & mobile bases": 20,
+      "Underwater, co-op & systems-heavy detours": 13,
+      "Freeware & creator-hosted survival": 3,
+      "Persistent servers & competitive survival": 3,
+      "Creature survival & animal worlds": 1,
+      "Automation & base-defense neighbors": 1,
+      "Extraction & survival-adjacent expeditions": 1
+    },
+    "Minecraft-like worlds": {
+      "Terraria-like 2D worlds": 25,
+      "Block-building survival & voxel frontiers": 22,
+      "New voxel discoveries & experimental worlds": 8,
+      "Automation, factories & creative neighbors": 18,
+      "Free & tiny crafting worlds": 5,
+      "Free & open voxel worlds": 4
+    }
+  },
+  "errors": [],
+  "passed": true
+}

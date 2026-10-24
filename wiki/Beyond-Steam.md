@@ -41,7 +41,7 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 |:--|:--:|:--|:--|:--|
 | [Subnautica](Game-264710-Subnautica) | 10/10 | 97.1% / 382,200 Steam reviews | Jan 23, 2018 · Released | [Steam](https://store.steampowered.com/app/264710) · [Epic Games](https://store.epicgames.com/en-US/p/subnautica) |
 | [Satisfactory](Game-526870-Satisfactory) | 10/10 | 97.3% / 281,667 Steam reviews | Sep 10, 2024 · Released | [Steam](https://store.steampowered.com/app/526870) · [Epic Games](https://store.epicgames.com/en-US/p/satisfactory) |
-| [Windrose](Game-3041230-Windrose) | 10/10 | 86.6% / 53,563 Steam reviews | Apr 14, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3041230) · [Epic Games](https://store.epicgames.com/en-US/p/windrose-831c86) |
+| [Windrose](Game-3041230-Windrose) | 10/10 | 86.6% / 53,563 Steam reviews | Apr 14, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3041230) · [Epic Games](https://store.epicgames.com/en-US/p/windrose-831c86) · [STOVE](https://store.onstove.com/en/games/104143) |
 | [Turbo Overkill](Game-1328350-Turbo-Overkill) | 10/10 | 93.9% / 7,601 Steam reviews | Aug 11, 2023 · Released | [Steam](https://store.steampowered.com/app/1328350/) · [GOG](https://www.gog.com/en/game/turbo_overkill) · [Epic Games](https://store.epicgames.com/p/turbo-overkill-c5e3c7) |
 | [ARK: Survival Evolved](Game-346110-ARK-Survival-Evolved) | 9/10 | 83.3% / 779,930 Steam reviews | Aug 27, 2017 · Released | [Steam](https://store.steampowered.com/app/346110) · [Epic Games](https://store.epicgames.com/en-US/p/ark) |
 | [Wargame: Red Dragon](Game-251060-Wargame-Red-Dragon) | 9/10 | 88.6% / 19,785 Steam reviews | Apr 17, 2014 · Released | [Steam](https://store.steampowered.com/app/251060/) · [Epic Games](https://store.epicgames.com/en-US/p/wargame-red-dragon) · [Gamesplanet](https://gamesplanet.com/game/wargame-red-dragon-steam-key--2566-1) |
@@ -388,7 +388,7 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
-| [Minecraft: Java & Bedrock Edition](Game-external-minecraft-Minecraft-Java-Bedrock-Edition) | 10/10 | No aggregate rating | 2011-11-18 · Released | [Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc) |
+| [Minecraft: Java & Bedrock Edition](Game-external-minecraft-Minecraft-Java-Bedrock-Edition) | 10/10 | No aggregate rating | 2011-11-18 · Released | [Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc) · [Xbox](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ) |
 
 ## ModDB
 
@@ -496,6 +496,12 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 | [ASTRO's Playroom](Game-external-astros-playroom-ASTRO-s-Playroom) | 9/10 | No aggregate rating | 2020-11-12 · Released | [PlayStation](https://www.playstation.com/en-us/games/astros-playroom/) |
 | [Path of Titans](Game-external-path-of-titans-Path-of-Titans) | 8/10 | No aggregate rating | See creator release · Early Access | [Official site](https://pathoftitans.com) · [Alderon Games](https://alderongames.com/store/path-of-titans) · [PlayStation](https://store.playstation.com/concept/10000950) · [Xbox](https://www.xbox.com/games/store/pathoftitans/9PGDD5NS7JF3) |
 
+## STOVE
+
+| Game | Recommend | Community reception | Release / build | Where |
+|:--|:--:|:--|:--|:--|
+| [Windrose](Game-3041230-Windrose) | 10/10 | 86.6% / 53,563 Steam reviews | Apr 14, 2026 · Early Access | [Steam](https://store.steampowered.com/app/3041230) · [Epic Games](https://store.epicgames.com/en-US/p/windrose-831c86) · [STOVE](https://store.onstove.com/en/games/104143) |
+
 ## Slipseer
 
 | Game | Recommend | Community reception | Release / build | Where |
@@ -514,6 +520,7 @@ Alternate stores do not create duplicate game entries. Creator support is listed
 
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
+| [Minecraft: Java & Bedrock Edition](Game-external-minecraft-Minecraft-Java-Bedrock-Edition) | 10/10 | No aggregate rating | 2011-11-18 · Released | [Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc) · [Xbox](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ) |
 | [Path of Titans](Game-external-path-of-titans-Path-of-Titans) | 8/10 | No aggregate rating | See creator release · Early Access | [Official site](https://pathoftitans.com) · [Alderon Games](https://alderongames.com/store/path-of-titans) · [PlayStation](https://store.playstation.com/concept/10000950) · [Xbox](https://www.xbox.com/games/store/pathoftitans/9PGDD5NS7JF3) |
 
 ## Xbox PC

@@ -1,0 +1,15 @@
+..................EXTERNAL Test True 0
+..................../home/runner/work/Games/Games/tests/test_platformers.py:31: ResourceWarning: unclosed file <_io.TextIOWrapper name='/home/runner/work/Games/Games/data/platformers-seeds.tsv' mode='r' encoding='UTF-8'>
+  seeds=list(csv.DictReader((R/'data/platformers-seeds.tsv').open(),delimiter='\t'));self.assertGreaterEqual(len(seeds),420)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+../home/runner/work/Games/Games/tests/test_platformers.py:13: ResourceWarning: unclosed file <_io.TextIOWrapper name='/home/runner/work/Games/Games/data/seeds.tsv' mode='r' encoding='UTF-8'>
+  expected={'steam:'+s['appid'] for s in csv.DictReader((R/'data/seeds.tsv').open(),delimiter='\t')}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+........./home/runner/work/Games/Games/tests/test_platformers.py:44: ResourceWarning: unclosed file <_io.TextIOWrapper name='/home/runner/work/Games/Games/data/seeds.tsv' mode='r' encoding='UTF-8'>
+  for seed in csv.DictReader((R/'data/seeds.tsv').open(),delimiter='\t'):self.assertIn('Roguelites',self.by['steam:'+seed['appid']]['hubs'])
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+...................................................
+----------------------------------------------------------------------
+Ran 100 tests in 21.089s
+
+OK

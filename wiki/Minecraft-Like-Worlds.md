@@ -2,7 +2,7 @@
 
 **[Interactive library](https://herbertofury.github.io/Games/#hub=Minecraft-like+worlds)** | [Complete image and video atlas](Minecraft-Like-Media) | [Portable HTML](https://github.com/Herbertofury/Games/releases/latest) | [Survival field guide](Survival-Field-Guide)
 
-**82 unique games and projects, 6 collections, 126 confirmed distribution references.** 15 early access, 3 playable alpha, 56 released, 8 upcoming. Overlapping genre memberships are one shared game identity, not duplicate recommendations.
+**82 unique games and projects, 6 collections, 127 confirmed distribution references.** 15 early access, 3 playable alpha, 56 released, 8 upcoming. Overlapping genre memberships are one shared game identity, not duplicate recommendations.
 
 Minecraft, Terraria, Hytale and Vintage Story define this separate category: editable worlds, mining, construction, crafting and long-term discovery. Voxel RPGs and factory sandboxes are labelled neighbors, not falsely described as the same survival loop.
 
@@ -120,7 +120,7 @@ For building with a strong campaign and a charming world rather than pure hunger
 </td>
 <td width="33%" valign="top">
 
-[![Minecraft: Java & Bedrock Edition](https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-US-Bundle-Screenshot-2.png)](Game-external-minecraft-Minecraft-Java-Bedrock-Edition)
+[![Minecraft: Java & Bedrock Edition](https://store-images.s-microsoft.com/image/apps.63804.14492077886571533.28b7d282-6a14-44b0-bed0-cecfc2543cea.38a3002f-7d5e-447b-887d-d25be07416d9)](Game-external-minecraft-Minecraft-Java-Bedrock-Edition)
 
 **[Minecraft: Java & Bedrock Edition](Game-external-minecraft-Minecraft-Java-Bedrock-Edition)**
 
@@ -130,7 +130,7 @@ The reference point for worlds you can reshape, extensive survival progression a
 
 [Watch: Official Java & Bedrock Edition trailer](https://www.youtube.com/watch?v=qNMfF9TYETM)  
 
-[Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc)
+[Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc) | [Xbox](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Minecraft-like+worlds&game=external%3Aminecraft)
 
@@ -306,7 +306,7 @@ For a broader, more exploratory 2D sandbox with planets, building and a large co
 | Game | Recommend | Community reception | Release / build | Where |
 |:--|:--:|:--|:--|:--|
 | [DRAGON QUEST BUILDERS™ 2](Game-1072420-DRAGON-QUEST-BUILDERS-2) | 10/10 | 92.4% / 8,139 Steam reviews | Dec 10, 2019 · Released | [Steam](https://store.steampowered.com/app/1072420) · [Steam](https://store.steampowered.com/app/1168460/) |
-| [Minecraft: Java & Bedrock Edition](Game-external-minecraft-Minecraft-Java-Bedrock-Edition) | 10/10 | No aggregate rating | 2011-11-18 · Released | [Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc) |
+| [Minecraft: Java & Bedrock Edition](Game-external-minecraft-Minecraft-Java-Bedrock-Edition) | 10/10 | No aggregate rating | 2011-11-18 · Released | [Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc) · [Xbox](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ) |
 | [Vintage Story](Game-external-vintage-story-Vintage-Story) | 10/10 | No aggregate rating | See creator release · Early Access | [Vintage Story](https://www.vintagestory.at) · [itch.io](https://tyronx.itch.io/vintage-story) · [Vintage Story](https://www.vintagestory.at/store/category/1-single-game-account) · [Humble Store](https://www.humblebundle.com/store/vintage-story) |
 | [Portal Knights](Game-374040-Portal-Knights) | 9/10 | 83.4% / 22,419 Steam reviews | May 18, 2017 · Released | [Steam](https://store.steampowered.com/app/374040) |
 | [Eco](Game-382310-Eco) | 9/10 | 80.7% / 14,108 Steam reviews | Feb 6, 2018 · Early Access | [Steam](https://store.steampowered.com/app/382310) |

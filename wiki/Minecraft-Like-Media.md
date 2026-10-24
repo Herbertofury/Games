@@ -420,7 +420,7 @@ For building with a strong campaign and a charming world rather than pure hunger
 </td>
 <td width="33%" valign="top">
 
-[![Minecraft: Java & Bedrock Edition](https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PDP-US-Bundle-Screenshot-2.png)](Game-external-minecraft-Minecraft-Java-Bedrock-Edition)
+[![Minecraft: Java & Bedrock Edition](https://store-images.s-microsoft.com/image/apps.63804.14492077886571533.28b7d282-6a14-44b0-bed0-cecfc2543cea.38a3002f-7d5e-447b-887d-d25be07416d9)](Game-external-minecraft-Minecraft-Java-Bedrock-Edition)
 
 **[Minecraft: Java & Bedrock Edition](Game-external-minecraft-Minecraft-Java-Bedrock-Edition)**
 
@@ -430,7 +430,7 @@ The reference point for worlds you can reshape, extensive survival progression a
 
 [Watch: Official Java & Bedrock Edition trailer](https://www.youtube.com/watch?v=qNMfF9TYETM)  
 
-[Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc)
+[Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc) | [Xbox](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ)
 
 [Embedded player and gallery](https://herbertofury.github.io/Games/#hub=Minecraft-like+worlds&game=external%3Aminecraft)
 

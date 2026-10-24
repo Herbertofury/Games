@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-23T22:51:54.524Z",
+  "exportedAt": "2026-10-24T00:31:53.614Z",
   "filters": {
     "hub": "Real-time strategy",
     "provider": "",
@@ -10410,11 +10410,16 @@
       ],
       "tags": [
         "Base building",
+        "Colony survival / adjacent",
         "RTS",
+        "Single-player listed",
         "Strategy",
+        "Survival",
         "Survival & defense RTS",
         "Survival / defense RTS",
-        "Survival defense"
+        "Survival colonies & management neighbors",
+        "Survival defense",
+        "Survival neighbor"
       ],
       "features": [
         "Single-player",
@@ -10626,27 +10631,29 @@
           "provider": "Steam",
           "url": "https://store.steampowered.com/app/644930/",
           "verified": true,
-          "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          "lastChecked": "2026-10-23T22:52:09.992135+00:00"
         },
         {
           "provider": "Steam store API",
           "url": "https://store.steampowered.com/api/appdetails?appids=644930&l=english&cc=us",
           "verified": true,
-          "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          "lastChecked": "2026-10-23T22:52:09.992135+00:00"
         },
         {
           "provider": "Steam reviews API",
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A644930%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
-          "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          "lastChecked": "2026-10-23T22:52:09.992135+00:00"
         }
       ],
       "warnings": [],
       "hubs": [
-        "Real-time strategy"
+        "Real-time strategy",
+        "Survival"
       ],
       "collections": [
-        "Survival & defense RTS"
+        "Survival & defense RTS",
+        "Survival colonies & management neighbors"
       ],
       "primaryUrl": "https://store.steampowered.com/app/644930/",
       "provider": "Steam",
@@ -10655,17 +10662,17 @@
       "storefronts": [
         {
           "provider": "Steam",
-          "url": "https://store.steampowered.com/app/644930/",
+          "url": "https://store.steampowered.com/app/644930",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          "lastChecked": "2026-10-23T22:52:09.995325+00:00"
         },
         {
           "provider": "GOG",
           "url": "https://www.gog.com/en/game/they_are_billions",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
           "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=They%20Are%20Billions",
           "evidence": "Exact title in GOG official catalog: They Are Billions"
         }
@@ -10707,6 +10714,21 @@
       "rtsInfo": {
         "baseBuilding": "Settlement/fortress construction and wave defense",
         "skirmish": "Solo survival / defense, not symmetric skirmish",
+        "sourceUrl": "https://store.steampowered.com/app/644930/"
+      },
+      "survivalHub": "Survival",
+      "survivalCollection": "Survival colonies & management neighbors",
+      "survivalFit": 9,
+      "survivalScope": "Colony survival / adjacent",
+      "survivalWhy": "They Are Billions is a Steampunk strategy game set on a post-apocalyptic planet. Build and defend colonies to survive against the billions of the infected that seek to annihilate the few remaining living humans. Can humanity survive after the zombie apocalypse?",
+      "survivalInfo": {
+        "world": "Colony survival / adjacent",
+        "solo": "Listed by Steam",
+        "coop": "Not confirmed by the source feature list",
+        "hosting": "Dedicated-server support not independently confirmed",
+        "modding": "Check the creator documentation; not inferred from genre",
+        "terrain": "See gameplay for terrain-editing and construction limits",
+        "basis": "Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.",
         "sourceUrl": "https://store.steampowered.com/app/644930/"
       }
     },
@@ -15390,13 +15412,20 @@
       "tags": [
         "AI skirmish",
         "Base building",
+        "Colony survival / adjacent",
+        "Procedural worlds",
         "RTS",
         "Recent RTS release",
+        "Recent survival release",
         "Simulation",
+        "Single-player listed",
         "Strategy",
+        "Survival",
         "Survival & defense RTS",
         "Survival / defense RTS",
-        "Survival defense"
+        "Survival colonies & management neighbors",
+        "Survival defense",
+        "Survival neighbor"
       ],
       "features": [
         "Single-player",
@@ -15548,27 +15577,29 @@
           "provider": "Steam",
           "url": "https://store.steampowered.com/app/1422440/",
           "verified": true,
-          "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          "lastChecked": "2026-10-23T22:52:09.992135+00:00"
         },
         {
           "provider": "Steam store API",
           "url": "https://store.steampowered.com/api/appdetails?appids=1422440&l=english&cc=us",
           "verified": true,
-          "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          "lastChecked": "2026-10-23T22:52:09.992135+00:00"
         },
         {
           "provider": "Steam reviews API",
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1422440%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
-          "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          "lastChecked": "2026-10-23T22:52:09.992135+00:00"
         }
       ],
       "warnings": [],
       "hubs": [
-        "Real-time strategy"
+        "Real-time strategy",
+        "Survival"
       ],
       "collections": [
-        "Survival & defense RTS"
+        "Survival & defense RTS",
+        "Survival colonies & management neighbors"
       ],
       "primaryUrl": "https://store.steampowered.com/app/1422440/",
       "provider": "Steam",
@@ -15577,19 +15608,28 @@
       "storefronts": [
         {
           "provider": "Steam",
-          "url": "https://store.steampowered.com/app/1422440/",
+          "url": "https://store.steampowered.com/app/1422440",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          "lastChecked": "2026-10-23T22:52:09.995325+00:00"
         },
         {
           "provider": "GOG",
           "url": "https://www.gog.com/en/game/cataclismo",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T08:04:56.549148+00:00",
+          "lastChecked": "2026-10-23T22:53:46.327727+00:00",
           "sourceUrl": "https://catalog.gog.com/v1/catalog?limit=48&productType=in:game,pack&query=Cataclismo",
           "evidence": "Exact title in GOG official catalog: Cataclismo"
+        },
+        {
+          "provider": "Steam",
+          "url": "https://store.steampowered.com/app/2459000",
+          "kind": "demo",
+          "verified": true,
+          "lastChecked": "2026-10-23T22:52:09.992135+00:00",
+          "sourceUrl": "https://store.steampowered.com/app/1422440/",
+          "editionNote": "Demo edition explicitly linked by the official Steam metadata."
         }
       ],
       "rtsEvidence": {
@@ -15631,6 +15671,21 @@
       "rtsInfo": {
         "baseBuilding": "Settlement/fortress construction and wave defense",
         "skirmish": "Yes / skirmish or AI opponents documented",
+        "sourceUrl": "https://store.steampowered.com/app/1422440/"
+      },
+      "survivalHub": "Survival",
+      "survivalCollection": "Survival colonies & management neighbors",
+      "survivalFit": 9,
+      "survivalScope": "Colony survival / adjacent",
+      "survivalWhy": "Design and build fortresses brick by brick to stand against endless hordes of Horrors in this real-time strategy game with resource management, siege defense, and exploration. Lead from the ramparts, push back the darkness, and hold fast against the creatures of the Mist.",
+      "survivalInfo": {
+        "world": "Colony survival / adjacent",
+        "solo": "Listed by Steam",
+        "coop": "Not confirmed by the source feature list",
+        "hosting": "Dedicated-server support not independently confirmed",
+        "modding": "Check the creator documentation; not inferred from genre",
+        "terrain": "See gameplay for terrain-editing and construction limits",
+        "basis": "Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.",
         "sourceUrl": "https://store.steampowered.com/app/1422440/"
       }
     },
@@ -30933,12 +30988,19 @@
       "tags": [
         "Base building",
         "Co-op",
+        "Colony survival / adjacent",
+        "Procedural worlds",
         "RTS",
         "Recent RTS release",
+        "Recent survival release",
+        "Single-player listed",
         "Strategy",
+        "Survival",
         "Survival & defense RTS",
         "Survival / defense RTS",
-        "Survival defense"
+        "Survival colonies & management neighbors",
+        "Survival defense",
+        "Survival neighbor"
       ],
       "features": [
         "Single-player",
@@ -31141,27 +31203,29 @@
           "provider": "Steam",
           "url": "https://store.steampowered.com/app/1426450/",
           "verified": true,
-          "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          "lastChecked": "2026-10-23T22:52:09.992135+00:00"
         },
         {
           "provider": "Steam store API",
           "url": "https://store.steampowered.com/api/appdetails?appids=1426450&l=english&cc=us",
           "verified": true,
-          "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          "lastChecked": "2026-10-23T22:52:09.992135+00:00"
         },
         {
           "provider": "Steam reviews API",
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1426450%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
-          "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          "lastChecked": "2026-10-23T22:52:09.992135+00:00"
         }
       ],
       "warnings": [],
       "hubs": [
-        "Real-time strategy"
+        "Real-time strategy",
+        "Survival"
       ],
       "collections": [
-        "Survival & defense RTS"
+        "Survival & defense RTS",
+        "Survival colonies & management neighbors"
       ],
       "primaryUrl": "https://store.steampowered.com/app/1426450/",
       "provider": "Steam",
@@ -31170,10 +31234,10 @@
       "storefronts": [
         {
           "provider": "Steam",
-          "url": "https://store.steampowered.com/app/1426450/",
+          "url": "https://store.steampowered.com/app/1426450",
           "kind": "store",
           "verified": true,
-          "lastChecked": "2026-10-23T07:57:35.524175+00:00"
+          "lastChecked": "2026-10-23T22:52:09.995325+00:00"
         }
       ],
       "rtsEvidence": {
@@ -31213,6 +31277,21 @@
       "rtsInfo": {
         "baseBuilding": "Settlement/fortress construction and wave defense",
         "skirmish": "Solo survival / defense, not symmetric skirmish",
+        "sourceUrl": "https://store.steampowered.com/app/1426450/"
+      },
+      "survivalHub": "Survival",
+      "survivalCollection": "Survival colonies & management neighbors",
+      "survivalFit": 8,
+      "survivalScope": "Colony survival / adjacent",
+      "survivalWhy": "Age of Darkness: Final Stand is a dark fantasy survival RTS where you must illuminate, build and defend humanity’s last bastion against hordes of Nightmares. Set in the remnants of a kingdom consumed by a deadly fog, you decide. Will you hide in the light? Or take back your world.",
+      "survivalInfo": {
+        "world": "Colony survival / adjacent",
+        "solo": "Listed by Steam",
+        "coop": "Co-op is listed by the store",
+        "hosting": "Dedicated-server support not independently confirmed",
+        "modding": "Check the creator documentation; not inferred from genre",
+        "terrain": "See gameplay for terrain-editing and construction limits",
+        "basis": "Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.",
         "sourceUrl": "https://store.steampowered.com/app/1426450/"
       }
     },

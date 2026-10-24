@@ -1,6 +1,6 @@
 {
-  "sourceRevision": "0fdd87b99cca0788a76b9fa37be1ba19accb471f",
-  "datasetHash": "62980fc8d4478615541ae5db8fb482090a36ded36ac98c5ec58f0125577555bc",
+  "sourceRevision": "086e75f23df6796fa8ba54e794418103c6859b8b",
+  "datasetHash": "d6cc5af4cf970022b84b7f3c011176426e877e86798f7b3599ca540123a0b4b1",
   "checks": [
     "Platformer hub counter reports ten primary routes",
     "Every sidebar count matches its primary route",
@@ -66,16 +66,18 @@
     "All twenty resolved records tested",
     "Boomer shooters full membership survives",
     "Metroidvanias full membership survives",
+    "Minecraft-like worlds full membership survives",
     "Platformers full membership survives",
     "Real-time strategy full membership survives",
     "Roguelites full membership survives",
+    "Survival full membership survives",
     "Returning from another hub restores ten primary routes",
     "Completed mobile hub has no horizontal overflow",
     "No uncaught JavaScript errors"
   ],
   "playback": [
     {
-      "time": 1.274551,
+      "time": 1.334037,
       "width": 1280,
       "height": 720,
       "duration": 47.881167,
@@ -85,7 +87,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.251129,
+      "time": 1.25279,
       "width": 1280,
       "height": 720,
       "duration": 60.727333,
@@ -95,7 +97,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.275801,
+      "time": 1.27815,
       "width": 1280,
       "height": 720,
       "duration": 221.854967,
@@ -105,7 +107,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.350665,
+      "time": 1.362432,
       "width": 1280,
       "height": 720,
       "duration": 75.241833,
@@ -115,7 +117,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.272177,
+      "time": 1.255369,
       "width": 1280,
       "height": 720,
       "duration": 409.175433,
@@ -125,7 +127,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.219324,
+      "time": 1.236973,
       "width": 1280,
       "height": 720,
       "duration": 291.524567,
@@ -135,7 +137,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.286103,
+      "time": 1.222736,
       "width": 1280,
       "height": 720,
       "duration": 73.440033,
@@ -145,7 +147,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.252268,
+      "time": 1.244343,
       "width": 1280,
       "height": 720,
       "duration": 85.018267,
@@ -155,7 +157,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.24401,
+      "time": 1.223229,
       "width": 1280,
       "height": 720,
       "duration": 141.074267,
@@ -165,7 +167,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.214038,
+      "time": 1.226235,
       "width": 1280,
       "height": 720,
       "duration": 60.026633,
@@ -175,27 +177,27 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.331423,
+      "time": 1.322102,
       "width": 960,
       "height": 540,
       "duration": 323.5141040000001,
-      "src": "blob:http://127.0.0.1:8788/688be22b-72c0-466e-bc46-6a1c7c3d7ed8",
+      "src": "blob:http://127.0.0.1:8788/5788e26e-b1c0-47ed-808b-f7d5c9798170",
       "id": "external:super-mario-odyssey",
       "official": true,
       "credit": "Play Nintendo \u2014 observed featured video"
     },
     {
-      "time": 1.253972,
+      "time": 1.24828,
       "width": 640,
       "height": 360,
       "duration": 333.92797999999993,
-      "src": "blob:http://127.0.0.1:8788/a5433e98-6ad2-4ce9-82d3-e6a2642e9845",
+      "src": "blob:http://127.0.0.1:8788/b13a16c1-6a93-4153-975b-c83209841ea7",
       "id": "external:super-mario-maker-2",
       "official": true,
       "credit": "Play Nintendo \u2014 observed featured video"
     },
     {
-      "time": 1.243703,
+      "time": 1.25959,
       "width": 640,
       "height": 640,
       "duration": 27.8,
@@ -205,7 +207,7 @@
       "credit": "Games library capture of the creator-published PICO-8 browser build; not an official trailer"
     },
     {
-      "time": 1.262578,
+      "time": 1.25102,
       "width": 640,
       "height": 640,
       "duration": 27.6,

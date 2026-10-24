@@ -40,7 +40,8 @@ The source repository retains candidate dispositions, unresolved names, store-ch
 - Official site: 14
 - Patreon: 5
 - PlayStation: 1
+- STOVE: 1
 - Steam: 438
 - Vintage Story: 2
-- Xbox: 1
+- Xbox: 2
 - itch.io: 14
