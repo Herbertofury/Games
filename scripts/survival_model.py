@@ -10,7 +10,7 @@ def integrate(root,games):
   if previous.get("hubs") and set(previous["hubs"])<=set(HUBS):del games[ident]
   elif any(h in HUBS for h in previous.get("hubs",[])):previous["hubs"]=[h for h in previous["hubs"] if h not in HUBS]
  steam=load(root,'survival-steam.json',{'items':[]});external=load(root,'survival-external.json',{'items':[]});overrides={}
- for filename in ['survival-storefronts.json','survival-curation.json','survival-media.json','survival-verified-stores.json']:
+ for filename in ['survival-storefronts.json','survival-curation.json','survival-media.json','survival-chronology.json','survival-verified-stores.json']:
   for ident,row in load(root,filename,{'overrides':{}}).get('overrides',{}).items():
    dest=overrides.setdefault(ident,{})
    for k,v in row.items():
@@ -29,7 +29,7 @@ def integrate(root,games):
   for k in ['sources','storefronts','trailers']:
    def identity(x):return x.get('url') or x.get('youtube') or x.get('vimeo') or x.get('hls') or x.get('mp4') or x.get('webm') or x.get('sourceUrl')
    g[k]=list({identity(x):x for x in g.get(k,[])+extra.get(k,[])}.values())
-  g['tags']=sorted(set(g.get('tags',[])+extra.get('tags',[])))
+  g['tags']=sorted(set(g.get('tags',[])+extra.get('tags',[]))-{'Recent survival release'})
   hub=next(h for h in g['hubs'] if h in HUBS);scope=g.get('genreScope','Survival crafting');collection=g['collection']
   g['survivalHub']=hub;g['survivalCollection']=collection;g['survivalFit']=g.get('fit');g['survivalScope']=scope;g['survivalWhy']=g.get('curatorWhy') or g['summary']
   core=not any(word in scope.lower() for word in ['adjacent','colony','automation sandbox','experimental','turn-based','voxel action rpg'])
@@ -60,12 +60,15 @@ def integrate(root,games):
   g.setdefault('appid',None);g.setdefault('collections',[collection]);g.setdefault('primaryUrl',g.get('steamUrl'));g.setdefault('provider','Steam' if g.get('steamUrl') else 'Official site');g.setdefault('kind','Standalone game');g.setdefault('developers',[]);g.setdefault('warnings',[])
   # A game already in another genre keeps that genre's identity, artwork and rating lineage.
   if ident in games and any(h not in HUBS for h in games[ident].get('hubs',[])):
-   old=games[ident];old['hubs']=list(dict.fromkeys(old['hubs']+g['hubs']));old['collections']=list(dict.fromkeys(old.get('collections',[old['collection']])+g['collections']));old['tags']=sorted(set(old.get('tags',[])+g['tags']))
+   old=games[ident];old['hubs']=list(dict.fromkeys(old['hubs']+g['hubs']));old['collections']=list(dict.fromkeys(old.get('collections',[old['collection']])+g['collections']));old['tags']=sorted((set(old.get('tags',[]))-{'Recent survival release'})|set(g['tags']))
    for field in ['survivalHub','survivalCollection','survivalFit','survivalScope','survivalWhy','survivalInfo']:old[field]=copy.deepcopy(g[field])
+   for field in ['earlyAccessReleaseDate','releaseChronology']:
+    if g.get(field):old[field]=copy.deepcopy(g[field])
+   if g.get('originalReleaseYear'):old['originalReleaseYear']=min(old.get('originalReleaseYear') or g['originalReleaseYear'],g['originalReleaseYear'])
    old['storefronts']=normalized_links(old.get('storefronts',[])+g['storefronts']);old['sources']=list({x['url']:x for x in old.get('sources',[])+g['sources']}.values())
   else:games[ident]=g
   ids.append(ident)
- dates=[x.get('generatedAt') for x in [steam,external] if x.get('generatedAt')];review=load(root,'survival-reconciliation.json',{})
+ dates=[x.get('generatedAt') for x in [steam,external,load(root,'survival-chronology.json',{})] if x.get('generatedAt')];review=load(root,'survival-reconciliation.json',{})
  names={g['id']:g['name'] for g in steam['items']+external['items']}
  dispositions=copy.deepcopy(review.get('dispositions',steam.get('dispositions',[])+external.get('dispositions',[]))+excluded)
  for record in dispositions:

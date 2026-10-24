@@ -15,6 +15,7 @@ Space Engineers 2 is a playable Early Access Alpha sandbox focused on engineerin
 | Availability | Early Access |
 | Build type | Standalone game |
 | Play style | Sci-fi survival crafting |
+| Original release year | 2025 |
 | Creators | Keen Software House |
 | Price snapshot | $29.99 |
 | Verified | 2026-10-23T22:40:43.622826+00:00 |
@@ -80,6 +81,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 - [Steam](https://store.steampowered.com/app/1133870/) · checked 2026-10-23T22:40:43.622826+00:00
 - [Steam store API](https://store.steampowered.com/api/appdetails?appids=1133870&l=english&cc=us) · checked 2026-10-23T22:40:43.622826+00:00
 - [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1133870%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T22:40:43.622826+00:00
+- [Steam](https://store.steampowered.com/app/1133870/?l=english&cc=us) · checked 2026-10-24T00:38:09.276530+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -100,5 +102,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 **Terrain and building:** Terrain / voxel systems mentioned by the source
 
 Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.
+
+**Steam Early Access:** 2025-01-27; **store/full-release milestone:** 2025-01-27. These are separate dates, not separate games.
 
 **Why it is here:** Space Engineers 2 is a playable Early Access Alpha sandbox focused on engineering, exploration, and colonization in a fully destructible universe. Design and build ships, stations, and planetary bases while uncovering the story of Miro and Ivan Sokol. Help shape the future of the Almagest system.

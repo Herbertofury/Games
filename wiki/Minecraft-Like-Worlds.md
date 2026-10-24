@@ -269,7 +269,7 @@ For a broader, more exploratory 2D sandbox with planets, building and a large co
 |:--|:--|
 | [Playable now](https://herbertofury.github.io/Games/#hub=Minecraft-like+worlds&playable=true) | Released and accessible development builds, with their exact statuses visible. |
 | [Strongest fit](https://herbertofury.github.io/Games/#hub=Minecraft-like+worlds&fit=8&playable=true) | Editorial fit is checked against review reception and sample size. |
-| [Newest discoveries](https://herbertofury.github.io/Games/#hub=Minecraft-like+worlds&tag=Recent+survival+release&playable=true&sort=newest) | 2025-2026 first releases, not old games made new by a patch. |
+| [Newest discoveries](https://herbertofury.github.io/Games/#hub=Minecraft-like+worlds&tag=Recent+survival+release&playable=true&sort=newest) | 2025-2026 store releases with confirmed earlier access excluded. Original non-Steam dates may be earlier; inspect the title chronology. |
 | [Co-op](https://herbertofury.github.io/Games/#hub=Minecraft-like+worlds&coop=true&playable=true) | Co-op explicitly listed in the source. Cross-play and server rules are separate. |
 | [Single-player listed](https://herbertofury.github.io/Games/#hub=Minecraft-like+worlds&tag=Single-player+listed&playable=true) | A single-player listing is not a guarantee of fully offline access. |
 | [Outside Steam](https://herbertofury.github.io/Games/#hub=Minecraft-like+worlds&offSteam=true) | Confirmed alternate stores and creator projects. |

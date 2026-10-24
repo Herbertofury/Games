@@ -15,6 +15,7 @@ Build and manage your own castle settlement in a land reclaimed by wilderness. W
 | Availability | Released |
 | Build type | Standalone game |
 | Play style | Colony survival / adjacent |
+| Original release year | 2021 |
 | Creators | Foxy Voxel |
 | Price snapshot | $29.99 |
 | Verified | 2026-10-23T22:52:09.992135+00:00 |
@@ -84,6 +85,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 - [Steam](https://store.steampowered.com/app/1029780/) · checked 2026-10-23T22:52:09.992135+00:00
 - [Steam store API](https://store.steampowered.com/api/appdetails?appids=1029780&l=english&cc=us) · checked 2026-10-23T22:52:09.992135+00:00
 - [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1029780%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T22:52:09.992135+00:00
+- [Steam](https://store.steampowered.com/app/1029780/?l=english&cc=us) · checked 2026-10-24T00:38:09.276530+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -104,5 +106,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 **Terrain and building:** Terrain / voxel systems mentioned by the source
 
 Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.
+
+**Steam Early Access:** 2021-06-01; **store/full-release milestone:** 2026-03-17. These are separate dates, not separate games.
 
 **Why it is here:** Build and manage your own castle settlement in a land reclaimed by wilderness. With detailed management, survival strategy, and a moddable sandbox world, Going Medieval challenges you to build the mightiest colony this side of the apocalypse.

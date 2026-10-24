@@ -15,6 +15,7 @@ Forget the stress of survival. In this cozy open-world sim, you don't fight natu
 | Availability | Early Access |
 | Build type | Standalone game |
 | Play style | Survival crafting |
+| Original release year | 2026 |
 | Creators | Novemtails |
 | Price snapshot | $11.24 |
 | Verified | 2026-10-23T22:52:09.992135+00:00 |
@@ -82,6 +83,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 - [Steam](https://store.steampowered.com/app/2939510/) · checked 2026-10-23T22:52:09.992135+00:00
 - [Steam store API](https://store.steampowered.com/api/appdetails?appids=2939510&l=english&cc=us) · checked 2026-10-23T22:52:09.992135+00:00
 - [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2939510%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T22:52:09.992135+00:00
+- [Steam](https://store.steampowered.com/app/2939510/?l=english&cc=us) · checked 2026-10-24T00:38:09.276530+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -102,5 +104,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 **Terrain and building:** See gameplay for terrain-editing and construction limits
 
 Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.
+
+**Steam Early Access:** 2026-10-23; **store/full-release milestone:** 2026-10-23. These are separate dates, not separate games.
 
 **Why it is here:** Forget the stress of survival. In this cozy open-world sim, you don't fight nature, you join it. Build your dream cabin piece by piece, cook complex meals with crops you watered yourself, and fill your photo album with rare wildlife. A serene experience where the only enemy is inefficiency.

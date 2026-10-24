@@ -31,7 +31,7 @@
   $$('.voxel-route').forEach(n=>n.hidden=!isVoxel);
   const t=$('[data-preset="torment"]');t.querySelector('strong').textContent=isVoxel?'The Minecraft-like feeling':'The Conan / ARK feeling';t.querySelector('small').textContent=isVoxel?'Mining, crafting and worlds you reshape.':'A base, a crew, a world worth exploring.';
   $('[data-preset="best"] small').textContent='Strong fit, with reception and sample sizes visible.';
-  $('[data-preset="new"] small').textContent='Recent first releases; old editions stay labelled.';
+  $('[data-preset="new"] small').textContent='Recent releases; earlier access dates stay visible.';
   $('[data-preset="mods"]').hidden=true;
   const key=state.hub+'|'+CATALOG.build.datasetHash;
   if(routeKey!==key||baseInvalidated){
@@ -63,7 +63,7 @@
  sourcePanel=function(g){
   const base=before.source(g);if(!g.survivalInfo)return base;const s=g.survivalInfo;
   const fields=[['WORLD & SYSTEMS',s.world],['SOLO',s.solo],['CO-OP',s.coop],['HOSTING',s.hosting],['MODDING',s.modding],['TERRAIN & BUILDING',s.terrain]];
-  return base+`<section class="survival-brief detail-section"><span class="eyebrow">SURVIVAL FIELD NOTES</span><h3>${esc(g.survivalCollection||g.collection)}</h3><p>${esc(g.survivalWhy||g.summary)}</p><div class="survival-facts">${fields.map(([label,value])=>`<div><small>${esc(label)}</small><strong>${esc(value||'Check the official source')}</strong></div>`).join('')}</div><p class="survival-boundary">${esc(s.basis)}</p>${g.originalReleaseYear?`<p>Original release: ${esc(g.originalReleaseYear)}. The store date may describe a later edition or full-release milestone.</p>`:''}${g.recommendationCaution?`<p class="recommendation-caution">${esc(g.recommendationCaution)}</p>`:''}<a href="${wiki}Survival-Field-Guide" target="_blank" rel="noopener">Edition, server and source guide ${icon('external')}</a></section>`;
+  return base+`<section class="survival-brief detail-section"><span class="eyebrow">SURVIVAL FIELD NOTES</span><h3>${esc(g.survivalCollection||g.collection)}</h3><p>${esc(g.survivalWhy||g.summary)}</p><div class="survival-facts">${fields.map(([label,value])=>`<div><small>${esc(label)}</small><strong>${esc(value||'Check the official source')}</strong></div>`).join('')}</div><p class="survival-boundary">${esc(s.basis)}</p>${g.earlyAccessReleaseDate?`<p class="release-chronology"><strong>Steam Early Access:</strong> ${esc(g.earlyAccessReleaseDate)}<br><strong>Store/full-release milestone:</strong> ${esc(g.releaseDate||g.releaseLabel)}. These are separate dates, not two games.</p>`:''}${g.originalReleaseYear?`<p>Original release: ${esc(g.originalReleaseYear)}. The store date may describe a later edition or full-release milestone.</p>`:''}${g.recommendationCaution?`<p class="recommendation-caution">${esc(g.recommendationCaution)}</p>`:''}<a href="${wiki}Survival-Field-Guide" target="_blank" rel="noopener">Edition, server and source guide ${icon('external')}</a></section>`;
  };
  document.addEventListener('click',e=>{const b=e.target.closest('[data-survival-route]');if(b&&active())route(b.dataset.survivalRoute);});
  renderedHub=undefined;options();render();hero();if(currentGame)openGame(currentGame.id);

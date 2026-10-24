@@ -17,7 +17,7 @@ def build(root,catalog):
   intro+=('Conan, ARK and Windrose are the starting point: gather resources, build a home, explore, fight, and make a world with friends. Tactical, colony and automation neighbors remain explicitly labelled.\n\n' if hub=='Survival' else 'Minecraft, Terraria, Hytale and Vintage Story define this separate category: editable worlds, mining, construction, crafting and long-term discovery. Voxel RPGs and factory sandboxes are labelled neighbors, not falsely described as the same survival loop.\n\n')
   picks=sorted([g for g in rows if not g.get('comingSoon') and (score(g) or 0)>=8 and g['status'] not in ['Prototype','Demo']],key=rank)
   intro+='## Where to start\n\n'+media_atlas(picks[:12],hub)
-  routes=[('Playable now',{'playable':'true'},'Released and accessible development builds, with their exact statuses visible.'),('Strongest fit',{'fit':'8','playable':'true'},'Editorial fit is checked against review reception and sample size.'),('Newest discoveries',{'tag':'Recent survival release','playable':'true','sort':'newest'},'2025-2026 first releases, not old games made new by a patch.'),('Co-op',{'coop':'true','playable':'true'},'Co-op explicitly listed in the source. Cross-play and server rules are separate.'),('Single-player listed',{'tag':'Single-player listed','playable':'true'},'A single-player listing is not a guarantee of fully offline access.'),('Outside Steam',{'offSteam':'true'},'Confirmed alternate stores and creator projects.'),('Demos',{'demo':'true'},'Actual demo destinations attached to their game, not duplicate games.'),('Watchlist',{'status':'Upcoming'},'Unreleased full games, clearly separated.')]
+  routes=[('Playable now',{'playable':'true'},'Released and accessible development builds, with their exact statuses visible.'),('Strongest fit',{'fit':'8','playable':'true'},'Editorial fit is checked against review reception and sample size.'),('Newest discoveries',{'tag':'Recent survival release','playable':'true','sort':'newest'},'2025-2026 store releases with confirmed earlier access excluded. Original non-Steam dates may be earlier; inspect the title chronology.'),('Co-op',{'coop':'true','playable':'true'},'Co-op explicitly listed in the source. Cross-play and server rules are separate.'),('Single-player listed',{'tag':'Single-player listed','playable':'true'},'A single-player listing is not a guarantee of fully offline access.'),('Outside Steam',{'offSteam':'true'},'Confirmed alternate stores and creator projects.'),('Demos',{'demo':'true'},'Actual demo destinations attached to their game, not duplicate games.'),('Watchlist',{'status':'Upcoming'},'Unreleased full games, clearly separated.')]
   intro+='## Choose the kind of world\n\n| Route | What it means |\n|:--|:--|\n'
   for name,params,note in routes:intro+=f'| [{name}]({link(dict(hub=hub,**params))}) | {note} |\n'
   intro+='\n## The full collection\n\n'
@@ -31,6 +31,7 @@ def build(root,catalog):
    text+=f'\n## Survival field notes\n\n[Back to {hub}]({slug})\n\n'
    for k,label in [('world','World and systems'),('solo','Solo'),('coop','Co-op'),('hosting','Hosting'),('modding','Modding'),('terrain','Terrain and building')]:text+='**'+label+':** '+m(info.get(k))+'\n\n'
    text+=m(info.get('basis'))+'\n\n'
+   if g.get('earlyAccessReleaseDate'):text+='**Steam Early Access:** '+m(g['earlyAccessReleaseDate'])+'; **store/full-release milestone:** '+m(g.get('releaseDate') or g.get('releaseLabel'))+'. These are separate dates, not separate games.\n\n'
    if g.get('survivalWhy'):text+='**Why it is here:** '+m(g['survivalWhy'])+'\n'
    p.write_text(text)
  if not allrows:return
@@ -51,7 +52,7 @@ def build(root,catalog):
 
 A Steam single-player label is not proof of offline play. Co-op does not imply cross-play, split-screen, private dedicated servers, a particular player limit, or save compatibility. Dedicated-server and modding flags record explicit source mentions only. Check the official instructions for the exact edition and build.
 
-Released, Early Access, prototypes, demos and upcoming games remain distinct. Old originals and new editions are dated separately where verified. Prices are dated US store snapshots, not live offers.
+Released, Early Access, prototypes, demos and upcoming games remain distinct. Old originals and new editions are dated separately where verified. Steam's separately labelled Early Access launch is shown alongside a later 1.0/store milestone. Confirmed pre-2025 access is excluded from the recent-discoveries shortcut; a missing history label is not proof of no earlier non-Steam release. Prices are dated US store snapshots, not live offers.
 
 ## Creator-hosted games
 

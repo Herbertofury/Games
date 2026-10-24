@@ -15,6 +15,7 @@ Polylithic is a survival game unlike any other, set in the most pivotal moment i
 | Availability | Released |
 | Build type | Standalone game |
 | Play style | Survival / settlement building |
+| Original release year | 2023 |
 | Creators | polyperfect |
 | Price snapshot | $14.99 |
 | Verified | 2026-10-23T22:40:43.622826+00:00 |
@@ -54,6 +55,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 - [Steam](https://store.steampowered.com/app/1839060/) · checked 2026-10-23T22:40:43.622826+00:00
 - [Steam store API](https://store.steampowered.com/api/appdetails?appids=1839060&l=english&cc=us) · checked 2026-10-23T22:40:43.622826+00:00
 - [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1839060%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T22:40:43.622826+00:00
+- [Steam](https://store.steampowered.com/app/1839060/?l=english&cc=us) · checked 2026-10-24T00:38:09.276530+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -74,5 +76,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 **Terrain and building:** See gameplay for terrain-editing and construction limits
 
 Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.
+
+**Steam Early Access:** 2023-11-09; **store/full-release milestone:** 2026-08-25. These are separate dates, not separate games.
 
 **Why it is here:** Polylithic is a survival game unlike any other, set in the most pivotal moment in mankind's history. Experience life as a Paleolithic hunter-gatherer, settle down as a Neolithic farmer, form tribes in co-op multiplayer, or go it alone in a world where the apex predator is still a distant aspiration.

@@ -14,7 +14,7 @@
 
 A Steam single-player label is not proof of offline play. Co-op does not imply cross-play, split-screen, private dedicated servers, a particular player limit, or save compatibility. Dedicated-server and modding flags record explicit source mentions only. Check the official instructions for the exact edition and build.
 
-Released, Early Access, prototypes, demos and upcoming games remain distinct. Old originals and new editions are dated separately where verified. Prices are dated US store snapshots, not live offers.
+Released, Early Access, prototypes, demos and upcoming games remain distinct. Old originals and new editions are dated separately where verified. Steam's separately labelled Early Access launch is shown alongside a later 1.0/store milestone. Confirmed pre-2025 access is excluded from the recent-discoveries shortcut; a missing history label is not proof of no earlier non-Steam release. Prices are dated US store snapshots, not live offers.
 
 ## Creator-hosted games
 

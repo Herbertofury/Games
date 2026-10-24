@@ -15,6 +15,7 @@ The Wandering Village is a city-building simulation game on the back of a giant,
 | Availability | Released |
 | Build type | Standalone game |
 | Play style | Crafting / survival-adjacent |
+| Original release year | 2022 |
 | Creators | Stray Fawn Studio |
 | Price snapshot | $29.99 |
 | Verified | 2026-10-23T22:40:43.622826+00:00 |
@@ -68,6 +69,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 - [Steam](https://store.steampowered.com/app/1121640/) · checked 2026-10-23T22:40:43.622826+00:00
 - [Steam store API](https://store.steampowered.com/api/appdetails?appids=1121640&l=english&cc=us) · checked 2026-10-23T22:40:43.622826+00:00
 - [Steam reviews API](https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1121640%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D) · checked 2026-10-23T22:40:43.622826+00:00
+- [Steam](https://store.steampowered.com/app/1121640/?l=english&cc=us) · checked 2026-10-24T00:38:09.276530+00:00
 
 [Score methodology](Ratings-and-Sources). Editorial recommendation is not a claim of hands-on testing.
 
@@ -88,5 +90,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 **Terrain and building:** See gameplay for terrain-editing and construction limits
 
 Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.
+
+**Steam Early Access:** 2022-09-14; **store/full-release milestone:** 2025-07-17. These are separate dates, not separate games.
 
 **Why it is here:** The Wandering Village is a city-building simulation game on the back of a giant, wandering creature. Build your settlement and form a symbiotic relationship with the colossus. Will you survive together in this hostile, yet beautiful post-apocalyptic world, contaminated by poisonous plants?

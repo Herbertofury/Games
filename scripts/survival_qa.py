@@ -53,6 +53,8 @@ try:
    assert page.locator('#media-video,.youtube-consent').count()==1,(g['name'],'missing player');actual=page.locator('.media-source-line a').get_attribute('href');expected_video=page.evaluate('(u)=>new URL(u).href',g['trailers'][0].get('watchUrl') or g['trailers'][0]['sourceUrl']);assert actual==expected_video,(g['name'],'wrong video source')
    if g.get('requirements'):assert page.locator('.requirements').count()==1
    assert page.locator('.survival-facts>div').count()==6
+   if g.get('earlyAccessReleaseDate'):
+    chronology=page.locator('.release-chronology').inner_text();assert g['earlyAccessReleaseDate'] in chronology and (g.get('releaseDate') or g['releaseLabel']) in chronology,(g['name'],'release chronology not shown')
    report['details'].append({'id':g['id'],'sources':links,'videoSource':actual,'fieldNotes':True});page.evaluate('closeModal()')
    if (i+1)%50==0:print('SURVIVAL PANELS',i+1,'/',len(rows),flush=True)
   check('Every survival and Minecraft-like detail/source panel checked',len(report['details'])==len(rows))
