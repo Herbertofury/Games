@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "version": "1.5.0",
-  "builtAt": "2026-10-24T00:42:54.943239+00:00",
+  "builtAt": "2026-10-24T01:02:01.985874+00:00",
   "sourceRepository": "https://github.com/Herbertofury/Games",
-  "sourceRevision": "b698c1d8a840b112c3599e6838153952004eb17b",
+  "sourceRevision": "6f01a010d4f077dfc21a53003bf2b5bc42b2d391",
   "sourceWiki": "https://github.com/Herbertofury/Games/wiki",
-  "datasetHash": "d14ebfa7b84ab960b4bbf99165e1ecab3113201fff1976288063afc5aa660c38",
+  "datasetHash": "9f982d40333142f046d756667e24163ee4465556c5bb002813c828398236e033",
   "records": 1567,
   "verified": 1567,
   "unresolved": 0,
@@ -138,8 +138,8 @@
     "itch.io"
   ],
   "html": {
-    "bytes": 18922836,
-    "sha256": "15166f3b74a2b54b2bce40b4ee70766692f27a45dc76c603aaf8bd96c5b4f49c"
+    "bytes": 18922794,
+    "sha256": "a1f9f66c66b59daa15eff9d3f2e8874d04c38427f7e8fd148c393512b686f38c"
   },
   "sourceFiles": {
     "site/survival.js": "7605cfbc56136642f1db47a1fb8c5d42e76e53af654f83c20ef549348d0f778c",
@@ -181,7 +181,7 @@
     "scripts/collect_external_media.py": "0b74947767acc16a77554e627aeb79b7c88611a781bb5fb271fb438bfba96bc7",
     "scripts/collect_survival.py": "a094cd9b2846a613717b2d844e71c8925d5561cb6e7abb13817373ca02dec6a6",
     "scripts/repair_survival_search.py": "f2e2b8ccaf4aad3ac8d4215743cb45cd8ba57ce3ac578469e664e126eede8ae3",
-    "scripts/survival_model.py": "2f3ea46431f42a27d52c91a6bc6b8a2c1e83b1377f0e3079afda2c929a63750a",
+    "scripts/survival_model.py": "b26737011b6847f18ef3b36ac66e9845f3c6689219059cd9e2a81dabd4b967f6",
     "scripts/apply_survival_chronology.py": "4860b38549f1b9d27189aa69033147869b272b951bd052284b38c14bcd03d887",
     "scripts/metroidvania_wiki.py": "256479ea437b0b6ddd2852ea7a1be6ef83bab77ffcc520eafcef3f23fc15ad28",
     "scripts/audit_platformer_video_gaps.py": "2d0ffc1e265675dc1c1a10b58647dd352c65faaef1cb17e0e4394aba9c42e48b",
@@ -284,7 +284,7 @@
     "data/survival-enrichment-report.json": "cbc1b175b576ef47591d9f4f8b900581f2bb25fbcbd1449e7df0c544c89dc0ea",
     "data/name-history.json": "8ba4b6e23f9d260335aaa4bd9cca774ed3264529204359811f81da43df66977f",
     "data/platformers-completion-report.json": "e7d14ba547057aa3b28611809a1bf6cd74ebf0e265fa0210f7ff1ade328964aa",
-    "data/external-media-report.json": "3a9702ab12a71739cd683e05aab1539e3166154a3ca7e49b78aa994e1de8b7ed",
+    "data/external-media-report.json": "96d6497b77c09b069c894c322d7061c93795622ffc12d6d52dbd33f0db7d1729",
     "data/platformers-index.csv": "8951a932928e0ea79b4811ad8029bb4bce4640f4045ab845554c94a2037ba021",
     "data/rts-steam.json": "6d65f92e7042e0562ae9ef671c63e699ef788d7abf03e96f7d340b678d4d22a9",
     "data/platformers-external-seeds.json": "094fe162c4dcd109dbcd863a12ec6b01886774a9d9f4012777aef8502de5d904",
@@ -292,7 +292,7 @@
     "data/rts-expansion.json": "bf3e7922546a335935a8a60f0ee3a0800c6f4a130621150b990e32af734ab093",
     "data/storefront-discovery-report.json": "6b2a50dc1b8aa1d0e6bcd0ce258bdf244fa2d5c43a998cbd6e0a489c62037a45",
     "data/survival-source-report.json": "6dad6dc45d026e69efc37505999f99e71d9059871ea74838dfc831e8ac30172f",
-    "data/survival-study-report.json": "af7e88d149b16ea42afe7a564cb3ed5e36d372e525e399f919daa645cbf51d2f",
+    "data/survival-study-report.json": "d56822e4a5178d817dbf9a38ae748a67f9497219daec85c92f14373417ce246c",
     "data/rts-storefronts.json": "a18b82f919ebb6e47f86ad518f9eb80d17e9cbb4fe48de5b994c846d1924f8ef",
     "data/survival-discovery-index.json": "e60b9d3cfbaf1147fcda0b87002d0275c8063057880c00347de05f83fae56be2",
     "data/rts-curation.json": "e49894812b3a980cb08e09abf930523d168ef45865446eec96bf897bd3c87ed9",
@@ -316,11 +316,11 @@
     "data/shooters-steam.json": "81975fe9eb6a7ebf8d743b4bed5dfece310689c8fff7d39658b755c55e820155",
     "data/metroidvania-resolved-media.json": "53e70da13462a0ad8e3e44325c5996f20ed51e690d0f3a0ca3e93c3d5d6abbc1",
     "data/platformers-media-completion-report.json": "c935f4f6c4d156414c2d9cca2cf612ab4f14842febb1e19a977266e6abf398d2",
-    "data/platformers-study-report.json": "7d4768ebf86e18b1a333e1988cf75b4c2ee348fc0ee5bd1b60499494b5c554ba",
+    "data/platformers-study-report.json": "6cc6bc2b553c6d9d201de9346d35bd501a3386eb78918439ead966233c5ebb87",
     "data/metroidvania-reconciliation.json": "0be40b953d0a615947c6dcb81ff314503d95f2ff92ea46b977628b59d338ba57",
-    "data/catalog.json": "d2a9cff78a16cd004807dd7b25df9ea2f4965d68cdcecaf820f9b8b0a4a8eebd",
+    "data/catalog.json": "34e7f64a080e193358b7ecc4f28c5c3067b7f3031947cc77980d10a3b11c9337",
     "data/survival-finish-plan.json": "9653aaaa2457357a0213cf7b6131dd773a831a9efadc7fd6ca5e18dd3952a62a",
-    "data/shooters-external.json": "6789bfbca1ae228729feba85f04fef381b42e78b3e91e827b8c8c8e5b8ce0b06",
+    "data/shooters-external.json": "b0fc9c3869fb3903462a65f4d268451f20c7553168daa7b566cb5363427b0a20",
     "data/survival-additions.json": "5de61430bebef08af96692d8b5ccde5d3cadafb7b08e87f0ef0439717d2c00a6"
   }
 }

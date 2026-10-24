@@ -16,7 +16,7 @@ The publication gate retains every earlier unit and browser suite and adds compl
 
 ```json
 {
-  "checkedAt": "2026-10-24T00:26:39.290441+00:00",
+  "checkedAt": "2026-10-24T00:49:52.110498+00:00",
   "records": 1567,
   "studyRecords": 381,
   "hubCounts": {
@@ -58,7 +58,7 @@ The publication gate retains every earlier unit and browser suite and adds compl
   },
   "artwork": 381,
   "video": 381,
-  "datasetHash": "d6cc5af4cf970022b84b7f3c011176426e877e86798f7b3599ca540123a0b4b1"
+  "datasetHash": "9f982d40333142f046d756667e24163ee4465556c5bb002813c828398236e033"
 }
 ```
 

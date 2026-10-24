@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-24T00:27:58.280Z",
+  "exportedAt": "2026-10-24T00:51:17.980Z",
   "filters": {
     "hub": "Minecraft-like worlds",
     "provider": "",
@@ -1955,6 +1955,14 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1169040%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1169040/?l=english&cc=us",
+          "provider": "Steam",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:38:09.276530+00:00",
+          "evidence": "Steam explicitly labels Early Access Release Date: Dec 12, 2019"
         }
       ],
       "warnings": [],
@@ -2017,6 +2025,14 @@
         "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
       },
       "curatorWhy": "For a Terraria-like adventure with a settlement that can work alongside you. A strong choice for people who like both expedition progress and managing a growing home.",
+      "earlyAccessReleaseDate": "2019-12-12",
+      "releaseChronology": {
+        "earlyAccess": "2019-12-12",
+        "storeMilestone": "2025-10-16",
+        "sourceUrl": "https://store.steampowered.com/app/1169040/?l=english&cc=us",
+        "evidence": "Steam explicitly labels Early Access Release Date: Dec 12, 2019",
+        "checkedAt": "2026-10-24T00:38:09.276530+00:00"
+      },
       "survivalHub": "Minecraft-like worlds",
       "survivalCollection": "Terraria-like 2D worlds",
       "survivalFit": 10,
@@ -3009,7 +3025,6 @@
         "Indie",
         "Minecraft-like collection",
         "Minecraft-like worlds",
-        "Recent survival release",
         "Simulation",
         "Single-player listed",
         "Survival neighbor"
@@ -3192,6 +3207,14 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A387990%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+        },
+        {
+          "url": "https://store.steampowered.com/app/387990/?l=english&cc=us",
+          "provider": "Steam",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:38:09.276530+00:00",
+          "evidence": "Steam explicitly labels Early Access Release Date: Jan 19, 2016"
         }
       ],
       "warnings": [],
@@ -3252,6 +3275,15 @@
         ],
         "candidates": [],
         "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      },
+      "earlyAccessReleaseDate": "2016-01-19",
+      "originalReleaseYear": 2016,
+      "releaseChronology": {
+        "earlyAccess": "2016-01-19",
+        "storeMilestone": "2026-07-24",
+        "sourceUrl": "https://store.steampowered.com/app/387990/?l=english&cc=us",
+        "evidence": "Steam explicitly labels Early Access Release Date: Jan 19, 2016",
+        "checkedAt": "2026-10-24T00:38:09.276530+00:00"
       },
       "survivalHub": "Minecraft-like worlds",
       "survivalCollection": "Automation, factories & creative neighbors",
@@ -5892,6 +5924,14 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2764460%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2764460/?l=english&cc=us",
+          "provider": "Steam",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:38:09.276530+00:00",
+          "evidence": "Steam explicitly labels Early Access Release Date: Aug 13, 2026"
         }
       ],
       "warnings": [],
@@ -5981,6 +6021,15 @@
         ],
         "candidates": [],
         "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      },
+      "earlyAccessReleaseDate": "2026-08-13",
+      "originalReleaseYear": 2026,
+      "releaseChronology": {
+        "earlyAccess": "2026-08-13",
+        "storeMilestone": "2026-08-13",
+        "sourceUrl": "https://store.steampowered.com/app/2764460/?l=english&cc=us",
+        "evidence": "Steam explicitly labels Early Access Release Date: Aug 13, 2026",
+        "checkedAt": "2026-10-24T00:38:09.276530+00:00"
       },
       "survivalHub": "Minecraft-like worlds",
       "survivalCollection": "Automation, factories & creative neighbors",
@@ -7031,6 +7080,14 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2617700%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2617700/?l=english&cc=us",
+          "provider": "Steam",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:38:09.276530+00:00",
+          "evidence": "Steam explicitly labels Early Access Release Date: May 23, 2025"
         }
       ],
       "warnings": [],
@@ -7090,6 +7147,15 @@
         ],
         "candidates": [],
         "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      },
+      "earlyAccessReleaseDate": "2025-05-23",
+      "originalReleaseYear": 2025,
+      "releaseChronology": {
+        "earlyAccess": "2025-05-23",
+        "storeMilestone": "2025-05-23",
+        "sourceUrl": "https://store.steampowered.com/app/2617700/?l=english&cc=us",
+        "evidence": "Steam explicitly labels Early Access Release Date: May 23, 2025",
+        "checkedAt": "2026-10-24T00:38:09.276530+00:00"
       },
       "survivalHub": "Minecraft-like worlds",
       "survivalCollection": "Terraria-like 2D worlds",
@@ -7386,6 +7452,14 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2253100%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2253100/?l=english&cc=us",
+          "provider": "Steam",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:38:09.276530+00:00",
+          "evidence": "Steam explicitly labels Early Access Release Date: Mar 17, 2026"
         }
       ],
       "warnings": [],
@@ -7453,6 +7527,15 @@
         "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
       },
       "curatorWhy": "A newer floating-island voxel adventure with survival and construction. Worth investigating for the Minecraft-like shelf, with its Early Access limitations visible.",
+      "earlyAccessReleaseDate": "2026-03-17",
+      "originalReleaseYear": 2026,
+      "releaseChronology": {
+        "earlyAccess": "2026-03-17",
+        "storeMilestone": "2026-03-17",
+        "sourceUrl": "https://store.steampowered.com/app/2253100/?l=english&cc=us",
+        "evidence": "Steam explicitly labels Early Access Release Date: Mar 17, 2026",
+        "checkedAt": "2026-10-24T00:38:09.276530+00:00"
+      },
       "survivalHub": "Minecraft-like worlds",
       "survivalCollection": "Block-building survival & voxel frontiers",
       "survivalFit": 9,
@@ -9782,6 +9865,14 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A3516590%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-23T22:52:09.992135+00:00"
+        },
+        {
+          "url": "https://store.steampowered.com/app/3516590/?l=english&cc=us",
+          "provider": "Steam",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:38:09.276530+00:00",
+          "evidence": "Steam explicitly labels Early Access Release Date: Aug 28, 2026"
         }
       ],
       "warnings": [],
@@ -9862,6 +9953,15 @@
         "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
       },
       "curatorWhy": "A newer voxel-sandbox discovery for the dedicated Minecraft-like section. Its creator support page is separate from the game purchase.",
+      "earlyAccessReleaseDate": "2026-08-28",
+      "originalReleaseYear": 2026,
+      "releaseChronology": {
+        "earlyAccess": "2026-08-28",
+        "storeMilestone": "2026-08-28",
+        "sourceUrl": "https://store.steampowered.com/app/3516590/?l=english&cc=us",
+        "evidence": "Steam explicitly labels Early Access Release Date: Aug 28, 2026",
+        "checkedAt": "2026-10-24T00:38:09.276530+00:00"
+      },
       "survivalHub": "Minecraft-like worlds",
       "survivalCollection": "Block-building survival & voxel frontiers",
       "survivalFit": 9,
@@ -10060,6 +10160,14 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2710040%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2710040/?l=english&cc=us",
+          "provider": "Steam",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:38:09.276530+00:00",
+          "evidence": "Steam explicitly labels Early Access Release Date: Sep 21, 2026"
         }
       ],
       "warnings": [],
@@ -10129,6 +10237,15 @@
         ],
         "candidates": [],
         "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      },
+      "earlyAccessReleaseDate": "2026-09-21",
+      "originalReleaseYear": 2026,
+      "releaseChronology": {
+        "earlyAccess": "2026-09-21",
+        "storeMilestone": "2026-09-21",
+        "sourceUrl": "https://store.steampowered.com/app/2710040/?l=english&cc=us",
+        "evidence": "Steam explicitly labels Early Access Release Date: Sep 21, 2026",
+        "checkedAt": "2026-10-24T00:38:09.276530+00:00"
       },
       "survivalHub": "Minecraft-like worlds",
       "survivalCollection": "Terraria-like 2D worlds",
@@ -16524,7 +16641,6 @@
         "Minecraft-like collection",
         "Minecraft-like worlds",
         "Modding mentioned",
-        "Recent survival release",
         "Simulation",
         "Single-player listed",
         "Strategy",
@@ -16745,6 +16861,14 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1450900%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1450900/?l=english&cc=us",
+          "provider": "Steam",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:38:09.276530+00:00",
+          "evidence": "Steam explicitly labels Early Access Release Date: Aug 15, 2023"
         }
       ],
       "warnings": [],
@@ -16823,6 +16947,15 @@
           }
         ],
         "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      },
+      "earlyAccessReleaseDate": "2023-08-15",
+      "originalReleaseYear": 2023,
+      "releaseChronology": {
+        "earlyAccess": "2023-08-15",
+        "storeMilestone": "2026-03-05",
+        "sourceUrl": "https://store.steampowered.com/app/1450900/?l=english&cc=us",
+        "evidence": "Steam explicitly labels Early Access Release Date: Aug 15, 2023",
+        "checkedAt": "2026-10-24T00:38:09.276530+00:00"
       },
       "survivalHub": "Minecraft-like worlds",
       "survivalCollection": "Automation, factories & creative neighbors",
@@ -18370,6 +18503,14 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2283580%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-23T22:40:43.622826+00:00"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2283580/?l=english&cc=us",
+          "provider": "Steam",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:38:09.276530+00:00",
+          "evidence": "Steam explicitly labels Early Access Release Date: Mar 10, 2025"
         }
       ],
       "warnings": [],
@@ -18440,6 +18581,15 @@
         ],
         "candidates": [],
         "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
+      },
+      "earlyAccessReleaseDate": "2025-03-10",
+      "originalReleaseYear": 2025,
+      "releaseChronology": {
+        "earlyAccess": "2025-03-10",
+        "storeMilestone": "2025-03-10",
+        "sourceUrl": "https://store.steampowered.com/app/2283580/?l=english&cc=us",
+        "evidence": "Steam explicitly labels Early Access Release Date: Mar 10, 2025",
+        "checkedAt": "2026-10-24T00:38:09.276530+00:00"
       },
       "survivalHub": "Minecraft-like worlds",
       "survivalCollection": "New voxel discoveries & experimental worlds",
@@ -19453,6 +19603,14 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A4468350%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-23T22:52:09.992135+00:00"
+        },
+        {
+          "url": "https://store.steampowered.com/app/4468350/?l=english&cc=us",
+          "provider": "Steam",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:38:09.276530+00:00",
+          "evidence": "Steam explicitly labels Early Access Release Date: Apr 6, 2026"
         }
       ],
       "warnings": [
@@ -19515,6 +19673,15 @@
         "scope": "Exact GOG and itch.io matches and game-site outbound links. Unknown does not mean absent; this is not all worldwide key resellers."
       },
       "recommendationCaution": "Small review sample. An exploratory discovery, not a well-established quality consensus.",
+      "earlyAccessReleaseDate": "2026-04-06",
+      "originalReleaseYear": 2026,
+      "releaseChronology": {
+        "earlyAccess": "2026-04-06",
+        "storeMilestone": "2026-04-06",
+        "sourceUrl": "https://store.steampowered.com/app/4468350/?l=english&cc=us",
+        "evidence": "Steam explicitly labels Early Access Release Date: Apr 6, 2026",
+        "checkedAt": "2026-10-24T00:38:09.276530+00:00"
+      },
       "survivalHub": "Minecraft-like worlds",
       "survivalCollection": "New voxel discoveries & experimental worlds",
       "survivalFit": 7,

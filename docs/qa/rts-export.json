@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-24T00:31:53.614Z",
+  "exportedAt": "2026-10-24T00:55:31.898Z",
   "filters": {
     "hub": "Real-time strategy",
     "provider": "",
@@ -15415,8 +15415,6 @@
         "Colony survival / adjacent",
         "Procedural worlds",
         "RTS",
-        "Recent RTS release",
-        "Recent survival release",
         "Simulation",
         "Single-player listed",
         "Strategy",
@@ -15590,6 +15588,14 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1422440%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-23T22:52:09.992135+00:00"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1422440/?l=english&cc=us",
+          "provider": "Steam",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:38:09.276530+00:00",
+          "evidence": "Steam explicitly labels Early Access Release Date: Jul 22, 2024"
         }
       ],
       "warnings": [],
@@ -15687,7 +15693,16 @@
         "terrain": "See gameplay for terrain-editing and construction limits",
         "basis": "Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.",
         "sourceUrl": "https://store.steampowered.com/app/1422440/"
-      }
+      },
+      "earlyAccessReleaseDate": "2024-07-22",
+      "releaseChronology": {
+        "earlyAccess": "2024-07-22",
+        "storeMilestone": "2025-03-20",
+        "sourceUrl": "https://store.steampowered.com/app/1422440/?l=english&cc=us",
+        "evidence": "Steam explicitly labels Early Access Release Date: Jul 22, 2024",
+        "checkedAt": "2026-10-24T00:38:09.276530+00:00"
+      },
+      "originalReleaseYear": 2024
     },
     {
       "id": "steam:334920",
@@ -30991,8 +31006,6 @@
         "Colony survival / adjacent",
         "Procedural worlds",
         "RTS",
-        "Recent RTS release",
-        "Recent survival release",
         "Single-player listed",
         "Strategy",
         "Survival",
@@ -31216,6 +31229,14 @@
           "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1426450%2C%22languages%22%3A%5B%22all%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22num_per_page%22%3A1%2C%22display_language%22%3A%22english%22%7D",
           "verified": true,
           "lastChecked": "2026-10-23T22:52:09.992135+00:00"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1426450/?l=english&cc=us",
+          "provider": "Steam",
+          "kind": "source",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:38:09.276530+00:00",
+          "evidence": "Steam explicitly labels Early Access Release Date: Oct 7, 2021"
         }
       ],
       "warnings": [],
@@ -31293,7 +31314,16 @@
         "terrain": "See gameplay for terrain-editing and construction limits",
         "basis": "Store descriptions and feature flags. A mention is not proof of cross-play, offline access, or every server option.",
         "sourceUrl": "https://store.steampowered.com/app/1426450/"
-      }
+      },
+      "earlyAccessReleaseDate": "2021-10-07",
+      "releaseChronology": {
+        "earlyAccess": "2021-10-07",
+        "storeMilestone": "2025-01-15",
+        "sourceUrl": "https://store.steampowered.com/app/1426450/?l=english&cc=us",
+        "evidence": "Steam explicitly labels Early Access Release Date: Oct 7, 2021",
+        "checkedAt": "2026-10-24T00:38:09.276530+00:00"
+      },
+      "originalReleaseYear": 2021
     },
     {
       "id": "steam:281610",
