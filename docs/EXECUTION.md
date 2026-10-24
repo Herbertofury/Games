@@ -146,3 +146,35 @@ Exact next action: use catalog-24 and the current canonical source layers for re
 ## Survival source checkpoint, October 23, 2026
 
 The requested Survival and Minecraft-like worlds hubs are integrated. Source checkpoint artifact 12538271115 (SHA-256 73d536a3d65ea3193204a1f1139705061c013446ffdd598330d5d98042202302) retained all reviewed media and source mutations after two integration findings. Repairs normalized the new research-ledger names and extended the existing exact-union assertion to include the new canonical sources, without removing original checks. Source/unit tests precede this coherent checkpoint; complete Chrome validation, actual native Wiki publication, release hashes and Drive synchronization remain required. Next action: the full publication workflow, with scripts/survival_qa.py alongside every previous browser suite. Do not rerun initial source discovery or unmodified failed searches.
+
+## Survival release and synchronized backup verified
+
+This is the current acceptance checkpoint. It supersedes the source-only Survival checkpoint and historical next actions above. Resume from catalog-32, not interrupted discovery, integration, chronology, or publication jobs.
+
+Release: https://github.com/Herbertofury/Games/releases/tag/catalog-32
+Runtime source: `6f01a010d4f077dfc21a53003bf2b5bc42b2d391`.
+Successful publication run: `40046871371`; artifact `12542355379`.
+Native wiki commit: `ab92837db06fa54b429d829738b468172f787550`, verified by the publication push/readback report, with 1,606 generated pages.
+
+The library contains 1,567 unique records. The Survival study contributes 381 unique entries: 299 in Survival across 18 collections and 82 in the separately navigable Minecraft-like worlds hub across 6 collections. All 1,189 catalog-24 identities and prior hub memberships are preserved. Three study records already belonged to another hub, so the addition does not inflate the global unique count. Core references include Conan Exiles, both ARK editions, Windrose, Minecraft, Terraria, Hytale and Vintage Story. Automation, colony, creative and other genre neighbors are explicitly labelled rather than presented as identical survival experiences.
+
+Every one of the 381 published study entries has source-grounded primary artwork, supported embedded-video metadata and confirmed distribution links. Coverage is 563 per-game references: Steam 438 (including distinct demo destinations), GOG 60, itch.io 14, Patreon 5, Epic Games 7, Humble Store 5, official sites 14, GitHub 5, Hytale 2, IndieDB 2, Minecraft 1, Xbox 2, Alderon Games 1, PlayStation 1, Microsoft Store 1, Google Play 1, App Store 1, Vintage Story 2 and STOVE 1. These are confirmed source references, not a claim that every worldwide retailer was exhausted. Support pages, free engines and dependent games, paid games, demos, archives and early builds remain distinct.
+
+Availability in the final snapshot: 240 released, 95 Early Access, 42 upcoming, 1 prototype and 3 playable alpha records. The final chronology pass preserves original/Early Access history separately from storefront/1.0 dates, and reconciles recent-release tags after shared-genre merging. Do not undo those overrides or advertise an older Early Access game as brand new solely because of its full-release date. Unrated creator games retain a missing aggregate rating rather than an invented score.
+
+QA: 104 unit tests and 393 checks across nine browser suites passed, including 116 Survival-specific checks and 19 primary-route/bootstrap checks. All earlier suites remain present. The real-browser gate opened all 381 study detail panels, compared every source-button set with canonical data, and decoded all 381 primary artworks from actual provider bytes. Actual advancing video frames were verified for Windrose, Enshrouded, Terraria and Core Keeper. Creator embed identities, consent, saved-state persistence, complete exports, sorts, filters, mobile bounds and portable-artifact startup passed. No uncaught JavaScript errors were reported. This does not claim every external video was watched end to end.
+
+The final challenge/readback pass verified all prior 1,189 identities, all unique IDs, artwork and every source link in both complete wiki atlases, and exact SHA-256 matches for Survival, Survival-Media, Minecraft-Like-Worlds, Minecraft-Like-Media and Survival-Field-Guide against the native wiki publication report. Desktop and mobile screenshots were inspected. The complete current artifact was reused instead of rerunning unchanged tests or discovery. All records remain present; there is no viewport culling. Current named-anchor checks agree with the official Windrose, Hytale and Vintage Story pages.
+
+Dataset SHA-256: `9f982d40333142f046d756667e24163ee4465556c5bb002813c828398236e033`.
+HTML: 18,922,794 bytes; SHA-256 `a1f9f66c66b59daa15eff9d3f2e8874d04c38427f7e8fd148c393512b686f38c`.
+Source/library ZIP: 24,494,667 bytes; SHA-256 `5dfe4be65342c92c22c37175b4e9a3a2eefd214282196bf366f1115298eb16a4`.
+Complete release/QA artifact: 51,629,721 bytes; SHA-256 `971c1589fce2850f3ae9e33677f49aa80191c60d28aa82c8ac02d1f1d80326e5`.
+
+The stable Drive backup `12wRptA5HBFWZALjgM5mBBxqE2-X-yzIR` was updated in place on October 24, 2026 at 02:58:42 UTC (October 23 in America/Chicago). Its re-downloaded bytes match the complete catalog-32 artifact exactly. Packaged HTML and source ZIP match the GitHub release API digests. Prior GitHub releases remain available. This documentation-only checkpoint does not alter the tested catalog-32 assets or their source lineage.
+
+Research boundary: 11 unpromoted names remain unresolved in `data/survival-reconciliation.json`. They are not silently counted as recommendations and have not been declared nonexistent. None is a missing-media record among the 381 published entries. Required source and media coverage for published entries is complete; the discovery ledger remains available for future specific additions.
+
+Remaining hosting prerequisite: the catalog-32 publication report still records GitHub Pages as disabled. Native Wiki, release, portable HTML and Drive backup are published/synchronized. Settings > Pages > Source: GitHub Actions and a subsequent Publish library run are needed for the hosted interactive site. Do not claim the Pages URL is live.
+
+Exact next action: use catalog-32 and the same stable source IDs for new requests. Preserve all seven hubs, personal storage `games.library.v1`, the separate Minecraft-like worlds navigation, media provenance, source editions and chronology overrides. Apply only requested additions or genuinely invalidated facts, run changed-path tests and publication, and update the same Drive backup. Do not restart completed Survival discovery, chronology repair, media inspection or successful publication jobs.
