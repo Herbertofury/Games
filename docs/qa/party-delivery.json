@@ -1,0 +1,75 @@
+{
+  "repository": "Herbertofury/Games",
+  "runId": 40112499597,
+  "sourceRevision": "cff86c83978cd07bad5ab1904d636fd9f8f9b278",
+  "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
+  "recordCount": 1853,
+  "partyRecords": 339,
+  "collections": 23,
+  "preservedPriorRecords": 1567,
+  "hubCounts": {"Boomer shooters":150,"Couch co-op & party":339,"Metroidvanias":430,"Minecraft-like worlds":82,"Platformers":439,"Real-time strategy":130,"Roguelites":198,"Survival":299},
+  "partyStatuses": {"Released":323,"Early Access":9,"Upcoming":7},
+  "partySources": 501,
+  "providers": {"Steam":376,"itch.io":39,"GOG":68,"Humble Store":4,"Nintendo":13,"Official site":1},
+  "knownCountRecords": 324,
+  "unknownNumericCapacityRecords": 15,
+  "unitTests": {"passed":true,"tests":120},
+  "browserCheckCount": 511,
+  "partyDetailPanels": 339,
+  "partyImagesDecoded": 339,
+  "partyVideoPlayback": [
+    {"id":"steam:965680","name":"Boomerang Fu","time":0.528862,"width":1280,"height":720,"duration":68},
+    {"id":"steam:556050","name":"Hyper Jam","time":0.518511,"width":1280,"height":720,"duration":57},
+    {"id":"steam:2001120","name":"Split Fiction","time":0.533405,"width":1280,"height":720,"duration":30},
+    {"id":"steam:4489580","name":"Scales of Silence","time":0.537128,"width":1280,"height":720,"duration":59.9},
+    {"id":"external:puff-puff-push","name":"Puff Puff Push creator gameplay loop","time":0.508314,"width":320,"height":180,"duration":12.4,"src":"https://raw.githubusercontent.com/Herbertofury/Games/main/media/party/puff-puff-push-gameplay.mp4"}
+  ],
+  "wiki": {"state":"verified","commit":"7876c151ab8229a771891eb9de8d89f71f49f2be","pages":1898},
+  "releaseUrl": "https://github.com/Herbertofury/Games/releases/tag/catalog-36",
+  "githubReleaseAssetsVerified": true,
+  "githubReleaseId": 422857423,
+  "pages": {"state":"unresolved-active","blocker":"Enable GitHub Pages once in Settings > Pages > Source: GitHub Actions."},
+  "files": {
+    "Games-Explorer.html":{"bytes":22422368,"sha256":"7559bdec127447fab1b9ba4adeaf8029dca62fdb40f9f78b78fae35a94c811ce"},
+    "Games-Library.zip":{"bytes":29372813,"sha256":"98d4429a539a70d06234bf7eb2d15cef051378f75a73919f22d4ec17ef093b81"},
+    "Games-Party-Release-Verification.zip":{"bytes":60956603,"sha256":"aded7009e0a5ba61553a333e1d29a42d5262f7c8c63ea8a76723e81f08619ea9"},
+    "Games-Party-Changes.zip":{"bytes":3637207,"sha256":"45e1c4b5657b160b3862d638b5a153b399bd7dbd2e4e474a5b82ef721e6013c3"}
+  },
+  "implementationDiffFiles": 472,
+  "driveBackup": {
+    "state":"verified-byte-for-byte",
+    "fileId":"12wRptA5HBFWZALjgM5mBBxqE2-X-yzIR",
+    "url":"https://drive.google.com/file/d/12wRptA5HBFWZALjgM5mBBxqE2-X-yzIR/view",
+    "bytes":60956603,
+    "sha256":"aded7009e0a5ba61553a333e1d29a42d5262f7c8c63ea8a76723e81f08619ea9",
+    "matches":"Games-Party-Release-Verification.zip / exact GitHub Actions release-and-verification artifact"
+  },
+  "playableSimultaneousPcCounts": {
+    "2":{"Co-op":{"includingLabelledDlc":169,"baseGameOnly":169},"Versus":{"includingLabelledDlc":136,"baseGameOnly":136}},
+    "3":{"Co-op":{"includingLabelledDlc":98,"baseGameOnly":96},"Versus":{"includingLabelledDlc":118,"baseGameOnly":118}},
+    "4":{"Co-op":{"includingLabelledDlc":93,"baseGameOnly":91},"Versus":{"includingLabelledDlc":123,"baseGameOnly":123}},
+    "5":{"Co-op":{"includingLabelledDlc":4,"baseGameOnly":4},"Versus":{"includingLabelledDlc":35,"baseGameOnly":35}},
+    "6":{"Co-op":{"includingLabelledDlc":4,"baseGameOnly":4},"Versus":{"includingLabelledDlc":34,"baseGameOnly":34}},
+    "7":{"Co-op":{"includingLabelledDlc":3,"baseGameOnly":3},"Versus":{"includingLabelledDlc":29,"baseGameOnly":29}},
+    "8":{"Co-op":{"includingLabelledDlc":3,"baseGameOnly":3},"Versus":{"includingLabelledDlc":29,"baseGameOnly":29}}
+  },
+  "browserSuites": {
+    "party-qa.json":{"checks":117,"passed":true},
+    "hub-bootstrap-qa.json":{"checks":19,"passed":true},
+    "source-completion-qa.json":{"checks":17,"passed":true},
+    "survival-qa.json":{"checks":116,"passed":true},
+    "browser-qa.json":{"checks":26,"passed":true},
+    "platformers-qa.json":{"checks":43,"passed":true},
+    "metroidvania-qa.json":{"checks":41,"passed":true},
+    "multiplatform-qa.json":{"checks":26,"passed":true},
+    "platformers-completion-qa.json":{"checks":73,"passed":true},
+    "rts-qa.json":{"checks":33,"passed":true}
+  },
+  "interpretation": {
+    "allPrimaryArtwork":"All 339 actual primary artwork sources decoded in the final browser run.",
+    "allGamePanels":"All 339 party dossiers, mode tables and source button sets were checked.",
+    "selectedVideoPlayback":"Actual advancing video was tested on the explicitly listed selections, not every video end to end.",
+    "storeCoverage":"Confirmed source references, including separately labelled demo destinations. Not an assertion that all worldwide retailers were exhausted.",
+    "sourceDates":"Original releases are not relabelled as new games when they receive updates."
+  }
+}
