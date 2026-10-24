@@ -14,13 +14,27 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-      - run: python3 -m pip install -r requirements-dev.txt
+      - name: Install media validation dependencies
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends ffmpeg
+          ffprobe -version | head -n 1
+      - name: Reconcile the exact verified creator channel
+        shell: python
+        run: |
+          from pathlib import Path
+          p=Path('scripts/party_finish_media.py');s=p.read_text()
+          before="('H1Lo7PlTGBk','SuperTuxKart 1.5','SuperTuxKart',"
+          after="('H1Lo7PlTGBk','SuperTuxKart 1.5','SuperTuxKart Team',"
+          assert before in s or after in s,'Source changed; do not silently modify another identity'
+          p.write_text(s.replace(before,after))
       - run: python3 scripts/party_finish_media.py
       - name: Checkpoint source-bound media assets and provenance
         run: |
           git config user.name 'Games catalog bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/party-media.json data/party-media-receipt.json media/party
+          git add scripts/party_finish_media.py data/party-media.json data/party-media-receipt.json media/party
           if ! git diff --cached --quiet; then
             git commit -m 'Complete exact party trailers, console gallery footage and credited creator motion'
             git pull --rebase origin main
