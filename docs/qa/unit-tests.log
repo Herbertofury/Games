@@ -1,4 +1,4 @@
-..................EXTERNAL Test True 0
+..........................EXTERNAL Test True 0
 ..................................../home/runner/work/Games/Games/tests/test_platformers.py:36: ResourceWarning: unclosed file <_io.TextIOWrapper name='/home/runner/work/Games/Games/data/platformers-seeds.tsv' mode='r' encoding='UTF-8'>
   seeds=list(csv.DictReader((R/'data/platformers-seeds.tsv').open(),delimiter='\t'));self.assertGreaterEqual(len(seeds),420)
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
@@ -10,6 +10,6 @@ ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
 .......................................................
 ----------------------------------------------------------------------
-Ran 120 tests in 17.993s
+Ran 128 tests in 24.310s
 
 OK

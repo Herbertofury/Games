@@ -20,7 +20,7 @@ Wiki pages: Couch-Coop-and-Party, Party-Media, Party-Player-Guide, Party-Two-Pla
 
 ```json
 {
-  "checkedAt": "2026-10-24T16:39:28.467575+00:00",
+  "checkedAt": "2026-10-24T17:38:12.523086+00:00",
   "records": 1853,
   "partyRecords": 339,
   "collections": 23,

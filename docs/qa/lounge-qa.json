@@ -1,0 +1,173 @@
+{
+  "checks": [
+    "Canonical library remains 1853 identities",
+    "Existing private notes and favorites retained",
+    "Single lounge and single original arcade",
+    "Complete original hub Roguelites",
+    "Complete original hub Boomer shooters",
+    "Complete original hub Real-time strategy",
+    "Complete original hub Metroidvanias",
+    "Complete original hub Platformers",
+    "Complete original hub Survival",
+    "Complete original hub Minecraft-like worlds",
+    "Complete original hub Couch co-op & party",
+    "Ambient world really advances",
+    "Next spotlight changes actual game",
+    "Previous spotlight returns to correct game",
+    "Spotlight pause control persists state",
+    "Saved shelf contains real saved game",
+    "Sidebar contains every title in selected hub",
+    "Sidebar search finds exact title",
+    "Library history restores exact mode and headcount",
+    "Forward restores next genre",
+    "Wildcard is a real playable matching game",
+    "Real right-click menu opens",
+    "Context action updates play-next",
+    "Hover preview decodes official screenshot",
+    "Detail section navigation is present",
+    "Sources remain present after detail restyling",
+    "Notes content remains intact",
+    "Sound requires explicit opt-in",
+    "No-animation mode cancels the ambient loop",
+    "Actual reload preserves appearance preferences",
+    "Actual reload preserves original library data",
+    "Live system reduced-motion changes are respected",
+    "Full motion resumes on explicit system change",
+    "Big Picture hides sidebar without culling games",
+    "Big Picture arrows move actual keyboard focus",
+    "Focus mode disables background and extra shelf",
+    "Real keyboard moves the arcade player",
+    "Real input throws returning donut",
+    "Game physics awards score through real movement",
+    "Pause freezes the active-round timer",
+    "Resume restarts active simulation",
+    "Silly physics is an actual gameplay setting",
+    "Minimizing does not silently consume the round",
+    "Desktop window is genuinely draggable",
+    "Performance pass retains every card",
+    "Cached formatter is output-identical on every benchmark input",
+    "Measured formatter hot-path gain",
+    "Actual game simulation reaches the end screen",
+    "Round result writes a real local best score",
+    "Mobile library fits viewport",
+    "Mobile touch controls are visible",
+    "Touch control path throws a donut",
+    "Mobile arcade does not overflow",
+    "Best score survives an actual reload",
+    "Exact portable HTML contains the complete upgraded library",
+    "Storage denial does not prevent full app or game startup",
+    "No uncaught JavaScript errors"
+  ],
+  "errors": [],
+  "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
+  "htmlSha256": "fb8165151cc757c0f31ac537586088e9368fc419fc8356e93bfcb2183fb88265",
+  "sourceRevision": "45973a2f8f4cb3d3c953c83ad84502b7161c3d39",
+  "screenshots": [
+    "lounge-arcade.png",
+    "lounge-desktop.png",
+    "lounge-library.png"
+  ],
+  "renderMs": [
+    148.89999999999418,
+    41.80000000000291,
+    30.90000000000873,
+    31.29999999998836,
+    31.80000000000291
+  ],
+  "arcadePerformance": {
+    "max": 3.5,
+    "mean": 0.39125000000052146
+  },
+  "formatterBenchmark": {
+    "oldMs": 32.69999999999709,
+    "cachedMs": 0.8000000000029104,
+    "outputsIdentical": true
+  },
+  "roundProof": {
+    "method": "Real keyboard input, collisions and timer through Playwright virtual animation frames",
+    "result": {
+      "running": false,
+      "paused": false,
+      "score": 1280,
+      "remaining": 0,
+      "best": 1280,
+      "throws": 36,
+      "hits": 20,
+      "stars": [
+        {
+          "x": 574.6505344159566,
+          "y": 332.690349257541
+        },
+        {
+          "x": 386.5147005490814,
+          "y": 264.45024450414394
+        },
+        {
+          "x": 788.0544336043239,
+          "y": 233.11318324875123
+        },
+        {
+          "x": 255.26128453587137,
+          "y": 263.04324556285394
+        },
+        {
+          "x": 798.1249746794185,
+          "y": 379.41193268059175
+        },
+        {
+          "x": 516.19626439341,
+          "y": 418.47955849541074
+        },
+        {
+          "x": 108.99167823997429,
+          "y": 461.73866713696896
+        },
+        {
+          "x": 716.0898577462834,
+          "y": 192.41821194598094
+        },
+        {
+          "x": 690.8537561835883,
+          "y": 267.85552760043055
+        }
+      ],
+      "targets": [
+        {
+          "x": 876.0341764983189,
+          "y": 348.86806017869145
+        },
+        {
+          "x": 368.6574559112472,
+          "y": 329.2442454762035
+        },
+        {
+          "x": 109.0004476498974,
+          "y": 431.7800310327378
+        },
+        {
+          "x": 812.9688330300178,
+          "y": 151.160993828493
+        },
+        {
+          "x": 866.6594015093267,
+          "y": 138.741335013455
+        }
+      ],
+      "player": {
+        "x": 750.9616114954696,
+        "y": 220.3855469666561
+      },
+      "chaos": false,
+      "background": false,
+      "frames": 3747,
+      "renderFrames": 3755,
+      "frameMs": {
+        "max": 2,
+        "mean": 0.22083333333333333
+      },
+      "storageOK": true,
+      "loopScheduled": false
+    }
+  },
+  "passed": true
+}

@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-24T16:44:28.298Z",
+  "exportedAt": "2026-10-24T17:45:17.635Z",
   "favorites": [
     "steam:2218750"
   ],
   "notes": {
-    "steam:2218750": "QA note: build ideas, no data loss."
+    "steam:303590": "QA note: build ideas, no data loss."
   },
   "statuses": {
-    "steam:2218750": "Backlog"
+    "steam:303590": "Backlog"
   },
   "ratings": {
-    "steam:2218750": 9
+    "steam:303590": 9
   },
   "recent": [
-    "steam:2218750"
+    "steam:303590"
   ],
   "views": [
     {
