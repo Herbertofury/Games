@@ -1,0 +1,38 @@
+name: Research creator and console party games
+on:
+  workflow_dispatch:
+  push:
+    paths: ['scripts/party_beyond_steam.py','.github/workflows/party-creator-research.yml']
+permissions:
+  contents: write
+concurrency:
+  group: party-creator-research
+  cancel-in-progress: false
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install -r requirements-dev.txt
+      - run: python3 scripts/party_beyond_steam.py
+      - name: Preserve evidence without promoting unchecked capacities
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/party-external.json data/party-external-evidence.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record creator and console couch editions, artwork and source capacity evidence'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: party-creator-research
+          path: |
+            data/party-external*
+            scripts/party_beyond_steam.py
