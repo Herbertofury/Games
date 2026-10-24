@@ -10,7 +10,7 @@ def integrate(root,games):
   if previous.get("hubs") and set(previous["hubs"])<=set(HUBS):del games[ident]
   elif any(h in HUBS for h in previous.get("hubs",[])):previous["hubs"]=[h for h in previous["hubs"] if h not in HUBS]
  steam=load(root,'survival-steam.json',{'items':[]});external=load(root,'survival-external.json',{'items':[]});overrides={}
- for filename in ['survival-storefronts.json','survival-curation.json','survival-media.json']:
+ for filename in ['survival-storefronts.json','survival-curation.json','survival-media.json','survival-verified-stores.json']:
   for ident,row in load(root,filename,{'overrides':{}}).get('overrides',{}).items():
    dest=overrides.setdefault(ident,{})
    for k,v in row.items():
