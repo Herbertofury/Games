@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "overrides": {
+    "steam:3041230": {
+      "storefronts": [
+        {
+          "provider": "STOVE",
+          "url": "https://store.onstove.com/en/games/104143",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:20:00+00:00",
+          "sourceUrl": "https://store.onstove.com/en/games/104143",
+          "evidence": "Exact Windrose game listing names Kraken Express and Pocketpair Publishing (Japan), identifies Early Access, and offers the base game. Not the soundtrack or supporter bundle."
+        }
+      ],
+      "sources": [
+        {
+          "provider": "STOVE",
+          "url": "https://store.onstove.com/en/games/104143",
+          "kind": "store",
+          "verified": true,
+          "lastChecked": "2026-10-24T00:20:00+00:00",
+          "sourceUrl": "https://store.onstove.com/en/games/104143",
+          "evidence": "Exact Windrose game listing names Kraken Express and Pocketpair Publishing (Japan), identifies Early Access, and offers the base game. Not the soundtrack or supporter bundle."
+        }
+      ]
+    }
+  }
+}
