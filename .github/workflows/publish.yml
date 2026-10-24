@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       refresh_creator_media:
-        description: Explicitly refresh creator-media sources before building
+        description: Explicitly refresh creator-media sources and edition reconciliation before building
         type: boolean
         default: false
   push:
@@ -41,9 +41,11 @@ jobs:
           test -s data/survival-protected.json || { echo 'The tested survival source checkpoint is required.'; exit 1; }
           test -s data/party-protected.json || { echo 'The tested party source checkpoint is required.'; exit 1; }
           python3 -m pip install -r requirements-dev.txt
-          python3 scripts/reconcile.py
-          python3 scripts/reconcile_shooter_sources.py
-          if [ "${{ inputs.refresh_creator_media }}" = "true" ]; then python3 scripts/collect_external_media.py; fi
+          if [ "${{ inputs.refresh_creator_media }}" = "true" ]; then
+            python3 scripts/reconcile.py
+            python3 scripts/reconcile_shooter_sources.py
+            python3 scripts/collect_external_media.py
+          fi
           python3 scripts/build.py
           python3 scripts/survival_release_notes.py
           python3 scripts/party_release_notes.py
