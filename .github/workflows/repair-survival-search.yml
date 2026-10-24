@@ -1,0 +1,42 @@
+name: Repair survival search
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/repair_survival_search.py','.github/workflows/repair-survival-search.yml']
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: survival-search-repair
+  cancel-in-progress: false
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Apply exact hash-guarded source correction
+        run: |
+          python3 scripts/repair_survival_search.py
+          node --check site/app.js
+          python3 -m py_compile scripts/survival_qa.py
+          python3 -m unittest discover -s tests -p test_search_contract.py
+      - name: Persist a coherent source checkpoint before full browser validation
+        run: |
+          git config user.name 'Games catalog bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/app.js scripts/survival_qa.py tests/test_search_contract.py
+          if ! git diff --cached --quiet; then
+            git commit -m 'Preserve full-text comparison matches and add exact title/alias search with regressions'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          echo "Verified source checkpoint: $(git rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
+      - name: Resume the existing complete publication gate
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publish.yml --ref main
