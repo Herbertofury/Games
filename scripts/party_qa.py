@@ -1,4 +1,5 @@
 """Exercise every party dossier and image, with an independent mode/capacity oracle."""
+from image_decode_qa import decode_primary_images
 import contextlib,csv,json,os,pathlib,re,shutil,socket,subprocess,sys,time
 from playwright.sync_api import sync_playwright
 R=pathlib.Path(__file__).resolve().parents[1];OUT=R/'qa';OUT.mkdir(exist_ok=True);HUB='Couch co-op & party'
@@ -89,7 +90,7 @@ try:
    report['details'].append({'id':g['id'],'sources':actual,'modeSources':mode_links,'videoSource':actual_video});page.evaluate('closeModal()')
    if (i+1)%50==0:print('PARTY PANELS',i+1,'/',N,flush=True)
   check('Every party dossier and source button set checked',len(report['details'])==N)
-  report['images']=page.evaluate('''async rows=>{const out=[];let next=0;async function worker(){while(next<rows.length){const g=rows[next++];out.push(await new Promise(resolve=>{const im=new Image(),timer=setTimeout(()=>resolve({id:g.id,url:g.image,ok:false,error:'timeout'}),25000);im.onload=()=>{clearTimeout(timer);resolve({id:g.id,url:g.image,ok:im.naturalWidth>0,width:im.naturalWidth,height:im.naturalHeight})};im.onerror=()=>{clearTimeout(timer);resolve({id:g.id,url:g.image,ok:false,error:'network/decode'})};im.src=g.image}))}}await Promise.all(Array.from({length:5},worker));return out;}''',[{'id':g['id'],'image':g['image']} for g in rows]);check('Every primary image decodes from actual provider bytes',all(x['ok'] for x in report['images']))
+  report['images']=decode_primary_images(page, [{'id':g['id'],'image':g['image']} for g in rows], timeout_ms=25000);check('Every primary image decodes from actual provider bytes',all(x['ok'] for x in report['images']))
   for ident in ['steam:965680','steam:556050','steam:2001120','steam:4489580','external:puff-puff-push']:
    page.evaluate('(id)=>openGame(id)',ident);page.wait_for_function("document.querySelector('#media-video')?.currentSrc.length>0",timeout=35000);page.evaluate("document.querySelector('#media-video').muted=true;document.querySelector('#media-video').play().catch(e=>window.partyPlayError=String(e))");page.wait_for_function("document.querySelector('#media-video')?.currentTime>0.5",timeout=35000);v=page.locator('#media-video').evaluate('(v)=>({time:v.currentTime,width:v.videoWidth,height:v.videoHeight,src:v.currentSrc,duration:v.duration})');report['playback'].append(dict(id=ident,**v));check(by[ident]['name']+' has actual advancing decoded video',v['width']>0 and v['time']>.5);page.evaluate('closeModal()')
   creator=next(g for g in rows if g['id'].startswith('external:') and g['trailers'][0].get('youtube'))
@@ -100,3 +101,4 @@ try:
  report['passed']=True
 finally:
  server.terminate();server.wait(timeout=5);(OUT/'party-qa.json').write_text(json.dumps(report,indent=2)+'\n');print(json.dumps({k:v for k,v in report.items() if k not in ['details','images']},indent=2))
+
