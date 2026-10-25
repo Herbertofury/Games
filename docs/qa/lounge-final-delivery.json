@@ -1,0 +1,56 @@
+{
+  "version": "Games Lounge 2.0.1",
+  "state": "application-release-and-backup-verified",
+  "supersedes": "The in-progress next action in the Lounge final visual challenge section of docs/EXECUTION.md",
+  "repository": "Herbertofury/Games",
+  "releaseUrl": "https://github.com/Herbertofury/Games/releases/tag/catalog-39",
+  "releaseId": 422991689,
+  "runId": 40132991129,
+  "jobId": 120988514425,
+  "sourceRevision": "9beb1f04c2255378bbca4e11069219d41563fd19",
+  "sourceArtifact": 12576646058,
+  "sourceArtifactSha256": "f65bc4bb4ba17e2e1393ddb069d68d06e272454f0e65c48930c463f449579a52",
+  "records": 1853,
+  "hubCount": 8,
+  "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
+  "datasetUnchangedFromCatalog36": true,
+  "unitTests": {"passed": true, "tests": 128},
+  "browserChecks": 580,
+  "loungeChecks": 69,
+  "uncaughtJavaScriptErrors": 0,
+  "visualInspection": [
+    "Final desktop library and arcade screenshots inspected",
+    "390px mobile arcade has complete visible title, timer, score, joystick, throw and footer controls",
+    "Runtime acceptance checks internal clipping and all visible control bounds at 320, 390, 844 and 1024 pixel widths"
+  ],
+  "realGameplayProof": {
+    "method": "Real keyboard input, collisions and timer through Playwright virtual animation frames",
+    "finishedScore": 1725,
+    "savedBestScore": 1725,
+    "remainingSeconds": 0,
+    "preview": "Actual production-HTML browser recording with real pointer and keyboard input; not synthetic footage"
+  },
+  "features": [
+    "Steam-inspired animated library chrome and cinematic spotlights",
+    "Saved, recently viewed, recommended and play-next shelves",
+    "Searchable complete sidebar game list, real filter history and right-click menus",
+    "Official hover screenshots and unchanged media/source panels",
+    "Big Picture, fullscreen, keyboard navigation and filter-aware wildcard",
+    "Live background blobs throwing returning donuts without intercepting library clicks",
+    "Playable Snackball: movement, collision scoring, bot opponents, returning projectiles, 60-active-second rounds and persisted best score",
+    "Draggable/resizable desktop arcade with responsive touch joystick and throw control",
+    "System/full/reduced/off motion, three palettes, independent background/hover/spotlight controls, focus mode and opt-in sound"
+  ],
+  "storage": {"originalLibrary": "games.library.v1", "loungePreferences": "games.lounge.v2", "arcadeBestScore": "games.snackball.v1", "scope": "Device/browser-local, with session-only fallback when storage is denied"},
+  "performance": {"formatterOldMs": 39.40000000002328, "formatterCachedMs": 1.099999999976717, "outputsIdentical": true, "arcadeFrameMeanMs": 0.5270833333339396, "qualification": "Equivalent-work measurements on the CI runner, not a universal device speed claim; no list virtualization or record removal"},
+  "wiki": {"state": "verified", "commit": "4a730ff701cd341f7a0bc410301d039e339c1e4d", "pages": 1899, "guideUrl": "https://github.com/Herbertofury/Games/wiki/Games-Lounge", "guideSha256": "6cc12ee36a94398efce2fa2a56771a662252c0a3bae345de68caa8e26d6f3ad5"},
+  "files": {
+    "Games-Explorer.html": {"bytes": 22492685, "sha256": "cd3280ae5047d05011d648d4d38bad08947a4b0c2d1ea7ef00c1c19d12bec8cd"},
+    "Games-Library.zip": {"bytes": 29441059, "sha256": "faf372c30290e286cca8d824f03b23624192349c45ad9f95776678f73bee14cd"},
+    "Games-Lounge-preview.mp4": {"bytes": 1959189, "sha256": "cabdcc985ccfa1e9cc0883c901ed3cebf445a15acb1cb9e865c95357fc82b26b"},
+    "Games-Lounge-Delivery.zip": {"bytes": 76005319, "sha256": "ad0db956519ce1e79b301f6dbfce1defbd67ac9f7b5b56813158bb02f9817419"}
+  },
+  "driveBackup": {"state": "verified-byte-for-byte", "fileId": "12wRptA5HBFWZALjgM5mBBxqE2-X-yzIR", "bytes": 76005319, "sha256": "ad0db956519ce1e79b301f6dbfce1defbd67ac9f7b5b56813158bb02f9817419", "readbackDate": "2026-10-25", "matches": "GitHub catalog-39 asset Games-Lounge-Delivery.zip, ID 673364259", "unchangedBackupReuploaded": false},
+  "hosting": {"nativeWiki": "published", "portableApp": "published", "GitHubPages": "unresolved-active: repository enablement required; do not claim the Pages site is live"},
+  "nextAction": "Use catalog-39 and these exact stable source IDs for future requested changes. Do not restart completed lounge implementation, mobile overflow repair, runtime gates, source discovery, release publication, or unchanged backup uploads. Preserve the existing dataset and all three storage namespaces."
+}
