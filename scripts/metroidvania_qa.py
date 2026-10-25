@@ -1,4 +1,5 @@
 """Real Chrome acceptance for the complete Metroidvania hub, not a sampled catalog."""
+from image_decode_qa import decode_primary_images
 import contextlib,json,os,pathlib,shutil,socket,subprocess,sys,time
 from playwright.sync_api import sync_playwright
 R=pathlib.Path(__file__).resolve().parents[1];OUT=R/'qa';OUT.mkdir(exist_ok=True)
@@ -42,7 +43,7 @@ try:
    report['details'].append({'id':g['id'],'sources':links,'videoSource':source,'brief':True});page.evaluate('closeModal()')
    if i%50==0:print('DETAILS',i+1,'/',N,flush=True)
   check('Every Metroidvania detail and source panel verified',len(report['details'])==N)
-  report['images']=page.evaluate('''async rows=>{const out=[];let next=0;async function worker(){while(next<rows.length){const g=rows[next++];out.push(await new Promise(resolve=>{const im=new Image(),timer=setTimeout(()=>resolve({id:g.id,url:g.image,ok:false,error:'timeout'}),20000);im.onload=()=>{clearTimeout(timer);resolve({id:g.id,url:g.image,ok:im.naturalWidth>0,width:im.naturalWidth,height:im.naturalHeight})};im.onerror=()=>{clearTimeout(timer);resolve({id:g.id,url:g.image,ok:false,error:'network/decode'})};im.src=g.image}))}}await Promise.all(Array.from({length:5},worker));return out;}''',[{'id':g['id'],'image':g['image']} for g in rows])
+  report['images']=decode_primary_images(page, [{'id':g['id'],'image':g['image']} for g in rows], timeout_ms=25000)
   check('All primary artworks decode from actual provider bytes',all(x['ok'] for x in report['images']))
   for name in ['Hollow Knight','Moadra','Nine Sols']:
    game=next(g for g in rows if g['name']==name);page.evaluate('(id)=>openGame(id)',game['id']);page.wait_for_function("document.querySelector('#media-video')?.currentSrc.length>0",timeout=35000);page.evaluate("document.querySelector('#media-video').muted=true;document.querySelector('#media-video').play().catch(e=>window.mvPlayError=String(e))");page.wait_for_function("document.querySelector('#media-video')?.currentTime>1",timeout=35000)
@@ -57,3 +58,4 @@ try:
  report['passed']=True
 finally:
  server.terminate();server.wait(timeout=5);(OUT/'metroidvania-qa.json').write_text(json.dumps(report,indent=2)+'\n');print(json.dumps({k:v for k,v in report.items() if k not in ['details','images']},indent=2))
+
