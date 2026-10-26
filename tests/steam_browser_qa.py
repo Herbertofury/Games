@@ -22,7 +22,7 @@ try:
   sync_requests=[]
   def network(route):
    u=route.request.url
-   if u=='http://127.0.0.1:8792/sync':sync_requests.append(u)
+   if u=='http://127.0.0.1:8792/sync' and route.request.method=='POST':sync_requests.append(u)
    if u.startswith('https://steamcommunity.com/openid/login'):
     qs=urllib.parse.parse_qs(urllib.parse.urlsplit(u).query);back=qs['openid.return_to'][0];nonce=datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')+urllib.parse.urlsplit(back).query[-10:]
     params={'openid.ns':'http://specs.openid.net/auth/2.0','openid.mode':'id_res','openid.op_endpoint':'https://steamcommunity.com/openid/login','openid.identity':'https://steamcommunity.com/openid/id/76561198000000001','openid.claimed_id':'https://steamcommunity.com/openid/id/76561198000000001','openid.return_to':back,'openid.response_nonce':nonce,'openid.assoc_handle':'test','openid.signed':'op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle','openid.sig':'fixture-signature'}
