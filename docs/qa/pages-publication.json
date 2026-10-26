@@ -1,4 +1,1 @@
-{
-  "state": "unresolved-active",
-  "blocker": "Enable GitHub Pages once in Settings > Pages > Source: GitHub Actions."
-}
+{"url":"https://api.github.com/repos/Herbertofury/Games/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://herbertofury.github.io/Games/","build_type":"workflow","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}

@@ -1,5 +1,5 @@
 {
-  "sourceRevision": "9beb1f04c2255378bbca4e11069219d41563fd19",
+  "sourceRevision": "8386e32c11d6c15f2b0d8e258e1a2259d9190315",
   "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
   "checks": [
     "Platformer hub counter reports ten primary routes",
@@ -78,7 +78,7 @@
   ],
   "playback": [
     {
-      "time": 1.269367,
+      "time": 1.273066,
       "width": 1280,
       "height": 720,
       "duration": 47.881167,
@@ -88,7 +88,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.354925,
+      "time": 1.26116,
       "width": 1280,
       "height": 720,
       "duration": 60.727333,
@@ -98,7 +98,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.273876,
+      "time": 1.292693,
       "width": 1280,
       "height": 720,
       "duration": 221.854967,
@@ -108,7 +108,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.278935,
+      "time": 1.276267,
       "width": 1280,
       "height": 720,
       "duration": 75.241833,
@@ -118,7 +118,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.270191,
+      "time": 1.28779,
       "width": 1280,
       "height": 720,
       "duration": 409.175433,
@@ -128,7 +128,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.27749,
+      "time": 1.259242,
       "width": 1280,
       "height": 720,
       "duration": 291.524567,
@@ -138,7 +138,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.309366,
+      "time": 1.255391,
       "width": 1280,
       "height": 720,
       "duration": 73.440033,
@@ -148,7 +148,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.289917,
+      "time": 1.276769,
       "width": 1280,
       "height": 720,
       "duration": 85.018267,
@@ -158,7 +158,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.262808,
+      "time": 1.246745,
       "width": 1280,
       "height": 720,
       "duration": 141.074267,
@@ -168,7 +168,7 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.259639,
+      "time": 1.269056,
       "width": 1280,
       "height": 720,
       "duration": 60.026633,
@@ -178,27 +178,27 @@
       "credit": "Nintendo \u2014 exact product gallery"
     },
     {
-      "time": 1.338296,
+      "time": 1.395154,
       "width": 960,
       "height": 540,
       "duration": 323.5141040000001,
-      "src": "blob:http://127.0.0.1:8788/dfcaf5f0-66c0-458b-9896-873ed30d8cc8",
+      "src": "blob:http://127.0.0.1:8788/e39d5974-3743-4360-82fb-0be91119c97a",
       "id": "external:super-mario-odyssey",
       "official": true,
       "credit": "Play Nintendo \u2014 observed featured video"
     },
     {
-      "time": 1.300251,
+      "time": 1.266353,
       "width": 640,
       "height": 360,
       "duration": 333.92797999999993,
-      "src": "blob:http://127.0.0.1:8788/e6e65ec0-4f1e-4c10-bb7f-638fb00eb4b8",
+      "src": "blob:http://127.0.0.1:8788/f7623b37-8be3-4a77-9f9e-d36aeb57efad",
       "id": "external:super-mario-maker-2",
       "official": true,
       "credit": "Play Nintendo \u2014 observed featured video"
     },
     {
-      "time": 1.312716,
+      "time": 1.290678,
       "width": 640,
       "height": 640,
       "duration": 27.8,
@@ -208,7 +208,7 @@
       "credit": "Games library capture of the creator-published PICO-8 browser build; not an official trailer"
     },
     {
-      "time": 1.283162,
+      "time": 1.345949,
       "width": 640,
       "height": 640,
       "duration": 27.6,
