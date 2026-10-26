@@ -43,4 +43,7 @@
     notice.textContent='Opening the official Steam page. Complete wishlisting there, then refresh or import your snapshot. No Steam change is assumed.';notice.hidden=false;
   });
   render();
+  // A game deep link may have opened before these final source-panel wrappers.
+  // Rebuild that existing detail once so first-load links get Steam controls too.
+  if(currentGame)openGame(currentGame.id);
 })();
