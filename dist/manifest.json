@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "version": "2.0.1",
-  "builtAt": "2026-10-26T00:11:00.948411+00:00",
+  "builtAt": "2026-10-26T00:38:06.178127+00:00",
   "sourceRepository": "https://github.com/Herbertofury/Games",
-  "sourceRevision": "8386e32c11d6c15f2b0d8e258e1a2259d9190315",
+  "sourceRevision": "2931d6ea1268059281333df91843d77793c81954",
   "sourceWiki": "https://github.com/Herbertofury/Games/wiki",
   "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
   "records": 1853,
@@ -161,11 +161,11 @@
     "itch.io"
   ],
   "html": {
-    "bytes": 22492685,
-    "sha256": "cd3280ae5047d05011d648d4d38bad08947a4b0c2d1ea7ef00c1c19d12bec8cd"
+    "bytes": 22492745,
+    "sha256": "88e7030dac3361a586dc00015b4af83ad70252fd100bb2082de5ed3b8b989a4b"
   },
   "sourceFiles": {
-    "site/arcade.js": "b1a1fc0b3062a58cbdc6a9771eac6d223c2e227fdacbe00cac834fbd5ac215e7",
+    "site/arcade.js": "d2412fd3ca39fd461fcc09e5c24a2a2e35aef4080c3aa60d9028a161326e692f",
     "site/survival.js": "7605cfbc56136642f1db47a1fb8c5d42e76e53af654f83c20ef549348d0f778c",
     "site/party.js": "24a8b612e51a43812192eb201f4b5c0cf3b80430e54e1a24569b527f3e13edee",
     "site/lounge.css": "7a7e05ccf17c69644a68ad310474e9bc6903f45793d4c550444031d29810e336",
@@ -272,6 +272,7 @@
     "tests/test_source_completion.py": "419dda2d7e4a6335151d88195684855c3a328bc0bdfb0b03025af157b598bae0",
     "tests/source_completion_inline.py": "d017d31bb9ab367946e5a2f4334d5ee1af5929bf483c9832404e9ce38996ce0a",
     "tests/test_catalog.py": "d395b9138341a230d4a28915dcfad9301cc2ef9ccc569d5bdd2814a67412cb8b",
+    "tests/test_arcade_pause.py": "b15cf16e4557505100ec99da8c6a3271bfced3c95f30c5bff35352c94a87726f",
     "tests/test_reviews.py": "00388308aa34ad0d2af7a3c440fab0e631e3331ab849896a58ac236d1172e8fe",
     "tests/test_rts.py": "2d39047b5d41b6eb62349fc6797577d93c26e0d506d74cb765a36d3de449a33a",
     "tests/test_survival_chronology.py": "758aab27b932e899a6e66e42c02b997e9929096f5055833cbc7af34efa7d6a82",
@@ -303,7 +304,7 @@
     "data/survival-external-seeds.json": "bf7fd52207b2681c4bff3152ecf5c70e7af82270ca55ef4631376152f82b8c64",
     "data/platformers-seeds.tsv": "4cbb3fed1a6fbe2b4d6ff54feda268d6d7e67d008d1494c78b5ca808c59feb20",
     "data/rts-external.json": "169a76ce217be5f2adb3106f4e083a37ed290a6f29f87515801983119d717e24",
-    "data/party-study-report.json": "abbb4c023f3971a0ca77fbc99b11015733b8172a64b4ddae51c9ee613ab19ca1",
+    "data/party-study-report.json": "3e10e60a8b6de313d08875f94f3cd7cd72eeb7d24bd8c78a02751ec9be3db7c9",
     "data/party-mode-references.json": "a24a67459d2bd963606b6ea1fbcd833f22716f09f69654e027d0da872f4e8e22",
     "data/party-seeds.tsv": "9ae04974bd761fb9245749130095c161af2d5d042df09dbd860c676c095fe197",
     "data/media-completion.json": "a905d4d7d6a3629a4dd75ffdf949f1f4b2c7db73324471b90d683512f23022db",
@@ -356,7 +357,7 @@
     "data/rts-expansion.json": "bf3e7922546a335935a8a60f0ee3a0800c6f4a130621150b990e32af734ab093",
     "data/storefront-discovery-report.json": "6b2a50dc1b8aa1d0e6bcd0ce258bdf244fa2d5c43a998cbd6e0a489c62037a45",
     "data/survival-source-report.json": "6dad6dc45d026e69efc37505999f99e71d9059871ea74838dfc831e8ac30172f",
-    "data/survival-study-report.json": "60bd3c4cd4cdf0a707f76af24990a62c71556f4bec8e35e1d9add65b4db21a7c",
+    "data/survival-study-report.json": "f089afc9c1c9aebe7de601559b2dfee89f73937985922f80ee88656e92460866",
     "data/rts-storefronts.json": "a18b82f919ebb6e47f86ad518f9eb80d17e9cbb4fe48de5b994c846d1924f8ef",
     "data/party-steam.json": "122e7052316792ea0d06114b94fa17e16d63ec18fff99068d21c56e706add867",
     "data/survival-discovery-index.json": "e60b9d3cfbaf1147fcda0b87002d0275c8063057880c00347de05f83fae56be2",

@@ -16,7 +16,7 @@ The publication gate retains every earlier unit and browser suite and adds compl
 
 ```json
 {
-  "checkedAt": "2026-10-25T23:52:54.647864+00:00",
+  "checkedAt": "2026-10-26T00:20:13.834299+00:00",
   "records": 1853,
   "studyRecords": 381,
   "hubCounts": {
