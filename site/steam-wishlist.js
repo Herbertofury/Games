@@ -3,8 +3,19 @@
 (function installSteamWishlistActions(){
   const previous={card,table,source:sourcePanel,render};
   let membership={owned:new Set(),wishlist:new Set()};
-  // Copy the account sets once per render, never once for every game card.
-  render=function(){membership=window.GamesSteamContext?.()||{owned:new Set(),wishlist:new Set()};return previous.render();};
+  // Copy account sets once per render, never once for every game card. Update
+  // only account-specific detail fragments; preserve notes and loaded media.
+  render=function(){
+    membership=window.GamesSteamContext?.()||{owned:new Set(),wishlist:new Set()};
+    const result=previous.render(),brief=$('#modal[open] .steam-game-brief');
+    if(currentGame&&brief){
+      const t=document.createElement('template');t.innerHTML=previous.source(currentGame);
+      const updated=t.content.querySelector('.steam-game-brief');if(updated)brief.replaceWith(updated);
+      const controls=$('#modal[open] .steam-wishlist-section .steam-wishlist-controls');
+      if(controls&&valid(currentGame)){t.innerHTML=actions(currentGame);controls.replaceWith(t.content);}
+    }
+    return result;
+  };
   const valid=g=>typeof g?.appid==='number'&&Number.isSafeInteger(g.appid)&&g.appid>0&&g.appid<=4294967295;
   const notice=document.createElement('p');notice.className='steam-action-feedback';notice.setAttribute('role','status');notice.setAttribute('aria-live','polite');notice.hidden=true;
   $('.steam-library-strip').after(notice);
