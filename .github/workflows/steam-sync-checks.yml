@@ -41,6 +41,9 @@ jobs:
           fi
       - name: Real UI with an explicitly mocked Steam provider
         run: python tests/steam_browser_qa.py
+      - name: Record mock-only authentication diagnostics on failure
+        if: failure()
+        run: python tests/steam_auth_probe.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
