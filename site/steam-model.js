@@ -117,7 +117,7 @@
     return out;
   }
   function merge(previous, next) {
-    const same = previous && previous.steamId === next.steamId && previous.source === next.source;
+    const same = previous && next.steamId !== null && previous.steamId === next.steamId && previous.source === next.source;
     const out = { ...next };
     if (same) for (const key of ['owned','wishlist']) {
       if (next[key].status !== 'ok' && previous[key]?.status === 'ok')

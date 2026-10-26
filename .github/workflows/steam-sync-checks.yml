@@ -1,0 +1,52 @@
+name: Steam account and wishlist checks
+on:
+  pull_request:
+    paths: ['site/**', 'services/steam-sync/**', 'tests/*steam*', 'scripts/build.py', '.github/workflows/steam-sync-checks.yml']
+  push:
+    branches: [steam-library-sync-2026-10-25]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: steam-checks-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build and test without real Steam credentials
+        run: |
+          set -o pipefail
+          python -m pip install -r requirements-dev.txt
+          python scripts/build.py
+          mkdir -p qa
+          node --test tests/steam-model.test.cjs services/steam-sync/server.test.mjs tests/steam-wishlist.test.mjs | tee qa/steam-node-tests.log
+          python -m unittest discover -s tests -p 'test_*.py' 2>&1 | tee qa/steam-source-tests.log
+          node --check site/steam-sync.js
+          node --check site/steam-wishlist.js
+      - name: Install browser
+        run: |
+          if command -v google-chrome >/dev/null; then
+            echo "CHROMIUM_PATH=$(command -v google-chrome)" >> "$GITHUB_ENV"
+          else
+            python -m playwright install --with-deps chromium
+          fi
+      - name: Real UI with an explicitly mocked Steam provider
+        run: python tests/steam_browser_qa.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: steam-sync-review
+          path: |
+            qa/steam-*
+            release/Games - Library.zip
+            release/Games - Explorer.html
+          retention-days: 14
