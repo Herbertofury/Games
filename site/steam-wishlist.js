@@ -1,7 +1,10 @@
 /* Official Steam handoff and consent-loaded Valve widget. No account-write API. */
 'use strict';
 (function installSteamWishlistActions(){
-  const previous={card,table,source:sourcePanel};
+  const previous={card,table,source:sourcePanel,render};
+  let membership={owned:new Set(),wishlist:new Set()};
+  // Copy the account sets once per render, never once for every game card.
+  render=function(){membership=window.GamesSteamContext?.()||{owned:new Set(),wishlist:new Set()};return previous.render();};
   const valid=g=>typeof g?.appid==='number'&&Number.isSafeInteger(g.appid)&&g.appid>0&&g.appid<=4294967295;
   const notice=document.createElement('p');notice.className='steam-action-feedback';notice.setAttribute('role','status');notice.setAttribute('aria-live','polite');notice.hidden=true;
   $('.steam-library-strip').after(notice);
@@ -10,7 +13,7 @@
   notice.after(help);
   function actions(g){
     if(!valid(g))return '';
-    const ctx=window.GamesSteamContext?.()||{owned:new Set(),wishlist:new Set()},id=g.appid;
+    const ctx=membership,id=g.appid;
     const label=ctx.owned.has(id)?'View on Steam':ctx.wishlist.has(id)?'Manage wishlist on Steam':'Wishlist on Steam';
     return `<div class="steam-wishlist-controls"><a class="quiet" data-steam-store-wishlist="${id}" href="https://store.steampowered.com/app/${id}/" target="_blank" rel="noopener noreferrer" title="Complete the action on Steam">${label} ${icon('external')}</a><a class="quiet steam-client-link" href="steam://store/${id}">Open in Steam</a></div>`;
   }

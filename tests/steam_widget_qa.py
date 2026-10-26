@@ -26,6 +26,8 @@ try:
   page=context.new_page();page.on('pageerror',lambda e:report['errors'].append(str(e)))
   page.goto('http://127.0.0.1:8793/',wait_until='domcontentloaded');page.wait_for_selector('#steam-filter')
   check('No third-party widget loads on startup',not widget_requests)
+  copies=page.evaluate("""()=>{const original=GamesSteamContext;let count=0;window.GamesSteamContext=()=>{count++;return original();};render();window.GamesSteamContext=original;return count;}""")
+  check('Ownership index is copied once per render, not once per card',copies==1)
   page.evaluate("openGame('steam:504230')")
   check('Detail asks before loading Steam',page.locator('[data-steam-widget="504230"]').count()==1 and not widget_requests)
   before=page.evaluate("localStorage.getItem('games.steam.v1')")
@@ -44,6 +46,7 @@ try:
   page.locator('[data-steam-widget="504230"]').click();frame=page.locator('.steam-widget-slot iframe');frame.scroll_into_view_if_needed()
   check('Mobile widget fits its parent without page overflow',frame.evaluate('(f)=>f.getBoundingClientRect().width<=f.parentElement.getBoundingClientRect().width+1') and page.evaluate('document.documentElement.scrollWidth<=innerWidth+1'))
   page.screenshot(path=str(Q/'steam-widget-mobile.png'));page.evaluate('closeModal()')
+  page.set_viewport_size({'width':1440,'height':1000})
   for hub,count in page.evaluate('CATALOG.build.hubCounts').items():
    page.locator('[data-hub="'+hub+'"]').click()
    check('Existing '+hub+' retains every record',len(page.evaluate('GamesTest.filtered'))==count)
