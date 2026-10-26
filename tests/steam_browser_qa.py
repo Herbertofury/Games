@@ -19,8 +19,10 @@ try:
  with sync_playwright() as p:
   browser=p.chromium.launch(headless=True,executable_path=os.environ.get('CHROMIUM_PATH') or shutil.which('chromium'),args=['--no-sandbox'])
   context=browser.new_context(viewport={'width':1440,'height':1050},reduced_motion='reduce',accept_downloads=True)
+  sync_requests=[]
   def network(route):
    u=route.request.url
+   if u=='http://127.0.0.1:8792/sync':sync_requests.append(u)
    if u.startswith('https://steamcommunity.com/openid/login'):
     qs=urllib.parse.parse_qs(urllib.parse.urlsplit(u).query);back=qs['openid.return_to'][0];nonce=datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')+urllib.parse.urlsplit(back).query[-10:]
     params={'openid.ns':'http://specs.openid.net/auth/2.0','openid.mode':'id_res','openid.op_endpoint':'https://steamcommunity.com/openid/login','openid.identity':'https://steamcommunity.com/openid/id/76561198000000001','openid.claimed_id':'https://steamcommunity.com/openid/id/76561198000000001','openid.return_to':back,'openid.response_nonce':nonce,'openid.assoc_handle':'test','openid.signed':'op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle','openid.sig':'fixture-signature'}
@@ -31,6 +33,8 @@ try:
   page=context.new_page();page.on('pageerror',lambda e:report['errors'].append(str(e)));page.goto('http://127.0.0.1:8791/',wait_until='domcontentloaded');page.wait_for_selector('#steam-filter')
   page.evaluate("prefs.notes['steam:504230']='Personal note kept';prefs.favorites=['steam:504230'];persist();state={...defaults};render();")
   count=page.evaluate('games.length');check('Complete catalog remains present',page.locator('.game-card').count()==count)
+  # Explicitly exercise the unconfigured fallback even on a configured release.
+  page.evaluate("window.GAMES_STEAM_CONFIG.serviceUrl=''")
   page.locator('.heading-actions [data-steam-action=open]').click()
   check('Unconfigured sign-in is disabled honestly',page.locator('[data-steam-action=signin]').is_disabled())
   check('Local imports work without deployment',page.locator('#steam-file').is_visible())
@@ -52,6 +56,19 @@ try:
   page.locator('.heading-actions [data-steam-action=open]').click();page.locator('[data-steam-action=signin]').click()
   page.wait_for_function("JSON.parse(localStorage.getItem('games.steam.v1')||'null')?.source==='steam' && JSON.parse(localStorage.getItem('games.steam.v1')).owned.items.length===3",timeout=20000)
   check('Popup, verified callback and PKCE exchange work with mocked Steam','Signed in through Steam' in page.locator('.steam-account-state').inner_text())
+  check('Automatic sync has a visible opt-out',page.locator('#steam-auto-refresh').is_checked())
+  page.clock.install()
+  page.locator('#steam-auto-refresh').uncheck()
+  automatic_before=len(sync_requests)
+  page.clock.fast_forward(310000)
+  page.evaluate("window.dispatchEvent(new Event('focus'))")
+  check('Disabled automatic sync makes no requests',len(sync_requests)==automatic_before)
+  page.locator('#steam-auto-refresh').check()
+  page.evaluate("window.dispatchEvent(new Event('focus'))")
+  page.wait_for_function("!document.querySelector('[data-steam-action=sync]').disabled")
+  check('Returning to Games refreshes an enabled session',len(sync_requests)==automatic_before+1)
+  page.evaluate("for(let i=0;i<20;i++)window.dispatchEvent(new Event('focus'))")
+  check('Repeated focus events respect cooldown',len(sync_requests)==automatic_before+1)
   check('Tokens are not persisted',page.evaluate("!Object.hasOwn(JSON.parse(localStorage.getItem('games.steam.v1')),'token')"))
   check('Steam sync preserves personal notes and favorites',page.evaluate("prefs.notes['steam:504230']==='Personal note kept' && prefs.favorites.includes('steam:504230')"))
   page.locator('[data-steam-action=close]').click();page.locator('#steam-filter').select_option('unplayed');check('Explicit zero minutes matches',page.evaluate('GamesTest.filtered')==['steam:504230'])

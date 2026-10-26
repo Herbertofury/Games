@@ -16,7 +16,7 @@ This release does NOT claim universal one-click wishlist mutation for released g
 
 ## Online sign-in and sync
 
-`services/steam-sync/server.mjs` is a separate read-only Node 22 service. GitHub Pages cannot execute this server. `site/steam-config.json` intentionally has an empty `serviceUrl`; sign-in stays visibly disabled until the operator deploys a verified HTTPS service.
+`services/steam-sync/server.mjs` is a separate read-only Node 22 service. GitHub Pages cannot execute this server. `site/steam-config.json` contains only the deployed HTTPS service origin. An empty or invalid `serviceUrl` keeps sign-in disabled; deployment details and remaining real-account verification are recorded below.
 
 The service validates Steam OpenID assertions with Steam, checks return URLs, signed fields and nonce freshness, binds the callback to the initiating browser, and exchanges a one-use code with a verifier for a short-lived memory-only session. Frontend sessions are not written to localStorage. Steam API keys remain in the server's environment. The session can sync only its verified SteamID, not an arbitrary ID supplied in a request.
 
@@ -48,3 +48,13 @@ The mock service replaces only the initial HTTP provider redirect with an equiva
 - Playwright redirect-interception semantics: https://playwright.dev/python/docs/network
 
 Implementation status is distinct from deployment status: an empty service URL means live sign-in is NOT active.
+
+## Hosted bridge and automatic refresh (2026-10-26)
+
+The operator deployed `https://games-steam-sync.onrender.com` on Render's free tier. The public site configuration contains only that HTTPS origin. The Steam Web API key is entered privately in Render environment settings, never in this repository or visitor storage. The health flag confirms configuration presence, not key validity or a completed real account sign-in.
+
+An authenticated visible tab refreshes every five minutes and when returning to the tab after a minimum 65-second cooldown. The account panel includes an opt-out. Hidden/offline tabs do not automatically fetch; failures back off up to fifteen minutes. Sessions remain memory-only and expire after one hour or a server restart. This is periodic read-only synchronization, not instant push delivery or permanent background sync. Existing account-bound snapshot preservation and exact AppID matching are unchanged. Clicking a Steam store/widget control never changes local wishlist membership by assumption.
+
+Render's free instances sleep after inactivity and can need 50 seconds or more to wake. Sign-in now checks the bridge before navigating to Valve, allowing up to 90 seconds for the wake-up. A closed or replaced sign-in attempt cannot navigate a later popup. Hosting is a single instance with manual deployments; this avoids an unreviewed GitHub account grant but does not automatically redeploy backend changes. Review and deploy backend changes separately after tests pass.
+
+Before inviting the first real login, verify HTTPS health, exact Steam redirect/realm, secure flow-cookie flags, callback rejection without a bound flow, unauthorized sync rejection and exact-origin CORS. These checks and simulated-provider tests do not certify a real login, private-list access, universal wishlist editing or an absence of all vulnerabilities. Never request Steam passwords, session cookies, or Guard codes outside Valve's official sign-in page.

@@ -5,6 +5,8 @@
   const modes = { all: 'All games', owned: 'In my Steam library', wishlist: 'On my wishlist', unplayed: 'Owned, no recorded playtime', discover: 'Not in my synced library', tracked: 'Tracked in GameSync', unmatched: 'No Steam AppID' };
   const original = { filter: filterGames, render, card, table, source: sourcePanel, chips: renderChips };
   let snapshot = null, ix = M.index(null), session = null, pending = null, candidate = null;
+  const refreshPolicy = window.SteamRefreshPolicy.create();
+  let autoRefresh = true;
   let busy = false, epoch = 0, lastFocus = null, storageFailure = false, message = '', health = null;
   try {
     const stored = JSON.parse(localStorage.getItem(STORE) || 'null');
@@ -96,6 +98,7 @@
       <div class="steam-account-state"><strong>${signed?'Signed in through Steam':snapshot?.source==='steam'?'Saved Steam snapshot - sign in to refresh':snapshot?'Imported snapshot - not an authenticated account':'No Steam account linked'}</strong>${snapshot?.steamId?`<a href="https://steamcommunity.com/profiles/${esc(snapshot.steamId)}" target="_blank" rel="noopener noreferrer">SteamID ${esc(snapshot.steamId)} ${icon('external')}</a>`:''}</div>
       <div class="steam-summary-grid">${partView('Owned games',snapshot?.owned)}${partView('Wishlist',snapshot?.wishlist)}</div>
       <div class="steam-actions"><button class="primary" data-steam-action="signin" ${!configured||busy||pending?'disabled':''}>${signed?'Switch Steam account':'Sign in through Steam'}</button><button class="secondary" data-steam-action="sync" ${!signed||busy?'disabled':''}>${busy?'Syncing...':'Refresh library & wishlist'}</button>${snapshot?'<button class="quiet" data-steam-action="export">Export snapshot</button>':''}${snapshot||session||pending?'<button class="quiet" data-steam-action="disconnect">Disconnect & clear Steam data</button>':''}</div>
+      ${signed?`<label class="steam-import-option"><input id="steam-auto-refresh" type="checkbox" ${autoRefresh?'checked':''}> Keep this tab synced while visible (every five minutes and when returning, subject to cooldown)</label>`:''}
       <p id="steam-sync-feedback" class="steam-feedback" role="status" aria-live="polite">${esc(message||(!configured?'Online sign-in is not configured on this site yet. Local Steam and GameSync imports work below.':pending?'Complete sign-in in the Steam window.':signed?'Steam verified your identity. Sync only reads data Steam makes visible.':'Your password stays on steamcommunity.com. The service never receives it.'))}</p>
       ${health&&!health.ownedGames?'<p class="steam-warning">The bridge is reachable, but the operator must add a server-side Steam API key for owned games. Wishlist access and local imports are separate.</p>':''}
       ${storageFailure?'<p class="steam-warning">Browser storage is unavailable. This snapshot works for this tab only; export it before closing.</p>':''}
@@ -104,9 +107,9 @@
       <label class="steam-file-label">Choose a JSON export <input id="steam-file" type="file" accept="application/json,.json" ${busy?'disabled':''}></label>
       ${candidate?`<div class="steam-import-preview"><p>Ready to import <strong>${candidate.owned.items.length} library IDs</strong>, <strong>${candidate.wishlist.items.length} wishlist IDs</strong>, and <strong>${candidate.tracked.length} tracked IDs</strong>. This does not sign you in.</p>${!candidate.steamId?'<p>This export has no verified account identity. Applying it replaces the current Steam snapshot rather than guessing which accounts to merge.</p>':''}<button class="primary" data-steam-action="import">Use this snapshot</button></div>`:''}
       <details><summary>Where do I get the file?</summary><p>First <a href="https://store.steampowered.com/login/" target="_blank" rel="noopener noreferrer">sign in on Steam</a> in this browser. Then open <a href="https://store.steampowered.com/dynamicstore/userdata/" target="_blank" rel="noopener noreferrer">their Steam store data</a> while signed in on Steam, save the JSON response, then choose it here. Steam may change this undocumented export. An empty or unavailable response is rejected.</p><p>Also accepts GetOwnedGames JSON, GetWishlist JSON, Games Steam snapshots, and GameSync exports containing <code>games</code> or <code>db.games</code>. GameSync records alone do not prove a license; unconfirmed records are labelled tracked unless you explicitly opt in above.</p><p>Never upload passwords, cookies or Steam Guard codes. A full GameSync backup can include settings; only the whitelisted game fields are retained.</p></details></section>
-      <details class="steam-privacy"><summary>Privacy, coverage and site setup</summary><p>OpenID verifies your SteamID, not permission to read private lists. Set the relevant Steam game details/wishlist visibility to Public for server sync, or use a local export. Hidden, private, missing and failed lists are never silently treated as empty. Cached data is dated and can be out of date.</p><p>Matching uses exact AppIDs. Bundles, demos, DLC, family sharing, deleted licenses and other-store purchases are not inferred. Zero reported minutes is not proof a game was never played.</p><p>Your snapshot stays in this browser. The bridge holds short-lived sign-in state in memory and reads Steam on explicit refresh. Signing into Steam does not cloud-sync this site's notes. Switching accounts replaces only the Steam snapshot.</p><p>${configured?`Configured service: <code>${esc(service())}</code>. `:''}<a href="https://github.com/Herbertofury/Games/blob/main/docs/STEAM-SYNC.md" target="_blank" rel="noopener">Setup and technical details</a></p></details>`;
+      <details class="steam-privacy"><summary>Privacy, coverage and site setup</summary><p>OpenID verifies your SteamID, not permission to read private lists. Set the relevant Steam game details/wishlist visibility to Public for server sync, or use a local export. Hidden, private, missing and failed lists are never silently treated as empty. Cached data is dated and can be out of date.</p><p>Matching uses exact AppIDs. Bundles, demos, DLC, family sharing, deleted licenses and other-store purchases are not inferred. Zero reported minutes is not proof a game was never played.</p><p>Your snapshot stays in this browser. The bridge holds short-lived sign-in state in memory and reads Steam on sign-in, manual refresh, and automatic refresh while this tab is visible if enabled. Automatic refresh pauses offline, backs off after failures and ends when the session expires. It is not instant push sync. Signing into Steam does not cloud-sync this site's notes. Switching accounts replaces only the Steam snapshot.</p><p>${configured?`Configured service: <code>${esc(service())}</code>. `:''}<a href="https://github.com/Herbertofury/Games/blob/main/docs/STEAM-SYNC.md" target="_blank" rel="noopener">Setup and technical details</a></p></details>`;
   }
-  function open() { lastFocus=document.activeElement; candidate=null; if(!dialog.open)dialog.showModal();draw();window.dispatchEvent(new Event('lounge-overlay-change')); if(service())api('/health',{timeout:7000}).then(h=>{if(h.service!=='games-steam-sync'||h.version!==1||h.appOrigin!==location.origin)throw Error('Steam bridge configuration does not match this website.');health=h;draw();}).catch(()=>{message='The Steam bridge is not reachable or does not match this site. Your local snapshot is unchanged.';draw();}); }
+  function open() { lastFocus=document.activeElement; candidate=null; if(!dialog.open)dialog.showModal();draw();window.dispatchEvent(new Event('lounge-overlay-change')); if(service())api('/health',{timeout:90000}).then(h=>{if(h.service!=='games-steam-sync'||h.version!==1||h.appOrigin!==location.origin)throw Error('Steam bridge configuration does not match this website.');health=h;draw();}).catch(()=>{message='The Steam bridge is not reachable or does not match this site. Your local snapshot is unchanged.';draw();}); }
   function close() { dialog.close();candidate=null;lastFocus?.focus();window.dispatchEvent(new Event('lounge-overlay-change')); }
   function random() { return btoa(String.fromCharCode(...crypto.getRandomValues(new Uint8Array(32)))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''); }
   async function challenge(verifier) { return btoa(String.fromCharCode(...new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(verifier))))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''); }
@@ -115,14 +118,22 @@
     if (!service() || pending || busy) return;
     const popup=window.open('about:blank','games-steam-signin','popup,width=640,height=760');
     if(!popup){message='Allow the Steam sign-in popup, then try again.';draw();return;}
+    let flow=null;
     try {
       const verifier=random(), stateToken=random(), stamp=Date.now();
-      pending={popup,verifier,state:stateToken,timer:null,exchanging:false};
+      flow={popup,verifier,state:stateToken,timer:null,exchanging:false};pending=flow;
+      message='Connecting to the secure Steam bridge. Free hosting may need a minute to wake...';draw();
+      const ready=await api('/health',{timeout:90000});
+      if(pending!==flow)return;
+      if(popup.closed){clearPending();message='Steam sign-in closed. No snapshot was changed.';draw();return;}
+      if(ready.service!=='games-steam-sync'||ready.version!==1||ready.appOrigin!==location.origin||ready.signIn!==true)throw Error('Steam bridge configuration does not match this website.');
+      health=ready;
       const login=new URL(service()+'/auth/start');login.searchParams.set('challenge',await challenge(verifier));login.searchParams.set('client_state',stateToken);
+      if(pending!==flow||popup.closed)return;
       popup.location.href=login.href;
       pending.timer=setInterval(()=>{if(!pending||pending.exchanging)return;if(popup.closed||Date.now()-stamp>600000){clearPending();message='Steam sign-in closed or expired. No snapshot was changed.';draw();}},1000);
       message='Complete sign-in on Steam. Your password and Steam Guard code stay there.';draw();
-    }catch{popup.close();clearPending();message='This browser could not start secure Steam sign-in. Local imports are still available.';draw();}
+    }catch{popup.close();if(flow&&pending!==flow)return;clearPending();message='This browser could not start secure Steam sign-in. Local imports are still available.';draw();}
   }
   window.addEventListener('message',async event=>{
     const p=pending;
@@ -135,25 +146,27 @@
       const result=await api('/auth/exchange',{method:'POST',data:{code:event.data.code,verifier:p.verifier}});
       if(pending!==p||epoch!==version)return;
       if(!/^[A-Za-z0-9_-]{43}$/.test(result.token))throw Error('Invalid service session.');
-      session={token:result.token,steamId:M.steamid(result.steamId)};epoch++;clearPending();
+      const verifiedId=M.steamid(result.steamId);if(!verifiedId)throw Error('Invalid service account identity.');
+      session={token:result.token,steamId:verifiedId};epoch++;refreshPolicy.reset();clearPending();
       if(!snapshot||snapshot.source!=='steam'||snapshot.steamId!==session.steamId)save(M.normalize({schemaVersion:1,provider:'steam',steamId:session.steamId},{imported:false}));
       message='Steam account verified. Reading the library and wishlist...';draw();await sync();
     }catch(error){clearPending();message=error.message;draw();}
   });
   async function sync() {
-    if(!session||busy)return;const who=session,version=epoch;busy=true;draw();
+    if(!session||busy)return;const who=session,version=epoch;busy=true;refreshPolicy.started();draw();
     try {
       const raw=await api('/sync',{method:'POST',data:{},bearer:who.token});
       if(version!==epoch||session!==who)return;
       const next=M.normalize(raw,{imported:false});if(next.steamId!==who.steamId)throw Error('The sync response did not match your signed-in account.');
       save(M.merge(snapshot,next));
+      refreshPolicy.finished([next.owned,next.wishlist].every(x=>x.status==='ok'));
       message=[next.owned,next.wishlist].every(x=>x.status==='ok')?'Library and wishlist refreshed. Your private notes and ratings were not changed.':'Steam did not provide every list. Available lists were updated; prior snapshots of unavailable lists were kept for the same account.';
-    }catch(error){message=error.message||'Steam sync failed. The saved snapshot is unchanged.';}
+    }catch(error){if(version===epoch&&session===who){refreshPolicy.finished(false);message=error.message||'Steam sync failed. The saved snapshot is unchanged.';}else if(version===epoch&&!session){message='Your Steam session ended. Sign in again to refresh; your saved snapshot is unchanged.';}}
     finally{busy=false;render();draw();}
   }
   async function disconnect() {
     if(!confirm('Clear only the Steam snapshot and sign-in session? Your game notes, favorites, ratings and lounge settings will remain.'))return;
-    const previous=session;session=null;epoch++;pending?.popup.close();clearPending();snapshot=null;ix=M.index(null);state.steam='all';candidate=null;
+    const previous=session;session=null;epoch++;refreshPolicy.reset();pending?.popup.close();clearPending();snapshot=null;ix=M.index(null);state.steam='all';candidate=null;
     try{localStorage.removeItem(STORE);}catch{storageFailure=true;}
     message='Steam data cleared. Your ordinary library and lounge settings are unchanged.';render();draw();
     if(previous)api('/logout',{method:'POST',data:{},bearer:previous.token}).catch(()=>{});
@@ -164,9 +177,10 @@
     const action=button.dataset.steamAction;
     if(action==='open')open();if(action==='close')close();if(action==='signin')signIn();if(action==='sync')sync();if(action==='disconnect')disconnect();
     if(action==='export'&&snapshot)download('Games - Steam Snapshot.json',JSON.stringify(snapshot,null,2));
-    if(action==='import'&&candidate){const previous=session;session=null;epoch++;pending?.popup.close();clearPending();save(M.merge(snapshot,candidate));candidate=null;message='Imported locally. No account was authenticated, and your ordinary notes were not changed.';draw();if(previous)api('/logout',{method:'POST',data:{},bearer:previous.token}).catch(()=>{});}
+    if(action==='import'&&candidate){const previous=session;session=null;epoch++;refreshPolicy.reset();pending?.popup.close();clearPending();save(M.merge(snapshot,candidate));candidate=null;message='Imported locally. No account was authenticated, and your ordinary notes were not changed.';draw();if(previous)api('/logout',{method:'POST',data:{},bearer:previous.token}).catch(()=>{});}
   });
   document.addEventListener('change',async event=>{
+    if(event.target.id==='steam-auto-refresh'){autoRefresh=event.target.checked;return;}
     if(event.target.id==='steam-filter'){state.steam=event.target.value;render();}
     if(event.target.id!=='steam-file')return;
     const file=event.target.files[0],selfReported=!!$('#steam-self-reported')?.checked;if(!file)return;
@@ -182,6 +196,13 @@
     snapshot=next;if(raw)for(const part of ['owned','wishlist'])if(raw[part]?.stale)snapshot[part]={...snapshot[part],stale:true,message:'Last refresh was unavailable; showing the saved snapshot.'};
     ix=M.index(snapshot);render();draw();
   }catch{}}});
+  function maybeAutoRefresh(reason='periodic'){
+    if(refreshPolicy.due({connected:!!session,visible:document.visibilityState==='visible',online:navigator.onLine!==false,busy,pending:!!pending,enabled:autoRefresh,reason}))void sync();
+  }
+  setInterval(()=>maybeAutoRefresh(),15000);
+  window.addEventListener('focus',()=>maybeAutoRefresh('return'));
+  window.addEventListener('online',()=>maybeAutoRefresh('return'));
+  document.addEventListener('visibilitychange',()=>maybeAutoRefresh('return'));
   // Expose copies of membership, never credentials or a snapshot-write hook.
   window.GamesSteamContext = () => ({ steamId: snapshot?.steamId || null, owned: new Set(ix.owned.keys()), wishlist: new Set(ix.wishlist.keys()) });
   render();

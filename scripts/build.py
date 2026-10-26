@@ -27,7 +27,7 @@ def main():
         u=urlsplit(service)
         assert u.scheme=='https' and u.hostname and not u.username and not u.password and not u.query and not u.fragment and u.path in ['', '/'], 'Steam bridge must be a clean HTTPS origin'
     steam_boot='window.GAMES_STEAM_CONFIG='+json.dumps({'serviceUrl':service}).replace('<','\\u003c')+';'
-    app=(steam_boot+'\n'+source('steam-model.js')+'\n'+source('app.js')+'\n'+source('platformers.js')+'\n'+source('survival.js')+'\n'+source('party.js')+'\n'+source('lounge.js')+'\n'+source('arcade.js')+'\n'+source('steam-sync.js')+'\n'+source('steam-wishlist.js')).replace('</script','<\\/script')
+    app=(steam_boot+'\n'+source('steam-model.js')+'\n'+source('app.js')+'\n'+source('platformers.js')+'\n'+source('survival.js')+'\n'+source('party.js')+'\n'+source('lounge.js')+'\n'+source('arcade.js')+'\n'+source('steam-refresh.js')+'\n'+source('steam-sync.js')+'\n'+source('steam-wishlist.js')).replace('</script','<\\/script')
     page=source('index.html').replace('/*__CSS__*/',source('styles.css')+'\n'+source('platformers.css')+'\n'+source('survival.css')+'\n'+source('party.css')+'\n'+source('lounge.css')+'\n'+source('steam-sync.css')).replace('/*__DATA__*/','window.GAMES_CATALOG='+data+';').replace('/*__APP__*/',app)
     assert not any(x in page for x in ['/*__CSS__*/','/*__DATA__*/','/*__APP__*/'])
     (out/'index.html').write_text(page);(out/'.nojekyll').write_text('');shutil.copyfile(ROOT/'site/sw.js',out/'sw.js');shutil.copyfile(path,out/'catalog.json')
