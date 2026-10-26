@@ -20,7 +20,7 @@
   for (const [value, text] of [['steam-hours','Steam playtime'],['steam-priority','Wishlist priority']]) $('#sort').insertAdjacentHTML('beforeend', `<option value="${value}">${text}</option>`);
   $('#main-nav').insertAdjacentHTML('beforeend', `<button class="nav-item steam-account-button" data-steam-action="open">${icon('link')}My Steam library <span class="steam-connection-dot" aria-hidden="true"></span></button>`);
   $('.heading-actions').insertAdjacentHTML('afterbegin', `<button class="quiet" data-steam-action="open">${icon('link')}Steam sync</button>`);
-  $('.toolbar').insertAdjacentHTML('afterend', `<section class="steam-library-strip" aria-label="Your Steam library"><div><strong>Make this library yours.</strong><small id="steam-strip-status">Connect Steam or import a library snapshot.</small></div><label><span class="sr-only">Steam library filter</span><select id="steam-filter">${Object.entries(modes).map(([k,v])=>`<option value="${k}">${esc(v)}</option>`).join('')}</select></label><button class="secondary" data-steam-action="open">Manage Steam ${icon('chevron')}</button></section>`);
+  $('.toolbar').insertAdjacentHTML('afterend', `<section class="steam-library-strip" aria-label="Your Steam library"><div><strong>Make this library yours.</strong><small id="steam-strip-status">Import Steam or GameSync JSON.</small></div><label><span class="sr-only">Steam library filter</span><select id="steam-filter">${Object.entries(modes).map(([k,v])=>`<option value="${k}">${esc(v)}</option>`).join('')}</select></label><button class="secondary" data-steam-action="open">Manage Steam ${icon('chevron')}</button></section>`);
   const dialog = document.createElement('dialog'); dialog.id = 'steam-sync-panel'; dialog.className = 'steam-sync-panel'; dialog.setAttribute('aria-labelledby','steam-panel-title'); document.body.append(dialog);
   function service() {
     const raw = window.GAMES_STEAM_CONFIG?.serviceUrl;
@@ -72,7 +72,6 @@
   };
   renderChips = function () {
     original.chips();
-    // The original renderer can display newly added state fields; use an explicit label.
     const native = $('#active-filters [data-clear="steam"]'); if (native) native.remove();
     if (state.steam !== 'all') { const count=$('#filter-count');count.textContent=String(Number(count.textContent||0)+1);count.hidden=false; }
     if (state.steam !== 'all') $('#active-filters').insertAdjacentHTML('beforeend', `<button class="filter-chip" data-steam-mode="all">Steam: ${esc(modes[state.steam])} ${icon('close')}</button>`);
@@ -80,8 +79,9 @@
   render = function () {
     if(!Object.hasOwn(modes,state.steam))state.steam='all';
     original.render(); $('#steam-filter').value = state.steam;
+    $('#steam-filter option[value="discover"]').disabled=!ix.completeOwned;
     const ownedMatches = games.filter(g=>ix.owned.has(g.appid)).length, wishlistMatches = games.filter(g=>ix.wishlist.has(g.appid)).length;
-    $('#steam-strip-status').textContent = snapshot ? `${ownedMatches} library matches / ${wishlistMatches} wishlist matches${snapshot.owned?.stale||snapshot.wishlist?.stale?' - cached after a failed refresh':''}. ${session?'Signed in.':'Saved locally.'}` : 'Connect Steam or import a library snapshot. Your notes stay separate.';
+    $('#steam-strip-status').textContent = snapshot ? `${ownedMatches} library matches / ${wishlistMatches} wishlist matches${snapshot.owned?.stale||snapshot.wishlist?.stale?' - cached after a failed refresh':''}. ${session?'Signed in.':'Saved locally.'}` : service()?'Connect Steam or import a library snapshot. Your notes stay separate.':'Import Steam or GameSync JSON. Online sign-in awaits site setup.';
     document.body.classList.toggle('steam-has-snapshot',!!snapshot);
   };
   function partView(name, part) {
@@ -102,7 +102,7 @@
       <section class="steam-import-section"><h3>Import a Steam or GameSync snapshot</h3><p>Works without a server. Only Steam AppIDs, playtime and wishlist metadata are kept. The file is processed in this browser and is never uploaded.</p>
       <label class="steam-import-option"><input id="steam-self-reported" type="checkbox"> Treat non-wishlist GameSync records as owned (self-reported, partial list)</label>
       <label class="steam-file-label">Choose a JSON export <input id="steam-file" type="file" accept="application/json,.json" ${busy?'disabled':''}></label>
-      ${candidate?`<div class="steam-import-preview"><p>Ready to import <strong>${candidate.owned.items.length} library IDs</strong>, <strong>${candidate.wishlist.items.length} wishlist IDs</strong>, and <strong>${candidate.tracked.length} tracked IDs</strong>. This does not sign you in.</p><button class="primary" data-steam-action="import">Use this snapshot</button></div>`:''}
+      ${candidate?`<div class="steam-import-preview"><p>Ready to import <strong>${candidate.owned.items.length} library IDs</strong>, <strong>${candidate.wishlist.items.length} wishlist IDs</strong>, and <strong>${candidate.tracked.length} tracked IDs</strong>. This does not sign you in.</p>${!candidate.steamId?'<p>This export has no verified account identity. Applying it replaces the current Steam snapshot rather than guessing which accounts to merge.</p>':''}<button class="primary" data-steam-action="import">Use this snapshot</button></div>`:''}
       <details><summary>Where do I get the file?</summary><p>First <a href="https://store.steampowered.com/login/" target="_blank" rel="noopener noreferrer">sign in on Steam</a> in this browser. Then open <a href="https://store.steampowered.com/dynamicstore/userdata/" target="_blank" rel="noopener noreferrer">their Steam store data</a> while signed in on Steam, save the JSON response, then choose it here. Steam may change this undocumented export. An empty or unavailable response is rejected.</p><p>Also accepts GetOwnedGames JSON, GetWishlist JSON, Games Steam snapshots, and GameSync exports containing <code>games</code> or <code>db.games</code>. GameSync records alone do not prove a license; unconfirmed records are labelled tracked unless you explicitly opt in above.</p><p>Never upload passwords, cookies or Steam Guard codes. A full GameSync backup can include settings; only the whitelisted game fields are retained.</p></details></section>
       <details class="steam-privacy"><summary>Privacy, coverage and site setup</summary><p>OpenID verifies your SteamID, not permission to read private lists. Set the relevant Steam game details/wishlist visibility to Public for server sync, or use a local export. Hidden, private, missing and failed lists are never silently treated as empty. Cached data is dated and can be out of date.</p><p>Matching uses exact AppIDs. Bundles, demos, DLC, family sharing, deleted licenses and other-store purchases are not inferred. Zero reported minutes is not proof a game was never played.</p><p>Your snapshot stays in this browser. The bridge holds short-lived sign-in state in memory and reads Steam on explicit refresh. Signing into Steam does not cloud-sync this site's notes. Switching accounts replaces only the Steam snapshot.</p><p>${configured?`Configured service: <code>${esc(service())}</code>. `:''}<a href="https://github.com/Herbertofury/Games/blob/main/docs/STEAM-SYNC.md" target="_blank" rel="noopener">Setup and technical details</a></p></details>`;
   }
@@ -164,7 +164,7 @@
     const action=button.dataset.steamAction;
     if(action==='open')open();if(action==='close')close();if(action==='signin')signIn();if(action==='sync')sync();if(action==='disconnect')disconnect();
     if(action==='export'&&snapshot)download('Games - Steam Snapshot.json',JSON.stringify(snapshot,null,2));
-    if(action==='import'&&candidate){const previous=session;session=null;epoch++;clearPending();save(M.merge(snapshot,candidate));candidate=null;message='Imported locally. No account was authenticated, and your ordinary notes were not changed.';draw();if(previous)api('/logout',{method:'POST',data:{},bearer:previous.token}).catch(()=>{});}
+    if(action==='import'&&candidate){const previous=session;session=null;epoch++;pending?.popup.close();clearPending();save(M.merge(snapshot,candidate));candidate=null;message='Imported locally. No account was authenticated, and your ordinary notes were not changed.';draw();if(previous)api('/logout',{method:'POST',data:{},bearer:previous.token}).catch(()=>{});}
   });
   document.addEventListener('change',async event=>{
     if(event.target.id==='steam-filter'){state.steam=event.target.value;render();}
@@ -178,20 +178,11 @@
   window.addEventListener('storage',event=>{if(event.key===STORE){try{
     const raw=event.newValue?JSON.parse(event.newValue):null;
     const next=raw?M.normalize(raw,{imported:raw.source!=='steam',now:raw.updatedAt}):null;
-    if(session&&(!next||next.source!=='steam'||next.steamId!==session.steamId)){session=null;epoch++;clearPending();}
+    if(session&&(!next||next.source!=='steam'||next.steamId!==session.steamId)){session=null;epoch++;pending?.popup.close();clearPending();}
     snapshot=next;if(raw)for(const part of ['owned','wishlist'])if(raw[part]?.stale)snapshot[part]={...snapshot[part],stale:true,message:'Last refresh was unavailable; showing the saved snapshot.'};
     ix=M.index(snapshot);render();draw();
   }catch{}}});
-  // No service bearer, Steam session cookie or API key is exposed to other UI modules.
+  // Expose copies of membership, never credentials or a snapshot-write hook.
   window.GamesSteamContext = () => ({ steamId: snapshot?.steamId || null, owned: new Set(ix.owned.keys()), wishlist: new Set(ix.wishlist.keys()) });
-  window.GamesSteamApplyWishlist = result => {
-    if (!snapshot?.steamId || snapshot.steamId !== result.steamId) return false;
-    const id=M.appid(result.appid), previous=snapshot.wishlist;
-    const list=(previous?.items || []).filter(item=>item.appid!==id);
-    if(result.wishlisted)list.push({appid:id,priority:null,addedAt:null});
-    // A one-item change is not a full refresh. Preserve the list's age/completeness.
-    save({...snapshot,wishlist:{...previous,status:'ok',complete:previous?.complete===true,items:list,source:previous?.source || 'browser-action'}});
-    return true;
-  };
   render();
 })();

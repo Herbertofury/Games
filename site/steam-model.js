@@ -70,9 +70,8 @@
   }
   function normalize(raw, { imported = true, now = new Date().toISOString() } = {}) {
     if (!object(raw) || raw.schemaVersion !== 1 || raw.provider !== 'steam') throw Error('Unsupported Steam snapshot version.');
-    const out = { schemaVersion: 1, provider: 'steam', steamId: steamid(raw.steamId), source: imported ? 'import' : 'steam', updatedAt: now,
+    return { schemaVersion: 1, provider: 'steam', steamId: steamid(raw.steamId), source: imported ? 'import' : 'steam', updatedAt: now,
       owned: component(raw.owned, 'owned', now, imported), wishlist: component(raw.wishlist, 'wishlist', now, imported), tracked: items(raw.tracked || [], 'tracked') };
-    return out;
   }
   function importSnapshot(raw, { treatTrackedAsOwned = false, now = new Date().toISOString() } = {}) {
     if (!object(raw)) throw Error('Import a JSON object, not a list or a web page.');
@@ -84,6 +83,7 @@
     const out = { schemaVersion: 1, provider: 'steam', steamId: null, source: 'import', updatedAt: now,
       owned: { status: 'unknown', complete: false, items: [] }, wishlist: { status: 'unknown', complete: false, items: [] }, tracked: [] };
     if (Array.isArray(raw.rgOwnedApps) || Array.isArray(raw.rgWishlist)) {
+      if (raw.bLoggedIn === false) throw Error('This export says Steam was signed out. Sign in on Steam and export again.');
       if (!(raw.rgOwnedApps?.length || raw.rgWishlist?.length) && raw.bLoggedIn !== true) throw Error('Steam returned empty browser data without a signed-in confirmation. Your previous snapshot is kept.');
       if (Array.isArray(raw.rgOwnedApps)) out.owned = { status: 'ok', complete: true, checkedAt: now, source: 'steam-browser-export', items: items(raw.rgOwnedApps, 'owned') };
       if (Array.isArray(raw.rgWishlist)) out.wishlist = { status: 'ok', complete: true, checkedAt: now, source: 'steam-browser-export', items: items(raw.rgWishlist, 'wishlist') };
@@ -100,7 +100,7 @@
         if (!object(g)) continue;
         const source = Array.isArray(g.sources) ? g.sources.find(s => object(s) && s.platform === 'steam') : null;
         const key = /^steam:(\d+)$/.exec(String(g.key || ''));
-        const id = g.platform === 'steam' ? g.platformId : source?.platformId || key?.[1];
+        const id = (g.platform === 'steam' ? g.platformId : null) || source?.platformId || key?.[1];
         if (!id) continue;
         const aid = appid(id);
         if (['wishlist','wishlisted','wanttoplay'].includes(String(g.status || '').toLowerCase())) wishlist.push({ appid: aid });

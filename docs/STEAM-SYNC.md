@@ -2,15 +2,17 @@
 
 ## Included
 
-The Games interface can import Steam/GameSync JSON locally, match exact Steam AppIDs, distinguish owned/wishlisted/tracked records, filter and sort by known playtime or wishlist priority, export a credential-free snapshot, and clear Steam data without clearing notes/favorites. Private or unavailable lists are not silently treated as empty. A failed refresh keeps the dated last-good list for the same identified account.
+The Games interface imports Steam/GameSync JSON locally, matches exact Steam AppIDs, distinguishes owned/wishlisted/tracked records, filters and sorts by known playtime or wishlist priority, exports a credential-free snapshot, and clears Steam data without clearing notes/favorites. Private or unavailable lists are not silently treated as empty. A failed refresh keeps the dated last-good list for the same identified account. Unidentified imports replace rather than guessing cross-account merges.
 
-GameSync-Next was inspected as the user's design reference. This is an independently written adapter for its game-record shapes, not publication of the private repository. Importing a tracked GameSync record does not establish a Steam license; only explicit ownership or an explicit self-report option marks it as owned.
+GameSync-Next was inspected as the user's design reference. This is an independently written adapter for its game-record shapes, not publication of the private repository. Importing a tracked GameSync record does not establish a Steam license; only explicit ownership or an explicit self-report option marks it as owned. Stable `steam:AppID` keys and Steam source IDs can fill missing `platformId` fields. Explicitly signed-out exports are rejected even when they contain cached IDs.
 
 ## Wishlist actions
 
-`Wishlist on Steam` and `Manage wishlist on Steam` open the exact official app page. The user completes the addition or removal there and refreshes the local snapshot. `Open in Steam` uses the installed Steam client. This release does NOT claim one-click remote wishlist mutation.
+`Wishlist on Steam` and `Manage wishlist on Steam` open the exact official app page. The user completes the addition or removal there and refreshes the local snapshot. `Open in Steam` uses the installed Steam client. A matched owned game also has `Launch in Steam` in its detail panel.
 
-The earlier, uncommitted cookie/session-based extension draft is excluded. No Steam cookies, passwords, Steam Guard codes, or undocumented wishlist-write requests are handled by this release. OpenID verifies identity; it does not grant wishlist editing permissions. True in-site wishlist writes need a separately reviewed, explicitly authorized integration and live verification before they can be claimed as supported.
+Game details offer **Valve's official store widget**, loaded only after explicit user activation. Valve documents an Add to Wishlist button for unreleased games and purchase controls for released games. Browser settings or Steam sign-in may require completing the action on Steam. The frame is cross-origin, sandboxed and no-referrer; Games does not read its account state or infer success from loading/clicking it. No automatic cart, purchase or wishlist action is sent by Games.
+
+This release does NOT claim universal one-click wishlist mutation for released games. The earlier uncommitted cookie/session-based extension draft is excluded. No Steam cookies, passwords, Steam Guard codes, or undocumented wishlist-write requests are handled by this release. OpenID verifies identity; it does not grant wishlist editing permissions.
 
 ## Online sign-in and sync
 
@@ -33,12 +35,16 @@ The frontend shares the GitHub Pages account's origin with other projects under 
 
 ## Verification
 
-Run `node --test tests/steam-model.test.cjs services/steam-sync/server.test.mjs tests/steam-wishlist.test.mjs`, the existing Python source suite, and `python tests/steam_browser_qa.py`. Browser tests use real Chromium and this real backend with an explicitly mocked Steam upstream. They cover popup/callback/exchange, imported lists, privacy failures, exact links, notes preservation, disconnect and mobile layout. They do not mutate any user's real wishlist.
+Run `node --test tests/steam-*.test.* services/steam-sync/server.test.mjs`, the existing Python source suite, `python tests/steam_browser_qa.py`, and `python tests/steam_widget_qa.py`. Browser tests use real Chromium and this real backend with an explicitly mocked Steam upstream. They cover popup/callback/exchange, imported lists, privacy failures, exact links, notes preservation, disconnect, widget consent/identity, all genre counts, portable-file startup and mobile layout. They do not mutate any user's real wishlist.
+
+The mock service replaces only the initial HTTP provider redirect with an equivalent new navigation because Playwright routes only the first URL of a redirect chain. This ensures the provider fixture intercepts the Steam URL instead of accidentally reaching the real Steam login page. Production retains its real HTTP redirect and full assertion verification. The widget fixture verifies placement and consent, not a real account action.
 
 ## Primary references
 
 - Steam authentication/OpenID: https://partner.steamgames.com/doc/features/auth
 - Steam owned-game visibility and GetOwnedGames: https://partner.steamgames.com/doc/webapi/IPlayerService
-- GitHub Pages static-hosting boundary: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+- Valve's store widget and upcoming-game wishlist button: https://partner.steamgames.com/doc/marketing/widget
+- GitHub Pages static hosting: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+- Playwright redirect-interception semantics: https://playwright.dev/python/docs/network
 
 Implementation status is distinct from deployment status: an empty service URL means live sign-in is NOT active.

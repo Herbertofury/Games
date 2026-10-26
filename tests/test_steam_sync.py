@@ -1,9 +1,9 @@
-"""Run the actual shared-model/security tests from the existing source test gate."""
-import importlib.util,json,pathlib,subprocess,unittest
+"""Run the real shared-model/security tests in the existing source test gate."""
+import json,pathlib,subprocess,unittest
 R=pathlib.Path(__file__).resolve().parents[1]
 class SteamSyncTests(unittest.TestCase):
  def test_node_security_and_snapshot_contract(self):
-  result=subprocess.run(['node','--test','tests/steam-model.test.cjs','services/steam-sync/server.test.mjs','tests/steam-wishlist.test.mjs'],cwd=R,text=True,capture_output=True,timeout=45)
+  result=subprocess.run(['node','--test','tests/steam-model.test.cjs','services/steam-sync/server.test.mjs','tests/steam-wishlist.test.mjs','tests/steam-extra.test.mjs'],cwd=R,text=True,capture_output=True,timeout=45)
   self.assertEqual(result.returncode,0,result.stdout+'\n'+result.stderr)
   self.assertIn('# fail 0',result.stdout);self.assertIn('# skipped 0',result.stdout)
  def test_static_build_contains_feature_but_no_deployment_claim(self):
@@ -12,6 +12,7 @@ class SteamSyncTests(unittest.TestCase):
    self.assertIn(marker,page)
   self.assertIn('games.library.v1',page);self.assertIn('games.lounge.v2',page)
   self.assertNotIn('TEST-KEY-NOT-A-REAL-KEY',page)
+  self.assertNotIn('GamesSteamApplyWishlist',page)
   if not config['serviceUrl']:self.assertIn('Online sign-in is not configured',page)
  def test_release_packaging_excludes_local_secrets(self):
   import sys

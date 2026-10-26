@@ -28,7 +28,7 @@ jobs:
           python -m pip install -r requirements-dev.txt
           python scripts/build.py
           mkdir -p qa
-          node --test tests/steam-model.test.cjs services/steam-sync/server.test.mjs tests/steam-wishlist.test.mjs | tee qa/steam-node-tests.log
+          node --test tests/steam-*.test.* services/steam-sync/server.test.mjs | tee qa/steam-node-tests.log
           python -m unittest discover -s tests -p 'test_*.py' 2>&1 | tee qa/steam-source-tests.log
           node --check site/steam-sync.js
           node --check site/steam-wishlist.js
@@ -40,7 +40,9 @@ jobs:
             python -m playwright install --with-deps chromium
           fi
       - name: Real UI with an explicitly mocked Steam provider
-        run: python tests/steam_browser_qa.py
+        run: |
+          python tests/steam_browser_qa.py
+          python tests/steam_widget_qa.py
       - name: Record mock-only authentication diagnostics on failure
         if: failure()
         run: python tests/steam_auth_probe.py
