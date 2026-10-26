@@ -1,5 +1,5 @@
 {
-  "sourceRevision": "5d2c4e5f201352489d62112e7941df5cf0fab4ae",
+  "sourceRevision": "c0f56bca11802c8c15bd7d6d9f3bab33ea5c7037",
   "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
   "records": 430,
   "checks": [
@@ -10234,31 +10234,31 @@
   ],
   "playback": [
     {
-      "time": 1.16837,
+      "time": 1.025792,
       "width": 1280,
-      "src": "blob:http://127.0.0.1:8787/ac282f0d-5803-423d-bf35-89d04b7addef",
+      "src": "blob:http://127.0.0.1:8787/824b4a7b-bc71-4c6c-9f7b-fb76cafb0f74",
       "name": "Hollow Knight"
     },
     {
-      "time": 1.121449,
+      "time": 1.033856,
       "width": 1280,
-      "src": "blob:http://127.0.0.1:8787/58974b68-4f4e-404e-8ba1-566cb9de2618",
+      "src": "blob:http://127.0.0.1:8787/6d5f6d2b-0f9e-483a-b8b9-9be8143c1c60",
       "name": "Moadra"
     },
     {
-      "time": 1.031912,
+      "time": 1.020489,
       "width": 1280,
-      "src": "blob:http://127.0.0.1:8787/9ddcd99b-2b9e-466b-b310-b1a5ada44e97",
+      "src": "blob:http://127.0.0.1:8787/e81f9b0d-fe61-4b2d-a9f0-7aea8253ce33",
       "name": "Nine Sols"
     }
   ],
   "errors": [],
   "renderMs": [
-    235.4000000001397,
-    241.80000000004657,
-    239,
-    297.69999999995343,
-    235.69999999995343
+    302.79999999981374,
+    232.4000000001397,
+    237.39999999990687,
+    240,
+    250
   ],
   "passed": true
 }
