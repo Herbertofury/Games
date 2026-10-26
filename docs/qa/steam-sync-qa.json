@@ -1,0 +1,33 @@
+{
+  "scope": "Real Chromium and backend with mocked Steam transport. Not a live Steam login or a remote wishlist mutation.",
+  "checks": [
+    "Complete catalog remains present",
+    "Unconfigured sign-in is disabled honestly",
+    "Local imports work without deployment",
+    "Import is explicitly unauthenticated",
+    "Only whitelisted fields are retained",
+    "Exact AppID ownership filter",
+    "Owned badges appear on cards",
+    "Table ownership view",
+    "Wishlist matches the exact AppID",
+    "Missing playtime is not zero playtime",
+    "Invalid import is non-destructive",
+    "Popup, verified callback and PKCE exchange work with mocked Steam",
+    "Tokens are not persisted",
+    "Steam sync preserves personal notes and favorites",
+    "Explicit zero minutes matches",
+    "Priority zero sorts first",
+    "Failed refresh retains last-known library",
+    "Wishlist action goes to the exact official Steam app",
+    "Wishlist handoff cannot claim a remote write",
+    "Opening Steam does not alter membership",
+    "Handoff feedback explains the remaining Steam confirmation",
+    "Mobile dialog fits viewport",
+    "Snapshot survives reload",
+    "Session is not invented after reload",
+    "Disconnect clears only Steam data",
+    "No JavaScript runtime errors"
+  ],
+  "errors": [],
+  "passed": true
+}

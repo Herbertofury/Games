@@ -8,8 +8,8 @@ ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ........./home/runner/work/Games/Games/tests/test_platformers.py:49: ResourceWarning: unclosed file <_io.TextIOWrapper name='/home/runner/work/Games/Games/data/seeds.tsv' mode='r' encoding='UTF-8'>
   for seed in csv.DictReader((R/'data/seeds.tsv').open(),delimiter='\t'):self.assertIn('Roguelites',self.by['steam:'+seed['appid']]['hubs'])
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
-.......................................................
+...........................................................
 ----------------------------------------------------------------------
-Ran 132 tests in 29.855s
+Ran 136 tests in 29.839s
 
 OK

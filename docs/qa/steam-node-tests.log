@@ -1,0 +1,238 @@
+TAP version 13
+# Subtest: Configuration rejects insecure nonlocal and credentialed URLs
+ok 1 - Configuration rejects insecure nonlocal and credentialed URLs
+  ---
+  duration_ms: 1.487809
+  type: 'test'
+  ...
+# Subtest: Health contains capabilities, no key, and cache is disabled
+ok 2 - Health contains capabilities, no key, and cache is disabled
+  ---
+  duration_ms: 5.551557
+  type: 'test'
+  ...
+# Subtest: Valid OpenID -> one-time PKCE grant -> short-lived scoped session -> independent lists
+ok 3 - Valid OpenID -> one-time PKCE grant -> short-lived scoped session -> independent lists
+  ---
+  duration_ms: 8.204661
+  type: 'test'
+  ...
+# Subtest: Callback requires same-browser cookie and correct state
+ok 4 - Callback requires same-browser cookie and correct state
+  ---
+  duration_ms: 1.514578
+  type: 'test'
+  ...
+# Subtest: Rejects forged op_endpoint
+ok 5 - Rejects forged op_endpoint
+  ---
+  duration_ms: 1.668155
+  type: 'test'
+  ...
+# Subtest: Rejects forged identity
+ok 6 - Rejects forged identity
+  ---
+  duration_ms: 1.223815
+  type: 'test'
+  ...
+# Subtest: Rejects forged return_to
+ok 7 - Rejects forged return_to
+  ---
+  duration_ms: 1.544113
+  type: 'test'
+  ...
+# Subtest: Rejects forged signed
+ok 8 - Rejects forged signed
+  ---
+  duration_ms: 1.171418
+  type: 'test'
+  ...
+# Subtest: Rejects forged response_nonce
+ok 9 - Rejects forged response_nonce
+  ---
+  duration_ms: 1.910989
+  type: 'test'
+  ...
+# Subtest: Rejects forged ns
+ok 10 - Rejects forged ns
+  ---
+  duration_ms: 1.157802
+  type: 'test'
+  ...
+# Subtest: Invalid Steam signature cannot become a session
+ok 11 - Invalid Steam signature cannot become a session
+  ---
+  duration_ms: 1.053547
+  type: 'test'
+  ...
+# Subtest: Duplicate parameters and callback replay are rejected
+ok 12 - Duplicate parameters and callback replay are rejected
+  ---
+  duration_ms: 1.045152
+  type: 'test'
+  ...
+# Subtest: Wrong verifier and reused authorization codes fail
+ok 13 - Wrong verifier and reused authorization codes fail
+  ---
+  duration_ms: 1.987551
+  type: 'test'
+  ...
+# Subtest: Session is required, expires, and is revoked on logout
+ok 14 - Session is required, expires, and is revoked on logout
+  ---
+  duration_ms: 3.588791
+  type: 'test'
+  ...
+# Subtest: Cross-origin POST and wildcard CORS are prohibited
+ok 15 - Cross-origin POST and wildcard CORS are prohibited
+  ---
+  duration_ms: 0.872931
+  type: 'test'
+  ...
+# Subtest: Private library does not block an available wishlist
+ok 16 - Private library does not block an available wishlist
+  ---
+  duration_ms: 2.809256
+  type: 'test'
+  ...
+# Subtest: Missing operator API key is reported, not solicited from a visitor
+ok 17 - Missing operator API key is reported, not solicited from a visitor
+  ---
+  duration_ms: 1.801283
+  type: 'test'
+  ...
+# Subtest: Sync cooldown and storage capacity are bounded
+ok 18 - Sync cooldown and storage capacity are bounded
+  ---
+  duration_ms: 2.562165
+  type: 'test'
+  ...
+# Subtest: Network errors never leak API keys or upstream URLs
+ok 19 - Network errors never leak API keys or upstream URLs
+  ---
+  duration_ms: 1.701738
+  type: 'test'
+  ...
+# Subtest: Signed-out Steam data is rejected even when it has cached IDs
+ok 20 - Signed-out Steam data is rejected even when it has cached IDs
+  ---
+  duration_ms: 2.8921
+  type: 'test'
+  ...
+# Subtest: GameSync stable keys and source IDs remain usable without platformId
+ok 21 - GameSync stable keys and source IDs remain usable without platformId
+  ---
+  duration_ms: 0.725936
+  type: 'test'
+  ...
+# Subtest: Official widget is created only by explicit trusted click and never pretends to sync
+ok 22 - Official widget is created only by explicit trusted click and never pretends to sync
+  ---
+  duration_ms: 0.544957
+  type: 'test'
+  ...
+# Subtest: AppIDs are exact unsigned integers; SteamIDs are not rounded numbers
+ok 23 - AppIDs are exact unsigned integers; SteamIDs are not rounded numbers
+  ---
+  duration_ms: 1.379085
+  type: 'test'
+  ...
+# Subtest: Missing/private owned data is not an empty library
+ok 24 - Missing/private owned data is not an empty library
+  ---
+  duration_ms: 0.623284
+  type: 'test'
+  ...
+# Subtest: Wishlist must be explicit, including a confirmed empty array
+ok 25 - Wishlist must be explicit, including a confirmed empty array
+  ---
+  duration_ms: 0.785527
+  type: 'test'
+  ...
+# Subtest: Privacy failure preserves same-account last good data and dates
+ok 26 - Privacy failure preserves same-account last good data and dates
+  ---
+  duration_ms: 1.81002
+  type: 'test'
+  ...
+# Subtest: Account switch never mixes another account library
+ok 27 - Account switch never mixes another account library
+  ---
+  duration_ms: 0.312153
+  type: 'test'
+  ...
+# Subtest: Local import cannot authenticate, persist credentials or overwrite private notes
+ok 28 - Local import cannot authenticate, persist credentials or overwrite private notes
+  ---
+  duration_ms: 0.579452
+  type: 'test'
+  ...
+# Subtest: Steam browser export handles owned and wishlist separately, without inventing playtime
+ok 29 - Steam browser export handles owned and wishlist separately, without inventing playtime
+  ---
+  duration_ms: 0.421448
+  type: 'test'
+  ...
+# Subtest: GameSync records are tracked, not licenses, unless explicitly marked
+ok 30 - GameSync records are tracked, not licenses, unless explicitly marked
+  ---
+  duration_ms: 0.563151
+  type: 'test'
+  ...
+# Subtest: Unknown playtime is not zero and non-Steam titles are not guessed
+ok 31 - Unknown playtime is not zero and non-Steam titles are not guessed
+  ---
+  duration_ms: 0.612183
+  type: 'test'
+  ...
+# Subtest: Partial import merges membership without claiming completeness
+ok 32 - Partial import merges membership without claiming completeness
+  ---
+  duration_ms: 0.505474
+  type: 'test'
+  ...
+# Subtest: Malformed imports fail atomically; bad JSON fields are bounded
+ok 33 - Malformed imports fail atomically; bad JSON fields are bounded
+  ---
+  duration_ms: 0.641568
+  type: 'test'
+  ...
+# Subtest: Unbound imports are replacements, not guessed same-account merges
+ok 34 - Unbound imports are replacements, not guessed same-account merges
+  ---
+  duration_ms: 0.296574
+  type: 'test'
+  ...
+# Subtest: Wishlist module is an official-page handoff, not an undocumented write client
+ok 35 - Wishlist module is an official-page handoff, not an undocumented write client
+  ---
+  duration_ms: 1.363206
+  type: 'test'
+  ...
+# Subtest: Actions require an exact Steam AppID and avoid opener access
+ok 36 - Actions require an exact Steam AppID and avoid opener access
+  ---
+  duration_ms: 0.20325
+  type: 'test'
+  ...
+# Subtest: Wishlist handoff never pretends a remote write succeeded
+ok 37 - Wishlist handoff never pretends a remote write succeeded
+  ---
+  duration_ms: 0.229238
+  type: 'test'
+  ...
+# Subtest: Unreviewed cookie-based extension is excluded from this revision
+ok 38 - Unreviewed cookie-based extension is excluded from this revision
+  ---
+  duration_ms: 0.25176
+  type: 'test'
+  ...
+1..38
+# tests 38
+# suites 0
+# pass 38
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 233.195153

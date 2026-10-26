@@ -1,0 +1,32 @@
+{
+  "scope": "Real Chromium, fixture widget content; no real Steam account or purchase/wishlist mutation.",
+  "checks": [
+    "No third-party widget loads on startup",
+    "Ownership index is copied once per render, not once per card",
+    "Initial game deep link includes Steam snapshot and actions",
+    "Initial detail deep link still waits for widget consent",
+    "Detail asks before loading Steam",
+    "Exact app widget requested only after keyboard activation",
+    "Embed remains isolated and suppresses referrer",
+    "Loading widget never fabricates wishlist membership",
+    "Reloading button cannot duplicate frames",
+    "An already-open detail reflects newly imported ownership",
+    "Existing detail wishlist link reflects the new snapshot",
+    "Account refresh does not replace notes, video or the consent-loaded widget",
+    "Non-Steam record never receives a guessed Steam widget",
+    "Mobile widget fits its parent without page overflow",
+    "Existing Boomer shooters retains every record",
+    "Existing Couch co-op & party retains every record",
+    "Existing Metroidvanias retains every record",
+    "Existing Minecraft-like worlds retains every record",
+    "Existing Platformers retains every record",
+    "Existing Real-time strategy retains every record",
+    "Existing Roguelites retains every record",
+    "Existing Survival retains every record",
+    "Portable initial game deep link includes Steam actions",
+    "Portable HTML retains local imports and disabled online sign-in",
+    "No uncaught errors"
+  ],
+  "errors": [],
+  "passed": true
+}

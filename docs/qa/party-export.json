@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-26T00:22:31.332Z",
+  "exportedAt": "2026-10-26T03:50:27.811Z",
   "filters": {
     "partyPlayers": "",
     "partyMode": "",
@@ -31,7 +31,8 @@
     "playable": false,
     "sort": "recommended",
     "view": "grid",
-    "shelf": "all"
+    "shelf": "all",
+    "steam": "all"
   },
   "source": "https://github.com/Herbertofury/Games",
   "items": [

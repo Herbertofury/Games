@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-26T00:28:47.714Z",
+  "exportedAt": "2026-10-26T03:57:25.734Z",
   "favorites": [
     "steam:2218750"
   ],
@@ -49,7 +49,8 @@
         "playable": false,
         "sort": "newest",
         "view": "grid",
-        "shelf": "all"
+        "shelf": "all",
+        "steam": "all"
       }
     }
   ],
@@ -85,6 +86,7 @@
     "playable": false,
     "sort": "newest",
     "view": "grid",
-    "shelf": "all"
+    "shelf": "all",
+    "steam": "all"
   }
 }
