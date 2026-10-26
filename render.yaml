@@ -1,0 +1,26 @@
+# Optional separate API host. GitHub Pages continues to serve the static library.
+# Creation of a Blueprint is an operator action; committing this does not deploy it.
+services:
+  - type: web
+    name: games-steam-sync
+    runtime: node
+    plan: free
+    branch: main
+    buildCommand: node --check services/steam-sync/server.mjs
+    startCommand: node services/steam-sync/server.mjs
+    healthCheckPath: /health
+    autoDeployTrigger: checksPass
+    buildFilter:
+      paths:
+        - services/steam-sync/**
+        - site/steam-model.js
+        - render.yaml
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_ENV
+        value: production
+      - key: APP_URL
+        value: https://herbertofury.github.io/Games/
+      - key: STEAM_WEB_API_KEY
+        sync: false
