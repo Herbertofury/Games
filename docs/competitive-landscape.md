@@ -21,3 +21,21 @@ For each meaningful upstream change, record the source URL, publication/version 
 - [ ] Measure current implementation before a replacement or optimization.
 - [ ] Record correctness, usability, resource cost and recovery results together.
 - [ ] Link only proven improvements to implementation milestones; retain unproven candidates as research.
+
+## Reuse foundations and concrete parts to evaluate
+
+Use the existing canonical collection and source-grounded media pipeline. [Playnite](https://github.com/JosefNemec/Playnite) is a candidate library-model/extension reference, not a reason to replace research with a launcher.
+
+## Integration with our projects
+
+Public category/source records may be reusable in Athena research and other discovery surfaces via a versioned export. Keep user-owned library/account data out of the public catalog; reuse identifiers rather than fork duplicate catalogs.
+
+## Target improvement and acceptance boundary
+
+Evaluate recommendation traceability, edition deduplication and useful source coverage alongside filtering latency. A richer explanation is valuable only if its cited evidence is accurate.
+
+## License, access and adoption gate
+
+Status: research candidate, not integrated or benchmark-proven. Before copying code, pin the exact upstream revision and record its LICENSE, dependency licenses, notices and distribution obligations. Missing/ambiguous terms block reuse; behavioral study or a permitted interoperable adapter may remain possible. Service documentation is not a source-code license or API grant. Preserve existing user permissions, private/public boundaries and creator/game asset rights.
+
+Choose reuse, adapter, fork or independent implementation only after a target-workload comparison. Retain raw failures and rollback; share no credentials, private fixtures or account details. Adoption remains blocked until licensing, correctness, performance and maintenance cost are reviewed together. Review delta dated 2026-11-12.
