@@ -44,3 +44,7 @@ python3 -m http.server 8000 --directory dist
 To explicitly refresh RTS providers before rebuilding, run `python3 scripts/enrich_rts.py --force`. Normal incremental refreshes reuse fresh snapshots. No hidden scheduled collector is installed. Generated wiki pages are pushed to the actual wiki only by the publishing workflow after its tests pass.
 
 Personal data stays in your browser under the existing `games.library.v1` identity. Export a personal backup to move it between browsers/devices. Uncached images and videos require internet access. GitHub Pages is a separate deployment prerequisite; the native wiki and portable HTML do not require Pages to be enabled.
+
+## Competitive landscape and related approaches
+
+See the [source-led comparison and evaluation plan](docs/competitive-landscape.md). Documented capabilities, research proposals and measured results are kept separate.
