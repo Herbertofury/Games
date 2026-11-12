@@ -1,5 +1,11 @@
 # Games execution and acceptance record
 
+## Current continuation pointer · November 12, 2026
+
+The published latest-release endpoint currently identifies [catalog-51](https://github.com/Herbertofury/Games/releases/tag/catalog-51). This identifies the published release, not a new claim that every acceptance gate passes. Before continuing, match current source, CI, served assets and release hashes; do not execute historical next-action paragraphs below as current instructions.
+
+The newer [Steam sync contract](STEAM-SYNC.md) records the hosted bridge and separates deployment/health/mock evidence from real-login qualification. Remaining real-account acceptance is organized in [milestone 1](https://github.com/Herbertofury/Games/milestone/1) and [issue #5](https://github.com/Herbertofury/Games/issues/5). Preserve original catalog identities, personal storage and historical receipts. Do not restart completed discovery or publication solely because an older checkpoint says pending.
+
 ## Canonical identity
 
 Repository: https://github.com/Herbertofury/Games
