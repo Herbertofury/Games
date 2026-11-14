@@ -88,7 +88,8 @@ export function createApp({ config, fetchImpl = fetch, now = Date.now } = {}) {
         }
       } finally { reader.releaseLock(); }
     }
-    const text = Buffer.concat(chunks, size).toString('utf8');
+    // Match Request.text(): UTF-8 replacement decoding with an optional BOM stripped.
+    const text = new TextDecoder().decode(Buffer.concat(chunks, size));
     let data; try { data = JSON.parse(text); } catch { reject(400, 'invalid_json', 'Invalid JSON.'); }
     if (!data || typeof data !== 'object' || Array.isArray(data)) reject(400, 'invalid_json', 'Expected a JSON object.');
     return data;
