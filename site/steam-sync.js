@@ -38,7 +38,7 @@
     const base = service(); if (!base) throw Error('Steam sign-in needs the site operator to deploy and configure the secure bridge. Imports are available now.');
     const response = await fetch(base + path, { method, mode: 'cors', credentials: 'omit', cache: 'no-store', redirect: 'error', signal: AbortSignal.timeout(timeout),
       headers: { ...(data ? { 'Content-Type': 'application/json' } : {}), ...(bearer ? { Authorization: 'Bearer ' + bearer } : {}) }, ...(data ? { body: JSON.stringify(data) } : {}) });
-    const text = await response.text(); if (text.length > 8000000) throw Error('The Steam response was too large.');
+    const text = await window.SteamResponseReader.readText(response);
     let dataOut; try { dataOut = JSON.parse(text); } catch { throw Error('The Steam service returned an invalid response.'); }
     if (!response.ok) { if (response.status === 401 && bearer && session?.token === bearer) session = null; throw Error(typeof dataOut.message === 'string' ? dataOut.message.slice(0,300) : 'Steam sync failed; the previous snapshot is unchanged.'); }
     return dataOut;

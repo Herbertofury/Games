@@ -19,7 +19,7 @@ try:
  with sync_playwright() as p:
   browser=p.chromium.launch(headless=True,executable_path=os.environ.get('CHROMIUM_PATH') or shutil.which('chromium'),args=['--no-sandbox'])
   context=browser.new_context(viewport={'width':1440,'height':1050},reduced_motion='reduce',accept_downloads=True)
-  sync_requests=[]
+  sync_requests=[];oversized_sync=[False]
   def network(route):
    u=route.request.url
    if u=='http://127.0.0.1:8792/sync' and route.request.method=='POST':sync_requests.append(u)
@@ -27,6 +27,7 @@ try:
     qs=urllib.parse.parse_qs(urllib.parse.urlsplit(u).query);back=qs['openid.return_to'][0];nonce=datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')+urllib.parse.urlsplit(back).query[-10:]
     params={'openid.ns':'http://specs.openid.net/auth/2.0','openid.mode':'id_res','openid.op_endpoint':'https://steamcommunity.com/openid/login','openid.identity':'https://steamcommunity.com/openid/id/76561198000000001','openid.claimed_id':'https://steamcommunity.com/openid/id/76561198000000001','openid.return_to':back,'openid.response_nonce':nonce,'openid.assoc_handle':'test','openid.signed':'op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle','openid.sig':'fixture-signature'}
     route.fulfill(status=302,headers={'Location':back+'&'+urllib.parse.urlencode(params)},body='')
+   elif u=='http://127.0.0.1:8792/sync' and route.request.method=='POST' and oversized_sync[0]:route.fulfill(status=200,body='x'*8000001,headers={'Access-Control-Allow-Origin':'http://127.0.0.1:8791'})
    elif u.startswith('http://127.0.0.1:'):route.continue_()
    else:route.abort()
   context.route('**/*',network)
@@ -84,6 +85,11 @@ try:
   page.locator('[data-steam-action=close]').click();page.locator('#steam-filter').select_option('unplayed');check('Explicit zero minutes matches',page.evaluate('GamesTest.filtered')==['steam:504230'])
   page.locator('#steam-filter').select_option('wishlist');page.locator('#sort').select_option('steam-priority');check('Priority zero sorts first',page.evaluate('GamesTest.filtered')[0]=='steam:2365810')
   page.locator('#steam-filter').select_option('all');page.locator('.heading-actions [data-steam-action=open]').click()
+  saved_before_oversize=page.evaluate("localStorage.getItem('games.steam.v1')")
+  oversized_sync[0]=True;page.locator('[data-steam-action=sync]').click()
+  page.wait_for_function("document.querySelector('#steam-sync-feedback').textContent.includes('too large') && !document.querySelector('[data-steam-action=sync]').disabled")
+  check('Oversized bridge response preserves last-good snapshot',page.evaluate("localStorage.getItem('games.steam.v1')")==saved_before_oversize)
+  oversized_sync[0]=False
   urllib.request.urlopen('http://127.0.0.1:8792/test/privacy').read();page.locator('[data-steam-action=sync]').click();page.wait_for_function("JSON.parse(localStorage.getItem('games.steam.v1')).owned.stale===true")
   check('Failed refresh retains last-known library',page.evaluate("JSON.parse(localStorage.getItem('games.steam.v1')).owned.items.length===3"))
   page.locator('[data-steam-action=close]').click();page.locator('#steam-filter').select_option('all')
