@@ -125,7 +125,7 @@ try:
   page.evaluate("deferredImports.disconnected.resolve(JSON.stringify({rgOwnedApps:[620],bLoggedIn:true}));")
   check('Disconnected import cannot restore preview',page.locator('.steam-import-preview').count()==0)
   # Pause only exchange responses; keep actual local PKCE/callback flow running.
-  page.evaluate("""window.originalExchangeFetch=window.fetch;window.heldExchanges=[];
+  page.evaluate("""window.GAMES_STEAM_CONFIG.serviceUrl='http://127.0.0.1:8792';window.originalExchangeFetch=window.fetch;window.heldExchanges=[];
     window.fetch=(url,options)=>String(url).endsWith('/auth/exchange')?new Promise((resolve,reject)=>heldExchanges.push({reject,complete:()=>originalExchangeFetch(url,options).then(resolve,reject)})):originalExchangeFetch(url,options);""")
   page.locator('[data-steam-action=signin]').click()
   page.wait_for_function('heldExchanges.length===1')
