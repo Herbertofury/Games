@@ -124,6 +124,22 @@ try:
   page.on('dialog',lambda d:d.accept());page.locator('[data-steam-action=disconnect]').click();check('Disconnect clears only Steam data',page.evaluate("!localStorage.getItem('games.steam.v1') && prefs.notes['steam:504230']==='Personal note kept' && prefs.favorites.includes('steam:504230')"))
   page.evaluate("deferredImports.disconnected.resolve(JSON.stringify({rgOwnedApps:[620],bLoggedIn:true}));")
   check('Disconnected import cannot restore preview',page.locator('.steam-import-preview').count()==0)
+  # Pause only exchange responses; keep actual local PKCE/callback flow running.
+  page.evaluate("""window.GAMES_STEAM_CONFIG.serviceUrl='http://127.0.0.1:8792';window.originalExchangeFetch=window.fetch;window.heldExchanges=[];
+    window.fetch=(url,options)=>String(url).endsWith('/auth/exchange')?new Promise((resolve,reject)=>heldExchanges.push({reject,complete:()=>originalExchangeFetch(url,options).then(resolve,reject)})):originalExchangeFetch(url,options);""")
+  page.locator('[data-steam-action=signin]').click()
+  page.wait_for_function('heldExchanges.length===1')
+  page.locator('[data-steam-action=disconnect]').click()
+  page.locator('[data-steam-action=signin]').click()
+  page.wait_for_function('heldExchanges.length===2')
+  page.evaluate("heldExchanges[0].reject(new Error('obsolete exchange failure'))")
+  check('Obsolete exchange failure cannot clear newer sign-in',page.locator('[data-steam-action=signin]').is_disabled())
+  check('Obsolete exchange failure cannot overwrite new feedback','obsolete exchange failure' not in page.locator('#steam-sync-feedback').inner_text())
+  page.evaluate('heldExchanges[1].complete()')
+  page.wait_for_function("document.querySelector('.steam-account-state').textContent.includes('Signed in through Steam')")
+  page.wait_for_function("!document.querySelector('[data-steam-action=sync]').disabled")
+  check('New sign-in completes after obsolete exchange failure',not page.locator('[data-steam-action=signin]').is_disabled())
+  page.evaluate('window.fetch=window.originalExchangeFetch')
   check('No JavaScript runtime errors',not report['errors']);browser.close()
  report['passed']=True
 finally:
