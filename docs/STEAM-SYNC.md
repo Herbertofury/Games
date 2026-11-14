@@ -72,3 +72,7 @@ being applied to the UI. Applying a preview remains a separate explicit action.
 The browser bridge reader stops and cancels a response once decoded transport bytes exceed 8,000,000, instead of buffering the full response before checking string length. The limit is bytes, including UTF-8 multibyte sequences. Streaming UTF-8 decoding preserves split characters and the optional BOM behavior of `Response.text()`. Failed/oversized reads leave the last-good snapshot intact. This bounds accepted bytes, not total browser memory or upstream server work already performed.
 
 An isolated source-consumption experiment at an8KiB test limit read101 pulls without cancellation using the previous pattern, versus3 pulls and cancellation with the reader. Tests cover exact boundary, Unicode/BOM splits, cancellation failure, network failure and lock release. Real browser QA uses an explicitly mocked oversized bridge response and verifies unchanged stored membership; no live Steam authentication is claimed.
+
+### Superseded sign-in exchange failures
+
+Exchange success and failure both check the initiating pending flow and account epoch before changing state. A delayed rejection after disconnect or a replacement sign-in cannot clear the newer flow or overwrite its feedback. Regression coverage executes the actual message listener with deferred transport, plus a real-browser/local-backend scenario that holds two mocked exchange responses, rejects the older one and completes the newer flow. This is mocked Steam acceptance, not a live account login.

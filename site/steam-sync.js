@@ -152,7 +152,7 @@
       session={token:result.token,steamId:verifiedId};epoch++;refreshPolicy.reset();clearPending();
       if(!snapshot||snapshot.source!=='steam'||snapshot.steamId!==session.steamId)save(M.normalize({schemaVersion:1,provider:'steam',steamId:session.steamId},{imported:false}));
       message='Steam account verified. Reading the library and wishlist...';draw();await sync();
-    }catch(error){clearPending();message=error.message;draw();}
+    }catch(error){if(pending!==p||epoch!==version)return;clearPending();message=error.message;draw();}
   });
   async function sync() {
     if(!session||busy)return;const who=session,version=epoch;busy=true;refreshPolicy.started();draw();
