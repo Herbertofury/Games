@@ -22,6 +22,7 @@
     "Steam sync preserves personal notes and favorites",
     "Explicit zero minutes matches",
     "Priority zero sorts first",
+    "Oversized bridge response preserves last-good snapshot",
     "Failed refresh retains last-known library",
     "Wishlist action goes to the exact official Steam app",
     "Wishlist handoff cannot claim a remote write",

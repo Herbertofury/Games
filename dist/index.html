@@ -863,6 +863,31 @@ document.addEventListener('click',e=>{const v=e.target.closest('[data-vimeo]');i
  resize();refresh();
 })();
 
+/* Bounded transport decoding only; no credentials, persistence or provider policy. */
+(function(root,factory){const api=factory();if(typeof module==='object'&&module.exports)module.exports=api;else root.SteamResponseReader=api;})(typeof window==='object'?window:globalThis,function(){
+ 'use strict';
+ const MAX_BYTES=8000000;
+ async function readText(response,limit=MAX_BYTES){
+  if(!Number.isSafeInteger(limit)||limit<0)throw new TypeError('Invalid response byte limit');
+  if(!response.body)return '';
+  const reader=response.body.getReader(),decoder=new TextDecoder();
+  let bytes=0;const parts=[];
+  try{
+   while(true){
+    const {done,value}=await reader.read();if(done)break;
+    bytes+=value.byteLength;
+    if(bytes>limit){
+     try{await reader.cancel('Steam response exceeded byte limit');}catch{}
+     throw new Error('The Steam response was too large.');
+    }
+    parts.push(decoder.decode(value,{stream:true}));
+   }
+   parts.push(decoder.decode());return parts.join('');
+  }finally{reader.releaseLock();}
+ }
+ return Object.freeze({readText,MAX_BYTES});
+});
+
 /* Scheduling only: never stores credentials or changes membership. */
 (function(root,factory){const api=factory();if(typeof module==='object'&&module.exports)module.exports=api;else root.SteamRefreshPolicy=api;})(typeof window==='object'?window:globalThis,function(){
  'use strict';
@@ -923,7 +948,7 @@ document.addEventListener('click',e=>{const v=e.target.closest('[data-vimeo]');i
     const base = service(); if (!base) throw Error('Steam sign-in needs the site operator to deploy and configure the secure bridge. Imports are available now.');
     const response = await fetch(base + path, { method, mode: 'cors', credentials: 'omit', cache: 'no-store', redirect: 'error', signal: AbortSignal.timeout(timeout),
       headers: { ...(data ? { 'Content-Type': 'application/json' } : {}), ...(bearer ? { Authorization: 'Bearer ' + bearer } : {}) }, ...(data ? { body: JSON.stringify(data) } : {}) });
-    const text = await response.text(); if (text.length > 8000000) throw Error('The Steam response was too large.');
+    const text = await window.SteamResponseReader.readText(response);
     let dataOut; try { dataOut = JSON.parse(text); } catch { throw Error('The Steam service returned an invalid response.'); }
     if (!response.ok) { if (response.status === 401 && bearer && session?.token === bearer) session = null; throw Error(typeof dataOut.message === 'string' ? dataOut.message.slice(0,300) : 'Steam sync failed; the previous snapshot is unchanged.'); }
     return dataOut;
