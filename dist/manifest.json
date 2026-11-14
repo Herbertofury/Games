@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "version": "2.0.1",
-  "builtAt": "2026-11-14T09:30:15.492651+00:00",
+  "builtAt": "2026-11-14T10:45:32.111185+00:00",
   "sourceRepository": "https://github.com/Herbertofury/Games",
-  "sourceRevision": "f371ebd0c2954d816e23cad444b9b70e9140362c",
+  "sourceRevision": "c2b1da1d8f6f77f43c8ec88e406b34d9b11bdc35",
   "sourceWiki": "https://github.com/Herbertofury/Games/wiki",
   "datasetHash": "88eec2bff7c178dae87ed890c35b83001f0e9241f9a8d61acfaa192f763ba794",
   "records": 1853,
@@ -161,8 +161,8 @@
     "itch.io"
   ],
   "html": {
-    "bytes": 22540565,
-    "sha256": "fd6770bbf3f0ba6e84433804fc27be1da23cde66bd1aade8a8d59fcb129971b1"
+    "bytes": 22540604,
+    "sha256": "9bae5ba4a7751957ca854d98ea7e7bbc598a54b881d50fcd8d8e16a50e0cac40"
   },
   "sourceFiles": {
     "site/steam-config.json": "3d5a6cd0de24a2e269366bfc2ae553e5a7e963d453afcd5ae1a7af84d6e2716b",
@@ -174,7 +174,7 @@
     "site/app.js": "c05f73ca6cad80a1bdd2373db8beea54efb2956fedd231e46db076e14cc9ec08",
     "site/party.css": "a3958eae13754acae3c3652f17dbdbc18fac8d8be29714d7f922a0fdda74cabd",
     "site/platformers.js": "5ea63ebc7e0f0a35e06081fc4d8cdb6bed9e17822a02b23a3c41560d448a706a",
-    "site/steam-sync.js": "899bf3ce3e6a15da5cdb90b37d5861f5732bb77a49633410831d7bcbe7ae0f4f",
+    "site/steam-sync.js": "1f72d6e99e9a0a0979dbc9a9ac0002b099b5f36d3176939ea535ce40669fa78a",
     "site/survival.js": "7605cfbc56136642f1db47a1fb8c5d42e76e53af654f83c20ef549348d0f778c",
     "site/sw.js": "de682d96bdebe9881f60f18e7ecbc7dbe64946f17701b5b131ca382e0419596a",
     "site/lounge.css": "7a7e05ccf17c69644a68ad310474e9bc6903f45793d4c550444031d29810e336",
@@ -280,7 +280,7 @@
     "tests/test_rts.py": "2d39047b5d41b6eb62349fc6797577d93c26e0d506d74cb765a36d3de449a33a",
     "tests/test_platformers.py": "74cfbdeced7e603527bb0d7419f923829a654e12d7812ae2f48218cd9247d516",
     "tests/test_rts_refresh.py": "d25f6328767561f6e075d1fb40f1d7fa60c73d710c53ed47f190e2a40b9c9cd9",
-    "tests/steam_browser_qa.py": "47f780606af752d06ddd7524f2a4765b720a2298e4d18c6d366504a36dbfe4e4",
+    "tests/steam_browser_qa.py": "5364b2e0b452199cd464739b819973bfe3f7e70bcc48db7ee839f92c48abaed4",
     "tests/test_qbj3_artwork.py": "db48c6f1abc24c3c8d19c57af112788aa74e18ea3eb85ee3fbdfaca306f76c29",
     "tests/test_platformer_completion.py": "8cb0939b67a9c706d7dd05276358533440f7d7770c2422b1f8a2b0b4e2ef5de8",
     "tests/test_arcade_pause.py": "b15cf16e4557505100ec99da8c6a3271bfced3c95f30c5bff35352c94a87726f",
@@ -297,6 +297,7 @@
     "tests/steam-browser-service.mjs": "2a577739e98b7100a2ebeca518d8b816e022516a1feb53778344e6f6acfabd4e",
     "tests/make_fixture.py": "207e115b3447d2632cc2c1b5a8884e122abc784da12fd6107077068d5b66b700",
     "tests/test_survival.py": "8662a9702c2cf3024359c08bdfcf643eafff4684420909cf7b2915af80054ecb",
+    "tests/steam-auth-flow.test.cjs": "3e0c6d1e70c293829b6a5020f040fe968900354177e8693db91b551b979d805a",
     "tests/steam_auth_probe.py": "3896d449e66101fe56dbec9b294195edebfd0a098b21388c1abd06ad974a6a83",
     "tests/test_survival_chronology.py": "758aab27b932e899a6e66e42c02b997e9929096f5055833cbc7af34efa7d6a82",
     "tests/source_completion_inline.py": "d017d31bb9ab367946e5a2f4334d5ee1af5929bf483c9832404e9ce38996ce0a",
@@ -350,8 +351,8 @@
     "data/party-supplemental-evidence.json": "e476fa713755d6bcafa1c387f0cfabad4a0c05d779f55b7cd4463f5ea8d30480",
     "data/metroidvania-enrichment-report.json": "30ef8b366e8151e55f7121be1ac0a4b84498b44491f77e5dce445f9e20915ad6",
     "data/party-storefronts.json": "27a7ca6dfb9cb9afae5e44a6e3556ba656f8e9fade89d42b9573d42e144a9f2b",
-    "data/party-study-report.json": "646daed261739d803dc3b317b54d57833da0f9533e78e79e251d7bfb12f180e2",
-    "data/survival-study-report.json": "ca8dc9395d09d8d7e5ea04a56a28b786d29e71e61846902b00eeb69144adf1d3",
+    "data/party-study-report.json": "ad33b180e22135af7400aea2d85e1a224429a0d1ff16d1ac0ebbe2017e9e7e24",
+    "data/survival-study-report.json": "7921bbb7fca158773a6a66a9c3d419ed69d6f5aa5904ccd7216d368e77611561",
     "data/party-seeds.tsv": "9ae04974bd761fb9245749130095c161af2d5d042df09dbd860c676c095fe197",
     "data/survival-discovery-report.json": "f8fd03fee648bdccf91a59bb2195809e55654bad3b37891b104673c777543a05",
     "data/survival-source-report.json": "6dad6dc45d026e69efc37505999f99e71d9059871ea74838dfc831e8ac30172f",

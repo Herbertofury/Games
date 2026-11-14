@@ -10,6 +10,6 @@ ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
 .............................................................
 ----------------------------------------------------------------------
-Ran 138 tests in 34.989s
+Ran 138 tests in 36.446s
 
 OK

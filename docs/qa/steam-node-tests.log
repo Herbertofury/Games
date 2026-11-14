@@ -2,321 +2,345 @@ TAP version 13
 # Subtest: Configuration rejects insecure nonlocal and credentialed URLs
 ok 1 - Configuration rejects insecure nonlocal and credentialed URLs
   ---
-  duration_ms: 2.068226
+  duration_ms: 1.97719
   type: 'test'
   ...
 # Subtest: Health contains capabilities, no key, and cache is disabled
 ok 2 - Health contains capabilities, no key, and cache is disabled
   ---
-  duration_ms: 6.702904
+  duration_ms: 8.104508
   type: 'test'
   ...
 # Subtest: Valid OpenID -> one-time PKCE grant -> short-lived scoped session -> independent lists
 ok 3 - Valid OpenID -> one-time PKCE grant -> short-lived scoped session -> independent lists
   ---
-  duration_ms: 10.605039
+  duration_ms: 15.639564
   type: 'test'
   ...
 # Subtest: Callback requires same-browser cookie and correct state
 ok 4 - Callback requires same-browser cookie and correct state
   ---
-  duration_ms: 1.581531
+  duration_ms: 2.552472
   type: 'test'
   ...
 # Subtest: Rejects forged op_endpoint
 ok 5 - Rejects forged op_endpoint
   ---
-  duration_ms: 2.903149
+  duration_ms: 2.794487
   type: 'test'
   ...
 # Subtest: Rejects forged identity
 ok 6 - Rejects forged identity
   ---
-  duration_ms: 3.824795
+  duration_ms: 5.488967
   type: 'test'
   ...
 # Subtest: Rejects forged return_to
 ok 7 - Rejects forged return_to
   ---
-  duration_ms: 2.322498
+  duration_ms: 2.021934
   type: 'test'
   ...
 # Subtest: Rejects forged signed
 ok 8 - Rejects forged signed
   ---
-  duration_ms: 1.743232
+  duration_ms: 1.569332
   type: 'test'
   ...
 # Subtest: Rejects forged response_nonce
 ok 9 - Rejects forged response_nonce
   ---
-  duration_ms: 2.203717
+  duration_ms: 3.03503
   type: 'test'
   ...
 # Subtest: Rejects forged ns
 ok 10 - Rejects forged ns
   ---
-  duration_ms: 1.514195
+  duration_ms: 1.904914
   type: 'test'
   ...
 # Subtest: Invalid Steam signature cannot become a session
 ok 11 - Invalid Steam signature cannot become a session
   ---
-  duration_ms: 1.170096
+  duration_ms: 1.783214
   type: 'test'
   ...
 # Subtest: Duplicate parameters and callback replay are rejected
 ok 12 - Duplicate parameters and callback replay are rejected
   ---
-  duration_ms: 1.502855
+  duration_ms: 1.673438
   type: 'test'
   ...
 # Subtest: Wrong verifier and reused authorization codes fail
 ok 13 - Wrong verifier and reused authorization codes fail
   ---
-  duration_ms: 2.340061
+  duration_ms: 3.113157
   type: 'test'
   ...
 # Subtest: Session is required, expires, and is revoked on logout
 ok 14 - Session is required, expires, and is revoked on logout
   ---
-  duration_ms: 4.214496
+  duration_ms: 5.777179
   type: 'test'
   ...
 # Subtest: Cross-origin POST and wildcard CORS are prohibited
 ok 15 - Cross-origin POST and wildcard CORS are prohibited
   ---
-  duration_ms: 1.306018
+  duration_ms: 1.439508
   type: 'test'
   ...
 # Subtest: Private library does not block an available wishlist
 ok 16 - Private library does not block an available wishlist
   ---
-  duration_ms: 3.692486
+  duration_ms: 4.243313
   type: 'test'
   ...
 # Subtest: Missing operator API key is reported, not solicited from a visitor
 ok 17 - Missing operator API key is reported, not solicited from a visitor
   ---
-  duration_ms: 1.885846
+  duration_ms: 2.560167
   type: 'test'
   ...
 # Subtest: Sync cooldown and storage capacity are bounded
 ok 18 - Sync cooldown and storage capacity are bounded
   ---
-  duration_ms: 2.937242
+  duration_ms: 3.437437
   type: 'test'
   ...
 # Subtest: Network errors never leak API keys or upstream URLs
 ok 19 - Network errors never leak API keys or upstream URLs
   ---
-  duration_ms: 3.042687
+  duration_ms: 1.813943
   type: 'test'
   ...
 # Subtest: JSON request boundary cancels oversized streams before draining them
 ok 20 - JSON request boundary cancels oversized streams before draining them
   ---
-  duration_ms: 1.545684
+  duration_ms: 1.29164
   type: 'test'
   ...
 # Subtest: JSON request byte limit allows exact boundary and counts UTF-8 bytes
 ok 21 - JSON request byte limit allows exact boundary and counts UTF-8 bytes
   ---
-  duration_ms: 0.818412
+  duration_ms: 0.869155
   type: 'test'
   ...
 # Subtest: Bounded JSON decoding preserves UTF-8 BOM handling across chunks
 ok 22 - Bounded JSON decoding preserves UTF-8 BOM handling across chunks
   ---
-  duration_ms: 0.838088
+  duration_ms: 0.9302
+  type: 'test'
+  ...
+# Subtest: obsolete exchange failure cannot clear a newer sign-in
+ok 23 - obsolete exchange failure cannot clear a newer sign-in
+  ---
+  duration_ms: 2.232179
+  type: 'test'
+  ...
+# Subtest: failure after disconnect cannot replace cleared feedback
+ok 24 - failure after disconnect cannot replace cleared feedback
+  ---
+  duration_ms: 0.755402
+  type: 'test'
+  ...
+# Subtest: current exchange failure still clears its flow and reports error
+ok 25 - current exchange failure still clears its flow and reports error
+  ---
+  duration_ms: 0.915102
+  type: 'test'
+  ...
+# Subtest: obsolete exchange success remains ignored
+ok 26 - obsolete exchange success remains ignored
+  ---
+  duration_ms: 2.674742
   type: 'test'
   ...
 # Subtest: Signed-out Steam data is rejected even when it has cached IDs
-ok 23 - Signed-out Steam data is rejected even when it has cached IDs
+ok 27 - Signed-out Steam data is rejected even when it has cached IDs
   ---
-  duration_ms: 2.518352
+  duration_ms: 4.097789
   type: 'test'
   ...
 # Subtest: GameSync stable keys and source IDs remain usable without platformId
-ok 24 - GameSync stable keys and source IDs remain usable without platformId
+ok 28 - GameSync stable keys and source IDs remain usable without platformId
   ---
-  duration_ms: 2.672185
+  duration_ms: 0.787752
   type: 'test'
   ...
 # Subtest: Official widget is created only by explicit trusted click and never pretends to sync
-ok 25 - Official widget is created only by explicit trusted click and never pretends to sync
+ok 29 - Official widget is created only by explicit trusted click and never pretends to sync
   ---
-  duration_ms: 0.610115
+  duration_ms: 0.623553
   type: 'test'
   ...
 # Subtest: AppIDs are exact unsigned integers; SteamIDs are not rounded numbers
-ok 26 - AppIDs are exact unsigned integers; SteamIDs are not rounded numbers
+ok 30 - AppIDs are exact unsigned integers; SteamIDs are not rounded numbers
   ---
-  duration_ms: 1.918357
+  duration_ms: 2.077549
   type: 'test'
   ...
 # Subtest: Missing/private owned data is not an empty library
-ok 27 - Missing/private owned data is not an empty library
+ok 31 - Missing/private owned data is not an empty library
   ---
-  duration_ms: 0.884715
+  duration_ms: 0.952443
   type: 'test'
   ...
 # Subtest: Wishlist must be explicit, including a confirmed empty array
-ok 28 - Wishlist must be explicit, including a confirmed empty array
+ok 32 - Wishlist must be explicit, including a confirmed empty array
   ---
-  duration_ms: 1.08642
+  duration_ms: 1.201851
   type: 'test'
   ...
 # Subtest: Privacy failure preserves same-account last good data and dates
-ok 29 - Privacy failure preserves same-account last good data and dates
+ok 33 - Privacy failure preserves same-account last good data and dates
   ---
-  duration_ms: 3.499928
+  duration_ms: 2.09414
   type: 'test'
   ...
 # Subtest: Account switch never mixes another account library
-ok 30 - Account switch never mixes another account library
+ok 34 - Account switch never mixes another account library
   ---
-  duration_ms: 0.342076
+  duration_ms: 0.32408
   type: 'test'
   ...
 # Subtest: Local import cannot authenticate, persist credentials or overwrite private notes
-ok 31 - Local import cannot authenticate, persist credentials or overwrite private notes
+ok 35 - Local import cannot authenticate, persist credentials or overwrite private notes
   ---
-  duration_ms: 0.659636
+  duration_ms: 0.637118
   type: 'test'
   ...
 # Subtest: Steam browser export handles owned and wishlist separately, without inventing playtime
-ok 32 - Steam browser export handles owned and wishlist separately, without inventing playtime
+ok 36 - Steam browser export handles owned and wishlist separately, without inventing playtime
   ---
-  duration_ms: 0.397008
+  duration_ms: 0.412356
   type: 'test'
   ...
 # Subtest: GameSync records are tracked, not licenses, unless explicitly marked
-ok 33 - GameSync records are tracked, not licenses, unless explicitly marked
+ok 37 - GameSync records are tracked, not licenses, unless explicitly marked
   ---
-  duration_ms: 0.585669
+  duration_ms: 0.546769
   type: 'test'
   ...
 # Subtest: Unknown playtime is not zero and non-Steam titles are not guessed
-ok 34 - Unknown playtime is not zero and non-Steam titles are not guessed
+ok 38 - Unknown playtime is not zero and non-Steam titles are not guessed
   ---
-  duration_ms: 0.847556
+  duration_ms: 0.81859
   type: 'test'
   ...
 # Subtest: Partial import merges membership without claiming completeness
-ok 35 - Partial import merges membership without claiming completeness
+ok 39 - Partial import merges membership without claiming completeness
   ---
-  duration_ms: 0.936571
+  duration_ms: 0.767303
   type: 'test'
   ...
 # Subtest: Malformed imports fail atomically; bad JSON fields are bounded
-ok 36 - Malformed imports fail atomically; bad JSON fields are bounded
+ok 40 - Malformed imports fail atomically; bad JSON fields are bounded
   ---
-  duration_ms: 1.013073
+  duration_ms: 0.954716
   type: 'test'
   ...
 # Subtest: Unbound imports are replacements, not guessed same-account merges
-ok 37 - Unbound imports are replacements, not guessed same-account merges
+ok 41 - Unbound imports are replacements, not guessed same-account merges
   ---
-  duration_ms: 0.505941
+  duration_ms: 0.444786
   type: 'test'
   ...
 # Subtest: Automatic refresh requires active visible online consented session
-ok 38 - Automatic refresh requires active visible online consented session
+ok 42 - Automatic refresh requires active visible online consented session
   ---
-  duration_ms: 1.700612
+  duration_ms: 1.432475
   type: 'test'
   ...
 # Subtest: Return refresh waits beyond backend cooldown and periodic refresh is bounded
-ok 39 - Return refresh waits beyond backend cooldown and periodic refresh is bounded
+ok 43 - Return refresh waits beyond backend cooldown and periodic refresh is bounded
   ---
-  duration_ms: 0.379857
+  duration_ms: 0.551467
   type: 'test'
   ...
 # Subtest: Repeated focus and timer events cannot dispatch while busy
-ok 40 - Repeated focus and timer events cannot dispatch while busy
+ok 44 - Repeated focus and timer events cannot dispatch while busy
   ---
-  duration_ms: 0.26872
+  duration_ms: 0.343246
   type: 'test'
   ...
 # Subtest: Failure backoff grows and remains capped; success resets it
-ok 41 - Failure backoff grows and remains capped; success resets it
+ok 45 - Failure backoff grows and remains capped; success resets it
   ---
-  duration_ms: 0.352376
+  duration_ms: 0.3723
   type: 'test'
   ...
 # Subtest: New account resets old scheduling; offline and hidden time make no requests
-ok 42 - New account resets old scheduling; offline and hidden time make no requests
+ok 46 - New account resets old scheduling; offline and hidden time make no requests
   ---
-  duration_ms: 0.241228
+  duration_ms: 0.282311
   type: 'test'
   ...
 # Subtest: Over-limit response cancels before consuming the whole source and releases lock
-ok 43 - Over-limit response cancels before consuming the whole source and releases lock
+ok 47 - Over-limit response cancels before consuming the whole source and releases lock
   ---
-  duration_ms: 9.307046
+  duration_ms: 10.347999
   type: 'test'
   ...
 # Subtest: Exact limit accepted; UTF-8 characters and BOM survive arbitrary chunks like Response.text
-ok 44 - Exact limit accepted; UTF-8 characters and BOM survive arbitrary chunks like Response.text
+ok 48 - Exact limit accepted; UTF-8 characters and BOM survive arbitrary chunks like Response.text
   ---
-  duration_ms: 31.428187
+  duration_ms: 39.919503
   type: 'test'
   ...
 # Subtest: Limit counts bytes, not UTF-16 string length
-ok 45 - Limit counts bytes, not UTF-16 string length
+ok 49 - Limit counts bytes, not UTF-16 string length
   ---
-  duration_ms: 1.241689
+  duration_ms: 0.882299
   type: 'test'
   ...
 # Subtest: Cancellation error cannot mask oversized-response diagnosis
-ok 46 - Cancellation error cannot mask oversized-response diagnosis
+ok 50 - Cancellation error cannot mask oversized-response diagnosis
   ---
-  duration_ms: 0.581612
+  duration_ms: 0.36149
   type: 'test'
   ...
 # Subtest: Network failure releases lock and is not converted to success
-ok 47 - Network failure releases lock and is not converted to success
+ok 51 - Network failure releases lock and is not converted to success
   ---
-  duration_ms: 0.609834
+  duration_ms: 0.450257
   type: 'test'
   ...
 # Subtest: Empty body, zero limit and invalid limits handled explicitly
-ok 48 - Empty body, zero limit and invalid limits handled explicitly
+ok 52 - Empty body, zero limit and invalid limits handled explicitly
   ---
-  duration_ms: 1.922174
+  duration_ms: 1.28671
   type: 'test'
   ...
 # Subtest: Wishlist module is an official-page handoff, not an undocumented write client
-ok 49 - Wishlist module is an official-page handoff, not an undocumented write client
+ok 53 - Wishlist module is an official-page handoff, not an undocumented write client
   ---
-  duration_ms: 1.543751
+  duration_ms: 1.530851
   type: 'test'
   ...
 # Subtest: Actions require an exact Steam AppID and avoid opener access
-ok 50 - Actions require an exact Steam AppID and avoid opener access
+ok 54 - Actions require an exact Steam AppID and avoid opener access
   ---
-  duration_ms: 0.228655
+  duration_ms: 0.193634
   type: 'test'
   ...
 # Subtest: Wishlist handoff never pretends a remote write succeeded
-ok 51 - Wishlist handoff never pretends a remote write succeeded
+ok 55 - Wishlist handoff never pretends a remote write succeeded
   ---
-  duration_ms: 0.224938
+  duration_ms: 0.202942
   type: 'test'
   ...
 # Subtest: Unreviewed cookie-based extension is excluded from this revision
-ok 52 - Unreviewed cookie-based extension is excluded from this revision
+ok 56 - Unreviewed cookie-based extension is excluded from this revision
   ---
-  duration_ms: 0.329282
+  duration_ms: 0.253046
   type: 'test'
   ...
-1..52
-# tests 52
+1..56
+# tests 56
 # suites 0
-# pass 52
+# pass 56
 # fail 0
 # cancelled 0
 # skipped 0
 # todo 0
-# duration_ms 241.989543
+# duration_ms 285.333457
