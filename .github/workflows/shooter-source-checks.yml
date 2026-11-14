@@ -1,0 +1,42 @@
+name: Shooter source completeness
+on:
+  pull_request:
+    paths:
+      - 'data/shooters-external.json'
+      - 'tests/test_qbj3_artwork.py'
+      - 'tests/source_completion_qa.py'
+      - '.github/workflows/shooter-source-checks.yml'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build canonical catalog and test source contracts
+        run: |
+          python -m pip install -r requirements-dev.txt
+          python scripts/build.py
+          python -m unittest discover -s tests -p 'test_*.py'
+      - name: Install real browser
+        run: |
+          if command -v google-chrome >/dev/null; then
+            echo "CHROMIUM_PATH=$(command -v google-chrome)" >> "$GITHUB_ENV"
+          else
+            python -m playwright install --with-deps chromium
+          fi
+      - name: Verify all shooter artwork and source completeness
+        run: python tests/source_completion_qa.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: shooter-source-evidence
+          path: qa/
+          retention-days: 14
