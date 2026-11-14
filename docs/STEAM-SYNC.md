@@ -66,3 +66,9 @@ Disconnect, or an account/session change also prevents an older read from
 restoring an import preview or overwriting newer feedback. This does not cancel
 filesystem I/O already started by the browser; it prevents stale results from
 being applied to the UI. Applying a preview remains a separate explicit action.
+
+### Bounded browser response reads
+
+The browser bridge reader stops and cancels a response once decoded transport bytes exceed 8,000,000, instead of buffering the full response before checking string length. The limit is bytes, including UTF-8 multibyte sequences. Streaming UTF-8 decoding preserves split characters and the optional BOM behavior of `Response.text()`. Failed/oversized reads leave the last-good snapshot intact. This bounds accepted bytes, not total browser memory or upstream server work already performed.
+
+An isolated source-consumption experiment at an8KiB test limit read101 pulls without cancellation using the previous pattern, versus3 pulls and cancellation with the reader. Tests cover exact boundary, Unicode/BOM splits, cancellation failure, network failure and lock release. Real browser QA uses an explicitly mocked oversized bridge response and verifies unchanged stored membership; no live Steam authentication is claimed.
