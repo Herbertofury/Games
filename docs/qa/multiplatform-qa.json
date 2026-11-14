@@ -30,6 +30,6 @@
   "errors": [],
   "shooterCount": 150,
   "datasetHash": "88eec2bff7c178dae87ed890c35b83001f0e9241f9a8d61acfaa192f763ba794",
-  "fullShooterRenderMs": 60.2,
+  "fullShooterRenderMs": 100.4,
   "passed": true
 }

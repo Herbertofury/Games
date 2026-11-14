@@ -15,6 +15,7 @@
     "Popup, verified callback and PKCE exchange work with mocked Steam",
     "Automatic sync has a visible opt-out",
     "Disabled automatic sync makes no requests",
+    "Return refresh receives a successful backend response",
     "Returning to Games refreshes an enabled session (2 requests; expected 2)",
     "Repeated focus events respect cooldown",
     "Tokens are not persisted",
@@ -37,5 +38,11 @@
     "No JavaScript runtime errors"
   ],
   "errors": [],
+  "refreshPrerequisites": {
+    "visible": "visible",
+    "online": true,
+    "enabled": true,
+    "idle": true
+  },
   "passed": true
 }

@@ -2,277 +2,277 @@ TAP version 13
 # Subtest: Configuration rejects insecure nonlocal and credentialed URLs
 ok 1 - Configuration rejects insecure nonlocal and credentialed URLs
   ---
-  duration_ms: 1.268873
+  duration_ms: 2.127552
   type: 'test'
   ...
 # Subtest: Health contains capabilities, no key, and cache is disabled
 ok 2 - Health contains capabilities, no key, and cache is disabled
   ---
-  duration_ms: 4.872304
+  duration_ms: 7.518618
   type: 'test'
   ...
 # Subtest: Valid OpenID -> one-time PKCE grant -> short-lived scoped session -> independent lists
 ok 3 - Valid OpenID -> one-time PKCE grant -> short-lived scoped session -> independent lists
   ---
-  duration_ms: 7.83087
+  duration_ms: 14.732625
   type: 'test'
   ...
 # Subtest: Callback requires same-browser cookie and correct state
 ok 4 - Callback requires same-browser cookie and correct state
   ---
-  duration_ms: 1.041133
+  duration_ms: 2.221419
   type: 'test'
   ...
 # Subtest: Rejects forged op_endpoint
 ok 5 - Rejects forged op_endpoint
   ---
-  duration_ms: 1.456938
+  duration_ms: 2.404201
   type: 'test'
   ...
 # Subtest: Rejects forged identity
 ok 6 - Rejects forged identity
   ---
-  duration_ms: 1.102046
+  duration_ms: 4.731959
   type: 'test'
   ...
 # Subtest: Rejects forged return_to
 ok 7 - Rejects forged return_to
   ---
-  duration_ms: 3.269649
+  duration_ms: 2.275389
   type: 'test'
   ...
 # Subtest: Rejects forged signed
 ok 8 - Rejects forged signed
   ---
-  duration_ms: 0.638814
+  duration_ms: 1.708285
   type: 'test'
   ...
 # Subtest: Rejects forged response_nonce
 ok 9 - Rejects forged response_nonce
   ---
-  duration_ms: 1.589836
+  duration_ms: 2.985131
   type: 'test'
   ...
 # Subtest: Rejects forged ns
 ok 10 - Rejects forged ns
   ---
-  duration_ms: 1.018182
+  duration_ms: 2.516192
   type: 'test'
   ...
 # Subtest: Invalid Steam signature cannot become a session
 ok 11 - Invalid Steam signature cannot become a session
   ---
-  duration_ms: 0.787197
+  duration_ms: 1.632584
   type: 'test'
   ...
 # Subtest: Duplicate parameters and callback replay are rejected
 ok 12 - Duplicate parameters and callback replay are rejected
   ---
-  duration_ms: 0.923893
+  duration_ms: 1.643625
   type: 'test'
   ...
 # Subtest: Wrong verifier and reused authorization codes fail
 ok 13 - Wrong verifier and reused authorization codes fail
   ---
-  duration_ms: 1.980723
+  duration_ms: 3.295985
   type: 'test'
   ...
 # Subtest: Session is required, expires, and is revoked on logout
 ok 14 - Session is required, expires, and is revoked on logout
   ---
-  duration_ms: 2.471181
+  duration_ms: 6.35258
   type: 'test'
   ...
 # Subtest: Cross-origin POST and wildcard CORS are prohibited
 ok 15 - Cross-origin POST and wildcard CORS are prohibited
   ---
-  duration_ms: 0.516349
+  duration_ms: 1.399897
   type: 'test'
   ...
 # Subtest: Private library does not block an available wishlist
 ok 16 - Private library does not block an available wishlist
   ---
-  duration_ms: 2.127107
+  duration_ms: 4.718835
   type: 'test'
   ...
 # Subtest: Missing operator API key is reported, not solicited from a visitor
 ok 17 - Missing operator API key is reported, not solicited from a visitor
   ---
-  duration_ms: 1.211635
+  duration_ms: 2.792891
   type: 'test'
   ...
 # Subtest: Sync cooldown and storage capacity are bounded
 ok 18 - Sync cooldown and storage capacity are bounded
   ---
-  duration_ms: 1.558992
+  duration_ms: 4.146821
   type: 'test'
   ...
 # Subtest: Network errors never leak API keys or upstream URLs
 ok 19 - Network errors never leak API keys or upstream URLs
   ---
-  duration_ms: 1.28171
+  duration_ms: 2.826174
   type: 'test'
   ...
 # Subtest: JSON request boundary cancels oversized streams before draining them
 ok 20 - JSON request boundary cancels oversized streams before draining them
   ---
-  duration_ms: 1.099541
+  duration_ms: 1.653403
   type: 'test'
   ...
 # Subtest: JSON request byte limit allows exact boundary and counts UTF-8 bytes
 ok 21 - JSON request byte limit allows exact boundary and counts UTF-8 bytes
   ---
-  duration_ms: 0.664106
+  duration_ms: 1.060921
   type: 'test'
   ...
 # Subtest: Bounded JSON decoding preserves UTF-8 BOM handling across chunks
 ok 22 - Bounded JSON decoding preserves UTF-8 BOM handling across chunks
   ---
-  duration_ms: 0.571765
+  duration_ms: 0.986201
   type: 'test'
   ...
 # Subtest: Signed-out Steam data is rejected even when it has cached IDs
 ok 23 - Signed-out Steam data is rejected even when it has cached IDs
   ---
-  duration_ms: 2.435261
+  duration_ms: 2.982147
   type: 'test'
   ...
 # Subtest: GameSync stable keys and source IDs remain usable without platformId
 ok 24 - GameSync stable keys and source IDs remain usable without platformId
   ---
-  duration_ms: 0.495081
+  duration_ms: 0.733206
   type: 'test'
   ...
 # Subtest: Official widget is created only by explicit trusted click and never pretends to sync
 ok 25 - Official widget is created only by explicit trusted click and never pretends to sync
   ---
-  duration_ms: 0.399121
+  duration_ms: 0.569679
   type: 'test'
   ...
 # Subtest: AppIDs are exact unsigned integers; SteamIDs are not rounded numbers
 ok 26 - AppIDs are exact unsigned integers; SteamIDs are not rounded numbers
   ---
-  duration_ms: 0.971376
+  duration_ms: 1.996457
   type: 'test'
   ...
 # Subtest: Missing/private owned data is not an empty library
 ok 27 - Missing/private owned data is not an empty library
   ---
-  duration_ms: 0.659886
+  duration_ms: 0.918974
   type: 'test'
   ...
 # Subtest: Wishlist must be explicit, including a confirmed empty array
 ok 28 - Wishlist must be explicit, including a confirmed empty array
   ---
-  duration_ms: 0.583709
+  duration_ms: 1.024052
   type: 'test'
   ...
 # Subtest: Privacy failure preserves same-account last good data and dates
 ok 29 - Privacy failure preserves same-account last good data and dates
   ---
-  duration_ms: 1.829028
+  duration_ms: 1.994853
   type: 'test'
   ...
 # Subtest: Account switch never mixes another account library
 ok 30 - Account switch never mixes another account library
   ---
-  duration_ms: 0.233578
+  duration_ms: 0.350367
   type: 'test'
   ...
 # Subtest: Local import cannot authenticate, persist credentials or overwrite private notes
 ok 31 - Local import cannot authenticate, persist credentials or overwrite private notes
   ---
-  duration_ms: 0.424977
+  duration_ms: 0.574909
   type: 'test'
   ...
 # Subtest: Steam browser export handles owned and wishlist separately, without inventing playtime
 ok 32 - Steam browser export handles owned and wishlist separately, without inventing playtime
   ---
-  duration_ms: 0.259103
+  duration_ms: 0.445586
   type: 'test'
   ...
 # Subtest: GameSync records are tracked, not licenses, unless explicitly marked
 ok 33 - GameSync records are tracked, not licenses, unless explicitly marked
   ---
-  duration_ms: 0.414035
+  duration_ms: 0.572063
   type: 'test'
   ...
 # Subtest: Unknown playtime is not zero and non-Steam titles are not guessed
 ok 34 - Unknown playtime is not zero and non-Steam titles are not guessed
   ---
-  duration_ms: 0.449837
+  duration_ms: 0.699172
   type: 'test'
   ...
 # Subtest: Partial import merges membership without claiming completeness
 ok 35 - Partial import merges membership without claiming completeness
   ---
-  duration_ms: 0.559856
+  duration_ms: 0.726273
   type: 'test'
   ...
 # Subtest: Malformed imports fail atomically; bad JSON fields are bounded
 ok 36 - Malformed imports fail atomically; bad JSON fields are bounded
   ---
-  duration_ms: 0.455975
+  duration_ms: 0.865123
   type: 'test'
   ...
 # Subtest: Unbound imports are replacements, not guessed same-account merges
 ok 37 - Unbound imports are replacements, not guessed same-account merges
   ---
-  duration_ms: 0.315662
+  duration_ms: 0.433974
   type: 'test'
   ...
 # Subtest: Automatic refresh requires active visible online consented session
 ok 38 - Automatic refresh requires active visible online consented session
   ---
-  duration_ms: 1.087402
+  duration_ms: 2.000614
   type: 'test'
   ...
 # Subtest: Return refresh waits beyond backend cooldown and periodic refresh is bounded
 ok 39 - Return refresh waits beyond backend cooldown and periodic refresh is bounded
   ---
-  duration_ms: 0.273081
+  duration_ms: 0.413025
   type: 'test'
   ...
 # Subtest: Repeated focus and timer events cannot dispatch while busy
 ok 40 - Repeated focus and timer events cannot dispatch while busy
   ---
-  duration_ms: 0.167575
+  duration_ms: 0.310112
   type: 'test'
   ...
 # Subtest: Failure backoff grows and remains capped; success resets it
 ok 41 - Failure backoff grows and remains capped; success resets it
   ---
-  duration_ms: 0.22612
+  duration_ms: 0.370926
   type: 'test'
   ...
 # Subtest: New account resets old scheduling; offline and hidden time make no requests
 ok 42 - New account resets old scheduling; offline and hidden time make no requests
   ---
-  duration_ms: 0.168167
+  duration_ms: 0.297087
   type: 'test'
   ...
 # Subtest: Wishlist module is an official-page handoff, not an undocumented write client
 ok 43 - Wishlist module is an official-page handoff, not an undocumented write client
   ---
-  duration_ms: 0.871006
+  duration_ms: 0.986391
   type: 'test'
   ...
 # Subtest: Actions require an exact Steam AppID and avoid opener access
 ok 44 - Actions require an exact Steam AppID and avoid opener access
   ---
-  duration_ms: 0.161681
+  duration_ms: 0.145684
   type: 'test'
   ...
 # Subtest: Wishlist handoff never pretends a remote write succeeded
 ok 45 - Wishlist handoff never pretends a remote write succeeded
   ---
-  duration_ms: 0.131715
+  duration_ms: 0.158588
   type: 'test'
   ...
 # Subtest: Unreviewed cookie-based extension is excluded from this revision
 ok 46 - Unreviewed cookie-based extension is excluded from this revision
   ---
-  duration_ms: 0.158491
+  duration_ms: 0.182272
   type: 'test'
   ...
 1..46
@@ -283,4 +283,4 @@ ok 46 - Unreviewed cookie-based extension is excluded from this revision
 # cancelled 0
 # skipped 0
 # todo 0
-# duration_ms 205.316857
+# duration_ms 206.906768
