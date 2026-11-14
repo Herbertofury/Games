@@ -84,3 +84,20 @@ test('Sync cooldown and storage capacity are bounded',async()=>{
 test('Network errors never leak API keys or upstream URLs',async()=>{
  const f=fixture({fetch:async url=>{if(url.includes('openid'))return new Response('is_valid:true\n');throw Error(url);}}),a=await authenticate(f);const text=await(await f.handle(request('/sync',{method:'POST',body:{},headers:{Authorization:'Bearer '+a.token}}))).text();assert.equal(text.includes(SECRET),false);assert.equal(text.includes('api.steampowered.com'),false);
 });
+
+test('JSON request boundary cancels oversized streams before draining them',async()=>{
+ const f=fixture();let pulls=0,cancelled=false;
+ const stream=new ReadableStream({pull(controller){pulls++;controller.enqueue(new Uint8Array(8192));if(pulls===100)controller.close();},cancel(){cancelled=true;}},{highWaterMark:0});
+ const req=new Request(BASE+'/auth/exchange',{method:'POST',headers:{Origin:ORIGIN,'Content-Type':'application/json'},body:stream,duplex:'half'});
+ const result=await f.handle(req);
+ assert.equal(result.status,413);assert.equal((await result.json()).error,'request_too_large');
+ assert.equal(cancelled,true);assert.ok(pulls<=4,`unexpected drained chunks: ${pulls}`);assert.equal(f.calls.length,0);
+});
+
+test('JSON request byte limit allows exact boundary and counts UTF-8 bytes',async()=>{
+ const f=fixture();
+ for(const [text,status] of [['{"padding":"'+'x'.repeat(16370)+'"}',400],['{"padding":"'+'é'.repeat(8192)+'"}',413]]){
+  const r=await f.handle(new Request(BASE+'/auth/exchange',{method:'POST',headers:{Origin:ORIGIN,'Content-Type':'application/json'},body:text}));
+  assert.equal(r.status,status);
+ }
+});

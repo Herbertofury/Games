@@ -72,8 +72,23 @@ export function createApp({ config, fetchImpl = fetch, now = Date.now } = {}) {
   }
   async function body(request) {
     if (!request.headers.get('content-type')?.toLowerCase().startsWith('application/json')) reject(415, 'json_required', 'Use application/json.');
-    const text = await request.text();
-    if (Buffer.byteLength(text) > 16384) reject(413, 'request_too_large', 'Request too large.');
+    const chunks = []; let size = 0;
+    const reader = request.body?.getReader();
+    if (reader) {
+      try {
+        for (;;) {
+          const { value, done } = await reader.read();
+          if (done) break;
+          size += value.byteLength;
+          if (size > 16384) {
+            try { await reader.cancel(); } catch { /* Still reject the oversized body. */ }
+            reject(413, 'request_too_large', 'Request too large.');
+          }
+          chunks.push(value);
+        }
+      } finally { reader.releaseLock(); }
+    }
+    const text = Buffer.concat(chunks, size).toString('utf8');
     let data; try { data = JSON.parse(text); } catch { reject(400, 'invalid_json', 'Invalid JSON.'); }
     if (!data || typeof data !== 'object' || Array.isArray(data)) reject(400, 'invalid_json', 'Expected a JSON object.');
     return data;
