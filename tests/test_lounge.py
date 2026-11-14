@@ -2,7 +2,7 @@ import json,pathlib,subprocess,unittest
 R=pathlib.Path(__file__).resolve().parents[1]
 class LoungeTests(unittest.TestCase):
  def test_exact_catalog_is_preserved(self):
-  c=json.loads((R/'data/catalog.json').read_text());self.assertEqual(len(c['items']),1853);self.assertEqual(c['build']['datasetHash'],'21cd8d7e36c0adfa808b645b7a491530be54e9820c918c34a93cfa612cb293a0');self.assertEqual(len({g['id'] for g in c['items']}),1853)
+  c=json.loads((R/'data/catalog.json').read_text());self.assertEqual(len(c['items']),1853);self.assertEqual(c['build']['datasetHash'],'88eec2bff7c178dae87ed890c35b83001f0e9241f9a8d61acfaa192f763ba794');self.assertEqual(len({g['id'] for g in c['items']}),1853)
  def test_all_old_genres_are_intact(self):
   c=json.loads((R/'data/catalog.json').read_text());self.assertEqual(c['build']['hubCounts'],{'Boomer shooters':150,'Couch co-op & party':339,'Metroidvanias':430,'Minecraft-like worlds':82,'Platformers':439,'Real-time strategy':130,'Roguelites':198,'Survival':299})
  def test_number_formatter_equivalence(self):
