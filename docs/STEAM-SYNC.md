@@ -58,3 +58,11 @@ An authenticated visible tab refreshes every five minutes and when returning to 
 Render's free instances sleep after inactivity and can need 50 seconds or more to wake. Sign-in now checks the bridge before navigating to Valve, allowing up to 90 seconds for the wake-up. A closed or replaced sign-in attempt cannot navigate a later popup. Hosting is a single instance with manual deployments; this avoids an unreviewed GitHub account grant but does not automatically redeploy backend changes. Review and deploy backend changes separately after tests pass.
 
 Before inviting the first real login, verify HTTPS health, exact Steam redirect/realm, secure flow-cookie flags, callback rejection without a bound flow, unauthorized sync rejection and exact-origin CORS. These checks and simulated-provider tests do not certify a real login, private-list access, universal wishlist editing or an absence of all vulnerabilities. Never request Steam passwords, session cookies, or Guard codes outside Valve's official sign-in page.
+
+### Interrupted local file imports
+
+Selecting another file invalidates the previous pending read and preview. Close,
+Disconnect, or an account/session change also prevents an older read from
+restoring an import preview or overwriting newer feedback. This does not cancel
+filesystem I/O already started by the browser; it prevents stale results from
+being applied to the UI. Applying a preview remains a separate explicit action.

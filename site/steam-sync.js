@@ -7,6 +7,7 @@
   let snapshot = null, ix = M.index(null), session = null, pending = null, candidate = null;
   const refreshPolicy = window.SteamRefreshPolicy.create();
   let autoRefresh = true;
+  let importVersion = 0;
   let busy = false, epoch = 0, lastFocus = null, storageFailure = false, message = '', health = null;
   try {
     const stored = JSON.parse(localStorage.getItem(STORE) || 'null');
@@ -109,10 +110,11 @@
       <details><summary>Where do I get the file?</summary><p>First <a href="https://store.steampowered.com/login/" target="_blank" rel="noopener noreferrer">sign in on Steam</a> in this browser. Then open <a href="https://store.steampowered.com/dynamicstore/userdata/" target="_blank" rel="noopener noreferrer">their Steam store data</a> while signed in on Steam, save the JSON response, then choose it here. Steam may change this undocumented export. An empty or unavailable response is rejected.</p><p>Also accepts GetOwnedGames JSON, GetWishlist JSON, Games Steam snapshots, and GameSync exports containing <code>games</code> or <code>db.games</code>. GameSync records alone do not prove a license; unconfirmed records are labelled tracked unless you explicitly opt in above.</p><p>Never upload passwords, cookies or Steam Guard codes. A full GameSync backup can include settings; only the whitelisted game fields are retained.</p></details></section>
       <details class="steam-privacy"><summary>Privacy, coverage and site setup</summary><p>OpenID verifies your SteamID, not permission to read private lists. Set the relevant Steam game details/wishlist visibility to Public for server sync, or use a local export. Hidden, private, missing and failed lists are never silently treated as empty. Cached data is dated and can be out of date.</p><p>Matching uses exact AppIDs. Bundles, demos, DLC, family sharing, deleted licenses and other-store purchases are not inferred. Zero reported minutes is not proof a game was never played.</p><p>Your snapshot stays in this browser. The bridge holds short-lived sign-in state in memory and reads Steam on sign-in, manual refresh, and automatic refresh while this tab is visible if enabled. Automatic refresh pauses offline, backs off after failures and ends when the session expires. It is not instant push sync. Signing into Steam does not cloud-sync this site's notes. Switching accounts replaces only the Steam snapshot.</p><p>${configured?`Configured service: <code>${esc(service())}</code>. `:''}<a href="https://github.com/Herbertofury/Games/blob/main/docs/STEAM-SYNC.md" target="_blank" rel="noopener">Setup and technical details</a></p></details>`;
   }
-  function open() { lastFocus=document.activeElement; candidate=null; if(!dialog.open)dialog.showModal();draw();window.dispatchEvent(new Event('lounge-overlay-change')); if(service())api('/health',{timeout:90000}).then(h=>{if(h.service!=='games-steam-sync'||h.version!==1||h.appOrigin!==location.origin)throw Error('Steam bridge configuration does not match this website.');health=h;draw();}).catch(()=>{message='The Steam bridge is not reachable or does not match this site. Your local snapshot is unchanged.';draw();}); }
-  function close() { dialog.close();candidate=null;lastFocus?.focus();window.dispatchEvent(new Event('lounge-overlay-change')); }
+  function open() { lastFocus=document.activeElement; invalidateImport(); if(!dialog.open)dialog.showModal();draw();window.dispatchEvent(new Event('lounge-overlay-change')); if(service())api('/health',{timeout:90000}).then(h=>{if(h.service!=='games-steam-sync'||h.version!==1||h.appOrigin!==location.origin)throw Error('Steam bridge configuration does not match this website.');health=h;draw();}).catch(()=>{message='The Steam bridge is not reachable or does not match this site. Your local snapshot is unchanged.';draw();}); }
+  function close() { dialog.close();invalidateImport();lastFocus?.focus();window.dispatchEvent(new Event('lounge-overlay-change')); }
   function random() { return btoa(String.fromCharCode(...crypto.getRandomValues(new Uint8Array(32)))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''); }
   async function challenge(verifier) { return btoa(String.fromCharCode(...new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(verifier))))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''); }
+  function invalidateImport() { candidate=null; importVersion++; }
   function clearPending() { if(pending?.timer)clearInterval(pending.timer);pending=null; }
   async function signIn() {
     if (!service() || pending || busy) return;
@@ -166,7 +168,7 @@
   }
   async function disconnect() {
     if(!confirm('Clear only the Steam snapshot and sign-in session? Your game notes, favorites, ratings and lounge settings will remain.'))return;
-    const previous=session;session=null;epoch++;refreshPolicy.reset();pending?.popup.close();clearPending();snapshot=null;ix=M.index(null);state.steam='all';candidate=null;
+    const previous=session;session=null;epoch++;refreshPolicy.reset();pending?.popup.close();clearPending();snapshot=null;ix=M.index(null);state.steam='all';invalidateImport();
     try{localStorage.removeItem(STORE);}catch{storageFailure=true;}
     message='Steam data cleared. Your ordinary library and lounge settings are unchanged.';render();draw();
     if(previous)api('/logout',{method:'POST',data:{},bearer:previous.token}).catch(()=>{});
@@ -177,15 +179,18 @@
     const action=button.dataset.steamAction;
     if(action==='open')open();if(action==='close')close();if(action==='signin')signIn();if(action==='sync')sync();if(action==='disconnect')disconnect();
     if(action==='export'&&snapshot)download('Games - Steam Snapshot.json',JSON.stringify(snapshot,null,2));
-    if(action==='import'&&candidate){const previous=session;session=null;epoch++;refreshPolicy.reset();pending?.popup.close();clearPending();save(M.merge(snapshot,candidate));candidate=null;message='Imported locally. No account was authenticated, and your ordinary notes were not changed.';draw();if(previous)api('/logout',{method:'POST',data:{},bearer:previous.token}).catch(()=>{});}
+    if(action==='import'&&candidate){const previous=session;session=null;epoch++;refreshPolicy.reset();pending?.popup.close();clearPending();save(M.merge(snapshot,candidate));invalidateImport();message='Imported locally. No account was authenticated, and your ordinary notes were not changed.';draw();if(previous)api('/logout',{method:'POST',data:{},bearer:previous.token}).catch(()=>{});}
   });
   document.addEventListener('change',async event=>{
     if(event.target.id==='steam-auto-refresh'){autoRefresh=event.target.checked;return;}
     if(event.target.id==='steam-filter'){state.steam=event.target.value;render();}
     if(event.target.id!=='steam-file')return;
-    const file=event.target.files[0],selfReported=!!$('#steam-self-reported')?.checked;if(!file)return;
-    try{if(file.size>16000000)throw Error('Use a JSON export smaller than 16 MB.');candidate=M.importSnapshot(JSON.parse(await file.text()),{treatTrackedAsOwned:selfReported});message='Review the import counts before applying.';}
-    catch(error){candidate=null;message=error instanceof SyntaxError?'This is not a valid JSON export.':error.message;}
+    const file=event.target.files[0],selfReported=!!$('#steam-self-reported')?.checked;
+    invalidateImport();const version=importVersion,account=epoch;draw();if(!file)return;
+    try{if(file.size>16000000)throw Error('Use a JSON export smaller than 16 MB.');const raw=await file.text();
+      if(version!==importVersion||account!==epoch)return;
+      candidate=M.importSnapshot(JSON.parse(raw),{treatTrackedAsOwned:selfReported});message='Review the import counts before applying.';}
+    catch(error){if(version!==importVersion||account!==epoch)return;invalidateImport();message=error instanceof SyntaxError?'This is not a valid JSON export.':error.message;}
     draw();
   });
   dialog.addEventListener('cancel',event=>{event.preventDefault();close();});
