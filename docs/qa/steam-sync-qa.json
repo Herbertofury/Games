@@ -29,7 +29,11 @@
     "Mobile dialog fits viewport",
     "Snapshot survives reload",
     "Session is not invented after reload",
+    "Slower old import cannot replace newer preview",
+    "Slower old error cannot clear newer preview",
+    "Closed import cannot restore preview",
     "Disconnect clears only Steam data",
+    "Disconnected import cannot restore preview",
     "No JavaScript runtime errors"
   ],
   "errors": [],

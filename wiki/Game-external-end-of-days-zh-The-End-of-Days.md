@@ -1,6 +1,6 @@
 # The End of Days
 
-![The End of Days official artwork](https://media.moddb.com/images/mods/1/12/11840/TEOD_logo.png)
+![The End of Days official artwork](https://media.moddb.com/images/mods/1/12/11840/GLA_-_Fortress.jpg)
 
 **[Open official page](https://www.moddb.com/mods/the-end-of-days)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Aend-of-days-zh)** · [Real-time strategy](Real-Time-Strategy)
 
@@ -40,7 +40,7 @@ The interactive library plays compatible videos in-page. GitHub wiki links open 
 
 > Credited community gameplay, not an official trailer.
 
-![The End of Days creator artwork](https://media.moddb.com/cache/images/mods/1/12/11840/crop_120x90/GLA_-_Fortress.jpg)
+![The End of Days creator artwork](https://media.moddb.com/images/mods/1/12/11840/GLA_-_Fortress.jpg)
 
 ![The End of Days creator artwork](https://media.moddb.com/cache/images/mods/1/12/11840/crop_120x90/GLA-Chem_Lab.jpg)
 

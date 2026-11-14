@@ -1,6 +1,6 @@
 # Quake Brutalist Jam III
 
-![Quake Brutalist Jam III official artwork](https://media.moddb.com/images/mods/1/71/70326/qbj3logo_1024x768.png)
+![Quake Brutalist Jam III official artwork](https://media.moddb.com/images/mods/1/71/70326/qbj3_hcm.jpg)
 
 **[Open official page](https://www.moddb.com/mods/quake-brutalist-jam-iii)** · **[Watch trailers and open gallery](https://herbertofury.github.io/Games/#game=external%3Aqbj3)** · [Boomer shooters](Boomer-Shooters)
 

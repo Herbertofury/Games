@@ -206,7 +206,7 @@
     "steam:334940"
   ],
   "reviewRefreshGaps": [],
-  "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
+  "datasetHash": "88eec2bff7c178dae87ed890c35b83001f0e9241f9a8d61acfaa192f763ba794",
   "claimLimits": [
     "Not an exhaustive inventory of all platformers.",
     "Not a hands-on playtest or completion claim.",

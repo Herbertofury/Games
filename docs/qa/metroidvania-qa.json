@@ -1,6 +1,6 @@
 {
-  "sourceRevision": "c0f56bca11802c8c15bd7d6d9f3bab33ea5c7037",
-  "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
+  "sourceRevision": "d6601355502047a59fd0e8b443e9beede803d7ed",
+  "datasetHash": "88eec2bff7c178dae87ed890c35b83001f0e9241f9a8d61acfaa192f763ba794",
   "records": 430,
   "checks": [
     "Boomer shooters complete visible count",
@@ -10234,31 +10234,31 @@
   ],
   "playback": [
     {
-      "time": 1.025792,
+      "time": 1.022708,
       "width": 1280,
-      "src": "blob:http://127.0.0.1:8787/824b4a7b-bc71-4c6c-9f7b-fb76cafb0f74",
+      "src": "blob:http://127.0.0.1:8787/9357fc48-0c3d-42d1-8a2a-abca62e411b6",
       "name": "Hollow Knight"
     },
     {
-      "time": 1.033856,
+      "time": 1.052105,
       "width": 1280,
-      "src": "blob:http://127.0.0.1:8787/6d5f6d2b-0f9e-483a-b8b9-9be8143c1c60",
+      "src": "blob:http://127.0.0.1:8787/abff09ea-36bd-4aec-b4d4-704779d3ccda",
       "name": "Moadra"
     },
     {
-      "time": 1.020489,
+      "time": 1.018951,
       "width": 1280,
-      "src": "blob:http://127.0.0.1:8787/e81f9b0d-fe61-4b2d-a9f0-7aea8253ce33",
+      "src": "blob:http://127.0.0.1:8787/54b9a4ca-a586-4f12-acb0-954d2e1c9445",
       "name": "Nine Sols"
     }
   ],
   "errors": [],
   "renderMs": [
-    302.79999999981374,
-    232.4000000001397,
-    237.39999999990687,
-    240,
-    250
+    217.30000000004657,
+    167.09999999997672,
+    149.40000000002328,
+    147.69999999995343,
+    154.30000000004657
   ],
   "passed": true
 }

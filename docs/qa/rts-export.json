@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-26T16:51:05.267Z",
+  "exportedAt": "2026-11-14T07:33:55.119Z",
   "filters": {
     "partyPlayers": "",
     "partyMode": "",
@@ -9125,7 +9125,7 @@
       ],
       "screenshots": [
         {
-          "src": "https://media.moddb.com/cache/images/mods/1/12/11840/crop_120x90/GLA_-_Fortress.jpg",
+          "src": "https://media.moddb.com/images/mods/1/12/11840/GLA_-_Fortress.jpg",
           "thumbnail": "https://media.moddb.com/cache/images/mods/1/12/11840/crop_120x90/GLA_-_Fortress.jpg",
           "sourceUrl": "https://www.moddb.com/mods/the-end-of-days",
           "alt": "The End of Days creator artwork",
@@ -9171,7 +9171,7 @@
       ],
       "verification": "verified",
       "verifiedAt": "2026-10-23T08:04:56.549239+00:00",
-      "image": "https://media.moddb.com/images/mods/1/12/11840/TEOD_logo.png",
+      "image": "https://media.moddb.com/images/mods/1/12/11840/GLA_-_Fortress.jpg",
       "mediaCheckedAt": "2026-10-23T08:04:56.549239+00:00",
       "mediaEvidence": [
         {

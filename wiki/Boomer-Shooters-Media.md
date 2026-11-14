@@ -1906,7 +1906,7 @@ One of the richer Quake-world discoveries. The released episodes are substantial
 </td>
 <td width="33%" valign="top">
 
-[![Quake Brutalist Jam III](https://media.moddb.com/images/mods/1/71/70326/qbj3logo_1024x768.png)](Game-external-qbj3-Quake-Brutalist-Jam-III)
+[![Quake Brutalist Jam III](https://media.moddb.com/images/mods/1/71/70326/qbj3_hcm.jpg)](Game-external-qbj3-Quake-Brutalist-Jam-III)
 
 **[Quake Brutalist Jam III](Game-external-qbj3-Quake-Brutalist-Jam-III)**
 

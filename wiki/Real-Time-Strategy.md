@@ -85,7 +85,7 @@ Keep the Zero Hour foundation and turn the faction identities, challenge and pow
 </td>
 <td width="33%" valign="top">
 
-[![The End of Days](https://media.moddb.com/images/mods/1/12/11840/TEOD_logo.png)](Game-external-end-of-days-zh-The-End-of-Days)
+[![The End of Days](https://media.moddb.com/images/mods/1/12/11840/GLA_-_Fortress.jpg)](Game-external-end-of-days-zh-The-End-of-Days)
 
 **[The End of Days](Game-external-end-of-days-zh-The-End-of-Days)**
 

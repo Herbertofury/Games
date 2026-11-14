@@ -76,7 +76,7 @@ Brings the first C&C and Red Alert armies together with a substantial single-pla
 
 ## [The End of Days](Game-external-end-of-days-zh-The-End-of-Days)
 
-![The End of Days](https://media.moddb.com/images/mods/1/12/11840/TEOD_logo.png)
+![The End of Days](https://media.moddb.com/images/mods/1/12/11840/GLA_-_Fortress.jpg)
 
 A modern-military reinterpretation of Zero Hour with Russia and expanded faction specializations. More grounded equipment than the original's most fantastical weapons.
 

@@ -29,7 +29,7 @@
     "verifiedCount": 1853,
     "unresolvedCount": 0,
     "mediaCount": 28378,
-    "datasetHash": "b2571a5892d17b23994477080f616e64d9177ae78344e99bdfe9407b87063cbb",
+    "datasetHash": "88eec2bff7c178dae87ed890c35b83001f0e9241f9a8d61acfaa192f763ba794",
     "candidateUnresolved": [
       {
         "candidate": "Alice in Abyss",
@@ -334661,7 +334661,7 @@
       "reviewCount": 0,
       "reviewLabel": null,
       "externalRating": null,
-      "image": "https://media.moddb.com/images/mods/1/71/70326/qbj3logo_1024x768.png",
+      "image": "https://media.moddb.com/images/mods/1/71/70326/qbj3_hcm.jpg",
       "screenshots": [
         {
           "src": "https://media.moddb.com/images/mods/1/71/70326/qbj3_hcm.jpg",
@@ -334715,7 +334715,7 @@
           "youtube": "vquTPCYbOxk",
           "sourceUrl": "https://www.moddb.com/mods/quake-brutalist-jam-iii",
           "watchUrl": "https://www.youtube.com/watch?v=vquTPCYbOxk",
-          "poster": "https://media.moddb.com/images/mods/1/71/70326/qbj3logo_1024x768.png"
+          "poster": "https://media.moddb.com/images/mods/1/71/70326/qbj3_hcm.jpg"
         }
       ],
       "storefronts": [
@@ -444800,7 +444800,7 @@
       ],
       "screenshots": [
         {
-          "src": "https://media.moddb.com/cache/images/mods/1/12/11840/crop_120x90/GLA_-_Fortress.jpg",
+          "src": "https://media.moddb.com/images/mods/1/12/11840/GLA_-_Fortress.jpg",
           "thumbnail": "https://media.moddb.com/cache/images/mods/1/12/11840/crop_120x90/GLA_-_Fortress.jpg",
           "sourceUrl": "https://www.moddb.com/mods/the-end-of-days",
           "alt": "The End of Days creator artwork",
@@ -444846,7 +444846,7 @@
       ],
       "verification": "verified",
       "verifiedAt": "2026-10-23T08:04:56.549239+00:00",
-      "image": "https://media.moddb.com/images/mods/1/12/11840/TEOD_logo.png",
+      "image": "https://media.moddb.com/images/mods/1/12/11840/GLA_-_Fortress.jpg",
       "mediaCheckedAt": "2026-10-23T08:04:56.549239+00:00",
       "mediaEvidence": [
         {
