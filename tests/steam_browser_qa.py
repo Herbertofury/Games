@@ -57,13 +57,24 @@ try:
   page.wait_for_function("JSON.parse(localStorage.getItem('games.steam.v1')||'null')?.source==='steam' && JSON.parse(localStorage.getItem('games.steam.v1')).owned.items.length===3",timeout=20000)
   check('Popup, verified callback and PKCE exchange work with mocked Steam','Signed in through Steam' in page.locator('.steam-account-state').inner_text())
   check('Automatic sync has a visible opt-out',page.locator('#steam-auto-refresh').is_checked())
+  # Persisted membership is written before the completion UI; wait for the
+  # initial request's actual settled state before advancing the test clock.
+  page.wait_for_function("!document.querySelector('[data-steam-action=sync]').disabled")
+  page.bring_to_front()
+  page.wait_for_function("document.visibilityState==='visible'")
   page.locator('#steam-auto-refresh').uncheck()
   automatic_before=len(sync_requests)
   page.clock.fast_forward(310000)
   page.evaluate("window.dispatchEvent(new Event('focus'))")
   check('Disabled automatic sync makes no requests',len(sync_requests)==automatic_before)
   page.locator('#steam-auto-refresh').check()
-  page.evaluate("window.dispatchEvent(new Event('focus'))")
+  # A synthetic focus event cannot foreground a page left behind the login
+  # popup. Verify the real visibility prerequisite, then observe the request
+  # and its response rather than mistaking an already-idle button for success.
+  report['refreshPrerequisites']=page.evaluate("({visible:document.visibilityState,online:navigator.onLine,enabled:document.querySelector('#steam-auto-refresh').checked,idle:!document.querySelector('[data-steam-action=sync]').disabled})")
+  with page.expect_response(lambda r:r.url=='http://127.0.0.1:8792/sync' and r.request.method=='POST') as refresh:
+   page.evaluate("window.dispatchEvent(new Event('focus'))")
+  check('Return refresh receives a successful backend response',refresh.value.status==200)
   page.wait_for_function("!document.querySelector('[data-steam-action=sync]').disabled")
   check(f'Returning to Games refreshes an enabled session ({len(sync_requests)} requests; expected {automatic_before+1})',len(sync_requests)==automatic_before+1)
   page.evaluate("for(let i=0;i<20;i++)window.dispatchEvent(new Event('focus'))")

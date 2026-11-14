@@ -41,7 +41,10 @@ jobs:
           fi
       - name: Real UI with an explicitly mocked Steam provider
         run: |
-          python tests/steam_browser_qa.py
+          for attempt in 1 2 3; do
+            python tests/steam_browser_qa.py
+            cp qa/steam-sync-qa.json "qa/steam-sync-qa-$attempt.json"
+          done
           python tests/steam_widget_qa.py
       - name: Record mock-only authentication diagnostics on failure
         if: failure()
