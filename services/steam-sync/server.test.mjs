@@ -101,3 +101,11 @@ test('JSON request byte limit allows exact boundary and counts UTF-8 bytes',asyn
   assert.equal(r.status,status);
  }
 });
+
+test('Bounded JSON decoding preserves UTF-8 BOM handling across chunks',async()=>{
+ const f=fixture();
+ const chunks=[new Uint8Array([0xef]),new Uint8Array([0xbb]),new Uint8Array([0xbf]),new TextEncoder().encode('{"code":"invalid","verifier":"invalid"}')];
+ const stream=new ReadableStream({pull(controller){if(chunks.length)controller.enqueue(chunks.shift());else controller.close();}});
+ const r=await f.handle(new Request(BASE+'/auth/exchange',{method:'POST',headers:{Origin:ORIGIN,'Content-Type':'application/json'},body:stream,duplex:'half'}));
+ assert.equal(r.status,400);assert.equal((await r.json()).error,'invalid_exchange');
+});

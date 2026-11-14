@@ -16,3 +16,8 @@ unchanged. Tests use only authored requests and a mocked Steam provider.
 This is not a real Steam sign-in or deployed-service acceptance claim. The
 upstream producer may allocate a large chunk before handing it to the handler;
 this boundary limits retained data, not allocations inside external producers.
+
+UTF-8 compatibility: the bounded buffer is decoded with `TextDecoder`, matching
+`Request.text()` replacement decoding and optional BOM removal. A regression
+splits the BOM across three chunks and verifies the JSON reaches normal field
+validation rather than being incorrectly rejected as malformed JSON.
