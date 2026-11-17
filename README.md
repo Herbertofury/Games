@@ -48,3 +48,7 @@ Personal data stays in your browser under the existing `games.library.v1` identi
 ## Competitive landscape and related approaches
 
 See the [source-led comparison and evaluation plan](docs/competitive-landscape.md). Documented capabilities, research proposals and measured results are kept separate.
+
+## Athena design research export
+
+[Source-scoped Steam discovery export](docs/DESIGN-EXPORT.md) provides rating-label, genre, feature and sample-size filters, with review provenance, explicit freshness and optional evidence-backed design-study joins. It reuses the canonical snapshot without account access or duplicating the catalog.
